@@ -2035,7 +2035,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Mullet** Ngóu-hṳ̂ ... ... ... 𩵱魚
 - **Red-fish** Âng-tsô ... ... ... 紅鰽
 - **Blackfish** Ou-hṳ̂ ... ... ... 烏魚
-- **Shad** Chhî-khak ... ... ... ~~莿~~(刺)殼
+- **Shad** Chhî-khak ... ... ... ~~莿~~(刺)~~壳~~(殼)
 - **Cuttle-fish** Bák-táu ... ... ... ~~木斗~~(墨斗)
 - **Shark** Sua-hṳ̂ ... ... ... ~~沙魚~~(鯊魚)
 - **Chinese whitebait** Kang-hṳ̂ ... ... ... 江魚
@@ -2404,8 +2404,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **絀** Tsuáh ... ... ... Better.
 - **全愈** Tshuân-zú ... ... ... Quite recovered.
 - **斷氣** Tñg-khùi ... ... ... To expire.
-- **頭殼痛** Thâu-khak thiàⁿ ... ... ... Headache.
-- **頭殼眩** Thâu-khak hîn ... ... ... Headache.
+- **頭~~壳~~(殼)痛** Thâu-khak thiàⁿ ... ... ... Headache.
+- **頭~~壳~~(殼)眩** Thâu-khak hîn ... ... ... Headache.
 - **人熱** Nâng zuáh ... ... ... Fever.
 - **發燒** Huat-sie ... ... ... Fever.
 - **畏~~冷~~(凊)** Uì-chhìn ... ... ... Ague.
@@ -2508,7 +2508,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **食藥** Chiáh-iéh ... ... ... To take medicine.
 - **解藥** Kói-iéh ... ... ... To act as an antidote.
 - **~~壹~~(一)帖** Chék-thiap ... ... ... A dose, (as of Chinese medicine.)
-- **~~壹~~(一)日食三餐** Chék-jít chiáh-saⁿ-tǹg ... ... ... To be taken three times a day.
+- **~~壹~~(一)日食三~~餐~~(頓)** Chék-jít chiáh-saⁿ-tǹg ... ... ... To be taken three times a day.
 - **空心肚食** Khang-sim-tóu chiáh ... ... ... To be taken when the stomach is empty.
 - **未食先食** Būe-chiáh soiⁿ-chiáh ... ... ... To be taken before meals.
 
@@ -2522,12 +2522,12 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 - **布疋** Pòu-phit ... ... ... Piece-goods.
 - **布路** Pòu-lōu ... ... ... Piece-goods.
-- **呢** Nîⁿ ... ... ... Woollen cloth.
-- **烏呢** Ou-nîⁿ ... ... ... Woollen cloth, black.
-- **白呢** Péh-nîⁿ ... ... ... Flannel.
-- **水呢** Tsúi-nîⁿ ... ... ... Tweeds.
+- **~~𦮴~~(呢)** Nîⁿ ... ... ... Woollen cloth.
+- **烏~~𦮴~~(呢)** Ou-nîⁿ ... ... ... Woollen cloth, black.
+- **白~~𦮴~~(呢)** Péh-nîⁿ ... ... ... Flannel.
+- **水~~𦮴~~(呢)** Tsúi-nîⁿ ... ... ... Tweeds.
 - **絨** Zông ... ... ... Velvet.
-- **斜紋** Siâ-bûn ... ... ... Calico.
+- **斜~~文~~(紋)** Siâ-bûn ... ... ... Calico.
 - **朱布** Tsu-pòu ... ... ... Gray shirting.
 - **番布** Huan-pòu ... ... ... Gray shirting.
 - **白布** Péh-pòu ... ... ... White cloth.
@@ -2537,7 +2537,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **熱布** Zuáh-pòu ... ... ... Grass cloth.
 - **樹皮** Chhiū-phûe ... ... ... Holland.
 - **花布** Hue-pòu ... ... ... Chintz.
-- **麻布** Mûaⁿ-pòu ... ... ... Sack-cloth.
+- **~~蔴~~(麻)布** Mûaⁿ-pòu ... ... ... Sack-cloth.
 - **絲綢綾緞** Si-tiû lîn-tn̄g ... ... ... Silk-goods.
 - **絲** Si ... ... ... Silk.
 - **緞** Tn̄g ... ... ... Satin.
@@ -2546,7 +2546,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **羽毛** Ú-môⁿ ... ... ... Camlet.
 - **羽綾** Ú-lêng ... ... ... Lasting.
 - **染~~個~~(个)布** Níⁿ--kâi-pòu ... ... ... Dyed cloth.
-- **綑條** Kún-tiôu ... ... ... Tape, for dress.
+- **綑~~条~~(條)** Kún-tiôu ... ... ... Tape, for dress.
 - **帶** Tùa ... ... ... „ tying.
 - **~~壹~~(一)疋** Chék-phit ... ... ... A piece of cloth.
 - **~~壹~~(一)枝** Chék-ki ... ... ... A roll of cloth.
@@ -2572,8 +2572,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **硝** Siou ... ... ... Saltpetre.
 - **鹽硝** Iâm-siou ... ... ... Saltpetre.
 - **硫磺** Liû-n̂g ... ... ... Sulphur, brimstone.
-- **白礬** Péh-huân ... ... ... Alum.
-- **生礬** Chheⁿ-huân ... ... ... „ green.
+- **白矾** Péh-huân ... ... ... Alum.
+- **生矾** Chheⁿ-huân ... ... ... „ green.
 - **金沙** Kim-sua ... ... ... Gold-dust
 - **鐵碎** Thih-tshùi ... ... ... Iron-filings.
 - **鐵棍** Thih-kùn ... ... ... Iron-bar.
@@ -2584,7 +2584,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 - **紙花** Tsúa-hue ... ... ... Artificial flowers.
 - **竹器** Tek-khì ... ... ... Bamboo ware.
-- **荖枳** Láu-chí ... ... ... Betel nuts.
+- **荖~~枳~~(子)** Láu-chí ... ... ... Betel nuts.
 - **荖葉** Láu-hiéh ... ... ... „ leaves.
 - **燕** Ièn ... ... ... Birdnests.
 - **燕窩** Ieǹ-o ... ... ... Birdnests.
@@ -2593,7 +2593,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **樟柴** Chieⁿ-tshâ ... ... ... Camphor.
 - **帆布** Phâng-pòu ... ... ... Canvas.
 - **桂皮** Kùi-phûe ... ... ... Cassia.
-- **呂宋薰** Lṳ̃-sòng-hun ... ... ... Cigar, Manila.
+- **呂宋~~煙~~(薰)** Lṳ̃-sòng-hun ... ... ... Cigar, Manila.
 - **硃砂** Tsu-sa ... ... ... Cinnabar.
 - **棕** Tsang ... ... ... Coir.
 - **物食** Muéh-chiáh ... ... ... Confections.
@@ -2601,19 +2601,19 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **珊瑚** San-hû ... ... ... Coral.
 - **棉** Mîⁿ ... ... ... Cotton.
 - **牛黃** Gû-n̂g ... ... ... Cow bezoar.
-- **𦈢** Hûi ... ... ... China.
-- **碰鰾** Phòng-phiẽ ... ... ... Crackers.
+- **~~𦈢~~(缶)** Hûi ... ... ... China.
+- **~~火炮~~(碰鰾)** Phòng-phiẽ ... ... ... Crackers.
 - **鹿茸** Ték-zông ... ... ... Deer horn.
 - **色料** Sek-liōu ... ... ... Dye.
-- **烏木** Ou-bák ... ... ... Ebony.
+- **~~烏墨~~(烏木)** Ou-bák ... ... ... Ebony.
 - **象牙** Chhiẽⁿ-gê ... ... ... Elephant's teeth.
 - **毛扇** Môⁿ-sìⁿ ... ... ... Fans, feather.
-- **鱟殼扇** Hāu-khak-sìⁿ ... ... ... Fans, cloth.
+- **鱟~~壳~~(殼)扇** Hāu-khak-sìⁿ ... ... ... Fans, cloth.
 - **葵扇** Kûe-sìⁿ ... ... ... Fans, palm-leaf.
-- **~~戲弄物~~(佚佗物)** Thit-thô-muéh ... ... ... Fancy articles.
+- **~~玩物~~(佚佗物)** Thit-thô-muéh ... ... ... Fancy articles.
 - **雞毛筅** Koi-môⁿ-tshóiⁿ ... ... ... Feather-duster.
 - **魚肚** Hṳ̂-tõu ... ... ... Fishmaws.
-- **魚鰾** Hṳ̂-phiẽ ... ... ... Fishmaws.
+- **魚~~膘~~(鰾)** Hṳ̂-phiẽ ... ... ... Fishmaws.
 - **甘蜜** Kam-bít ... ... ... Gambier.
 - **人參** Jîn-siam ... ... ... Gin-seng.
 - **高麗** Kau-lî ... ... ... Gin-seng.
@@ -2621,13 +2621,13 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **玻璃器** Po-lî-khì ... ... ... Glass ware.
 - **膠** Ka ... ... ... Glue.
 - **樹泥** Chhiū-nîⁿ ... ... ... Gutta percha.
-- **石膏** Chiéh-ko ... ... ... Gypsum.
-- **麻皮** Mûaⁿ-phûe ... ... ... Hemp.
+- **石~~羔~~(膏)** Chiéh-ko ... ... ... Gypsum.
+- **~~蔴~~(麻)皮** Mûaⁿ-phûe ... ... ... Hemp.
 - **牛皮** Gû-phûe ... ... ... Hides, buffalo.
 - **蜜** Bít ... ... ... Honey.
 - **牛角** Gû-kak ... ... ... Horns, buffalo.
-- **青** Chheⁿ ... ... ... Indigo, plants.
-- **靛** Tōiⁿ ... ... ... „ liquid.
+- **~~靛~~(青)** Chheⁿ ... ... ... Indigo, plants.
+- **~~靛水~~(靛)** Tōiⁿ ... ... ... „ liquid.
 - **魚膠** Hṳ̂-ka ... ... ... Isinglass.
 - **牙** Gê ... ... ... Ivory.
 - **香** Hieⁿ ... ... ... Joss-sticks.
@@ -2635,22 +2635,22 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **燈籠** Teng-nâng ... ... ... Lantern, paper.
 - **皮** Phûe ... ... ... Leather.
 - **甘草** Kam-tsháu ... ... ... Liquorice.
-- **蠔殼鏡** Ô-khak-kiàⁿ ... ... ... Mother-of-pearl.
+- **蠔~~壳~~(殼)鏡** Ô-khak-kiàⁿ ... ... ... Mother-of-pearl.
 - **~~荳~~(豆)油** Tāu-iû ... ... ... Oil, pea.
 - **油紙** Iû-tsúa ... ... ... Oil-paper.
 - **珠** Tsu ... ... ... Pearl.
 - **蠔珠** Ô-tsu ... ... ... Pearl.
 - **枋** Pang ... ... ... Planks.
-- **鎏銀器** Liū-ngṳ̂n-khì ... ... ... Plated ware, silver.
-- **鎏金器** Liū-kim-khì ... ... ... „ gold.
+- **~~鑲~~(鎏)銀器** Liū-ngṳ̂n-khì ... ... ... Plated ware, silver.
+- **~~鑲~~(鎏)金器** Liū-kim-khì ... ... ... „ gold.
 - **藤** Tîn ... ... ... Rattan.
 - **大黃** Tūa-n̂g ... ... ... Rhubarb.
 - **火箭** Húe-súh ... ... ... Rockets.
 - **香柴** Hieⁿ-tshâ ... ... ... Sandal-wood.
 - **燕菜** Ièn-tshài ... ... ... Seaweeds.
-- **魚翼** Hṳ̂-sít ... ... ... Shark-fins.
+- **魚~~翅~~(翼)** Hṳ̂-sít ... ... ... Shark-fins.
 - **螺** Lô ... ... ... Shells.
-- **鼻薰** Phīⁿ-hun ... ... ... Snuff.
+- **鼻~~烟~~(薰)** Phīⁿ-hun ... ... ... Snuff.
 - **紙煤** Tsúa-bûe ... ... ... Spill.
 - **白糖** Péh-thn̂g ... ... ... Sugar, white.
 - **赤糖** Chhiah-thn̂g ... ... ... „ brown.
@@ -2660,7 +2660,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **杉** Sam ... ... ... „ light.
 - **皮箱** Phûe-sieⁿ ... ... ... Trunks, leather.
 - **菜脯** Tshài-póu ... ... ... Turnips, salted.
-- **索~~仔~~(囝)** Soh-kiáⁿ ... ... ... Twine.
+- **索~~子~~(囝)** Soh-kiáⁿ ... ... ... Twine.
 - **銀硃** Ngṳ̂n-tsu ... ... ... Vermilion.
 - **黃蜡** N̂g-láh ... ... ... Wax, bees, yellow.
 - **白蜡** Péh-láh ... ... ... „ insect, white.
@@ -3906,7 +3906,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Boy** A-nôuⁿ; nôuⁿ-kiáⁿ ... ... ... ~~亞奴~~(阿孥)　孥~~仔~~(囝)
 - **Bracelet** Chhiú-huân ... ... ... 手環
 - **Braces** Khòu-tiòu ... ... ... 褲吊
-- **Brain** Thâu-khak-tshúe ... ... ... 頭殼髓
+- **Brain** Thâu-khak-tshúe ... ... ... 頭~~壳~~(殼)髓
 - **Bran** Khng ... ... ... 糠
 - **Branch, large** Chhiū-pà ... ... ... 樹欛
 - **Branch, small** Chhiū-ki ... ... ... 樹枝
@@ -4088,10 +4088,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Child** A-nôuⁿ; kiáⁿ ... ... ... ~~亞奴~~(阿孥)　~~仔~~(囝)
 - **Childish, manner** Nôuⁿ-kiáⁿ-khuán ... ... ... 孥~~仔~~(囝)款
 - **Childless** Bô-kiáⁿ bô-ji ... ... ... 無~~仔~~(囝)無兒
-- **Chimney** In-tâng; húe-hun-tâng ... ... ... 煙筒　火薰筒
+- **Chimney** In-tâng; húe-hun-tâng ... ... ... 煙筒　火~~煙~~(薰)筒
 - **Chin** Ẽ-hâi ... ... ... ~~下髯~~(下頦)
 - **China, country** Tn̂g-suaⁿ; Tong-kok ... ... ... 唐山　中國
-- **„ ware** Hûi ... ... ... 𦈢
+- **„ ware** Hûi ... ... ... ~~𦈢~~(缶)
 - **Chink** Phāng ... ... ... 縫
 - **Chisel** Tshák-kiáⁿ ... ... ... 鑿~~仔~~(囝)
 - **„ for cutting iron** Tsãm; thih-tsãm ... ... ... 鏨　鐵鏨
@@ -4270,7 +4270,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Crime** Tsũe ... ... ... 罪
 - **Crimson** Tūa-âng ... ... ... 大紅
 - **Cripple** Kuái-kha ... ... ... 拐~~脚~~(骹)
-- **Crockery** Hûi ... ... ... 𦈢
+- **Crockery** Hûi ... ... ... ~~𦈢~~(缶)
 - **Crocodile** Bā-kiáⁿ; ngák-hṳ̂ ... ... ... 峇~~仔~~(囝)　鱷魚
 - **Crooked** Uan ... ... ... 冤
 - **Crop, of field** Tang; niⁿ-tang ... ... ... 冬　年冬
@@ -4391,7 +4391,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Drizzle** Hõu-kiáⁿ ... ... ... 雨~~仔~~(囝)
 - **Drop, a** Chék-tiám ... ... ... ~~壹~~(一)點
 - **„ as liquid** Tih ... ... ... 滴
-- **Dross, of opium** Hun-sái ... ... ... 薰屎
+- **Dross, of opium** Hun-sái ... ... ... ~~煙~~(薰)屎
 - **„ of coal** Thôu-thùaⁿ-sái ... ... ... 塗炭屎
 - **Drought** Thiⁿ-sí-ũaⁿ ... ... ... 天時旱
 - **Drown** Kek-sí ... ... ... 激死
@@ -4523,7 +4523,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Filial** Kiâⁿ-hàu; ũ-hàu ... ... ... 行孝　有孝
 - **Fill, as water** Tshō ... ... ... 裝
 - **Filthy** Nah-sap; chhi-gî; o-tso ... ... ... ~~污穢~~(垃圾)  生疑  污糟
-- **Fins** Hṳ̂-sít ... ... ... 魚翼
+- **Fins** Hṳ̂-sít ... ... ... 魚~~翅~~(翼)
 - **Firm** Ún ... ... ... 穩
 - **„ a** Hâng ... ... ... 行
 - **Fist** Khûn-thâu ... ... ... 拳頭
@@ -4627,7 +4627,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Hatch, eggs** Pū-koi-kiáⁿ ... ... ... 孵雞~~仔~~(囝)
 - **Hate** Lóu ... ... ... ~~恶~~(惱)
 - **Hawkers, of needle and thread &c.** Iê-kóu ... ... ... 搖鼓
-- **Head** Thâu; thâu-khak ... ... ... 頭　頭殼
+- **Head** Thâu; thâu-khak ... ... ... 頭　頭~~壳~~(殼)
 - **Heap, a** Chék-tun ... ... ... ~~壹~~(一)堆
 - **„ to** Tun ... ... ... 堆
 - **Hear** Thiaⁿ; thiaⁿ-kìⁿ ... ... ... 聽　聽見
@@ -4641,7 +4641,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **History** Kóu-sṳ̄; kóu ... ... ... 古事　古
 - **Hive** Phang-siū ... ... ... 蜂岫
 - **Hole** Khang ... ... ... 空
-- **Hollow** Khang-khak ... ... ... 空殼
+- **Hollow** Khang-khak ... ... ... 空~~壳~~(殼)
 - **Home** Tshù; lãi ... ... ... 厝　內
 - **Honest** Chiàⁿ-keng; tong-tít; láu-sít ... ... ... 正經　忠直　老實
 - **Hood** Soh-bō ... ... ... 雪帽
@@ -4658,7 +4658,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Hungry** Tóu khùn; iou ... ... ... 肚困　枵
 - **Hunt** Phah-láh ... ... ... ~~打~~(拍)獵
 - **Hurt** Sieⁿ; sieⁿ--tiéh ... ... ... 傷　傷着
-- **Husk** Khak ... ... ... 殼
+- **Husk** Khak ... ... ... ~~壳~~(殼)
 - **Husk, as of cocoa-nut** Sui ... ... ... 榱
 - **Hut** Tshù-kiáⁿ ... ... ... 厝~~仔~~(囝)
 - **Idle** Tũaⁿ ... ... ... 惰
@@ -4720,7 +4720,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Junior** Sòi ... ... ... 細
 - **Just** Kong-tãu; kuaⁿ-chìaⁿ ... ... ... 公道　官正
 - **Keep** Khn̄g ... ... ... ~~藏~~(囥)
-- **Kernel** Hút; jîn; chí ... ... ... 核  仁  枳
+- **Kernel** Hút; jîn; chí ... ... ... 核  仁  ~~枳~~(子)
 - **Key** Só-sî ... ... ... 鎖匙
 - **Kick** That ... ... ... 撻
 - **Kidnap** Thau-kiou ... ... ... 偷kiou
@@ -4969,7 +4969,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Pincers, for drawing hair** Ah-nih; nih-kiáⁿ ... ... ... 鴨攝　攝~~仔~~(囝)
 - **Pinch** Liàm ... ... ... 捻
 - **Pipe** Tâng ... ... ... 筒
-- **„ for smoking** Hun-tâng ... ... ... 薰筒
+- **„ for smoking** Hun-tâng ... ... ... ~~煙~~(薰)筒
 - **Pit** Kheⁿ; khut ... ... ... 坑　窟
 - **Pith** Sim ... ... ... 心
 - **Pity** Khó-sieh; khó-thiàⁿ ... ... ... 可惜　可痛
@@ -5226,7 +5226,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Season** Sî; thiⁿ-sí ... ... ... 時　天時
 - **Secret** Àm-chẽⁿ ... ... ... 暗靜
 - **Sedan** Kiē ... ... ... 轎
-- **Seed, of fruit** Chí ... ... ... 枳
+- **Seed, of fruit** Chí ... ... ... ~~枳~~(子)
 - **„ for sowing** Chéng ... ... ... 種
 - **Seize** Khíⁿ ... ... ... 捉
 - **Seldom** Hán-tit ... ... ... 罕得
@@ -5263,10 +5263,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Shave, the head** Thì-thâu ... ... ... 剃頭
 - **„ the beard** Khoi-chhiu ... ... ... 剃鬚
 - **Shavings, of wood** Tshâ-phùe-thiu ... ... ... 柴杮抽
-- **Sheath, of a sword** To-khak ... ... ... 刀殼
+- **Sheath, of a sword** To-khak ... ... ... 刀~~壳~~(殼)
 - **Shed, tears** Lâu-mák-tsap ... ... ... 流目汁
 - **„ blood** Lâu-hueh ... ... ... 流血
-- **Shell, as of eggs, shell-fish** Khak ... ... ... 殼
+- **Shell, as of eggs, shell-fish** Khak ... ... ... ~~壳~~(殼)
 - **Shelter, to take** Siám ... ... ... 避
 - **Shepherd** Chiéⁿ-iêⁿ--kâi-nâng ... ... ... 掌羊~~個~~(个)儂
 - **Shield** Pâi; tin-pâi ... ... ... 牌　籐牌
@@ -5317,7 +5317,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Skeleton** Kut-thâu ... ... ... 骨頭
 - **Sketch, to** Ūe ... ... ... 畫
 - **Skin** Phûe ... ... ... 皮
-- **Skull** Thâu-khak-uáⁿ ... ... ... 頭殼碗
+- **Skull** Thâu-khak-uáⁿ ... ... ... 頭~~壳~~(殼)碗
 - **Sky** Chheⁿ-thiⁿ; puàⁿ-thiⁿ ... ... ... 青天　半天
 - **Slack** Lēng; sang ... ... ... 鬆
 - **Slanting** Sia ... ... ... 斜
@@ -5341,7 +5341,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ to** Phĩⁿ ... ... ... 鼻
 - **Smile** Ba-bun-chhiè ... ... ... 貓呅笑
 - **Smoke** In ... ... ... 烟
-- **„, to** Chiáh-hun ... ... ... 食薰
+- **„, to** Chiáh-hun ... ... ... 食~~煙~~(薰)
 - **„ opium** Chiáh-a-phièn; kuh-a-phièn ... ... ... 食鴉片
 - **Smooth** Kút ... ... ... 滑
 - **Smother** Hip-sí; hìm-sí; hìm-miⁿ ... ... ... 翕死
@@ -5355,8 +5355,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Snore** Hûaⁿ ... ... ... 喘氣
 - **Snow** Soh ... ... ... 雪
 - **Snowwhite** Soh-soh-péh ... ... ... 雪雪白
-- **Snuff, for the nose** Phīⁿ-hun ... ... ... 鼻薰
-- **„ to** Hngh-phīⁿ-hun; buah-phīⁿ-hun ... ... ... 抹鼻薰
+- **Snuff, for the nose** Phīⁿ-hun ... ... ... 鼻~~煙~~(薰)
+- **„ to** Hngh-phīⁿ-hun; buah-phīⁿ-hun ... ... ... 抹鼻~~煙~~(薰)
 - **Soak** Chìm ... ... ... 浸
 - **Society** Hũe ... ... ... 會
 - **„ to join** Tshap-hũe; jíp-hũe ... ... ... 插會　入會
@@ -5778,7 +5778,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Wild, pertaining to the forest** Suaⁿ ... ... ... 山
 - **Willing** Nguãn; kam-ngũan; hàuⁿ; kam ... ... ... 愿　甘愿　好　甘
 - **Wind, as a clock** Ká ... ... ... 絞
-- **Wing** Sít ... ... ... 翼
+- **Wing** Sít ... ... ... ~~翅~~(翼)
 - **Wink** Nih-mák ... ... ... 攝目
 - **Winnow** Pùa ... ... ... 簸
 - **Wipe, to, with dry cloth** Chhit ... ... ... 拭
