@@ -7,7 +7,7 @@
 合潮人土談其餘倣此可以類推學者舉一
 反三自能玩索有得誠英潮通語之津梁也
 ~~菓~~(果)能潜心熟讀則言語之科應對之才無不
-於此基之矣爰為之誌　潮州林雄成著集
+於此基之矣爰為之誌  潮州林雄成著集
 光緒十二年元月吉日新嘉坡古友軒承印
 
 ------
@@ -184,15 +184,15 @@ Singapore, February, 1886.
 - **~~何時~~(底當時)  ~~的時~~(底時)** Tiang-sî; tî-sî ... ... ... When?
 - **此個** Chí-kâi; chiá ... ... ... This.
 - **彼個** Hṳ́-kâi; hiá ... ... ... That.
-- **~~的一個~~(底一個)　~~的個~~(底個)** Tî-chék-kâi; tî-kâi ... ... ... Which?
-- **~~的個~~(底個)　是乜** Tî-kâi; sĩ-mih ... ... ... What?
+- **~~的一個~~(底一個)  ~~的個~~(底個)** Tî-chék-kâi; tî-kâi ... ... ... Which?
+- **~~的個~~(底個)  是乜** Tî-kâi; sĩ-mih ... ... ... What?
 - **~~何爲~~(怎呢)** Tsò-nîⁿ ... ... ... Why?
 - **因爲** In-ûi ... ... ... Because, on account of.
 - **~~是誰~~(底誰)** Tî-tiâng ... ... ... Who?
 - **~~是誰個~~(底誰个)** Tî-tiâng-kâi ... ... ... Whose?
 - **~~此賤個~~(此些个)** Chí-chùaⁿ-kâi ... ... ... These.
 - **~~彼賤個~~(彼些个)** Hṳ́-chùaⁿ-kâi ... ... ... Those.
-- **~~何爲~~(怎呢)　若** Tsò-nîⁿ, jiéh ... ... ... How?
+- **~~何爲~~(怎呢)  若** Tsò-nîⁿ, jiéh ... ... ... How?
 - **~~如此~~(此樣生)** Chièⁿ-seⁿ ... ... ... Like this, thus.
 - **~~如彼~~(彼樣生)** Hièⁿ-seⁿ ... ... ... Like that.
 - **了** Lióu ... ... ... Then.
@@ -201,12 +201,12 @@ Singapore, February, 1886.
 - **在** Tõ ... ... ... At, in, on, in the act of.
 - **照** Chiè ... ... ... According to.
 - **返轉** Huán-tńg ... ... ... On the contrary, on the other hand.
-- **顛倒** Tin-tò ... ... ... On the contrary, on the other hand.
+- **~~顚~~(顛)倒** Tin-tò ... ... ... On the contrary, on the other hand.
 - **共** Kāng ... ... ... And.
 - **~~共~~(佮)** Kah ... ... ... And.
 - **是** Sĩ ... ... ... But.
 - **亦** Iā ... ... ... Also.
-- **從　在** Tshông; tõ ... ... ... From.
+- **從  在** Tshông; tõ ... ... ... From.
 - **到** Kàu ... ... ... To.
 - **~~豈~~(較)** Khah ... ... ... Too.
 - **約量** Iak-liãng ... ... ... About.
@@ -271,25 +271,25 @@ Singapore, February, 1886.
 - **Add** Thiⁿ ... ... ... 添
 - **Admit, (as a fault.)** Jīn ... ... ... 認
 - **Answer** Ìn ... ... ... 應
-- **Argue** Poh; à ... ... ... 駁　~~辯~~(詏)
+- **Argue** Poh; à ... ... ... 駁  ~~辯~~(詏)
 - **Arrive** Kàu ... ... ... 到
 - **Ascend** Chiẽⁿ ... ... ... 上
 - **Ask, (demand.)** Thó ... ... ... 討
 - **Ask, (enquire.)** Mn̄g ... ... ... 問
 - **Bear, (to suffer.)** Nãiⁿ ... ... ... 奈
 - **Beat** Phah ... ... ... ~~打~~(拍)
-- **Beg** Khṳt; khiû ... ... ... 乞　求
+- **Beg** Khṳt; khiû ... ... ... 乞  求
 - **Begin** Khí ... ... ... 起
 - **Believe** Sìn ... ... ... 信
 - **Bite** Kã ... ... ... 咬
 - **Blow, (as wind.)** Tshue ... ... ... 吹
 - **Borrow** Chieh ... ... ... 借
 - **Break** Phùa ... ... ... 破
-- **Bring** Khiéh; tùa ... ... ... ~~持~~(挈)　帶
-- **Brush** Tshóiⁿ; chhiù ... ... ... 筅　刷
+- **Bring** Khiéh; tùa ... ... ... ~~持~~(挈)  帶
+- **Brush** Tshóiⁿ; chhiù ... ... ... 筅  刷
 - **Buy** Bói ... ... ... 買
-- **Call** Kiè; hàm ... ... ... ~~呌~~(叫)　喊
-- **Care** Chiéⁿ; kuan-kù ... ... ... 掌　觀顧
+- **Call** Kiè; hàm ... ... ... ~~呌~~(叫)  喊
+- **Care** Chiéⁿ; kuan-kù ... ... ... 掌  觀顧
 - **Carry, (between two equal weights.)** Taⁿ ... ... ... 擔
 - **Carry, (one weight by two persons.)** Kng ... ... ... 扛
 - **Carry, (over the shoulder.)** Pì ... ... ... ~~負~~(背)
@@ -299,41 +299,41 @@ Singapore, February, 1886.
 - **Change** Uāⁿ ... ... ... 換
 - **Chase** Jiōu ... ... ... 追
 - **Cheat** Phièn ... ... ... 騙
-- **Choose** Suán; tóh ... ... ... 選　擇
+- **Choose** Suán; tóh ... ... ... 選  擇
 - **Clean** Muéh-chheng-khih ... ... ... ~~修清潔~~(物清潔)
-- **Cook** Tsṳ́; pû ... ... ... 煮　烳
-- **Correct** Kói ... ... ... 改
+- **Cook** Tsṳ́; pû ... ... ... 煮  烳
+- **Correct** Kói ... ... ... ~~攺~~(改)
 - **Count** Sǹg ... ... ... 算
 - **Cry** Khàu ... ... ... 哭
-- **Cut** Phoi; kuah; tsoíh ... ... ... ~~切~~(批)　割　截
+- **Cut** Phoi; kuah; tsoíh ... ... ... ~~切~~(批)  割  截
 - **Dare** Káⁿ ... ... ... 敢
 - **Delay** Êng-ti; thû ... ... ... 延遲  ++躇++
 - **Descend** Lóh ... ... ... 落
 - **Die** Sí ... ... ... 死
-- **Dismiss, (from service.)** Sî-tiòu; sǹg-hiah ... ... ... 辭~~丢~~(掉)　算歇
-- **Do** Tsò; muéh ... ... ... 做　物
+- **Dismiss, (from service.)** Sî-tiòu; sǹg-hiah ... ... ... 辭~~丢~~(掉)  算歇
+- **Do** Tsò; muéh ... ... ... 做  物
 - **Dream** Māng-kìⁿ ... ... ... 夢見
 - **Dry, (in the sun.)** Phák ... ... ... 曝
 - **Eat** Chiáh ... ... ... 食
 - **Engage, (servants.)** Kiè ... ... ... ~~呌~~(叫)
 - **Engage, (as a literary man, a teacher.)** Chhiáⁿ ... ... ... 請
-- **Examine** Sûn; chhê ... ... ... 巡　查
+- **Examine** Sûn; chhê ... ... ... 巡  查
 - **Examine, (literature.)** Kháu ... ... ... 考
 - **Fall, (as a person, animal.)** Puáh ... ... ... ~~拔~~(跋)
 - **Fall down, (as things.)** Ka-laúh ... ... ... ~~跌落~~(交落)
-- **Fear** Kiaⁿ; ùi ... ... ... 驚　畏
+- **Fear** Kiaⁿ; ùi ... ... ... 驚  畏
 - **Fight, (with the fists.)** Sie-phah ... ... ... ~~相打~~(相拍)
-- **Find** Tshūe--tiéh ... ... ... 覓着
+- **Find** Tshūe--tiéh ... ... ... ~~覔~~(覓)着
 - **Fly** Pue ... ... ... 飛
 - **Fond** Hàuⁿ ... ... ... 好
 - **Get** Tit--tiéh ... ... ... 得着
-- **Give** Pun; khoih ... ... ... 分　乞
+- **Give** Pun; khoih ... ... ... 分  乞
 - **Grow** Huat ... ... ... 發
 - **Guess** Ieh ... ... ... 約
 - **Hang** Tiòu ... ... ... 吊
 - **Hate** Lóu ... ... ... ~~恶~~(惱)
 - **Hear** Thiaⁿ ... ... ... 聽
-- **Hold, (to take.)** Hūaⁿ; khiéh--tiāⁿ ... ... ... ~~執~~(捍)　~~携定~~(挈定)
+- **Hold, (to take.)** Hūaⁿ; khiéh--tiāⁿ ... ... ... ~~執~~(捍)  ~~携定~~(挈定)
 - **Hurt** Sieⁿ ... ... ... 傷
 - **Invite** Chhiáⁿ ... ... ... 請
 - **Keep** Khǹg ... ... ... ~~藏~~(囥)
@@ -351,27 +351,27 @@ Singapore, February, 1886.
 - **Lie down** Tó ... ... ... ++倒++
 - **Light, (lamps.)** Tiám ... ... ... ~~㸃~~(點)
 - **Live, (reside.)** Khiã-khí; tiū ... ... ... ~~居住~~(徛起)  ++住++
-- **Lose** M̃-kìⁿ; sit-lóh ... ... ... ~~不~~(毋)見　失落
+- **Lose** M̃-kìⁿ; sit-lóh ... ... ... ~~不~~(毋)見  失落
 - **Love** Sieh ... ... ... 惜
-- **Make** Tsò; muéh ... ... ... 做　物
+- **Make** Tsò; muéh ... ... ... 做  物
 - **Meet, (a person.)** Ngõ ... ... ... 遇
 - **Open** Khui ... ... ... 開
 - **Pass** Kùe ... ... ... 過
-- **Play** Sńg; thit-thô ... ... ... 耍　~~遊玩~~(佚佗)
+- **Play** Sńg; thit-thô ... ... ... 耍  ~~遊玩~~(佚佗)
 - **Pick up** Tóh ... ... ... 擇
 - **Pluck** Tiah ... ... ... 摘
 - **Press** Jíh; teh ... ... ... ++揤++  壓
 - **Present** Sàng ... ... ... 送
 - **Print** Ìn ... ... ... 印
-- **Pull** Túi; thua ... ... ... 挽　拖
+- **Pull** Túi; thua ... ... ... 挽  拖
 - **Put** Pàng ... ... ... 放
 - **Quarrel** Sie-mēⁿ ... ... ... 相罵
 - **Read, (aloud.)** Thák ... ... ... 讀
 - **Read, (mentally.)** Thóiⁿ-tsṳ ... ... ... ~~看~~(睇)書
-- **Receive** Siu; chih ... ... ... 收　接
+- **Receive** Siu; chih ... ... ... 收  接
 - **Refuse** M̃-hàuⁿ ... ... ... ~~不~~(毋)好
 - **Release** Pàng ... ... ... 放
-- **Remember** It-tit; kì-tit ... ... ... 憶得　記得
+- **Remember** It-tit; kì-tit ... ... ... 憶得  記得
 - **Remove, (residence.)** Puaⁿ ... ... ... 搬
 - **Repair** Chiáⁿ-lí ... ... ... 整理
 - **Rest** Hiah ... ... ... 歇
@@ -380,17 +380,17 @@ Singapore, February, 1886.
 - **Rub** Chhiù; chhit ... ... ... ++刷++  拭
 - **Run** Tsáu ... ... ... 走
 - **Save** Kiù ... ... ... 救
-- **Search** Tshūe ... ... ... 覓
+- **Search** Tshūe ... ... ... ~~覔~~(覓)
 - **See** Thóiⁿ ... ... ... ~~看~~(睇)
 - **Sell** Bōi ... ... ... 賣
 - **Shake** Iẽ ... ... ... 搖
-- **Shout** Soi; jiáng ... ... ... 嘶　嚷
+- **Shout** Soi; jiáng ... ... ... 嘶  嚷
 - **Shut** Kueⁿ ... ... ... ~~閉~~(關)
 - **Sit** Tsõ ... ... ... 坐
 - **Sleep** U̍t ... ... ... ~~睡~~(夗)
 - **Smell** Phīⁿ ... ... ... 鼻
 - **Speak** Tàⁿ ... ... ... 呾
-- **Spend** Só-hùi; sái ... ... ... ~~使費~~(所費)　使
+- **Spend** Só-hùi; sái ... ... ... ~~使費~~(所費)  使
 - **Spoil** Muéh-tiòu ... ... ... ~~壞丢~~(物掉)
 - **Stand** Khiã ... ... ... ~~站~~(徛)
 - **Stop, (silence.)** Tiām-tiām ... ... ... ~~靜靜~~(恬恬)
@@ -403,19 +403,19 @@ Singapore, February, 1886.
 - **Tease, (annoy.)** Pa-lói; tṳ̂ ... ... ... ~~擾亂~~(巴禮)  除
 - **Think** Siẽⁿ ... ... ... 想
 - **Throw, (as stones.)** Kák ... ... ... 丢
-- **Throw away** Kák-tiòu; sek-tiòu ... ... ... ~~拋丢~~(捔掉) ~~擲丢~~(擲掉)
+- **Throw away** Kák-tiòu; sek-tiòu ... ... ... ~~拋丢~~(捔掉) ~~擲丢~~
 - **Tie** Pák ... ... ... 縛
-- **Understand** Hióu; mêng-péh ... ... ... 曉　明白
+- **Understand** Hióu; mêng-péh ... ... ... 曉  明白
 - **Undo, Untie** Tháu ... ... ... ~~解~~(㪗)
 - **Use** Ēng ... ... ... 用
 - **Visit** Sûn ... ... ... 巡
-- **Wait** Tán; thāi ... ... ... ~~候~~(等)　待
+- **Wait** Tán; thāi ... ... ... ~~候~~(等)  待
 - **Walk** Kiâⁿ ... ... ... 行
 - **Waste** Tak-nn̄g ... ... ... 荒喪
 - **Wear, (clothes.)** Chhēng ... ... ... 穿
 - **Wear, (jewels.)** Kùa ... ... ... 掛
 - **Wind, (as a clock.)** Ká ... ... ... 絞
-- **Work** Tsoh; tsoh-kang ... ... ... 作　作工
+- **Work** Tsoh; tsoh-kang ... ... ... 作  作工
 - **Write** Siá ... ... ... 寫
 
 ------
@@ -526,8 +526,8 @@ Singapore, February, 1886.
 - **伊轉來~~或~~(亞)未** I tńg--lâi a-būe? ... ... ... Has he come home?
 - **未** Būe ... ... ... He hasn't.
 - **此個~~携~~(挈)去還伊** Chí--kâi khiéh-khṳ̀ hôiⁿ i ... ... ... Take this, go and return it to him.
-- **~~爾~~(汝)有覓~~否~~(咩)** Lṳ́ ũ tshūe mē? ... ... ... Did you search for it?
-- **有。我覓無** Ũ. Uá tshūe bô ... ... ... Yes. I searched, but I couldn't find it.
+- **~~爾~~(汝)有~~覔~~(覓)~~否~~(咩)** Lṳ́ ũ tshūe mē? ... ... ... Did you search for it?
+- **有。我~~覔~~(覓)無** Ũ. Uá tshūe bô ... ... ... Yes. I searched, but I couldn't find it.
 - **~~立~~(徛)起來** Khiã--khí-lâi ... ... ... Stand up.
 - **坐** Tsõ ... ... ... Sit down.
 - **請~~爾~~(汝)教我** Chhiáⁿ lṳ́ kà uá ... ... ... You teach me, please.
@@ -544,14 +544,14 @@ Singapore, February, 1886.
 ### Lesson VI. A List of Introductory Adjectives.
 
 - **Active** Liù ... ... ... 快
-- **Afraid** Kiaⁿ; ùi ... ... ... 驚　畏
-- **Alive** Uáh; seⁿ ... ... ... 活　生
+- **Afraid** Kiaⁿ; ùi ... ... ... 驚  畏
+- **Alive** Uáh; seⁿ ... ... ... 活  生
 - **All** Lóng-tsóng ... ... ... ~~總共~~(攏總)
 - **Ashamed** Sióu-lí ... ... ... ~~羞耻~~(少禮)
 - **Back** Aũ ... ... ... 後
 - **Bad** M̃-móⁿ ... ... ... ~~不好~~(毋孬)
 - **Best** Siãng-hó ... ... ... 上好
-- **Better** Zú-hó; kèng-hó ... ... ... 愈好　更好
+- **Better** Zú-hó; kèng-hó ... ... ... 愈好  更好
 - **Black** Ou ... ... ... 烏
 - **Blue** Nâm; lâm ... ... ... 藍
 - **Blue, (sky colour.)** Chheⁿ ... ... ... ~~靑~~(青)
@@ -559,33 +559,33 @@ Singapore, February, 1886.
 - **Bright** Kng ... ... ... 光
 - **Broad** Khuah ... ... ... 闊
 - **Broken** Phùa ... ... ... 破
-- **Careful** Tsṳ́-sòi; sòi-jī ... ... ... 仔細　細字
-- **Careless** Chhìn-tshái; bô-tsṳ́-sòi ... ... ... ~~隨便~~(凊彩)　無仔細
+- **Careful** Tsṳ́-sòi; sòi-jī ... ... ... 仔細  細字
+- **Careless** Chhìn-tshái; bô-tsṳ́-sòi ... ... ... ~~隨便~~(凊彩)  無仔細
 - **Cheap** Phiⁿ ... ... ... ~~跌~~(偏)
 - **Clear, (of water.)** Chheng ... ... ... 清
-- **Clear; (of affairs.)** Mêng; mêng-péh ... ... ... 明　明白
-- **Clever** Gâu; khiàng ... ... ... 賢　~~能~~(勥)
+- **Clear; (of affairs.)** Mêng; mêng-péh ... ... ... 明  明白
+- **Clever** Gâu; khiàng ... ... ... 賢  ~~能~~(勥)
 - **Close, (not airy.)** Hip ... ... ... 翕
 - **Coarse** Tshou ... ... ... 粗
-- **Cold** Chhìn; ngân ... ... ... ~~冷~~(凊)　~~寒~~(凝)
+- **Cold** Chhìn; ngân ... ... ... ~~冷~~(凊)  ~~寒~~(凝)
 - **Comfortable** Khùaⁿ-uáh ... ... ... 快活
 - **Confused** Zṳ̂ ... ... ... ~~菇~~(挐)
 - **Crooked** Uan ... ... ... ~~灣~~(彎)
 - **Crowded** Tsát ... ... ... ++密++
-- **Dangerous** Hong-hiám; lĩ-hāi ... ... ... ~~荒險~~(風險)　~~利害~~(厲害)
+- **Dangerous** Hong-hiám; lĩ-hāi ... ... ... ~~荒險~~(風險)  ~~利害~~(厲害)
 - **Dark** Àm ... ... ... 暗
 - **Dread** Sí ... ... ... 死
 - **Dear** Kùi ... ... ... 貴
 - **Deep** Chhim ... ... ... 深
-- **Difficult** Oh; kan-khóu ... ... ... ~~難~~(僫)　艱苦
+- **Difficult** Oh; kan-khóu ... ... ... ~~難~~(僫)  艱苦
 - **Diligent** Lát ... ... ... ~~勤~~(力)
 - **Dirty** Nah-sap; o-tso ... ... ... ~~污穢~~(垃圾)  ++污糟++
 - **Dry** Ta ... ... ... ~~乾~~(灱)
 - **Easy** Kōi ... ... ... 易
-- **Enough** Kàu; lã ... ... ... 夠　~~撈~~(𤰉)
+- **Enough** Kàu; lã ... ... ... 夠  ~~撈~~(𤰉)
 - **False** Ké ... ... ... 假
 - **Far** Hñg ... ... ... 遠
-- **Fast** Méⁿ; hiông ... ... ... 猛　雄
+- **Fast** Méⁿ; hiông ... ... ... 猛  雄
 - **Fat** Pûi ... ... ... 肥
 - **Filthy** Chhi-gî ... ... ... 生疑
 - **Fine, (not coarse.)** Iùⁿ ... ... ... 幼
@@ -593,13 +593,13 @@ Singapore, February, 1886.
 - **Flat, (level.)** Pêⁿ ... ... ... 平
 - **Fresh** Chhiⁿ ... ... ... 鮮
 - **Front** Tsôiⁿ ... ... ... 前
-- **Full** Tĩⁿ ... ... ... 漲
+- **Full** Tĩⁿ ... ... ... ~~滿~~(漲)
 - **Funny** Tshù-bī ... ... ... 趣味
 - **Glad** Huaⁿ-hí ... ... ... 歡喜
 - **Good** Hó ... ... ... 好
 - **Green** Chheⁿ ... ... ... ~~靑~~(青)
 - **Green, (cloth.)** Lék ... ... ... 緑
-- **Happy** Khùaⁿ-uáh; sóng-khuài ... ... ... 快活　爽快
+- **Happy** Khùaⁿ-uáh; sóng-khuài ... ... ... 快活  爽快
 - **Hard** Tōiⁿ ... ... ... 𠕆
 - **Heavy** Tãng ... ... ... 重
 - **High** Kûiⁿ ... ... ... ~~高~~(危)
@@ -610,13 +610,13 @@ Singapore, February, 1886.
 - **Late** Mān ... ... ... ~~緩~~(慢)
 - **Less** Chié; kiám ... ... ... 少  ++減++
 - **Light** Khin ... ... ... 輕
-- **Little** Lân-ló; se-su-kiáⁿ; tiám-kiáⁿ ... ... ... ~~些少~~(零些)  ~~些些~~(些須囝)　++點囝++
+- **Little** Lân-ló; se-su-kiáⁿ; tiám-kiáⁿ ... ... ... ~~些少~~(零些)  ~~些些~~(些須囝)  ++點囝++
 - **Lively** Lêng-cheng ... ... ... 靈精
 - **Long, (not short.)** Tn̂g ... ... ... 長
 - **Long, (of time.)** Kú ... ... ... 久
 - **Low** Kẽ ... ... ... ~~低~~(下)
 - **Many, much** Tsōi ... ... ... ~~多~~(㩼)
-- **Miseable** Chhi-tshám ... ... ... 悽慘
+- **Miseable** Chhi-tshám ... ... ... ~~悽~~(淒)慘
 - **More** Ke ... ... ... 加
 - **Near** Kṳ̃n ... ... ... 近
 - **New** Sin ... ... ... 新
@@ -625,10 +625,10 @@ Singapore, February, 1886.
 - **Old, (aged.)** Lãu ... ... ... 老
 - **Past** Kùe ... ... ... 過
 - **Polite** Kui-kṳ́ ... ... ... 規矩
-- **Poor** Khiou; kêng ... ... ... ~~窮~~(磽)　貧
-- **Present, at** Ngán-tsãi; hīn-tsãi ... ... ... 眼在　現在
+- **Poor** Khiou; kêng ... ... ... ~~窮~~(磽)  貧
+- **Present, at** Ngán-tsãi; hīn-tsãi ... ... ... 眼在  現在
 - **Pretty** Ngiá ... ... ... 雅
-- **Quick** Méⁿ; khùe ... ... ... 猛　快
+- **Quick** Méⁿ; khùe ... ... ... 猛  快
 - **Raw** Chheⁿ ... ... ... 腥
 - **Red** Âng ... ... ... 紅
 - **Rich** Pù ... ... ... 富
@@ -637,21 +637,21 @@ Singapore, February, 1886.
 - **Round** Îⁿ ... ... ... 圓
 - **Rude, (clownish.)** Bô-kui-kṳ́ ... ... ... 無規矩
 - **Rude, (to a superior.)** Huàng-sṳ̀ ... ... ... 放肆
-- **Same** Pêⁿ-iēⁿ; sie-tâng ... ... ... 平樣　相同
+- **Same** Pêⁿ-iēⁿ; sie-tâng ... ... ... 平樣  相同
 - **Shallow** Chhién ... ... ... 淺
 - **Sharp, (pointed.)** Chiam ... ... ... 尖
 - **Sharp, (as a a knife.)** Lāi ... ... ... 利
 - **Short** Tó ... ... ... 短
 - **Sick** Pēⁿ ... ... ... 病
 - **Similar** Chhin-chhiẽⁿ ... ... ... 親像
-- **Sleepy** Mák-chiu-siap; mák--siap ... ... ... ~~目睛澀~~(目睭澀)　目澀
+- **Sleepy** Mák-chiu-siap; mák--siap ... ... ... ~~目睛澀~~(目睭澀)  目澀
 - **Slow** Mān ... ... ... ~~緩~~(慢)
 - **Small** Sòi ... ... ... 細
 - **Smooth** Ku̍t ... ... ... 滑
 - **Soft** Nńg ... ... ... 軟
 - **Some** Lân-ló ... ... ... 零須
 - **Straight** Tít ... ... ... 直
-- **Strong, (of the body.)** Tsàng; ũ-lát ... ... ... 壯　有力
+- **Strong, (of the body.)** Tsàng; ũ-lát ... ... ... 壯  有力
 - **Strong, (of architecture.)** Khiàng ... ... ... ~~堅~~(勥)
 - **Stupid** Ngà ... ... ... 㦙
 - **Thick** Kãu ... ... ... 厚
@@ -659,7 +659,7 @@ Singapore, February, 1886.
 - **Thin, (not stout.)** Sán ... ... ... ~~瘦~~(㾪)
 - **Tight** Kín ... ... ... 緊
 - **Tired** Hék ... ... ... ~~困~~(乏)
-- **True** Chin; sít; chin-sít ... ... ... 真　實　真實
+- **True** Chin; sít; chin-sít ... ... ... ~~眞~~(真)  實  ~~眞~~(真)實
 - **Ugly** Iá-iēⁿ ... ... ... ~~醜陋~~(野樣)
 - **Unripe** Chheⁿ ... ... ... ~~靑~~(青)
 - **Warm** Zuáh ... ... ... 熱
@@ -667,8 +667,8 @@ Singapore, February, 1886.
 - **Wet** Tâm ... ... ... ~~濕~~(㴷)
 - **Wet, (thoroughly.)** Lok ... ... ... ++漉++
 - **White** Péh ... ... ... 白
-- **Wicked** Ak; phái ... ... ... 惡　~~敗~~(痞)
-- **Wrong** M̃-tiéh; tshò ... ... ... ~~不~~(毋)着　錯
+- **Wicked** Ak; phái ... ... ... 惡  ~~敗~~(痞)
+- **Wrong** M̃-tiéh; tshò ... ... ... ~~不~~(毋)着  錯
 - **Yellow** N̂g ... ... ... 黃
 
 ------
@@ -769,7 +769,7 @@ Singapore, February, 1886.
 
 - **冰霜** Piaⁿ-sng ... ... ... Ice.
 - **雪** Soh ... ... ... Snow.
-- **濛烟** Mông-in ... ... ... Mist.
+- **濛~~烟~~(煙)** Mông-in ... ... ... Mist.
 - **露水** Lōu-tsúi ... ... ... Dew.
 - **雹** Phák ... ... ... Hail.
 - **~~菰~~(菇)** Kou ... ... ... Mould.
@@ -785,10 +785,10 @@ Singapore, February, 1886.
 - **冰霜是寒在** Piaⁿ-sng sĩ ngân-tsãi ... ... ... Ice is very cold?
 - **雪敢是愈寒** Soh kàⁿ-sĩ zú-ngân ... ... ... Snow is perhaps colder.
 - **~~咱~~(俺)~~此處~~(此塊)罕得有雪** Nán--chié hán--tit ũ soh ... ... ... We seldom have snow at our place here.
-- **日一出濛烟就散** Jít chék-ē tshut mông-in chiũ-sùaⁿ ... ... ... When the sun rises the mist disperses.
+- **日一出濛~~烟~~(煙)就散** Jít chék-ē tshut mông-in chiũ-sùaⁿ ... ... ... When the sun rises the mist disperses.
 - **樹無露水袂活** Chhiū bô lōu-tsúi bõi-uáh ... ... ... The trees will not grow without dew.
 - **~~好~~(酷)久~~咱~~(俺)~~此處~~(此塊)~~不~~(毋)識有落雹** Hoh-kú nán--chié m̃-pat ũ lóh-phák ... ... ... For a long time we have not had hail here.
-- **冬天~~貧窮人~~(磽囝人)是悽慘** Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám ... ... ... In Winter the poor are miserable.
+- **冬天~~貧窮人~~(磽囝人)是~~悽~~(淒)慘** Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám ... ... ... In Winter the poor are miserable.
 - **~~富個人~~(富个人)~~則~~(哩)~~穿煖~~(穿燒)** Pù--kâi-nâng li chhēng-sie ... ... ... But the rich are warmly clad.
 - **冬天~~冷~~(凊)在** Tang--thiⁿ chhin-tsãi ... ... ... In Winter it is very cold.
 - **夏天就熱** Hē--thiⁿ chiũ-zuáh ... ... ... But in Summer it is hot.
@@ -876,7 +876,7 @@ Singapore, February, 1886.
 - **~~明天~~(明旦起)我~~不~~(毋)在** Màⁿ-khí uá m̃-tõ ... ... ... I shall not be at home tomorrow.
 - **~~爾~~(汝)~~免~~(免)用來** Lṳ́ mín-ēng lâi ... ... ... You need not come.
 - **後日我就轉來** Aũ--jít uá chiũ tńg--lâi ... ... ... I shall be back the day after ~~to-morrow~~(tomorrow).
-- **我次次來到覓~~爾~~(汝)~~不~~(毋)在** Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̃-tõ ... ... ... On every occasion of my coming, I could not find you.
+- **我次次來到~~覔~~(覓)~~爾~~(汝)~~不~~(毋)在** Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̃-tõ ... ... ... On every occasion of my coming, I could not find you.
 - **我昨日來。昨夜亦來** Uá tsa-jít lâi, tsa-mêⁿ iā lâi ... ... ... I came yesterday, and last night as well.
 - **伊終久是~~如此~~(此樣生)** I tsong-kú sĩ chièⁿ-seⁿ ... ... ... He is always like this.
 - **伊是惰。做事~~隨便~~(凊彩)做** I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò ... ... ... He is idle, and does things carelessly.
@@ -895,8 +895,8 @@ Singapore, February, 1886.
 
 **注意**下底數字最右爿花碼單位原文豎寫，爲方便錄入轉橫了。
 
-- **1** Chék; it ... ... ... 一　壹
-- **2** Nõⁿ; jĩ ... ... ... 二　弍
+- **1** Chék; it ... ... ... 一  壹
+- **2** Nõⁿ; jĩ ... ... ... 二  弍
 - **3** Saⁿ ... ... ... 三
 - **4** Sì ... ... ... 四
 - **5** Ngõu ... ... ... 五
@@ -905,47 +905,47 @@ Singapore, February, 1886.
 - **8** Poih ... ... ... 八
 - **9** Káu ... ... ... 九
 - **10** Tsáp ... ... ... 十
-- **11** Tsáp-it ... ... ... 〡一　十一
-- **12** Tsáp-jĩ ... ... ... 〡二　十二
-- **13** Tsáp-saⁿ ... ... ... 〡三　十三
-- **14** Tsáp-sì ... ... ... 〡〤　十四
-- **15** Tsáp-ngõu ... ... ... 〡〥　十五
-- **16** Tsáp-lák ... ... ... 〡〦　十六
-- **17** Tsáp-chhit ... ... ... 〡〧　十七
-- **18** Tsáp-poih ... ... ... 〡〨　十八
-- **19** Tsáp-káu ... ... ... 〡〩　十九
-- **20** Jĩ-tsap ... ... ... 〢〇　二十
-- **21** Jĩ-tsáp-it[1] ... ... ... 〢一　二十一
-- **22** Jĩ-tsáp-jĩ[2] ... ... ... 〢二　二十二
-- **30** Saⁿ-tsáp ... ... ... 〣〇　三十
-- **100** Chék-peh ... ... ... 〡〇〇百　一百
-- **101** Chék-peh tuaⁿ-it ... ... ... 〡〇〡百　一百單一
-- **102** Chék-peh tuaⁿ-jĩ ... ... ... 〡〇〢百　一百單二
-- **110** Chék-peh it-tsáp[3] ... ... ... 〡一〇百　一百一十
-- **111** Chék-peh it-tsáp-it ... ... ... 〡一〡百　一百一十一
-- **112** Chék-peh it-tsáp-jĩ ... ... ... 〡一〢百　一百一十二
-- **120** Chék-peh jĩ-tsáp[4] ... ... ... 〡二〇百　一百二十
-- **200** Nõⁿ-peh ... ... ... 〢〇〇百　二百
-- **300** Saⁿ-peh ... ... ... 〣〇〇百　三百
-- **1000** Chék-tshoiⁿ ... ... ... 〡〇〇〇千　一千
-- **1001** Chék-tshoiⁿ lân-tuaⁿ-it ... ... ... 〡〇〇〡千　一千單一
-- **1002** Chék-tshoiⁿ lân-tuaⁿ-jĩ ... ... ... 〡〇〇〢千　一千單二
-- **1010** Chék-tshoiⁿ lân it-tsáp[5] ... ... ... 〡〇〡〇千　一千零一十
-- **1011** Chék-tshoiⁿ lân it-tsáp-it ... ... ... 〡〇〡一千　一千零一十一
-- **1012** Chék-tshoiⁿ lân it-tsáp-jĩ ... ... ... 〡〇〡二千　一千零一十二
-- **1020** Chék-tshoiⁿ lân-jĩ ... ... ... 〡〇〢千　一千零二
-- **1100** Tshoiⁿ-it ... ... ... 〡一〇千　千一
-- **1101** Tshoiⁿ peh-tuaⁿ-it ... ... ... 〡一〇〡千　千百單一
-- **1102** Tshoiⁿ peh-tuaⁿ-jĩ ... ... ... 〡一〇〢千　千百單二
-- **1110** Tshoiⁿ peh-it ... ... ... 〡一〡千　千百一
-- **1111** Tshoiⁿ peh it-tsáp-it ... ... ... 〡一〡一千　千百一十一
-- **1112** Tshoiⁿ peh it-tsáp-jĩ ... ... ... 〡一〡二千　千百一十二
-- **1120** Tshoiⁿ peh-jĩ ... ... ... 〡一〢千　千百二
-- **1200** Tshoiⁿ-jĩ ... ... ... 〡二〇千　千二
-- **2000** Nõⁿ-tshoiⁿ ... ... ... 〢〇〇千　二千
-- **10000** Chék-buān ... ... ... 〡〇〇〇万　一萬
-- **100000** Tsáp-buān ... ... ... 〡〇〇〇十万　十萬
-- **1000000** Chék-peh-buān ... ... ... 〡〇〇〇百万　一百萬
+- **11** Tsáp-it ... ... ... 〡一  十一
+- **12** Tsáp-jĩ ... ... ... 〡二  十二
+- **13** Tsáp-saⁿ ... ... ... 〡三  十三
+- **14** Tsáp-sì ... ... ... 〡〤  十四
+- **15** Tsáp-ngõu ... ... ... 〡〥  十五
+- **16** Tsáp-lák ... ... ... 〡〦  十六
+- **17** Tsáp-chhit ... ... ... 〡〧  十七
+- **18** Tsáp-poih ... ... ... 〡〨  十八
+- **19** Tsáp-káu ... ... ... 〡〩  十九
+- **20** Jĩ-tsap ... ... ... 〢〇  二十
+- **21** Jĩ-tsáp-it[1] ... ... ... 〢一  二十一
+- **22** Jĩ-tsáp-jĩ[2] ... ... ... 〢二  二十二
+- **30** Saⁿ-tsáp ... ... ... 〣〇  三十
+- **100** Chék-peh ... ... ... 〡〇〇百  一百
+- **101** Chék-peh tuaⁿ-it ... ... ... 〡〇〡百  一百單一
+- **102** Chék-peh tuaⁿ-jĩ ... ... ... 〡〇〢百  一百單二
+- **110** Chék-peh it-tsáp[3] ... ... ... 〡一〇百  一百一十
+- **111** Chék-peh it-tsáp-it ... ... ... 〡一〡百  一百一十一
+- **112** Chék-peh it-tsáp-jĩ ... ... ... 〡一〢百  一百一十二
+- **120** Chék-peh jĩ-tsáp[4] ... ... ... 〡二〇百  一百二十
+- **200** Nõⁿ-peh ... ... ... 〢〇〇百  二百
+- **300** Saⁿ-peh ... ... ... 〣〇〇百  三百
+- **1000** Chék-tshoiⁿ ... ... ... 〡〇〇〇千  一千
+- **1001** Chék-tshoiⁿ lân-tuaⁿ-it ... ... ... 〡〇〇〡千  一千單一
+- **1002** Chék-tshoiⁿ lân-tuaⁿ-jĩ ... ... ... 〡〇〇〢千  一千單二
+- **1010** Chék-tshoiⁿ lân it-tsáp[5] ... ... ... 〡〇〡〇千  一千零一十
+- **1011** Chék-tshoiⁿ lân it-tsáp-it ... ... ... 〡〇〡一千  一千零一十一
+- **1012** Chék-tshoiⁿ lân it-tsáp-jĩ ... ... ... 〡〇〡二千  一千零一十二
+- **1020** Chék-tshoiⁿ lân-jĩ ... ... ... 〡〇〢千  一千零二
+- **1100** Tshoiⁿ-it ... ... ... 〡一〇千  千一
+- **1101** Tshoiⁿ peh-tuaⁿ-it ... ... ... 〡一〇〡千  千百單一
+- **1102** Tshoiⁿ peh-tuaⁿ-jĩ ... ... ... 〡一〇〢千  千百單二
+- **1110** Tshoiⁿ peh-it ... ... ... 〡一〡千  千百一
+- **1111** Tshoiⁿ peh it-tsáp-it ... ... ... 〡一〡一千  千百一十一
+- **1112** Tshoiⁿ peh it-tsáp-jĩ ... ... ... 〡一〡二千  千百一十二
+- **1120** Tshoiⁿ peh-jĩ ... ... ... 〡一〢千  千百二
+- **1200** Tshoiⁿ-jĩ ... ... ... 〡二〇千  千二
+- **2000** Nõⁿ-tshoiⁿ ... ... ... 〢〇〇千  二千
+- **10000** Chék-buān ... ... ... 〡〇〇〇万  一萬
+- **100000** Tsáp-buān ... ... ... 〡〇〇〇十万  十萬
+- **1000000** Chék-peh-buān ... ... ... 〡〇〇〇百万  一百萬
 
 ---
 
@@ -1002,7 +1002,7 @@ On this admittedly difficult subject, I transcribe a few remarks from one well q
 
 “A Double Hyphen implies that the word preceding it retains its own proper tone in full force, and that the word or words following it are either enclitic or unaccented, and as far as possible deprived of distinctive tonal character,” as,
 
-入來 jíp--lâi, come in, 覓着 tshūe--tiéh, found, 來了 lái--lō, has come, 掠着了 liáh--tiéh-lō, has been caught, ~~站~~(徛)起來, khiã--khí-lâi, stand up.
+入來 jíp--lâi, come in, ~~覔~~(覓)着 tshūe--tiéh, found, 來了 lái--lō, has come, 掠着了 liáh--tiéh-lō, has been caught, ~~站~~(徛)起來, khiã--khí-lâi, stand up.
 
 “The use of hyphens, though most essential, is yet difficult to regulate by any stringent law, and much must be left to discretion.”
 
@@ -1267,7 +1267,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **墻** Chhiêⁿ ... ... ... Wall.
 - **厝頂** Tshù-téng ... ... ... Roof.
 - **厝瓦** Tshù-hiã ... ... ... Tiles (roof.)
-- **棟樑　樑** Tòng-êⁿ; êⁿ ... ... ... A beam.
+- **棟樑  樑** Tòng-êⁿ; êⁿ ... ... ... A beam.
 - **柱** Thiõu ... ... ... A pillar, a post.
 - **磚** Tsng ... ... ... Tiles (floor.)
 - **紅磚** Âng-tsng ... ... ... Bricks.
@@ -1811,7 +1811,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **火牌~~濕~~(㴷)。~~畫~~(劃)袂~~焰~~(着)** Húe-pâi tâm, uéh bõi-tóh ... ... ... The matches are damp, (though) they are struck they will not light.
 - **燈心~~盡了~~(了囉)** Teng-sim lióu--lō ... ... ... The wick is burnt down.
 - **用火炭。勿用火柴** Ēng húe-thùaⁿ, màiⁿ ēng húe-tshâ ... ... ... Use charcoal, don't use fire-wood.
-- **用柴通間內烟** Ēng tshâ thong-koiⁿ-lãi huu ... ... ... If you use wood the whole house will be full of smoke.
+- **用柴通間內~~烟~~(煙)** Ēng tshâ thong-koiⁿ-lãi huu ... ... ... If you use wood the whole house will be full of smoke.
 - **灶空~~個~~(个)~~火灰~~(火烌)~~携丟~~(抔掉)** Tsàu-khang kâi húe-hu put-tiòu ... ... ... Remove the ashes in the furnace.
 
 ------
@@ -1940,7 +1940,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ### Provisions.
 
-- **Food** Chiáh; bí-niêⁿ ... ... ... 食　米糧
+- **Food** Chiáh; bí-niêⁿ ... ... ... 食  米糧
 - **Bread** Mīⁿ-pau ... ... ... ~~麫~~(麵)包
 - **Butter** Gû-nĩⁿ-iû ... ... ... ~~牛乳~~(牛奶)油
 - **Soup, Gravy** Thng ... ... ... 湯
@@ -1954,7 +1954,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Pork** Tṳ-bah; tṳ-nék ... ... ... 豬肉
 - **Ham** Húe-thúi ... ... ... 火腿
 - **Potatoes** Hô-lân-tsṳ̂ ... ... ... 荷蘭薯
-- **„ sweet** Huan-kuah; huan-tsṳ̂ ... ... ... ~~畨~~(番)葛　~~畨~~(番)薯
+- **„ sweet** Huan-kuah; huan-tsṳ̂ ... ... ... ~~畨~~(番)葛  ~~畨~~(番)薯
 - **Cakes** Kúe ... ... ... 粿
 - **Sponge cake** Koi-nñg-kúe ... ... ... ~~鷄~~(雞)卵粿
 - **Blanc-mange** Béh-hún-kúe ... ... ... 麥粉粿
@@ -2048,11 +2048,11 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Turtle** Hang-ku ... ... ... 魴龜
 - **Oysters** Ô ... ... ... 蠔
 - **Cockles** Ham ... ... ... 蚶
-- **Dried salt fish** Hṳ̂-kuaⁿ; hṳ̂-póu ... ... ... 魚干　魚脯
+- **Dried salt fish** Hṳ̂-kuaⁿ; hṳ̂-póu ... ... ... 魚干  魚脯
 - **Salt fish** Kiâm-hṳ̂ ... ... ... 鹹魚
 - **Dried prawns** Hê-bí ... ... ... 蝦米
 - **Dried cuttle-fish** Jiû-hṳ̂ ... ... ... 魷魚  鰇魚
-- **Fish-roe** Hṳ̂-chí; hṳ̂-tshun ... ... ... ~~魚只~~(魚子)　~~魚蛋~~(魚春)
+- **Fish-roe** Hṳ̂-chí; hṳ̂-tshun ... ... ... ~~魚只~~(魚子)  ~~魚蛋~~(魚春)
 - **Preserved fish** Hṳ̂-kôi ... ... ... 魚鮭
 - **Classifier of fish** Búe ... ... ... 尾
 
@@ -2097,9 +2097,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Mint** Pô-hò ... ... ... 薄荷
 - **Celery** Khṳ̂n-tshài ... ... ... 芹菜
 - **Coriander** Uân-sui ... ... ... 莞荽
-- **Salad** Phang-tshài; chheⁿ-tshài ... ... ... ~~香~~(芳)菜　生菜
+- **Salad** Phang-tshài; chheⁿ-tshài ... ... ... ~~香~~(芳)菜  生菜
 - **Ginger** Kieⁿ ... ... ... 薑
-- **Chillies** Hiam-chie; kim-kaⁿ-náⁿ ... ... ... ~~辣椒~~(薟椒)　金橄欖
+- **Chillies** Hiam-chie; kim-kaⁿ-náⁿ ... ... ... ~~辣椒~~(薟椒)  金橄欖
 - **Onion, fresh** Tshang ... ... ... ~~葱~~(蔥)
 - **„ root, dried** Tshang-thâu ... ... ... ~~葱~~(蔥)頭
 - **Garlic, fresh** Sǹg ... ... ... 蒜
@@ -2138,7 +2138,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Lime, sour** Sng-kaⁿ ... ... ... 酸柑
 - **Banana** Keng-chie ... ... ... ~~芎~~(弓)蕉
 - **Pumelo** Iū ... ... ... 柚
-- **Pineapple** Uâng-lâi; huan-lâi ... ... ... 旺梨　~~畨~~(番)梨
+- **Pineapple** Uâng-lâi; huan-lâi ... ... ... 旺梨  ~~畨~~(番)梨
 - **Peach** Thô ... ... ... 桃
 - **Pear** Lâi ... ... ... 梨
 - **„ Shantung** Suaⁿ-tang-lâi ... ... ... 山東梨
@@ -2299,11 +2299,11 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **船頂** Tsûn-téng ... ... ... Deck.
 - **峇厘** Bā-lî ... ... ... A cabin.
 - **玉** Gék[1] ... ... ... A ship's boat.
-- **烟筒** In-tâng ... ... ... A funnel.
+- **~~烟~~(煙)筒** In-tâng ... ... ... A funnel.
 - **~~陂~~(嗶)** Pi ... ... ... A whistle.
 - **~~呠~~(歕)~~陂~~(嗶)** Pûn-pi ... ... ... To blow a whistle.
 - **鼎** Tiáⁿ ... ... ... A boiler.
-- **水烟** Tsúi-in ... ... ... Steam.
+- **水~~烟~~(煙)** Tsúi-in ... ... ... Steam.
 - **~~竈~~(灶)** Tsàu ... ... ... Furnace.
 - **起火** Khí-húe ... ... ... To make a fire.
 - **~~燒~~(燃)** Hiâⁿ ... ... ... To burn; to boil as a large quantity of water.
@@ -2452,9 +2452,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **食~~粥~~(糜)** Chiáh-mûeⁿ ... ... ... Measles.
 - **大~~頸~~(頷)奎** Tūa-ãm-kui ... ... ... Goitre.
 - **瘤** Liû ... ... ... Tumour.
-- **軟疕** Nńg-nîⁿ ... ... ... Palsy.
+- **軟~~丕~~(疕)** Nńg-nîⁿ ... ... ... Palsy.
 - **痒癲** Kuàn-pien ... ... ... Palsy.
-- **~~顛~~(痟)** Sióu ... ... ... Mad.
+- **~~顚~~(痟)** Sióu ... ... ... Mad.
 - **心神~~不~~(毋)定** Sim-sîn m̃-tiāⁿ ... ... ... Insane.
 - **愩** Kòng ... ... ... Crazy.
 - **~~輩~~(痱)** Bùi; Pùi ... ... ... Prickly heat.
@@ -2559,7 +2559,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **鐵** Thih ... ... ... Iron.
 - **生鐵** Chheⁿ-thih ... ... ... „ unwrought.
 - **鋼** Kǹg ... ... ... Steel.
-- **鉎** Seⁿ ... ... ... Cast iron.
+- **~~銹~~(鉎)** Seⁿ ... ... ... Cast iron.
 - **銅** Tâng ... ... ... Copper.
 - **紅銅** Âng-tâng ... ... ... Brass.
 - **鉛** În ... ... ... Lead.
@@ -2786,13 +2786,13 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Deposit, entrust** Tah ... ... ... 搭
 - **Discount, to** Thiu-kiám ... ... ... 抽減
 - **Dollar, silver** Ngṳ̂n ... ... ... 銀
-- **Draft, a** Ngṳ̂n-tuaⁿ; tùi-tuaⁿ ... ... ... 銀單　對單
+- **Draft, a** Ngṳ̂n-tuaⁿ; tùi-tuaⁿ ... ... ... 銀單  對單
 - **Dun, to** Tshui-pek ... ... ... 催迫
 - **Earnest money** Tiāⁿ-ngṳ̂n ... ... ... 定銀
 - **Expend, to** Sái ... ... ... 使
 - **Expenditure** Só-hùi ... ... ... ~~使費~~(所費)
-- **Guarantee, to** Pau-niáⁿ ... ... ... 包領
-- **Instalments** Hãng; tshṳ̀ ... ... ... 項　次
+- **Guarantee, to** Pau-niáⁿ ... ... ... ~~保領~~(包領)
+- **Instalments** Hãng; tshṳ̀ ... ... ... 項  次
 - **Insure, to** Pó-ke ... ... ... 保家
 - **Insurance policy** Pó-ke-jī ... ... ... 保家字
 - **Insurance office** Pó-ke-kuán ... ... ... 保家館
@@ -2800,10 +2800,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Invest, to** Lóh-pńg ... ... ... 落本
 - **Lend, to** Chieh ... ... ... 借
 - **Loss, in commerce** Síh-pńg ... ... ... ~~缺~~(蝕)本
-- **Money** Chîⁿ; chîⁿ-ngṳ̂n ... ... ... 錢　錢銀
-- **„ changer** Táu-chîⁿ-hâng; táu-toh-kūiⁿ ... ... ... ~~找~~(倒)錢行　~~找~~(倒)~~棹~~(桌)櫃
-- **„ lender** Pàng-seⁿ-chè; pàng-seⁿ-siòu ... ... ... 放生債　放生數
-- **Mortgage, to** Tǹg; tóiⁿ ... ... ... 當　典
+- **Money** Chîⁿ; chîⁿ-ngṳ̂n ... ... ... 錢  錢銀
+- **„ changer** Táu-chîⁿ-hâng; táu-toh-kūiⁿ ... ... ... ~~找~~(倒)錢行  ~~找~~(倒)~~棹~~(桌)櫃
+- **„ lender** Pàng-seⁿ-chè; pàng-seⁿ-siòu ... ... ... 放生債  放生數
+- **Mortgage, to** Tǹg; tóiⁿ ... ... ... 當  典
 - **„ deed** Tóiⁿ-khòi ... ... ... 典契
 - **Mortgagor** Tóiⁿ-tsú ... ... ... 典主
 - **„ original** Tói-tsṳ́ ... ... ... 底子
@@ -2816,23 +2816,23 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ current** Hâng-chhêng ... ... ... 行~~⿰忄靑~~(情)
 - **„ fair** Phêng-kè ... ... ... 平價
 - **„ fall in** Lóh-kè ... ... ... 落價
-- **„ rise in** Hó-kè; khí-kè ... ... ... 好價　起價
+- **„ rise in** Hó-kè; khí-kè ... ... ... 好價  起價
 - **Prime cost** Nguân-kè ... ... ... 原價
-- **Profit** Thàn; tit-lĩ ... ... ... ~~贃~~(趁)　得利
+- **Profit** Thàn; tit-lĩ ... ... ... ~~贃~~(趁)  得利
 - **Refund, to** Hôiⁿ ... ... ... 還
 - **Rent** Sùe ... ... ... 稅
 - **Safe, an iron** Thih-kap-buān ... ... ... 鐵甲萬
-- **Security, to stand** Pó-niáⁿ; tam-sêng ... ... ... 保領　~~担~~(擔)承
+- **Security, to stand** Pó-niáⁿ; tam-sêng ... ... ... 保領  ~~担~~(擔)承
 - **Treasury** Khòu-pâng ... ... ... 庫房
-- **Usury** Tãng-lāi; guéh-kiáⁿ ... ... ... 重利　月~~仔~~(囝)
-- **Valuable** Kùi-khì; tát-chîⁿ ... ... ... 貴器　~~値~~(值)錢
+- **Usury** Tãng-lāi; guéh-kiáⁿ ... ... ... 重利  月~~仔~~(囝)
+- **Valuable** Kùi-khì; tát-chîⁿ ... ... ... 貴器  ~~値~~(值)錢
 - **Worth, to be** Tát ... ... ... ~~値~~(值)
 
 #### A List of words used in Commerce.
 
 - **Advertise, to** Tshut-jī-péh ... ... ... 出字白
 - **Agreement, an** Háp-tâng ... ... ... 合同
-- **Agreement, make an** Tsò-háp-tâng; háp-ieh ... ... ... 做合同　合約
+- **Agreement, make an** Tsò-háp-tâng; háp-ieh ... ... ... 做合同  合約
 - **Arbitrator, an** Kong-chhin ... ... ... 公親
 - **Arbitrate, to** Tsò-kong-chhin ... ... ... 做公親
 - **Assistant, an** Jĩ-chhiú ... ... ... ~~次手~~(二手)
@@ -2842,8 +2842,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Bill of lading** Nám-tsāi-jī ... ... ... 攬儎字
 - **Broker, a** Phah-khang ... ... ... ~~打~~(拍)空
 - **Bundle, a** Pau ... ... ... 包
-- **Business** Sṳ̄; seng-lí ... ... ... 事　生理
-- **Busy** M̃-ôiⁿ; sṳ̄ tsōi ... ... ... ~~不~~(毋)~~暇~~(~~閑~~(閒))　事~~多~~(㩼)
+- **Business** Sṳ̄; seng-lí ... ... ... 事  生理
+- **Busy** M̃-ôiⁿ; sṳ̄ tsōi ... ... ... ~~不~~(毋)~~暇~~(~~閑~~(閒))  事~~多~~(㩼)
 - **Cargo** Hùe ... ... ... 貨
 - **Cask, a** Tháng ... ... ... 桶
 - **Certificate, a** Phêng-tuaⁿ ... ... ... 憑單
@@ -2860,8 +2860,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Consign a vessel** Tsûn kua hâng ... ... ... 船倚行
 - **Contract** Háp-táng ... ... ... 合同
 - **Correspondence** Phoi-sìn ... ... ... 批信
-- **Courier** Tshoiⁿ lí-bé; tsáu-bûn-tsṳ ... ... ... 千里馬　走文書
-- **Customer** Bói-kheh; kau-kuan--kâi-nâng ... ... ... 買客　~~交易~~(交關)~~之~~(个)人
+- **Courier** Tshoiⁿ lí-bé; tsáu-bûn-tsṳ ... ... ... 千里馬  走文書
+- **Customer** Bói-kheh; kau-kuan--kâi-nâng ... ... ... 買客  ~~交易~~(交關)~~之~~(个)人
 - **Defraud** Tshuah ... ... ... 掇
 - **Demurrage** Thiap-kùe-hãn kâi-ngṳ̂n ... ... ... 貼過限~~個~~(个)銀
 - **Dissolve partnership** Thiah-húe-kì ... ... ... 拆夥記
@@ -2869,10 +2869,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ to collect** Khieh-hiàng ... ... ... ~~携~~(挈)餉
 - **„ to pay** Láp-hiàng ... ... ... 納餉
 - **„ to avoid** Tsáu-hiàng ... ... ... 走餉
-- **Employment** Thâu-lōu; sṳ̄ ... ... ... 頭路　事
+- **Employment** Thâu-lōu; sṳ̄ ... ... ... 頭路  事
 - **Estate, (lands and houses,)** Súaⁿ-ngiáp ... ... ... 產業
 - **„ (properties of all kinds,)** Ke-húe ... ... ... 家伙
-- **Estimate, to** Kóu-kè; pān ... ... ... 估價　酌
+- **Estimate, to** Kóu-kè; pān ... ... ... 估價  酌
 - **Examine, to** Chhê-thóiⁿ ... ... ... 查~~看~~(睇)
 - **Exhibit, to, (goods,)** Pái ... ... ... 擺
 - **Exorbitant price** Kùi-tsãi ... ... ... ~~盡貴~~(貴在)
@@ -2889,18 +2889,18 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Landlord** Tshù-tsú ... ... ... 厝主
 - **Lease, to** Tsou ... ... ... 租
 - **Leisure** Oiⁿ ... ... ... ~~閑~~(閒)
-- **Letter, a** Phoi; sìn ... ... ... 批　信
+- **Letter, a** Phoi; sìn ... ... ... 批  信
 - **Mail (from Europe,)** Tsóu-ke-sìn ... ... ... 祖家信
-- **Manage, to** Lí, phōiⁿ ... ... ... 理　辨
+- **Manage, to** Lí, phōiⁿ ... ... ... 理  辨
 - **Manager** Ke-tiéⁿ ... ... ... 家長
 - **Manifest, ship's** Pò-hiàng-tuaⁿ ... ... ... 報餉單
 - **Market, (street,)** Koi-chhĩ ... ... ... 街市
 - **„ price** Hâng-chhêng ... ... ... 行~~⿰忄靑~~(情)
 - **Merchandise** Hùe ... ... ... 貨
 - **Merchant, a** Kheh-siang ... ... ... 客商
-- **Miscellaneous** Lân-san; tshàm-tshùi ... ... ... 零些　~~微末~~(纖碎)
+- **Miscellaneous** Lân-san; tshàm-tshùi ... ... ... 零些  ~~微末~~(纖碎)
 - **Monthly** Guéh-guéh ... ... ... 月月
-- **News** Sin-bũn; sie-sit ... ... ... 新聞　消息
+- **News** Sin-bũn; sie-sit ... ... ... 新聞  消息
 - **Newspaper** Sin-bũn-tsúa ... ... ... 新聞紙
 - **Note-book** Phõu-kiáⁿ ... ... ... 簿~~仔~~(囝)
 - **Notify, to** Thong-tsai ... ... ... 通知
@@ -2911,7 +2911,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Partner, a** Húe-kì ... ... ... 夥記
 - **Passport, a** Lōu-phiè ... ... ... 路票
 - **Postage** Chiú-chîⁿ ... ... ... 酒錢
-- **Purchase, to** Bói; kau-kuan ... ... ... 買　~~交易~~(交關)
+- **Purchase, to** Bói; kau-kuan ... ... ... 買  ~~交易~~(交關)
 - **„ stock in trade** Phah-phòu ... ... ... ~~打~~(拍)舖
 - **Register, to** Chhiam-miâⁿ ... ... ... 簽名
 - **Retail, to** Lân-san-bōi ... ... ... 零些賣
@@ -2919,7 +2919,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Salary** Kang-tsṳ ... ... ... 工資
 - **Sale, for** Àiⁿ-bōi--kâi ... ... ... ~~要~~(愛)賣~~個~~(个)
 - **„ no** Bõi-siou ... ... ... 袂~~消~~(銷)
-- **Sample** Pān-thâu; pān ... ... ... 辦頭　辦
+- **Sample** Pān-thâu; pān ... ... ... 辦頭  辦
 - **Sell, to** Bōi ... ... ... 賣
 - **„ stock in trade** Phòu phah--khṳt-náng ... ... ... 舖~~打~~(拍)~~與~~(乞)人
 - **Share, a** Hūn ... ... ... 分
@@ -2933,7 +2933,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ brisk** Seng-lí jiét ... ... ... 生理~~鬧~~(熱)
 - **„ dull** Bô-seng-lí ... ... ... 無生理
 - **Tradesman, a** Seng-lí-nâng ... ... ... 生理人
-- **Transaction, business** Kau-kùa; bói-bōi ... ... ... 交掛　買賣
+- **Transaction, business** Kau-kùa; bói-bōi ... ... ... 交掛  買賣
 - **Undersell, to** Bōi-phiⁿ--nâng ... ... ... 賣~~平~~(偏)~~他人~~(人)
 - **Unprofitable** Oh-thàn ... ... ... ~~難~~(僫)~~贃~~(趁)
 - **Wages** Kang-chîⁿ ... ... ... 工錢
@@ -2980,13 +2980,13 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Forgery, of another's name** Ké-chhiú-pit ... ... ... 假手筆
 - **„ of seal** Ké-ìn ... ... ... 假印
 - **Arson** Pàng-húe ... ... ... 放火
-- **Robbery** Pak-ko-kúe; chhiéⁿ-pak ... ... ... ~~搶刧~~(剝糕粿)　搶剝
+- **Robbery** Pak-ko-kúe; chhiéⁿ-pak ... ... ... ~~搶刧~~(剝糕粿)  搶剝
 - **Suicide** Tsṳ̃-chĩn ... ... ... 自盡
 - **„ by hanging** Tiòu-ãm ... ... ... 吊~~頸~~(頷)
 - **Theft** Tsò-tshát ... ... ... 做賊
 - **Breach of trust** Tîm-sìn ... ... ... 沉信
 - **„ faith** Sit-sìn ... ... ... 失信
-- **Cheating** Láu-nâng; phièn-nâng ... ... ... ~~拐~~(漏)人　騙人
+- **Cheating** Láu-nâng; phièn-nâng ... ... ... ~~拐~~(漏)人  騙人
 - **Causing hurt** Sieⁿ-nâng ... ... ... 傷人
 - **Assault** Phah-nâng ... ... ... ~~打~~(拍)人
 - **Drunkenness** Chiáh-chiú-tsùi ... ... ... 食酒醉
@@ -3000,9 +3000,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Pirate, a** Hái-tshát ... ... ... 海賊
 - **Prosecutor** Nguân-kò ... ... ... 原告
 - **Accused** Pĩ-kò ... ... ... 被告
-- **Witness, a** Kan-chèng ... ... ... 干証
+- **Witness, a** Kan-chèng ... ... ... 干~~証~~(證)
 - **Eye-witness, an** Chhin-mák thóiⁿ-kìⁿ ... ... ... 親目~~看~~(睇)見
-- **Try, (a case)** Sím; phōiⁿ ... ... ... 審　辦
+- **Try, (a case)** Sím; phōiⁿ ... ... ... 審  辦
 - **Clear** Mêng-péh ... ... ... 明白
 - **Examine, to** Kháu-mn̄g ... ... ... 考問
 - **Evidence** Kháu-keng ... ... ... 口供
@@ -3022,7 +3022,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Flog severely** Phah thiám-thiám ... ... ... ~~打~~(拍)~~重重~~(忝忝)
 - **Strangle to death** Liû-sí ... ... ... 絞死
 - **Behead, to** Tsám-thâu ... ... ... 斬頭
-- **Imprison, to** Kìm-kam; siu-kam ... ... ... 禁~~獄~~(監)　收監
+- **Imprison, to** Kìm-kam; siu-kam ... ... ... 禁~~獄~~(監)  收監
 - **Prison, a** Kam ... ... ... ~~獄~~(監)
 - **Prison keeper** Kìm-chí ... ... ... 禁子
 - **Prisoner, a** Huãm-jîn ... ... ... 犯人
@@ -3050,28 +3050,28 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ low rank** Sòi-kuaⁿ ... ... ... 細官
 - **Magistrate, district** Kūiⁿ-kuaⁿ ... ... ... 縣官
 - **„ town** Thôu-phóu-si ... ... ... 巡檢司
-- **Policeman, a** A-tsóng; chhe-hiáh ... ... ... ~~亞~~(阿)總　差役
+- **Policeman, a** A-tsóng; chhe-hiáh ... ... ... ~~亞~~(阿)總  差役
 - **Arrest, to** Liáh ... ... ... 掠
 - **Lock up, to** Kìm ... ... ... 禁
 - **Yamen** Gê-mn̂g ... ... ... 衙門
-- **Court** Tn̂g; kong-tn̂g ... ... ... 堂　公堂
+- **Court** Tn̂g; kong-tn̂g ... ... ... 堂  公堂
 - **Sit, on bench** Tsõ-tn̂g ... ... ... 坐堂
 - **Retire, to** Thò-tn̂g ... ... ... 退堂
 - **Warrant, to issue** Tshut-chhiam ... ... ... 出簽
 - **Summons, to issue** Tshut-phiè ... ... ... 出票
 - **Prosecute, to** Kò ... ... ... 告
 - **Withdraw, to** Khai-pàng ... ... ... 開放
-- **Accuse falsely** Bû-lūa; uáng-khut ... ... ... 誣賴　枉屈
-- **Petition, to send in** Jíp-tiâⁿ; jíp-pín ... ... ... 入呈　入禀
-- **Your Worship** Lãu-iâ; thài-iâ ... ... ... 老爺　太爺
+- **Accuse falsely** Bû-lūa; uáng-khut ... ... ... 誣賴  枉屈
+- **Petition, to send in** Jíp-tiâⁿ; jíp-pín ... ... ... 入呈  入禀
+- **Your Worship** Lãu-iâ; thài-iâ ... ... ... 老爺  太爺
 - **„ Excellency** Tãi-jîn ... ... ... 大人
 - **Promote, to** Kau-seng ... ... ... 高~~陞~~(升)
 - **Degrade, to** Kàng-khip ... ... ... 降級
-- **Dismiss, to** Pã-cheh; lut-tiōu ... ... ... ~~黜~~(罷)職　黜~~丢~~(掉)
+- **Dismiss, to** Pã-cheh; lut-tiōu ... ... ... ~~黜~~(罷)職  黜~~丢~~(掉)
 - **Appoint, to** Siet-líp ... ... ... 設立
 - **Appointment, an** Cheh-jĩm ... ... ... 職任
-- **Case, a** Uàⁿ; uàⁿ-kiãⁿ ... ... ... 案　案件
-- **„ to have it tried** Phah-kuaⁿ-si; sie-kò ... ... ... ~~打~~(拍)官司　相告
+- **Case, a** Uàⁿ; uàⁿ-kiãⁿ ... ... ... 案  案件
+- **„ to have it tried** Phah-kuaⁿ-si; sie-kò ... ... ... ~~打~~(拍)官司  相告
 - **„ to win** Kò-iâⁿ ... ... ... 告贏
 - **Case, to lose** Kò-su ... ... ... 告輸
 - **Discharge, (a case)** Pàng ... ... ... 放
@@ -3087,7 +3087,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Truth, speak the** Sít-uē tàⁿ ... ... ... 實話呾
 - **Lie, to** Hue-niouⁿ ... ... ... 巧語
 - **Swear, to** Chiù-tsūa ... ... ... ~~發誓~~(咒誓)
-- **Plead guilty** Jīn-tsũe; jīn-tshò ... ... ... 認罪　認錯
+- **Plead guilty** Jīn-tsũe; jīn-tshò ... ... ... 認罪  認錯
 - **According to law** Chiè-lút ... ... ... 照律
 - **Against the law** Ngék-lút ... ... ... 逆律
 - **Break the law** Huãm-lút ... ... ... 犯律
@@ -3102,7 +3102,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **General** Chiang-kun ... ... ... 將軍
 - **Admiral** Tsúi-sṳ thî-tok ... ... ... 水師提督
 - **Officers** Bú-kuaⁿ ... ... ... 武官
-- **Soldiers** Piaⁿ; ióng-chiàng ... ... ... 兵　~~勇壯~~(勇將)
+- **Soldiers** Piaⁿ; ióng-chiàng ... ... ... 兵  ~~勇壯~~(勇將)
 - **Cavalry** Bé-piaⁿ ... ... ... 馬兵
 - **Drill, to** Tshau-liēn ... ... ... 操練
 - **Practise, to** Liēn ... ... ... 練
@@ -3112,11 +3112,11 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Weapon** Ke-húe ... ... ... ~~軍火~~(傢伙)
 - **Sword, a** Kiàm ... ... ... 劍
 - **Gun, a** Chhèng ... ... ... 銃
-- **„ large** Tūa-chhèng; kòng ... ... ... 大銃　𨫋
+- **„ large** Tūa-chhèng; kòng ... ... ... 大銃  𨫋
 - **„ to fire** Phah-chhèng ... ... ... ~~打~~(拍)銃
 - **Gun-powder** Chhèng-iéh ... ... ... 銃藥
 - **Shots** Chhèng-chí ... ... ... 銃子
-- **Fight, to** Thâi; chièn ... ... ... 刣　戰
+- **Fight, to** Thâi; chièn ... ... ... 刣  戰
 - **Bombard, to** Bū ... ... ... 霧
 - **Advance, to** Chìn ... ... ... 進
 - **Retreat, to** Thò ... ... ... 退
@@ -3127,12 +3127,12 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Spear** Pie ... ... ... 標
 - **Shield** Tîn-pâi ... ... ... 藤牌
 - **Travel** Kiâⁿ ... ... ... 行
-- **Baggage** Pau-kó; hêng-lí ... ... ... 包~~槁~~(裹)　行李
+- **Baggage** Pau-kó; hêng-lí ... ... ... 包~~槁~~(裹)  行李
 - **Camp** Iâⁿ-pûaⁿ ... ... ... 營盤
 - **Encamp** Tshàng-iâⁿ ... ... ... 創營
-- **War, a** Sie-thâi; kau-chièn ... ... ... 相刣　交戰
-- **Victory, gain a** Thâi-iâⁿ; chièn-iâⁿ ... ... ... 刣贏　戰贏
-- **„ lose a** Thâi-su; chièn-su ... ... ... 刣輸　戰輸
+- **War, a** Sie-thâi; kau-chièn ... ... ... 相刣  交戰
+- **Victory, gain a** Thâi-iâⁿ; chièn-iâⁿ ... ... ... 刣贏  戰贏
+- **„ lose a** Thâi-su; chièn-su ... ... ... 刣輸  戰輸
 - **Settle, to** Tít ... ... ... 直
 - **Indemnify, to** Pûe ... ... ... 賠
 - **Reconcile, to** Hûa ... ... ... 和
@@ -3157,9 +3157,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Preach, to** Thuân-tõ-lí ... ... ... 傳道理
 - **Preacher, a** Thuân-tõ-lí--kâi-nâng ... ... ... 傳道理~~之~~(个)人
 - **Christians** Hõng-kà ... ... ... 奉教
-- **„ Protestant** Iâ-sou-kà; pài-siãng-tì-nâng ... ... ... 耶穌教　拜上帝人
+- **„ Protestant** Iâ-sou-kà; pài-siãng-tì-nâng ... ... ... 耶穌教  拜上帝人
 - **„ R. Catholics** Thien-tsú-kà ... ... ... 天主教
-- **„ to be** Tshap-hõng-kà; jíp-kà ... ... ... 入奉教　入教
+- **„ to be** Tshap-hõng-kà; jíp-kà ... ... ... 入奉教  入教
 - **Church, members** Siàⁿ-hũe ... ... ... 聖會
 - **„ building** Lói-pài-tn̂g ... ... ... 禮拜堂
 - **Church, building, Roman Catholics** Sèng-tn̂g ... ... ... 聖堂
@@ -3167,13 +3167,13 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Image** Sièⁿ ... ... ... 像
 - **Idol** Lãu-iâ ... ... ... 老爺
 - **Goddess of Sailors** Máⁿ-tsóu ... ... ... 媽祖
-- **Buddha** Hút; hút-tsóu ... ... ... 佛　佛祖
+- **Buddha** Hút; hút-tsóu ... ... ... 佛  佛祖
 - **Buddhist priest** Hûe-sièⁿ ... ... ... 和尙
 - **Tauist „** Sai-kong ... ... ... 司公
 - **Priestess** Nîⁿ-kou-phûa ... ... ... ~~妮姑~~(尼姑)婆
-- **Sorcerer, a** Tâng-sin; tâng-ki ... ... ... 童身　童乩
+- **Sorcerer, a** Tâng-sin; tâng-ki ... ... ... 童身  童乩
 - **Sorceress, a** Lóh-sîn-phûa ... ... ... 落神婆
-- **Fortune teller, a** Khuàⁿ-miãⁿ sin-seⁿ; pok-khùe sin-seⁿ ... ... ... 看命先生　卜卦先生
+- **Fortune teller, a** Khuàⁿ-miãⁿ sin-seⁿ; pok-khùe sin-seⁿ ... ... ... 看命先生  卜卦先生
 - **Geomancer, a** Thóiⁿ-huang-tsúi sin-seⁿ ... ... ... ~~看~~(睇)風水先生
 - **Temple, a** Lãu-iâ-keng ... ... ... 老爺宮
 - **Monastery, a** Am ... ... ... ~~菴~~(庵)
@@ -3182,11 +3182,11 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Shrine** Sîn-kham ... ... ... 神龕
 - **Censor, a** Hieⁿ-lôu ... ... ... 香爐
 - **Incense** Hieⁿ ... ... ... 香
-- **Sacrificial paper** Chîⁿ-tsúa; ngṳ̂n-tiãⁿ ... ... ... 錢紙　銀錠
+- **Sacrificial paper** Chîⁿ-tsúa; ngṳ̂n-tiãⁿ ... ... ... 錢紙  銀錠
 - **Worship, to** Pài ... ... ... 拜
 - **„ idols** Pài-lãu-iâ ... ... ... 拜老爺
 - **„ ancestors** Pài-a-kong ... ... ... 拜~~亞~~(阿)公
-- **Recite prayers** Thák-keng; liām-keng ... ... ... 讀經　唸經
+- **Recite prayers** Thák-keng; liām-keng ... ... ... 讀經  唸經
 - **Divination by bamboo slips** Lok-chhiam ... ... ... 搖籤
 - **Divination by bamboo roots** Puáh-pue ... ... ... 拔杯
 - **Offering, an** Hõng ... ... ... 奉
@@ -3202,7 +3202,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Compassion** Khó-liên ... ... ... 可憐
 - **Sympathy** Thói-thiap ... ... ... 體貼
 - **Happiness** Hok-khì ... ... ... 福氣
-- **Misery** Chhi-tshám; kan-khóu ... ... ... 悽慘　艱苦
+- **Misery** Chhi-tshám; kan-khóu ... ... ... ~~悽~~(淒)慘  艱苦
 - **Angel** Thiⁿ-sài ... ... ... ~~天師~~(天使)
 - **Devil** Môⁿ-kúi ... ... ... 魔鬼
 - **Demon** Kúi ... ... ... 鬼
@@ -3222,7 +3222,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Pray, to** Khî-táu ... ... ... 祈禱
 - **Praise, to** O-ló ... ... ... ~~稱誦~~(呵咾)
 - **Faith** Sìn ... ... ... 信
-- **Repent, to** Kói-pìⁿ ... ... ... 改變
+- **Repent, to** Kói-pìⁿ ... ... ... ~~攺~~(改)變
 - **Filial piety** Kiâⁿ-hàu ... ... ... 行孝
 - **Honesty** Sêng-sít ... ... ... 誠實
 - **Holy** Siàⁿ ... ... ... 聖
@@ -3234,11 +3234,11 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ### Lesson XXV. relationships.
 
-- **Ancestors** Soiⁿ-tsóu; tsóu-kong ... ... ... 先祖　祖公
+- **Ancestors** Soiⁿ-tsóu; tsóu-kong ... ... ... 先祖  祖公
 - **Great-grand-father, paternal** Lãu-kong ... ... ... 老公
 - **Great-grand-mother, paternal** Lãu-máⁿ ... ... ... 老媽
-- **Grand-father, paternal** A-kong; tsóu-pẽ ... ... ... ~~亞~~(阿)公　祖父
-- **Grand-mother, paternal** A-má; tsóu-bó ... ... ... ~~亞~~(阿)媽　祖母
+- **Grand-father, paternal** A-kong; tsóu-pẽ ... ... ... ~~亞~~(阿)公  祖父
+- **Grand-mother, paternal** A-má; tsóu-bó ... ... ... ~~亞~~(阿)媽  祖母
 - **Grand-father, maternal** Gūa-kong ... ... ... 外公
 - **Grand-mother, maternal** Gūa-máⁿ ... ... ... 外媽
 - **Grand-uncle, elder, paternal** Lãu-peh ... ... ... 老伯
@@ -3248,15 +3248,15 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Grand-uncle's child, younger, paternal** A-chek ... ... ... ~~亞~~(阿)叔
 - **Grand-aunt's child, elder, paternal** Piè-peh ... ... ... 表伯
 - **Grand-aunt's child, younger, paternal** Piè-chek ... ... ... 表叔
-- **Father** A-pẽ; a-tia ... ... ... ~~亞~~(阿)父　~~亞~~(阿)爹
-- **Father step** Kì-pẽ; aũ-pẽ ... ... ... 繼父　後父
-- **Mother** A-bó; a-neⁿ ... ... ... ~~亞~~(阿)母　~~亞~~(阿)~~妮~~(嬭)
+- **Father** A-pẽ; a-tia ... ... ... ~~亞~~(阿)父  ~~亞~~(阿)爹
+- **Father step** Kì-pẽ; aũ-pẽ ... ... ... 繼父  後父
+- **Mother** A-bó; a-neⁿ ... ... ... ~~亞~~(阿)母  ~~亞~~(阿)~~妮~~(嬭)
 - **Mother step** Kì-bó ... ... ... 繼母
 - **Elder paternal uncle** A-peh ... ... ... ~~亞~~(阿)伯
 - **Elder paternal uncle's wife** A-ḿ ... ... ... ~~亞~~(阿)姆
 - **Younger paternal uncle** A-chek ... ... ... ~~亞~~(阿)叔
 - **Younger paternal uncle's wife** A-sím ... ... ... ~~亞~~(阿)嬸
-- **Maternal uncle** Bó-kũ; a-kũ ... ... ... 母舅　~~亞~~(阿)舅
+- **Maternal uncle** Bó-kũ; a-kũ ... ... ... 母舅  ~~亞~~(阿)舅
 - **Maternal uncle, elder** Tūa-kũ ... ... ... 大舅
 - **Maternal uncle, younger** Sòi-kũ ... ... ... 細舅
 - **Maternal uncle's wife** A-kĩm ... ... ... ~~亞~~(阿)妗
@@ -3267,20 +3267,20 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Paternal aunt** A-kou ... ... ... ~~亞~~(阿)姑
 - **Paternal aunt, elder** Tūa-kou ... ... ... 大姑
 - **Paternal aunt, younger** Sòi-kou ... ... ... 細姑
-- **Paternal aunt's husband** Kou-tiẽⁿ; a-tiẽⁿ ... ... ... 姑丈　~~亞~~(阿)丈
+- **Paternal aunt's husband** Kou-tiẽⁿ; a-tiẽⁿ ... ... ... 姑丈  ~~亞~~(阿)丈
 - **Paternal aunt's sons** Pié-hiaⁿ-tĩ ... ... ... 表兄弟
 - **Paternal aunt's daughters** Pié-ché-mūeⁿ ... ... ... 表姐妹
 - **Maternal aunt** A-î ... ... ... ~~亞~~(阿)姨
 - **Maternal aunt, elder** Tūa-î ... ... ... 大姨
 - **Maternal aunt, younger** Sòi-î ... ... ... 細姨
-- **Maternal aunt's husband** Î-tiẽⁿ; a-tiẽⁿ ... ... ... 姨丈　~~亞~~(阿)丈
+- **Maternal aunt's husband** Î-tiẽⁿ; a-tiẽⁿ ... ... ... 姨丈  ~~亞~~(阿)丈
 - **Maternal aunt's sons** Pié-hiaⁿ-tĩ ... ... ... 表兄弟
 - **Maternal aunt's daughters** Pié-ché-mūeⁿ ... ... ... 表姐妹
 - **Brother, elder** A-hiaⁿ ... ... ... ~~亞~~(阿)兄
 - **Brother, younger** A-tĩ ... ... ... ~~亞~~(阿)弟
 - **Elder brother's wife** A-só ... ... ... ~~亞~~(阿)嫂
-- **Brother's son** Tiét; tau-sun ... ... ... 姪　姪孫
-- **Brother's daughter** Tiét-nńg; tsáu-sun ... ... ... 姪女　女孫
+- **Brother's son** Tiét; tau-sun ... ... ... 姪  姪孫
+- **Brother's daughter** Tiét-nńg; tsáu-sun ... ... ... 姪女  女孫
 - **Sister, elder** A-ché ... ... ... ~~亞~~(阿)姐
 - **Sister, younger** A-mūeⁿ ... ... ... ~~亞~~(阿)妹
 - **Sister's husband** A-nn̂g ... ... ... ~~亞~~(阿)郎
@@ -3296,15 +3296,15 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Daughter's husband** Kiáⁿ-sài ... ... ... ~~仔~~(囝)婿
 - **Daughter's son** Gūa-sun ... ... ... 外孫
 - **Daughter's daughter** Gūa-tsáu-sun ... ... ... 外女孫
-- **Husband** Ang; jî-sài; chiãng-hu ... ... ... 翁　兒婿　丈夫
-- **Wife** Bóu; chhi; lãu-phûa ... ... ... 𡚸　妻　老婆
-- **Husband's father-in-law** Tiẽⁿ-nâng; ngák-pẽ ... ... ... 丈人　岳父
-- **Husband's mother-in-law** Tiẽⁿ-ḿ-phûa; ngák-bó ... ... ... 丈姆婆　岳母
+- **Husband** Ang; jî-sài; chiãng-hu ... ... ... 翁  兒婿  丈夫
+- **Wife** Bóu; chhi; lãu-phûa ... ... ... 𡚸  妻  老婆
+- **Husband's father-in-law** Tiẽⁿ-nâng; ngák-pẽ ... ... ... 丈人  岳父
+- **Husband's mother-in-law** Tiẽⁿ-ḿ-phûa; ngák-bó ... ... ... 丈姆婆  岳母
 - **Wife's father-in-law** Ta-kuaⁿ ... ... ... 大官
 - **Wife's mother-in-law** Ta-ke ... ... ... 大家
 - **Daughter-in-law's father** Chhin-ke ... ... ... 親家
 - **Daughter-in-law's mother** Chheⁿ-ḿ ... ... ... 親姆
-- **Wife's brothers** Chhi-kũ; a-kũ ... ... ... 妻舅　~~亞~~(阿)舅
+- **Wife's brothers** Chhi-kũ; a-kũ ... ... ... 妻舅  ~~亞~~(阿)舅
 - **Wife's sisters** A-î ... ... ... ~~亞~~(阿)姨
 - **Husband's elder brother** A-peh ... ... ... ~~亞~~(阿)伯
 - **Husband's younger brother** A-chek ... ... ... ~~亞~~(阿)叔
@@ -3322,7 +3322,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Posterity** Kiáⁿ-sun ... ... ... ~~子~~(囝)孫
 - **Virgin, a** Âng-hue-nńg ... ... ... 紅花女
 - **Bridegroom** Sin-nâng-tia ... ... ... 新人爹
-- **Bride** Sin-niêⁿ; sin-nâng ... ... ... 新娘　新人
+- **Bride** Sin-niêⁿ; sin-nâng ... ... ... 新娘  新人
 - **Betroth, to** Tsò ... ... ... 做
 - **Betrothed money** Phiàⁿ-kim ... ... ... 聘金
 - **Middle-man, a** Bûe-nâng ... ... ... 媒人
@@ -3337,11 +3337,11 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 ### Lesson XXVI. a list of animals and birds.
 
 - **Lion** Sai ... ... ... 獅
-- **Tiger** Hóuⁿ; lãu-hóuⁿ ... ... ... 虎　老虎
+- **Tiger** Hóuⁿ; lãu-hóuⁿ ... ... ... 虎  老虎
 - **Elephant** Chhiẽⁿ ... ... ... 象
 - **Rhinoceros** Sai-gû ... ... ... 犀牛
 - **Camel** Lóh-thóh ... ... ... 駱駝
-- **Ass** Lṳ̂; lô ... ... ... ~~驪~~(驢)　騾
+- **Ass** Lṳ̂; lô ... ... ... ~~驪~~(驢)  騾
 - **Deer** Ték ... ... ... 鹿
 - **Wolf** Tshâi-lâng ... ... ... 豺狼
 - **Fox** Hôu-lâi ... ... ... 狐狸
@@ -3356,7 +3356,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Bird** Chióu ... ... ... 鳥
 - **Parrot** Eng-ko ... ... ... 鸚歌
 - **Hawk** Eng-pô ... ... ... 鸚婆
-- **Stork** Hóh; péh-liōu-si ... ... ... 鶴　白鷺絲
+- **Stork** Hóh; péh-liōu-si ... ... ... 鶴  白鷺絲
 - **Rabbit** Chiéh-tshṳ́ ... ... ... 石~~巤~~(鼠)
 - **Sparrow** MÛaⁿ-chiah-chióu ... ... ... 麻雀鳥
 - **Pigeon** Hún-chióu ... ... ... 粉鳥
@@ -3664,363 +3664,363 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ## A Dictionary of some of the more important words in the Swatow dialect.
 
-- **Abandon** Pàng-tiòu ... ... ... 放~~丢~~(掉)
-- **Ability** Pún-sṳ̃; pún-niáⁿ; tshâi-chhêng ... ... ... 本事　本領　才~~⿰忄靑~~(情)
-- **Able** Õi; miâⁿ-ke ... ... ... 會　名家
-- **Abolish** Tṳ̂-tiōu; hùi-tiōu ... ... ... 除~~丢~~(掉)　廢~~丢~~(掉)
+- **Abandon** Pàng-tiòu ... ... ... ~~去丢~~(放掉)
+- **Ability** Pún-sṳ̃; pún-niáⁿ; tshâi-chhêng ... ... ... 本事  本領  才~~⿰忄靑~~(情)
+- **Able** Õi; miâⁿ-ke ... ... ... 會  ~~能幹~~(名家)
+- **Abolish** Tṳ̂-tiōu; hùi-tiōu ... ... ... ~~革除~~(除掉)  ~~廢無~~(廢掉)
 - **Abominable** Khó-ù ... ... ... 可惡
 - **Abrasion** Phiù-phûe; lṳ̄--tiéh ... ... ... 破皮
-- **Abscond** Tsáu-khṳ̀-tiàm ... ... ... 走去坫
-- **Absurd** Thôu-thâu; bô-iáⁿ ... ... ... 塗頭  無影
+- **Abscond** Tsáu-khṳ̀-tiàm ... ... ... 走去~~藏~~(坫)
+- **Absurd** Thôu-thâu; bô-iáⁿ ... ... ... ++++  ++無影++
 - **Abuse** Mēⁿ ... ... ... 罵
 - **Accept** Siu ... ... ... 收
 - **Accident** Ngóu-jiên ... ... ... 偶然
 - **Accidentally** M̃-tsai-thâu ... ... ... ~~不~~(毋)知頭
 - **Accompany, a person off** Sàng ... ... ... 送
 - **Accompany, a funeral** Sàng-sng ... ... ... 送喪
-- **Accomplish** Tsò-chiâⁿ; sêng ... ... ... 做成　成
-- **Accumulate** Chek ... ... ... 積
-- **Accustom** Kùiⁿ-sìⁿ ... ... ... 慣習
+- **Accomplish** Tsò-chiâⁿ; sêng ... ... ... 做成  成
+- **Accumulate** Chek ... ... ... 積~~蓄~~
+- **Accustom** Kùiⁿ-sìⁿ ... ... ... 慣習  ~~所長~~
 - **Acknowledge** Jīn ... ... ... 認
-- **Acquaintance** Siang-sék--kâi-nâng; phêng-iú ... ... ... 相熟~~個~~(个)人　朋友
+- **Acquaintance** Siang-sék--kâi-nâng; phêng-iú ... ... ... 相熟~~個~~(个)人  朋友
 - **Acre** Bóu ... ... ... 畝
-- **Act** Tsò; kiâⁿ ... ... ... 做　行
+- **Act** Tsò; kiâⁿ ... ... ... 做  行
 - **Actor, in play** Hi-kiáⁿ; hì-kieh ... ... ... 梨園
-- **Actor, personating female** Hì-tùaⁿ; a-tùaⁿ ... ... ... 戲旦　~~亞~~(阿)旦
-- **Address, on a letter** Phoi-phûe; huang-phûe ... ... ... 批皮　封皮
-- **Adhesive** Niam-nîⁿ ... ... ... 黏昵
-- **Adjacent** Tsôiⁿ-aũ; lîn-kṳ̃n ... ... ... 前後　鄰近
-- **Adopt, children** Iáng-kiáⁿ ... ... ... 養~~仔~~(囝)
-- **Adult** Tūa--nâng ... ... ... 大人
-- **Adultery** Kan-îm; îm-sṳ̄; sai-sṳ̄ ... ... ... 姦淫　淫事　私事
-- **Advise** Kà; khǹg-kòi ... ... ... 教　勸戒
-- **Affair** Sṳ̄; sṳ̄-bũ ... ... ... 事　事務
-- **Afford, expenses** Ũ-lêng-ûi ... ... ... 有能爲
+- **Actor, personating female** Hì-tùaⁿ; a-tùaⁿ ... ... ... 戲旦  ~~亞~~(阿)旦
+- **Address, on a letter** Phoi-phûe; huang-phûe ... ... ... ~~信~~(批)皮  封皮
+- **Adhesive** Niam-nîⁿ ... ... ... ~~融洽~~(黏昵)
+- **Adjacent** Tsôiⁿ-aũ; lîn-kṳ̃n ... ... ... 前後  ~~僯~~(鄰)近
+- **Adopt, children** Iáng-kiáⁿ ... ... ... 養~~子~~(囝)
+- **Adult** Tūa--nâng ... ... ... ~~長成~~(大人)
+- **Adultery** Kan-îm; îm-sṳ̄; sai-sṳ̄ ... ... ... 姦淫  淫事  私事
+- **Advise** Kà; khǹg-kòi ... ... ... 教  勸戒
+- **Affair** Sṳ̄; sṳ̄-bũ ... ... ... 事  事務
+- **Afford, expenses** Ũ-lêng-ûi ... ... ... 有~~才調~~(能爲)
 - **Age** Hùe ... ... ... 歲
 - **Agree** Háh ... ... ... 合
-- **Agriculture** Chèng-tsoh ... ... ... 種作
+- **Agriculture** Chèng-tsoh ... ... ... ~~耕種~~(種作)
 - **Aground** Khùa--tiéh ... ... ... 掛着
-- **Aim, to** Pí-hó; pí-chiàⁿ; chiẽⁿ-mák ... ... ... 比好　比正　上目
-- **Air** Huang; khì ... ... ... 風　氣
-- **Air, to take the** Lā-liâng ... ... ... 拉凉
-- **Air clothes** Lā-saⁿ ... ... ... 晾衫
-- **Alas!** Āi--ā! ... ... ... 哀啊
-- **Allow** Tsún; hàuⁿ; khéng; iòng ... ... ... 準　好　肯　容
+- **Aim, to** Pí-hó; pí-chiàⁿ; chiẽⁿ-mák ... ... ... 比好  比正  上目
+- **Air** Huang; khì ... ... ... 風  氣
+- **Air, to take the** Lā-liâng ... ... ... ~~乘涼~~(納凉)
+- **Air clothes** Lā-saⁿ ... ... ... ~~披~~(晾)衫
+- **Alas!** Āi--ā! ... ... ... 哀~~哉~~(啊)
+- **Allow** Tsún; hàuⁿ; khéng; iòng ... ... ... 準  好  肯  容
 - **Almanac** Láh-jít ... ... ... 曆日
-- **Almost** Tsha-m̃-to; tsha-put-to; hiám-hiám; lím-lím ... ... ... 差~~不~~(毋)多　差不多　險險　凜凜
-- **Alms, to give** Si; chì-phîn ... ... ... 施　濟貧
+- **Almost** Tsha-m̃-to; tsha-put-to; hiám-hiám; lím-lím ... ... ... ++差毋多++  差不多  險險  凜凜
+- **Alms, to give** Si; chì-phîn ... ... ... 施  濟貧
 - **Alms, to give, rice** Si-bí ... ... ... 施米
-- **Alone** Tuaⁿ-nâng; ka-kī ... ... ... 單人　家己
+- **Alone** Tuaⁿ-nâng; ka-kī ... ... ... 單人  ~~自己~~(家己)
 - **Aloud** Tūa-siaⁿ ... ... ... 大聲
 - **Alphabet** Jī-bó ... ... ... 字母
-- **Alter, to** Kói ... ... ... 改
-- **Alternate** Sie-lûn; sie-thòi ... ... ... 相輪　相代
-- **Although** Sui-jiên ... ... ... 雖然
-- **Altogether** Chék-khài; lóng-tsóng ... ... ... ~~壹~~(一)㮣　~~總共~~(攏總)
+- **Alter, to** Kói ... ... ... ~~攺~~(改)
+- **Alternate** Sie-lûn; sie-thòi ... ... ... 相輪  相~~貸~~(代)
+- **Although** Sui-jiên ... ... ... ~~誰然~~(雖然)
+- **Altogether** Chék-khài; lóng-tsóng ... ... ... ~~壹~~(一)~~㮣~~(概)  ~~俱皆~~(攏總)
 - **Always** Tsong-kú ... ... ... 終久
 - **Amend, to make up** Póu ... ... ... 補
-- **Ammunition** Chhèng-chí húe-iéh ... ... ... 銃子  火藥
+- **Ammunition** Chhèng-chí húe-iéh ... ... ... 銃子火藥
 - **Amusing** Tshù-bī ... ... ... 趣味
 - **Amusement** Thit-thô ... ... ... ~~遊玩~~(佚佗)
-- **Ancient, time** Kóu-tsá ... ... ... 古早
+- **Ancient, time** Kóu-tsá ... ... ... ~~古昔~~(古早)
 - **Ancient, men** Kóu-nâng ... ... ... 古人
-- **Anecdote, to relate** Phuéh-kóu; óh-kóu ... ... ... 詖古  學古
+- **Anecdote, to relate** Phuéh-kóu; óh-kóu ... ... ... ~~講~~(詖)古  ++學古++
 - **Animal** Khîm-siù ... ... ... 禽獸
-- **Animal domestic** Cheng-seⁿ ... ... ... 眾牲
-- **Annex** Chiap; tùe ... ... ... 接　綴
-- **Annoy** Pa-lói; tṳ̂ ... ... ... ~~擾亂~~(巴禮)  除
+- **Animal domestic** Cheng-seⁿ ... ... ... ~~種生~~(眾牲)
+- **Annex** Chiap; tùe ... ... ... 接  ~~連~~(綴)
+- **Annoy** Pa-lói; tṳ̂ ... ... ... ~~狡擾~~(巴禮)  ++++
 - **Anxiety** Khùa-lṳ̃ ... ... ... 掛慮
 - **Appearance** Iēⁿ ... ... ... 樣
 - **Appetite** Õi-chiáh ... ... ... 會食
-- **Appetite no** Bõi-chiáh; chiáh-m̃-lóh ... ... ... 袂食　食~~不~~(毋)落
+- **Appetite no** Bõi-chiáh; chiáh-m̃-lóh ... ... ... 袂食  食~~不~~(毋)落
 - **Appoint** Siet-líp ... ... ... 設立
 - **Appointment** Cheh-jĩm ... ... ... 職任
-- **Approach** Kiâⁿ-mûa ... ... ... 行摩
-- **Arise** Khí; khí--lâi ... ... ... 起　起來
+- **Approach** Kiâⁿ-mûa ... ... ... 行~~近~~(摩)
+- **Arise** Khí; khí--lâi ... ... ... 起  起來
 - **Arm** Chhiú ... ... ... 手
-- **Arm to clasp in the** Nám ... ... ... 攬
+- **Arm to clasp in the** Nám ... ... ... ++攬++
 - **Arm to carry with the** Phõ ... ... ... 抱
-- **Arrange** Pâi-pí; sṳ̃-lí; muéh-hó ... ... ... 排比　事理　~~修好~~(物好)
-- **Arrest** Liáh ... ... ... 掠
+- **Arrange** Pâi-pí; sṳ̃-lí; muéh-hó ... ... ... ~~排列~~(排比)  ~~料理~~(伺理)  ~~修好~~(物好)
+- **Arrest** Liáh ... ... ... ~~拿~~(掠)
 - **Artery** Hueh-méhⁿ ... ... ... 血~~脉~~(脈)
-- **Artist** Ūe-sièⁿ; ūe-ang-kiáⁿ ... ... ... 畫像　畫~~人仔~~(尪囝)
-- **Associate** Kau-tshap ... ... ... 交插
-- **Astray** Kiâⁿ-tāⁿ-lōu ... ... ... 行錯路
-- **Astrologer** Lóh-ngóu-chheⁿ sin-seⁿ; khùaⁿ-miāⁿ sin-seⁿ ... ... ... 落~~伍~~(五)星先生　看命先生
+- **Artist** Ūe-sièⁿ; ūe-ang-kiáⁿ ... ... ... 畫像  畫~~人子~~(尪囝)
+- **Associate** Kau-tshap ... ... ... ~~交遊~~(交插)
+- **Astray** Kiâⁿ-tāⁿ-lōu ... ... ... 行~~差~~(賺)路
+- **Astrologer** Lóh-ngóu-chheⁿ sin-seⁿ; khùaⁿ-miāⁿ sin-seⁿ ... ... ... 落五星先生  看命先生
 - **Astronomy** Thien-bûn ... ... ... 天文
-- **Asylum, for lepers** Thái-ko-liôu ... ... ... 癩瘑寮
+- **Asylum, for lepers** Thái-ko-liôu ... ... ... 癩++瘑++寮
 - **Atone** Sók-tsũe ... ... ... 贖罪
-- **Attend, upon somebody** Teng-tùe ... ... ... 盯綴
+- **Attend, upon somebody** Teng-tùe ... ... ... ~~相隨~~(盯綴)
 - **Attend, on sick person** Khâng-khiâ ... ... ... 捧擎
-- **Attendants** Kṳn-sûi; teng-tùe--kâi-nâng ... ... ... 跟隨　盯綴~~個~~(个)人
-- **Attentive** Tsuan-sim; kṳ́n-sim ... ... ... 專心　謹心
-- **Author** Tsò-tsṳ; tù-tsṳ ... ... ... 做書  著書
+- **Attendants** Kṳn-sûi; teng-tùe--kâi-nâng ... ... ... 跟隨  ~~相隨~~(盯綴)~~個~~(个)人
+- **Attentive** Tsuan-sim; kṳ́n-sim ... ... ... 專心  謹心
+- **Author** Tsò-tsṳ; tù-tsṳ ... ... ... ++做書++  著書
 - **Authority, discretion** Khuân ... ... ... 權
-- **Awake** Chhéⁿ; chhéⁿ--khí-lâi ... ... ... 醒　醒起來
-- **Awhile** Khùn-kiáⁿ ... ... ... 頃~~仔~~(囝)
-- **Bachelor** Bô-bóu ... ... ... 無𡚸
-- **Backbone** Ie-kut; ie-chiah-kut ... ... ... 腰骨　腰脊骨
-- **Bad** Ak; phái; m̃-móⁿ ... ... ... 惡　~~敗~~(痞)  ~~不好~~(毋孬)
-- **Bag** Tō; pòu-tō ... ... ... 袋　布袋
-- **Baggage** Hêng-lí; pau-kó ... ... ... 行李　包~~槁~~(裹)
+- **Awake** Chhéⁿ; chhéⁿ--khí-lâi ... ... ... 醒  醒起來
+- **Awhile** Khùn-kiáⁿ ... ... ... ~~霎時~~(頃囝)
+- **Bachelor** Bô-bóu ... ... ... 無~~妻~~(𡚸)
+- **Backbone** Ie-kut; ie-chiah-kut ... ... ... 腰骨  腰++脊++骨
+- **Bad** Ak; phái; m̃-móⁿ ... ... ... 惡  ++痞++  ~~不好~~(毋孬)
+- **Bag** Tō; pòu-tō ... ... ... 袋  布袋
+- **Baggage** Hêng-lí; pau-kó ... ... ... 行李  包~~槁~~(裹)
 - **Bail** Tam-sêng ... ... ... 擔承
-- **Bait** Jī; hṳ̂-jī ... ... ... 餌　魚餌
-- **Bald** Tshàu-thâu ... ... ... 臭頭
-- **Bale, out water** Ié-tiōu-tsúi ... ... ... 舀~~丢~~(掉)水
-- **Ball** Kiû ... ... ... 球
-- **Ball play football** That-kiû ... ... ... 踢球
-- **Ballast, to** Teh-tãng ... ... ... 壓重
+- **Bait** Jī; hṳ̂-jī ... ... ... 餌  魚餌
+- **Bald** Tshàu-thâu ... ... ... ~~光頭~~(臭頭)
+- **Bale, out water** Ié-tiōu-tsúi ... ... ... ~~盤~~(舀)~~丢~~(掉)水
+- **Ball** Kiû ... ... ... ~~毬~~(球)
+- **Ball play football** That-kiû ... ... ... 踢~~毬~~(球)
+- **Ballast, to** Teh-tãng ... ... ... ~~磧~~(壓)重
 - **Bamboo** Tek ... ... ... 竹
 - **Bamboo pole** Tek-ko ... ... ... 竹篙
-- **Banish** Tshong-kun; liû-thû ... ... ... 充軍　流徒
+- **Banish** Tshong-kun; liû-thû ... ... ... 充軍  流徒
 - **Bank, river** Khoi-kîⁿ ... ... ... 溪墘
 - **Bank, sand** Sua-pà ... ... ... 沙埧
-- **Barbarian** Huan-nâng; huan[1] ... ... ... ~~畨~~(番)人　~~畨~~(番)
-- **Barber** Thì-thâu; thì-thâu-kiáⁿ ... ... ... 剃頭　剃頭~~仔~~(囝)
-- **Bare, body** Thǹg-theh-theh ... ... ... ~~脫~~(褪)裼裼
-- **Bare, foot** Thǹg-chhiah-kha ... ... ... 褪赤~~脚~~(骹)
+- **Barbarian** Huan-nâng; huan[1] ... ... ... ~~畨~~(番)人  ~~畨~~(番)
+- **Barber** Thì-thâu; thì-thâu-kiáⁿ ... ... ... 剃頭  剃頭~~子~~(囝)
+- **Bare, body** Thǹg-theh-theh ... ... ... ~~赤身~~(褪裼裼)
+- **Bare, foot** Thǹg-chhiah-kha ... ... ... ~~赤脚~~(褪赤骹)
 - **Bark** Chhiū-phûe ... ... ... 樹皮
 - **Bark as dogs** Pūi ... ... ... 吠
-- **Barn** Chhek-tshng ... ... ... 粟倉
+- **Barn** Chhek-tshng ... ... ... ~~穀~~(粟)倉
 - **Barometer** Huang-hõu-tsam ... ... ... 風雨針
 - **Bawl** Jiáng ... ... ... 嚷
 - **Beak** Chióu-tshùi ... ... ... 鳥~~嘴~~(喙)
-- **Bear, endure** Nãiⁿ ... ... ... 耐
-- **Bear, when painful or miserable** Lún; khat-khóu-lún; khat-khóu-nãiⁿ ... ... ... 忍　刻苦忍　刻苦耐
-- **Bear, cannot** Nãiⁿ-m̃-khṳ̀; tòng-m̃-tiôu ... ... ... 耐~~不~~(毋)去 擋~~不~~(毋)條
+- **Bear, endure** Nãiⁿ ... ... ... 奈
+- **Bear, when painful or miserable** Lún; khat-khóu-lún; khat-khóu-nãiⁿ ... ... ... 忍  刻苦忍  刻苦奈
+- **Bear, cannot** Nãiⁿ-m̃-khṳ̀; tòng-m̃-tiôu ... ... ... 奈~~不~~(毋)去  ++擋毋條++
 - **Beast** Khîm-siù ... ... ... 禽獸
 - **Beastly** Tṳ-káu khîm-siù ... ... ... 豬狗禽獸
-- **Beau** Hàuⁿ-héhⁿ--kâi-nâng ... ... ... 好赫~~個~~(个)人
-- **Beautiful** Ngiá; hó-thóiⁿ ... ... ... 雅　好~~看~~(睇)
-- **Beckon** Iáh; iáh-chhiú ... ... ... 曳　曳手
+- **Beau** Hàuⁿ-héhⁿ--kâi-nâng ... ... ... ~~公子家~~(好赫个人)
+- **Beautiful** Ngiá; hó-thóiⁿ ... ... ... 雅  好~~看~~(睇)
+- **Beckon** Iáh; iáh-chhiú ... ... ... ~~招~~(曳)  ~~招~~(曳)手
 - **Bed** Mîn-tshn̂g ... ... ... 眠床
-- **Before** Soiⁿ; tsôiⁿ ... ... ... 先　前
+- **Before** Soiⁿ; tsôiⁿ ... ... ... 先  前
 - **„ as** I-nguân ... ... ... 依原
-- **Befoul** Mak--tiéh nah-sap; hú--tiéh nah-sap ... ... ... 衊着~~污穢~~(垃圾)  附着~~污穢~~(垃圾)
+- **Befoul** Mak--tiéh nah-sap; hú--tiéh nah-sap ... ... ... ~~染~~(衊)着~~污穢~~(垃圾)  附着~~污穢~~(垃圾)
 - **Beg** Khiû ... ... ... 求
 - **„ alms** Khṳt ... ... ... 乞
 - **Beget** Seⁿ ... ... ... 生
-- **Beggar** Khṳt-chiáh ... ... ... 乞食
+- **Beggar** Khṳt-chiáh ... ... ... ~~乞丐~~(乞食)
 - **Begin** Khí ... ... ... 起
 - **Beginning** Khí-thâu ... ... ... 起頭
 - **Behalf, on** Thòi ... ... ... 代
 - **Behaviour** Kui-kṳ́ ... ... ... 規矩
-- **Behead** Tsám-thâu; phoh-thâu ... ... ... 斬頭　劈頭
-- **Belch** Phah-oh ... ... ... ~~打~~(拍)呃
-- **Believe** Sìn; siang-sìn ... ... ... 信　相信
+- **Behead** Tsám-thâu; phoh-thâu ... ... ... 斬頭  ~~刣~~(劈)頭
+- **Belch** Phah-oh ... ... ... ~~打咽~~(拍呃)
+- **Believe** Sìn; siang-sìn ... ... ... 信  相信
 - **Bell** Cheng ... ... ... 鐘
 - **Belly** Tóu ... ... ... 肚
 - **Belong** Sók ... ... ... 屬
 - **Belt** Khòu-thâu-tūa ... ... ... 褲頭帶
-- **Bench** Íⁿ; tn̂g-íⁿ ... ... ... 椅　長椅
+- **Bench** Íⁿ; tn̂g-íⁿ ... ... ... 椅  長椅
 - **Bench, magistrate's** Uàⁿ-tshn̂g ... ... ... 案床
-- **Bend** Á-uan; muéh-uan ... ... ... 拗彎　物彎
+- **Bend** Á-uan; muéh-uan ... ... ... 拗~~灣~~(彎)  物~~灣~~(彎)
 - **Beneath** Ẽ ... ... ... 下
 - **Benefit** Iah ... ... ... 益
 - **Benevolence** Jîn-tshṳ̂ ... ... ... 仁慈
-- **Beseech** Khiû; khṳt ... ... ... 求　乞
-- **Beside** Tsò-pû ... ... ... 做包
-- **Besides** Huân-lióu; siãng-chhiáⁿ ... ... ... 還了　尙且
-- **Best** Siãng-hó; it-hó; tõiⁿ-it-hó ... ... ... 上好　一好　第一好
+- **Beseech** Khiû; khṳt ... ... ... 求  乞
+- **Beside** Tsò-pû ... ... ... ~~同在~~(做包)
+- **Besides** Huân-lióu; siãng-chhiáⁿ ... ... ... 還了  尙且
+- **Best** Siãng-hó; it-~~hō~~(hó); tõiⁿ-it-hó ... ... ... 上好  ~~壹號~~(一好)  第~~壹號~~(一好)
 - **Bet** Sie-su ... ... ... 相輸
 - **Betroth** Tsò-chhin ... ... ... 做親
-- **„ a girl to a person** Tsò--pun-nâng; pàng-chhin ... ... ... 做分人　放親
+- **„ a girl to a person** Tsò--pun-nâng; pàng-chhin ... ... ... ~~配與人~~(做分人)  放親
 - **Betrothal money** Phiàⁿ-kim ... ... ... 聘金
 - **„ to send** Sàng-phiàⁿ ... ... ... 送聘
-- **Better** Zú-hó; kèng-hó; hó--kùe; iâⁿ-kùe ... ... ... 愈好　更好　好過　贏過
+- **Better** Zú-hó; kèng-hó; hó--kùe; iâⁿ-kùe ... ... ... 愈好  更好  好過  ~~勝~~(贏)過
 - **Beware** Tsai-kuan ... ... ... 知觀
-- **Bewildered** Kông-khṳ̀ ... ... ... 戇去
+- **Bewildered** Kông-khṳ̀ ... ... ... ~~迷亂~~(戇去)
 - **Beyond, to go** Kùe ... ... ... 過
-- **Bind** Pák; khún; hâ ... ... ... 綁　綑　縖
+- **Bind** Pák; khún; hâ ... ... ... 綁  綑  ++縖++
 - **„ book** Kap-tsṳ-chheh ... ... ... 夾書冊
 - **„ feet** Tîⁿ-kha ... ... ... 纏~~脚~~(骹)
-- **Birthday** Seⁿ-jít ... ... ... 生日
+- **Birthday** Seⁿ-jít ... ... ... ~~令旦~~(生日)
 - **Bistre** Tṳ-kuaⁿ-sek ... ... ... 豬肝色
-- **Bit, of anything** Chék-tiám; tiám-kiáⁿ ... ... ... ~~壹~~(一)~~㸃~~(點)　~~㸃~~(點)~~仔~~(囝)
+- **Bit, of anything** Chék-tiám; tiám-kiáⁿ ... ... ... ~~壹~~(一)~~㸃~~(點)  ~~須子~~(點囝)
 - **Bitch** Káu-bó ... ... ... 狗母
 - **Bite** Kã ... ... ... 咬
 - **„ as pepper** Soh ... ... ... 束
 - **Bitter** Khóu ... ... ... 苦
 - **Black** Ou ... ... ... 烏
-- **Blackguard** Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng ... ... ... 臭人　爛人　無下無落~~個~~(个)人
+- **Blackguard** Tshàu-nâng; aù-nâng; bô-hē bô-lóh--kâi-nâng ... ... ... 臭人  爛人  ++無下無落个人++
 - **Blacksmith** Phah-thih ... ... ... ~~打~~(拍)鐵
-- **Bladder** Jiē-pha; tsúi-pha; lãn-pha[2] ... ... ... 尿脬  水脬  卵脬
+- **Bladder** Jiē-pha; tsúi-pha; lãn-pha[2] ... ... ... ~~膀光~~(尿脬)  ++水脬++  ++卵脬++
 - **Blade, of a knife** To-nék ... ... ... 刀肉
-- **Blame** Hiâm; mēⁿ ... ... ... 嫌　罵
+- **Blame** Hiâm; mēⁿ ... ... ... 嫌  罵
 - **Blameless** Bô-hó-hiâm ... ... ... 無好嫌
-- **Blanket, for bed** Tháng ... ... ... 毯
+- **Blanket, for bed** Tháng ... ... ... ~~被~~(毯)
 - **Blast, as rocks** Piàng ... ... ... 爆
 - **Blaze** Húe-iām ... ... ... 火炎
 - **Bleach** Piè-péh ... ... ... 漂白
 - **Bleed** Lâu-hueh ... ... ... 流血
 - **Bless** Sṳ̀-hok ... ... ... 賜福
 - **Blessing** Hok-khì ... ... ... 福氣
-- **Blind** Chheⁿ-mêⁿ ... ... ... ~~睛盲~~(青盲)
-- **Blindfold** Aⁿ-mák tsáu-tīam ... ... ... 掩目走坫
+- **Blind** Chheⁿ-mêⁿ ... ... ... ~~瞎眼~~(青盲)
+- **Blindfold** Aⁿ-mák tsáu-tīam ... ... ... ~~遮~~(掩)目走~~藏~~(坫)
 - **Block, large lump of wood** Tshâ-thâu ... ... ... 柴頭
-- **Blockade** Kìm-kháu; Kìm-káng ... ... ... 禁口　禁港
-- **Blockhead** Tshâ-thâu; ngûi-phûe ... ... ... 柴頭　危皮
+- **Blockade** Kìm-kháu; Kìm-káng ... ... ... 禁口  禁港
+- **Blockhead** Tshâ-thâu; ngûi-phûe ... ... ... 柴頭  危皮
 - **Blood-vessel** Hueh-méhⁿ ... ... ... 血~~脉~~(脈)
 - **Blossom** Khui-hue ... ... ... 開花
-- **Blow, to strike a** Cheng; tshùaⁿ ... ... ... 撞　拍
-- **„ wind with the mouth** Pûn-huang ... ... ... ~~呠~~(歕)風
-- **„ a whistle** Pûn-pi ... ... ... ~~呠~~(歕)~~陂~~(嗶)
-- **„ out, as lamp** Pûn-kùe ... ... ... ~~呠~~(歕)過
-- **Bludgeon** Tshâ-thûi ... ... ... 柴槌
+- **Blow, to strike a** Cheng; tshùaⁿ ... ... ... 撞  打
+- **„ wind with the mouth** Pûn-huang ... ... ... ~~吹~~(歕)風
+- **„ a whistle** Pûn-pi ... ... ... ~~吹~~(歕)~~陂~~(嗶)
+- **„ out, as lamp** Pûn-kùe ... ... ... ~~吹~~(歕)過
+- **Bludgeon** Tshâ-thûi ... ... ... 柴~~錘~~(槌)
 - **Blue** Nâm; lâm ... ... ... 藍
 - **„ as sky** Chheⁿ ... ... ... ~~靑~~(青)
-- **Blunder** Tshò; m̃-tiéh ... ... ... 錯　~~不~~(毋)着
+- **Blunder** Tshò; m̃-tiéh ... ... ... 錯  ~~不~~(毋)着
 - **Blunt, of knife** Tun ... ... ... 鈍
-- **„ of point** Lu; bõi-chiam ... ... ... 夵　袂尖
+- **„ of point** Lu; bõi-chiam ... ... ... 夵  ~~不~~(袂)尖
 - **Boar** Tṳ-ko ... ... ... 豬哥
 - **Board** Pang ... ... ... 枋
 - **„ on …… ship** Tõ-tsûn ... ... ... 在船
 - **„ go on …… ship** Lóh-tsûn ... ... ... 落船
 - **„ the six** Lák-põu ... ... ... ~~陸~~(六)部
-- **Boast** La-kè; tàⁿ-tūa-uē ... ... ... La-kè　呾大話
+- **Boast** La-kè; tàⁿ-tūa-uē ... ... ... ~~自誇~~()  ~~講~~(呾)大話
 - **Boatman** Kiâⁿ-tsûn-nâng ... ... ... 行船人
-- **Bolt, of door** Mn̂g-tshùaⁿ; mn̂g-chhēng ... ... ... 門閂　門拴
-- **„ a door** Tshùaⁿ-mn̂g ... ... ... 閂門
+- **Bolt, of door** Mn̂g-tshùaⁿ; mn̂g-chhēng ... ... ... 門~~拴~~(閂)  門~~閂~~(拴)
+- **„ a door** Tshùaⁿ-mn̂g ... ... ... ~~拴~~(閂)門
 - **„ grain** Thai ... ... ... 篩
-- **Bolter** Bí-thai; bí-lô ... ... ... 米篩　米籮
+- **Bolter** Bí-thai; bí-lô ... ... ... 米篩  米籮
 - **Book** Tsṳ-chheh ... ... ... 書冊
 - **Book cover** Chheh-phûe ... ... ... 冊皮
-- **Bookcase** Chheh-tû; tsṳ-tû ... ... ... 冊櫥　書櫥
+- **Bookcase** Chheh-tû; tsṳ-tû ... ... ... 冊櫥  書櫥
 - **Boots** Hia ... ... ... 靴
 - **Booth** Tsháu-lióu ... ... ... 草寮
 - **Bore** Tsǹg ... ... ... 鑽
 - **Borer** Tsǹg-kiáⁿ ... ... ... 鑽~~仔~~(囝)
-- **Born** Seⁿ; tshut-sì ... ... ... 生　出世
+- **Born** Seⁿ; tshut-sì ... ... ... 生  出世
 - **Borrow** Chieh ... ... ... 借
-- **Both, persons** Jĩ-ke ... ... ... 二家
+- **Both, persons** Jĩ-ke ... ... ... ~~兩~~(二)家
 - **„ things** Nõⁿ-kâi ... ... ... 兩個
 - **Bottom** Tói ... ... ... 底
 - **Bough** Chhiū-ki ... ... ... 樹枝
 - **Boundary** Tī-kài ... ... ... 地界
 - **Bouquet, of flowers** Chék-pé-hue ... ... ... ~~壹~~(一)把花
 - **Bow, of arrow** Keng ... ... ... 弓
-- **„ to** Thâu tièⁿ--lóh-lâi; thâu phak--lóh-lâi ... ... ... 頭伏落來
-- **„ with two hands together on the chest** Ip-tsà ... ... ... 揖作
-- **Bowels** Tn̂g; tóu ... ... ... 腸　肚
+- **„ to** Thâu tièⁿ--lóh-lâi; thâu phak--lóh-lâi ... ... ... ++++  頭~~扑~~(伏)落來
+- **„ with two hands together on the chest** Ip-tsà ... ... ... ~~作揖~~(揖作)
+- **Bowels** Tn̂g; tóu ... ... ... 腸  肚
 - **Box** Sieⁿ ... ... ... 箱
 - **„ little** Áp ... ... ... 匣
-- **Boy** A-nôuⁿ; nôuⁿ-kiáⁿ ... ... ... ~~亞奴~~(阿孥)　孥~~仔~~(囝)
+- **Boy** A-nôuⁿ; nôuⁿ-kiáⁿ ... ... ... ~~小子~~(阿孥)  ~~奴子~~(孥囝)
 - **Bracelet** Chhiú-huân ... ... ... 手環
 - **Braces** Khòu-tiòu ... ... ... 褲吊
 - **Brain** Thâu-khak-tshúe ... ... ... 頭~~壳~~(殼)髓
 - **Bran** Khng ... ... ... 糠
-- **Branch, large** Chhiū-pà ... ... ... 樹欛
+- **Branch, large** Chhiū-pà ... ... ... ~~樹枝~~(樹欛)
 - **Branch, small** Chhiū-ki ... ... ... 樹枝
-- **Brass** Tâng; n̂g-tâng ... ... ... 銅　黃銅
+- **Brass** Tâng; n̂g-tâng ... ... ... 銅  黃銅
 - **Brass leaf** Tâng-póh ... ... ... 銅薄
-- **Brave** Káⁿ; ũ-táⁿ ... ... ... 敢　有胆
+- **Brave** Káⁿ; ũ-táⁿ ... ... ... 敢  有~~胆~~(膽)
 - **Brazier** Phah-tâng sai-pẽ ... ... ... ~~打~~(拍)銅司阜
-- **Break** Muéh-phùa ... ... ... 物破
+- **Break** Muéh-phùa ... ... ... ~~打~~(物)破
 - **„ as crockery ware** Khà-phùa ... ... ... 扣破
-- **„ asunder, as a stick** Á-chíh ... ... ... 掗折
-- **Breakfast, to take** Chiáh-mêng-khí ... ... ... 食~~明早~~(眠起)
+- **„ asunder, as a stick** Á-chíh ... ... ... ++掗折++
+- **Breakfast, to take** Chiáh-mêng-khí ... ... ... 食~~早朝~~(眠起)
 - **Breast** Sim-kuaⁿ-thâu ... ... ... 心肝頭
-- **„ woman's** Nĩⁿ ... ... ... 乳
+- **„ woman's** Nĩⁿ ... ... ... ~~乳~~(奶)
 - **Breath** Khùi ... ... ... 氣
-- **Breathe** Tháu-khùi ... ... ... ~~解~~(㪗)氣
+- **Breathe** Tháu-khùi ... ... ... ~~出氣~~(㪗氣)
 - **Breeze** Huang ... ... ... 風
 - **Brethren** Hiaⁿ-tĩ ... ... ... 兄弟
 - **Bribe, to** Sái-ēng ... ... ... 使用
-- **„ to receive** Siũ-iũ; chiáh-chîⁿ ... ... ... 受賄　食錢
+- **„ to receive** Siũ-iũ; chiáh-chîⁿ ... ... ... 受賄  食錢
 - **Brick** Tsng ... ... ... 磚
-- **Bride** Sin-niêⁿ; sin-nâng ... ... ... 新娘　新人
+- **Bride** Sin-niêⁿ; sin-nâng ... ... ... 新娘  新人
 - **Bridegroom** Sin-nâng-tia ... ... ... 新人爹
 - **Bridge** Kiê ... ... ... 橋
 - **Bridle** Bé-soh ... ... ... 馬索
 - **Bright** Kng ... ... ... 光
-- **„ very** Tãng-tãng-kng ... ... ... 重重光
-- **Bring** Khiéh--lâi; tsah--lâi; tūa ... ... ... ~~携~~(挈)來　tsah--lâi  帶
-- **Brisk, as trade** Jiét; lãu-jiét ... ... ... 熱　鬧熱
+- **„ very** Tãng-tãng-kng ... ... ... ~~光光~~(重重光)
+- **Bring** Khiéh--lâi; tsah--lâi; tūa ... ... ... ~~携~~(挈)來  帶來  ++帶++
+- **Brisk, as trade** Jiét; lãu-jiét ... ... ... 熱  鬧熱
 - **Brittle** Sou ... ... ... 酥
-- **Broad** Khuah; khùaⁿ ... ... ... 闊　寛
+- **Broad** Khuah; khùaⁿ ... ... ... 闊  寛
 - **Broken** Phùa ... ... ... 破
 - **„ as leg** Chíh ... ... ... 折
 - **Broker** Phah-khang ... ... ... ~~打~~(拍)空
-- **Brook** Kheⁿ; suaⁿ-kheⁿ ... ... ... 坑　山坑
+- **Brook** Kheⁿ; suaⁿ-kheⁿ ... ... ... 坑  山坑
 - **Broom** Sàu-siú ... ... ... 掃~~箒~~(帚)
-- **Brothel** Sau-kuán; tsa-bóu-kuán ... ... ... 騷館　諸𡚸館
-- **Brothers** Hiaⁿ-tĩ; hiaⁿ-tĩ-kiáⁿ ... ... ... 兄弟　兄弟~~仔~~(囝)
+- **Brothel** Sau-kuán; tsa-bóu-kuán ... ... ... ~~娼館~~(騷館)  ~~女~~(諸𡚸)館
+- **Brothers** Hiaⁿ-tĩ; hiaⁿ-tĩ-kiáⁿ ... ... ... 兄弟  兄弟~~子~~(囝)
 - **Brown** Tsang-sek ... ... ... 棕色
 - **Bruise.** Sieⁿ--tiéh ... ... ... 傷着
-- **Brush, to** Tshóiⁿ; sueh ... ... ... 筅　刷
+- **Brush, to** Tshóiⁿ; sueh ... ... ... 筅  刷
 - **Shoe brush** Ôi-sueh ... ... ... 鞋刷
-- **Bucket** Tsúi-tháng; tiòu-tháng ... ... ... 水桶　吊桶
-- **Bucket, for well** Puáh-táu; puáh-tháng ... ... ... 拔斗　拔桶
-- **Bud, flower** Lúi; hue-lúi ... ... ... 蕊　花蕊
+- **Bucket** Tsúi-tháng; tiòu-tháng ... ... ... 水桶  吊桶
+- **Bucket, for well** Puáh-táu; puáh-tháng ... ... ... 拔斗  拔桶
+- **Bud, flower** Lúi; hue-lúi ... ... ... 蕊  花蕊
 - **„ shoot** Sún ... ... ... 笋
-- **„ to** Huat-sún; piouh-sún ... ... ... 發笋
-- **Buddha** Hút; hút-tsóu ... ... ... 佛　佛祖
+- **„ to** Huat-sún; piouh-sún ... ... ... 發笋  ++++
+- **Buddha** Hút; hút-tsóu ... ... ... 佛  佛祖
 - **Buddhism** Hút-kà ... ... ... 佛教
 - **Bug** Bák-sat ... ... ... 木虱
-- **Build, a house** Khí-tshù ... ... ... 起厝
+- **Build, a house** Khí-tshù ... ... ... ~~建屋~~(起厝)
 - **„ a boat** Tsõ-tsûn ... ... ... 造船
-- **Bullet** În-chí; chhèng-chí ... ... ... 鉛子　銃子
+- **Bullet** În-chí; chhèng-chí ... ... ... 鉛子  銃子
 - **Bunch, as flowers** Chék-pé ... ... ... ~~壹~~(一)把
-- **„ as plantain** Chék-siū ... ... ... ~~壹~~(一)siū
+- **„ as plantain** Chék-siū ... ... ... ~~壹~~(一)弓
 - **„ part of a** Chék-siu ... ... ... ~~壹~~(一)收
 - **Bundle** Pau ... ... ... 包
-- **Burden** Tãng-tàⁿ ... ... ... 重擔
-- **„ carry a** Taⁿ-tàⁿ ... ... ... 擔擔
+- **Burden** Tãng-tàⁿ ... ... ... 重~~担~~(擔)
+- **„ carry a** Taⁿ-tàⁿ ... ... ... 擔~~担~~(擔)
 - **Burglar** Mêⁿ-tshát ... ... ... 夜賊
 - **Burn** Sie ... ... ... 燒
-- **Burst** Piàng-tiòu ... ... ... Piàng~~丢~~(掉)
-- **Bury, the dead** Tsǹg; tshut-suaⁿ ... ... ... 葬　出山
+- **Burst** Piàng-tiòu ... ... ... 爆~~丢~~(掉)
+- **Bury, the dead** Tsǹg; tshut-suaⁿ ... ... ... 葬  出山
 - **Bury, as animal** Kám ... ... ... 䃭
-- **Bush, a cluster of shrubs** Chhì-nâⁿ-phè ... ... ... 刺藍帕
+- **Bush, a cluster of shrubs** Chhì-nâⁿ-phè ... ... ... ~~莿~~(刺)藍帕
 - **Bushel** Táu ... ... ... 斗
-- **Business** Sṳ̄; sṳ̄-bũ ... ... ... 事　事務
+- **Business** Sṳ̄; sṳ̄-bũ ... ... ... 事  事務
 - **„ mercantile** Seng-lí ... ... ... 生理
 - **„ official** Kong-sṳ̄ ... ... ... 公事
-- **Busy** M̃-ôiⁿ; sṳ̄-tsōi ... ... ... ~~不~~(毋)~~閑~~(閒)　事~~多~~(㩼)
-- **But** Sĩ; tsòng-sĩ ... ... ... 是　總是
-- **Butcher** Thâi-tṳ; thâi-gû ... ... ... ~~殺~~(刣)豬　~~殺~~(刣)牛
+- **Busy** M̃-ôiⁿ; sṳ̄-tsōi ... ... ... ~~不~~(毋)~~閑~~(閒)  事~~多~~(㩼)
+- **But** Sĩ; tsòng-sĩ ... ... ... 是  總是
+- **Butcher** Thâi-tṳ; thâi-gû ... ... ... 刣豬  刣牛
 - **Butt, to** Tak ... ... ... 觸
-- **Buttock** Kha-tshng-pôiⁿ ... ... ... 尻川~~邊~~(爿)
+- **Buttock** Kha-tshng-pôiⁿ ... ... ... ~~屁股~~(尻川爿)
 - **Button** Liú ... ... ... 鈕
 - **„ on a cap** Bō-tsu ... ... ... 帽珠
 - **„ mandarin's** Téng ... ... ... 頂
 - **Buy** Bói ... ... ... 買
-- **„ as oil, wine** Kou-iû; kou-chiú; tò-iû; tò-chiú ... ... ... 沽油　沽酒  倒油  倒酒
-- **„ as rice** Tiáh-bí ... ... ... 䨀米
+- **„ as oil, wine** Kou-iû; kou-chiú; tò-iû; tò-chiú ... ... ... 沽油  沽酒  ++倒油++  ++倒酒++
+- **„ as rice** Tiáh-bí ... ... ... 糴米
 - **„ as cloth** Ka-pòu ... ... ... ~~剪~~(鉸)布
-- **„ as pork, beef** Kuah-tṳ-bah; kuah-gû-bah ... ... ... 割豬肉　割牛肉
-- **Buzz** Ng-ng-kiè ... ... ... 嗡嗡~~呌~~(叫)
+- **„ as pork, beef** Kuah-tṳ-bah; kuah-gû-bah ... ... ... 割豬肉  割牛肉
+- **Buzz** Ng-ng-kiè ... ... ... ++嗡嗡叫++
 - **By-name, (nickname,)** Thóu-miâⁿ ... ... ... 土名
-- **By-stander** Khiã-tõ-kha-thāu--kâi-nâng ... ... ... 徛在~~脚~~(骹)頭~~個~~(个)人
+- **By-stander** Khiã-tõ-kha-thāu--kâi-nâng ... ... ... ~~立~~(徛)在~~脚邊~~(骹頭)~~之~~(个)人
 - **By-word** Sók-gṳ́ ... ... ... 俗語
-- **Cabin** Bā-lî; tsûn-búe-lâu ... ... ... 峇厘　船尾樓
-- **Cable, anchor** Tèng-soh ... ... ... 椗索
+- **Cabin** Bā-lî; tsûn-búe-lâu ... ... ... 峇厘  船尾樓
+- **Cable, anchor** Tèng-soh ... ... ... ~~櫈~~(椗)索
 - **Cage** Láng ... ... ... 籠
 - **Cake** Kúe ... ... ... 粿
-- **„ as biscuits** Piáⁿ; ko ... ... ... 餅　糕
-- **Calender** Táh-pòu; khoih-pòu ... ... ... 踏布　夾布
+- **„ as biscuits** Piáⁿ; ko ... ... ... 餅  ~~羔~~(糕)
+- **Calender** Táh-pòu; khoih-pòu ... ... ... 踏布  夾布
 - **Calibre, of gun** Chhèng-khang ... ... ... 銃空
-- **Call** Hàm; kiè ... ... ... 喊  ~~呌~~(叫)
+- **Call** Hàm; kiè ... ... ... ++喊++  ~~呌~~(叫)
 - **„ by going about** Chie ... ... ... 招
-- **„ animal** Khou ... ... ... 呼
+- **„ animal** Khou ... ... ... ++呼++
 - **Camel** Lóh-thóh ... ... ... 駱駝
 - **Camp** Iâⁿ-pûaⁿ ... ... ... 營盤
-- **Can** Õi; õi-tit ... ... ... 會　會得
+- **Can** Õi; õi-tit ... ... ... 會  ~~能得~~(會得)
 - **Canal** Kau ... ... ... 溝
-- **Cancel** Khou-tiòu ... ... ... ~~篐~~(箍)~~丢~~(掉)
+- **Cancel** Khou-tiòu ... ... ... ~~圈~~(箍)~~丢~~(掉)
 - **Candareen** Hun ... ... ... 分
 - **Candle** Chek ... ... ... 燭
-- **Cane** Tshûe ... ... ... 箠
+- **Cane** Tshûe ... ... ... ~~拐杖~~(箠)
 - **Cangue** kê ... ... ... 枷
 - **„ wear a** Taⁿ-kê ... ... ... 擔枷
-- **Cannon** Tūa-chhèng; kòng ... ... ... 大銃　𨫋
-- **Cannot** Bõi; bõi-tit; put-lêng ... ... ... 袂　袂得  不能
-- **„ but** Bô-nãiⁿ-hô; bô-khóu nãiⁿ-hô ... ... ... 無奈何　無苦奈何
+- **Cannon** Tūa-chhèng; kòng ... ... ... 大銃  𨫋
+- **Cannot** Bõi; bõi-tit; put-lêng ... ... ... 袂  ++袂得++  不能
+- **„ but** Bô-nãiⁿ-hô; bô-khóu nãiⁿ-hô ... ... ... 無奈何  無苦奈何
 - **Canvas** Phâng-pòu ... ... ... 帆布
-- **Cap** Bō-kiáⁿ; sié-bō ... ... ... 帽~~仔~~(囝)　小帽
+- **Cap** Bō-kiáⁿ; sié-bō ... ... ... 帽~~仔~~(囝)  小帽
 - **Capital** Pńg-chîⁿ ... ... ... 本錢
 - **„ city** Kiaⁿ-siâⁿ ... ... ... 京城
-- **Capon** Iam-koi ... ... ... 醃~~鷄~~(雞)
+- **Capon** Iam-koi ... ... ... 醃雞
 - **Captain, of foreign vessel** Tsûn-tsú ... ... ... 船主
 - **„ of steamer** Húe-tiéⁿ ... ... ... 火長
 - **„ of native vessel** Tãi-kong ... ... ... ~~舵舡~~(舵工)
@@ -4028,21 +4028,21 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ of cow** Sí-gû ... ... ... 死牛
 - **Card, invitation** Thiap ... ... ... 帖
 - **„ playing** Tsúa-pâi ... ... ... 紙牌
-- **„ to play** Phah-tsúa-pâi; puáh-tsúa-pâi ... ... ... ~~打~~(拍)紙牌　~~拔~~(跋)紙牌
+- **„ to play** Phah-tsúa-pâi; puáh-tsúa-pâi ... ... ... ~~打~~(拍)紙牌  ~~賭~~(跋)紙牌
 - **Care, to look after** Kuan-kù ... ... ... 觀顧
 - **Care, don't** Huân-ló ... ... ... 煩惱
-- **Careful** Tsṳ́-sòi; sòi-jī ... ... ... 仔細　細字
-- **Careless** Chhìn-tshái; bô-tsṳ́-sòi ... ... ... ~~隨便~~(凊彩)　無仔細
+- **Careful** Tsṳ́-sòi; sòi-jī ... ... ... 仔細  細字
+- **Careless** Chhìn-tshái; bô-tsṳ́-sòi ... ... ... ~~無小心~~(凊彩)  無仔細
 - **Cargo** Hùe ... ... ... 貨
 - **Carpenter** Bák-kang sai-pẽ ... ... ... 木工司阜
 - **Carriage** Bé-chhia ... ... ... 馬車
 - **Cart** Chhia ... ... ... 車
-- **Carve** Tiou; khek; kuah-hue ... ... ... 雕　刻　割花
+- **Carve** Tiou; khek; kuah-hue ... ... ... 雕  刻  割花
 - **Carver** Kuah-hue sai-pẽ ... ... ... 割花司阜
-- **Case, in law** Uàⁿ-kiãⁿ; uàⁿ ... ... ... 案件　案
+- **Case, in law** Uàⁿ-kiãⁿ; uàⁿ ... ... ... 案件  案
 - **Cash, money** Chîⁿ ... ... ... 錢
 - **Cask** Tūa-tháng ... ... ... 大桶
-- **Cast, metal** Tsù; tsù-thih ... ... ... 鑄　鑄鐵
+- **Cast, metal** Tsù; tsù-thih ... ... ... 鑄  鑄鐵
 - **Castrate** Iam ... ... ... 醃
 - **Catch** Liáh ... ... ... 掠
 - **Cattle** Gû-iêⁿ ... ... ... 牛羊
@@ -4050,10 +4050,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Cause** Uân-kù ... ... ... 緣故
 - **Cave** Suaⁿ-khang ... ... ... 山空
 - **Cease** Hiah ... ... ... 歇
-- **Ceiling** Máng-thien ... ... ... Máng-thien
+- **Ceiling** Máng-thien ... ... ... 慢天
 - **Celebrated** Tshut-miâⁿ ... ... ... 出名
-- **Celestial** Thiⁿ-téng kâi-sṳ̄ ... ... ... 天頂~~個~~(个)事
-- **Cemetery, public** Kong-si-suaⁿ ... ... ... 公司山
+- **Celestial** Thiⁿ-téng kâi-sṳ̄ ... ... ... 天頂~~之~~(个)事
+- **Cemetery, public** Kong-si-suaⁿ ... ... ... ~~義塚埔~~(公司山)
 - **Centre** Tìn-tang ... ... ... 鎮中
 - **Ceremony** Lói ... ... ... 禮
 - **„ perform** Kiâⁿ-lói ... ... ... 行禮
@@ -4069,71 +4069,71 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Chapel** Lói-pài-tn̂g ... ... ... 禮拜堂
 - **Chapter** Chieⁿ ... ... ... 章
 - **Character, written** Jī ... ... ... 字
-- **Charcoal** Thùaⁿ; húe-thùaⁿ ... ... ... 炭　火炭
-- **Charitable** Hó-sim; siu-sim ... ... ... 好心　修心
-- **Charter, a ship** Pák-tsûn; tsou-tsûn ... ... ... 縛船　租船
+- **Charcoal** Thùaⁿ; húe-thùaⁿ ... ... ... 炭  火炭
+- **Charitable** Hó-sim; siu-sim ... ... ... 好心  修心
+- **Charter, a ship** Pák-tsûn; tsou-tsûn ... ... ... 縛船  租船
 - **Chase** Jiōu ... ... ... 趕
 - **„ in attack** Chẽng ... ... ... 追
-- **Chat** Phuéh-uē; phuéh-ôiⁿ-uē ... ... ... 詖話  詖~~閑~~(閒)話
-- **Cheap** Phiⁿ; pân-gî ... ... ... ~~賤~~(偏)　便宜
+- **Chat** Phuéh-uē; phuéh-ôiⁿ-uē ... ... ... ++詖話++  ~~講~~(詖)~~閑~~(閒)話
+- **Cheap** Phiⁿ; pân-gî ... ... ... ~~賤~~(偏)  ~~平宜~~(便宜)
 - **Cheat** Phièn ... ... ... 騙
-- **„ an ignorant person** Kuang ... ... ... 誆
-- **„ by tricks** Láu ... ... ... 漏
+- **„ an ignorant person** Kuang ... ... ... ~~誘拐~~(誆)
+- **„ by tricks** Láu ... ... ... ++漏++
 - **„ in commerce** Tshuah ... ... ... 掇
 - **Cheek** Kih-kau ... ... ... ~~頰~~(頰溝)
-- **Chess, to play** Teh-kî ... ... ... 壓棋
+- **Chess, to play** Teh-kî ... ... ... ~~磧~~(壓)棋
 - **Chest, breast** Sim-kuaⁿ-thâu ... ... ... 心肝頭
-- **Chestnut** Kãu-lák ... ... ... 侯栗
-- **Chew** Pōu ... ... ... 哺
-- **Chicken** Koi-kiáⁿ ... ... ... ~~鷄~~(雞)~~仔~~(囝)
-- **Child** A-nôuⁿ; kiáⁿ ... ... ... ~~亞奴~~(阿孥)　~~仔~~(囝)
-- **Childish, manner** Nôuⁿ-kiáⁿ-khuán ... ... ... 孥~~仔~~(囝)款
-- **Childless** Bô-kiáⁿ bô-ji ... ... ... 無~~仔~~(囝)無兒
-- **Chimney** In-tâng; húe-hun-tâng ... ... ... ~~烟~~(煙)筒　火~~煙~~(薰)筒
-- **Chin** Ẽ-hâi ... ... ... ~~下髯~~(下頦)
-- **China, country** Tn̂g-suaⁿ; Tong-kok ... ... ... 唐山　中國
+- **Chestnut** Kãu-lák ... ... ... ~~侯綠~~(侯栗)
+- **Chew** Pōu ... ... ... ~~齧~~(哺)
+- **Chicken** Koi-kiáⁿ ... ... ... ~~鷄~~(雞)~~子~~(囝)
+- **Child** A-nôuⁿ; kiáⁿ ... ... ... ~~小兒~~(阿孥)  ~~子~~(囝)
+- **Childish, manner** Nôuⁿ-kiáⁿ-khuán ... ... ... ~~小兒欸~~(孥囝款)
+- **Childless** Bô-kiáⁿ bô-ji ... ... ... 無~~子~~(囝)無兒
+- **Chimney** In-tâng; húe-hun-tâng ... ... ... ~~烟~~(煙)筒  火~~烟~~(薰)筒
+- **Chin** Ẽ-hâi ... ... ... ~~下腮~~(下頦)
+- **China, country** Tn̂g-suaⁿ; Tong-kok ... ... ... 唐山  中國
 - **„ ware** Hûi ... ... ... ~~𦈢~~(缶)
-- **Chink** Phāng ... ... ... 縫
+- **Chink** Phāng ... ... ... ~~空仔~~(縫)
 - **Chisel** Tshák-kiáⁿ ... ... ... 鑿~~仔~~(囝)
-- **„ for cutting iron** Tsãm; thih-tsãm ... ... ... 鏨　鐵鏨
-- **Choke** Kéⁿ--tiéh; kéⁿ-tiéh-aû ... ... ... 鯁着　鯁着喉
-- **Choose** Suán; tóh ... ... ... 選　擇
+- **„ for cutting iron** Tsãm; thih-tsãm ... ... ... 鏨  鐵鏨
+- **Choke** Kéⁿ--tiéh; kéⁿ-tiéh-aû ... ... ... ~~逆~~(鯁)着  ~~逆~~(鯁)着喉
+- **Choose** Suán; tóh ... ... ... 選  擇
 - **Chop, house mark** Jī-hō ... ... ... 字號
 - **„ to** Tok ... ... ... ~~琢~~(斫)
-- **Chopsticks** Tṳ̄ ... ... ... 箸
+- **Chopsticks** Tṳ̄ ... ... ... ~~筋~~(箸)
 - **Chord, musical instrument** Hîⁿ-sùaⁿ ... ... ... 弦線
 - **Chunam** Hue ... ... ... 灰
-- **Church** Lói-pài-tn̂g; sèng-tn̂g ... ... ... 禮拜堂　聖堂
+- **Church** Lói-pài-tn̂g; sèng-tn̂g ... ... ... 禮拜堂  聖堂
 - **Cinder, of coal** Thôu-thùaⁿ-sái ... ... ... 塗炭屎
-- **Circle** Khou; khuang ... ... ... ~~篐~~(箍)  圈
+- **Circle** Khou; khuang ... ... ... ~~篐~~(箍)  ++圈++
 - **City** Siâⁿ ... ... ... 城
-- **Civil, not barbarous** Kun-tsṳ́; hióu-chhêng-lí ... ... ... 君子　曉~~⿰忄靑~~(情)理
+- **Civil, not barbarous** Kun-tsṳ́; hióu-chhêng-lí ... ... ... 君子  曉~~⿰忄靑~~(情)理
 - **Claim** Thó ... ... ... 討
-- **Claim, unjustly** Âⁿ; cheⁿ ... ... ... Âⁿ　爭
-- **Clansman** Chhin-nâng; tâng-jī-uéh ... ... ... 親人　同字劃
-- **Clap, the hands** Phah-phok ... ... ... ~~打~~(拍)噗
-- **Clarionet** Ti-tâ ... ... ... 嘀嗒
+- **Claim, unjustly** Âⁿ; cheⁿ ... ... ... 佔  爭
+- **Clansman** Chhin-nâng; tâng-jī-uéh ... ... ... 親人  ~~仝字畫~~(同字劃)
+- **Clap, the hands** Phah-phok ... ... ... ~~打拍~~(拍噗)
+- **Clarionet** Ti-tâ ... ... ... ~~吹手~~(嘀嗒)
 - **Class, as in school** Pan ... ... ... 班
 - **Classics, the five Chinese** Ngóu-kiaⁿ ... ... ... 五經
-- **Claw** Jióu ... ... ... 抓
+- **Claw** Jióu ... ... ... ~~抓~~(爪)
 - **Clean** Chheng-khih ... ... ... 清潔
 - **„ as servants being** Chheng-khih-sièⁿ ... ... ... 清潔相
 - **Clear, as water** Chheng ... ... ... 清
-- **„ as affairs** Mêng; mêng-péh ... ... ... 明　明白
+- **„ as affairs** Mêng; mêng-péh ... ... ... 明  明白
 - **Clerk** Tshâi-hù ... ... ... 財副
-- **Clever** Gâu; khiàng; õi; miâⁿ-ke ... ... ... 賢　~~能~~(勥)  會　名家
-- **Climate** Tsuí-thóu; thiⁿ-sî ... ... ... 水土　天時
-- **Climb, a tree** Peh ... ... ... 爬
+- **Clever** Gâu; khiàng; õi; miâⁿ-ke ... ... ... 賢  ~~能~~(勥)  ++會++  名家
+- **Climate** Tsuí-thóu; thiⁿ-sî ... ... ... 水土  天時
+- **Climb, a tree** Peh ... ... ... ~~攀上~~(爬)
 - **„ over a wall** Pûaⁿ ... ... ... 盤
 - **Clock** Sî-cheng ... ... ... 時鐘
 - **Clogs** Kiáh ... ... ... 屐
-- **Close, as door** Kueⁿ ... ... ... ~~閉~~(關)
+- **Close, as door** Kueⁿ ... ... ... 關
 - **„ as letter** Huang ... ... ... 封
-- **Close, near** Buâ; kṳ̃n ... ... ... 摩  近
+- **Close, near** Buâ; kṳ̃n ... ... ... ++摩++  近
 - **„ as texture** Bát ... ... ... 密
 - **„ not airy** Hip ... ... ... 歙
 - **Cloth** Pòu ... ... ... 布
-- **Clothes** Saⁿ-khòu; sin-chhēng ... ... ... 衫褲　身穿
+- **Clothes** Saⁿ-khòu; sin-chhēng ... ... ... 衫褲  身穿
 - **„ nice coloured** Hók-sek ... ... ... 服色
 - **Cloud** Hûn ... ... ... 雲
 - **Clown, in a play** Thiú ... ... ... 丑
@@ -4141,352 +4141,352 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Coast** Haí-kîⁿ ... ... ... 海墘
 - **Coat** Saⁿ ... ... ... 衫
 - **„ for Winter** Hiûⁿ ... ... ... 裘
-- **Coax** Koh-lô ... ... ... Koh-lô
+- **Coax** Koh-lô ... ... ... 懇~~⿰忄靑~~(情)
 - **Cobbler** Póu-ôi ... ... ... 補鞋
 - **Cobweb** Ti-tu-si ... ... ... 蜘蛛絲
 - **Cock** Koi-ang ... ... ... ~~鷄~~(雞)翁
-- **Coffin** Kuaⁿ-tshâ; kuaⁿ-bák; tūa-tshù ... ... ... 棺柴  棺木　大厝
+- **Coffin** Kuaⁿ-tshâ; kuaⁿ-bák; tūa-tshù ... ... ... ++棺柴++  棺木  大厝
 - **Coil, as the queue** Phuân-piⁿ ... ... ... 絆鞭
 - **„ as a snake** Khuang-tsò chék-khou ... ... ... 圈做~~壹~~(一)~~篐~~(箍)
-- **Cold** Chhìn; ngân ... ... ... ~~冷~~(凊)　寒
+- **Cold** Chhìn; ngân ... ... ... ~~冷~~(凊)  寒
 - **Collar** Ãm-niáⁿ ... ... ... ~~頸~~(頷)領
 - **Collect** Siu ... ... ... 收
-- **College** Tuā-óh; tsṳ-īⁿ ... ... ... 大學　書院
+- **College** Tuā-óh; tsṳ-īⁿ ... ... ... 大學  書院
 - **Collision** Sie-tsuãng--tiéh ... ... ... 相撞着
-- **Colloquial** Péh-uē; thóu-thâm ... ... ... 白話　土談
-- **Colour** Sek; sek-tsúi ... ... ... 色　色水
-- **Comb** Siu; tshâ-siu ... ... ... 梳　柴梳
+- **Colloquial** Péh-uē; thóu-thâm ... ... ... 白話  土談
+- **Colour** Sek; sek-tsúi ... ... ... 色  色水
+- **Comb** Siu; tshâ-siu ... ... ... 梳  柴梳
 - **Comb, Chinese small-tooth** Sat-pìn ... ... ... 虱箆
-- **Combustible** Õi-tóh-húe ... ... ... 會着火
+- **Combustible** Õi-tóh-húe ... ... ... ~~能~~(會)~~生火~~(着火)
 - **Comet** Sàu-soi-chheⁿ ... ... ... 掃~~箒~~(帚)星
 - **Comfort** Uaⁿ-uè ... ... ... 安慰
-- **Comfortable** Khuàⁿ-uáh ... ... ... 快活
+- **Comfortable** Khuàⁿ-uáh ... ... ... ~~快樂~~(快活)
 - **Command** Mẽng ... ... ... 命
-- **Commence** Khí; khí-thâu ... ... ... 起　起頭
-- **Commencement** Tsho-thâu-ē; thâu-tshái ... ... ... 初頭下　頭彩
+- **Commence** Khí; khí-thâu ... ... ... 起  起頭
+- **Commencement** Tsho-thâu-ē; thâu-tshái ... ... ... ~~起初~~(初頭下)  頭彩
 - **Commit, a crime** Huãm-lút ... ... ... 犯律
 - **„ a sin or a crime** Huãm-tsũe ... ... ... 犯罪
-- **Common** Siêⁿ; phêng-siêⁿ ... ... ... 常　平常
+- **Common** Siêⁿ; phêng-siêⁿ ... ... ... 常  平常
 - **„ too** Sók ... ... ... 俗
-- **Commonly** Pâi-tńg; pâi-sî; pâi-hûe; siêⁿ-siêⁿ ... ... ... 排轉  排時  排回　常常
+- **Commonly** Pâi-tńg; pâi-sî; pâi-hûe; siêⁿ-siêⁿ ... ... ... ++排轉++  ++排時++  排回  常常
 - **Company, mercantile** Kong-si ... ... ... 公司
-- **„ to keep** Kau-tshap ... ... ... 交插
+- **„ to keep** Kau-tshap ... ... ... ~~交遊~~(交插)
 - **Compare** Pí ... ... ... 比
 - **Compass, ship's** Lô-keⁿ ... ... ... 羅經
 - **Compassion, to have** Khó-liên ... ... ... 可憐
-- **Compel** Mién-kiáng ... ... ... 勉強
-- **Compensate** Póu; póu-hôiⁿ; pûe ... ... ... 補　補還　賠
-- **Complete** Hó; uân; tshûan ... ... ... 好　完　全
+- **Compel** Mién-kiáng ... ... ... ~~免强~~(勉強)
+- **Compensate** Póu; póu-hôiⁿ; pûe ... ... ... 補  補還  賠
+- **Complete** Hó; uân; tshûan ... ... ... 好  完  全
 - **Complexion** Mīn-sek ... ... ... 面色
 - **Comply** Sũn ... ... ... 順
-- **Compliment, to send** Mn̄g-hāu; chhiáⁿ-uaⁿ ... ... ... 問候　請安
+- **Compliment, to send** Mn̄g-hāu; chhiáⁿ-uaⁿ ... ... ... 問候  請安
 - **Composition** Bûn-chieⁿ ... ... ... 文章
-- **Conceal** Khǹg; khǹg-bûa ... ... ... ~~藏~~(囥)　~~藏~~(囥)摩
-- **„ oneself** Tiàm; tiàm-bûa ... ... ... 坫　坫摩
+- **Conceal** Khǹg; khǹg-bûa ... ... ... ~~藏~~(囥)  ~~藏~~(囥)~~埋~~(摩)
+- **„ oneself** Tiàm; tiàm-bûa ... ... ... ~~藏~~(坫)  ~~藏~~(坫)~~埋~~(摩)
 - **Concern, to** Ũ-kan-siáp ... ... ... 有干涉
 - **„ does not** Bô-kan-siáp ... ... ... 無干涉
-- **Conciliate** Hûa; kiâⁿ-hûa ... ... ... 和　行和
-- **Concubine** Jĩ-nâng; tsáu-kúi; chhiah-kha ... ... ... 二人　走鬼　赤~~脚~~(骹)
+- **Conciliate** Hûa; kiâⁿ-hûa ... ... ... 和  行和
+- **Concubine** Jĩ-nâng; tsáu-kúi; chhiah-kha ... ... ... ~~貳~~(二)人  走鬼  赤~~脚~~(骹)
 - **Condemn** Tiāⁿ-tsũe ... ... ... 定罪
 - **Conduct** Kiâⁿ-ûi ... ... ... 行爲
 - **Confess** Jīn ... ... ... 認
 - **Confine, as a person** Kìm ... ... ... 禁
 - **Confiscate** Tshong-kong ... ... ... 充公
-- **Confound** Hũn ... ... ... 混
-- **Confucius** Khóng-tsṳ́; khóng-hu-tsṳ́ ... ... ... 孔子　孔夫子
-- **Confuse** Zṳ̂; zṳ̂-zṳ̂ ... ... ... ~~菇~~(挐)　~~菇菇~~(挐挐)
-- **Congeal** Kit-tàng; kṳ̂n-tàng ... ... ... 結凍  凝凍
+- **Confound** Hũn ... ... ... ~~紊~~(混)
+- **Confucius** Khóng-tsṳ́; khóng-hu-tsṳ́ ... ... ... 孔子  孔夫子
+- **Confuse** Zṳ̂; zṳ̂-zṳ̂ ... ... ... ~~菇~~(挐)  ~~亂~~(挐挐)
+- **Congeal** Kit-tàng; kṳ̂n-tàng ... ... ... 結凍  ++凝凍++
 - **Congee, soft-boiled rice** Mûeⁿ ... ... ... ~~粥~~(糜)
 - **Congratulate** Kiong-hí ... ... ... 恭喜
 - **Connect** Sie-chiap ... ... ... 相接
-- **Conquer** Kuán; phah ... ... ... 管　~~打~~(拍)
-- **Consent** Hàuⁿ; khéng ... ... ... 允　肯
-- **Consider** Siẽⁿ; phah-sǹg; pheⁿ-phah ... ... ... 想　~~打~~(拍)算　斟酌
+- **Conquer** Kuán; phah ... ... ... 管  ~~打~~(拍)
+- **Consent** Hàuⁿ; khéng ... ... ... 允  肯
+- **Consider** Siẽⁿ; phah-sǹg; pheⁿ-phah ... ... ... 想  ~~打~~(拍)算  斟酌
 - **Conspire** Kàu-niêⁿ ... ... ... 商量
-- **Constantly** Siêⁿ-siêⁿ; tsong-kú ... ... ... 常常　終久
-- **Constitution, good** Sin-hūn tsàng; sin-hūn kiāⁿ ... ... ... 身分壯　身分健
-- **„ weak** Sin-hūn phàⁿ; sin-hūn nám ... ... ... 身分冇　身分弱
-- **Consul** Niáⁿ-sṳ̄-hú; niáⁿ-sṳ̄-kuaⁿ ... ... ... 領事府　領事官
-- **Consult** Tsham-siâng; kàu-niêⁿ ... ... ... 參詳　告量
-- **Contact, come into** Tiaⁿ-tiéh; oi--tiéh ... ... ... 碰着　挨着
+- **Constantly** Siêⁿ-siêⁿ; tsong-kú ... ... ... 常常  終久
+- **Constitution, good** Sin-hūn tsàng; sin-hūn kiāⁿ ... ... ... 身分壯  身分健
+- **„ weak** Sin-hūn phàⁿ; sin-hūn nám ... ... ... 身分冇  身分弱
+- **Consul** Niáⁿ-sṳ̄-hú; niáⁿ-sṳ̄-kuaⁿ ... ... ... 領事府  領事官
+- **Consult** Tsham-siâng; kàu-niêⁿ ... ... ... 參詳  告量
+- **Contact, come into** Tiaⁿ-tiéh; oi--tiéh ... ... ... 撞着  挨着
 - **Contain** Tshō ... ... ... 藏
 - **Contempt** Thóiⁿ-khin ... ... ... ~~看~~(睇)輕
 - **Contend** Sie-cheⁿ ... ... ... 相争
 - **Contraband** Tsáu-hiàng ... ... ... 走餉
-- **Contract** Ieh-jī; háp-tâng ... ... ... 約字　合同
+- **Contract** Ieh-jī; háp-tâng ... ... ... 約字  合同
 - **„ take work by** Māuⁿ ... ... ... 包
 - **Contradict** Piẽn-poh ... ... ... 辯駁
-- **Contrary** Siang-huán; siang-tùi; ngék ... ... ... 相反　相對  逆
-- **„ on the** Tin-tò; huán-tńg ... ... ... 顛倒　反轉
-- **Contribute** Tôi; tôi-chîⁿ ... ... ... 題　題錢
+- **Contrary** Siang-huán; siang-tùi; ngék ... ... ... 相反  相對  逆
+- **„ on the** Tin-tò; huán-tńg ... ... ... ~~顚~~(顛)倒  反轉
+- **Contribute** Tôi; tôi-chîⁿ ... ... ... 題  題錢
 - **„ amongst a small poor party** Phài ... ... ... 派
 - **Convenient** Háh ... ... ... 合
 - **Convey, by vessel or cart** Tsài ... ... ... ~~儎~~(載)
 - **„ letters** Tùa ... ... ... 帶
-- **Convict to** Tiāⁿ-tsũe; ngí-tsũe ... ... ... 定罪　議罪
-- **Cook, a** Húe-thâu; hiâⁿ-húe-sít ... ... ... 火頭　~~燒~~(燃)火食
+- **Convict to** Tiāⁿ-tsũe; ngí-tsũe ... ... ... 定罪  議罪
+- **Cook, a** Húe-thâu; hiâⁿ-húe-sít ... ... ... 火頭  ~~烆~~(燃)~~火席~~(伙食)
 - **Cool** Liâng ... ... ... 凉
-- **„ to** Lā-liâng; lā-chhìn ... ... ... 拉凉　拉~~冷~~(凊)
-- **Coolie** Taⁿ-tàⁿ; ngẽ-kioh ... ... ... 擔擔  硬腳
+- **„ to** Lā-liâng; lā-chhìn ... ... ... ~~吹涼~~(納凉)  ~~吹冷~~(納凊)
+- **Coolie** Taⁿ-tàⁿ; ngẽ-kioh ... ... ... ~~担~~(擔)擔  ++硬腳++
 - **Cooper** Khou-tháng ... ... ... ~~篐~~(箍)桶
 - **Copper** Tàng ... ... ... 銅
 - **Coppersmith** Phah-tâng sai-pẽ ... ... ... ~~打~~(拍)銅司阜
 - **Copy** Tshau ... ... ... 抄
 - **Cork** That ... ... ... 塞
-- **Corn, grain in general** Ngõu-kak ... ... ... 五穀
-- **Corner** Kak; kak-thâu ... ... ... 角　角頭
-- **Corpse** Si; sin-si ... ... ... 屍　身屍
-- **Correct** Tiéh; tùi; bô-tshò ... ... ... 着　對　無錯
-- **„ to** Kói ... ... ... 改
-- **Correspond** Siang-tâng; pêⁿ-iēⁿ ... ... ... 相同　平樣
+- **Corn, grain in general** Ngõu-kak ... ... ... 五~~谷~~(穀)
+- **Corner** Kak; kak-thâu ... ... ... 角  角頭
+- **Corpse** Si; sin-si ... ... ... ~~尸~~(屍)  身~~尸~~(屍)
+- **Correct** Tiéh; tùi; bô-tshò ... ... ... 着  對  無錯
+- **„ to** Kói ... ... ... ~~攺~~(改)
+- **Correspond** Siang-tâng; pêⁿ-iēⁿ ... ... ... 相同  平樣
 - **Cost, price** Kè-chîⁿ ... ... ... 價錢
 - **Costly** Tát-chîⁿ ... ... ... ~~値~~(值)錢
-- **Count** Sǹg; siòu ... ... ... 算　數
+- **Count** Sǹg; siòu ... ... ... 算  數
 - **Counter** Phòu-kūiⁿ ... ... ... 舖櫃
 - **Counterfeit, dollar** Tâng-ngṳ̂n ... ... ... 銅銀
 - **„ cash** M̃-móⁿ-chîⁿ ... ... ... ~~不好~~(毋孬)錢
-- **Country** Kok; tī-hng ... ... ... 國　地方
+- **Country** Kok; tī-hng ... ... ... 國  地方
 - **Couple** Chék-tùi ... ... ... ~~壹~~(一)對
-- **Course, of** Thien-seⁿ; tsṳ̃-jiên ... ... ... 天生　自然
+- **Course, of** Thien-seⁿ; tsṳ̃-jiên ... ... ... 天生  自然
 - **Court, of justice** Gê-mn̂g ... ... ... 衙門
 - **Covenant** Ieh ... ... ... 約
-- **„ to make** Líp-ieh; hûa-ieh ... ... ... 立約　和約
-- **„ to break** Sit-ieh; buâng-ieh ... ... ... 失約　忘約
-- **Cover, a lid** Khàm; khòiⁿ ... ... ... 冚　~~盖~~(蓋)
+- **„ to make** Líp-ieh; hûa-ieh ... ... ... 立約  和約
+- **„ to break** Sit-ieh; buâng-ieh ... ... ... 失約  忘約
+- **Cover, a lid** Khàm; khòiⁿ ... ... ... ~~勘~~(冚)  ~~盖~~(蓋)
 - **„ with cloth** Chia ... ... ... 遮
 - **Covet** Tham ... ... ... 貪
 - **Covetous** Tham-sim ... ... ... 貪心
-- **Coward** Ùi-sí; bô-táⁿ ... ... ... 畏死　無胆
+- **Coward** Ùi-sí; bô-táⁿ ... ... ... 畏死  無~~胆~~(膽)
 - **Crack** Líh ... ... ... 裂
 - **Cradle** Iê-nâⁿ ... ... ... 搖籃
 - **Crave** Khiû-khṳt ... ... ... 求乞
-- **„ as for opium** Ngièn ... ... ... 癮
+- **„ as for opium** Ngièn ... ... ... ~~引~~(癮)
 - **Crawl** Pê ... ... ... 耙
 - **Crazy** Sim-sîn m̃-tiàⁿ ... ... ... 心神~~不~~(毋)定
 - **Credit, buy or sell on** Chhia ... ... ... 賒
 - **Creditor** Chè-tsú ... ... ... 債主
 - **Creep** Pê ... ... ... 耙
 - **„ as snakes** So ... ... ... 逡
-- **„ through a gap** Bùn; nǹg ... ... ... 鑽
+- **„ through a gap** Bùn; nǹg ... ... ... ++++  ~~閬~~(鑽)
 - **Crime** Tsũe ... ... ... 罪
 - **Crimson** Tūa-âng ... ... ... 大紅
 - **Cripple** Kuái-kha ... ... ... 拐~~脚~~(骹)
 - **Crockery** Hûi ... ... ... ~~𦈢~~(缶)
-- **Crocodile** Bā-kiáⁿ; ngák-hṳ̂ ... ... ... 峇~~仔~~(囝)　鱷魚
+- **Crocodile** Bā-kiáⁿ; ngák-hṳ̂ ... ... ... ~~⿸戶馬子~~(峇囝)  鱷魚
 - **Crooked** Uan ... ... ... ~~寃~~(冤)
-- **Crop, of field** Tang; niⁿ-tang ... ... ... 冬　年冬
+- **Crop, of field** Tang; niⁿ-tang ... ... ... 冬  年冬
 - **Cross, to** Kùe ... ... ... 過
 - **Crow** Thî ... ... ... 啼
 - **Crowd** Khûn ... ... ... 羣
 - **Crown** Uâng-bō ... ... ... 王帽
-- **Cruel** Hiou; hiou-sim; chek-ak ... ... ... 僥　僥心　積惡
+- **Cruel** Hiou; hiou-sim; chek-ak ... ... ... 僥  僥心  積惡
 - **Cry** Khàu ... ... ... 哭
 - **Cry, as animal** Kiè ... ... ... ~~呌~~(叫)
-- **Cultivate, field** Chèng-tsoh; keⁿ-tsoh ... ... ... 種作　耕作
-- **Cunning** Sim-sṳ̄ tsōi; ũ-sim-sṳ̄ ... ... ... 心事~~多~~(㩼)　有心事
+- **Cultivate, field** Chèng-tsoh; keⁿ-tsoh ... ... ... 種作  耕作
+- **Cunning** Sim-sṳ̄ tsōi; ũ-sim-sṳ̄ ... ... ... 心事~~多~~(㩼)  有心事
 - **Curious** Khî-khá ... ... ... 奇巧
 - **Curse** Chiù ... ... ... 咒
-- **Custom** Hong-sók; lī ... ... ... 風俗　例
+- **Custom** Hong-sók; lī ... ... ... 風俗  例
 - **Cymbals, large** Khãm ... ... ... 鈸
-- **Cymbals, small** Chhẽ ... ... ... 鑔
-- **Dangerous** Hong-hiám; lĩ-hāi; lî-keng ... ... ... ~~荒險~~(風險)　~~利害~~(厲害)　離經
-- **Daughter** Tsáu-kiáⁿ; tsṳ-niêⁿ-kiáⁿ ... ... ... 走~~仔~~(囝)　~~女人~~(諸娘)~~仔~~(囝)
-- **Dawn** Thiⁿ-kng; thiⁿ lâ-lân-kng ... ... ... 天光　天拉零光
-- **Dazzle** In-n̄g; iàng-mák; chhiēⁿ-mák ... ... ... In-n̄g  映目  搶目
-- **Dead** Sí; kùe--khṳ̀; kùe-sì ... ... ... 死　過去　過世
+- **Cymbals, small** Chhẽ ... ... ... ++鑔++
+- **Dangerous** Hong-hiám; lĩ-hāi; lî-keng ... ... ... 風險  ~~利害~~(厲害)  ~~利更~~(離經)
+- **Daughter** Tsáu-kiáⁿ; tsṳ-niêⁿ-kiáⁿ ... ... ... ~~女子~~(走囝)  ~~姿娘~~(諸娘)~~仔~~(囝)
+- **Dawn** Thiⁿ-kng; thiⁿ lâ-lân-kng ... ... ... 天光  天初光
+- **Dazzle** In-n̄g; iàng-mák; chhiēⁿ-mák ... ... ... In-n̄g  映目  ++搶目++
+- **Dead** Sí; kùe--khṳ̀; kùe-sì ... ... ... 死  過去  過世
 - **Deaf** Hĩⁿ--lâng; hĩⁿ lâng ... ... ... 耳聾
-- **Debt, in** Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè ... ... ... 欠人~~個~~(个)錢　欠人~~個~~(个)債
+- **Debt, in** Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè ... ... ... 欠人~~個~~(个)錢  欠人~~個~~(个)債
 - **Decide** Tsú-ì ... ... ... 主意
-- **„ in law** Kat; kat-uàⁿ; kat-tít ... ... ... 結　結案　結直
+- **„ in law** Kat; kat-uàⁿ; kat-tít ... ... ... 結  結案  結直
 - **Decorate** Tshái ... ... ... 彩
 - **Decrease** Kiám ... ... ... 減
 - **Deduct** Tṳ̂ ... ... ... 除
 - **Deep** Chhim ... ... ... 深
-- **Defeat** Thâi-iâⁿ; chièn-iâⁿ ... ... ... ~~殺~~(刣)贏　戰贏
-- **Defeated, to be** Thâi-su; chièn-su ... ... ... ~~殺~~(刣)輸　戰輸
+- **Defeat** Thâi-iâⁿ; chièn-iâⁿ ... ... ... 刣贏  戰贏
+- **Defeated, to be** Thâi-su; chièn-su ... ... ... 刣輸  戰輸
 - **Defendant** Pĩ-kò ... ... ... 被告
-- **Defile** Hú-tiéh nah-sap ... ... ... 捬着~~污穢~~(垃圾)
-- **Defray, expenses** Tshut-só-hùi; tshut ... ... ... 出~~使費~~(所費)　出
+- **Defile** Hú-tiéh nah-sap ... ... ... ~~染~~(捬)着~~污穢~~(垃圾)
+- **Defray, expenses** Tshut-só-hùi; tshut ... ... ... 出~~使費~~(所費)  出
 - **Degrade** Kàng-khip ... ... ... 降級
 - **Degree, to get the 1st literary** Jíp-sìu-tsâi ... ... ... 入秀才
 - **„ to get the 2nd literary** Tèng-kṳ́-jîn ... ... ... 中舉人
-- **Delay** În-tî; thû ... ... ... 延遲  躇
+- **Delay** În-tî; thû ... ... ... 延遲  ++躇++
 - **Deliver, over** Kau ... ... ... 交
-- **„ a child** Seⁿ-kiáⁿ; kiou a-nóuⁿ ... ... ... 生~~仔~~(囝)　邀~~亞奴~~(阿孥)
+- **„ a child** Seⁿ-kiáⁿ; kiou a-nóuⁿ ... ... ... 生~~子~~(囝)  邀~~亞奴~~(阿孥)
 - **Denote** Pióu-mêng ... ... ... 表明
-- **Deny** M̃-jīn; tàⁿ-bô ... ... ... ~~不~~(毋)認　呾無
-- **Depart** Lî-khui; khṳ̀ ... ... ... 離開　去
+- **Deny** M̃-jīn; tàⁿ-bô ... ... ... ~~不~~(毋)認  呾無
+- **Depart** Lî-khui; khṳ̀ ... ... ... 離開  去
 - **„ this life** Kùe-sì ... ... ... 過世
 - **Department** Hú ... ... ... 府
-- **Deposit** Tah; kià ... ... ... 託　寄
+- **Deposit** Tah; kià ... ... ... ~~搭~~(託)  寄
 - **Descend** Lóh ... ... ... 落
-- **Descendant** Kiáⁿ-sun; ãu-ĩ ... ... ... ~~仔~~(囝)孫　後裔
+- **Descendant** Kiáⁿ-sun; ãu-ĩ ... ... ... ~~子~~(囝)孫  後裔
 - **Deserve** Kham-kai ... ... ... 堪該
-- **Despise** Thóiⁿ-khin; thóiⁿ-m̃-chiẽⁿ; thóiⁿ-bô-mák ... ... ... ~~看~~(睇)輕　~~看~~(睇)~~不~~(毋)上　~~看~~(睇)無目
+- **Despise** Thóiⁿ-khin; thóiⁿ-m̃-chiẽⁿ; thóiⁿ-bô-mák ... ... ... ~~看~~(睇)輕  ~~看~~(睇)~~不~~(毋)上  ~~看~~(睇)無目
 - **Devil** Kúi ... ... ... 鬼
 - **Dial** Jít-kui ... ... ... 日規
-- **Dialect** Péh-uē; thóu-thâm; thóu-uē ... ... ... 白話  土談　土話
-- **Dice** Tâu ... ... ... 骰
+- **Dialect** Péh-uē; thóu-thâm; thóu-uē ... ... ... 白話  土談  土話
+- **Dice** Tâu ... ... ... ~~骸~~(骰)
 - **Dictionary** Jī-tién ... ... ... 字典
 - **Die, to** Sí ... ... ... 死
-- **Difficult** Oh; kan-khóu ... ... ... ~~難~~(僫)　艱苦
-- **Dig** Liú; kút ... ... ... 挖　掘
+- **Difficult** Oh; kan-khóu ... ... ... ~~難~~(僫)  艱苦
+- **Dig** Liú; kút ... ... ... 挖  掘
 - **Digest** Siou ... ... ... 消
 - **Dike** Toi ... ... ... 堤
-- **Dilligent** Khûn; lát ... ... ... 勤　力
-- **Dip, into water** Ùn ... ... ... 揾
-- **Dirty** Nah-sap; o-tso; chhi-gî ... ... ... ~~污穢~~(垃圾)  污糟  生疑
+- **Dilligent** Khûn; lát ... ... ... 勤  力
+- **Dip, into water** Ùn ... ... ... ~~染~~(揾)
+- **Dirty** Nah-sap; o-tso; chhi-gî ... ... ... ~~污穢~~(垃圾)  ++污糟++  ++++
 - **Disagree** M̃-háh ... ... ... ~~不~~(毋)合
 - **„ of persons** M̃-hûa ... ... ... ~~不~~(毋)和
-- **Disappear** M̃-kìⁿ; bô--khṳ̀ ... ... ... ~~不~~(毋)見　無去
-- **Disappoint, a person** Gōu--tiéh nâng-kâi-sṳ̄ ... ... ... 誤着人~~個~~(个)事
-- **Discharge, a servant** Sî-tiòu; sǹg-hiah ... ... ... 辭~~丢~~(掉)　算歇
-- **Discoloured** Lóh-sek; thò-sek ... ... ... 落色　退色
-- **Discuss** Káng-kiù; káng-lũn; piẽn-lũn ... ... ... 講究　講論　辯論
+- **Disappear** M̃-kìⁿ; bô--khṳ̀ ... ... ... ~~不~~(毋)見  無去
+- **Disappoint, a person** Gōu--tiéh nâng-kâi-sṳ̄ ... ... ... ~~悞~~(誤)着人~~個~~(个)事
+- **Discharge, a servant** Sî-tiòu; sǹg-hiah ... ... ... 辭~~丢~~(掉)  算歇
+- **Discoloured** Lóh-sek; thò-sek ... ... ... 落色  退色
+- **Discuss** Káng-kiù; káng-lũn; piẽn-lũn ... ... ... 講究  講論  ++辯論++
 - **Disease, to have skin** Seⁿ-muéh ... ... ... 生物
-- **Disgrace** Kièn-siòu ... ... ... 見笑
+- **Disgrace** Kièn-siòu ... ... ... ~~羞恥~~(見笑)
 - **Disguise** Ké ... ... ... 假
 - **Dishes** Pûaⁿ-úaⁿ ... ... ... 盤碗
-- **Dismiss** Sî-tiòu; sǹg-hiah ... ... ... 辭~~丢~~(掉)　算歇
-- **„ as an official** Pã-cheh; thut-cheh; khṳ̀-cheh ... ... ... 罷職　黜職　去職
+- **Dismiss** Sî-tiòu; sǹg-hiah ... ... ... 辭~~丢~~(掉)  算歇
+- **„ as an official** Pã-cheh; thut-cheh; khṳ̀-cheh ... ... ... ~~擺~~(罷)職  黜職  去職
 - **Dismount** Lóh-bé ... ... ... 落馬
-- **Disobedient** M̃-sũn; m̃-thiaⁿ ... ... ... ~~不~~(毋)順　~~不~~(毋)聽
-- **Disorder** Zṳ̂-zṳ̂; hng-láh-bó-heh ... ... ... ~~菇菇~~(挐挐)  荒拉無歇
+- **Disobedient** M̃-sũn; m̃-thiaⁿ ... ... ... ~~不~~(毋)順  ~~不~~(毋)聽
+- **Disorder** Zṳ̂-zṳ̂; hng-láh-bó-heh ... ... ... ~~菇菇~~(挐挐)  ++++
 - **Disperse** Sùaⁿ ... ... ... 散
 - **Display** Tién ... ... ... 賽
 - **Displease, a person** Tit-tsũe--tiéh-nâng ... ... ... 得罪着人
-- **Dispute** Sie-à ... ... ... 相~~辯~~(詏)
+- **Dispute** Sie-à ... ... ... 相~~辨~~(詏)
 - **Dissolve** Iêⁿ ... ... ... 鎔
 - **„ partnership** Thiah-húe-kì ... ... ... 拆夥記
-- **Distil, spirit** Sáh-chiú; kek-chiú ... ... ... 煠酒  激酒
+- **Distil, spirit** Sáh-chiú; kek-chiú ... ... ... ++煠酒++  激酒
 - **Distinct** Mêng-péh ... ... ... 明白
 - **Distinguish** Hun-piét ... ... ... 分別
 - **Distress** Kan-khóu ... ... ... 艱苦
 - **District** Kūiⁿ ... ... ... 縣
-- **Disturb** Hũn ... ... ... 混
-- **Disturb, in hearing** Tsak ... ... ... 聒
-- **Ditch** Kau; tsúi-kau; sái-kau ... ... ... 溝　水溝　屎溝
+- **Disturb** Hũn ... ... ... ~~紊~~(混)
+- **Disturb, in hearing** Tsak ... ... ... ++聒++
+- **Ditch** Kau; tsúi-kau; sái-kau ... ... ... 溝  ~~溝水~~(水溝)  屎溝
 - **Dive** Bī ... ... ... 氼
 - **Divide** Pun ... ... ... 分
 - **Docile** Kà-õi-sék ... ... ... 教會熟
 - **Document** Jī ... ... ... 字
-- **Doll** Ang-kiáⁿ ... ... ... ~~人仔~~(尪囝)
+- **Doll** Ang-kiáⁿ ... ... ... ~~人子~~(尪囝)
 - **Domestic** Ke-lãi ... ... ... 家內
-- **Dominoes** Thien-káu; kut-pâi ... ... ... 天狗　骨牌
+- **Dominoes** Thien-káu; kut-pâi ... ... ... 天狗  骨牌
 - **Dot** Tiám ... ... ... ~~㸃~~(點)
 - **Double** Sang ... ... ... 雙
 - **„ as price** Kè-chîⁿ ke chék-ûe ... ... ... 價錢加~~壹~~(一)半
 - **Doubt** Gî ... ... ... 疑
-- **Drag** Thua; túi ... ... ... 拖　挽
-- **Drain** Sái-kau; tsúi-kau ... ... ... 屎溝　水溝
-- **Draw, pictures** Ūe; ūe-ang-kiáⁿ ... ... ... 畫　畫~~人仔~~(尪囝)
+- **Drag** Thua; túi ... ... ... 拖  挽
+- **Drain** Sái-kau; tsúi-kau ... ... ... 屎溝  水溝
+- **Draw, pictures** Ūe; ūe-ang-kiáⁿ ... ... ... 畫  畫~~人子~~(尪囝)
 - **Dream** Māng-kìⁿ ... ... ... 夢見
-- **Dregs** Phoh ... ... ... 粕
+- **Dregs** Phoh ... ... ... ~~渣~~(粕)
 - **Dress, to change clothes** Uāⁿ-saⁿ-khòu ... ... ... 換衫褲
-- **„ finely** Tá-pàn; siu-síp ... ... ... 打扮　收拾
+- **„ finely** Tá-pàn; siu-síp ... ... ... ~~打辨~~(打扮)  ~~收什~~(收拾)
 - **Drill, soldiers** Tshau-liēn ... ... ... 操練
-- **Drink** Chiáh; lim ... ... ... 食　飮
-- **Drip** Tit; táp-táp-tih ... ... ... 滴　答答滴
-- **Drive, away** Jiōu; chẽng ... ... ... 趕　挣
+- **Drink** Chiáh; lim ... ... ... 食  飮
+- **Drip** Tit; táp-táp-tih ... ... ... 滴  ~~㸃㸃滴~~(答答滴)
+- **Drive, away** Jiōu; chẽng ... ... ... 趕  挣
 - **„ a bullock** Sái-gû ... ... ... 使牛
-- **Drizzle** Hõu-kiáⁿ ... ... ... 雨~~仔~~(囝)
+- **Drizzle** Hõu-kiáⁿ ... ... ... ~~微雨~~(雨囝)
 - **Drop, a** Chék-tiám ... ... ... ~~壹~~(一)~~㸃~~(點)
 - **„ as liquid** Tih ... ... ... 滴
 - **Dross, of opium** Hun-sái ... ... ... ~~煙~~(薰)屎
 - **„ of coal** Thôu-thùaⁿ-sái ... ... ... 塗炭屎
 - **Drought** Thiⁿ-sí-ũaⁿ ... ... ... 天時旱
 - **Drown** Kek-sí ... ... ... 激死
-- **Drowsy** Phî; kóng-kóng àiⁿ-út ... ... ... 疲　戇戇~~要~~(愛)~~睡~~(夗)
-- **Drugs** Iéh; iéh-kṳn ... ... ... 藥　藥根
+- **Drowsy** Phî; kóng-kóng àiⁿ-út ... ... ... 疲  ~~狂狂~~(戇戇)~~要~~(愛)~~眠~~(夗)
+- **Drugs** Iéh; iéh-kṳn ... ... ... 藥  藥根
 - **Druggist** Khui iéh-tshâi-phòu ... ... ... 開藥材舖
 - **Drum** Kóu ... ... ... 鼓
-- **Dry** Ta ... ... ... ~~乾~~(灱)
+- **Dry** Ta ... ... ... ~~枯~~(灱)
 - **„ in the sun** Phák ... ... ... 曬
 - **Due** Khiàm ... ... ... 欠
 - **Dumb** É ... ... ... 啞
-- **Dun** Tshui ... ... ... 催
+- **Dun** Tshui ... ... ... ~~推~~(催)
 - **Dung, as of cow** Gû-sái ... ... ... 牛屎
-- **Dusk** Háⁿ-hun ... ... ... Háⁿ-hun
-- **Dust** Eng-têng; thôu-hún ... ... ... 烟塵　塗粉
-- **„ raised by the wind** Eng ... ... ... 烟
+- **Dusk** Háⁿ-hun ... ... ... 黃昏
+- **Dust** Eng-têng; thôu-hún ... ... ... ++煙++塵  塗粉
+- **„ raised by the wind** Eng ... ... ... ~~英~~(煙)
 - **Duty** Pńg-hūn ... ... ... 本分
-- **Dwarf** Ói; lóu-kóu ... ... ... 矮  嶁岣
+- **Dwarf** Ói; lóu-kóu ... ... ... 矮  ~~老古~~(嶁岣)
 - **Dye** Níⁿ ... ... ... 染
 - **Dynasty** Chhiôu ... ... ... 朝
 - **Ear** Hĩⁿ ... ... ... 耳
 - **„ orifice of** Hĩⁿ-khang ... ... ... 耳空
 - **Early** Tsá ... ... ... 早
-- **„ in the morning** Tsá-sîn; mêng-khí-tsá--kùa ... ... ... 早晨  ~~明早~~(眠起)早旰
-- **Earn** Thó-thàn; thàn ... ... ... 討~~贃~~(趁)　~~贃~~(趁)
+- **„ in the morning** Tsá-sîn; mêng-khí-tsá--kùa ... ... ... 早晨  ++眠起早旰++
+- **Earn** Thó-thàn; thàn ... ... ... 討~~趨~~(趁)  ~~趨~~(趁)
 - **Earnestly** Chhiet-chhiet ... ... ... 切切
-- **East** Tang; tang-pôiⁿ ... ... ... 東　東~~邊~~(爿)
-- **Echo** Tõu-kiàng-kúi ... ... ... Tõu-kiàng-kúi
+- **East** Tang; tang-pôiⁿ ... ... ... 東  東~~邊~~(爿)
+- **Echo** Tõu-kiàng-kúi ... ... ... ~~杜應鬼~~
 - **Economy** Khiãm ... ... ... 儉
-- **Edge** Piⁿ; kîⁿ ... ... ... 邊　墘
-- **Educated** Thák-tūa-tsṳ; thák-chhim-tsṳ ... ... ... 讀大書　讀深書
+- **Edge** Piⁿ; kîⁿ ... ... ... 邊  墘
+- **Educated** Thák-tūa-tsṳ; thák-chhim-tsṳ ... ... ... 讀大書  讀深書
 - **Elbow** Chhiú-thñg ... ... ... 手肘
-- **Elder** Lãu-tūa; tūa ... ... ... 老大　大
+- **Elder** Lãu-tūa; tūa ... ... ... 老大  大
 - **Eldest** Siãng-tūa ... ... ... 上大
-- **Elect** Suán; khieh ... ... ... 選  ~~携~~(挈)
+- **Elect** Suán; khieh ... ... ... 選  ++挈++
 - **Embankment** Toi ... ... ... 堤
 - **Embezzle** Thau-sái-chîⁿ ... ... ... 偷使錢
-- **Embrace** Nám; phõ ... ... ... 攬　抱
-- **Embroider** Siù-hue; chhiah-hue ... ... ... 繡花　刺花
+- **Embrace** Nám; phõ ... ... ... ~~嬲~~(攬)  抱
+- **Embroider** Siù-hue; chhiah-hue ... ... ... 繡花  刺花
 - **Emerge** Phû--khí-lâi ... ... ... 浮起來
-- **Emperor** Huâng-tì; uâng-siãng ... ... ... 皇帝　王上
+- **Emperor** Huâng-tì; uâng-siãng ... ... ... 皇帝  皇上
 - **Employ, to** Ēng ... ... ... 用
-- **Employment** Sṳ̄; thâu-lōu ... ... ... 事　頭路
+- **Employment** Sṳ̄; thâu-lōu ... ... ... 事  頭路
 - **Empty** Khang ... ... ... 空
-- **Encamp** Tshàng-iâⁿ; tì-iâⁿ ... ... ... 創營　置營
+- **Encamp** Tshàng-iâⁿ; tì-iâⁿ ... ... ... 創營  置營
 - **Enclose** Huang ... ... ... 封
-- **Encroach** Chiàm-kùe; tshàng-kùe ... ... ... 佔過　創過
-- **Enemy** Chhiû-nâng; uan-chhiû ... ... ... 仇人　~~寃~~(冤)仇
+- **Encroach** Chiàm-kùe; tshàng-kùe ... ... ... ~~占~~(佔)過  創過
+- **Enemy** Chhiû-nâng; uan-chhiû ... ... ... 仇人  ~~寃~~(冤)仇
 - **Engage, as a teacher** Chhiáⁿ ... ... ... 請
 - **Engage, as servants, workmen** Kiè ... ... ... ~~呌~~(叫)
-- **Engrave** Khek; kuah ... ... ... 刻　割
-- **Enough** Kàu; là ... ... ... 夠  ~~撈~~(𤰉)
-- **Enquire** Mn̄g; chieh-mn̄g ... ... ... 問　借問
+- **Engrave** Khek; kuah ... ... ... 刻  割
+- **Enough** Kàu; là ... ... ... ~~足~~(夠)  𤰉
+- **Enquire** Mn̄g; chieh-mn̄g ... ... ... 問  借問
 - **Enter** Jíp ... ... ... 入
 - **Entitled** Èng-kai-tit ... ... ... 應該得
 - **Entrust** Thoh; hù-thoh ... ... ... 托  付托
-- **Envelope** Sìn-phûe; phoi-phûe; huang-tâng ... ... ... 信皮　批皮  封筒
+- **Envelope** Sìn-phûe; phoi-phûe; huang-tâng ... ... ... 信皮  批皮  ++封筒++
 - **Equal** Pêⁿ-iēⁿ ... ... ... 平樣
-- **Erect** Kiẽn; khí ... ... ... 建　起
-- **Erroneous** Tshò; tāⁿ; m̃-tiéh ... ... ... 錯　差　~~不~~(毋)着
+- **Erect** Kiẽn; khí ... ... ... 建  起
+- **Erroneous** Tshò; tāⁿ; m̃-tiéh ... ... ... 錯  差  ~~不~~(毋)着
 - **Escape** Tsáu ... ... ... 走
 - **„ secretly** Thau-tsáu ... ... ... 逃走
-- **Estate, land** Tī; tshân-tī ... ... ... 地　田地
-- **„ general** Ke-ngiáp; ke-sṳ̄; ke-tsṳ ... ... ... 家業　家事　家資
-- **Esteem, a person** Kèng-tõng; thóiⁿ-tõng ... ... ... 敬重　~~看~~(睇)重
-- **Estimate, price or value** Kóu; kóu-kè; kóu-tát; pān ... ... ... 估　估價　估~~値~~(值)　辦
+- **Estate, land** Tī; tshân-tī ... ... ... 地  田地
+- **„ general** Ke-ngiáp; ke-sṳ̄; ke-tsṳ ... ... ... 家業  家事  家資
+- **Esteem, a person** Kèng-tõng; thóiⁿ-tõng ... ... ... 敬重  ~~看~~(睇)重
+- **Estimate, price or value** Kóu; kóu-kè; kóu-tát; pān ... ... ... 估  估價  估~~値~~(值)  辦
 - **Everlasting** Buān-sì ... ... ... 萬世
 - **Evidence, in court** Kháu-keng ... ... ... 口供
 - **Evil** Ak ... ... ... 惡
-- **Examine** Chhê; sûn; thóiⁿ ... ... ... 查　巡　~~看~~(睇)
-- **„ literature** Kháu; kháu-mn̄g ... ... ... 考　考問
+- **Examine** Chhê; sûn; thóiⁿ ... ... ... 查  巡  ~~看~~(睇)
+- **„ literature** Kháu; kháu-mn̄g ... ... ... 考  考問
 - **Example** Iēⁿ ... ... ... 樣
-- **Exchange** Sie-uāⁿ; uāⁿ ... ... ... 相換　換
-- **Exclude** Tṳ̂; màiⁿ-sǹg ... ... ... 除　勿算
-- **Exercise, take** Kiâⁿ-tsáu; uáh-tõng ... ... ... 行走　活動
-- **Exert, oneself** Khat-khóu; kṳ́n-sim ... ... ... 刻苦　謹心
+- **Exchange** Sie-uāⁿ; uāⁿ ... ... ... 相換  換
+- **Exclude** Tṳ̂; màiⁿ-sǹg ... ... ... 除  勿算
+- **Exercise, take** Kiâⁿ-tsáu; uáh-tõng ... ... ... 行走  活動
+- **Exert, oneself** Khat-khóu; kṳ́n-sim ... ... ... 刻苦  謹心
 - **„ strength** Tshut-lát ... ... ... 出力
 - **Exhibit, goods** Pái ... ... ... 擺
 - **Expand** Tièⁿ ... ... ... 脹
 - **Expect** Mōⁿ ... ... ... 望
 - **Expend** Sái ... ... ... 使
-- **Expenditure** Só-hùi ... ... ... ~~使費~~(所費)
-- **Expensive** Kùi; tát-chîⁿ ... ... ... 貴　~~値~~(值)錢
-- **„ living** Só-hùi-tūa ... ... ... ~~使費~~(所費)大
+- **Expenditure** Só-hùi ... ... ... ~~需費~~(所費)
+- **Expensive** Kùi; tát-chîⁿ ... ... ... 貴  ~~値~~(值)錢
+- **„ living** Só-hùi-tūa ... ... ... ~~需費~~(所費)大
 - **Experience** Sék ... ... ... 熱
-- **Expire** Tñg-khùi; kùe--khṳ̀ ... ... ... 斷氣　過去
-- **Explain** Kói-sueh ... ... ... 解說
-- **Explode, as gun-powder** Tóh-húe ... ... ... 着火
-- **„ burst** Piàng-tiòu ... ... ... Piàng~~丢~~(掉)
-- **Extort** Lék-sok ... ... ... 勒索
+- **Expire** Tñg-khùi; kùe--khṳ̀ ... ... ... 斷氣  過去
+- **Explain** Kói-sueh ... ... ... ~~攺說~~(解說)
+- **Explode, as gun-powder** Tóh-húe ... ... ... ~~發火~~(着火)
+- **„ burst** Piàng-tiòu ... ... ... 爆~~丢~~(掉)
+- **Extort** Lék-sok ... ... ... ~~刻剝~~(勒索)
 - **Fact, in** Khî-sít ... ... ... 其實
 - **Fade, as flower** Sià ... ... ... 謝
-- **„ as colour** Thò-sek; lóh-sek ... ... ... 褪色　落色
-- **Faint** M̃-tsai-nâng; hîn ... ... ... ~~不~~(毋)知人　眩
+- **„ as colour** Thò-sek; lóh-sek ... ... ... ~~退色~~(褪色)  落色
+- **Faint** M̃-tsai-nâng; hîn ... ... ... ~~不~~(毋)知人  眩
 - **False** Ké ... ... ... 假
 - **Fame** Miâⁿ-siaⁿ ... ... ... 名聲
 - **Familiar** Sék ... ... ... 熱
@@ -4495,198 +4495,198 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Famous** Tshut-miâⁿ ... ... ... 出名
 - **Fare, boat** Tsûn-tsou ... ... ... 船租
 - **„ vehicle** Chhia-sùe ... ... ... 車稅
-- **Farm, a** Tshân; tshân-hn̂g ... ... ... 田　田園
-- **Fashion** Khuán; iēⁿ ... ... ... 款　樣
-- **Fast** Méⁿ; khûe ... ... ... 猛　快
+- **Farm, a** Tshân; tshân-hn̂g ... ... ... 田  田園
+- **Fashion** Khuán; iēⁿ ... ... ... ~~欸~~(款)  樣
+- **Fast** Méⁿ; khûe ... ... ... 猛  快
 - **Fasten** Pák ... ... ... 縛
 - **Fat, lard** Lâ ... ... ... 朥
 - **Fatal** Tiéh-miāⁿ ... ... ... 着命
-- **Fate** Miāⁿ; miāⁿ-ūn ... ... ... 命　命運
-- **Father** A-pẽ; a-tia; a-pa ... ... ... ~~亞~~(阿)父　~~亞~~(阿)爹　~~亞~~(阿)爸
+- **Fate** Miāⁿ; miāⁿ-ūn ... ... ... 命  命運
+- **Father** A-pẽ; a-tia; a-pa ... ... ... ~~亞~~(阿)父  ~~亞~~(阿)爹  ~~亞巴~~(阿爸)
 - **Fathom** Siâm ... ... ... 尋
-- **Fault** M̃-tiéh; tshò ... ... ... ~~不~~(毋)着　錯
-- **Favour** Nâng-chhêng; kong-ṳn ... ... ... 人~~⿰忄靑~~(情)　功恩
-- **Feast, to prepare** Tsò-toh ... ... ... 做~~棹~~(桌)
+- **Fault** M̃-tiéh; tshò ... ... ... ~~不~~(毋)着  錯
+- **Favour** Nâng-chhêng; kong-ṳn ... ... ... 人~~⿰忄靑~~(情)  功恩
+- **Feast, to prepare** Tsò-toh ... ... ... ~~做席~~(做桌)
 - **„ to eat** Chiáh-toh ... ... ... 食~~棹~~(桌)
 - **Feather** Môⁿ ... ... ... 毛
-- **Fee, teacher's** Sok-kim; tsṳ-kim ... ... ... 束金　書金
-- **Feed** Chhī ... ... ... 飼
-- **Feel** Chhì ... ... ... 試
+- **Fee, teacher's** Sok-kim; tsṳ-kim ... ... ... 束金  書金
+- **Feed** Chhī ... ... ... ~~養~~(飼)
+- **Feel** Chhì ... ... ... 莿
 - **„ by touch** Mông ... ... ... 摸
 - **Felt** Chiⁿ ... ... ... 氈
-- **Female, of human beings** Tsṳ-nîeⁿ; tsa-bóu ... ... ... ~~女人~~(諸娘)　諸𡚸
+- **Female, of human beings** Tsṳ-nîeⁿ; tsa-bóu ... ... ... ~~姿娘~~(諸娘)  ~~姐畝~~(諸𡚸)
 - **„ of animals** Bó ... ... ... 母
-- **Fence** Lî; hn̂g-lî ... ... ... 籬　園籬
-- **Ferocious** Iá ... ... ... 野
+- **Fence** Lî; hn̂g-lî ... ... ... 籬  園籬
+- **Ferocious** Iá ... ... ... ~~强~~(野)
 - **Festival** Tsoih ... ... ... 節
 - **Fiddle** Hîⁿ ... ... ... 弦
 - **Fierce, of fire** Jiét ... ... ... 熱
-- **Filial** Kiâⁿ-hàu; ũ-hàu ... ... ... 行孝　有孝
+- **Filial** Kiâⁿ-hàu; ũ-hàu ... ... ... 行孝  有孝
 - **Fill, as water** Tshō ... ... ... 裝
-- **Filthy** Nah-sap; chhi-gî; o-tso ... ... ... ~~污穢~~(垃圾)  生疑  污糟
+- **Filthy** Nah-sap; chhi-gî; o-tso ... ... ... ~~污穢~~(垃圾)  ++++  污糟
 - **Fins** Hṳ̂-sít ... ... ... 魚~~翅~~(翼)
-- **Firm** Ún ... ... ... 穩
+- **Firm** Ún ... ... ... ~~堅固~~(穩)
 - **„ a** Hâng ... ... ... 行
 - **Fist** Khûn-thâu ... ... ... 拳頭
 - **Fix, as date** Tiāⁿ ... ... ... 定
-- **Flame** Húe-iām; húe-chíh ... ... ... 火炎　火舌
-- **Flea** Ka-tsáu ... ... ... ~~蝨~~(虼蚤)
-- **Fling** Sõ ... ... ... 扔
+- **Flame** Húe-iām; húe-chíh ... ... ... 火炎  火舌
+- **Flea** Ka-tsáu ... ... ... ~~膠走~~(虼蚤)
+- **Fling** Sõ ... ... ... ++++
 - **Flock** Khûn ... ... ... 羣
-- **Flood** Tūa-tsúi; hái-huang-tiê ... ... ... 大水　海風潮
+- **Flood** Tūa-tsúi; hái-huang-tiê ... ... ... 大水  海風潮
 - **Flow** Lâu ... ... ... 流
 - **Foam** Phuéh ... ... ... 沬
 - **Fold, clothes** Jih; chih ... ... ... 摺
-- **Follow** Tùe ... ... ... 綴
+- **Follow** Tùe ... ... ... ~~隨~~(綴)
 - **Fond** Hàuⁿ ... ... ... 好
 - **Forbid** Kìm ... ... ... 禁
 - **Force** Lát; khì-lát ... ... ... 力  氣力
-- **„ to a person** Mién-kiáng; ngẽ-liáh ... ... ... 勉強　硬掠
+- **„ to a person** Mién-kiáng; ngẽ-liáh ... ... ... 勉~~强~~(強)  硬掠
 - **Foreign** Huan ... ... ... ~~畨~~(番)
-- **„ country** Huan-pôiⁿ ... ... ... ~~畨~~(番)~~邊~~(爿)
-- **Foreigner** Gūa-kok-nâng; huan-nâng ... ... ... 外國人　~~畨~~(番)人
-- **Forest** Suaⁿ; suaⁿ-lãi ... ... ... 山　山內
-- **Forget** M̃-kì-tit; m̃-it-tit ... ... ... ~~不~~(毋)記得　~~不~~(毋)憶得
-- **Forgive** Sià-tsũe; khuan ... ... ... ~~宥罪~~(赦罪)　寛
-- **Form** Iēⁿ; pān-thâu; khuán ... ... ... 樣　辦頭　款
-- **Formerly** Tsá tiang-sî; hṳ́-tiang-sî ... ... ... 早~~何時~~(底當時)  彼~~何時~~(底當時)
-- **Fortunate** Tsãu-hùe; tshâi-khì ... ... ... 造化　財氣
-- **Fortune** Miāⁿ; ūn; tshâi-khì ... ... ... 命　運　財氣
+- **„ country** Huan-pôiⁿ ... ... ... ~~畨邦~~(番爿)
+- **Foreigner** Gūa-kok-nâng; huan-nâng ... ... ... 外國人  ~~畨~~(番)人
+- **Forest** Suaⁿ; suaⁿ-lãi ... ... ... 山  山內
+- **Forget** M̃-kì-tit; m̃-it-tit ... ... ... ~~不見得~~(毋記得)  ~~不~~(毋)憶得
+- **Forgive** Sià-tsũe; khuan ... ... ... ~~宥罪~~(赦罪)  ~~欸~~(寛)
+- **Form** Iēⁿ; pān-thâu; khuán ... ... ... 樣  辦頭  ~~欸~~(款)
+- **Formerly** Tsá tiang-sî; hṳ́-tiang-sî ... ... ... ~~早時~~(早底當時)  ++彼底當時++
+- **Fortunate** Tsãu-hùe; tshâi-khì ... ... ... 造化  財氣
+- **Fortune** Miāⁿ; ūn; tshâi-khì ... ... ... 命  運  財氣
 - **Foundation** Tī-kha ... ... ... 地~~脚~~(骹)
-- **Fountain** Tsûaⁿ; tsúi-tsûaⁿ ... ... ... 泉　水泉
+- **Fountain** Tsûaⁿ; tsúi-tsûaⁿ ... ... ... 泉  水泉
 - **Freight** Tsûn-tsou ... ... ... 船租
 - **Fresh** Chhiⁿ ... ... ... 鮮
-- **„ as water** Chiáⁿ ... ... ... 䭕
+- **„ as water** Chiáⁿ ... ... ... ~~淡~~(䭕)
 - **Friend** Phêng-iú ... ... ... 朋友
-- **Frighten, people** Muéh-nâng-kiaⁿ; phièn-nâng-kiaⁿ ... ... ... 物人驚　騙人驚
-- **Fuel** Muéh-hiâⁿ ... ... ... 物~~燒~~(燃)
-- **Full** Tĩⁿ ... ... ... 漲
+- **Frighten, people** Muéh-nâng-kiaⁿ; phièn-nâng-kiaⁿ ... ... ... 物人驚  騙人驚
+- **Fuel** Muéh-hiâⁿ ... ... ... ++物燃++
+- **Full** Tĩⁿ ... ... ... ~~滿~~(漲)
 - **Fun, to make** Sńg ... ... ... 耍
 - **Funny** Tshù-bī ... ... ... 趣味
 - **Funds** Pńg ... ... ... 本
 - **Funeral, attend a** Sàng-sng ... ... ... 送喪
-- **Future** Chiang-lâi; ẽ-jít ... ... ... 將來　下日
+- **Future** Chiang-lâi; ẽ-jít ... ... ... 將來  下日
 - **„ in, henceforth** Tshông-kim íⁿ-aũ ... ... ... 從今以後
 - **Gale** Tūa-huang ... ... ... 大風
-- **Gambling** Puáh-chîⁿ; puáh-kióu ... ... ... ~~拔~~(跋)錢　~~拔~~(跋)筊
+- **Gambling** Puáh-chîⁿ; puáh-kióu ... ... ... ~~賭~~(跋)錢  ~~賭博~~(跋筊)
 - **Gate** Tūa-mn̂g ... ... ... 大門
 - **„ city** Siâⁿ-mn̂g ... ... ... 城門
 - **Generation** Tō ... ... ... 代
 - **Genuine** Chiàⁿ ... ... ... 正
 - **Geography** Tī-lí ... ... ... 地理
 - **Geomancer** Thóiⁿ-huang-tsúi sin-seⁿ ... ... ... ~~看~~(睇)風水先生
-- **Gild** Liū-kim; tah-kim ... ... ... 鍍金　搭金
+- **Gild** Liū-kim; tah-kim ... ... ... 鍍金  搭金
 - **Gills, of fish** Hṳ̂-chhi ... ... ... 魚腮
-- **Girl** Tsṳ-niêⁿ-kiáⁿ ... ... ... ~~女人~~(諸娘)~~仔~~(囝)
+- **Girl** Tsṳ-niêⁿ-kiáⁿ ... ... ... ~~姿娘~~(諸娘)~~仔~~(囝)
 - **Glad** Huaⁿ-hí ... ... ... 歡喜
 - **Glue** Ka ... ... ... 膠
 - **God, Christian** Siãng-tì ... ... ... 上帝
-- **„ heathen** Lãu-iâ; sîn-mêng ... ... ... 老爺　神明
+- **„ heathen** Lãu-iâ; sîn-mêng ... ... ... 老爺  神明
 - **Gong** Lô ... ... ... 鑼
-- **„ with a boss** Khong; khim ... ... ... Khong　欽
-- **Govern** Kuán; kuán-lí ... ... ... 管　管理
+- **„ with a boss** Khong; khim ... ... ... ++++  欽
+- **Govern** Kuán; kuán-lí ... ... ... 管  管理
 - **Government** Chhiôu-thêng ... ... ... 朝廷
-- **Gradually** Khuaⁿ-khuaⁿ; chiãm-chiãm ... ... ... ~~漸漸~~(寬寬)　漸漸
-- **Grain** Ngõu-kak ... ... ... 五穀
+- **Gradually** Khuaⁿ-khuaⁿ; chiãm-chiãm ... ... ... 寬寬  漸漸
+- **Grain** Ngõu-kak ... ... ... 五~~谷~~(穀)
 - **Grate, to** Thuah ... ... ... 磨
-- **Grateful** Kám-ṳn; tsai-nâng-chhêng ... ... ... 感恩　知人~~⿰忄靑~~(情)
-- **Grave** Phûn; huang-tsúi ... ... ... 墳　風水
+- **Grateful** Kám-ṳn; tsai-nâng-chhêng ... ... ... 感恩  知人~~⿰忄靑~~(情)
+- **Grave** Phûn; huang-tsúi ... ... ... ~~墓~~(墳)  風水
 - **Gray, as hair** Tshang-péh ... ... ... 蒼白
-- **Graze, as cattle** Khòi-tsháu; chiáh-tsháu ... ... ... 喫草　食草
-- **Greedy** Tham-sim; tham-chiáh ... ... ... 貪心　貪食
-- **Green** Chheⁿ; lék ... ... ... ~~靑~~(青)　綠
+- **Graze, as cattle** Khòi-tsháu; chiáh-tsháu ... ... ... 喫草  食草
+- **Greedy** Tham-sim; tham-chiáh ... ... ... 貪心  貪食
+- **Green** Chheⁿ; lék ... ... ... ~~靑~~(青)  綠
 - **Greet** Sie-chieh-mn̄g ... ... ... 相借問
 - **Grief** Huân-ló ... ... ... 煩惱
 - **Grind, as flour** Oi ... ... ... 挨
-- **Groan** Tshan; hng-tshan ... ... ... 謒  哼謒
+- **Groan** Tshan; hng-tshan ... ... ... ~~潺~~(謒)  ++哼謒++
 - **Grow, as trees** Huat ... ... ... 發
 - **„ as produce** Seⁿ ... ... ... 生
-- **Grudge** Tòu-chhiû; tòu-hṳ̃u; khieh-hṳ̃n ... ... ... 妒仇　妒恨  ~~携~~(挈)恨
+- **Grudge** Tòu-chhiû; tòu-hṳ̃u; khieh-hṳ̃n ... ... ... ~~閗~~(妒)仇  ~~閗~~(妒)恨  ++挈恨++
 - **Grumble** Liām-lōu ... ... ... 念路
-- **Guarantee** Pau-niáⁿ ... ... ... 包領
+- **Guarantee** Pau-niáⁿ ... ... ... ~~保領~~(包領)
 - **Guess** Ieh ... ... ... 約
 - **Guest** Nâng-kheh ... ... ... 人客
 - **Guitar** Pî-pê ... ... ... 琵琶
 - **Gums, of teeth** Khí-ngṳ̂n ... ... ... ~~齒銀~~(齒齦)
 - **Gun** Chhèng ... ... ... 銃
-- **Gun-powder** Húe-iéh; chhèng-iéh ... ... ... 火藥　銃藥
-- **Gutter, on roof** Lāu-bó-tsô ... ... ... Lāu-bó槽
-- **Habit** Khuán ... ... ... 款
-- **Habituated** Kùiⁿ-sìⁿ ... ... ... 慣勢
-- **Half** Pùaⁿ; chék-pùaⁿ; chék-uê; chék-pôiⁿ; chék-kuéh ... ... ... 半　~~壹~~(一)半　~~壹~~(一)uê ~~壹~~(一)~~邊~~(爿)　~~壹~~(一)~~𰉗~~(橛)
-- **Hammer** Thih-thûi; tshâ-thûi ... ... ... 鐵錘　柴槌
+- **Gun-powder** Húe-iéh; chhèng-iéh ... ... ... 火藥  銃藥
+- **Gutter, on roof** Lāu-bó-tsô ... ... ... ~~水槽~~(霤母槽)
+- **Habit** Khuán ... ... ... ~~欸~~(款)
+- **Habituated** Kùiⁿ-sìⁿ ... ... ... 慣++勢++
+- **Half** Pùaⁿ; chék-pùaⁿ; chék-uê; chék-pôiⁿ; chék-kuéh ... ... ... 半  ~~壹~~(一)半  ++++  ~~壹~~(一)~~畔~~(爿)  ~~壹~~(一)~~𰉗~~(橛)
+- **Hammer** Thih-thûi; tshâ-thûi ... ... ... 鐵~~錘~~(槌)  柴槌
 - **Hand** Chhiú ... ... ... 手
 - **„ right** Chiàⁿ-chhiú ... ... ... 正手
-- **„ left** Tò-chhiú ... ... ... 倒手
+- **„ left** Tò-chhiú ... ... ... ~~右手~~(倒手)
 - **Handle** Pēⁿ ... ... ... 柄
 - **Hang** Tiòu ... ... ... 吊
 - **„ oneself** Tiòu-ãm ... ... ... 吊~~頸~~(頷)
 - **Happy** Huaⁿ-hí ... ... ... 歡喜
-- **Hard** Tōiⁿ; ngẽ ... ... ... 𠕆　硬
+- **Hard** Tōiⁿ; ngẽ ... ... ... 𠕆  硬
 - **Hare** Thòu ... ... ... 兔
 - **Harrow** Thih-pê ... ... ... 鐵鈀
-- **Hatch, eggs** Pū-koi-kiáⁿ ... ... ... 孵~~鷄~~(雞)~~仔~~(囝)
-- **Hate** Lóu ... ... ... ~~恶~~(惱)
+- **Hatch, eggs** Pū-koi-kiáⁿ ... ... ... ~~鷄伏卯~~(孵雞囝)
+- **Hate** Lóu ... ... ... ~~恨~~(惱)
 - **Hawkers, of needle and thread &c.** Iê-kóu ... ... ... 搖鼓
-- **Head** Thâu; thâu-khak ... ... ... 頭　頭~~壳~~(殼)
-- **Heap, a** Chék-tun ... ... ... ~~壹~~(一)堆
-- **„ to** Tun ... ... ... 堆
-- **Hear** Thiaⁿ; thiaⁿ-kìⁿ ... ... ... 聽　聽見
-- **Heart** Sim; sim-kuaⁿ ... ... ... 心　心肝
-- **Heel** Kha-aũ-teⁿ ... ... ... ~~脚~~(骹)後蹬
+- **Head** Thâu; thâu-khak ... ... ... 頭  頭~~壳~~(殼)
+- **Heap, a** Chék-~~tu~~(tun) ... ... ... ~~壹~~(一)堆
+- **„ to** ~~tu~~(tun) ... ... ... 堆
+- **Hear** Thiaⁿ; thiaⁿ-kìⁿ ... ... ... 聽  聽見
+- **Heart** Sim; sim-kuaⁿ ... ... ... 心  心肝
+- **Heel** Kha-aũ-teⁿ ... ... ... ~~脚睜~~(骹後蹬)
 - **Heir** Aũ-ĩ ... ... ... 後裔
-- **Help** Sie-hũ; siang-pang ... ... ... 相輔　相幫
-- **Hiccough** Phah-oh ... ... ... ~~打~~(拍)呃
-- **Hide, to** Tiàm ... ... ... 坫
-- **Hire** Kòu; kiè ... ... ... 僱　~~呌~~(叫)
-- **History** Kóu-sṳ̄; kóu ... ... ... 古事　古
-- **Hive** Phang-siū ... ... ... 蜂岫
+- **Help** Sie-hũ; siang-pang ... ... ... ~~相扶~~(相輔)  相幫
+- **Hiccough** Phah-oh ... ... ... ~~打噎~~(拍呃)
+- **Hide, to** Tiàm ... ... ... ~~藏~~(坫)
+- **Hire** Kòu; kiè ... ... ... ~~僱~~(雇)  ~~呌~~(叫)
+- **History** Kóu-sṳ̄; kóu ... ... ... 古事  古
+- **Hive** Phang-siū ... ... ... 蜂~~巢~~(岫)
 - **Hole** Khang ... ... ... 空
 - **Hollow** Khang-khak ... ... ... 空~~壳~~(殼)
-- **Home** Tshù; lãi ... ... ... 厝　內
-- **Honest** Chiàⁿ-keng; tong-tít; láu-sít ... ... ... 正經　忠直　老實
+- **Home** Tshù; lãi ... ... ... 厝  內
+- **Honest** Chiàⁿ-keng; tong-tít; láu-sít ... ... ... 正經  忠直  老實
 - **Hood** Soh-bō ... ... ... 雪帽
 - **Hoof** Tôi ... ... ... 蹄
 - **Hook** Kau ... ... ... 鈎
-- **Hope** Mōⁿ; ǹg ... ... ... 望  仰
+- **Hope** Mōⁿ; ǹg ... ... ... 望  ++仰++
 - **Hopeless** Bô-mōⁿ ... ... ... 無望
-- **Horrible** Lî-keng ... ... ... 離經
+- **Horrible** Lî-keng ... ... ... ~~利更~~(離經)
 - **Hospital** Ui-kuán ... ... ... 醫館
-- **Hotel** Tiàm-phòu; kheh-tiàm ... ... ... 店舖　客店
+- **Hotel** Tiàm-phòu; kheh-tiàm ... ... ... 店舖  客店
 - **Hour** Tiám-cheng ... ... ... ~~㸃~~(點)鐘
 - **„ Chinese** Sî-sîn ... ... ... 時辰
-- **Huddle** Sie-chìⁿ ... ... ... 相擠
-- **Hungry** Tóu khùn; iou ... ... ... 肚困　枵
+- **Huddle** Sie-chìⁿ ... ... ... ~~相挨~~(相擠)
+- **Hungry** Tóu khùn; iou ... ... ... 肚困  ~~饑~~(枵)
 - **Hunt** Phah-láh ... ... ... ~~打~~(拍)獵
-- **Hurt** Sieⁿ; sieⁿ--tiéh ... ... ... 傷　傷着
+- **Hurt** Sieⁿ; sieⁿ--tiéh ... ... ... 傷  傷着
 - **Husk** Khak ... ... ... ~~壳~~(殼)
 - **Husk, as of cocoa-nut** Sui ... ... ... 榱
 - **Hut** Tshù-kiáⁿ ... ... ... 厝~~仔~~(囝)
 - **Idle** Tũaⁿ ... ... ... 惰
 - **Idol** Lãu-iâ ... ... ... 老爺
 - **Ignorant** M̃-hióu ... ... ... ~~不~~(毋)曉
-- **Ill-treat** M̃-kãu-thãi; liáh-m̃-tá-kéng ... ... ... ~~不~~(毋)厚待  掠~~不~~(毋)打緊
+- **Ill-treat** M̃-kãu-thãi; liáh-m̃-tá-kéng ... ... ... ~~不~~(毋)厚待  ++掠毋打緊++
 - **Image** Sièⁿ ... ... ... 像
 - **Imitate** Óh ... ... ... 學
-- **Immediately** Sûi-sî; lîm-sî ... ... ... 隨時　臨時
-- **Immoderate** Bô-pan-bó ... ... ... 無班母
-- **Impertinent** Huàng-sṳ̀; bô-kui-kṳ́; bô-tūa bô-sòi ... ... ... 放肆　無規矩　無大無細
+- **Immediately** Sûi-sî; lîm-sî ... ... ... 隨時  臨時
+- **Immoderate** Bô-pan-bó ... ... ... 無~~方母~~(班母)
+- **Impertinent** Huàng-sṳ̀; bô-kui-kṳ́; bô-tūa bô-sòi ... ... ... 放肆  無規矩  無大無~~小~~(細)
 - **Important** Chhiet-iòu ... ... ... 切要
 - **Impossible** Put-lêng ... ... ... 不能
-- **Impostor** Láu-kiáⁿ ... ... ... 漏~~仔~~(囝)
-- **Inability** Bô-pún-niáⁿ; bô-pún-sṳ̄; bô-tshâi-chhêng ... ... ... 無本領　無本事　無才~~⿰忄靑~~(情)
+- **Impostor** Láu-kiáⁿ ... ... ... ~~老仔~~(漏囝)
+- **Inability** Bô-pún-niáⁿ; bô-pún-sṳ̄; bô-tshâi-chhêng ... ... ... 無本領  無本事  無才~~⿰忄靑~~(情)
 - **Inattentive** Bô-sim ... ... ... 無心
-- **Incorrect** M̃-tùi; m̃-tiéh ... ... ... ~~不~~(毋)對　~~不~~(毋)着
+- **Incorrect** M̃-tùi; m̃-tiéh ... ... ... ~~不~~(毋)對  ~~不~~(毋)着
 - **Increase** Ke ... ... ... 加
-- **Indigestion** Tóu bõi-siou ... ... ... 肚袂消
+- **Indigestion** Tóu bõi-siou ... ... ... 肚~~不~~(袂)消
 - **Individually** Kak-nâng ... ... ... 各人
-- **Induce, away** Kiou-tsáu; tshūa-tsáu ... ... ... 邀走　娶走
-- **Infant** Sòi-kíaⁿ; nôuⁿ-kiáⁿ; a-nôuⁿ ... ... ... 細~~仔~~(囝)　孥~~仔~~(囝)　~~亞奴~~(阿孥)
-- **Inferior, of comparison** Su; kẽ-tsng; kẽ-pín ... ... ... 輸　低莊　下品
+- **Induce, away** Kiou-tsáu; tshūa-tsáu ... ... ... 邀走  娶走
+- **Infant** Sòi-kíaⁿ; nôuⁿ-kiáⁿ; a-nôuⁿ ... ... ... ~~小仔~~(細囝)  ~~奴仔~~(孥囝)  ~~阿奴~~(阿孥)
+- **Inferior, of comparison** Su; kẽ-tsng; kẽ-pín ... ... ... 輸  低~~庄~~(莊)  下品
 - **Influence** Sì-thâu ... ... ... 勢頭
 - **Influential** Chhiòu; ũ-sì-thâu ... ... ... 有權勢
 - **Inform** Pò-tsai ... ... ... 報知
-- **Injure** Hāi; sieⁿ--tiéh ... ... ... 害　傷着
+- **Injure** Hāi; sieⁿ--tiéh ... ... ... 害  傷着
 - **Inland** Lãi-tī ... ... ... 內地
 - **Inquire** Thàm-mn̄g ... ... ... 探問
 - **Insist** Ngẽ-àiⁿ ... ... ... 硬~~要~~(愛)
@@ -4695,215 +4695,215 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Instrument** Khì-kũ ... ... ... 器具
 - **Intercourse** Lâi-uáng ... ... ... 來往
 - **Interfere, with other's affair** Tshap-nâng-kâi-sṳ̄ ... ... ... 插人~~個~~(个)事
-- **Interior** Lãi; lãi-pôiⁿ ... ... ... 內　內~~邊~~(爿)
-- **Interpret** Hûe; hûe-uē ... ... ... 回　回話
+- **Interior** Lãi; lãi-pôiⁿ ... ... ... 內  內~~畔~~(爿)
+- **Interpret** Hûe; hûe-uē ... ... ... 回  回話
 - **Interpreter** Hûe-uē ... ... ... 回話
 - **Interrupt** Tsó ... ... ... 阻
-- **Interview** Sie-kìⁿ; hũe-mīn ... ... ... 相見　會面
+- **Interview** Sie-kìⁿ; hũe-mīn ... ... ... 相見  會面
 - **Intimate** Siang-hó phêng-iú ... ... ... 相好朋友
-- **Introduce** Ín-chìn; khan-thua; khan-sêng; chiou-hu ... ... ... 引荐　牽拖　牽成　招呼
+- **Introduce** Ín-chìn; khan-thua; khan-sêng; chiou-hu ... ... ... 引荐  牽拖  牽成  招呼
 - **Inundation** Pang-toi ... ... ... 崩堤
 - **Invent** Siet-tshut ... ... ... 設出
-- **Investigate** Kháu-mn̄g; sím-mn̄g ... ... ... 考問　審問
+- **Investigate** Kháu-mn̄g; sím-mn̄g ... ... ... 考問  審問
 - **Item, an** Chek-tiôu ... ... ... ~~壹~~(一)條
 - **Ivory** Gê ... ... ... 牙
-- **Jetty** Bé-thâu ... ... ... 碼頭
+- **Jetty** Bé-thâu ... ... ... ~~馬頭~~(碼頭)
 - **Join** Chiap ... ... ... 接
 - **Joint** Tsat ... ... ... 節
 - **Joke, in play** Sńg ... ... ... 耍
 - **„ in word** Tàⁿ-sńg ... ... ... 呾耍
-- **Jostle** Sie-chìⁿ ... ... ... 相擠
+- **Jostle** Sie-chìⁿ ... ... ... ~~相挨~~(相擠)
 - **Journey** Lōu ... ... ... 路
-- **Judge** Sím; phōiⁿ ... ... ... 審　辦
-- **Juggler** Tsò-pá-hì ... ... ... 做飽戲
+- **Judge** Sím; phōiⁿ ... ... ... 審  辦
+- **Juggler** Tsò-pá-hì ... ... ... ~~演~~(做)飽戲
 - **Juice** Tsap ... ... ... 汁
 - **Jump** Thiòu ... ... ... 跳
-- **Junior** Sòi ... ... ... 細
-- **Just** Kong-tãu; kuaⁿ-chìaⁿ ... ... ... 公道　官正
+- **Junior** Sòi ... ... ... ~~小~~(細)
+- **Just** Kong-tãu; kuaⁿ-chìaⁿ ... ... ... 公道  官正
 - **Keep** Khn̄g ... ... ... ~~藏~~(囥)
 - **Kernel** Hút; jîn; chí ... ... ... 核  仁  ~~枳~~(子)
 - **Key** Só-sî ... ... ... 鎖匙
 - **Kick** That ... ... ... 撻
-- **Kidnap** Thau-kiou ... ... ... 偷kiou
-- **Kiln** Tsng-iê ... ... ... 磚窯
+- **Kidnap** Thau-kiou ... ... ... 偷邀
+- **Kiln** Tsng-iê ... ... ... 磚~~窑~~(窯)
 - **Kind** Hó ... ... ... 好
 - **Kindness** Nâng-chhêng ... ... ... 人~~⿰忄靑~~(情)
 - **King** Uâng ... ... ... 王
-- **Kiss** Chim ... ... ... 唚
-- **Kite** Huang-khîm ... ... ... 風禽
-- **Knead** Chhip ... ... ... 緝
+- **Kiss** Chim ... ... ... ~~接吻~~(唚)
+- **Kite** Huang-khîm ... ... ... ~~風箏~~(風禽)
+- **Knead** Chhip ... ... ... ++緝++
 - **Kneel** Kũi ... ... ... 跪
-- **Knit** Chhiah ... ... ... 刺
+- **Knit** Chhiah ... ... ... ~~莿~~(刺)
 - **Knock** Khà ... ... ... 扣
 - **Knot, in wood** Tshâ-mák ... ... ... 柴目
 - **„ on rope** Kat ... ... ... 結
 - **Ladder** Thui ... ... ... 梯
-- **Lady** A-niêⁿ; a-náiⁿ ... ... ... ~~亞~~(阿)娘　~~亞~~(阿)奶
+- **Lady** A-niêⁿ; a-náiⁿ ... ... ... ~~亞~~(阿)娘  ~~亞~~(阿)奶
 - **„ wife of high mandarin** Hu-jîn ... ... ... 夫人
 - **Lake** Oû ... ... ... 湖
-- **Lance** Chhieⁿ ... ... ... 槍
+- **Lance** Chhieⁿ ... ... ... ~~鎗~~(槍)
 - **Land** Tī ... ... ... 地
 - **„ property** Tshân-hn̂g ... ... ... 田園
 - **Landlord, of house** Tshù-tsú ... ... ... 厝主
 - **„ of land** Tshân-tsú ... ... ... 田主
 - **Landscape** Suaⁿ-tsúi ... ... ... 山水
-- **Lane** Hāng; hāng-kiáⁿ ... ... ... 巷　巷~~仔~~(囝)
+- **Lane** Hāng; hāng-kiáⁿ ... ... ... 巷  巷~~仔~~(囝)
 - **Language** Uē ... ... ... 話
-- **Lash, to** Pũaⁿ ... ... ... 拂
-- **Last** Búe-búe; kióu-búe; tõiⁿ-búe ... ... ... 尾尾　kióu尾  第尾
+- **Lash, to** Pũaⁿ ... ... ... ++拂++
+- **Last** Búe-búe; kióu-búe; tõiⁿ-búe ... ... ... 尾尾  ++++  第尾
 - **„ to** Nãiⁿ ... ... ... 耐
 - **Latchet** Ôi-tùa ... ... ... 鞋帶
-- **Lately** Chí-kṳ̃n-jít; chí-kṳ̃n-sî ... ... ... 此近日　此近時
+- **Lately** Chí-kṳ̃n-jít; chí-kṳ̃n-sî ... ... ... 此近日  此近時
 - **Laugh** Chhiè ... ... ... 笑
 - **Law** Lút ... ... ... 律
-- **„ to** Phah-kuaⁿ-si; sie-kò ... ... ... ~~打~~(拍)官司　相告
+- **„ to** Phah-kuaⁿ-si; sie-kò ... ... ... ~~打~~(拍)官司  相告
 - **Lawyer** Sõng-sṳ ... ... ... 訟師
 - **Lazy** Tũaⁿ ... ... ... 惰
-- **Lead, to** Kiou; in ... ... ... 邀　引
+- **Lead, to** Kiou; in ... ... ... 邀  引
 - **„ by the hand** Khan ... ... ... 牽
 - **Leak** Lāu ... ... ... 漏
 - **Lean, to** Uá ... ... ... 倚
 - **Learn** Óh ... ... ... 學
 - **„ as lesson** Thák ... ... ... 讀
-- **Lease, to** Tsou; sùe ... ... ... 租　稅
+- **Lease, to** Tsou; sùe ... ... ... 租  稅
 - **Leather** Phûe ... ... ... 皮
 - **Leech** Hôu-khî ... ... ... 蜈蜞
-- **Left, of side** Tò ... ... ... 倒
+- **Left, of side** Tò ... ... ... ~~左~~(倒)
 - **Legend, written** Kóu-tn̄g ... ... ... 古傳
 - **Lend** Chieh ... ... ... 借
 - **Less** Kíam ... ... ... 減
 - **Lick** Chĩ ... ... ... 䑛
 - **Life** Mīaⁿ ... ... ... 命
 - **Lift, with the hand** Hû ... ... ... 扶
-- **Like** Chhin-chhiẽⁿ; huáng-sṳ̃ ... ... ... 親像　彷似
-- **„ to** Hàuⁿ; siãng ... ... ... 好　尚
+- **Like** Chhin-chhiẽⁿ; huáng-sṳ̃ ... ... ... 親像  彷似
+- **„ to** Hàuⁿ; siãng ... ... ... 好  ~~中意~~(尚)
 - **Likeness** Sièⁿ ... ... ... 像
 - **Limbs, the four** Sì-chiⁿ ... ... ... 四肢
-- **Limit** Hãn; tōu ... ... ... 限　度
-- **Line** Tsūe ... ... ... ~~痕~~(襊)
-- **„ to draw** Uéh-tsūe ... ... ... 劃~~痕~~(襊)
-- **Linguist** Thong-sṳ̄; Hûe-uē ... ... ... 通事　回話
+- **Limit** Hãn; tōu ... ... ... 限  度
+- **Line** Tsūe ... ... ... ~~行~~(襊)
+- **„ to draw** Uéh-tsūe ... ... ... ~~畫行~~(劃襊)
+- **Linguist** Thong-sṳ̄; Hûe-uē ... ... ... 通事  回話
 - **Listen** Thiaⁿ ... ... ... 聽
 - **Literati** Thák-tsṳ-nâng ... ... ... 讀書人
-- **Live** Seⁿ; uáh; chiáh ... ... ... 生　活　食
+- **Live** Seⁿ; uáh; chiáh ... ... ... 生  活  食
 - **Lock, a** Só-thâu ... ... ... 鎖頭
-- **Lodge** Hiah ... ... ... 歇
+- **Lodge** Hiah ... ... ... ~~宿~~(歇)
 - **Loins** Ie ... ... ... 腰
-- **Lonely** Ka-kī; tuaⁿ-nâng ... ... ... 家己　單人
+- **Lonely** Ka-kī; tuaⁿ-nâng ... ... ... ~~自巳~~(家己)  單人
 - **Longevity** Tn̂g-miāⁿ ... ... ... 長命
-- **Loose, to get** Lut--khṳ̀ ... ... ... 脫去
+- **Loose, to get** Lut--khṳ̀ ... ... ... ~~釋~~(脫)去
 - **Lottery** Hue-hũe ... ... ... 花會
 - **„ Manila** Lṳ̃-sòng-pie ... ... ... 呂宋票
 - **Loud, of noise** Hiáng ... ... ... 响
 - **Loud, of voice** Tūa-siaⁿ ... ... ... 大聲
 - **Love** Sieh ... ... ... 惜
-- **Lucky** Tshâi-khì; tsãu-hùe ... ... ... 財氣　造化
-- **Lurk** Tiàm; bih ... ... ... 坫  覕
+- **Lucky** Tshâi-khì; tsãu-hùe ... ... ... 財氣  造化
+- **Lurk** Tiàm; bih ... ... ... ~~藏~~(坫)  ++覕++
 - **Maggot** Thâng ... ... ... ~~虫~~(蟲)
 - **Magnifying glass** Hién-mûiⁿ-kiàⁿ ... ... ... 顯微鏡
-- **Maid, servant** Tsáu-kúi; chhiah-kha ... ... ... 走鬼　赤~~脚~~(骹)
-- **Manage** Lí; phōiⁿ; liōu-lí ... ... ... 理　辨　料理
-- **Manner** Khuán ... ... ... 款
-- **Manure** Pûi; pùn ... ... ... 肥　糞
-- **Mark** Hō; hō-thâu ... ... ... 號　號頭
-- **Marry, of man** Tshūa; tshūa-bóu; tshūa-chhin ... ... ... 娶  娶𡚸  娶親
-- **„ of woman** Kè; tshut-mn̂g ... ... ... 嫁　出門
+- **Maid, servant** Tsáu-kúi; chhiah-kha ... ... ... 走鬼  ~~女婢~~(赤骹)
+- **Manage** Lí; phōiⁿ; liōu-lí ... ... ... 理  辨  料理
+- **Manner** Khuán ... ... ... ~~欸~~(款)
+- **Manure** Pûi; pùn ... ... ... 肥  糞
+- **Mark** Hō; hō-thâu ... ... ... 號  號頭
+- **Marry, of man** Tshūa; tshūa-bóu; tshūa-chhin ... ... ... ++娶++  娶~~妻~~(𡚸)  ++娶親++
+- **„ of woman** Kè; tshut-mn̂g ... ... ... 嫁  出門
 - **Mason** Tsoh-hue-kang ... ... ... 作灰工
 - **Master, of a house** Ke-tsú ... ... ... 家主
-- **„ of a school** Sin-seⁿ; kà-tsṳ sin-seⁿ ... ... ... 先生　教書先生
+- **„ of a school** Sin-seⁿ; kà-tsṳ sin-seⁿ ... ... ... 先生  教書先生
 - **Meaning** Ì-sṳ̀ ... ... ... 意思
-- **Measure** Tōu; tshùn-chhieh ... ... ... 度　寸尺
+- **Measure** Tōu; tshùn-chhieh ... ... ... 度  寸尺
 - **Mechanic** Sai-pẽ ... ... ... 司阜
-- **Meet** Ngõ; ngõ--tiéh ... ... ... 遇　遇着
+- **Meet** Ngõ; ngõ--tiéh ... ... ... 遇  遇着
 - **Melt** Iêⁿ ... ... ... 鎔
-- **Mend** Póu; chiáⁿ-lí ... ... ... 補　整理
+- **Mend** Póu; chiáⁿ-lí ... ... ... 補  整理
 - **Mercy, to have** Khó-liên ... ... ... 可憐
 - **Merely** Put-kùe ... ... ... 不過
-- **„ not** M̃-khéng; m̃-chheng; put-chí ... ... ... ~~不~~(毋)肯　~~不~~(毋)清　不止
+- **„ not** M̃-khéng; m̃-chheng; put-chí ... ... ... ~~不~~(毋)肯  ~~不~~(毋)清  不止
 - **Message** Uē ... ... ... 話
 - **Method** Huap ... ... ... 法
 - **Microscope** Hién-mûiⁿ-kiàⁿ ... ... ... 顯微鏡
-- **Midday** Tong-ngóu; jít-tàu ... ... ... 中午　~~中午~~(日晝)
+- **Midday** Tong-ngóu; jít-tàu ... ... ... 中午  ~~日到~~(日晝)
 - **Middle** Tìn-tang ... ... ... 鎮中
-- **Middling** Tong; tong-pān ... ... ... 中　中辦
-- **Midwife** Seⁿ-kiáⁿ-bó ... ... ... 生~~仔~~(囝)母
+- **Middling** Tong; tong-pān ... ... ... 中  中辦
+- **Midwife** Seⁿ-kiáⁿ-bó ... ... ... 生~~子~~(囝)母
 - **Mild** Láu-sít ... ... ... 老實
-- **Mile, Chinese** Phòu; phòu-lōu ... ... ... 舖　舖路
+- **Mile, Chinese** Phòu; phòu-lōu ... ... ... ~~甫~~(舖)  ~~甫~~(舖)路
 - **„ a, equal to Chinese** Saⁿ-lí ... ... ... 三里
 - **Mill, for removing the husk** Lâng ... ... ... 壟
 - **„ for grinding** Bō ... ... ... 磨
 - **Mill-stone** Bō-chíeh ... ... ... 磨石
 - **Minute, a** Chék-hun-cheng ... ... ... ~~壹~~(一)分鐘
 - **„ small** Iùⁿ-iùⁿ ... ... ... 幼幼
-- **Miscarry** Lóh-súaⁿ; phah-tó ... ... ... 落產　~~打~~(拍)倒
-- **Miscellaneous** Tshàm-tshùi ... ... ... ~~微末~~(纖碎)
+- **Miscarry** Lóh-súaⁿ; phah-tó ... ... ... 落產  ~~打~~(拍)倒
+- **Miscellaneous** Tshàm-tshùi ... ... ... ~~零須~~(纖碎)
 - **„ articles** Tsáp-muéh ... ... ... 雜物
 - **Mischievous** Kha-chhiú tsōi ... ... ... ~~脚~~(骹)手~~多~~(㩼)
 - **Miser** Kîam-siap ... ... ... 鹹澀
-- **Miserable** Chhi-tshám; kan-khóu; chhi-liâng ... ... ... 悽慘　艱苦　凄凉
+- **Miserable** Chhi-tshám; kan-khóu; chhi-liâng ... ... ... ~~悽~~(淒)慘  艱苦  ~~悽~~(淒)凉
 - **Miss, a young girl** A-niêⁿ-kiáⁿ ... ... ... ~~亞~~(阿)娘~~仔~~(囝)
-- **Mistake** Tshò; tsha-tshò; m̃-tiéh ... ... ... 錯　差錯　~~不~~(毋)着
-- **Moderate** Bõi-kùe-hūn; bõi-bô-pan-bó ... ... ... 袂過分  袂無班母
+- **Mistake** Tshò; tsha-tshò; m̃-tiéh ... ... ... 錯  差錯  ~~不~~(毋)着
+- **Moderate** Bõi-kùe-hūn; bõi-bô-pan-bó ... ... ... 袂過分  ++袂無班母++
 - **Moist** Sip ... ... ... 濕
 - **Molasses** Thn̂g-tsúi ... ... ... 糖水
 - **„ of melon** Tang-kue-lōu ... ... ... 冬瓜露
-- **Moment, a** Chék-khùn-kiáⁿ ... ... ... ~~壹~~(一)頃~~仔~~(囝)
-- **Monument** Pi; chiéh-pi ... ... ... 碑　石碑
+- **Moment, a** Chék-khùn-kiáⁿ ... ... ... ~~壹~~(一)~~倏時~~(頃囝)
+- **Monument** Pi; chiéh-pi ... ... ... 碑  石碑
 - **„ high like a pagoda** Chiéh-têng ... ... ... 石亭
 - **Mortar** Hue-thôu ... ... ... 灰塗
-- **Mourning, to wear** Tùa-hà ... ... ... 戴孝
+- **Mourning, to wear** Tùa-hà ... ... ... ~~帶~~(戴)孝
 - **Mourning, to put off** Thut-hà ... ... ... 脫孝
-- **Move, not steady** Tín-tãng ... ... ... 振動
-- **Mud** Nàm-thôu; thôu-mûeⁿ ... ... ... 坔塗　塗~~粥~~(糜)
-- **Mutiny** Pũan-huán; puãn-ngék ... ... ... 叛反　叛逆
-- **Naked** Thǹg-chiah-kha-lek ... ... ... ~~脫~~(褪)赤kha-lek
+- **Move, not steady** Tín-tãng ... ... ... ~~搖動~~(振動)
+- **Mud** Nàm-thôu; thôu-mûeⁿ ... ... ... 坔塗  塗~~粥~~(糜)
+- **Mutiny** Pũan-huán; puãn-ngék ... ... ... 叛反  叛逆
+- **Naked** Thǹg-chiah-kha-lek ... ... ... 赤身
 - **Narrow** Oíh ... ... ... 狹
 - **Nation** Sek ... ... ... 色
 - **Native, a** Pńg-tī-nâng ... ... ... 本地人
 - **Natural** Seⁿ-sêng ... ... ... 生成
-- **Nausea** Àiⁿ-thòu; aú-ueh ... ... ... ~~要~~(愛)吐　嘔噦
+- **Nausea** Àiⁿ-thòu; aú-ueh ... ... ... ~~要~~(愛)吐  ~~嘔氣~~(嘔噦)
 - **Necessary** Èng-kai ... ... ... 應該
-- **Negro** Ou-mīn-nâng; ou-huan ... ... ... 烏面人　烏~~畨~~(番)
+- **Negro** Ou-mīn-nâng; ou-huan ... ... ... 烏面人  烏~~畨~~(番)
 - **Neighbour** Tshù-piⁿ ... ... ... 厝邊
-- **Nest** Siū ... ... ... 岫
-- **Nickname** Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ ... ... ... 土名  人土撰~~個~~(个)名
+- **Nest** Siū ... ... ... ~~巢~~(岫)
+- **Nickname** Thóu-mîaⁿ; nâng-thóu-tsuãn kâi-miâⁿ ... ... ... 土名  人土~~號~~(撰)~~個~~(个)名
 - **Noble** Tsun-kùi ... ... ... 尊貴
-- **Nod** Tak-thâu ... ... ... Tak-thâu
+- **Nod** Tak-thâu ... ... ... ~~㸃~~(點)頭
 - **Noise** Siaⁿ ... ... ... 聲
-- **„ to make a great** Kā-kā-kiè ... ... ... 咳咳~~呌~~(叫)
+- **„ to make a great** Kā-kā-kiè ... ... ... ++咳咳叫++
 - **Nonsense** Bô-iáⁿ-bô-chiah ... ... ... 無影無跡
-- **„ to talk** Thèng-tàⁿ ... ... ... 亂呾
-- **Noose, to make a** Thám-seⁿ-lam-khou ... ... ... Thám-seⁿ-lam-khou
-- **North** Pak; pak-pôiⁿ ... ... ... 北　北~~邊~~(爿)
-- **Number, figure** Bé-kiáⁿ; bé-chí ... ... ... 碼~~仔~~(囝)　碼子
-- **„ one** Tõiⁿ-it ... ... ... 第一
-- **„ two** Tõiⁿ-jĩ ... ... ... 第二
-- **Nurse** Niⁿ-bó; zú-bó ... ... ... 奶母  乳母
-- **Obey** Sũn; thiaⁿ ... ... ... 順　聽
+- **„ to talk** Thèng-tàⁿ ... ... ... 聽呾
+- **Noose, to make a** Thám-seⁿ-lam-khou ... ... ... 縛活結
+- **North** Pak; pak-pôiⁿ ... ... ... 北  北~~邊~~(爿)
+- **Number, figure** Bé-kiáⁿ; bé-chí ... ... ... 碼~~仔~~(囝)  碼~~只~~(子)
+- **„ one** Tõiⁿ-it ... ... ... 第~~壹~~(一)
+- **„ two** Tõiⁿ-jĩ ... ... ... 第~~弍~~(二)
+- **Nurse** Niⁿ-bó; zú-bó ... ... ... ++奶母++  乳母
+- **Obey** Sũn; thiaⁿ ... ... ... 順  聽
 - **Oblige, by force** Ngẽ-liáh ... ... ... 硬掠
-- **Obstinate** Chip-ì; chip-phiah; jĩm-ì ... ... ... 執意　執癖　任意
-- **Obstruct, a road** Tìn-lōu; tsáh-lōu ... ... ... 鎮路　閘路
+- **Obstinate** Chip-ì; chip-phiah; jĩm-ì ... ... ... 執意  ++執癖++  任意
+- **Obstruct, a road** Tìn-lōu; tsáh-lōu ... ... ... 鎮路  ~~截~~(閘)路
 - **Occupation** Sṳ̄-ngiáp ... ... ... 事業
-- **Offend** Tit-tsũe; tit-tsõ--tiéh ... ... ... 得罪　得坐着
-- **Often** Ē-ē; chiáp; chiáp-chiáp ... ... ... ~~吓吓~~(下下)  捷  捷捷
-- **Old, of man** Lãu; ũ-nîⁿ-hùe ... ... ... 老　有年歲
+- **Offend** Tit-tsũe; tit-tsõ--tiéh ... ... ... 得罪  得坐着
+- **Often** Ē-ē; ~~giáp~~(chiáp); ~~giáp~~(chiáp)-~~giáp~~(chiáp) ... ... ... ~~屢屢~~(下下)  ++捷++  ++捷捷++
+- **Old, of man** Lãu; ũ-nîⁿ-hùe ... ... ... 老  有年歲
 - **„ of things** Kū ... ... ... 舊
 - **Omit** Làng-tiòu ... ... ... 漏~~丢~~(掉)
 - **Opportunity** Ki-hũe ... ... ... 機會
-- **Oppose** Tùi-thâu; tùi-ték ... ... ... 對頭　對敵
-- **Opposite** Tùi-mīn; sie-tùi ... ... ... 對面　相對
+- **Oppose** Tùi-thâu; tùi-ték ... ... ... 對頭  對敵
+- **Opposite** Tùi-mīn; sie-tùi ... ... ... 對面  相對
 - **Orchard** Kúe-chí-hn̂g ... ... ... ~~菓~~(果)子園
-- **Order, put in** Siu-síp; sṳ̃-lí ... ... ... ~~修整~~(修拾)　伺理
-- **„ an** Mẽng; lẽng ... ... ... 命　令
-- **„ to** Kiè; mẽng ... ... ... ~~呌~~(叫)　命
-- **Origin** Pńg; kṳn-pńg ... ... ... 本　根本
-- **Originally** Pńg-lâi; nguân-lâi ... ... ... 本來　原來
+- **Order, put in** Siu-síp; sṳ̃-lí ... ... ... 修拾  ~~修理~~(伺理)
+- **„ an** Mẽng; lẽng ... ... ... 命  令
+- **„ to** Kiè; mẽng ... ... ... ~~呌~~(叫)  命
+- **Origin** Pńg; kṳn-pńg ... ... ... 本  根本
+- **Originally** Pńg-lâi; nguân-lâi ... ... ... 本來  ~~源~~(原)來
 - **Ornamental** Hó-thóiⁿ ... ... ... 好~~看~~(睇)
 - **Orphan** Bô-pẽ-bô-bó ... ... ... 無父無母
 - **Oven** Húe-lôu ... ... ... 火爐
 - **Owl** Ngiou-thâu-chióu ... ... ... 貓頭鳥
 - **Pack, in a box** Tsng; tsuang ... ... ... 裝
-- **Paddle** Jiê ... ... ... 漿
+- **Paddle** Jiê ... ... ... 漿~~仔~~
 - **Paddy** Chhek ... ... ... 粟
 - **Padlock** Só-thâu ... ... ... 鎖頭
 - **Page, of book** Mīn ... ... ... 面
@@ -4911,142 +4911,142 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Pain** Thiàⁿ ... ... ... 痛
 - **Paint, to** Iû; sái-iû ... ... ... 油  使油
 - **Painter** Sái-iû sai-pẽ ... ... ... 使油司阜
-- **Pair, a** Chék-tùi; chék-sang ... ... ... ~~壹~~(一)對　~~壹~~(一)雙
-- **Pair, to** Phùe; phit-phùe ... ... ... 配　匹配
+- **Pair, a** Chék-tùi; chék-sang ... ... ... ~~壹~~(一)對  ~~壹~~(一)雙
+- **Pair, to** Phùe; phit-phùe ... ... ... 配  匹配
 - **Palace** Uâng-keng ... ... ... 王宮
-- **Pale, sickly** N̂g-sng; chheⁿ-chheⁿ ... ... ... 黃酸　~~靑~~(青)~~靑~~(青)
-- **„ in fright** Ou-ou; chheⁿ-chheⁿ ... ... ... 烏烏　~~靑~~(青)~~靑~~(青)
+- **Pale, sickly** N̂g-sng; chheⁿ-chheⁿ ... ... ... 黃酸  ~~靑~~(青)~~靑~~(青)
+- **„ in fright** Ou-ou; chheⁿ-chheⁿ ... ... ... 烏烏  ~~靑~~(青)~~靑~~(青)
 - **Palm, of hand** Chhiú-tói ... ... ... 手底
-- **Panic** Kiaⁿ-kàu-kông--khṳ̀ ... ... ... 驚到戇去
-- **Paramour** Kan-hu; lãu-iãng ... ... ... 姦夫　老延
+- **Panic** Kiaⁿ-kàu-kông--khṳ̀ ... ... ... 驚到~~狂~~(戇)去
+- **Paramour** Kan-hu; lãu-iãng ... ... ... ~~奸~~(姦)夫  老延
 - **Parcel** Pau ... ... ... 包
-- **Pardon** Sià-tsũe; khuan ... ... ... ~~宥罪~~(赦罪)　寛
-- **Part, to** Siang-piét; lî-piêt ... ... ... 相别　離別
+- **Pardon** Sià-tsũe; khuan ... ... ... 赦罪  寛
+- **Part, to** Siang-piét; lî-piêt ... ... ... 相别  離別
 - **Particulars** Sòi-siâng ... ... ... 細詳
 - **Partition, wooden** Siám ... ... ... 閃
 - **„ lime** Piah ... ... ... 壁
 - **Passage, of boat** Tsûn-tsou ... ... ... 船租
-- **Passenger** Kheh; tah-kheh ... ... ... 客　搭客
+- **Passenger** Kheh; tah-kheh ... ... ... 客  搭客
 - **Passport** Lōu-phiè ... ... ... 路票
-- **Paste** Kôu; chieⁿ ... ... ... 糊　漿
+- **Paste** Kôu; chieⁿ ... ... ... 糊  ~~樟~~(漿)
 - **„ to make** Khóh-kôu ... ... ... 煲糊
-- **Pasture** Tsháu-tiêⁿ; tsháu-pou ... ... ... 草~~塲~~(場)　草埔
+- **Pasture** Tsháu-tiêⁿ; tsháu-pou ... ... ... 草~~塲~~(場)  草~~埠~~(埔)
 - **Patch** Póu ... ... ... 補
-- **Path** Lōu; lōu-kiáⁿ ... ... ... 路　路~~仔~~(囝)
-- **Pattern** Iēⁿ; pān; pān-thâu ... ... ... 樣　辦　辦頭
+- **Path** Lōu; lōu-kiáⁿ ... ... ... 路  路~~仔~~(囝)
+- **Pattern** Iēⁿ; pān; pān-thâu ... ... ... 樣  辦  辦頭
 - **Pave** Phou-chiéh ... ... ... 鋪石
 - **Pavement** Chiéh-lōu ... ... ... 石路
 - **Paw** Chiéⁿ ... ... ... 掌
 - **Pawn** Tǹg ... ... ... 當
 - **Pawnshop** Tǹg-phòu ... ... ... 當舖
-- **Peace** Phêng-an; thài-phêng ... ... ... 平安　太平
+- **Peace** Phêng-an; thài-phêng ... ... ... 平安  太平
 - **„ with enemy** Phêng-hûa ... ... ... 平和
-- **Peasant** Tsoh-tshân-nâng; hieⁿ-ẽ-nâng ... ... ... 作田人　鄉下人
-- **Peck** Toh ... ... ... 啄
-- **Peculiar** Koh-iēⁿ ... ... ... 各樣
-- **Peep** Thau-thóiⁿ; thau-iám ... ... ... 偷~~看~~(睇)　偷~~觀~~(睒)
+- **Peasant** Tsoh-tshân-nâng; hieⁿ-ẽ-nâng ... ... ... 作田人  鄉下人
+- **Peck** Toh ... ... ... ~~食~~(啄)
+- **Peculiar** Koh-iēⁿ ... ... ... ~~則樣~~(各樣)
+- **Peep** Thau-thóiⁿ; thau-iám ... ... ... 偷~~看~~(睇)  偷~~觀~~(睒)
 - **Pendulum** Sî-cheng-thūi ... ... ... 時鐘墜
-- **Penetrate** Jíp; thàng; thàng--kùe ... ... ... 入　通　通過
-- **People** Nâng; peh-sèⁿ ... ... ... 人　百姓
-- **„ all the** Chèng-nâng; tãi-ke ... ... ... 眾人　大家
+- **Penetrate** Jíp; thàng; thàng--kùe ... ... ... 入  通  通過
+- **People** Nâng; peh-sèⁿ ... ... ... 人  百姓
+- **„ all the** Chèng-nâng; tãi-ke ... ... ... ~~衆~~(眾)人  大家
 - **Perfect** Tshûan ... ... ... 全
-- **Perforate** Tsǹg-khang; tshǹg-khang ... ... ... 鑽空　剌空
-- **Perform** Tsò; kiâⁿ ... ... ... 做　行
+- **Perforate** Tsǹg-khang; tshǹg-khang ... ... ... 鑽空  剌空
+- **Perform** Tsò; kiâⁿ ... ... ... 做  行
 - **Perpendicular** Tít ... ... ... 直
-- **Pole, long bamboo** Tek-ko ... ... ... 竹篙
-- **Perpetually** Kú-kú; buān-sì ... ... ... 久久　萬世
+- **Pole, long bamboo** Tek-ko ... ... ... 竹~~篙~~(竿)
+- **Perpetually** Kú-kú; buān-sì ... ... ... 久久  萬世
 - **Persevere** Khat-khóu ... ... ... 刻苦
 - **Persist** Ngẽ-àiⁿ ... ... ... 硬~~要~~(愛)
 - **Perspiration** Kūaⁿ ... ... ... 汗
 - **Perspire** Lâu-kūaⁿ ... ... ... 流汗
-- **Persuade** Koh-lô ... ... ... Koh-lô
+- **Persuade** Koh-lô ... ... ... 告勞
 - **Petticoat** Kûn ... ... ... 裙
 - **Photograph** Sióu-iáⁿ ... ... ... 小影
-- **„ to take** Hoh-sióu-iáⁿ; hò-sióu-iáⁿ ... ... ... 翕小影　hò小影
-- **Physician** Ui-seng; sin-seⁿ ... ... ... 醫生　先生
+- **„ to take** Hoh-sióu-iáⁿ; hò-sióu-iáⁿ ... ... ... 翕小影  耗小影
+- **Physician** Ui-seng; sin-seⁿ ... ... ... 醫生  先生
 - **Pick, up** Tóh ... ... ... 擇
 - **Pierce** Tshǹg ... ... ... 刺
 - **Pile, to** Tháh; thiáp ... ... ... 叠
-- **Pincers, for drawing hair** Ah-nih; nih-kiáⁿ ... ... ... 鴨攝　攝~~仔~~(囝)
-- **Pinch** Liàm ... ... ... 捻
+- **Pincers, for drawing hair** Ah-nih; nih-kiáⁿ ... ... ... 鴨攝  攝~~子~~(囝)
+- **Pinch** Liàm ... ... ... ++捻++
 - **Pipe** Tâng ... ... ... 筒
-- **„ for smoking** Hun-tâng ... ... ... ~~煙~~(薰)筒
-- **Pit** Kheⁿ; khut ... ... ... 坑　窟
+- **„ for smoking** Hun-tâng ... ... ... ~~烟~~(薰)筒
+- **Pit** Kheⁿ; khut ... ... ... 坑  ~~屈~~(窟)
 - **Pith** Sim ... ... ... 心
-- **Pity** Khó-sieh; khó-thiàⁿ ... ... ... 可惜　可痛
+- **Pity** Khó-sieh; khó-thiàⁿ ... ... ... 可惜  可痛
 - **Placard** Jī-péh ... ... ... 字白
 - **„ offering reward** Siéⁿ-keh ... ... ... 賞格
-- **Plague** Un-chiàng; sî-lẽng ... ... ... ~~瘟疫~~(瘟瘴)　時令
-- **Plain, clear** Mêng-péh; hun-mêng ... ... ... 明白　分明
+- **Plague** Un-chiàng; sî-lẽng ... ... ... 瘟瘴  時令
+- **Plain, clear** Mêng-péh; hun-mêng ... ... ... 明白  分明
 - **Plait, to** Pĩⁿ ... ... ... 辮
 - **Plan** Tôu ... ... ... 圖
-- **„ for a builder** Tshù-tôu; tshù-kék ... ... ... 厝圖　厝局
+- **„ for a builder** Tshù-tôu; tshù-kék ... ... ... 厝圖  厝局
 - **Planet** Ngóu-chheⁿ ... ... ... 伍星
 - **Plant, to** Chèng ... ... ... 種
 - **Pleasant** Hó ... ... ... 好
 - **Plot** Kòi-mông ... ... ... 計謀
-- **Plough** Lôi ... ... ... 犁
+- **Plough** Lôi ... ... ... ~~犂~~(犁)
 - **Pluck, as flowers** Tiah ... ... ... 摘
 - **Plug, a hole** Sat ... ... ... 塞
 - **Pock-mark** Poiⁿ ... ... ... 斑
 - **Poem** Si ... ... ... 詩
-- **Point, to** Kí ... ... ... 指
-- **Poison** Chiáh-sí-nâng; ták-iéh ... ... ... 食死人　毒藥
-- **Pole, for carrying** Phoi-taⁿ; pêⁿ-taⁿ ... ... ... 批擔　平擔
-- **Polite** Kui-kṳ́; ũ-lói ... ... ... 規矩　有禮
-- **Pollute** Mak-tiéh-nah-sap; hú-tiéh nah-sap ... ... ... 衊着~~污穢~~(垃圾)  捬着~~污穢~~(垃圾)
+- **Point, to** Kí ... ... ... ~~扯~~(指)
+- **Poison** Chiáh-sí-nâng; ták-iéh ... ... ... 食死人  毒藥
+- **Pole, for carrying** Phoi-taⁿ; pêⁿ-taⁿ ... ... ... 批擔  平擔
+- **Polite** Kui-kṳ́; ũ-lói ... ... ... 規矩  有禮
+- **Pollute** Mak-tiéh-nah-sap; hú-tiéh nah-sap ... ... ... ~~染~~(衊)着~~污穢~~(垃圾)  ++捬着垃圾
 - **Pond** Tî ... ... ... 池
-- **Poor** Khiou; kêng ... ... ... ~~窮~~(磽)  貧
+- **Poor** Khiou; kêng ... ... ... ~~貧~~(磽)  ~~貧~~(窮)
 - **Portrait** Sièⁿ ... ... ... 像
-- **Posterity** Kiáⁿ-sun; ãu-ĩ ... ... ... ~~仔~~(囝)孫　後裔
-- **Postpone** Àn; tòng ... ... ... Àn　tòng
-- **Pot-bellied** Tūa-tóu-lap ... ... ... 大肚lap
+- **Posterity** Kiáⁿ-sun; ãu-ĩ ... ... ... ~~子~~(囝)孫  後裔
+- **Postpone** Àn; tòng ... ... ... 按  當
+- **Pot-bellied** Tūa-tóu-lap ... ... ... 大肚
 - **Poultry** Koi-ah ... ... ... ~~鷄~~(雞)鴨
 - **Pour** Tò ... ... ... 倒
 - **Power** Khuân ... ... ... 權
 - **„ force** Lât ... ... ... 力
-- **Practise** Óh; liēn ... ... ... 學　練
+- **Practise** Óh; liēn ... ... ... 學  練
 - **Praise** O-ló ... ... ... ~~稱誦~~(呵咾)
 - **Preach** Thuân ... ... ... 傳
 - **„ the Gospel** Thuân-tõ-lí ... ... ... 傳道理
-- **Precious** Pó; pó-pùe ... ... ... 寶　寶貝
-- **Prefect** Ti-hú; hú-thài-iâ ... ... ... 知府　府太爺
+- **Precious** Pó; pó-pùe ... ... ... 寶  寶貝
+- **Prefect** Ti-hú; hú-thài-iâ ... ... ... 知府  府太爺
 - **Prefecture** Hú ... ... ... 府
-- **Prefer** Siãng ... ... ... 尚
-- **Pregnant** Ũ-sin-hūn; ũ-tho ... ... ... 有身份　有胎
-- **Prepare** Ṳ̃; ṳ̃-pĩ ... ... ... 預　預備
+- **Prefer** Siãng ... ... ... ~~中意~~(尚)
+- **Pregnant** Ũ-sin-hūn; ũ-tho ... ... ... 有身份  有胎
+- **Prepare** Ṳ̃; ṳ̃-pĩ ... ... ... 預  預備
 - **Present, to** Sàng ... ... ... 送
-- **„ time** Hīn-tsãi; ngán-tsãi; tong-kim ... ... ... 現在　眼在　中今
-- **Press, with the hand** Jih ... ... ... 揤
+- **„ time** Hīn-tsãi; ngán-tsãi; tong-kim ... ... ... 現在  眼在  中今
+- **Press, with the hand** Jih ... ... ... ++揤++
 - **„ with something heavy** Teh ... ... ... 壓
 - **Pretend** Ké ... ... ... 假
-- **„ not knowing** Tèⁿ-m̃-tsai ... ... ... 佯~~不~~(毋)知
-- **Pretty** Ngiá; zû ... ... ... 雅　儒
+- **„ not knowing** Tèⁿ-m̃-tsai ... ... ... ~~假不知~~(佯毋知)
+- **Pretty** Ngiá; zû ... ... ... 雅  儒
 - **Prevent** Tsó; nûaⁿ; hâⁿ ... ... ... 阻
 - **Prick, as by a thorn** Chhiah ... ... ... 刺
 - **Principal** Thâu ... ... ... 頭
 - **Print** Ìn ... ... ... 印
-- **Private** Sai-khia; sai-ẽ ... ... ... 私家  私下
+- **Private** Sai-khia; sai-ẽ ... ... ... ++私奇++  私++下++
 - **Privately** Àm-chẽⁿ ... ... ... 暗靜
-- **Privy, a** Tang-si; chhè-kng ... ... ... 東司　廁缸
-- **Probably** Pa-lak ... ... ... Pa-lak
+- **Privy, a** Tang-si; chhè-kng ... ... ... 東司  ~~厕池~~(廁缸)
+- **Probably** Pa-lak ... ... ... 或者
 - **Proclamation** Kò-sī ... ... ... 告示
-- **Prodigal, son** Phùa-ke-kiáⁿ ... ... ... 破家~~仔~~(囝)
+- **Prodigal, son** Phùa-ke-kiáⁿ ... ... ... 破家~~子~~(囝)
 - **Profess** Jīn ... ... ... 認
-- **Profit** Thàn; tit-lĩ ... ... ... ~~贃~~(趁)　得利
-- **Promise** Chhiàng; tshó-chhiàng; ìn-sêng ... ... ... 倡　草倡　應承
-- **Proper** Tùi; tiéh ... ... ... 對　着
-- **Property** Ke-ngiáp; muéh-ngiáp; ke-sṳ̄ ... ... ... 家業　物業　家事
-- **Prosper** Heng-sẽng; heng-uãng ... ... ... 興盛　興旺
-- **Prostitute** Sau; khiòu-búe ... ... ... 騷  翹尾
-- **Protect** Pó-iũ; pì-iũ; pó-hō ... ... ... 保佑　庇佑　保護
-- **Proud** Khiôu-tshó ... ... ... 翹楚
+- **Profit** Thàn; tit-lĩ ... ... ... ~~贃~~(趁)  得利
+- **Promise** Chhiàng; tshó-chhiàng; ìn-sêng ... ... ... ~~唱~~(倡)  ~~噪唱~~(草倡)  ~~應成~~(應承)
+- **Proper** Tùi; tiéh ... ... ... 對  着
+- **Property** Ke-ngiáp; muéh-ngiáp; ke-sṳ̄ ... ... ... 家業  物業  家事
+- **Prosper** Heng-sẽng; heng-uãng ... ... ... 興盛  興旺
+- **Prostitute** Sau; khiòu-búe ... ... ... ++騷++  ~~娼妓~~(翹尾)
+- **Protect** Pó-iũ; pì-iũ; pó-hō ... ... ... 保佑  庇佑  保護
+- **Proud** Khiôu-tshó ... ... ... ~~驕傲~~(翹楚)
 - **Proverb** Sók-gṳ́ ... ... ... 俗語
 - **Province** Séⁿ ... ... ... 省
-- **Public** Kong-chèng ... ... ... 公眾
-- **„ the** Chèng-nâng; peh-sèⁿ ... ... ... 眾人　百姓
+- **Public** Kong-chèng ... ... ... 公~~衆~~(眾)
+- **„ the** Chèng-nâng; peh-sèⁿ ... ... ... ~~衆~~(眾)人  百姓
 - **Pull** Thua ... ... ... 拖
-- **„ as a rope** Túi ... ... ... 縋
+- **„ as a rope** Túi ... ... ... ~~牽~~(縋)
 - **„ up, as a post** Poíh ... ... ... 拔
 - **„ up, as a plant** Mán ... ... ... 挽
 - **Pump** Tsúi-thiu; tsúi-kiuh ... ... ... 水抽
@@ -5054,184 +5054,184 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Punish** Huát ... ... ... 罰
 - **Punkah** Huang-sìⁿ ... ... ... 風扇
 - **„ to pull** Túi-huang ... ... ... 拖風
-- **Pupil, scholar** Tĩ-tsṳ́; hák-seng ... ... ... 弟子　學生
+- **Pupil, scholar** Tĩ-tsṳ́; hák-seng ... ... ... 弟子  學生
 - **Pure** Chheng-khih ... ... ... 清潔
-- **Purposely** Tiõu-tsuan ... ... ... 召專
+- **Purposely** Tiõu-tsuan ... ... ... ~~刁專~~(召專)
 - **Push** Léng ... ... ... 推
-- **Puzzled** Kông ... ... ... 戇
+- **Puzzled** Kông ... ... ... ~~狂~~(戇)
 - **Quarter, of an hour** Chék-khek-cheng ... ... ... ~~壹~~(一)刻鐘
 - **Question** Mn̄g ... ... ... 問
 - **Queue** Piⁿ ... ... ... 辮
-- **Quicksilver** Tsúi-ngṳ̂n ... ... ... 水銀
-- **Quiet** Chẽⁿ; chẽⁿ-chẽⁿ; tiām-tiām ... ... ... 靜  靜靜  ~~靜靜~~(恬恬)
-- **Race, to** Sie-tàu ... ... ... 相鬥
-- **Raft** Sam-pâi; tek-pâi ... ... ... 杉牌　竹牌
+- **Quicksilver** Tsúi-ngṳ̂n ... ... ... 水~~硍~~(銀)
+- **Quiet** Chẽⁿ; chẽⁿ-chẽⁿ; tiām-tiām ... ... ... ++靜++  靜靜  ++恬恬++
+- **Race, to** Sie-tàu ... ... ... 相~~閗~~(鬥)
+- **Raft** Sam-pâi; tek-pâi ... ... ... 杉牌  竹牌
 - **Rag** Pòu-tshùi ... ... ... 布碎
 - **Rags** Phùa-pòu ... ... ... 破布
 - **Railway** Húe-chhia ... ... ... 火車
 - **Rank** Cheh-hâm ... ... ... 職銜
-- **Rare** Hán-tit ũ; chié-ũ ... ... ... 罕得有　少有
+- **Rare** Hán-tit ũ; chié-ũ ... ... ... 罕得有  少有
 - **Rascal** Aù-nâng; tshàu-nâng ... ... ... 臭人
-- **Real** Chin ... ... ... 真
-- **Really** Chin-sít ... ... ... 真實
+- **Real** Chin ... ... ... ~~眞~~(真)
+- **Really** Chin-sít ... ... ... ~~眞~~(真)實
 - **Reap** Siu-tang ... ... ... 收冬
-- **Rear, as fowls** Chhī ... ... ... 飼
+- **Rear, as fowls** Chhī ... ... ... ~~哺~~(飼)
 - **Reason** Uân-kù ... ... ... 緣故
 - **Rebel, to** Huán ... ... ... 反
-- **Receive** Siu; chih ... ... ... 收　接
-- **Recognize** Jīn; jīn-tshut ... ... ... 認　認出
-- **Recommend** Ín-chìn; kṳ́-chìn ... ... ... 引荐　舉荐
+- **Receive** Siu; chih ... ... ... 收  接
+- **Recognize** Jīn; jīn-tshut ... ... ... 認  認出
+- **Recommend** Ín-chìn; kṳ́-chìn ... ... ... 引荐  舉荐
 - **Reconcile** Hûa ... ... ... 和
-- **Recover** Hók-tńg ... ... ... 復轉
+- **Recover** Hók-tńg ... ... ... 復~~返~~(轉)
 - **Redeem** Chhiú; sók ... ... ... 贖
 - **Refund** Pûe-hôiⁿ ... ... ... 賠還
-- **Refuse, to** M̃-hàuⁿ; m̃-khéng ... ... ... ~~不~~(毋)好 ~~不~~(毋)肯
-- **Register, a name** Kì-miâⁿ; chhiam-miâⁿ ... ... ... 記名　簽名
+- **Refuse, to** M̃-hàuⁿ; m̃-khéng ... ... ... ++毋好++ ~~不~~(毋)肯
+- **Register, a name** Kì-miâⁿ; chhiam-miâⁿ ... ... ... 記名  簽名
 - **Reign** Tsõ-ūi ... ... ... 坐位
 - **Reins** Bé-soh ... ... ... 馬索
 - **„ to hold** Khan-bé-soh ... ... ... 牽馬索
-- **Relate, as a story** Óh; káng; tàⁿ ... ... ... 學　講　呾
+- **Relate, as a story** Óh; káng; tàⁿ ... ... ... 學  講  呾
 - **Relations** Chhin-chhek ... ... ... 親戚
 - **„ closely related** Chhin ... ... ... 親
-- **„ distant** So ... ... ... 疏
+- **„ distant** So ... ... ... ~~疎~~(疏)
 - **Release** Pàng ... ... ... 放
 - **Religion** Kà ... ... ... 教
 - **Rely** Tit-pn̄g ... ... ... 得飯
-- **Remain** Tshûn; sīn ... ... ... 存  剩
-- **„ stay** Nāⁿ ... ... ... 待
-- **Remarkable** kú-kuài; khî-khá ... ... ... 古怪　奇巧
-- **Remember** Kì-tit; it-tit; kì-liãm ... ... ... 記得　憶得　紀念
+- **Remain** Tshûn; sīn ... ... ... 存  ++剩++
+- **„ stay** Nāⁿ ... ... ...
+- **Remarkable** kú-kuài; khî-khá ... ... ... 古怪  奇巧
+- **Remember** Kì-tit; it-tit; kì-liãm ... ... ... 記得  憶得 記念
 - **Remove, residence** Puaⁿ ... ... ... 搬
 - **„ a thing** Súa ... ... ... 徙
-- **Rend** Lì ... ... ... Lì
-- **Repair** Chiáⁿ-lí; siu-síp; pa-lói-hó ... ... ... 整理　收拾  pa-lói好
+- **Rend** Lì ... ... ... 裂
+- **Repair** Chiáⁿ-lí; siu-síp; pa-lói-hó ... ... ... 整理  收拾
 - **Repeat, as lesson** Liām ... ... ... 念
-- **Repent** Kói-pìⁿ ... ... ... 改變
-- **Reply, written** Hûe-phoi; hûe-sìn ... ... ... 回批　回信
-- **Report, to** Pò; pò-tsai ... ... ... 報　報知
-- **Request** Chhiáⁿ; pài-thoh ... ... ... 請　拜託
-- **Resemble** Chhin-chhiẽⁿ; huáng-sṳ̃ ... ... ... 親像　仿似
-- **Reside** Khiã-khí; tiū ... ... ... ~~居住~~(徛起)  居
+- **Repent** Kói-pìⁿ ... ... ... ~~攺~~(改)變
+- **Reply, written** Hûe-phoi; hûe-sìn ... ... ... 回批  回信
+- **Report, to** Pò; pò-tsai ... ... ... 報  報知
+- **Request** Chhiáⁿ; pài-thoh ... ... ... 請  拜託
+- **Resemble** Chhin-chhiẽⁿ; huáng-sṳ̃ ... ... ... 親像  仿似
+- **Reside** Khiã-khí; tiū ... ... ... ~~居住~~(徛起)  ++居++
 - **Resign** Sî ... ... ... 辭
 - **Resin** Sêng-hieⁿ ... ... ... 松香
-- **Respect, to** Kèng; kèng-tõng; thóiⁿ-tõng ... ... ... 敬　敬重　~~看~~(睇)重
-- **Rest** Hiah ... ... ... 歇
-- **„ for a while** Hiah-tiām ... ... ... 歇恬
-- **„ the** Khî-ṳ̂; lióu ... ... ... 其餘　了
+- **Respect, to** Kèng; kèng-tõng; thóiⁿ-tõng ... ... ... 敬  敬重  ~~看~~(睇)重
+- **Rest** Hiah ... ... ... ~~宿~~(歇)
+- **„ for a while** Hiah-tiām ... ... ... 歇~~停~~(恬)
+- **„ the** Khî-ṳ̂; lióu ... ... ... 其餘  了
 - **Retire** Thò ... ... ... 退
 - **Retreat** Thò ... ... ... 退
-- **Return, home** Hûe-ke; khṳ̀-tshù ... ... ... 回家　去厝
+- **Return, home** Hûe-ke; khṳ̀-tshù ... ... ... 回家  去厝
 - **Revenge** Pò-chhiû ... ... ... 報仇
-- **Revenue** Hiàng; hiàng-niêⁿ ... ... ... 餉　餉粮
-- **Revolve** Hui ... ... ... 回
+- **Revenue** Hiàng; hiàng-niêⁿ ... ... ... 餉  餉~~粮~~(糧)
+- **Revolve** Hui ... ... ... ~~旋轉~~(回)
 - **Reward** Siéⁿ ... ... ... 賞
-- **Rib** Phiaⁿ-lî-kut ... ... ... 𩩍籬骨
-- **Rich** Pù; ũ-chîⁿ ... ... ... 富　有錢
+- **Rib** Phiaⁿ-lî-kut ... ... ... ~~脇~~(𩩍籬)骨
+- **Rich** Pù; ũ-chîⁿ ... ... ... 富  有錢
 - **Ride, on horse back** Khiâ-bé ... ... ... 騎馬
-- **Riddle** Mĩⁿ ... ... ... 謎
-- **Right** Tiéh; bô-tshò ... ... ... 着　無錯
-- **Ring, finger** Chhiú-chí ... ... ... ~~戒指~~(手指)
+- **Riddle** Mĩⁿ ... ... ... 謎~~語~~
+- **Right** Tiéh; bô-tshò ... ... ... 着  無錯
+- **Ring, finger** Chhiú-chí ... ... ... 手指
 - **Ring, ear, round** Hĩⁿ-huân ... ... ... 耳環
 - **„ to, a bell** Iê-cheng ... ... ... 搖鐘
 - **Ringleader** Tsò-thâu; thâu-nâng ... ... ... 做頭  頭人
-- **Rinse, as the mouth** Tñg-chhùi ... ... ... 盪~~嘴~~(喙)
-- **„ in washing** Thūa ... ... ... 汰
-- **Riot, great** Sie-thâi ... ... ... 相~~殺~~(刣)
-- **Ripe** Sék; kàu-tsúi ... ... ... 熟  夠水
+- **Rinse, as the mouth** Tñg-chhùi ... ... ... ~~洗口~~(盪喙)
+- **„ in washing** Thūa ... ... ... ~~重洗~~(汰)
+- **Riot, great** Sie-thâi ... ... ... 相刣
+- **Ripe** Sék; kàu-tsúi ... ... ... 熟  ~~到水~~(夠水)
 - **River, large** Hô ... ... ... 河
 - **„ small** Khoi ... ... ... 溪
 - **„ little** Káng ... ... ... 港
 - **Road** Lōu ... ... ... 路
-- **Rob** Chhiéⁿ; chhiéⁿ-pak; phah-kiap ... ... ... 搶　搶剝　~~打~~(拍)劫
+- **Rob** Chhiéⁿ; chhiéⁿ-pak; phah-kiap ... ... ... 搶  搶剝  ~~打刧~~(拍劫)
 - **Robbery** Pak-ko-kúe ... ... ... ~~搶刧~~(剝糕粿)
 - **Robe** Phâu ... ... ... 袍
-- **Rogue** Láu-kiáⁿ ... ... ... 漏~~仔~~(囝)
-- **Roll, to** Khah ... ... ... 滾
+- **Rogue** Láu-kiáⁿ ... ... ... ~~老仔~~(漏囝)
+- **Roll, to** Khah ... ... ... 輦
 - **„ up** Kauh; kauh--khí ... ... ... 捲
 - **Room** Pâng ... ... ... 房
 - **„ no** Bô-ūi-tshṳ̀ ... ... ... 無位次
 - **Root** Kṳn ... ... ... 根
 - **Rotten** Tshàu ... ... ... 臭
 - **„ of fruit** Mîⁿ ... ... ... 爛
-- **Rouge** In-chi; in-nîⁿ ... ... ... 胭脂　胭泥
+- **Rouge** In-chi; in-nîⁿ ... ... ... 胭脂  胭~~哖~~(泥)
 - **Rough** Tshou ... ... ... 粗
 - **Round** Îⁿ ... ... ... 圓
 - **Row, quarrel** Uan-ke ... ... ... ~~寃~~(冤)家
 - **„ to make a** Jiáng ... ... ... 嚷
-- **„ to, as a boat** Kò ... ... ... 划
-- **„ in** Hâng; lék ... ... ... 行　歴
+- **„ to, as a boat** Kò ... ... ... ~~掉漿~~(划)
+- **„ in** Hâng; lék ... ... ... 行  歴
 - **Rub, as knives** Bûa ... ... ... 磨
-- **„ as spoons** Chhiù ... ... ... 漱
+- **„ as spoons** Chhiù ... ... ... ++漱++
 - **„ as with towel** Chhit ... ... ... 刷
-- **Rubbish, domestic** Nah-sap ... ... ... ~~污穢~~(垃圾)
+- **Rubbish, domestic** Nah-sap ... ... ... ~~穢褻~~(垃圾)
 - **„ filth** Tôu-pùn ... ... ... 塗糞
 - **Rude** Bô-kui-kṳ́ ... ... ... 無規矩
-- **Rugged, of road** Khi-khu ... ... ... 蹊𨄅
-- **Ruin, to** Pāi; húi-tiòu ... ... ... 敗　毀~~丢~~(掉)
-- **Rule, to** Kuán; kuán-lí ... ... ... 管　管理
-- **„ a** Kui-tiôu; huap-lút ... ... ... 規條　法律
-- **Rumour** Hong-siaⁿ; iôu-ngân ... ... ... 風聲　謠言
+- **Rugged, of road** Khi-khu ... ... ... ~~蹊𨄅~~(崎嶇)
+- **Ruin, to** Pāi; húi-tiòu ... ... ... 敗  ~~滅丢~~(毀掉)
+- **Rule, to** Kuán; kuán-lí ... ... ... 管  管理
+- **„ a** Kui-tiôu; huap-lút ... ... ... 規條  法律
+- **Rumour** Hong-siaⁿ; iôu-ngân ... ... ... 風聲  謠言
 - **Running, hand of writing** Tshó-jī ... ... ... 草字
-- **Rust** San ... ... ... 銹
+- **Rust** San ... ... ... ~~銹~~(鉎)
 - **Rustic** Hieⁿ-ẽ-nâng ... ... ... 鄉下人
-- **Rusty** Seⁿ-san ... ... ... 生鉎
-- **Sacrifice** Hõng; chì ... ... ... 奉　祭
+- **Rusty** Seⁿ-san ... ... ... 生~~銹~~(鉎)
+- **Sacrifice** Hõng; chì ... ... ... 奉  祭
 - **Sad** Huân-ló ... ... ... 煩惱
 - **Saddle** Bé-uaⁿ ... ... ... 馬鞍
 - **„ to** Kùa-bé-uaⁿ ... ... ... 掛馬鞍
-- **Safe** Ún-tǹg; thó-tàng ... ... ... 穩當  妥當
+- **Safe** Ún-tǹg; thó-tàng ... ... ... ++穩當++  妥當
 - **Sage, a** Gâu-nâng ... ... ... 賢人
 - **Salary** Kang-tsṳ ... ... ... 工資
 - **„ official** Hóng-lók ... ... ... 俸祿
 - **Saliva** Nũaⁿ ... ... ... 涎
 - **„ flowing** Lâu-nũaⁿ ... ... ... 流涎
-- **Salt, to, as pickles** Lõu; lõu-kiâm ... ... ... 滷　滷鹹
+- **Salt, to, as pickles** Lõu; lõu-kiâm ... ... ... ~~露~~(滷)  ~~露~~(滷)鹹
 - **„ to put some in a dish** Lóh-iâm; suah-iâm ... ... ... 落鹽
 - **„ taste** Kiâm ... ... ... 鹹
-- **Same, the** Pêⁿ-iēⁿ; sie-tâng ... ... ... 平樣　相同
-- **Sample** Pān-thâu; iēⁿ; pān ... ... ... 辦頭　樣　辦
-- **Sap** Chhiū-nîⁿ ... ... ... 樹呢
-- **Satisfied** Kùe-ì; kam-nguãn ... ... ... 過意　甘愿
+- **Same, the** Pêⁿ-iēⁿ; sie-tâng ... ... ... 平樣  相同
+- **Sample** Pān-thâu; iēⁿ; pān ... ... ... 辦頭  樣  辦
+- **Sap** Chhiū-nîⁿ ... ... ... 樹~~呢~~(泥)
+- **Satisfied** Kùe-ì; kam-nguãn ... ... ... 過意  甘愿
 - **Saunter** Ôiⁿ-iû ... ... ... ~~閑~~(閒)遊
 - **Sausage** Kuàn-chhiâng; kuàn-tn̂g ... ... ... 貫脹
-- **Savage** Huan; chheⁿ-huan; suaⁿ-nâng ... ... ... ~~畨~~(番)　~~靑~~(青)~~畨~~(番)　山人
+- **Savage** Huan; chheⁿ-huan; suaⁿ-nâng ... ... ... ~~畨~~(番)  ~~靑畨~~(生番)  山人
 - **Save** Kiù ... ... ... 救
 - **Saving** Khiãm; khieh-síp ... ... ... 儉
 - **Saw, to** Kṳ̀ ... ... ... 鋸
 - **Saw dust** Kṳ̀-sut ... ... ... 鋸銊
-- **Scab, a** Phí ... ... ... 疕
-- **„ to become covered with** Phok-phí; kit-phí ... ... ... 凸疕　結疕
-- **Scaffold** In-kè ... ... ... 鷹架
+- **Scab, a** Phí ... ... ... ~~丕~~(疕)
+- **„ to become covered with** Phok-phí; kit-phí ... ... ... ~~樸丕~~(凸疕)  ~~桔丕~~(結疕)
+- **Scaffold** In-kè ... ... ... ~~因架~~(鷹架)
 - **Scald** Thǹg--tiéh; nâm--tiéh ... ... ... 淋着
 - **Scales, of fish** Hṳ̂-lân ... ... ... 魚鱗
-- **Scandal, to** Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄ ... ... ... 譬相  議論人~~個~~(个)事
-- **Scar** Hûn; sieⁿ-hûn ... ... ... 痕　傷痕
+- **Scandal, to** Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄ ... ... ... ++譬相++  議論人~~個~~(个)事
+- **Scar** Hûn; sieⁿ-hûn ... ... ... 痕  傷痕
 - **Scar-face** Phùa-kìaⁿ ... ... ... 破鏡
 - **Scarce** Chíe ... ... ... 少
-- **Scatter** Sùaⁿ; sì-sùaⁿ ... ... ... 散　四散
+- **Scatter** Sùaⁿ; sì-sùaⁿ ... ... ... 散  四散
 - **Scholar** Hák-seng ... ... ... 學生
 - **School** Tsṳ-che ... ... ... 書齋
 - **Scold** Mēⁿ ... ... ... 罵
-- **Scoop, with one hand** Meⁿ; nák ... ... ... 抓
-- **„ with two hands** Phóng ... ... ... 捧
+- **Scoop, with one hand** Meⁿ; nák ... ... ...
+- **„ with two hands** Phóng ... ... ... ++捧++
 - **Scorpion** Hiet-kiáⁿ ... ... ... 蝎~~仔~~(囝)
-- **Scoundrel** Láu-kiáⁿ ... ... ... 漏~~仔~~(囝)
-- **Scrape** Kueh ... ... ... 刮
-- **Scratch** Pê ... ... ... ~~搔~~(爬)
+- **Scoundrel** Láu-kiáⁿ ... ... ... ~~老仔~~(漏囝)
+- **Scrape** Kueh ... ... ... ~~𧈳~~(刮)
+- **Scratch** Pê ... ... ... 爬
 - **Screen, to** Tsáh ... ... ... 閘
 - **Scroll, antithetical, ornamental** Tùi-liên ... ... ... 對聯
 - **Scum** Phuéh ... ... ... 波
 - **Seal** Ìn ... ... ... 印
 - **„ official** Kuaⁿ-ìn ... ... ... 官印
-- **Search** Tshūe; siou ... ... ... 覓　尋
-- **Season** Sî; thiⁿ-sí ... ... ... 時　天時
+- **Search** Tshūe; siou ... ... ... ~~覔~~(覓)  尋
+- **Season** Sî; thiⁿ-sí ... ... ... 時  天時
 - **Secret** Àm-chẽⁿ ... ... ... 暗靜
 - **Sedan** Kiē ... ... ... 轎
 - **Seed, of fruit** Chí ... ... ... ~~枳~~(子)
 - **„ for sowing** Chéng ... ... ... 種
 - **Seize** Khíⁿ ... ... ... 捉
 - **Seldom** Hán-tit ... ... ... 罕得
-- **Select** Suán; tóh; kôiⁿ ... ... ... 選　擇　揀
+- **Select** Suán; tóh; kôiⁿ ... ... ... 選  擇  揀
 - **Selfish** Sai-sim ... ... ... 私心
 - **Send, as servants** Sái ... ... ... 使
 - **„ as things** Kià ... ... ... 寄
@@ -5239,12 +5239,12 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Separate, to** Pun-khui ... ... ... 分開
 - **Serious, as matter** Tūa-sṳ̄ ... ... ... 大事
 - **„ as sickness** Tãng-pēⁿ ... ... ... 重病
-- **Servant** A-nouⁿ ... ... ... ~~亞~~(阿)奴
-- **„ domestic** Ke-nouⁿ ... ... ... 家奴
-- **Set, a** Chék-hù ... ... ... ~~壹~~(一)副
-- **Settle, an affair** Tít; chheng-tshó ... ... ... 直　清楚
-- **Several** Kuá-kâi ... ... ... 寡個
-- **Severe** Ngiâm; tãng ... ... ... 嚴　重
+- **Servant** A-nouⁿ ... ... ... ~~奴僕~~(阿奴)
+- **„ domestic** Ke-nouⁿ ... ... ... ~~家重~~(家奴)
+- **Set, a** Chék-hù ... ... ... ~~壹付~~(一副)
+- **Settle, an affair** Tít; chheng-tshó ... ... ... 直  清楚
+- **Several** Kuá-kâi ... ... ... ~~數個~~(寡個)
+- **Severe** Ngiâm; tãng ... ... ... 嚴  重
 - **„, wound** Tãng-sieⁿ ... ... ... 重傷
 - **Sew, to** Thīⁿ ... ... ... 縫
 - **Shadow** Iáⁿ ... ... ... 影
@@ -5252,9 +5252,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ hands** Tùn-chhiú ... ... ... 頓手
 - **„ off, as dust** Hìⁿ-tiòu ... ... ... 搖~~丢~~(掉)
 - **Shallow** Chhién ... ... ... 淺
-- **Shame** Sióu-lí ... ... ... ~~羞耻~~(少禮)
-- **Shampoo, the loins** Tûi-ie ... ... ... 捶腰
-- **Shape** Iēⁿ; khuán ... ... ... 樣　款
+- **Shame** Sióu-lí ... ... ... ~~羞恥~~(少禮)
+- **Shampoo, the loins** Tûi-ie ... ... ... ~~擂~~(捶)腰
+- **Shape** Iēⁿ; khuán ... ... ... 樣  ~~欸~~(款)
 - **Share** Hūn ... ... ... 份
 - **Shark** Sua-hṳ̂ ... ... ... ~~沙魚~~(鯊魚)
 - **Sharp** Lāi ... ... ... 利
@@ -5263,66 +5263,66 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Sharpen** Bûa ... ... ... 磨
 - **Shave, the head** Thì-thâu ... ... ... 剃頭
 - **„ the beard** Khoi-chhiu ... ... ... 剃鬚
-- **Shavings, of wood** Tshâ-phùe-thiu ... ... ... 柴杮抽
+- **Shavings, of wood** Tshâ-phùe-thiu ... ... ... 柴~~配~~(杮)抽
 - **Sheath, of a sword** To-khak ... ... ... 刀~~壳~~(殼)
 - **Shed, tears** Lâu-mák-tsap ... ... ... 流目汁
 - **„ blood** Lâu-hueh ... ... ... 流血
 - **Shell, as of eggs, shell-fish** Khak ... ... ... ~~壳~~(殼)
 - **Shelter, to take** Siám ... ... ... 避
-- **Shepherd** Chiéⁿ-iêⁿ--kâi-nâng ... ... ... 掌羊~~個~~(个)人
-- **Shield** Pâi; tin-pâi ... ... ... 牌　籐牌
+- **Shepherd** Chiéⁿ-iêⁿ--kâi-nâng ... ... ... ~~守~~(掌)羊~~個~~(个)人
+- **Shield** Pâi; tin-pâi ... ... ... 牌  籐牌
 - **Shift** Súa ... ... ... 徙
-- **Shin** Kha-liâm ... ... ... ~~脚~~(骹)臁
+- **Shin** Kha-liâm ... ... ... ~~脚廉~~(骹臁)
 - **Shine** Chiè ... ... ... 照
-- **Shiver** Khiū; tòng ... ... ... 慄　凍
-- **Shoot, with gun** Phah; tūaⁿ ... ... ... ~~打~~(拍)  彈
-- **Shop** Phòu; tiàm ... ... ... 舖　店
+- **Shiver** Khiū; tòng ... ... ... 震  凍
+- **Shoot, with gun** Phah; tūaⁿ ... ... ... ~~打~~(拍)  ++彈++
+- **Shop** Phòu; tiàm ... ... ... 舖  店
 - **Shore** Hái-kîⁿ ... ... ... 海墘
 - **Short** Tó ... ... ... 短
 - **„ time** Chiãm-sî ... ... ... 暫時
-- **Shot** Chhèng-chí; în-chí ... ... ... 銃子　鉛子
+- **Shot** Chhèng-chí; în-chí ... ... ... 銃子  鉛子
 - **Shoulder** Koiⁿ-thâu ... ... ... 肩頭
 - **Shout** Soi; jiáng ... ... ... 嚷
 - **Show** Pióu-mêng ... ... ... 表明
-- **„ me** Pun-uá-thóiⁿ ... ... ... 分我~~看~~(睇)
+- **„ me** Pun-uá-thóiⁿ ... ... ... ~~與~~(分)我~~看~~(睇)
 - **Shrine** Sîn-kham ... ... ... 神龕
 - **Shut** Kueⁿ ... ... ... ~~閉~~(關)
-- **„ a door without bolting** Hõiⁿ ... ... ... 闔
+- **„ a door without bolting** Hõiⁿ ... ... ... ++闔++
 - **„ as the mouth, book** Háp ... ... ... 合
-- **Shuttle** So-kiáⁿ ... ... ... 梭~~仔~~(囝)
-- **Shy** Ùi-sióu-lí; m̃-káⁿ-kìⁿ-nâng ... ... ... 畏~~羞耻~~(少禮)   ~~不~~(毋)敢見人
+- **Shuttle** So-kiáⁿ ... ... ... 梭~~子~~(囝)
+- **Shy** Ùi-sióu-lí; m̃-káⁿ-kìⁿ-nâng ... ... ... 畏~~羞恥~~(少禮)   ++毋敢見人++
 - **Sick, ill** Pēⁿ ... ... ... 病
 - **„ slightly** Nâng m̃-móⁿ ... ... ... 人~~不好~~(毋孬)
 - **„ for a long period** Phùa-pēⁿ ... ... ... 破病
-- **Side** Pôiⁿ ... ... ... ~~邊~~(爿)
-- **„ of the body** Phiaⁿ-lî ... ... ... 𩩍籬
-- **Sieve, a** Thai; bí-thai; bí-lô ... ... ... 篩　米篩　米籮
+- **Side** Pôiⁿ ... ... ... ~~畔~~(爿)
+- **„ of the body** Phiaⁿ-lî ... ... ... ~~脇下~~(𩩍籬)
+- **Sieve, a** Thai; bí-thai; bí-lô ... ... ... ++篩++  米篩  米籮
 - **„ for winnowing** Pùa-ki ... ... ... 簸箕
 - **Sift** Thai ... ... ... 篩
-- **Sigh** Tháu-khùi ... ... ... ~~解~~(㪗)氣
+- **Sigh** Tháu-khùi ... ... ... ~~嘆氣~~(㪗氣)
 - **Sight, of the eyes** Mák-sít ... ... ... 目實
-- **Sign, a** Hō; kì-hō ... ... ... 號　記號
+- **Sign, a** Hō; kì-hō ... ... ... 號  記號
 - **„ secret** Àm-hō ... ... ... 暗號
-- **„ to** Chhiam-miâⁿ; tsham-miâⁿ; uéh-hō ... ... ... 簽名　參名　劃號
-- **Silent** Tiām-tiām; chẽⁿ-chẽⁿ ... ... ... ~~靜靜~~(恬恬)  靜靜
+- **„ to** Chhiam-miâⁿ; tsham-miâⁿ; uéh-hō ... ... ... 簽名  參名  ++劃號++
+- **Silent** Tiām-tiām; chẽⁿ-chẽⁿ ... ... ... ++恬恬++  靜靜
 - **Silk-worm** Tshôiⁿ ... ... ... 蠶
-- **Similar** Huáng-sṳ̃; chhin-chhiẽⁿ ... ... ... 仿似　親像
+- **Similar** Huáng-sṳ̃; chhin-chhiẽⁿ ... ... ... 仿似  親像
 - **Sin** Tsũe ... ... ... 罪
 - **„ to** Huãm-tsũe ... ... ... 犯罪
-- **Sincere** Sít-sim; sít-ì ... ... ... 實心　實意
-- **Sing** Chhiè; chhiè-kua; chhiè-khek ... ... ... 唱　唱歌　唱曲
-- **Single** Tuaⁿ; chék ... ... ... 單　~~壹~~(一)
+- **Sincere** Sít-sim; sít-ì ... ... ... 實心  實意
+- **Sing** Chhiè; chhiè-kua; chhiè-khek ... ... ... 唱  唱歌  唱曲
+- **Single** Tuaⁿ; chék ... ... ... 單  一
 - **„ fold** Tuaⁿ-têng ... ... ... 單重
 - **Sink** Tîm ... ... ... 沉
-- **Sisters** Chí-mūeⁿ-kiáⁿ; ché-mūeⁿ-kiáⁿ ... ... ... 姊妹~~仔~~(囝) 姐妹~~仔~~(囝)
+- **Sisters** Chí-mūeⁿ-kiáⁿ; ché-mūeⁿ-kiáⁿ ... ... ... ++姊妹囝++  ~~𡛰妹仔~~(姐妹囝)
 - **Skeleton** Kut-thâu ... ... ... 骨頭
 - **Sketch, to** Ūe ... ... ... 畫
 - **Skin** Phûe ... ... ... 皮
 - **Skull** Thâu-khak-uáⁿ ... ... ... 頭~~壳~~(殼)碗
-- **Sky** Chheⁿ-thiⁿ; puàⁿ-thiⁿ ... ... ... ~~靑~~(青)天　半天
+- **Sky** Chheⁿ-thiⁿ; puàⁿ-thiⁿ ... ... ... ~~靑~~(青)天  半天
 - **Slack** Lēng; sang ... ... ... 鬆
 - **Slanting** Sia ... ... ... 斜
-- **Slap, to** Òng ... ... ... 掌
+- **Slap, to** Òng ... ... ... 掌打
 - **Slave** Nôuⁿ-tshâi ... ... ... 奴才
 - **Sleep** Út ... ... ... ~~睡~~(夗)
 - **Sleeve, of coat** Saⁿ-ńg ... ... ... 衫~~袖~~(䘼)
@@ -5330,29 +5330,29 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Slight** Sié-khúa ... ... ... 小可
 - **Slip, to miss the foot** Thām-phiù ... ... ... 失足
 - **„ out of the hand** Phiù-chhiú ... ... ... 失手
-- **Slip, down** Liù-puáh; liù--lóh-khṳ̀ ... ... ... 溜~~拔~~(跋)  溜落去
+- **Slip, down** Liù-puáh; liù--lóh-khṳ̀ ... ... ... ~~滑跌~~(溜跋)  ++溜落去++
 - **Slippers** Ôi-thua; ôi-liouh ... ... ... 鞋拖
 - **Slow** Mān ... ... ... 緩
-- **Slowly** Khuaⁿ-khuaⁿ ... ... ... ~~漸漸~~(寬寬)
+- **Slowly** Khuaⁿ-khuaⁿ ... ... ... 寬寬
 - **„ and carefully** Ûn-ûn ... ... ... 紜紜
 - **Small** Sòi ... ... ... 細
 - **Smash, to pieces** Phùa-tshùi-tshùi ... ... ... 破碎碎
-- **Smear** Kôu; hú ... ... ... 糊　敷
-- **Smell** Hiēn ... ... ... 味
+- **Smear** Kôu; hú ... ... ... 糊  敷
+- **Smell** Hiēn ... ... ... ++羶++
 - **„ to** Phĩⁿ ... ... ... 鼻
 - **Smile** Ba-bun-chhiè ... ... ... 貓呅笑
-- **Smoke** In ... ... ... 烟
+- **Smoke** In ... ... ... ~~烟~~(煙)
 - **„, to** Chiáh-hun ... ... ... 食~~煙~~(薰)
 - **„ opium** Chiáh-a-phièn; kuh-a-phièn ... ... ... 食鴉片
 - **Smooth** Kút ... ... ... 滑
 - **Smother** Hip-sí; hìm-sí; hìm-miⁿ ... ... ... 翕死
 - **Smuggle** Tsáu-hiàng ... ... ... 走餉
-- **Snail** Lô; tshân-lô ... ... ... 螺　田螺
-- **Snare** Lô-mãng; khuan-thàu ... ... ... 羅網　圈套
-- **„ set a** Tieⁿ-khuan-thàu ... ... ... 張圈套
-- **Snare, to** Tng ... ... ... 當
+- **Snail** Lô; tshân-lô ... ... ... 螺  田螺
+- **Snare** Lô-mãng; khuan-thàu ... ... ... 羅網  圈套
+- **„ set a** Tieⁿ-khuan-thàu ... ... ... ~~設~~(張)圈套
+- **Snare, to** Tng ... ... ... ++當++
 - **Snatch** Chhiéⁿ ... ... ... 搶
-- **Sneeze** Phah-ka-khì ... ... ... ~~打~~(拍)咳氣
+- **Sneeze** Phah-ka-khì ... ... ... ~~打噴~~(拍咳氣)
 - **Snore** Hûaⁿ ... ... ... 喘氣
 - **Snow** Soh ... ... ... 雪
 - **Snowwhite** Soh-soh-péh ... ... ... 雪雪白
@@ -5360,20 +5360,20 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ to** Hngh-phīⁿ-hun; buah-phīⁿ-hun ... ... ... 抹鼻~~煙~~(薰)
 - **Soak** Chìm ... ... ... 浸
 - **Society** Hũe ... ... ... 會
-- **„ to join** Tshap-hũe; jíp-hũe ... ... ... 插會　入會
+- **„ to join** Tshap-hũe; jíp-hũe ... ... ... 插會  入會
 - **Soft** Nńg ... ... ... 軟
 - **Soil** Thôu ... ... ... 塗
 - **Solder, to** Ún ... ... ... 鑲
-- **Soldier** Piaⁿ; ióng-chiàng; láu-chiàng ... ... ... 兵　~~勇壯~~(勇將)　老將
+- **Soldier** Piaⁿ; ióng-chiàng; láu-chiàng ... ... ... 兵  ~~勇壯~~(勇將)  ~~老壯~~(老將)
 - **Sole, of foot** Kha-tói ... ... ... ~~脚~~(骹)底
 - **„ of shoe** Ôi-tói ... ... ... 鞋底
 - **Solstice, Summer** Hē-chì ... ... ... 夏至
 - **„ Winter** Tang-chì ... ... ... 冬至
-- **Son** Kiáⁿ; tau-kiáⁿ ... ... ... ~~仔~~(囝) 兜~~仔~~(囝)
-- **Song** Kua; khek ... ... ... 歌　曲
+- **Son** Kiáⁿ; tau-kiáⁿ ... ... ... ~~子~~(囝) ++兜囝++
+- **Song** Kua; khek ... ... ... 歌  曲
 - **Soot** Húe-thûn ... ... ... 火燂
-- **Sorcerer** Tâng-sin; tâng-ki ... ... ... 童身　童乩
-- **Sorceress** Lóh-sîn-phûa; thóiⁿ-siàⁿ-phûa ... ... ... 落神婆　~~看~~(睇)聖婆
+- **Sorcerer** Tâng-sin; tâng-ki ... ... ... 童身  童乩
+- **Sorceress** Lóh-sîn-phûa; thóiⁿ-siàⁿ-phûa ... ... ... 落神婆  ~~看~~(睇)聖婆
 - **Sorcery** Siâ-sút ... ... ... 邪術
 - **Sore** Thiàⁿ ... ... ... 痛
 - **Sorry** Huân-ló ... ... ... 煩惱
@@ -5382,65 +5382,65 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Sound** Siaⁿ ... ... ... 聲
 - **„ to** Hiáng ... ... ... 响
 - **Sour** Sng ... ... ... 酸
-- **Source** Kṳn-pńg; nguân-kṳn ... ... ... 根本　原根
-- **South** Nâm; nâm-pôiⁿ ... ... ... 南　南~~邊~~(爿)
+- **Source** Kṳn-pńg; nguân-kṳn ... ... ... 根本  原根
+- **South** Nâm; nâm-pôiⁿ ... ... ... 南  南~~畔~~(爿)
 - **Sow, a** Tṳ-bó ... ... ... 豬母
 - **„ to** Iā-chéng ... ... ... 播種
-- **Spade** Thih-chhiâm ... ... ... 鐵鑱
+- **Spade** Thih-chhiâm ... ... ... 鐵~~鑽~~(鑱)
 - **Span** Liáh ... ... ... 掠
-- **Spatter** Phuah; phùn ... ... ... 潑　鍤
-- **Spawn, of fish** Hṳ̂-tshun; hṳ̂-nñg; hṳ̂-chí ... ... ... ~~魚蛋~~(魚春)　魚卵　~~魚只~~(魚子)
-- **Speak** Tàⁿ; tàⁿ-uē ... ... ... 呾　呾話
-- **Spear** Chhieⁿ; pie ... ... ... 鎗　鏢
+- **Spatter** Phuah; phùn ... ... ... 潑  鍤
+- **Spawn, of fish** Hṳ̂-tshun; hṳ̂-nñg; hṳ̂-chí ... ... ... 魚春  魚卵  ~~魚只~~(魚子)
+- **Speak** Tàⁿ; tàⁿ-uē ... ... ... 呾  呾話
+- **Spear** Chhieⁿ; pie ... ... ... 鎗  鏢
 - **„ to** Pie ... ... ... 鏢
 - **Specimen** Iēⁿ ... ... ... 樣
 - **Speck** Tiám ... ... ... ~~㸃~~(點)
 - **Spectacles** Mák-kiàⁿ ... ... ... 目鏡
-- **Spend** Sái; só-hùi ... ... ... 使　~~使費~~(所費)
+- **Spend** Sái; só-hùi ... ... ... 使  ~~需費~~(所費)
 - **Spices** Hieⁿ-liōu ... ... ... 香料
-- **Spill** Phah-tó; tò-tiòu ... ... ... ~~打~~(拍)倒　倒~~丢~~(掉)
-- **Spin** Hui ... ... ... Hui
-- **Spine** Ie-chiah-kut; ie-lêng-kut ... ... ... 背骨
+- **Spill** Phah-tó; tò-tiòu ... ... ... ~~打~~(拍)倒  ~~傾丢~~(倒掉)
+- **Spin** Hui ... ... ... ~~旋轉~~(回)
+- **Spine** Ie-chiah-kut; ie-lêng-kut ... ... ... ~~背骨~~(腰脊骨)  ++腰龍骨++
 - **Spirit** Sîn ... ... ... 神
-- **Spit** Phùi-nũaⁿ; phùi ... ... ... 呸瀾　呸
+- **Spit** Phùi-nũaⁿ; phùi ... ... ... ~~噴~~(呸)涎  ~~噴~~(呸)
 - **Spittoon** Thâm-tāng; thâm-phùi ... ... ... 痰筒
-- **Splash** Phùn ... ... ... 噴
+- **Splash** Phùn ... ... ... ++噴++
 - **Split, with an axe** Phùa ... ... ... 破
-- **„ with a knife** Lòi ... ... ... 𠠍
+- **„ with a knife** Lòi ... ... ... ++𠠍++
 - **Spoil, to** Muéh-tiòu ... ... ... 物~~丢~~(掉)
 - **Spoiled** Hāi--lō ... ... ... 害了
-- **Sport** Thit-thô; sńg ... ... ... ~~閑~~(閒)遊　耍
+- **Sport** Thit-thô; sńg ... ... ... ~~閑~~(閒)遊  耍
 - **Spot, a** Tiám ... ... ... ~~㸃~~(點)
 - **Sprain** Chek--tiéh; nãuⁿ--tiéh; tsuáh--tiéh ... ... ... 閃着
 - **Spread, as a carpet** Tshṳ; phi ... ... ... 披
-- **Spring, a** Tsûaⁿ; tsúi-tsûaⁿ ... ... ... 泉　水泉
+- **Spring, a** Tsûaⁿ; tsúi-tsûaⁿ ... ... ... 泉  水泉
 - **Sprinkle** Hîⁿ ... ... ... 灑
 - **Spurt, water from the mouth** Bū-tsúi ... ... ... 霧水
-- **Spy, a** Thàm-kiáⁿ; sùaⁿ-soh ... ... ... 探~~仔~~(囝)　線索
-- **„ to** Thàm; thau-thàm; tsò-sùaⁿ ... ... ... 探　偷探　做線
-- **Squander** Zṳ́-tiòu; phùa-tiòu ... ... ... 毀~~丢~~(掉)　破~~丢~~(掉)
+- **Spy, a** Thàm-kiáⁿ; sùaⁿ-soh ... ... ... 探~~仔~~(囝)  線索
+- **„ to** Thàm; thau-thàm; tsò-sùaⁿ ... ... ... 探  偷探  做線
+- **Squander** Zṳ́-tiòu; phùa-tiòu ... ... ... ~~毀丢~~  破~~丢~~(掉)
 - **Square** Sì-pang ... ... ... 四方
 - **„ accounts** Ap-siòu ... ... ... 押數
 - **Squash, to** Teh--tiéh ... ... ... 壓着
 - **Squat, on the heels** Tshn̂g; khû ... ... ... 蹲
-- **Squeeze, with the hand** Tẽⁿ ... ... ... 擠
+- **Squeeze, with the hand** Tẽⁿ ... ... ...
 - **„ to press closely** Koíh ... ... ... 夾
-- **„ money** Tsũn-chiáh ... ... ... 賺食
+- **„ money** Tsũn-chiáh ... ... ... 撰食
 - **Stab** Tshǹg ... ... ... 刺
 - **Stable** Bé-pâng ... ... ... 馬房
 - **Stage, for plays** Hì-pêⁿ ... ... ... 戲棚
-- **Stain** Hú--tiéh ... ... ... 捬着
+- **Stain** Hú--tiéh ... ... ... ~~染~~(捬)着
 - **Stale** Aù ... ... ... 杇
-- **Stamp, to** Khap; khap-ìn ... ... ... ~~盖~~(蓋)　~~盖~~(蓋)印
-- **„ with the foot** Thiàm-kha ... ... ... 蹴~~脚~~(骹)
-- **Starch** Chieⁿ ... ... ... 漿
-- **„ to** Kùe-chieⁿ ... ... ... 過漿
-- **Start, on a journey** Khí-sin; khí-kiâⁿ ... ... ... 起身　起行
-- **Startled** Hehⁿ--chē-kiè ... ... ... 嚇一下~~呌~~(叫)
+- **Stamp, to** Khap; khap-ìn ... ... ... ~~盖~~(蓋)  ~~盖~~(蓋)印
+- **„ with the foot** Thiàm-kha ... ... ... ~~擋脚~~(蹴骹)
+- **Starch** Chieⁿ ... ... ... ~~樟~~(漿)
+- **„ to** Kùe-chieⁿ ... ... ... 過~~樟~~(漿)
+- **Start, on a journey** Khí-sin; khí-kiâⁿ ... ... ... 起身  起行
+- **Startled** Hehⁿ--chē-kiè ... ... ... ~~驚訝~~(嚇一下叫)
 - **Starve** Gō ... ... ... 餓
-- **Statesman** Chhîn; tãi-chhîn ... ... ... 臣　大臣
+- **Statesman** Chhîn; tãi-chhîn ... ... ... 臣  大臣
 - **Statue** Sièⁿ ... ... ... 像
-- **Stay** Nāⁿ ... ... ... 待
+- **Stay** Nāⁿ ... ... ...
 - **Steady** Ngaíh ... ... ... 堅
 - **Steal** Thau-khiéh ... ... ... ~~盜取~~(偷挈)
 - **Steep** Kiā ... ... ... 崎
@@ -5451,27 +5451,27 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Stiff** Ngẽ ... ... ... 硬
 - **Sting, to** Tàn ... ... ... 刺
 - **Stink** Tshàu ... ... ... 臭
-- **Stir** Chhiou; lā; ká ... ... ... 𢲵　攪　攪
+- **Stir** Chhiou; lā; ká ... ... ... ~~鍫~~(𢲵)  ++++  ~~絞~~(攪)
 - **Stirrup** Bé-táh-tèng ... ... ... 馬踏䟓
-- **Stocks** Tshâ-gô; kha-khàu ... ... ... 柴鵝　~~脚~~(骹)銬
+- **Stocks** Tshâ-gô; kha-khàu ... ... ... 柴鵝  ~~脚拷~~(骹銬)
 - **Stomach** Tóu ... ... ... 肚
 - **Stoop, down** Phak-ku; phak--lóh-khṳ ... ... ... 屈身
 - **Store, up** Tun ... ... ... 堆
-- **Store house** Tsàng; tsàng-pâng ... ... ... 棧　棧房
+- **Store house** Tsàng; tsàng-pâng ... ... ... 棧  棧房
 - **Storm** Tūa-huang ... ... ... 大風
-- **„ to rise** Thàu-tūa-huang; phû-tūa-huang ... ... ... 透大風　浮大風
+- **„ to rise** Thàu-tūa-huang; phû-tūa-huang ... ... ... 透大風  浮大風
 - **Story** Kóu ... ... ... 古
-- **„ of a house** În; tsân ... ... ... 層
+- **„ of a house** În; tsân ... ... ... ++沿++  層
 - **Stout** Pûi ... ... ... 肥
 - **Stow, as cargo** Thíap ... ... ... 叠
 - **Straight** Tít ... ... ... 直
-- **Straightforward** Chiàⁿ-tít; tong-tít; kuaⁿ-chiàⁿ ... ... ... 正直　忠直　官正
-- ** , a rope** Túi-ân ... ... ... Túi-ân
-- **„ to filter** Tè ... ... ... 笮
-- **Strand, of rope** Kóu ... ... ... 股
-- **Strange** Khî; kú-kuài ... ... ... 奇　古怪
-- **Stranger** Tshut-gūa-nâng; chheⁿ-hūn-nâng ... ... ... 出外人　生分人
-- **Strangle** Liû; ká ... ... ... 留　絞
+- **Straightforward** Chiàⁿ-tít; tong-tít; kuaⁿ-chiàⁿ ... ... ... 正直  忠直  官正
+- ** , a rope** Túi-ân ... ... ...
+- **„ to filter** Tè ... ... ... ~~隔渣~~(笮)
+- **Strand, of rope** Kóu ... ... ... ~~一扭~~(股)
+- **Strange** Khî; kú-kuài ... ... ... 奇  古怪
+- **Stranger** Tshut-gūa-nâng; chheⁿ-hūn-nâng ... ... ... 出外人  生份人
+- **Strangle** Liû; ká ... ... ... 留  絞
 - **Stream** Suaⁿ-kau ... ... ... 山溝
 - **Street** Koi; koi-lōu ... ... ... 街  街路
 - **Strength** Lát; khì-lát ... ... ... 力  氣力
@@ -5479,80 +5479,80 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Strict** Ngiâm ... ... ... 嚴
 - **Stride** Huáh ... ... ... 步
 - **Strike** Phah ... ... ... ~~打~~(拍)
-- **„ with the fist** Cheng ... ... ... 舂
+- **„ with the fist** Cheng ... ... ... ++舂++
 - **„ with a stick** Bú; bút ... ... ... 舞
-- **„ with a soft cane** Sut ... ... ... 摔
-- **String** Sùaⁿ; soh-kiáⁿ ... ... ... 線　索~~仔~~(囝)
-- **Strip, to** Pak; thut; thǹg ... ... ... 剝　脫  褪
-- **Striped** Chék-tsūe chék-tsūe ... ... ... ~~壹~~(一)行~~壹~~(一)行
+- **„ with a soft cane** Sut ... ... ... ++摔++
+- **String** Sùaⁿ; soh-kiáⁿ ... ... ... 線  索~~仔~~(囝)
+- **Strip, to** Pak; thut; thǹg ... ... ... 剝  脫  ++褪++
+- **Striped** Chék-tsūe chék-tsūe ... ... ... 一行一行
 - **Strive** Sie-cheⁿ ... ... ... 相爭
-- **Stroke, as of pen** Uéh ... ... ... 劃
-- **Strong, of the body** Ũ-lát; tsàng; kiāⁿ ... ... ... 有力　壯　健
+- **Stroke, as of pen** Uéh ... ... ... ~~畫~~(劃)
+- **Strong, of the body** Ũ-lát; tsàng; kiāⁿ ... ... ... 有力  壯  健
 - **„ of architecture** Khiàng ... ... ... ~~堅~~(勥)
 - **„ of tea** Kâu ... ... ... 厚
 - **Struggle** Kuān ... ... ... 捲
 - **Student, for higher examination** Thông-seng ... ... ... 童生
 - **Study, to** Hák-síp ... ... ... 學習
-- **Stumble, as over a rope** Kûe--tiéh ... ... ... 絆着
-- **„ as over a stone** Pu--tiéh; that--tiéh ... ... ... 踢着
-- **Stun, as noise** Tsak; tsak--tiéh ... ... ... Tsak tsak--tiéh
-- **Stupid** Ngà; tshâ-kòng ... ... ... 㦙　柴貢
-- **Sty, for pigs** Tṳ liôu; tṳ-lô ... ... ... 豬尞　豬牢
-- **Subject, of ruler** Peh-sèⁿ; mîn--ke ... ... ... 百姓　民家
-- **Submit** Sũn; hók ... ... ... 順　服
+- **Stumble, as over a rope** Kûe--tiéh ... ... ... ++絆着++
+- **„ as over a stone** Pu--tiéh; that--tiéh ... ... ... ~~撻~~(踢)着
+- **Stun, as noise** Tsak; tsak--tiéh ... ... ...
+- **Stupid** Ngà; tshâ-kòng ... ... ... 㦙  柴~~貢~~(戅)
+- **Sty, for pigs** Tṳ liôu; tṳ-lô ... ... ... 豬尞  豬牢
+- **Subject, of ruler** Peh-sèⁿ; mîn--ke ... ... ... 百姓  民家
+- **Submit** Sũn; hók ... ... ... 順  服
 - **Subordinate** Chhiú-ẽ ... ... ... 手下
 - **Subscribe, money** Tôi-chîⁿ ... ... ... 題錢
 - **Substitute, to** Thòi ... ... ... 代
-- **Subtract** Tṳ̂ ... ... ... 除
+- **Subtract** Tṳ̂ ... ... ... ++除++
 - **Subtraction** Tṳ̂-huap ... ... ... 除法
 - **Suburbs** Siâⁿ-gūa ... ... ... 城外
 - **Succeed** Tit-ì ... ... ... 得意
-- **Successive** Sie-sùa ... ... ... 相紲
-- **Suck** Kuh ... ... ... 吸
+- **Successive** Sie-sùa ... ... ... 相~~接~~(紲)
+- **Suck** Kuh ... ... ...
 - **„ with the mouth, with noise** Tsuh ... ... ... 哺
-- **Suddenly** Huh--chē-kiè; hó-sĩ-sĩ ... ... ... 忽一下~~呌~~(叫)　好是是
+- **Suddenly** Huh--chē-kiè; hó-sĩ-sĩ ... ... ... ~~忽然間~~(忽一下叫)  好是是
 - **Suffer** Siũ-khóu ... ... ... 受苦
-- **Sufficient** Kàu; là ... ... ... 夠  ~~撈~~(𤰉)
+- **Sufficient** Kàu; là ... ... ... ~~足~~(夠)  ++𤰉++
 - **Suffocate** Hip-sí ... ... ... 翕死
 - **Suicide** Tsṳ̃-chĩn ... ... ... 自盡
 - **Suit, of clothes** Hù ... ... ... 副
 - **„ to** Háh ... ... ... 合
 - **„ to, as shoes, clothes** Kah ... ... ... 甲
-- **Sum, to** Kòi-kāng; lóng-tsóng-sǹg ... ... ... 計共　~~總共~~(攏總)算
+- **Sum, to** Kòi-kāng; lóng-tsóng-sǹg ... ... ... 計共  ~~該算~~(攏總算)
 - **Summon, call by authority** Tiōu ... ... ... 召
-- **Sundries** Tsáp-hùe; tsáp-muéh ... ... ... 什貨　什物
-- **Superintend** Tok-kang; chiáng-kuán ... ... ... 督工　掌管
+- **Sundries** Tsáp-hùe; tsáp-muéh ... ... ... 什貨  什物
+- **Superintend** Tok-kang; chiáng-kuán ... ... ... 督工  掌管
 - **Superior, of quality** Iâⁿ; iâⁿ--kùe ... ... ... 贏過
 - **Supper, to take** Chiáh-mêⁿ-hng ... ... ... 食夜昏
 - **Support, the children** Iáng-iók ... ... ... 養育
 - **„ the parents** Hõng-iáng ... ... ... 奉養
 - **„ to, as a wall** Tú ... ... ... 砥
-- **„ to hold up** Hû; tshah ... ... ... 扶　插
+- **„ to hold up** Hû; tshah ... ... ... 扶  插
 - **Suppose** Siẽⁿ ... ... ... 想
-- **„ erroneously** Sah-tsò; pān-tsò ... ... ... 約做
-- **Supposing** Khó-pí; pí-zũ ... ... ... 可比　比喻
-- **Suppurate** Pũ-lâng ... ... ... 胕膿
+- **„ erroneously** Sah-tsò; pān-tsò ... ... ... ~~約做~~
+- **Supposing** Khó-pí; pí-zũ ... ... ... 可比  ~~譬如~~(比喻)
+- **Suppurate** Pũ-lâng ... ... ... ~~生膿~~(胕膿)
 - **Sure** Tiāⁿ-tiéh ... ... ... 定着
-- **Surety, to be** Tam-sêng; pó-niáⁿ; tam-jīn ... ... ... 擔承　保領　擔認
+- **Surety, to be** Tam-sêng; pó-niáⁿ; tam-jīn ... ... ... ~~成擔~~(擔承)  保領  擔認
 - **Surname** Sèⁿ ... ... ... 姓
 - **Surpass** Iâⁿ ... ... ... 贏
-- **Surprise** Khî-ĩ; hãi-ĩ ... ... ... 奇異　駭異
-- **Surrender** Hâng; hók; hâng-hók ... ... ... 降　服　降服
+- **Surprise** Khî-ĩ; hãi-ĩ ... ... ... 奇異  駭異
+- **Surrender** Hâng; hók; hâng-hók ... ... ... 降  服  降服
 - **Surround** Uî ... ... ... 圍
-- **Survey, land** Niêⁿ-tī; chiāng-tī ... ... ... 量地　丈地
+- **Survey, land** Niêⁿ-tī; chiāng-tī ... ... ... 量地  丈地
 - **Suspect** Gi ... ... ... 疑
 - **Swallow** Ìⁿ-chióu ... ... ... 燕鳥
-- **„ to** Thun; thun--lóh-khṳ̀ ... ... ... 吞　吞落去
-- **„ with effort** Kṳ̃--lóh-khṳ̀ ... ... ... 吞落去
+- **„ to** Thun; thun--lóh-khṳ̀ ... ... ... 吞  吞落去
+- **„ with effort** Kṳ̃--lóh-khṳ̀ ... ... ...
 - **Swear** Chìu-tsūa ... ... ... ~~發誓~~(咒誓)
 - **Sweep** Sàu ... ... ... 掃
 - **Sweet** Tiám ... ... ... 甜
-- **Sweet-meats** Thn̂g-liōu; tiâm-liōu; thn̂g-khà ... ... ... 糖料　甜料　糖扣
+- **Sweet-meats** Thn̂g-liōu; tiâm-liōu; thn̂g-khà ... ... ... 糖料  甜料  糖扣
 - **Swell, to** Chêng ... ... ... 腫
-- **Swift** Hiòng; méⁿ ... ... ... 雄　猛
+- **Swift** Hiòng; méⁿ ... ... ... 雄  猛
 - **Swim** Siû ... ... ... ~~氽~~(泅)
-- **Swing** Sõ ... ... ... 蕩
-- **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶 翹頭絲 鋯絲
+- **Swing** Sõ ... ... ... ~~泗~~
+- **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶 ++翹頭絲++ ++鋯絲++
 - **Sympathy** Thói-thiap ... ... ... 體貼
 - **Syrupt** Thn̂g-tsúi ... ... ... 糖水
 - **Tael** Niéⁿ ... ... ... ~~両~~(兩)
@@ -5563,162 +5563,162 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Tall** Kûiⁿ ... ... ... ~~高~~(危)
 - **Tally, a** Chhiam ... ... ... 籤
 - **Tame** Sék ... ... ... 熟
-- **Target** Pá; chìⁿ-pá ... ... ... 靶　箭靶
-- **„ centre of** Âng-sim; tong-sim ... ... ... 紅心　中心
-- **Tariff, of duties** Chek-lī; hiàng-pâi ... ... ... 則例　餉牌
-- **Taste** Bī; bī-sòu; khì-bī ... ... ... 味　味素　氣味
+- **Target** Pá; chìⁿ-pá ... ... ... 靶  箭靶
+- **„ centre of** Âng-sim; tong-sim ... ... ... 紅心  中心
+- **Tariff, of duties** Chek-lī; hiàng-pâi ... ... ... 則例  餉牌
+- **Taste** Bī; bī-sòu; khì-bī ... ... ... 味  ~~味道~~(味素)  氣味
 - **Tasteless** Bô-bī; péh-chiáⁿ-bô-bī ... ... ... 無味
 - **Tax** Hiàng ... ... ... 餉
 - **„ land** Niêⁿ ... ... ... 糧
-- **Tax, to pay** Láp-niêⁿ; uân-niêⁿ ... ... ... 納糧　完糧
-- **Tax collector** Niêⁿ-chhe ... ... ... 粮差
+- **Tax, to pay** Láp-niêⁿ; uân-niêⁿ ... ... ... 納糧  完糧
+- **Tax collector** Niêⁿ-chhe ... ... ... ~~粮~~(糧)差
 - **Teach** Kà ... ... ... 教
 - **Teacher** Sin-seⁿ ... ... ... 先生
-- **Tear** Lì; thì ... ... ... 烈　剃
+- **Tear** Lì; thì ... ... ... ~~烈~~  剃
 - **Tears** Mák-tsap ... ... ... 目汁
 - **„ to shed** Lâu-mák-tsap ... ... ... 流目汁
-- **Tease** Tṳ̂; pin-tǹg; pa-lói; tṳ̂-tñg ... ... ... 除  摒擋　~~擾亂~~(巴禮)  除斷
+- **Tease** Tṳ̂; pin-tǹg; pa-lói; tṳ̂-tñg ... ... ... 除  ++摒擋++  ++++  除斷
 - **Teeth** Khí ... ... ... 齒
 - **„ large** Gê ... ... ... 牙
 - **„ molar** Gê-thâu-khí ... ... ... 牙頭齒
-- **Telegraph, to** Khà-tiẽn-pò ... ... ... 扣電報
+- **Telegraph, to** Khà-tiẽn-pò ... ... ... ~~打~~(扣)電報
 - **Tell** Tàⁿ ... ... ... 呾
-- **Temper** Sèⁿ; sèⁿ-chhêng ... ... ... 性　性~~⿰忄靑~~(情)
+- **Temper** Sèⁿ; sèⁿ-chhêng ... ... ... 性  性~~⿰忄靑~~(情)
 - **Temperance** Tsat-tōu ... ... ... 節度
-- **Temple** Keng; keng-biē ... ... ... 宮　宮廟
+- **Temple** Keng; keng-biē ... ... ... 宮  宮廟
 - **„ of the head** Tsháu-ngán ... ... ... 草眼
 - **Temporary** Chiãm ... ... ... 暫
-- **Tempt** Ín; ín-iú ... ... ... 引　引誘
+- **Tempt** Ín; ín-iú ... ... ... 引  引誘
 - **Tent** Pòu-phâng ... ... ... 布帆
 - **Tent, to pitch** Tah-pòu-phâng ... ... ... 搭布帆
-- **Tepid** Lā-lûn-sie ... ... ... 半燒
-- **Test** Chhì; chhì-thóiⁿ ... ... ... 試　試~~看~~(睇)
-- **Testicles** Tsũi-hút; lãn-hút[3] ... ... ... 脧核  卵核
+- **Tepid** Lā-lûn-sie ... ... ... 半~~溫~~(燒)
+- **Test** Chhì; chhì-thóiⁿ ... ... ... 試  試~~着~~(睇)
+- **Testicles** Tsũi-hút; lãn-hút[3] ... ... ... ++脧核++  ~~腎核~~(卵核)
 - **Testimony** Chèng-kṳ̃ ... ... ... 證據
-- **Thank** Siā; kám-siā ... ... ... 謝　感謝
-- **„ obliged** Lâu--lṳ́; lūi--lṳ́; tūa-lâu-nâng ... ... ... 勞~~爾~~(汝)  累~~爾~~(汝)  大勞人
+- **Thank** Siā; kám-siā ... ... ... 謝  感謝
+- **„ obliged** Lâu--lṳ́; lūi--lṳ́; tūa-lâu-nâng ... ... ... 勞~~爾~~(汝)  ++累汝++  ++大勞人++
 - **Theatre** Hì ... ... ... 戲
-- **Therefore** Kù-tshṳ́; só-íⁿ ... ... ... 故此　所以
+- **Therefore** Kù-tshṳ́; só-íⁿ ... ... ... 故此  所以
 - **Thermometer** Hân-sú-tsam ... ... ... 寒暑針
 - **Thick** Kāu ... ... ... 厚
 - **„ as paste, congee** Kṳ́t ... ... ... 結
-- **Thigh** Thúi; kha-thúi ... ... ... 腿　~~脚~~(骹)腿
+- **Thigh** Thúi; kha-thúi ... ... ... 腿  ~~脚~~(骹)腿
 - **Thin** Póh ... ... ... 薄
 - **„ as paste, congee** Kà; chhieh ... ... ... 稀
-- **Thing** Muéh; muéh-kiâⁿ ... ... ... 物　物件
-- **Think** Siẽⁿ; phah-sǹg; pheⁿ-phah ... ... ... 想　~~打~~(拍)算  pheⁿ-phah
-- **„ erroneously** Kâu-kiè; sah-tsò ... ... ... Kâu-kiè  sah-tsò
+- **Thing** Muéh; muéh-kiâⁿ ... ... ... 物  物件
+- **Think** Siẽⁿ; phah-sǹg; pheⁿ-phah ... ... ... 想  ~~打~~(拍)算
+- **„ erroneously** Kâu-kiè; sah-tsò ... ... ...
 - **Thirsty** Aû ta ... ... ... 渴
 - **Thorn** Chhì ... ... ... 刺
-- **Threaten** Heh; heh-kiaⁿ ... ... ... 嚇　嚇驚
-- **Throat** Aû; aû-lêng ... ... ... 喉　喉嚨
-- **Throne, imperial** Lêng-ūi; kim-luân-tōiⁿ ... ... ... 龍位　金鑾殿
-- **„ to ascend the** Teng-ki; teng-ūi; tsõ-ūi ... ... ... 登基　登位　坐位
-- **Throttle** Tẽⁿ-aû ... ... ... 擲喉
+- **Threaten** Heh; heh-kiaⁿ ... ... ... 嚇  嚇驚
+- **Throat** Aû; aû-lêng ... ... ... 喉  喉嚨
+- **Throne, imperial** Lêng-ūi; kim-luân-tōiⁿ ... ... ... 龍位  金鑾殿
+- **„ to ascend the** Teng-ki; teng-ūi; tsõ-ūi ... ... ... 登基  登位  坐位
+- **Throttle** Tẽⁿ-aû ... ... ... ~~㨨喉~~
 - **Through, over** Thàng ... ... ... 通
-- **Throw, to** Kák; sek; hám ... ... ... 捔 擲 撼
-- **„ away** Kák-tiòu; sek-tiòu; hám-tiòu; phîn-tiòu ... ... ... ~~拋丢~~(捔掉) ~~擲丢~~(擲掉) 撼~~丢~~(掉) 摒~~丢~~(掉)
+- **Throw, to** Kák; sek; hám ... ... ... ++捔++
+- **„ away** Kák-tiòu; sek-tiòu; hám-tiòu; phîn-tiòu ... ... ... ++捔掉++  ++++  ++++  ++摒掉++
 - **Thrust** Tshǹg ... ... ... 刺
 - **Ticket** Tuaⁿ ... ... ... 單
-- **„ pawn** Hui; tǹg-phiè ... ... ... 票　當票
-- **Tickle** Niouⁿ ... ... ... 抓
-- **Tie** Pák; kat ... ... ... 縛　結
+- **„ pawn** Hui; tǹg-phiè ... ... ... ~~揮~~  當票
+- **Tickle** Niouⁿ ... ... ... ~~帕悛~~
+- **Tie** Pák; kat ... ... ... 縛  結
 - **„ as the hands together** Khún ... ... ... 捆
 - **Tiffin** Tiám-sim ... ... ... ~~㸃~~(點)心
 - **Tight** Kín ... ... ... 緊
-- **„ as rope** Ân ... ... ... 緊
-- **Timid** Bô-táⁿ ... ... ... 無胆
+- **„ as rope** Ân ... ... ...
+- **Timid** Bô-táⁿ ... ... ... 無~~胆~~(膽)
 - **Tired** Hék ... ... ... ~~困~~(乏)
 - **Title, official** Kuaⁿ-hâm ... ... ... 官銜
-- **Toil** Búa; bûa-khóu ... ... ... 磨　磨苦
-- **Tolerably** Tshó-liák; õi--lêng-tsò-tit ... ... ... 草略　會能做得
+- **Toil** Búa; bûa-khóu ... ... ... 磨  磨苦
+- **Tolerably** Tshó-liák; õi--lêng-tsò-tit ... ... ... 草~~錄~~(略)  會能做得
 - **Tone** Im; siaⁿ ... ... ... 音  聲
-- **Tonic** Póu; póu-iéh ... ... ... 補　補藥
+- **Tonic** Póu; póu-iéh ... ... ... 補  補藥
 - **Tools** Ke-húe ... ... ... 家伙
 - **Top, a** Hâm-lâm-sút ... ... ... 銜瓏術
 - **„ to spin a** Phah-hâm-lâm-sút ... ... ... ~~打~~(拍)銜瓏術
-- **Torch** Húe-nāⁿ ... ... ... 火爁
+- **Torch** Húe-nāⁿ ... ... ... ~~火把~~(火爁)
 - **Tortoise** Tāi-pūe ... ... ... 玳瑁
-- **Total** Kòi-kāng; lóng-tsóng ... ... ... 計共　~~總共~~(攏總)
-- **Touch, with the fingers** Thãng; thãng--tiéh; mông ... ... ... 動　動着　摸
-- **„ come into contact** Tiaⁿ--tiéh ... ... ... 碰着
-- **Tough** Zūn ... ... ... 韌
+- **Total** Kòi-kāng; lóng-tsóng ... ... ... 計共  ~~俱皆~~(攏總)
+- **Touch, with the fingers** Thãng; thãng--tiéh; mông ... ... ... ~~摸~~(動)  ~~摸~~(動)着  ++摸++
+- **„ come into contact** Tiaⁿ--tiéh ... ... ... ~~顚着~~
+- **Tough** Zūn ... ... ... ++韌++
 - **Tow, a ship** Tũa ... ... ... 拕
 - **Towards** Hiàng; niáⁿ ... ... ... 向  領
-- **Town** Pou; pou-thâu ... ... ... 埠　埠頭
+- **Town** Pou; pou-thâu ... ... ... 埠  埠頭
 - **Trace, to** Chhim-tui tsong-chiah ... ... ... 尋追踪跡
 - **„ to, as in writing** Piè ... ... ... 裱
 - **Track, mark** Chiah ... ... ... 跡
 - **Train, to** Kà ... ... ... 教
 - **Trample, on** Táh; thiàm ... ... ... 踏  蹴
-- **Transact, business** Lí-sṳ̄; phōiⁿ-sṳ̄ ... ... ... 理事　辦事
+- **Transact, business** Lí-sṳ̄; phōiⁿ-sṳ̄ ... ... ... 理事  辦事
 - **Transform** Pìⁿ; pièn ... ... ... 變
-- **Translate** Ék; huan-ék ... ... ... 譯　翻譯
+- **Translate** Ék; huan-ék ... ... ... ~~繹~~(譯)  翻~~繹~~(譯)
 - **„ characters into spoken language** Sueh ... ... ... 說
 - **Transparent** Kng-thàng ... ... ... 光通
-- **Trap, for rats** Ngióu-tshṳ́-tak; thih-ngiou ... ... ... 老~~巤~~(鼠)觸  鐵貓
+- **Trap, for rats** Ngióu-tshṳ́-tak; thih-ngiou ... ... ... ~~鼠挾~~(貓鼠觸)  ++鐵貓++
 - **„ for tigers** Hóuⁿ-lô ... ... ... 虎牢
 - **Travel** Kiâⁿ ... ... ... 行
-- **Tread, on** Táh; lūn-táh ... ... ... 踏  蹂踏
-- **Treasury** Khòu-pâng; ngṳ̂n-khòu ... ... ... 庫房　銀庫
-- **Treat, to** Thãi; khuán-thãi ... ... ... 待　款待
-- **Tremble** Khiū; tòng ... ... ... 慄  凍
+- **Tread, on** Táh; lūn-táh ... ... ... 踏  ++蹂踏++
+    - **Treasury** Khòu-pâng; ngṳ̂n-khòu ... ... ... 庫房  銀庫
+- **Treat, to** Thãi; khuán-thãi ... ... ... 待  ~~欸~~(款)待
+- **Tremble** Khiū; tòng ... ... ... ~~凍~~
 - **Tribe** Tsók ... ... ... 族
 - **Tribute, to pay to the Emperor** Kòng-huâng-tì ... ... ... 貢皇帝
 - **Trick, a** Sim-sṳ̄ ... ... ... 心事
-- **Trifling, affair** Bô-siang-kan-sṳ̄; sié-khúa-sṳ̄ ... ... ... 無相干事　小可事
+- **Trifling, affair** Bô-siang-kan-sṳ̄; sié-khúa-sṳ̄ ... ... ... 無相干事  小可事
 - **Triturate** Ngóiⁿ; lûi ... ... ... 研 擂
-- **Troops** Piaⁿ; kun-piaⁿ ... ... ... 兵　軍兵
+- **Troops** Piaⁿ; kun-piaⁿ ... ... ... 兵  軍兵
 - **Trouble** Kan-khóu ... ... ... 艱苦
-- **True** Chin; sít; chin-sít; ũ-iáⁿ ... ... ... 真　實　真實　有影
-- **Trumpet** Ti-tâ ... ... ... 嘀嗒
-- **Trust, to** Sìn; siang-sìn ... ... ... 信　相信
-- **Try** Chhì; chhì-thóiⁿ ... ... ... 試　試~~看~~(睇)
-- **Tube** Kóng; tâng ... ... ... 管　筒
+- **True** Chin; sít; chin-sít; ũ-iáⁿ ... ... ... ~~眞~~(真)  實  ~~眞~~(真)實  有影
+- **Trumpet** Ti-tâ ... ... ... ~~吹首~~(嘀嗒)
+- **Trust, to** Sìn; siang-sìn ... ... ... 信  相信
+- **Try** Chhì; chhì-thóiⁿ ... ... ... 試  試~~看~~(睇)
+- **Tube** Kóng; tâng ... ... ... 管  筒
 - **Tune** Pán ... ... ... 板
 - **Turban** Thâu-pòu ... ... ... 頭布
-- **Turn, revolve** Hui ... ... ... 回
-- **„ over** Póiⁿ; póiⁿ-lìn-tńg ... ... ... 反  反輾轉
-- **„ the head** Ut-tńg-thâu ... ... ... 斡轉頭
-- **„ round the corner of a street** Uat ... ... ... 斡
-- **„ round as a table** Hui-lìn-tńg ... ... ... 回輾轉
-- **„ back** Hui-tńg--lâi ... ... ... 回轉來
-- **„ upside down** Tin-tò-táu ... ... ... 顛倒倒
+- **Turn, revolve** Hui ... ... ... ~~旋轉~~(回)
+- **„ over** Póiⁿ; póiⁿ-lìn-tńg ... ... ... ++反++  ~~轉返~~(反輾轉)
+- **„ the head** Ut-tńg-thâu ... ... ... ~~轉返頭~~(斡轉頭)
+- **„ round the corner of a street** Uat ... ... ... ~~灣~~(斡)
+- **„ round as a table** Hui-lìn-tńg ... ... ... ~~翻輦返~~(回輾轉)
+- **„ back** Hui-tńg--lâi ... ... ... ~~翻返來~~(回轉來)
+- **„ upside down** Tin-tò-táu ... ... ... ~~顚~~(顛)倒~~換~~(倒)
 - **„ by, alternately** Sie-lûn ... ... ... 相輪
-- **„ whose?** Lûn-tiéh-tî-tiâng ... ... ... 輪着~~何人~~(底誰)
-- **Twinkle** Iáp-iáp-sih ... ... ... ~~閃閃光~~(灼灼熠)
-- **Twist** Tsũn ... ... ... 捘
+- **„ whose?** Lûn-tiéh-tî-tiâng ... ... ... 輪着~~誰~~(底誰)
+- **Twinkle** Iáp-iáp-sih ... ... ... ~~灼灼薛~~(灼灼熠)
+- **Twist** Tsũn ... ... ... ~~纂~~(捘)
 - **Twist, as a rope** Ká ... ... ... 絞
-- **Type, printing** Jī-póiⁿ; ìn-póiⁿ ... ... ... 字板　印板
-- **Ugly** Iá-iēⁿ ... ... ... ~~醜陋~~(野樣)
-- **Understand** Hióu; mêng-péh ... ... ... 曉　明白
-- **Undeserved** M̃-kham-tng; m̃-kai ... ... ... ~~不~~(毋)堪當　~~不~~(毋)該
+- **Type, printing** Jī-póiⁿ; ìn-póiⁿ ... ... ... 字板  印板
+- **Ugly** Iá-iēⁿ ... ... ... 野樣
+- **Understand** Hióu; mêng-péh ... ... ... 曉  明白
+- **Undeserved** M̃-kham-tng; m̃-kai ... ... ... ~~不~~(毋)堪當  ~~不~~(毋)該
 - **Undutiful, to parents** Put-hàu ... ... ... 不孝
-- **Uneven** Khi-khu; m̃-pêⁿ ... ... ... 崎嶇　~~不~~(毋)平
+- **Uneven** Khi-khu; m̃-pêⁿ ... ... ... 崎嶇  ~~不~~(毋)平
 - **Unfeeling** Bô-nâng-chhêng ... ... ... 無人~~⿰忄靑~~(情)
-- **Ungrateful** M̃-tsai nâng-chhêng; hiou-chhêng tsóh-ngĩ; buâng-ṳn; bô-jîn-ngĩ ... ... ... ~~不~~(毋)知人~~⿰忄靑~~(情)　僥~~⿰忄靑~~(情)絕義　忘恩　無仁義
+- **Ungrateful** M̃-tsai nâng-chhêng; hiou-chhêng tsóh-ngĩ; buâng-ṳn; bô-jîn-ngĩ ... ... ... ~~不~~(毋)知人~~⿰忄靑~~(情)  僥~~⿰忄靑~~(情)絕義  忘恩  無仁義
 - **Unhappy, of life** Khóu-miāⁿ ... ... ... 苦命
-- **Uniform** Kuaⁿ-hók; kuaⁿ-i ... ... ... 官服　官衣
-- **Unite, to** Háh-bûa ... ... ... 合摩
+- **Uniform** Kuaⁿ-hók; kuaⁿ-i ... ... ... 官服  官衣
+- **Unite, to** Háh-bûa ... ... ... ~~合總~~(合摩)
 - **Unlawful** M̃-háh-huap ... ... ... ~~不~~(毋)合法
 - **Unlimited** Bô-hãn ... ... ... 無限
-- **Unload, a ship** Khí-hùe; tshut-hùe ... ... ... 起貨　出貨
-- **Unnecessary** Mín; mín-ēng ... ... ... ~~免~~(免)　~~免~~(免)用
-- **Unpleasant, feeling** Kãu-uéh ... ... ... 垢穢
-- **Unreasonable** Bô-chhêng-lí; m̃-chiũ-lí ... ... ... 無~~⿰忄靑~~(情)理　~~不~~(毋)就理
-- **Untie** Kói; tháu ... ... ... 解  ~~解~~(㪗)
-- **Unworthy** M̃-kham; m̃-kham-kai ... ... ... ~~不~~(毋)堪　~~不~~(毋)堪該
-- **Upset** Tò-póiⁿ; póiⁿ ... ... ... 倒反　反
-- **Upside down** Tin-tò-thâu ... ... ... 顛倒頭
-- **Urge** Tshui; pek; tshui-kín; tshui-piàⁿ ... ... ... 催　迫　催緊　催拚
+- **Unload, a ship** Khí-hùe; tshut-hùe ... ... ... 起貨  出貨
+- **Unnecessary** Mín; mín-ēng ... ... ... ~~免~~(免)  ~~免~~(免)用
+- **Unpleasant, feeling** Kãu-uéh ... ... ... ~~厚畫~~(垢穢)
+- **Unreasonable** Bô-chhêng-lí; m̃-chiũ-lí ... ... ... 無~~⿰忄靑~~(情)理  ~~不~~(毋)就理
+- **Untie** Kói; tháu ... ... ... 解  ++㪗++
+- **Unworthy** M̃-kham; m̃-kham-kai ... ... ... ~~不~~(毋)堪  ~~不~~(毋)堪該
+- **Upset** Tò-póiⁿ; póiⁿ ... ... ... 倒~~返~~(反)  ~~返~~(反)
+- **Upside down** Tin-tò-thâu ... ... ... ~~顚~~(顛)倒頭
+- **Urge** Tshui; pek; tshui-kín; tshui-piàⁿ ... ... ... ~~推~~(催)  迫  ~~推~~(催)緊  ++催拚++
 - **Useful** Ũ-ēng ... ... ... 有用
-- **Usual** Siêⁿ-siêⁿ; pâi-tńg; sam-put-sî ... ... ... 常常  排轉  三不時
+- **Usual** Siêⁿ-siêⁿ; pâi-tńg; sam-put-sî ... ... ... 常常  ++排轉++  ++三不時++
 - **Vacant** Khang ... ... ... 空
 - **Vacation, of school** Pàng-ké ... ... ... 放假
-- **Vaccinate** Chèng-tsu; chèng-tāu ... ... ... 種珠　種~~荳~~(豆)
-- **Vagrant** Ló-tōng--kâi-nâng ... ... ... 浪蕩~~個~~(个)人
+- **Vaccinate** Chèng-tsu; chèng-tāu ... ... ... 種珠  種~~荳~~(豆)
+- **Vagrant** Ló-tōng--kâi-nâng ... ... ... 浪蕩++个++人
 - **Valley** Chhim-kheⁿ ... ... ... 深坑
-- **Valuable** Kùi-khì; tát-chîⁿ ... ... ... 貴氣　~~値~~(值)錢
+- **Valuable** Kùi-khì; tát-chîⁿ ... ... ... 貴~~氣~~(器)  ~~値~~(值)錢
 - **Vapour** Khì ... ... ... 氣
 - **Vegetarian** Chiáh-che ... ... ... 食齋
 - **Ventilate** Thong-huang ... ... ... 通風
@@ -5728,71 +5728,71 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Voice** Siaⁿ ... ... ... 聲
 - **Volcano** Húe-suaⁿ ... ... ... 火山
 - **Vomit** Thòu ... ... ... 吐
-- **Vow, to** Hẽ; hẽ-nguãn ... ... ... 許　許願
+- **Vow, to** Hẽ; hẽ-nguãn ... ... ... ~~下~~(許)  ~~下~~(許)願
 - **Wade, to** Ẽ-tsúi ... ... ... 下水
 - **Wages** Kang-chîⁿ ... ... ... 工錢
 - **Waist** Ie ... ... ... 腰
-- **Wait** Tán; thẽng; thāi ... ... ... ~~候~~(等)  停  待
+- **Wait** Tán; thẽng; thāi ... ... ... ++等++  停  待
 - **Wander** Chiu-liû ... ... ... 週流
-- **Want, lack** Khueh; khiàm ... ... ... 缺　欠
-- **War** Sie-thâi; kau-chièn ... ... ... 相~~殺~~(刣)　交戰
+- **Want, lack** Khueh; khiàm ... ... ... 缺  欠
+- **War** Sie-thâi; kau-chièn ... ... ... 相刣  交戰
 - **Warm** Sie ... ... ... ~~溫~~(燒)
 - **„ of weather** Zuáh ... ... ... 熱
-- **„ of weather, mild** Chhiẽⁿ-sie ... ... ... Chhiẽⁿ燒
-- **Warn** Khǹg-kòi; tàⁿ-tsai ... ... ... 勸戒　呾知
-- **Waste, to** Tak-nn̄g ... ... ... 荒喪
-- **Watch, to** Chiéⁿ ... ... ... 掌
-- **Water, to** Ak; ak-tsúi ... ... ... 沃　沃水
-- **Watery** Chhieh-chhieh ... ... ... 淖淖
-- **Wave, to, as a flag** Ít ... ... ... 逸
-- **Weak** Khùn; bô-lát ... ... ... 困　無力
-- **„ in power, influence** Phúh ... ... ... 弱
-- **Wean** Keh-nĩⁿ ... ... ... 隔奶
+- **„ of weather, mild** Chhiẽⁿ-sie ... ... ... ~~小暑~~
+- **Warn** Khǹg-kòi; tàⁿ-tsai ... ... ... 勸戒  呾知
+- **Waste, to** Tak-nn̄g ... ... ... ~~花費~~
+- **Watch, to** Chiéⁿ ... ... ... ~~守~~(掌)
+- **Water, to** Ak; ak-tsúi ... ... ... 沃  沃水
+- **Watery** Chhieh-chhieh ... ... ... ++淖淖++
+- **Wave, to, as a flag** Ít ... ... ... ++逸++
+- **Weak** Khùn; bô-lát ... ... ... 困  無力
+- **„ in power, influence** Phúh ... ... ...
+- **Wean** Keh-nĩⁿ ... ... ... 隔~~乳~~(奶)
 - **Weapon** Ke-húe ... ... ... 家伙
 - **Wear, as clothes, shoes** Chhēng ... ... ... 穿
 - **„ as a hat** Tî ... ... ... 戴
 - **„ as a ring** Kùa ... ... ... 掛
-- **Weather** Thiⁿ-sî; thîⁿ ... ... ... 天時　天
-- **Weave** Keⁿ-pòu ... ... ... 經布
+- **Weather** Thiⁿ-sî; thîⁿ ... ... ... 天時  天
+- **Weave** Keⁿ-pòu ... ... ... ~~織~~(經)布
 - **Web, spider's** Ti-tu-si ... ... ... 蜘蛛絲
-- **Wedge** Chiⁿ ... ... ... 錢
+- **Wedge** Chiⁿ ... ... ... ++錢++
 - **Weed, a** Péh-huat kâi-tsháu ... ... ... 白發~~個~~(个)草
-- **Weigh, to** Téng; chhìn ... ... ... ~~頂~~(戥)　秤
+- **Weigh, to** Téng; chhìn ... ... ... ~~頂~~(戥)  ~~稱~~(秤)
 - **„ with balances** Phêng ... ... ... 秤
-- **West** Sai; sai-pôiⁿ ... ... ... 西　西~~邊~~(爿)
+- **West** Sai; sai-pôiⁿ ... ... ... 西  西~~畔~~(爿)
 - **Wet** Tâm ... ... ... ~~濕~~(㴷)
-- **„ thoroughly** Lok-lok ... ... ... 漉漉
-- **„ with rain** Ak-tiéh-hõu ... ... ... 沃着雨
-- **Whatever** Put-lũn; m̃-kuán ... ... ... 不論　~~不~~(毋)管
-- **Wheel** Lín; lìn-chîⁿ ... ... ... 輪　輾錢
+- **„ thoroughly** Lok-lok ... ... ... ~~濕濕~~(漉漉)
+- **„ with rain** Ak-tiéh-hõu ... ... ... ~~逢雨~~(沃着雨)
+- **Whatever** Put-lũn; m̃-kuán ... ... ... 不論  ~~不~~(毋)管
+- **Wheel** Lín; lìn-chîⁿ ... ... ... ~~輦~~(輪)  ~~輦錢~~(輾錢)
 - **Whip, a** Bé-piⁿ ... ... ... 馬鞭
-- **„ to** Pũaⁿ ... ... ... 拂
-- **Whisper, to** Síh-súh; àm-chẽⁿ-tàⁿ ... ... ... 窸窣  暗靜呾
-- **Whistle, with the mouth** Pûn-hi-hû ... ... ... ~~呠~~(歕)唏噓
+- **„ to** Pũaⁿ ... ... ... ++拂++
+- **Whisper, to** Síh-súh; àm-chẽⁿ-tàⁿ ... ... ... ++窸窣++  暗靜呾
+- **Whistle, with the mouth** Pûn-hi-hû ... ... ... ++歕唏噓++
 - **„ a** Pi ... ... ... ~~陂~~(嗶)
 - **White, of an egg** Nñg-chheng ... ... ... 卵清
-- **Whitewash, to** Sàu-hue-tsúi; sueh-hue-tsúi ... ... ... 掃灰水　刷灰水
-- **Wicked** Ak; phái ... ... ... 惡　~~敗~~(痞)
-- **Wide** Khuah ... ... ... 闊
-- **Widow** Síu-kúa; kúa-hũ ... ... ... 守寡　寡婦
-- **Wife** Chhi; bóu ... ... ... 妻  𡚸
+- **Whitewash, to** Sàu-hue-tsúi; sueh-hue-tsúi ... ... ... 掃灰水  刷灰水
+- **Wicked** Ak; phái ... ... ... 惡  ~~歹~~(痞)
+- **Wide** Khuah ... ... ... ~~濶~~(闊)
+- **Widow** Síu-kúa; kúa-hũ ... ... ... 守寡  寡婦
+- **Wife** Chhi; bóu ... ... ... 妻  ++𡚸++
 - **Wild, pertaining to the forest** Suaⁿ ... ... ... 山
-- **Willing** Nguãn; kam-ngũan; hàuⁿ; kam ... ... ... 愿　甘愿　好　甘
+- **Willing** Nguãn; kam-ngũan; hàuⁿ; kam ... ... ... 愿  甘愿  好  甘
 - **Wind, as a clock** Ká ... ... ... 絞
 - **Wing** Sít ... ... ... ~~翅~~(翼)
 - **Wink** Nih-mák ... ... ... 攝目
 - **Winnow** Pùa ... ... ... 簸
 - **Wipe, to, with dry cloth** Chhit ... ... ... 拭
-- **„ to, with wet cloth** Zṳ̂ ... ... ... 濡
+- **„ to, with wet cloth** Zṳ̂ ... ... ... ++濡++
 - **Wise** Gáu ... ... ... 賢
-- **Withdraw** Thò; thò-khui ... ... ... 退　退開
-- **Witness, a** Chèng; kan-chèng ... ... ... 證　干証
+- **Withdraw** Thò; thò-khui ... ... ... 退  退開
+- **Witness, a** Chèng; kan-chèng ... ... ... 證  干~~証~~(證)
 - **Womb** Tho ... ... ... 胎
 - **Wonderful** Khî-khá ... ... ... 奇巧
-- **Work** Kang; khang-khùe ... ... ... 工　工課
-- **„ to** Tsho; tsoh-khang-khùe; tsò-kang ... ... ... 作　作工課　做工
-- **World** Sì-kan; thiⁿ-ẽ ... ... ... 世間　天下
-- **„ all the** Phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ ... ... ... 普天下　普天~~脚~~(骹)下
+- **Work** Kang; khang-khùe ... ... ... 工  ~~工夫~~(工課)
+- **„ to** Tsho; tsoh-khang-khùe; tsò-kang ... ... ... 作  作~~工夫~~(工課)  做工
+- **World** Sì-kan; thiⁿ-ẽ ... ... ... 世間  天下
+- **„ all the** Phóu-thiⁿ-ẽ; phóu-thiⁿ-kha-ẽ ... ... ... 普天下  普天~~脚~~(骹)下
 - **Worse** Zú-m̃-móⁿ ... ... ... 愈~~不好~~(毋孬)
 - **Worship, to** Pài ... ... ... 拜
 - **Worth** Tát ... ... ... ~~値~~(值)
@@ -5800,20 +5800,20 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Wound, a** Sieⁿ-kháu ... ... ... 傷口
 - **Wounded** Sieⁿ--tiéh ... ... ... 傷着
 - **Wrap, to** Pau ... ... ... 包
-- **Wrench** Tsũn-tiòu ... ... ... 捘~~丢~~(掉)
+- **Wrench** Tsũn-tiòu ... ... ... ~~撰丢~~(捘掉)
 - **Wrist, of the hand** Chhiú-uán ... ... ... 手腕
-- **Write** Siá; siá-jī ... ... ... 寫　寫字
-- **Wrong** Tāⁿ; m̃-tiéh; tshò ... ... ... 錯　~~不~~(毋)着  錯
-- **Yawn, to** Huah-hì ... ... ... 呵呬
+- **Write** Siá; siá-jī ... ... ... 寫  寫字
+- **Wrong** Tāⁿ; m̃-tiéh; tshò ... ... ... ~~錯~~(賺)  ~~不~~(毋)着  ++錯++
+- **Yawn, to** Huah-hì ... ... ... ~~呵欠~~(呵呬)
 - **Year, a** Nîⁿ ... ... ... 年
 - **„ of age** Hùe ... ... ... 歲
-- **Yeast** Kàⁿ; kàⁿ-bó; chiú-piáⁿ ... ... ... 酵　酵母　酒餅
+- **Yeast** Kàⁿ; kàⁿ-bó; chiú-piáⁿ ... ... ... 酵  酵母  酒餅
 - **Yellow** N̂g ... ... ... 黃
-- **Yoke, a** Gû-taⁿ-uan ... ... ... 牛擔彎
+- **Yoke, a** Gû-taⁿ-uan ... ... ... 牛擔~~灣~~(彎)
 - **Yolk, of an egg** Nñg-jîn ... ... ... 卵仁
-- **Young, of plants** Chíⁿ ... ... ... 稚
-- **„ of man** Hãu-seⁿ; siòu-nîⁿ ... ... ... 後生 少年
-- **Zigzag** Uan-lâi uan-khṳ̀; in-uan khit-khek ... ... ... 彎來彎去  迂彎屈曲
+- **Young, of plants** Chíⁿ ... ... ... ~~幼~~(稚)
+- **„ of man** Hãu-seⁿ; siòu-nîⁿ ... ... ... ++後生++ 少年
+- **Zigzag** Uan-lâi uan-khṳ̀; in-uan khit-khek ... ... ... ~~灣~~(彎)來~~灣~~(彎)去  ++迂彎屈曲++
 
 ---
 
