@@ -152,7 +152,7 @@ Singapore, February, 1886.
 
 - **我** Uá ... ... ... I.
 - **阮** Ún ... ... ... We (not including the person addressed.)
-- **~~咱~~(俺)** Nán ... ... ... We (including the person addressed.)
+- **咱** Nán ... ... ... We (including the person addressed.)
 - **~~爾~~(汝)** Lṳ́ ... ... ... You (singular.)
 - **恁** Nín ... ... ... You (plural.)
 - **伊** I ... ... ... He, she, it, him, her.
@@ -171,7 +171,7 @@ Singapore, February, 1886.
 - **恁來** Nín lâi ... ... ... You (plural) come.
 - **伊~~不~~(毋)來** I m̃-lâi ... ... ... He won't come.
 - **伊~~要~~(愛)去** I àiⁿ-khṳ̀ ... ... ... He wants to go.
-- **~~咱~~(俺)來去** Nán lâi-khṳ̀ ... ... ... Let us go.
+- **咱來去** Nán lâi-khṳ̀ ... ... ... Let us go.
 - **我~~不~~(毋)去** Uá m̃-khṳ̀ ... ... ... I am not going.
 - **~~不~~(毋)是~~爾~~(汝)** M̃-sĩ lṳ́ ... ... ... Not you.
 - **是伊** Sĩ i ... ... ... It is he.
@@ -300,7 +300,7 @@ Singapore, February, 1886.
 - **Chase** Jiōu ... ... ... 追
 - **Cheat** Phièn ... ... ... 騙
 - **Choose** Suán; tóh ... ... ... 選  擇
-- **Clean** Muéh-chheng-khih ... ... ... ~~修清潔~~(物清潔)
+- **Clean** Muéh-chheng-khih ... ... ... ~~修~~(物)清潔
 - **Cook** Tsṳ́; pû ... ... ... 煮  烳
 - **Correct** Kói ... ... ... ~~攺~~(改)
 - **Count** Sǹg ... ... ... 算
@@ -347,7 +347,7 @@ Singapore, February, 1886.
 - **Leave, (service.)** Hiah ... ... ... 歇
 - **Lend** Chieh ... ... ... 借
 - **Let, (a house.)** Sùe ... ... ... 稅
-- **Lie, (to tell an untruth.)** Hue-niouⁿ ... ... ... 巧語
+- **Lie, (to tell an untruth.)** Hue-niouⁿ ... ... ... ~~巧語~~()
 - **Lie down** Tó ... ... ... ++倒++
 - **Light, (lamps.)** Tiám ... ... ... ~~㸃~~(點)
 - **Live, (reside.)** Khiã-khí; tiū ... ... ... ~~居住~~(徛起)  ++住++
@@ -400,10 +400,10 @@ Singapore, February, 1886.
 - **Take** Khiéh ... ... ... ~~携~~(挈)
 - **Teach** Kà ... ... ... 教
 - **Tell** Tàⁿ ... ... ... 呾
-- **Tease, (annoy.)** Pa-lói; tṳ̂ ... ... ... ~~擾亂~~(巴禮)  除
+- **Tease, (annoy.)** Pa-lói; tṳ̂ ... ... ... ~~擾亂~~()  除
 - **Think** Siẽⁿ ... ... ... 想
 - **Throw, (as stones.)** Kák ... ... ... 丢
-- **Throw away** Kák-tiòu; sek-tiòu ... ... ... ~~拋丢~~(捔掉) ~~擲丢~~
+- **Throw away** Kák-tiòu; sek-tiòu ... ... ... ~~拋丢~~(捔掉) ~~擲丢~~()
 - **Tie** Pák ... ... ... 縛
 - **Understand** Hióu; mêng-péh ... ... ... 曉  明白
 - **Undo, Untie** Tháu ... ... ... ~~解~~(㪗)
@@ -500,7 +500,7 @@ Singapore, February, 1886.
 - **此我~~不~~(毋)曉~~如何~~(怎呢)~~作~~(物)** Chiá uá m̃-hióu tsò-nîⁿ muéh ... ... ... I don't understand how to do this.
 - **請~~爾~~(汝)~~與~~(佮)我呾** Chhiáⁿ lṳ́ kah uá tàⁿ ... ... ... Please tell me.
 - **來去~~遊玩~~(佚佗)** Lâi-khṳ̀ thit-thô ... ... ... Come let us go out to amuse ourselves.
-- **~~咱~~(俺)勿~~由~~(對)~~彼處~~(彼)過** Nán màiⁿ tùi-hié kùe ... ... ... Let us not pass by that way.
+- **咱勿~~由~~(對)~~彼處~~(彼)過** Nán màiⁿ tùi-hié kùe ... ... ... Let us not pass by that way.
 - **由此過** Tùi-chié kùe ... ... ... Pass by this way.
 - **彼擇起來** tóh--khí-lâi ... ... ... Pick that up.
 
@@ -587,7 +587,7 @@ Singapore, February, 1886.
 - **Far** Hñg ... ... ... 遠
 - **Fast** Méⁿ; hiông ... ... ... 猛  雄
 - **Fat** Pûi ... ... ... 肥
-- **Filthy** Chhi-gî ... ... ... 生疑
+- **Filthy** Chhi-gî ... ... ... ~~生疑~~()
 - **Fine, (not coarse.)** Iùⁿ ... ... ... 幼
 - **Firm, (steady.)** Ngaíh ... ... ... 堅  ~~不動~~
 - **Flat, (level.)** Pêⁿ ... ... ... 平
@@ -644,7 +644,7 @@ Singapore, February, 1886.
 - **Short** Tó ... ... ... 短
 - **Sick** Pēⁿ ... ... ... 病
 - **Similar** Chhin-chhiẽⁿ ... ... ... 親像
-- **Sleepy** Mák-chiu-siap; mák--siap ... ... ... ~~目睛澀~~(目睭澀)  目澀
+- **Sleepy** Mák-chiu-siap; mák--siap ... ... ... ~~目睛~~(目睭)澀  目澀
 - **Slow** Mān ... ... ... ~~緩~~(慢)
 - **Small** Sòi ... ... ... 細
 - **Smooth** Ku̍t ... ... ... 滑
@@ -758,7 +758,7 @@ Singapore, February, 1886.
 - **有紅有白有藍有~~靑~~(青)有黄** Ũ âng, ũ péh, ũ nâm, ũ chheⁿ, ũ n̂g ... ... ... It has red, white, blue, green and yellow.
 - **還了有** Huân-lióu ũ ... ... ... It has some more.
 - **是雅在** Sĩ ngiá-tsãi ... ... ... It is very beautiful.
-- **~~咱~~(俺)~~所有個~~(所有个)色是從虹~~處~~(塊)來** Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi ... ... ... The colours which we have, come from the rainbow.
+- **咱~~所有個~~(所有个)色是從虹~~處~~(塊)來** Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi ... ... ... The colours which we have, come from the rainbow.
 - **流漲~~或是~~(亞是)涸** Lâu tĩⁿ a-sĩ khó? ... ... ... Is it high tide or ebb tide?
 - **~~流退~~(流涸)** Lâu khó ... ... ... It is ebb tide.
 - **海有湧~~否~~(咩)** Hái ũ éng mē? ... ... ... Are there any waves in the sea?
@@ -784,10 +784,10 @@ Singapore, February, 1886.
 
 - **冰霜是寒在** Piaⁿ-sng sĩ ngân-tsãi ... ... ... Ice is very cold?
 - **雪敢是愈寒** Soh kàⁿ-sĩ zú-ngân ... ... ... Snow is perhaps colder.
-- **~~咱~~(俺)~~此處~~(此塊)罕得有雪** Nán--chié hán--tit ũ soh ... ... ... We seldom have snow at our place here.
+- **咱~~此處~~(此塊)罕得有雪** Nán--chié hán--tit ũ soh ... ... ... We seldom have snow at our place here.
 - **日一出濛~~烟~~(煙)就散** Jít chék-ē tshut mông-in chiũ-sùaⁿ ... ... ... When the sun rises the mist disperses.
 - **樹無露水袂活** Chhiū bô lōu-tsúi bõi-uáh ... ... ... The trees will not grow without dew.
-- **~~好~~(酷)久~~咱~~(俺)~~此處~~(此塊)~~不~~(毋)識有落雹** Hoh-kú nán--chié m̃-pat ũ lóh-phák ... ... ... For a long time we have not had hail here.
+- **~~好~~(酷)久咱~~此處~~(此塊)~~不~~(毋)識有落雹** Hoh-kú nán--chié m̃-pat ũ lóh-phák ... ... ... For a long time we have not had hail here.
 - **冬天~~貧窮人~~(磽囝人)是~~悽~~(淒)慘** Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám ... ... ... In Winter the poor are miserable.
 - **~~富個人~~(富个人)~~則~~(哩)~~穿煖~~(穿燒)** Pù--kâi-nâng li chhēng-sie ... ... ... But the rich are warmly clad.
 - **冬天~~冷~~(凊)在** Tang--thiⁿ chhin-tsãi ... ... ... In Winter it is very cold.
@@ -1016,7 +1016,7 @@ Substantives and Adjectives are not declined: the same word expresses both the s
 
 | Singular               | Plural                              |
 | ---------------------- | ----------------------------------- |
-| **我** (Uá) I.           | **阮。~~咱~~(俺)**(Ún or nán) we.                |
+| **我** (Uá) I.           | **阮。咱**(Ún or nán) we.                |
 | **~~爾~~(汝)**(Lṳ́) thou or you. | **恁**(Nín) ye or you.                 |
 | **伊**(I) he, she, it.   | **因。伊人** (In or i--nâng) they, them. |
 
@@ -1518,20 +1518,20 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **家私** Ke-si ... ... ... Furnitures.
 - **床** Tshn̂g ... ... ... A table.
 - **~~棹~~(桌)** Toh ... ... ... A table.
-- **~~校椅~~(交椅)** Kau-íⁿ ... ... ... A chair.
+- **~~校~~(交)椅** Kau-íⁿ ... ... ... A chair.
 - **琴** Khîm ... ... ... An organ or piano.
 - **~~脚~~(骹)踏椅** Kha-táh-íⁿ ... ... ... A foot-stool.
 - **~~人仔~~(尪囝)** Ang-kiáⁿ ... ... ... Pictures.
 - **燈** Teng ... ... ... A lamp.
 - **花干** Hue-kan ... ... ... A flower vase.
-- **~~奇物~~(奇巧物)** Khî-khá-muéh ... ... ... Curiosities.
-- **~~戲弄物~~(佚佗物)** Thit-thô-muéh ... ... ... Fancy articles.
+- **奇++巧++物** Khî-khá-muéh ... ... ... Curiosities.
+- **~~戲弄~~(佚佗)物** Thit-thô-muéh ... ... ... Fancy articles.
 - **鐵鉗** Thih-khîⁿ ... ... ... Tongs.
 - **鐵匙** Thih-sî ... ... ... A fire shovel.
 - **氈** Chiⁿ ... ... ... A rug, a carpet.
-- **三~~脚~~(骹)~~員床~~(圓床)** Saⁿ-kha îⁿ-tshn̂g ... ... ... A tripod round table.
+- **三~~脚~~(骹)~~員~~(圓)床** Saⁿ-kha îⁿ-tshn̂g ... ... ... A tripod round table.
 - **四方床** Sì-pang tshn̂g ... ... ... A square table.
-- **~~茶𣏌~~(茶几)** Tê-kí ... ... ... A small tea-table.
+- **茶~~𣏌~~(几)** Tê-kí ... ... ... A small tea-table.
 - **床落凍石** Tshn̂g lóh tàng-chiéh ... ... ... Tables with marble-top.
 - **冊架** Chheh-kè ... ... ... A book-stand.
 - **冊櫥** Chheh-tû ... ... ... A book-case.
@@ -1590,7 +1590,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **走馬樓~~個~~(个)簾放落來** Tsáu-bé-lâu kâi liâm pàng--lôh-lâi ... ... ... Let go the blinds of the verandah.
 - **~~爾~~(汝)曉~~撞只~~(撞枳)~~否~~(咩)** Lṳ́ hióu thn̄g-chí mē? ... ... ... Can you play billiards?
 - **曉也。~~爾~~(汝)~~要~~(愛)~~共~~(佮)我輸贏** Hióu a, lṳ́ àiⁿ kah uá su-iâⁿ? ... ... ... Yes, do you wish to have a match with me?
-- **~~咱~~(俺)來撞~~喜耍~~(佚佗)就好** Nán lâi thn̄g thit-thô chiũ-hó ... ... ... Let us simply play (a game) for pleasure.
+- **咱來撞~~喜耍~~(佚佗)就好** Nán lâi thn̄g thit-thô chiũ-hó ... ... ... Let us simply play (a game) for pleasure.
 - **~~免~~(免)用相輸。我~~不上~~(毋尚)~~賭賻~~(跋錢)** Mín-ēng sie-su, uá m̃-siãng puáh-chîⁿ ... ... ... We needn't have a match, as I don't like to gamble.
 - **~~賭賻~~(跋錢)是~~不好~~(毋孬)事** Puáh-chîⁿ sĩ m̃-móⁿ sṳ̄ ... ... ... Gambling is a bad thing.
 
@@ -1990,10 +1990,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 ---
 
 
-- **~~咱~~(俺)~~明天~~(明旦起)~~要~~(愛)出門。食有夠~~或無~~(亞無)** Nán màⁿ-khí àiⁿ tshut-mn̂g, chiáh ũ-kàu a bô? ... ... ... ~~To-morrow~~(Tomorrow), we are going out, have we got enough provisions?
+- **咱~~明天~~(明旦起)~~要~~(愛)出門。食有夠~~或無~~(亞無)** Nán màⁿ-khí àiⁿ tshut-mn̂g, chiáh ũ-kàu a bô? ... ... ... ~~To-morrow~~(Tomorrow), we are going out, have we got enough provisions?
 - **着預~~足~~(夠)** Tiéh ṳ̃-kàu ... ... ... You must prepare enough.
 - **勿~~不足~~(毋夠)。了在路就無食** Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh ... ... ... For if there is not enough, then we shall get no food on the way.
-- **今~~咱~~(俺)有~~何個~~(底個)** Taⁿ nán ũ tî-kâi? ... ... ... Now, what have we got?
+- **今咱有~~何個~~(底個)** Taⁿ nán ũ tî-kâi? ... ... ... Now, what have we got?
 - **~~麫~~(麵)包有三個。~~牛乳~~(牛奶)油有~~壹~~(一)盒** Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp ... ... ... We have three loaves of bread, and one tin of butter.
 - **若是~~不足~~(毋夠)~~壹~~(一)路好買** Nāⁿ-sĩ m̃-kàu chék-lōu hó-bói ... ... ... If we haven't got enough, we can buy on the way.
 - **~~呌~~(叫)伙頭來** Kiè húe-thâu lâi ... ... ... Call the cook here.
@@ -2766,7 +2766,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Bank, a** Ngṳ̂n-hâng ... ... ... 銀行
 - **Banknote, a** Tsúa-jī ... ... ... 紙字
 - **Bankrupt** Tó-tièⁿ ... ... ... 倒賬
-- **Bargain, to make a** Kè-chîⁿ tàⁿ-tiāⁿ-tiéh ... ... ... 價錢~~呾~~(言)定着
+- **Bargain, to make a** Kè-chîⁿ tàⁿ-tiāⁿ-tiéh ... ... ... 價錢~~言~~(呾)定着
 - **Borrow, to** Chieh ... ... ... 借
 - **Capital** Pńg-chîⁿ ... ... ... 本錢
 - **Cash** Chîⁿ ... ... ... 錢
@@ -3085,7 +3085,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Just** Kong-tãu ... ... ... 公道
 - **Unjust** M̃-kong-tãu ... ... ... ~~不~~(毋)公道
 - **Truth, speak the** Sít-uē tàⁿ ... ... ... 實話呾
-- **Lie, to** Hue-niouⁿ ... ... ... 巧語
+- **Lie, to** Hue-niouⁿ ... ... ... ~~巧語~~()
 - **Swear, to** Chiù-tsūa ... ... ... ~~發誓~~(咒誓)
 - **Plead guilty** Jīn-tsũe; jīn-tshò ... ... ... 認罪  認錯
 - **According to law** Chiè-lút ... ... ... 照律
@@ -3297,7 +3297,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Daughter's son** Gūa-sun ... ... ... 外孫
 - **Daughter's daughter** Gūa-tsáu-sun ... ... ... 外女孫
 - **Husband** Ang; jî-sài; chiãng-hu ... ... ... 翁  兒婿  丈夫
-- **Wife** Bóu; chhi; lãu-phûa ... ... ... 𡚸  妻  老婆
+- **Wife** Bóu; chhi; lãu-phûa ... ... ... 婦  妻  老婆
 - **Husband's father-in-law** Tiẽⁿ-nâng; ngák-pẽ ... ... ... 丈人  岳父
 - **Husband's mother-in-law** Tiẽⁿ-ḿ-phûa; ngák-bó ... ... ... 丈姆婆  岳母
 - **Wife's father-in-law** Ta-kuaⁿ ... ... ... 大官
@@ -3326,7 +3326,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Betroth, to** Tsò ... ... ... 做
 - **Betrothed money** Phiàⁿ-kim ... ... ... 聘金
 - **Middle-man, a** Bûe-nâng ... ... ... 媒人
-- **Marry, a wife** Tshūa-bóu ... ... ... 娶~~妻~~(𡚸)
+- **Marry, a wife** Tshūa-bóu ... ... ... 娶~~妻~~(婦)
 - **Marry, a husband** Kè ... ... ... 嫁
 - **Widow, a** Siú-kúa ... ... ... 守寡
 
@@ -3336,7 +3336,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ### Lesson XXVI. a list of animals and birds.
 
-- **Lion** Sai ... ... ... 獅
+- **Lion** Sai ... ... ... 獅   
 - **Tiger** Hóuⁿ; lãu-hóuⁿ ... ... ... 虎  老虎
 - **Elephant** Chhiẽⁿ ... ... ... 象
 - **Rhinoceros** Sai-gû ... ... ... 犀牛
@@ -3707,7 +3707,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Alas!** Āi--ā! ... ... ... 哀~~哉~~(啊)
 - **Allow** Tsún; hàuⁿ; khéng; iòng ... ... ... 準  好  肯  容
 - **Almanac** Láh-jít ... ... ... 曆日
-- **Almost** Tsha-m̃-to; tsha-put-to; hiám-hiám; lím-lím ... ... ... ++差毋多++  差不多  險險  凜凜
+- **Almost** Tsha-m̃-to; tsha-put-to; hiám-hiám; lím-lím ... ... ... ++差毋多++  差不多  險險  ~~凜凜~~()
 - **Alms, to give** Si; chì-phîn ... ... ... 施  濟貧
 - **Alms, to give, rice** Si-bí ... ... ... 施米
 - **Alone** Tuaⁿ-nâng; ka-kī ... ... ... 單人  ~~自己~~(家己)
@@ -3728,7 +3728,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Animal** Khîm-siù ... ... ... 禽獸
 - **Animal domestic** Cheng-seⁿ ... ... ... ~~種生~~(眾牲)
 - **Annex** Chiap; tùe ... ... ... 接  ~~連~~(綴)
-- **Annoy** Pa-lói; tṳ̂ ... ... ... ~~狡擾~~(巴禮)  ++++
+- **Annoy** Pa-lói; tṳ̂ ... ... ... ~~狡擾~~()
 - **Anxiety** Khùa-lṳ̃ ... ... ... 掛慮
 - **Appearance** Iēⁿ ... ... ... 樣
 - **Appetite** Õi-chiáh ... ... ... 會食
@@ -3751,14 +3751,14 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Asylum, for lepers** Thái-ko-liôu ... ... ... 癩++瘑++寮
 - **Atone** Sók-tsũe ... ... ... 贖罪
 - **Attend, upon somebody** Teng-tùe ... ... ... ~~相隨~~(盯綴)
-- **Attend, on sick person** Khâng-khiâ ... ... ... 捧擎
+- **Attend, on sick person** Khâng-khiâ ... ... ... ~~服事~~()
 - **Attendants** Kṳn-sûi; teng-tùe--kâi-nâng ... ... ... 跟隨  ~~相隨~~(盯綴)~~個~~(个)人
 - **Attentive** Tsuan-sim; kṳ́n-sim ... ... ... 專心  謹心
 - **Author** Tsò-tsṳ; tù-tsṳ ... ... ... ++做書++  著書
 - **Authority, discretion** Khuân ... ... ... 權
 - **Awake** Chhéⁿ; chhéⁿ--khí-lâi ... ... ... 醒  醒起來
 - **Awhile** Khùn-kiáⁿ ... ... ... ~~霎時~~(頃囝)
-- **Bachelor** Bô-bóu ... ... ... 無~~妻~~(𡚸)
+- **Bachelor** Bô-bóu ... ... ... 無~~妻~~(婦)
 - **Backbone** Ie-kut; ie-chiah-kut ... ... ... 腰骨  腰++脊++骨
 - **Bad** Ak; phái; m̃-móⁿ ... ... ... 惡  ++痞++  ~~不好~~(毋孬)
 - **Bag** Tō; pòu-tō ... ... ... 袋  布袋
@@ -3877,7 +3877,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ on …… ship** Tõ-tsûn ... ... ... 在船
 - **„ go on …… ship** Lóh-tsûn ... ... ... 落船
 - **„ the six** Lák-põu ... ... ... ~~陸~~(六)部
-- **Boast** La-kè; tàⁿ-tūa-uē ... ... ... ~~自誇~~()  ~~講~~(呾)大話
+- **Boast** La-kè; tàⁿ-tūa-uē ... ... ... ~~自誇~~  ~~講~~(呾)大話
 - **Boatman** Kiâⁿ-tsûn-nâng ... ... ... 行船人
 - **Bolt, of door** Mn̂g-tshùaⁿ; mn̂g-chhēng ... ... ... 門~~拴~~(閂)  門~~閂~~(拴)
 - **„ a door** Tshùaⁿ-mn̂g ... ... ... ~~拴~~(閂)門
@@ -3934,7 +3934,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Bridle** Bé-soh ... ... ... 馬索
 - **Bright** Kng ... ... ... 光
 - **„ very** Tãng-tãng-kng ... ... ... ~~光光~~(重重光)
-- **Bring** Khiéh--lâi; tsah--lâi; tūa ... ... ... ~~携~~(挈)來  帶來  ++帶++
+- **Bring** Khiéh--lâi; tsah--lâi; tūa ... ... ... ~~携~~(挈)來  ~~帶來~~  ++帶++
 - **Brisk, as trade** Jiét; lãu-jiét ... ... ... 熱  鬧熱
 - **Brittle** Sou ... ... ... 酥
 - **Broad** Khuah; khùaⁿ ... ... ... 闊  寛
@@ -3943,7 +3943,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Broker** Phah-khang ... ... ... ~~打~~(拍)空
 - **Brook** Kheⁿ; suaⁿ-kheⁿ ... ... ... 坑  山坑
 - **Broom** Sàu-siú ... ... ... 掃~~箒~~(帚)
-- **Brothel** Sau-kuán; tsa-bóu-kuán ... ... ... ~~娼館~~(騷館)  ~~女~~(諸𡚸)館
+- **Brothel** Sau-kuán; tsa-bóu-kuán ... ... ... ~~娼館~~(騷館)  ~~女~~(諸婦)館
 - **Brothers** Hiaⁿ-tĩ; hiaⁿ-tĩ-kiáⁿ ... ... ... 兄弟  兄弟~~子~~(囝)
 - **Brown** Tsang-sek ... ... ... 棕色
 - **Bruise.** Sieⁿ--tiéh ... ... ... 傷着
@@ -4141,7 +4141,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Coast** Haí-kîⁿ ... ... ... 海墘
 - **Coat** Saⁿ ... ... ... 衫
 - **„ for Winter** Hiûⁿ ... ... ... 裘
-- **Coax** Koh-lô ... ... ... 懇~~⿰忄靑~~(情)
+- **Coax** Koh-lô ... ... ... ~~懇⿰忄靑~~()
 - **Cobbler** Póu-ôi ... ... ... 補鞋
 - **Cobweb** Ti-tu-si ... ... ... 蜘蛛絲
 - **Cock** Koi-ang ... ... ... ~~鷄~~(雞)翁
@@ -4420,7 +4420,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Earn** Thó-thàn; thàn ... ... ... 討~~趨~~(趁)  ~~趨~~(趁)
 - **Earnestly** Chhiet-chhiet ... ... ... 切切
 - **East** Tang; tang-pôiⁿ ... ... ... 東  東~~邊~~(爿)
-- **Echo** Tõu-kiàng-kúi ... ... ... ~~杜應鬼~~
+- **Echo** Tõu-kiàng-kúi ... ... ... ~~杜應鬼~~()
 - **Economy** Khiãm ... ... ... 儉
 - **Edge** Piⁿ; kîⁿ ... ... ... 邊  墘
 - **Educated** Thák-tūa-tsṳ; thák-chhim-tsṳ ... ... ... 讀大書  讀深書
@@ -4514,7 +4514,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Feel** Chhì ... ... ... 莿
 - **„ by touch** Mông ... ... ... 摸
 - **Felt** Chiⁿ ... ... ... 氈
-- **Female, of human beings** Tsṳ-nîeⁿ; tsa-bóu ... ... ... ~~姿娘~~(諸娘)  ~~姐畝~~(諸𡚸)
+- **Female, of human beings** Tsṳ-nîeⁿ; tsa-bóu ... ... ... ~~姿娘~~(諸娘)  ~~姐畝~~(諸婦)
 - **„ of animals** Bó ... ... ... 母
 - **Fence** Lî; hn̂g-lî ... ... ... 籬  園籬
 - **Ferocious** Iá ... ... ... ~~强~~(野)
@@ -4682,7 +4682,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Individually** Kak-nâng ... ... ... 各人
 - **Induce, away** Kiou-tsáu; tshūa-tsáu ... ... ... 邀走  娶走
 - **Infant** Sòi-kíaⁿ; nôuⁿ-kiáⁿ; a-nôuⁿ ... ... ... ~~小仔~~(細囝)  ~~奴仔~~(孥囝)  ~~阿奴~~(阿孥)
-- **Inferior, of comparison** Su; kẽ-tsng; kẽ-pín ... ... ... 輸  低~~庄~~(莊)  下品
+- **Inferior, of comparison** Su; kẽ-tsng; kẽ-pín ... ... ... 輸  ~~低庄~~(下莊)  下品
 - **Influence** Sì-thâu ... ... ... 勢頭
 - **Influential** Chhiòu; ũ-sì-thâu ... ... ... 有權勢
 - **Inform** Pò-tsai ... ... ... 報知
@@ -4750,7 +4750,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Lane** Hāng; hāng-kiáⁿ ... ... ... 巷  巷~~仔~~(囝)
 - **Language** Uē ... ... ... 話
 - **Lash, to** Pũaⁿ ... ... ... ++拂++
-- **Last** Búe-búe; kióu-búe; tõiⁿ-búe ... ... ... 尾尾  ++++  第尾
+- **Last** Búe-búe; kióu-búe; tõiⁿ-búe ... ... ... 尾尾  ++繳尾++  第尾
 - **„ to** Nãiⁿ ... ... ... 耐
 - **Latchet** Ôi-tùa ... ... ... 鞋帶
 - **Lately** Chí-kṳ̃n-jít; chí-kṳ̃n-sî ... ... ... 此近日  此近時
@@ -4806,7 +4806,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Manner** Khuán ... ... ... ~~欸~~(款)
 - **Manure** Pûi; pùn ... ... ... 肥  糞
 - **Mark** Hō; hō-thâu ... ... ... 號  號頭
-- **Marry, of man** Tshūa; tshūa-bóu; tshūa-chhin ... ... ... ++娶++  娶~~妻~~(𡚸)  ++娶親++
+- **Marry, of man** Tshūa; tshūa-bóu; tshūa-chhin ... ... ... ++娶++  娶~~妻~~(婦)  ++娶親++
 - **„ of woman** Kè; tshut-mn̂g ... ... ... 嫁  出門
 - **Mason** Tsoh-hue-kang ... ... ... 作灰工
 - **Master, of a house** Ke-tsú ... ... ... 家主
@@ -4959,10 +4959,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Persist** Ngẽ-àiⁿ ... ... ... 硬~~要~~(愛)
 - **Perspiration** Kūaⁿ ... ... ... 汗
 - **Perspire** Lâu-kūaⁿ ... ... ... 流汗
-- **Persuade** Koh-lô ... ... ... 告勞
+- **Persuade** Koh-lô ... ... ... ~~告勞~~()
 - **Petticoat** Kûn ... ... ... 裙
 - **Photograph** Sióu-iáⁿ ... ... ... 小影
-- **„ to take** Hoh-sióu-iáⁿ; hò-sióu-iáⁿ ... ... ... 翕小影  耗小影
+- **„ to take** Hoh-sióu-iáⁿ; hò-sióu-iáⁿ ... ... ... 翕小影  ~~耗小影~~()
 - **Physician** Ui-seng; sin-seⁿ ... ... ... 醫生  先生
 - **Pick, up** Tóh ... ... ... 擇
 - **Pierce** Tshǹg ... ... ... 刺
@@ -5098,13 +5098,13 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Religion** Kà ... ... ... 教
 - **Rely** Tit-pn̄g ... ... ... 得飯
 - **Remain** Tshûn; sīn ... ... ... 存  ++剩++
-- **„ stay** Nāⁿ ... ... ...
+- **„ stay** Nāⁿ ... ... ... ++++
 - **Remarkable** kú-kuài; khî-khá ... ... ... 古怪  奇巧
 - **Remember** Kì-tit; it-tit; kì-liãm ... ... ... 記得  憶得 記念
 - **Remove, residence** Puaⁿ ... ... ... 搬
 - **„ a thing** Súa ... ... ... 徙
 - **Rend** Lì ... ... ... 裂
-- **Repair** Chiáⁿ-lí; siu-síp; pa-lói-hó ... ... ... 整理  收拾
+- **Repair** Chiáⁿ-lí; siu-síp; pa-lói-hó ... ... ... 整理  收拾  ++++
 - **Repeat, as lesson** Liām ... ... ... 念
 - **Repent** Kói-pìⁿ ... ... ... ~~攺~~(改)變
 - **Reply, written** Hûe-phoi; hûe-sìn ... ... ... 回批  回信
@@ -5212,7 +5212,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Scholar** Hák-seng ... ... ... 學生
 - **School** Tsṳ-che ... ... ... 書齋
 - **Scold** Mēⁿ ... ... ... 罵
-- **Scoop, with one hand** Meⁿ; nák ... ... ...
+- **Scoop, with one hand** Meⁿ; nák ... ... ... ++++  ++++
 - **„ with two hands** Phóng ... ... ... ++捧++
 - **Scorpion** Hiet-kiáⁿ ... ... ... 蝎~~仔~~(囝)
 - **Scoundrel** Láu-kiáⁿ ... ... ... ~~老仔~~(漏囝)
@@ -5274,7 +5274,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Shift** Súa ... ... ... 徙
 - **Shin** Kha-liâm ... ... ... ~~脚廉~~(骹臁)
 - **Shine** Chiè ... ... ... 照
-- **Shiver** Khiū; tòng ... ... ... 震  凍
+- **Shiver** Khiū; tòng ... ... ... ~~震~~()  凍
 - **Shoot, with gun** Phah; tūaⁿ ... ... ... ~~打~~(拍)  ++彈++
 - **Shop** Phòu; tiàm ... ... ... 舖  店
 - **Shore** Hái-kîⁿ ... ... ... 海墘
@@ -5423,9 +5423,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ accounts** Ap-siòu ... ... ... 押數
 - **Squash, to** Teh--tiéh ... ... ... 壓着
 - **Squat, on the heels** Tshn̂g; khû ... ... ... 蹲
-- **Squeeze, with the hand** Tẽⁿ ... ... ...
+- **Squeeze, with the hand** Tẽⁿ ... ... ... ++++
 - **„ to press closely** Koíh ... ... ... 夾
-- **„ money** Tsũn-chiáh ... ... ... 撰食
+- **„ money** Tsũn-chiáh ... ... ... ~~撰食~~()
 - **Stab** Tshǹg ... ... ... 刺
 - **Stable** Bé-pâng ... ... ... 馬房
 - **Stage, for plays** Hì-pêⁿ ... ... ... 戲棚
@@ -5440,7 +5440,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Starve** Gō ... ... ... 餓
 - **Statesman** Chhîn; tãi-chhîn ... ... ... 臣  大臣
 - **Statue** Sièⁿ ... ... ... 像
-- **Stay** Nāⁿ ... ... ...
+- **Stay** Nāⁿ ... ... ... ++++
 - **Steady** Ngaíh ... ... ... 堅
 - **Steal** Thau-khiéh ... ... ... ~~盜取~~(偷挈)
 - **Steep** Kiā ... ... ... 崎
@@ -5466,7 +5466,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Stow, as cargo** Thíap ... ... ... 叠
 - **Straight** Tít ... ... ... 直
 - **Straightforward** Chiàⁿ-tít; tong-tít; kuaⁿ-chiàⁿ ... ... ... 正直  忠直  官正
-- ** , a rope** Túi-ân ... ... ...
+- **Strain , a rope** Túi-ân ... ... ... ~~挽緊~~()
 - **„ to filter** Tè ... ... ... ~~隔渣~~(笮)
 - **Strand, of rope** Kóu ... ... ... ~~一扭~~(股)
 - **Strange** Khî; kú-kuài ... ... ... 奇  古怪
@@ -5495,7 +5495,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Study, to** Hák-síp ... ... ... 學習
 - **Stumble, as over a rope** Kûe--tiéh ... ... ... ++絆着++
 - **„ as over a stone** Pu--tiéh; that--tiéh ... ... ... ~~撻~~(踢)着
-- **Stun, as noise** Tsak; tsak--tiéh ... ... ...
+- **Stun, as noise** Tsak; tsak--tiéh ... ... ... ~~喧嚷着~~(聒)  ++聒着++
 - **Stupid** Ngà; tshâ-kòng ... ... ... 㦙  柴~~貢~~(戅)
 - **Sty, for pigs** Tṳ liôu; tṳ-lô ... ... ... 豬尞  豬牢
 - **Subject, of ruler** Peh-sèⁿ; mîn--ke ... ... ... 百姓  民家
@@ -5508,7 +5508,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Suburbs** Siâⁿ-gūa ... ... ... 城外
 - **Succeed** Tit-ì ... ... ... 得意
 - **Successive** Sie-sùa ... ... ... 相~~接~~(紲)
-- **Suck** Kuh ... ... ...
+- **Suck** Kuh ... ... ... ++++
 - **„ with the mouth, with noise** Tsuh ... ... ... 哺
 - **Suddenly** Huh--chē-kiè; hó-sĩ-sĩ ... ... ... ~~忽然間~~(忽一下叫)  好是是
 - **Suffer** Siũ-khóu ... ... ... 受苦
@@ -5529,7 +5529,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ to, as a wall** Tú ... ... ... 砥
 - **„ to hold up** Hû; tshah ... ... ... 扶  插
 - **Suppose** Siẽⁿ ... ... ... 想
-- **„ erroneously** Sah-tsò; pān-tsò ... ... ... ~~約做~~
+- **„ erroneously** Sah-tsò; pān-tsò ... ... ... ~~約做~~()  ++++
 - **Supposing** Khó-pí; pí-zũ ... ... ... 可比  ~~譬如~~(比喻)
 - **Suppurate** Pũ-lâng ... ... ... ~~生膿~~(胕膿)
 - **Sure** Tiāⁿ-tiéh ... ... ... 定着
@@ -5543,7 +5543,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Suspect** Gi ... ... ... 疑
 - **Swallow** Ìⁿ-chióu ... ... ... 燕鳥
 - **„ to** Thun; thun--lóh-khṳ̀ ... ... ... 吞  吞落去
-- **„ with effort** Kṳ̃--lóh-khṳ̀ ... ... ...
+- **„ with effort** Kṳ̃--lóh-khṳ̀ ... ... ... ++++
 - **Swear** Chìu-tsūa ... ... ... ~~發誓~~(咒誓)
 - **Sweep** Sàu ... ... ... 掃
 - **Sweet** Tiám ... ... ... 甜
@@ -5551,7 +5551,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Swell, to** Chêng ... ... ... 腫
 - **Swift** Hiòng; méⁿ ... ... ... 雄  猛
 - **Swim** Siû ... ... ... ~~氽~~(泅)
-- **Swing** Sõ ... ... ... ~~泗~~
+- **Swing** Sõ ... ... ... ~~泗~~()
 - **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶 ++翹頭絲++ ++鋯絲++
 - **Sympathy** Thói-thiap ... ... ... 體貼
 - **Syrupt** Thn̂g-tsúi ... ... ... 糖水
@@ -5607,26 +5607,26 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ as paste, congee** Kà; chhieh ... ... ... 稀
 - **Thing** Muéh; muéh-kiâⁿ ... ... ... 物  物件
 - **Think** Siẽⁿ; phah-sǹg; pheⁿ-phah ... ... ... 想  ~~打~~(拍)算
-- **„ erroneously** Kâu-kiè; sah-tsò ... ... ...
+- **„ erroneously** Kâu-kiè; sah-tsò ... ... ... ~~想做~~ ++++
 - **Thirsty** Aû ta ... ... ... 渴
 - **Thorn** Chhì ... ... ... 刺
 - **Threaten** Heh; heh-kiaⁿ ... ... ... 嚇  嚇驚
 - **Throat** Aû; aû-lêng ... ... ... 喉  喉嚨
 - **Throne, imperial** Lêng-ūi; kim-luân-tōiⁿ ... ... ... 龍位  金鑾殿
 - **„ to ascend the** Teng-ki; teng-ūi; tsõ-ūi ... ... ... 登基  登位  坐位
-- **Throttle** Tẽⁿ-aû ... ... ... ~~㨨喉~~
+- **Throttle** Tẽⁿ-aû ... ... ... ~~㨨喉~~()
 - **Through, over** Thàng ... ... ... 通
 - **Throw, to** Kák; sek; hám ... ... ... ++捔++
 - **„ away** Kák-tiòu; sek-tiòu; hám-tiòu; phîn-tiòu ... ... ... ++捔掉++  ++++  ++++  ++摒掉++
 - **Thrust** Tshǹg ... ... ... 刺
 - **Ticket** Tuaⁿ ... ... ... 單
 - **„ pawn** Hui; tǹg-phiè ... ... ... ~~揮~~  當票
-- **Tickle** Niouⁿ ... ... ... ~~帕悛~~
+- **Tickle** Niouⁿ ... ... ... ~~帕悛~~()
 - **Tie** Pák; kat ... ... ... 縛  結
 - **„ as the hands together** Khún ... ... ... 捆
 - **Tiffin** Tiám-sim ... ... ... ~~㸃~~(點)心
 - **Tight** Kín ... ... ... 緊
-- **„ as rope** Ân ... ... ...
+- **„ as rope** Ân ... ... ... ++++
 - **Timid** Bô-táⁿ ... ... ... 無~~胆~~(膽)
 - **Tired** Hék ... ... ... ~~困~~(乏)
 - **Title, official** Kuaⁿ-hâm ... ... ... 官銜
@@ -5641,7 +5641,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Tortoise** Tāi-pūe ... ... ... 玳瑁
 - **Total** Kòi-kāng; lóng-tsóng ... ... ... 計共  ~~俱皆~~(攏總)
 - **Touch, with the fingers** Thãng; thãng--tiéh; mông ... ... ... ~~摸~~(動)  ~~摸~~(動)着  ++摸++
-- **„ come into contact** Tiaⁿ--tiéh ... ... ... ~~顚着~~
+- **„ come into contact** Tiaⁿ--tiéh ... ... ... ~~顚着~~()
 - **Tough** Zūn ... ... ... ++韌++
 - **Tow, a ship** Tũa ... ... ... 拕
 - **Towards** Hiàng; niáⁿ ... ... ... 向  領
@@ -5662,7 +5662,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Tread, on** Táh; lūn-táh ... ... ... 踏  ++蹂踏++
     - **Treasury** Khòu-pâng; ngṳ̂n-khòu ... ... ... 庫房  銀庫
 - **Treat, to** Thãi; khuán-thãi ... ... ... 待  ~~欸~~(款)待
-- **Tremble** Khiū; tòng ... ... ... ~~凍~~
+- **Tremble** Khiū; tòng ... ... ... ++++  凍
 - **Tribe** Tsók ... ... ... 族
 - **Tribute, to pay to the Emperor** Kòng-huâng-tì ... ... ... 貢皇帝
 - **Trick, a** Sim-sṳ̄ ... ... ... 心事
@@ -5738,15 +5738,15 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **War** Sie-thâi; kau-chièn ... ... ... 相刣  交戰
 - **Warm** Sie ... ... ... ~~溫~~(燒)
 - **„ of weather** Zuáh ... ... ... 熱
-- **„ of weather, mild** Chhiẽⁿ-sie ... ... ... ~~小暑~~
+- **„ of weather, mild** Chhiẽⁿ-sie ... ... ... ~~小暑~~()
 - **Warn** Khǹg-kòi; tàⁿ-tsai ... ... ... 勸戒  呾知
-- **Waste, to** Tak-nn̄g ... ... ... ~~花費~~
+- **Waste, to** Tak-nn̄g ... ... ... ~~花費~~()
 - **Watch, to** Chiéⁿ ... ... ... ~~守~~(掌)
 - **Water, to** Ak; ak-tsúi ... ... ... 沃  沃水
 - **Watery** Chhieh-chhieh ... ... ... ++淖淖++
 - **Wave, to, as a flag** Ít ... ... ... ++逸++
 - **Weak** Khùn; bô-lát ... ... ... 困  無力
-- **„ in power, influence** Phúh ... ... ...
+- **„ in power, influence** Phúh ... ... ... ++++
 - **Wean** Keh-nĩⁿ ... ... ... 隔~~乳~~(奶)
 - **Weapon** Ke-húe ... ... ... 家伙
 - **Wear, as clothes, shoes** Chhēng ... ... ... 穿
@@ -5775,7 +5775,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Wicked** Ak; phái ... ... ... 惡  ~~歹~~(痞)
 - **Wide** Khuah ... ... ... ~~濶~~(闊)
 - **Widow** Síu-kúa; kúa-hũ ... ... ... 守寡  寡婦
-- **Wife** Chhi; bóu ... ... ... 妻  ++𡚸++
+- **Wife** Chhi; bóu ... ... ... 妻  ++婦++
 - **Wild, pertaining to the forest** Suaⁿ ... ... ... 山
 - **Willing** Nguãn; kam-ngũan; hàuⁿ; kam ... ... ... 愿  甘愿  好  甘
 - **Wind, as a clock** Ká ... ... ... 絞
