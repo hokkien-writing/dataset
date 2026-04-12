@@ -5414,7 +5414,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Sprain** Chek--tiéh; nãuⁿ--tiéh; tsuáh--tiéh ... ... ... 閃着
 - **Spread, as a carpet** Tshṳ; phi ... ... ... 披
 - **Spring, a** Tsûaⁿ; tsúi-tsûaⁿ ... ... ... 泉  水泉
-- **Sprinkle** Hîⁿ ... ... ... 灑
+- **Sprinkle** Hîⁿ ... ... ... ~~灑~~()
 - **Spurt, water from the mouth** Bū-tsúi ... ... ... 霧水
 - **Spy, a** Thàm-kiáⁿ; sùaⁿ-soh ... ... ... 探~~仔~~(囝)  線索
 - **„ to** Thàm; thau-thàm; tsò-sùaⁿ ... ... ... 探  偷探  做線
