@@ -3602,7 +3602,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 - **在澄海縣有~~壹~~(一)個秀才。有犯着律** Tõ Thêng-hái-kūiⁿ ũ chék-kâi siù-tsâi, ũ huãm-tiéh-lút ... ... ... There was a graduate in the district of Theng-hai, who had broken the law.
 - **伊就去~~被~~(分)官府審** I chiũ khṳ̀-pun kuaⁿ-hú sím ... ... ... And he went to be tried by the mandarin.
-- **老爺戴頂就出來~~坐堂~~(在堂)** Lãu-tia tì-téng chiũ tshut--lâi tsõ-tn̂g ... ... ... The mandarin put on his button, and came out and sat on the bench.
+- **老爺戴頂就出來~~在堂~~(坐堂)** Lãu-tia tì-téng chiũ tshut--lâi tsõ-tn̂g ... ... ... The mandarin put on his button, and came out and sat on the bench.
 - **秀才就跪落去** Sìu-tsâi chiũ kũi--lóh-khṳ̀ ... ... ... The graduate knelt down.
 - **老爺審到~~甚~~(酷)久了。人熱在** Lãu-tia sím kàu hoh-kú--lō, nâng zuáh-tsãi ... ... ... The mandarin after a long trial found it rather warm.
 - **粒頂就脫~~丢~~(掉)放在床頂** Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng ... ... ... And he took off his hat to which the button was attached and put it on the table.
