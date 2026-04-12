@@ -11,7 +11,10 @@ export/              匯出輸出
   books/             書籍匯出
   lyrics/            歌詞匯出
 scripts/             工具腳本
-  export.py          匯出原版 / 修改版
+  export.py          匯出原版 / 修改版 Markdown
+  export_csv.py      匯出結構化 CSV
+  processors/        各書籍的 CSV 解析處理器
+    base.py          基礎類別與共用函數
 build.sh             一鍵建置腳本
 ```
 
@@ -67,6 +70,22 @@ build.sh             一鍵建置腳本
 會在 `export/` 目錄下按來源目錄分別匯出，每個檔案產生兩個版本：
 - `*_original.md` — 原版（移除標記，保留原始文字）
 - `*_modified.md` — 修改版（套用所有校勘修改）
+
+### CSV 匯出
+
+每個檔案還會匯出結構化 CSV（需在 `scripts/processors/` 中有對應的處理器）：
+
+| 欄位 | 說明 |
+|------|------|
+| `puj` | 白話字拼音（校注後） |
+| `puj_orig` | 白話字拼音（原始，僅當與 puj 不同時填寫） |
+| `teochew` | 潮州話漢字（校注後） |
+| `teochew_orig` | 潮州話漢字（原始，僅當與 teochew 不同時填寫） |
+| `english` | 英文翻譯（校注後） |
+| `english_orig` | 英文翻譯（原始，僅當與 english 不同時填寫） |
+| `source` | 來源（書名 > 章節） |
+
+新增書籍時，只需在 `scripts/processors/` 新增同名的 `.py` 檔案，定義繼承 `BookProcessor` 的 `Processor` 類別即可。
 
 ## 收錄內容
 

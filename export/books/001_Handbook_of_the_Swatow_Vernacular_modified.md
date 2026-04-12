@@ -763,7 +763,7 @@ Singapore, February, 1886.
 - **流涸** Lâu khó ... ... ... It is ebb tide.
 - **海有湧咩** Hái ũ éng mē? ... ... ... Are there any waves in the sea?
 - **有。湧袂大** Ũ, éng bõi-tūa ... ... ... Yes, the waves are not big.
-- **風颱時荒險** Huang-thai sĩ hong-hiám ... ... ... The typhoon is dangerous.
+- **風颱時風險** Huang-thai sĩ hong-hiám ... ... ... The typhoon is dangerous.
 
 #### section III.
 
@@ -1243,7 +1243,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **今年有閏月咩** Ke-nîⁿ ũ zūn-guéh mē? ... ... ... Is there an intercalary moon this year?
 - **有。閏五** Ũ, zūn-ngõu ... ... ... Yes, the fifth intercalary moon.
 - **昨夜月蝕汝有睇亞無** Tsa-mêⁿ guéh síh lṳ́ ũ thóiⁿ a-bô? ... ... ... Last night there was an eclipse of the moon, did you see it?
-- **~~不嘗~(毋曾)。我在夗** M̃-chêng, uá tõ út ... ... ... No, I was in bed.
+- **毋曾。我在夗** M̃-chêng, uá tõ út ... ... ... No, I was in bed.
 - **昨夜三更蝕** Tsá-mêⁿ saⁿ-keⁿ síh ... ... ... The eclipse took place at the third watch last night.
 - **我若是知。我走起来睇** Uá nāⁿ-sĩ tsai, uá tsáu-khí lâi-thóiⁿ ... ... ... If I had known, I would have got up to see it.
 - **汝昨日無佮我呾** Lṳ́ tsa-jít bô kah uá tàⁿ ... ... ... You didn't tell me yesterday.
@@ -1734,7 +1734,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **茶盅有幾個** Tê-cheng ũ kúi-kâi? ... ... ... How many tea-cups are there?
 - **有五個定定** Ũ ngõu-kâi tiāⁿ-tiāⁿ ... ... ... There are only five.
 - **五個定定。加一個乞底誰扣破** Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu? ... ... ... Only five? Who has broken the other five?
-- **我哩不~~(毋)知** Uá li m̃-tsai ... ... ... I don't know.
+- **我哩毋知** Uá li m̃-tsai ... ... ... I don't know.
 - **汝怎呢好毋知。物件是汝管个** Lṳ́ tsò-nîⁿ hó m̃-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi ... ... ... How is it you don't know, the things are in your charge.
 - **我煩惱。我哩割汝个工錢** Uá huân-ló, uá li kuah lṳ́ kâi kang-chîⁿ ... ... ... I don't care, I will cut your wages.
 - **無。汝哩去買一個來賠我** Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá ... ... ... Otherwise, you had better go and buy one to compensate me.
@@ -5552,7 +5552,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Swift** Hiòng; méⁿ ... ... ... 雄  猛
 - **Swim** Siû ... ... ... 泅
 - **Swing** Sõ ... ... ... 〔〕
-- **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶 翹頭絲 鋯絲
+- **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶  翹頭絲  鋯絲
 - **Sympathy** Thói-thiap ... ... ... 體貼
 - **Syrupt** Thn̂g-tsúi ... ... ... 糖水
 - **Tael** Niéⁿ ... ... ... 兩
@@ -5812,7 +5812,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Yoke, a** Gû-taⁿ-uan ... ... ... 牛擔彎
 - **Yolk, of an egg** Nñg-jîn ... ... ... 卵仁
 - **Young, of plants** Chíⁿ ... ... ... 稚
-- **„ of man** Hãu-seⁿ; siòu-nîⁿ ... ... ... 後生 少年
+- **„ of man** Hãu-seⁿ; siòu-nîⁿ ... ... ... 後生  少年
 - **Zigzag** Uan-lâi uan-khṳ̀; in-uan khit-khek ... ... ... 彎來彎去  迂彎屈曲
 
 ---

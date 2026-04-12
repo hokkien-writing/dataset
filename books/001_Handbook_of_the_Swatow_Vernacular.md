@@ -763,7 +763,7 @@ Singapore, February, 1886.
 - **~~流退~~(流涸)** Lâu khó ... ... ... It is ebb tide.
 - **海有湧~~否~~(咩)** Hái ũ éng mē? ... ... ... Are there any waves in the sea?
 - **有。湧袂大** Ũ, éng bõi-tūa ... ... ... Yes, the waves are not big.
-- **風颱時~~風險~~(荒險)** Huang-thai sĩ hong-hiám ... ... ... The typhoon is dangerous.
+- **風颱時~~荒險~~(風險)** Huang-thai sĩ hong-hiám ... ... ... The typhoon is dangerous.
 
 #### section III.
 
@@ -1243,7 +1243,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **今年有閏月~~否~~(咩)** Ke-nîⁿ ũ zūn-guéh mē? ... ... ... Is there an intercalary moon this year?
 - **有。閏五** Ũ, zūn-ngõu ... ... ... Yes, the fifth intercalary moon.
 - **昨夜月蝕~~爾~~(汝)有~~看~~(睇)~~或無~~(亞無)** Tsa-mêⁿ guéh síh lṳ́ ũ thóiⁿ a-bô? ... ... ... Last night there was an eclipse of the moon, did you see it?
-- **~~不嘗~(毋曾)。我在~~睡~~(夗)** M̃-chêng, uá tõ út ... ... ... No, I was in bed.
+- **~~不嘗~~(毋曾)。我在~~睡~~(夗)** M̃-chêng, uá tõ út ... ... ... No, I was in bed.
 - **昨夜三更蝕** Tsá-mêⁿ saⁿ-keⁿ síh ... ... ... The eclipse took place at the third watch last night.
 - **我若是知。我走起来~~看~~(睇)** Uá nāⁿ-sĩ tsai, uá tsáu-khí lâi-thóiⁿ ... ... ... If I had known, I would have got up to see it.
 - **~~爾~~(汝)昨日無~~共~~(佮)我呾** Lṳ́ tsa-jít bô kah uá tàⁿ ... ... ... You didn't tell me yesterday.
@@ -1734,7 +1734,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~茶鐘~~(茶盅)有~~几~~(幾)個** Tê-cheng ũ kúi-kâi? ... ... ... How many tea-cups are there?
 - **有~~伍~~(五)個~~而已~~(定定)** Ũ ngõu-kâi tiāⁿ-tiāⁿ ... ... ... There are only five.
 - **~~伍~~(五)個~~而已~~(定定)。加~~壹~~(一)個~~與~~(乞)~~何人~~(底誰)扣破** Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu? ... ... ... Only five? Who has broken the other five?
-- **我++哩++不~~(毋)知** Uá li m̃-tsai ... ... ... I don't know.
+- **我++哩++~~不~~(毋)知** Uá li m̃-tsai ... ... ... I don't know.
 - **~~爾~~(汝)~~爲何~~(怎呢)好~~不~~(毋)知。物件是~~爾~~(汝)管~~個~~(个)** Lṳ́ tsò-nîⁿ hó m̃-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi ... ... ... How is it you don't know, the things are in your charge.
 - **我煩惱。我~~即~~(哩)割~~爾個~~(汝个)工錢** Uá huân-ló, uá li kuah lṳ́ kâi kang-chîⁿ ... ... ... I don't care, I will cut your wages.
 - **無。~~爾~~(汝)++哩++去買~~壹~~(一)個來賠我** Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá ... ... ... Otherwise, you had better go and buy one to compensate me.
@@ -5552,7 +5552,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Swift** Hiòng; méⁿ ... ... ... 雄  猛
 - **Swim** Siû ... ... ... ~~氽~~(泅)
 - **Swing** Sõ ... ... ... ~~泗~~()
-- **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶 ++翹頭絲++ ++鋯絲++
+- **Sycee** Uâng-pó; khiòu-thâu-si; khò-si ... ... ... 王寶  ++翹頭絲++  ++鋯絲++
 - **Sympathy** Thói-thiap ... ... ... 體貼
 - **Syrupt** Thn̂g-tsúi ... ... ... 糖水
 - **Tael** Niéⁿ ... ... ... ~~両~~(兩)
@@ -5812,7 +5812,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Yoke, a** Gû-taⁿ-uan ... ... ... 牛擔~~灣~~(彎)
 - **Yolk, of an egg** Nñg-jîn ... ... ... 卵仁
 - **Young, of plants** Chíⁿ ... ... ... ~~幼~~(稚)
-- **„ of man** Hãu-seⁿ; siòu-nîⁿ ... ... ... ++後生++ 少年
+- **„ of man** Hãu-seⁿ; siòu-nîⁿ ... ... ... ++後生++  少年
 - **Zigzag** Uan-lâi uan-khṳ̀; in-uan khit-khek ... ... ... ~~灣~~(彎)來~~灣~~(彎)去  ++迂彎屈曲++
 
 ---

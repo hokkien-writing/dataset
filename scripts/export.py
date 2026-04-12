@@ -17,34 +17,15 @@ Edit marker syntax:
   5. ++++            → addition placeholder (blank)
 """
 
-import re
 import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+
+from scripts.processors.base import generate_modified, generate_original
 
 SOURCE_DIRS = ["books", "lyrics"]
-
-
-def generate_original(text: str) -> str:
-    text = re.sub(r"\+\+\+\+", "", text)
-    text = re.sub(r"\+\+([^\n+]+)\+\+", "", text)
-    text = re.sub(r"~~([^\n~]+)~~\([^\n)]*\)", r"\1", text)
-    text = re.sub(r"~~([^\n~]+)~~", r"\1", text)
-    return text
-
-
-def _replace_correction(m: re.Match) -> str:
-    correction = m.group(2)
-    return correction if correction else "〔〕"
-
-
-def generate_modified(text: str) -> str:
-    text = re.sub(r"\+\+\+\+", "〔〕", text)
-    text = re.sub(r"\+\+([^\n+]+)\+\+", r"\1", text)
-    text = re.sub(r"~~([^\n~]+)~~\(([^\n)]*)\)", _replace_correction, text)
-    text = re.sub(r"~~([^\n~]+)~~", "", text)
-    return text
 
 
 def process_file(src: Path, out_dir: Path) -> None:
@@ -54,7 +35,7 @@ def process_file(src: Path, out_dir: Path) -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
 
     original = generate_original(original_text)
-    modified = generate_modified(original_text)
+    modified = generate_modified(original_text, placeholder="〔〕")
 
     (out_dir / f"{stem}_original.md").write_text(original, encoding="utf-8")
     (out_dir / f"{stem}_modified.md").write_text(modified, encoding="utf-8")
