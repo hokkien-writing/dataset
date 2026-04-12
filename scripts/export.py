@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 """
-Export books from the books/ directory.
+Export markdown files from content directories.
 
-Produces two versions per book:
+Supported directories are configured in SOURCE_DIRS. Each directory is
+exported into a matching subdirectory under export/.
+
+Produces two versions per file:
   - original: removes all edit markers, restores the pre-edit text
   - modified: applies all edit markers
 
@@ -19,6 +22,8 @@ import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+
+SOURCE_DIRS = ["books", "lyrics"]
 
 
 def generate_original(text: str) -> str:
@@ -58,23 +63,35 @@ def process_file(src: Path, out_dir: Path) -> None:
 
 
 def main():
-    books_dir = PROJECT_ROOT / "books"
-    output_dir = PROJECT_ROOT / "export"
+    export_root = PROJECT_ROOT / "export"
+    export_root.mkdir(parents=True, exist_ok=True)
 
-    if not books_dir.exists():
-        print(f"Error: {books_dir} not found", file=sys.stderr)
+    any_processed = False
+
+    for dir_name in SOURCE_DIRS:
+        src_dir = PROJECT_ROOT / dir_name
+        if not src_dir.exists():
+            print(f"Skipping {dir_name}/ (not found)")
+            continue
+
+        md_files = sorted(
+            f for f in src_dir.glob("*.md") if f.name.lower() != "readme.md"
+        )
+        if not md_files:
+            print(f"No .md files found in {dir_name}/")
+            continue
+
+        out_dir = export_root / dir_name
+        print(f"[{dir_name}] Processing {len(md_files)} file(s)...")
+        for f in md_files:
+            process_file(f, out_dir)
+            any_processed = True
+
+    if not any_processed:
+        print("No files were exported.", file=sys.stderr)
         sys.exit(1)
 
-    md_files = sorted(books_dir.glob("*.md"))
-    if not md_files:
-        print("No .md files found in books/", file=sys.stderr)
-        sys.exit(1)
-
-    print(f"Processing {len(md_files)} book(s)...")
-    for f in md_files:
-        process_file(f, output_dir)
-
-    print(f"\nDone. Exported to {output_dir}/")
+    print(f"\nDone. Exported to {export_root}/")
 
 
 if __name__ == "__main__":
