@@ -3416,7 +3416,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **塊** Kò ... ... ... Applied to, lands, gardens, boards &c., and slices or pieces of things.
 - **箍** Khou ... ... ... Applied to, dollars, bundles of firewood.
 - **畝** Bóu ... ... ... Applied to, fields.
-- **羣** Khûn ... ... ... Applied to, crowds of men, herds of quadrupeds, flocks of fowls, ducks, &c.
+- **群** Khûn ... ... ... Applied to, crowds of men, herds of quadrupeds, flocks of fowls, ducks, &c.
 - **幅** Pak ... ... ... Applied to, maps, Chinese pictures, &c.
 - **件** Kiãⁿ ... ... ... Applied to, any business or affair, &c.
 - **尾** Búe ... ... ... Applied to, fish.
@@ -4277,7 +4277,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Crop, of field** Tang; niⁿ-tang ... ... ... 冬  年冬
 - **Cross, to** Kùe ... ... ... 過
 - **Crow** Thî ... ... ... 啼
-- **Crowd** Khûn ... ... ... 羣
+- **Crowd** Khûn ... ... ... 群
 - **Crown** Uâng-bō ... ... ... 王帽
 - **Cruel** Hiou; hiou-sim; chek-ak ... ... ... 僥  僥心  積惡
 - **Cry** Khàu ... ... ... 哭
@@ -4532,7 +4532,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Flame** Húe-iām; húe-chíh ... ... ... 火焰  火舌
 - **Flea** Ka-tsáu ... ... ... 虼蚤
 - **Fling** Sõ ... ... ... 〔〕
-- **Flock** Khûn ... ... ... 羣
+- **Flock** Khûn ... ... ... 群
 - **Flood** Tūa-tsúi; hái-huang-tiê ... ... ... 大水  海風潮
 - **Flow** Lâu ... ... ... 流
 - **Foam** Phuéh ... ... ... 沬
