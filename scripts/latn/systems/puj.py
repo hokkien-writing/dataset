@@ -1,0 +1,32 @@
+"""PUJ (Pe̍h-ūe-jī) system configuration."""
+
+from scripts.latn.config import LatnSystemConfig
+
+def create_config() -> LatnSystemConfig:
+    vowel_dict = {
+        'a1': 'a', 'a4': 'a', 'a2': 'á', 'a3': 'à', 'a5': 'â', 'a6': 'ã', 'a7': 'ā', 'a8': 'a̍',
+        'e1': 'e', 'e4': 'e', 'e2': 'é', 'e3': 'è', 'e5': 'ê', 'e6': 'ẽ', 'e7': 'ē', 'e8': 'e̍',
+        'i1': 'i', 'i4': 'i', 'i2': 'í', 'i3': 'ì', 'i5': 'î', 'i6': 'ĩ', 'i7': 'ī', 'i8': 'i̍',
+        'o1': 'o', 'o4': 'o', 'o2': 'ó', 'o3': 'ò', 'o5': 'ô', 'o6': 'õ', 'o7': 'ō', 'o8': 'o̍',
+        'u1': 'u', 'u4': 'u', 'u2': 'ú', 'u3': 'ù', 'u5': 'û', 'u6': 'ũ', 'u7': 'ū', 'u8': 'u̍',
+        'ur1': 'ṳ', 'ur4': 'ṳ', 'ur2': 'ṳ́', 'ur3': 'ṳ̀', 'ur5': 'ṳ̂', 'ur6': 'ṳ̃', 'ur7': 'ṳ̄', 'ur8': 'ṳ̍',
+        'n1': 'n', 'n4': 'n', 'n2': 'ń', 'n3': 'ǹ', 'n5': 'n̂', 'n6': 'ñ', 'n7': 'n̄', 'n8': 'n̍',
+        'm1': 'm', 'm4': 'm', 'm2': 'ḿ', 'm3': 'm̀', 'm5': 'm̂', 'm6': 'm̃', 'm7': 'm̄',
+    }
+    
+    complex_syllable_map = {
+        'ah8': 'a̍h', 'eh8': 'e̍h', 'ih8': 'i̍h', 'oh8': 'o̍h', 'uh8': 'u̍h', 'urh8': 'ṳ̍h',
+        'at8': 'a̍t', 'et8': 'e̍t', 'it8': 'i̍t', 'ot8': 'o̍t', 'ut8': 'u̍t', 'urt8': 'ṳ̍t',
+        'ak8': 'a̍k', 'ek8': 'e̍k', 'ik8': 'i̍k', 'ok8': 'o̍k', 'uk8': 'u̍k', 'urk8': 'ṳ̍k',
+        'ap8': 'a̍p', 'ep8': 'e̍p', 'ip8': 'i̍p', 'op8': 'o̍p', 'up8': 'u̍p', 'urp8': 'ṳ̍p',
+    }
+
+    return LatnSystemConfig(
+        name="PUJ",
+        description="Pe̍h-uē-jī romanization system (Teochew)",
+        vowel_dict=vowel_dict,
+        tone_mapping={1: "1", 2: "2", 3: "3", 4: "4", 5: "5", 6: "6", 7: "7", 8: "8"},
+        nasal_endings=["m", "n", "ng"],
+        complex_syllable_map=complex_syllable_map,
+        tone_mark_priority=["a", "o", "u", "e", "i", "ur", "n", "m"]
+    )
