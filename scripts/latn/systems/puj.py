@@ -104,5 +104,6 @@ def create_config() -> LatnSystemConfig:
         nasal_endings=["m", "n", "ng"],
         entering_endings=["p", "t", "k", "h"],
         complex_syllable_map=complex_syllable_map,
-        tone_mark_priority=["a", "o", "u", "e", "i", "ur", "n", "m"],
+        tone_mark_priority=["a", "o", "ur", "u", "e", "i", "n", "m"],
+        syllable_mappings={"ⁿ": "nn"},
     )

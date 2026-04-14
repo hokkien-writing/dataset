@@ -37,6 +37,9 @@ class LatnSystemConfig:
     # Reverse mapping for complex syllables: marked syllable end -> base_end + tone
     reverse_complex_map: Optional[Dict[str, Tuple[str, int]]] = None
 
+    syllable_mappings: Dict[str, str] = field(default_factory=dict)
+    """Extra mappings from marked symbols to keyboard symbols (e.g., {'ⁿ': 'nn'})"""
+
     def __post_init__(self):
         """Build reverse mappings automatically from forward mappings."""
         if self.reverse_vowel_map is None:
@@ -47,6 +50,11 @@ class LatnSystemConfig:
                     base_vowel = key[:-1]
                     if marked_vowel not in self.reverse_vowel_map:
                         self.reverse_vowel_map[marked_vowel] = (base_vowel, tone_num)
+        
+        # Sort reverse_vowel_map by key length descending to handle multi-char vowels (like o͘)
+        self.reverse_vowel_map = dict(
+            sorted(self.reverse_vowel_map.items(), key=lambda x: len(x[0]), reverse=True)
+        )
 
         if self.reverse_complex_map is None:
             self.reverse_complex_map = {}
@@ -60,6 +68,12 @@ class LatnSystemConfig:
                                 base_part,
                                 tone_num,
                             )
+        
+        # Sort reverse_complex_map by key length descending
+        if self.reverse_complex_map:
+            self.reverse_complex_map = dict(
+                sorted(self.reverse_complex_map.items(), key=lambda x: len(x[0]), reverse=True)
+            )
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "LatnSystemConfig":

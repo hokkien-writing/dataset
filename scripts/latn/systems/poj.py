@@ -129,4 +129,5 @@ def create_config() -> LatnSystemConfig:
         entering_endings=["p", "t", "k", "h"],
         complex_syllable_map=complex_syllable_map,
         tone_mark_priority=["a", "oo", "e", "o", "ui", "iu", "u", "i", "n", "m"],
+        syllable_mappings={"ⁿ": "nn"},
     )

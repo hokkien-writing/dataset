@@ -22,10 +22,10 @@ class LatnConverter(ABC):
 
     def to_keyboard(self, text: str) -> str:
         """Convert romanized text to keyboard input format."""
-        tokens = re.findall(r"[a-zA-Z\u00C0-\u024F'-]+|[^\s]", text)
+        tokens = re.findall(r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|[^\s]", text)
         converted_tokens = []
         for token in tokens:
-            if re.match(r"[a-zA-Z\u00C0-\u024F'-]+", token):
+            if re.match(r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+", token):
                 # Handle proper nouns/capitalization where needed
                 converted_tokens.append(self._to_keyboard_word(token))
             else:
@@ -78,15 +78,20 @@ class LatnConverter(ABC):
             new_syllable_chars = []
             i = 0
             while i < len(syllable):
-                char = syllable[i]
-                if char in self.reverse_vowel_map:
-                    base_vowel, t = self.reverse_vowel_map[char]
-                    if tone_num is None:
-                        tone_num = t
-                    new_syllable_chars.append(base_vowel)
-                else:
-                    new_syllable_chars.append(char)
-                i += 1
+                found_vowel = False
+                # Try longest match from reverse_vowel_map
+                for marked_vowel, (base_vowel, t) in self.reverse_vowel_map.items():
+                    if syllable.startswith(marked_vowel, i):
+                        if tone_num is None:
+                            tone_num = t
+                        new_syllable_chars.append(base_vowel)
+                        i += len(marked_vowel)
+                        found_vowel = True
+                        break
+                
+                if not found_vowel:
+                    new_syllable_chars.append(syllable[i])
+                    i += 1
             syllable = "".join(new_syllable_chars)
 
         if tone_num is None or tone_num == 1:
@@ -97,15 +102,16 @@ class LatnConverter(ABC):
 
         syllable = re.sub(r"\d", "", syllable)
 
-        # specific normalization for nn->ⁿ logic mapped to POJ/PUJ keyboard representation
-        syllable = syllable.replace("ⁿ", "nn")
+        # Apply system-specific syllable mappings (marked -> keyboard)
+        for marked, keyboard in self.config.syllable_mappings.items():
+            syllable = syllable.replace(marked, keyboard)
 
         # Note: the numbers are used to mark tone.
         return f"{syllable}{tone_num}"
 
     def to_handwriting(self, text: str) -> str:
         """Convert keyboard input format (e.g., 'li3') to marked latn (e.g., 'lí')."""
-        tokens = re.findall(r"[a-zA-Z0-9'-]+|[^\s]", text)
+        tokens = re.findall(r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|[^\s]", text)
         converted_tokens = []
 
         for token in tokens:
@@ -162,29 +168,23 @@ class LatnConverter(ABC):
 
         marked = False
         for vowel in self.tone_mark_priority:
-            if vowel == "ur":
-                if "ur" in base_part:
-                    k = f"ur{tone_num}"
-                    if k in self.vowel_dict:
-                        base_part = base_part.replace("ur", self.vowel_dict[k], 1)
+            if vowel in base_part:
+                k = f"{vowel}{tone_num}"
+                if k in self.vowel_dict:
+                    idx = base_part.rfind(vowel)
+                    if idx != -1:
+                        marked_char = self.vowel_dict[k]
+                        base_part = (
+                            base_part[:idx]
+                            + marked_char
+                            + base_part[idx + len(vowel) :]
+                        )
                         marked = True
                         break
-            else:
-                if vowel in base_part:
-                    k = f"{vowel}{tone_num}"
-                    if k in self.vowel_dict:
-                        idx = base_part.rfind(vowel)
-                        if idx != -1:
-                            marked_char = self.vowel_dict[k]
-                            base_part = (
-                                base_part[:idx]
-                                + marked_char
-                                + base_part[idx + len(vowel) :]
-                            )
-                            marked = True
-                            break
 
-        # Final replacement rules (e.g. nn -> ⁿ)
-        base_part = re.sub(r"nn$", "ⁿ", base_part)
+        # Apply system-specific syllable mappings (keyboard -> marked)
+        # Note: keyboard symbols are usually suffixes (like 'nn')
+        for marked, keyboard in self.config.syllable_mappings.items():
+            base_part = re.sub(keyboard + "$", marked, base_part)
 
         return base_part
