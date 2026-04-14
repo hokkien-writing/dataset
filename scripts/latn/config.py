@@ -3,6 +3,7 @@
 from typing import Dict, Optional, Any, Tuple, List
 from dataclasses import dataclass, field
 
+
 @dataclass
 class LatnSystemConfig:
     """Configuration for a latn system."""
@@ -16,21 +17,20 @@ class LatnSystemConfig:
     vowel_dict: Dict[str, str]
     """Mapping of vowel+tone (e.g., 'a2') to marked vowel character (e.g., 'á')"""
 
-    tone_mapping: Dict[int, str]
-    """Mapping of tone numbers to tone markers (usually just the number itself for keyboard input)"""
-
     nasal_endings: List[str] = field(default_factory=lambda: ["m", "n", "ng"])
     """Nasal endings that need special handling"""
 
     # Advanced: Mapping for complex syllable endings if needed (e.g., 'ah8' -> 'a̍h')
     complex_syllable_map: Optional[Dict[str, str]] = None
-    
+
     # Priority for marking tones on vowels or consonants
-    tone_mark_priority: List[str] = field(default_factory=lambda: ["a", "o", "u", "e", "i", "ur", "n", "m"])
-    
+    tone_mark_priority: List[str] = field(
+        default_factory=lambda: ["a", "o", "u", "e", "i", "ur", "n", "m"]
+    )
+
     # Reverse mapping: marked char -> (base_char, tone_num)
     reverse_vowel_map: Optional[Dict[str, Tuple[str, int]]] = None
-    
+
     # Reverse mapping for complex syllables: marked syllable end -> base_end + tone
     reverse_complex_map: Optional[Dict[str, Tuple[str, int]]] = None
 
@@ -53,7 +53,10 @@ class LatnSystemConfig:
                         tone_num = int(base_key[-1])
                         base_part = base_key[:-1]
                         if marked_syllable not in self.reverse_complex_map:
-                            self.reverse_complex_map[marked_syllable] = (base_part, tone_num)
+                            self.reverse_complex_map[marked_syllable] = (
+                                base_part,
+                                tone_num,
+                            )
 
     @classmethod
     def from_dict(cls, data: Dict[str, Any]) -> "LatnSystemConfig":
