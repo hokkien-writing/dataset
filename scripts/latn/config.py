@@ -79,3 +79,27 @@ class LatnSystemConfig:
     def from_dict(cls, data: Dict[str, Any]) -> "LatnSystemConfig":
         """Create config from dictionary."""
         return cls(**data)
+
+    @classmethod
+    def from_simple_vowels(
+        cls,
+        name: str,
+        description: str,
+        vowels: Dict[str, str],
+        **kwargs,
+    ) -> "LatnSystemConfig":
+        """
+        Create LatnSystemConfig from a simplified vowel map.
+        
+        vowels: Dict where key is base vowel (e.g. 'a') and value is a space-separated 
+                string of marked vowels for tones 1-8.
+                Example: {"a": "a á à a â ã ā a̍"}
+        """
+        vowel_dict = {}
+        for base, marks in vowels.items():
+            mark_list = marks.split()
+            for i, mark in enumerate(mark_list):
+                tone_num = i + 1
+                vowel_dict[f"{base}{tone_num}"] = mark
+        
+        return cls(name=name, description=description, vowel_dict=vowel_dict, **kwargs)
