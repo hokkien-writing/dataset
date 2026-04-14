@@ -10,7 +10,7 @@ def create_config() -> LatnSystemConfig:
         "e": "e é è e ê ẽ ē e̍",
         "i": "i í ì i î ĩ ī i̍",
         "o": "o ó ò o ô õ ō o̍",
-        "oo": "o\u0358 ó\u0358 ò\u0358 o\u0358 ô\u0358 õ\u0358 ō\u0358 o̍\u0358",
+        "oo": "o͘ ó͘ ò͘ o͘ ô͘ õ͘ ō͘ o̍͘",
         "u": "u ú ù u û ũ ū u̍",
         "ui": "ui uí uì ui uî uĩ uī ui̍",
         "iu": "iu iú iù iu iû iũ iū iu̍",
