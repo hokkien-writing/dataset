@@ -20,6 +20,9 @@ class LatnSystemConfig:
     nasal_endings: List[str] = field(default_factory=lambda: ["m", "n", "ng"])
     """Nasal endings that need special handling"""
 
+    entering_endings: List[str] = field(default_factory=lambda: ["p", "t", "k", "h"])
+    """Entering tone (入声) endings that identify tone 4/8"""
+
     # Advanced: Mapping for complex syllable endings if needed (e.g., 'ah8' -> 'a̍h')
     complex_syllable_map: Optional[Dict[str, str]] = None
 

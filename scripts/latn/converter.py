@@ -13,6 +13,7 @@ class LatnConverter(ABC):
         self.config = config
         self.vowel_dict = config.vowel_dict
         self.nasal_endings = config.nasal_endings
+        self.entering_endings = config.entering_endings
         self.reverse_vowel_map = config.reverse_vowel_map or {}
         self.reverse_complex_map = config.reverse_complex_map or {}
 
@@ -88,10 +89,10 @@ class LatnConverter(ABC):
                 i += 1
             syllable = "".join(new_syllable_chars)
 
-        if tone_num is None:
-            if syllable and syllable[-1] in ["p", "t", "k", "h"]:
+        if tone_num is None or tone_num == 1:
+            if syllable and syllable[-1] in self.entering_endings:
                 tone_num = 4
-            else:
+            elif tone_num is None:
                 tone_num = 1
 
         syllable = re.sub(r"\d", "", syllable)

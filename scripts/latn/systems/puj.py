@@ -102,6 +102,7 @@ def create_config() -> LatnSystemConfig:
         description="Pe̍h-uē-jī romanization system (Teochew)",
         vowel_dict=vowel_dict,
         nasal_endings=["m", "n", "ng"],
+        entering_endings=["p", "t", "k", "h"],
         complex_syllable_map=complex_syllable_map,
         tone_mark_priority=["a", "o", "u", "e", "i", "ur", "n", "m"],
     )
