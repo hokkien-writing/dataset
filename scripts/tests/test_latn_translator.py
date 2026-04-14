@@ -22,6 +22,7 @@ class TestLatnTranslator(unittest.TestCase):
             conversion_rules=[
                 (r"^chh(?![ie])", "tsh"),
                 (r"^ch(?![hie])", "ts"),
+                (r"^j(?![ie])", "z"),
             ]
         )
         self.translator = LatnTranslator(self.source_conv, self.target_conv, self.mapping)
@@ -50,6 +51,13 @@ class TestLatnTranslator(unittest.TestCase):
         self.assertEqual(self.translator.translate("chì"), "chì")
         # ch before others should become 'ts'
         self.assertEqual(self.translator.translate("cha"), "tsa")
+
+    def test_dz_j_mapping(self):
+        """Test contextual mapping for j/z."""
+        # j before 'i' should remain 'j'
+        self.assertEqual(self.translator.translate("jí"), "jí")
+        # j before others should become 'z'
+        self.assertEqual(self.translator.translate("jó"), "zó")
 
     def test_complex_sentence(self):
         """Test translation of a full string with multiple markers."""
