@@ -15,6 +15,7 @@ scripts/             工具腳本
   export_csv.py      匯出結構化 CSV
   processors/        各書籍的 CSV 解析處理器
     base.py          基礎類別與共用函數
+  tests/             單元測試
 build.sh             一鍵建置腳本
 ```
 
@@ -86,6 +87,14 @@ build.sh             一鍵建置腳本
 | `source` | 來源（書名 > 章節） |
 
 新增書籍時，只需在 `scripts/processors/` 新增同名的 `.py` 檔案，定義繼承 `BookProcessor` 的 `Processor` 類別即可。
+
+## 測試
+
+專案使用 Python 內置的 `unittest` 框架進行測試。執行以下指令即可運行所有單元測試：
+
+```bash
+PYTHONPATH=. python3 -m unittest discover scripts/tests
+```
 
 ## 收錄內容
 
