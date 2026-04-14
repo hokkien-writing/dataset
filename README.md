@@ -96,6 +96,23 @@ build.sh             一鍵建置腳本
 PYTHONPATH=. python3 -m unittest discover scripts/tests
 ```
 
+## 系統間轉換
+
+專案支持在不同的 Latin 系統間進行相互轉換（如 POJ <-> PUJ），並支持自定義音韻規律映射。
+
+```python
+from scripts.latn.registry import LatnRegistry
+from scripts.latn.config import PhoneticMapping
+
+registry = LatnRegistry()
+# 定義 POJ 到 PUJ 的映射規則
+mapping = PhoneticMapping(vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"})
+registry.register_translator("POJ", "PUJ", mapping)
+
+translator = registry.create_translator("POJ", "PUJ")
+result = translator.translate("o͘-oá-oē") # 輸出 "ou-uá-uē"
+```
+
 ## 收錄內容
 
 - [Books 書籍](books/README.md)
