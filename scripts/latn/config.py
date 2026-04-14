@@ -5,6 +5,17 @@ from dataclasses import dataclass, field
 
 
 @dataclass
+class PhoneticMapping:
+    """Mapping of phonetic parts between systems."""
+
+    vowel_map: Dict[str, str] = field(default_factory=dict)
+    """Mapping of source vowel cluster to target vowel cluster (e.g., {'oo': 'ou'})"""
+
+    consonant_map: Dict[str, str] = field(default_factory=dict)
+    """Mapping of source consonant to target consonant (if different)"""
+
+
+@dataclass
 class LatnSystemConfig:
     """Configuration for a latn system."""
 

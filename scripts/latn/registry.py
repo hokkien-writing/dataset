@@ -1,7 +1,7 @@
 """Registry for managing latn systems."""
 
 from typing import Dict, Type, Optional, List
-from scripts.latn.config import LatnSystemConfig
+from scripts.latn.config import LatnSystemConfig, PhoneticMapping
 from scripts.latn.converter import LatnConverter
 
 class ConverterRegistry:
@@ -44,3 +44,31 @@ class ConverterRegistry:
     def get_config(self, system_name: str) -> Optional[LatnSystemConfig]:
         """Get configuration for a system."""
         return self._configs.get(system_name.upper())
+
+
+class LatnRegistry(ConverterRegistry):
+    """Extended registry with translator support."""
+
+    def __init__(self):
+        super().__init__()
+        self._translators: Dict[str, PhoneticMapping] = {}
+
+    def register_translator(self, from_system: str, to_system: str, mapping: PhoneticMapping):
+        """Register a translator between two systems."""
+        key = f"{from_system.upper()}->{to_system.upper()}"
+        self._translators[key] = mapping
+
+    def create_translator(self, from_system: str, to_system: str) -> "LatnTranslator":
+        """Create a translator between two systems."""
+        from scripts.latn.translator import LatnTranslator
+        
+        from_key = from_system.upper()
+        to_key = to_system.upper()
+        
+        source_conv = self.create_converter(from_key)
+        target_conv = self.create_converter(to_key)
+        
+        mapping_key = f"{from_key}->{to_key}"
+        mapping = self._translators.get(mapping_key)
+        
+        return LatnTranslator(source_conv, target_conv, mapping)
