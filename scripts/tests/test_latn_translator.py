@@ -12,12 +12,17 @@ class TestLatnTranslator(unittest.TestCase):
         
         # User defined rules: POJ -> PUJ
         # oo -> ou, oa -> ua, oe -> ue
+        # tsh/chh logic: chh -> tsh if NOT before i/e
         self.mapping = PhoneticMapping(
             vowel_map={
                 "oo": "ou",
                 "oa": "ua",
                 "oe": "ue"
-            }
+            },
+            conversion_rules=[
+                (r"^chh(?![ie])", "tsh"),
+                (r"^ch(?![hie])", "ts"),
+            ]
         )
         self.translator = LatnTranslator(self.source_conv, self.target_conv, self.mapping)
 
@@ -33,6 +38,18 @@ class TestLatnTranslator(unittest.TestCase):
         
         # 3. oe -> ue
         self.assertEqual(self.translator.translate("oē"), "uē")
+
+    def test_consonant_conditional_mapping(self):
+        """Test contextual mapping for chh/tsh and ch/ts."""
+        # chh before 'i' should remain 'chh'
+        self.assertEqual(self.translator.translate("chhí"), "chhí")
+        # chh before other vowels (like 'a') should become 'tsh'
+        self.assertEqual(self.translator.translate("chhá"), "tshá")
+        
+        # ch before 'i' should remain 'ch'
+        self.assertEqual(self.translator.translate("chì"), "chì")
+        # ch before others should become 'ts'
+        self.assertEqual(self.translator.translate("cha"), "tsa")
 
     def test_complex_sentence(self):
         """Test translation of a full string with multiple markers."""

@@ -25,6 +25,11 @@ class LatnTranslator:
         if vowel_keys:
             pattern_str = "|".join(re.escape(k) for k in vowel_keys)
             self.vowel_pattern = re.compile(f"({pattern_str})")
+            
+        self.compiled_rules = [
+            (re.compile(pattern), repl) 
+            for pattern, repl in self.mapping.conversion_rules
+        ]
 
     def translate(self, text: str) -> str:
         """
@@ -63,6 +68,10 @@ class LatnTranslator:
                 if base.startswith(src):
                     base = tgt + base[len(src):]
                     break # Only one consonant replacement per syllable
+            
+            # Apply custom regex rules (e.g., for context-sensitive changes)
+            for pattern, repl in self.compiled_rules:
+                base = pattern.sub(repl, base)
             
             return base + tone_num
 

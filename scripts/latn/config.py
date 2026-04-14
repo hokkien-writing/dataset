@@ -14,6 +14,9 @@ class PhoneticMapping:
     consonant_map: Dict[str, str] = field(default_factory=dict)
     """Mapping of source consonant to target consonant (if different)"""
 
+    conversion_rules: List[Tuple[str, str]] = field(default_factory=list)
+    """List of (regex, replacement) pairs to apply to the keyboard syllable base"""
+
 
 @dataclass
 class LatnSystemConfig:
