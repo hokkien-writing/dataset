@@ -106,7 +106,13 @@ from scripts.latn.config import PhoneticMapping
 
 registry = LatnRegistry()
 # 定義 POJ 到 PUJ 的映射規則
-mapping = PhoneticMapping(vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"})
+mapping = PhoneticMapping(
+    vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+    conversion_rules=[
+        (r"^chh(?![ie])", "tsh"), # chh -> tsh (非 i/e 前)
+        (r"^ch(?![hie])", "ts"),   # ch -> ts (非 h/i/e 前)
+    ]
+)
 registry.register_translator("POJ", "PUJ", mapping)
 
 translator = registry.create_translator("POJ", "PUJ")
