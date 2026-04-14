@@ -82,7 +82,7 @@ class LatnConverter(ABC):
                 # Try longest match from reverse_vowel_map
                 for marked_vowel, (base_vowel, t) in self.reverse_vowel_map.items():
                     if syllable.startswith(marked_vowel, i):
-                        if tone_num is None:
+                        if tone_num is None or t > 1:
                             tone_num = t
                         new_syllable_chars.append(base_vowel)
                         i += len(marked_vowel)
