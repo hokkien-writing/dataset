@@ -5100,7 +5100,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Remain** Tshûn; sīn ... ... ... 存  
 - **„ stay** Nāⁿ ... ... ... 
 - **Remarkable** kú-kuài; khî-khá ... ... ... 古怪  奇巧
-- **Remember** Kì-tit; it-tit; kì-liãm ... ... ... 記得  憶得 記念
+- **Remember** Kì-tit; it-tit; kì-liãm ... ... ... 記得  憶得  記念
 - **Remove, residence** Puaⁿ ... ... ... 搬
 - **„ a thing** Súa ... ... ... 徙
 - **Rend** Lì ... ... ... 裂
@@ -5290,7 +5290,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ a door without bolting** Hõiⁿ ... ... ... 
 - **„ as the mouth, book** Háp ... ... ... 合
 - **Shuttle** So-kiáⁿ ... ... ... 梭子
-- **Shy** Ùi-sióu-lí; m̃-káⁿ-kìⁿ-nâng ... ... ... 畏羞恥   
+- **Shy** Ùi-sióu-lí; m̃-káⁿ-kìⁿ-nâng ... ... ... 畏羞恥  
 - **Sick, ill** Pēⁿ ... ... ... 病
 - **„ slightly** Nâng m̃-móⁿ ... ... ... 人不好
 - **„ for a long period** Phùa-pēⁿ ... ... ... 破病
@@ -5369,7 +5369,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ of shoe** Ôi-tói ... ... ... 鞋底
 - **Solstice, Summer** Hē-chì ... ... ... 夏至
 - **„ Winter** Tang-chì ... ... ... 冬至
-- **Son** Kiáⁿ; tau-kiáⁿ ... ... ... 子 
+- **Son** Kiáⁿ; tau-kiáⁿ ... ... ... 子  
 - **Song** Kua; khek ... ... ... 歌  曲
 - **Soot** Húe-thûn ... ... ... 火燂
 - **Sorcerer** Tâng-sin; tâng-ki ... ... ... 童身  童乩
@@ -5607,7 +5607,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ as paste, congee** Kà; chhieh ... ... ... 稀
 - **Thing** Muéh; muéh-kiâⁿ ... ... ... 物  物件
 - **Think** Siẽⁿ; phah-sǹg; pheⁿ-phah ... ... ... 想  打算  
-- **„ erroneously** Kâu-kiè; sah-tsò ... ... ... 想做 
+- **„ erroneously** Kâu-kiè; sah-tsò ... ... ... 想做  
 - **Thirsty** Aû ta ... ... ... 渴
 - **Thorn** Chhì ... ... ... 刺
 - **Threaten** Heh; heh-kiaⁿ ... ... ... 嚇  嚇驚

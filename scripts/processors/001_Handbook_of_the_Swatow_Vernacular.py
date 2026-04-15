@@ -88,8 +88,6 @@ class Processor(BookProcessor):
                     continue
                 mod = generate_modified(chunk)
                 orig = generate_original(chunk)
-                if not mod and not orig:
-                    continue
                 chunks.append((mod, orig))
 
             if not chunks:
