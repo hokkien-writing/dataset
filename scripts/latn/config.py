@@ -1,21 +1,28 @@
 """Configuration classes for latn systems."""
 
-from typing import Dict, Optional, Any, Tuple, List
+from typing import Callable, Dict, Optional, Any, Tuple, List, Union
 from dataclasses import dataclass, field
+
+InitialMappingValue = Union[str, Callable[[str, str], str]]
 
 
 @dataclass
 class PhoneticMapping:
-    """Mapping of phonetic parts between systems."""
+    """Mapping of phonetic parts between systems.
+
+    Each syllable is parsed into: initial (聲母) + vowel nucleus + ending (韻尾) + tone.
+    Each part is mapped exactly once, longest match first.
+    """
+
+    initial_map: Dict[str, InitialMappingValue] = field(default_factory=dict)
+    """Mapping of source initial to target initial.
+    Values can be a string (simple) or a callable(initial, vowel) -> str (context-sensitive)."""
 
     vowel_map: Dict[str, str] = field(default_factory=dict)
-    """Mapping of source vowel cluster to target vowel cluster (e.g., {'oo': 'ou'})"""
+    """Mapping of source vowel nucleus to target vowel nucleus."""
 
-    consonant_map: Dict[str, str] = field(default_factory=dict)
-    """Mapping of source consonant to target consonant (if different)"""
-
-    conversion_rules: List[Tuple[str, str]] = field(default_factory=list)
-    """List of (regex, replacement) pairs to apply to the keyboard syllable base"""
+    ending_map: Dict[str, str] = field(default_factory=dict)
+    """Mapping of source syllable ending to target ending (e.g., entering p->b)."""
 
     remove_hyphens: bool = False
     """Whether to remove hyphens between syllables in the output"""
@@ -34,21 +41,21 @@ class LatnSystemConfig:
     vowel_dict: Dict[str, str]
     """Mapping of vowel+tone (e.g., 'a2') to marked vowel character (e.g., 'á')"""
 
+    initials: List[str] = field(default_factory=list)
+    """Valid initials for this system, sorted longest-first for parsing."""
+
     nasal_endings: List[str] = field(default_factory=lambda: ["m", "n", "ng"])
     """Nasal endings that need special handling"""
 
     entering_endings: List[str] = field(default_factory=lambda: ["p", "t", "k", "h"])
     """Entering tone (入声) endings that identify tone 4/8"""
 
-    # Advanced: Mapping for complex syllable endings if needed (e.g., 'ah8' -> 'a̍h')
     complex_syllable_map: Optional[Dict[str, str]] = None
 
-    # Priority for marking tones on vowels or consonants
     tone_mark_priority: List[str] = field(
         default_factory=lambda: ["a", "o", "u", "e", "i", "ur", "n", "m"]
     )
 
-    # Reverse mapping: marked char -> list of (base_char, tone_num)
     reverse_vowel_map: Optional[Dict[str, List[Tuple[str, int]]]] = None
 
     reverse_complex_map: Optional[Dict[str, Tuple[str, int]]] = None

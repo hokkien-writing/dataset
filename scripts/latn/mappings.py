@@ -8,75 +8,76 @@ def register_default_translators(registry):
 
     # --- Hokkien Group (POJ, TL, BP) ---
 
-    # POJ <-> TL
+    # POJ -> TL
     registry.register_translator(
         "POJ",
         "TL",
         PhoneticMapping(
+            initial_map={"ch": "ts", "chh": "tsh"},
             vowel_map={"o.": "oo", "oa": "ua", "oe": "ue"},
-            consonant_map={"ch": "ts", "chh": "tsh"},
         ),
     )
+
+    # TL -> POJ
     registry.register_translator(
         "TL",
         "POJ",
         PhoneticMapping(
+            initial_map={"ts": "ch", "tsh": "chh"},
             vowel_map={"oo": "o.", "ua": "oa", "ue": "oe"},
-            consonant_map={"ts": "ch", "tsh": "chh"},
         ),
     )
 
-    # POJ <-> BP
-    poj_to_bp_initials = {
-        "p": "b",
-        "ph": "p",
-        "b": "bb",
-        "t": "d",
-        "th": "t",
-        "k": "g",
-        "kh": "k",
-        "g": "gg",
-        "ch": "z",
-        "chh": "c",
-        "j": "r",
-    }
+    # POJ -> BP
     registry.register_translator(
         "POJ",
         "BP",
         PhoneticMapping(
+            initial_map={
+                "p": "b",
+                "ph": "p",
+                "b": "bb",
+                "t": "d",
+                "th": "t",
+                "k": "g",
+                "kh": "k",
+                "g": "gg",
+                "ch": "z",
+                "chh": "c",
+                "j": "r",
+            },
             vowel_map={"o.": "oo"},
-            consonant_map=poj_to_bp_initials,
         ),
     )
 
-    bp_to_poj_initials = {
-        "b": "p",
-        "p": "ph",
-        "bb": "b",
-        "d": "t",
-        "t": "th",
-        "g": "k",
-        "k": "kh",
-        "gg": "g",
-        "z": "ch",
-        "c": "chh",
-        "r": "j",
-    }
+    # BP -> POJ
     registry.register_translator(
         "BP",
         "POJ",
         PhoneticMapping(
+            initial_map={
+                "b": "p",
+                "p": "ph",
+                "bb": "b",
+                "d": "t",
+                "t": "th",
+                "g": "k",
+                "k": "kh",
+                "gg": "g",
+                "z": "ch",
+                "c": "chh",
+                "r": "j",
+            },
             vowel_map={"oo": "o."},
-            consonant_map=bp_to_poj_initials,
         ),
     )
 
-    # TL <-> BP
+    # TL -> BP
     registry.register_translator(
         "TL",
         "BP",
         PhoneticMapping(
-            consonant_map={
+            initial_map={
                 "p": "b",
                 "ph": "p",
                 "b": "bb",
@@ -88,14 +89,16 @@ def register_default_translators(registry):
                 "ts": "z",
                 "tsh": "c",
                 "j": "r",
-            }
+            },
         ),
     )
+
+    # BP -> TL
     registry.register_translator(
         "BP",
         "TL",
         PhoneticMapping(
-            consonant_map={
+            initial_map={
                 "b": "p",
                 "p": "ph",
                 "bb": "b",
@@ -107,75 +110,56 @@ def register_default_translators(registry):
                 "z": "ts",
                 "c": "tsh",
                 "r": "j",
-            }
+            },
         ),
     )
 
     # --- Teochew Group (PUJ, DP) ---
 
-    puj_to_dp_initials = {
-        "ts": "z",
-        "tsh": "c",
-        "ch": "z",
-        "chh": "c",
-        "p": "b",
-        "ph": "p",
-        "b": "bh",
-        "t": "d",
-        "th": "t",
-        "k": "g",
-        "kh": "k",
-        "g": "gh",
-        "j": "r",
-    }
+    # PUJ -> DP
     registry.register_translator(
         "PUJ",
         "DP",
         PhoneticMapping(
-            consonant_map=puj_to_dp_initials,
-            conversion_rules=[
-                # e -> ê
-                (r"e", r"ê"),
-                # ur -> e
-                (r"ur", r"e"),
-                # entering endings
-                (r"p$", r"b"),
-                (r"t$", r"d"),
-                (r"k$", r"g"),
-            ],
+            initial_map={
+                "p": "b",
+                "ph": "p",
+                "b": "bh",
+                "t": "d",
+                "th": "t",
+                "k": "g",
+                "kh": "k",
+                "g": "gh",
+                "ts": "z",
+                "tsh": "c",
+                "ch": "z",
+                "chh": "c",
+                "j": "r",
+            },
+            vowel_map={"ur": "e", "e": "ê"},
+            ending_map={"p": "b", "t": "d", "k": "g"},
         ),
     )
 
-    dp_to_puj_initials = {
-        "zi": "chi",
-        "zê": "che",
-        "ci": "chhi",
-        "cê": "chhe",
-        "z": "ts",
-        "c": "tsh",
-        "b": "p",
-        "p": "ph",
-        "bh": "b",
-        "d": "t",
-        "t": "th",
-        "g": "k",
-        "k": "kh",
-        "gh": "g",
-    }
+    # DP -> PUJ
     registry.register_translator(
         "DP",
         "PUJ",
         PhoneticMapping(
-            consonant_map=dp_to_puj_initials,
-            conversion_rules=[
-                # entering endings
-                (r"b$", r"p"),
-                (r"d$", r"t"),
-                (r"(?<!n)g$", r"k"),
-                # e -> ur (ṳ)
-                (r"e", r"ur"),
-                # ê -> e
-                (r"ê", r"e"),
-            ],
+            initial_map={
+                "b": "p",
+                "p": "ph",
+                "bh": "b",
+                "d": "t",
+                "t": "th",
+                "g": "k",
+                "k": "kh",
+                "gh": "g",
+                "z": lambda init, vowel: "ch" if vowel in ("i", "ê") else "ts",
+                "c": lambda init, vowel: "chh" if vowel in ("i", "ê") else "tsh",
+                "r": "j",
+            },
+            vowel_map={"e": "ur", "ê": "e"},
+            ending_map={"b": "p", "d": "t", "g": "k"},
         ),
     )

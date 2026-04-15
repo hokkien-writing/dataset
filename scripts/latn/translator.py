@@ -1,13 +1,17 @@
 """Translator for converting between different latn systems."""
 
 import re
-from typing import Optional
+from typing import Optional, Tuple
 from scripts.latn.config import PhoneticMapping
 from scripts.latn.converter import LatnConverter
 
 
 class LatnTranslator:
-    """Handles translation between two latn systems."""
+    """Handles translation between two latn systems.
+
+    Each syllable is parsed into: initial (聲母) + vowel nucleus (韻腹) + ending (韻尾) + tone (聲調).
+    Each part is mapped exactly once using longest-match.
+    """
 
     def __init__(
         self,
@@ -19,77 +23,76 @@ class LatnTranslator:
         self.target = target_converter
         self.mapping = mapping or PhoneticMapping()
 
-        # Prepare regex for vowel replacement (descending length)
-        vowel_keys = sorted(self.mapping.vowel_map.keys(), key=len, reverse=True)
-        self.vowel_pattern = None
-        if vowel_keys:
-            pattern_str = "|".join(re.escape(k) for k in vowel_keys)
-            self.vowel_pattern = re.compile(f"({pattern_str})")
-
-        # Prepare sorted consonant mapping
-        self.sorted_consonants = sorted(
-            self.mapping.consonant_map.items(), key=lambda x: len(x[0]), reverse=True
+        self._source_initials = sorted(
+            source_converter.config.initials, key=len, reverse=True
         )
+        all_endings = (
+            source_converter.config.entering_endings
+            + source_converter.config.nasal_endings
+        )
+        self._source_endings = sorted(set(all_endings), key=len, reverse=True)
 
-        self.compiled_rules = [
-            (re.compile(pattern), repl)
-            for pattern, repl in self.mapping.conversion_rules
-        ]
+    def _parse_syllable(self, base: str) -> Tuple[str, str, str]:
+        """Parse a keyboard-form syllable base into (initial, vowel, ending).
+
+        Longest match for ending (from end), then longest match for initial (from start).
+        What remains is the vowel nucleus.
+        """
+        ending = ""
+        for e in self._source_endings:
+            if base.endswith(e) and len(base) > len(e):
+                ending = e
+                base = base[: -len(e)]
+                break
+
+        initial = ""
+        for init in self._source_initials:
+            if base.startswith(init):
+                initial = init
+                base = base[len(init) :]
+                break
+
+        return initial, base, ending
+
+    def _map_initial(self, initial: str, vowel: str) -> str:
+        """Map an initial. Callable values receive (initial, vowel) for context."""
+        if initial not in self.mapping.initial_map:
+            return initial
+        val = self.mapping.initial_map[initial]
+        if callable(val):
+            return val(initial, vowel)
+        return val
 
     def translate(self, text: str) -> str:
-        """
-        Translates text from source system to target system.
+        """Translate text from source system to target system.
 
-        Process: Source (Handwriting) -> Source (Keyboard) -> Target (Keyboard) -> Target (Handwriting)
+        Process: Source Handwriting -> Source Keyboard -> Target Keyboard -> Target Handwriting
         """
-        # Step 1: Source Handwriting -> Source Keyboard
+
         keyboard_text = self.source.to_keyboard(text)
-
-        # Step 2: Source Keyboard -> Target Keyboard
-        # We need to split keyboard text into tokens to avoid mapping inside tone numbers or other symbols
-        # But since to_keyboard returns tokens like 'oo1', 'ua2', we can just process those.
-
-        # A simple approach: token-based replacement in the keyboard representation
-        # Each syllable in keyboard form is usually [consonant][vowel][entering][tone]
-        # or [vowel][entering][tone]
 
         def replace_syllable(match):
             syllable = match.group(0)
 
-            # Extract tone number if present
             tone_match = re.search(r"(\d)$", syllable)
             tone_num = tone_match.group(1) if tone_match else ""
-            new_base = syllable[: -len(tone_num)] if tone_num else syllable
+            base = syllable[: -len(tone_num)] if tone_num else syllable
 
-            # Apply vowel mappings
-            if self.vowel_pattern:
-                new_base = self.vowel_pattern.sub(
-                    lambda m: self.mapping.vowel_map.get(m.group(0), m.group(0)),
-                    new_base,
-                )
+            initial, vowel, ending = self._parse_syllable(base)
 
-            # Apply consonant mappings if any (sorted by length descending)
-            for src, tgt in self.sorted_consonants:
-                if new_base.startswith(src):
-                    new_base = tgt + new_base[len(src) :]
-                    break  # Only one consonant replacement per syllable
+            new_initial = self._map_initial(initial, vowel)
+            new_vowel = self.mapping.vowel_map.get(vowel, vowel)
+            new_ending = self.mapping.ending_map.get(ending, ending)
 
-            # Apply custom regex rules (e.g., for context-sensitive changes)
-            for pattern, repl in self.compiled_rules:
-                new_base = pattern.sub(repl, new_base)
+            return new_initial + new_vowel + new_ending + tone_num
 
-            return new_base + tone_num
-
-        # Apply to all keyboard tokens (alphanumeric clusters with optional trailing digit)
         translated_keyboard = re.sub(
             r"[A-Za-z\u00C0-\u1EFF\u0358ⁿ]+\d?", replace_syllable, keyboard_text
         )
 
-        # Convert back from keyboard format
         result = self.target.to_handwriting(translated_keyboard)
 
         if self.mapping.remove_hyphens:
-            # Remove hyphens that are between alphanumeric/marked characters
             result = re.sub(
                 r"(?<=[a-zA-Z\u00C0-\u1EFF\u0358ⁿ])-(?=[a-zA-Z\u00C0-\u1EFF\u0358ⁿ])",
                 "",
