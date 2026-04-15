@@ -5331,7 +5331,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Slip, to miss the foot** Thām-phiù ... ... ... 失足
 - **„ out of the hand** Phiù-chhiú ... ... ... 失手
 - **Slip, down** Liù-puáh; liù--lóh-khṳ̀ ... ... ... 溜跋  溜落去
-- **Slippers** Ôi-thua; ôi-liouh ... ... ... 鞋拖
+- **Slippers** Ôi-thua; ôi-liouh ... ... ... 鞋拖  〔〕
 - **Slow** Mān ... ... ... 緩
 - **Slowly** Khuaⁿ-khuaⁿ ... ... ... 寬寬
 - **„ and carefully** Ûn-ûn ... ... ... 紜紜

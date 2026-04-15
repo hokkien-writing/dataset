@@ -11,17 +11,17 @@ class Entry:
     han_orig: str
     puj: str
     puj_orig: str
-    dp: str
-    dp_orig: str
-    bp: str
-    bp_orig: str
-    tl: str
-    tl_orig: str
-    en: str
-    en_orig: str
-    zh_CN: str
-    zh_TW: str
     source: str
+    en: str = ""
+    en_orig: str = ""
+    dp: str = ""
+    dp_orig: str = ""
+    bp: str = ""
+    bp_orig: str = ""
+    tl: str = ""
+    tl_orig: str = ""
+    zh_CN: str = ""
+    zh_TW: str = ""
 
 
 def generate_original(text: str) -> str:
