@@ -18,8 +18,8 @@ class Processor(BookProcessor):
     def extract_entries(self, text: str, source_name: str) -> list[Entry]:
         entries: list[Entry] = []
         current_section = ""
-        last_english_base = ""
-        last_english_orig_base = ""
+        last_en_base = ""
+        last_en_orig_base = ""
 
         for line in text.split("\n"):
             stripped = line.strip()
@@ -56,14 +56,14 @@ class Processor(BookProcessor):
                     qualifier = bold_raw[1:].strip()
                     qualifier_orig = generate_original(bold_raw)[1:].strip()
                     eng_mod = (
-                        f"{last_english_base}, {generate_modified(qualifier)}"
+                        f"{last_en_base}, {generate_modified(qualifier)}"
                         if qualifier
-                        else last_english_base
+                        else last_en_base
                     )
                     eng_orig = (
-                        f"{last_english_orig_base}, {qualifier_orig}"
+                        f"{last_en_orig_base}, {qualifier_orig}"
                         if qualifier_orig
-                        else last_english_orig_base
+                        else last_en_orig_base
                     )
                 else:
                     eng_mod = self.clean(generate_modified(bold_raw))
@@ -71,9 +71,9 @@ class Processor(BookProcessor):
                     base_mod = re.split(r"[,(]", eng_mod)[0].strip()
                     base_orig = re.split(r"[,(]", eng_orig)[0].strip()
                     if base_mod:
-                        last_english_base = base_mod
+                        last_en_base = base_mod
                     if base_orig:
-                        last_english_orig_base = base_orig
+                        last_en_orig_base = base_orig
 
                 raw_chunks = re.split(r"  +", trailing_raw)
                 puj_mod = self.clean(generate_modified(puj_raw))
@@ -104,12 +104,12 @@ class Processor(BookProcessor):
                     p_part = puj_parts_raw[i]
                     entries.append(
                         Entry(
-                            teochew=self.clean(mod),
-                            teochew_orig=self.clean(orig),
+                            han=self.clean(mod),
+                            han_orig=self.clean(orig),
                             puj=self.clean(generate_modified(p_part)),
                             puj_orig=self.clean(generate_original(p_part)),
-                            english=eng_mod,
-                            english_orig=eng_orig,
+                            en=eng_mod,
+                            en_orig=eng_orig,
                             source=source_label,
                         )
                     )
@@ -117,12 +117,12 @@ class Processor(BookProcessor):
                 for mod, orig in chunks:
                     entries.append(
                         Entry(
-                            teochew=self.clean(mod),
-                            teochew_orig=self.clean(orig),
+                            han=self.clean(mod),
+                            han_orig=self.clean(orig),
                             puj=puj_mod,
                             puj_orig=puj_orig,
-                            english=eng_mod,
-                            english_orig=eng_orig,
+                            en=eng_mod,
+                            en_orig=eng_orig,
                             source=source_label,
                         )
                     )

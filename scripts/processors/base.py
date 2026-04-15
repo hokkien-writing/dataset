@@ -7,12 +7,20 @@ from dataclasses import dataclass
 
 @dataclass
 class Entry:
-    teochew: str
-    teochew_orig: str
+    han: str
+    han_orig: str
     puj: str
     puj_orig: str
-    english: str
-    english_orig: str
+    dp: str
+    dp_orig: str
+    bp: str
+    bp_orig: str
+    tl: str
+    tl_orig: str
+    en: str
+    en_orig: str
+    zh_CN: str
+    zh_TW: str
     source: str
 
 

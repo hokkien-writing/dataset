@@ -80,10 +80,10 @@ build.sh             一鍵建置腳本
 |------|------|
 | `puj` | 白話字拼音（校注後） |
 | `puj_orig` | 白話字拼音（原始，僅當與 puj 不同時填寫） |
-| `teochew` | 潮州話漢字（校注後） |
-| `teochew_orig` | 潮州話漢字（原始，僅當與 teochew 不同時填寫） |
-| `english` | 英文翻譯（校注後） |
-| `english_orig` | 英文翻譯（原始，僅當與 english 不同時填寫） |
+| `han` | 漢字（校注後） |
+| `han_orig` | 漢字（原始，僅當與 han 不同時填寫） |
+| `en` | 英文翻譯（校注後） |
+| `en_orig` | 英文翻譯（原始，僅當與 en 不同時填寫） |
 | `source` | 來源（書名 > 章節） |
 
 新增書籍時，只需在 `scripts/processors/` 新增同名的 `.py` 檔案，定義繼承 `BookProcessor` 的 `Processor` 類別即可。
