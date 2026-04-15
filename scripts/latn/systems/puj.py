@@ -23,5 +23,5 @@ def create_config() -> LatnSystemConfig:
         nasal_endings=["m", "n", "ng"],
         entering_endings=["p", "t", "k", "h"],
         tone_mark_priority=["a", "o", "e", "ur", "u", "i", "n", "m"],
-        syllable_mappings={"ⁿ": "nn"},
+        syllable_mappings={"ⁿ": "nn", "ur": "e"},
     )

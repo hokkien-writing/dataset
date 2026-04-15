@@ -1,6 +1,7 @@
 """Core latn converter implementation."""
 
 import re
+import unicodedata
 from abc import ABC
 from scripts.latn.config import LatnSystemConfig
 
@@ -22,10 +23,16 @@ class LatnConverter(ABC):
 
     def to_keyboard(self, text: str) -> str:
         """Convert romanized text to keyboard input format."""
-        tokens = re.findall(r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|[^\s]", text)
+        # Keep syllables together with their tone digits
+        tokens = re.findall(
+            r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*|[^\s]", text
+        )
         converted_tokens = []
         for token in tokens:
-            if re.match(r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+", token):
+            # Match tokens with optional trailing digits
+            if re.match(
+                r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*", token
+            ):
                 # Handle proper nouns/capitalization where needed
                 converted_tokens.append(self._to_keyboard_word(token))
             else:
@@ -61,6 +68,9 @@ class LatnConverter(ABC):
         if not syllable:
             return ""
 
+        if any(c.isdigit() for c in syllable):
+            return syllable
+
         original_syllable = syllable
         tone_num = None
 
@@ -74,44 +84,91 @@ class LatnConverter(ABC):
                 found_complex = True
                 break
 
+        all_tone_options = []
         if not found_complex:
             new_syllable_chars = []
             i = 0
+            all_tone_options = []
             while i < len(syllable):
                 found_vowel = False
                 # Try longest match from reverse_vowel_map
-                for marked_vowel, (base_vowel, t) in self.reverse_vowel_map.items():
+                for marked_vowel, options in self.reverse_vowel_map.items():
                     if syllable.startswith(marked_vowel, i):
-                        if tone_num is None or t > 1:
+                        has_diacritics = (
+                            unicodedata.normalize("NFD", marked_vowel) != marked_vowel
+                        )
+                        if not has_diacritics:
+                            if (
+                                marked_vowel in ("n", "m")
+                                and i + 1 < len(syllable)
+                                and syllable[i + 1] == "g"
+                            ):
+                                continue
+                        base_vowel, t = options[0]  # Default to first
+                        all_tone_options.extend(options)
+
+                        # Disambiguation logic for multiple tones mapping to same diacritic
+                        if len(options) > 1:
+                            # If it's a checked syllable, prefer tones 4 or 8
+                            is_checked = any(
+                                syllable.endswith(e) for e in self.entering_endings
+                            )
+                            for opt_base, opt_t in options:
+                                if is_checked and opt_t in [4, 8]:
+                                    base_vowel, t = opt_base, opt_t
+                                    break
+                                if not is_checked and opt_t not in [4, 8] and opt_t > 1:
+                                    base_vowel, t = opt_base, opt_t
+                                    # Don't break, keep looking for better non-checked tone if any
+
+                        if tone_num is None or (has_diacritics and t > 1):
                             tone_num = t
                         new_syllable_chars.append(base_vowel)
                         i += len(marked_vowel)
                         found_vowel = True
                         break
-                
+
                 if not found_vowel:
                     new_syllable_chars.append(syllable[i])
                     i += 1
             syllable = "".join(new_syllable_chars)
 
-        if tone_num is None or tone_num == 1:
-            if syllable and syllable[-1] in self.entering_endings:
-                tone_num = 4
-            elif tone_num is None:
-                tone_num = 1
+        if tone_num is None:
+            tone_num = 1
 
+        if (
+            tone_num not in [4, 8]
+            and syllable
+            and syllable[-1] in self.entering_endings
+        ):
+            found_entering = False
+            for _, opt_t in all_tone_options:
+                if opt_t in [4, 8]:
+                    tone_num = opt_t
+                    found_entering = True
+                    break
+            if not found_entering:
+                tone_num = 4
+
+        # Remove tone digits first
         syllable = re.sub(r"\d", "", syllable)
 
-        # Apply system-specific syllable mappings (marked -> keyboard)
+        # Apply system-specific syllable mappings FIRST (marked -> keyboard)
+        # This handles things like ur -> e in PUJ before vowel_map processes e
         for marked, keyboard in self.config.syllable_mappings.items():
-            syllable = syllable.replace(marked, keyboard)
+            if marked in syllable:
+                syllable = syllable.replace(marked, keyboard)
+                break
 
         # Note: the numbers are used to mark tone.
         return f"{syllable}{tone_num}"
 
     def to_handwriting(self, text: str) -> str:
         """Convert keyboard input format (e.g., 'li3') to marked latn (e.g., 'lí')."""
-        tokens = re.findall(r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|[^\s]", text)
+        # Keep syllables together with their tone digits
+        tokens = re.findall(
+            r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|[^\s]", text
+        )
         converted_tokens = []
 
         for token in tokens:
@@ -186,5 +243,8 @@ class LatnConverter(ABC):
         # Note: keyboard symbols are usually suffixes (like 'nn')
         for marked, keyboard in self.config.syllable_mappings.items():
             base_part = re.sub(keyboard + "$", marked, base_part)
+
+        if not marked:
+            return syllable
 
         return base_part
