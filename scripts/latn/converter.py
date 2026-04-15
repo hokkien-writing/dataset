@@ -241,8 +241,8 @@ class LatnConverter(ABC):
 
         # Apply system-specific syllable mappings (keyboard -> marked)
         # Note: keyboard symbols are usually suffixes (like 'nn')
-        for marked, keyboard in self.config.syllable_mappings.items():
-            base_part = re.sub(keyboard + "$", marked, base_part)
+        for marked_sym, keyboard in self.config.syllable_mappings.items():
+            base_part = re.sub(keyboard + "$", marked_sym, base_part)
 
         if not marked:
             return syllable

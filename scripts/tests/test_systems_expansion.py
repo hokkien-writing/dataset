@@ -84,7 +84,7 @@ def test_teochew_vowels():
 
     samples = [
         ("sa", "sa1"),
-        ("sê", "se5"),
+        ("sê", "sê5"),
         ("si", "si1"),
         ("so", "so1"),
         ("su", "su1"),

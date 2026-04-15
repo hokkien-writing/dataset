@@ -62,14 +62,15 @@ def register_default_translators(registry):
         "c": "chh",
         "r": "j",
     }
-registry.register_translator(
-        "DP",
-        "PUJ",
+    registry.register_translator(
+        "BP",
+        "POJ",
         PhoneticMapping(
-            vowel_map={"e": "ṳ", "ê": "e"},
-            consonant_map=dp_to_puj_initials,
+            vowel_map={"oo": "o."},
+            consonant_map=bp_to_poj_initials,
         ),
     )
+
     # TL <-> BP
     registry.register_translator(
         "TL",
@@ -131,16 +132,27 @@ registry.register_translator(
         "PUJ",
         "DP",
         PhoneticMapping(
-            vowel_map={"ṳ": "e"},
             consonant_map=puj_to_dp_initials,
+            conversion_rules=[
+                # e -> ê
+                (r"e", r"ê"),
+                # ur -> e
+                (r"ur", r"e"),
+                # entering endings
+                (r"p$", r"b"),
+                (r"t$", r"d"),
+                (r"k$", r"g"),
+            ],
         ),
     )
 
     dp_to_puj_initials = {
+        "zi": "chi",
+        "zê": "che",
+        "ci": "chhi",
+        "cê": "chhe",
         "z": "ts",
         "c": "tsh",
-        "ch": "j",
-        "chh": "r",
         "b": "p",
         "p": "ph",
         "bh": "b",
@@ -149,24 +161,21 @@ registry.register_translator(
         "g": "k",
         "k": "kh",
         "gh": "g",
-        "j": "r",
     }
     registry.register_translator(
-        "BP",
-        "POJ",
+        "DP",
+        "PUJ",
         PhoneticMapping(
-            vowel_map={"oo": "o."},
-            consonant_map=bp_to_poj_initials,
-            # Apply vowel map first, then conversion_rules to fix the context
-            # Convert zin -> chin, cim -> chhim, zang -> tsang
+            consonant_map=dp_to_puj_initials,
             conversion_rules=[
-                # zin -> chin
-                (r"tsin", r"chin"),
-                (r"tsim", r"chhim"),
-                (r"tsik", r"chek"),
-                # cim -> chhim
-                (r"tshim", r"chhim"),
-                # zang -> tsang stays as is
+                # entering endings
+                (r"b$", r"p"),
+                (r"d$", r"t"),
+                (r"(?<!n)g$", r"k"),
+                # e -> ur (ṳ)
+                (r"e", r"ur"),
+                # ê -> e
+                (r"ê", r"e"),
             ],
         ),
     )
