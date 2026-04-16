@@ -51,11 +51,11 @@ class TestPOJConverter(ConverterTestBase):
                 ("u7", "ū"),
                 ("u8", "u̍"),
                 ("ui1", "ui"),
-                ("ui2", "uí"),
-                ("ui3", "uì"),
-                ("ui5", "uî"),
-                ("ui6", "uĩ"),
-                ("ui7", "uī"),
+                ("ui2", "úi"),
+                ("ui3", "ùi"),
+                ("ui5", "ûi"),
+                ("ui6", "ũi"),
+                ("ui7", "ūi"),
                 ("ui8", "ui̍"),
                 ("iu1", "iu"),
                 ("iu2", "iú"),
@@ -112,10 +112,10 @@ class TestPOJConverter(ConverterTestBase):
     def test_syllables_ui(self):
         self.assert_round_trip(
             [
-                ("tui3", "tuì"),
-                ("hui5", "huî"),
-                ("chui7", "chuī"),
-                ("sui2", "suí"),
+                ("tui3", "tùi"),
+                ("hui5", "hûi"),
+                ("chui7", "chūi"),
+                ("sui2", "súi"),
             ]
         )
 
@@ -172,8 +172,30 @@ class TestPOJConverter(ConverterTestBase):
     def test_hyphenated(self):
         self.assert_round_trip(
             [
-                ("Peh8-oe7-ji7", "Pe̍h-oē-jī"),
-                ('pan2-pun2--e5', "pán-pún--ê")
+                ("Peh8-oe7-ji7", "Pe̍h-ōe-jī"),
+                ("pan2-pun2--e5", "pán-pún--ê")
+            ]
+        )
+
+    def test_tone_rules(self):
+        self.assert_round_trip(
+            [
+                ("ti7", "tī"),
+                ("lang5", "lâng"),
+                ("chhut8", "chhu̍t"),
+                ("kio3", "kiò"),
+                ("tau2", "táu"),
+                ("au5", "âu"),
+                ("iu5", "iû"),
+                ("ui3", "ùi"),
+                ("goan2", "goán"),
+                ("oai7", "oāi"),
+                ("khiau2", "khiáu"),
+                ("oa2", "óa"),
+                ("oe7", "ōe"),
+                ("thoe2", "thóe"),
+                ("m7", "m̄"),
+                ("ng3", "ǹg"),
             ]
         )
 

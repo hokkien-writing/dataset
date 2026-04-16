@@ -40,6 +40,7 @@ def create_config() -> LatnSystemConfig:
             "h",
             "s",
             "j",
+            "z",
         ],
         nasal_endings=["m", "n", "ng"],
         entering_endings=["p", "t", "k", "h"],

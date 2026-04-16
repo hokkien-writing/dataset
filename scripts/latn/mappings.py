@@ -114,6 +114,39 @@ def register_default_translators(registry):
         ),
     )
 
+    # --- Cross-Group (POJ <-> PUJ) ---
+
+    # POJ -> PUJ
+    registry.register_translator(
+        "POJ",
+        "PUJ",
+        PhoneticMapping(
+            initial_map={
+                "chh": lambda init, vowel: "chh" if vowel[0] in ("i", "e") else "tsh",
+                "ch": lambda init, vowel: "ch" if vowel[0] in ("i", "e") else "ts",
+                "j": lambda init, vowel: "j" if vowel[0] in ("i", "e") else "z",
+            },
+            vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+        ),
+    )
+
+    # PUJ -> POJ
+    registry.register_translator(
+        "PUJ",
+        "POJ",
+        PhoneticMapping(
+            initial_map={
+                "tsh": "chh",
+                "ts": "ch",
+                "chh": "chh",
+                "ch": "ch",
+                "z": "j",
+                "j": "j",
+            },
+            vowel_map={"ou": "oo", "ua": "oa", "ue": "oe"},
+        ),
+    )
+
     # --- Teochew Group (PUJ, DP) ---
 
     # PUJ -> DP
@@ -157,7 +190,7 @@ def register_default_translators(registry):
                 "gh": "g",
                 "z": lambda init, vowel: "ch" if vowel in ("i", "ê") else "ts",
                 "c": lambda init, vowel: "chh" if vowel in ("i", "ê") else "tsh",
-                "r": "j",
+                "r": lambda init, vowel: "j" if vowel in ("i", "ê") else "z",
             },
             vowel_map={"e": "ur", "ê": "e"},
             ending_map={"b": "p", "d": "t", "g": "k"},
