@@ -143,7 +143,12 @@ class TestPUJConverter(ConverterTestBase):
         self.assert_round_trip([("Li2", "Lí"), ("Tsa5", "Tsâ")])
 
     def test_hyphenated(self):
-        self.assert_round_trip([("Peh8-ue7-ji7", "Pe̍h-uē-jī")])
+        self.assert_round_trip(
+            [
+                ("Peh8-ue7-ji7", "Pe̍h-uē-jī"),
+                ("lai5--lo7", "lâi--lō")
+            ]
+        )
 
 
 if __name__ == "__main__":
