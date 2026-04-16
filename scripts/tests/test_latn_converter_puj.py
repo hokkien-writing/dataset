@@ -96,8 +96,8 @@ class TestPUJConverter(ConverterTestBase):
                 ("lak8", "la̍k"),
                 ("tik4", "tik"),
                 ("tik8", "ti̍k"),
-                ("chap4", "chap"),
-                ("chap8", "cha̍p"),
+                ("tsap4", "tsap"),
+                ("tsap8", "tsa̍p"),
                 ("phah4", "phah"),
                 ("phah8", "pha̍h"),
             ]
@@ -123,8 +123,8 @@ class TestPUJConverter(ConverterTestBase):
                 ("sinn1", "siⁿ"),
                 ("sinn3", "sìⁿ"),
                 ("sinn7", "sīⁿ"),
-                ("chuann1", "chuaⁿ"),
-                ("chuann3", "chuàⁿ"),
+                ("tsuann1", "tsuaⁿ"),
+                ("tsuann3", "tsuàⁿ"),
                 ("pinn5", "pîⁿ"),
             ]
         )
@@ -135,8 +135,7 @@ class TestPUJConverter(ConverterTestBase):
                 ("kur5", "kṳ̂"),
                 ("tur2", "tṳ́"),
                 ("sur7", "sṳ̄"),
-                ("chur3", "chṳ̀"),
-                ("pur8", "pṳ̍"),
+                ("tsur3", "tsṳ̀"),
             ]
         )
 
@@ -144,7 +143,7 @@ class TestPUJConverter(ConverterTestBase):
         self.assert_round_trip([("Li2", "Lí"), ("Tsa5", "Tsâ")])
 
     def test_hyphenated(self):
-        self.assert_round_trip([("pe7-u7-ji7", "pē-ū-jī")])
+        self.assert_round_trip([("Peh8-ue7-ji7", "Pe̍h-uē-jī")])
 
 
 if __name__ == "__main__":

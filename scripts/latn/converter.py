@@ -50,7 +50,7 @@ class LatnConverter(ABC):
                 converted_parts.append("-")
             elif part:
                 is_upper = part.isupper()
-                is_title = part.istitle()
+                is_title = part[0].isupper() if part else False
 
                 converted = self._to_keyboard_syllable(part.lower())
 

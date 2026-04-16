@@ -153,7 +153,6 @@ if __name__ == "__main__":
         test_teochew_vowels()
         test_teochew_nasal_endings()
         test_teochew_entering_endings()
-        print("\nAll tests passed!")
     except AssertionError as e:
         print(f"\nTest failed!")
         exit(1)
