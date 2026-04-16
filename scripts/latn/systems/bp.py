@@ -22,9 +22,12 @@ def create_config() -> LatnSystemConfig:
         description="Southern Min Pinyin (Bînpîn)",
         vowels=vowels,
         initials=[
+            "bbn",
+            "ggn",
             "gg",
             "bb",
-            "ng",
+            "zz",
+            "ln",
             "b",
             "p",
             "m",

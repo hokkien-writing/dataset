@@ -19,7 +19,7 @@ def create_config() -> LatnSystemConfig:
 
     return LatnSystemConfig.from_simple_vowels(
         name="DP",
-        description="Teochew Pinyin (Tiô-phêng)",
+        description="Teochew Pinyin (Diê5-pêng1)",
         vowels=vowels,
         initials=[
             "gh",

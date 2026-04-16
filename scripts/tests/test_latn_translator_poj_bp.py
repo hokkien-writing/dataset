@@ -19,13 +19,13 @@ class TestPOJToBP(TranslatorTestBase):
                 ("gâng", "ggáng"),
                 ("châng", "záng"),
                 ("chhâng", "cáng"),
-                ("jâng", "ráng"),
+                ("jâng", "zzáng"),
                 ("sâng", "sáng"),
                 ("hâng", "háng"),
                 ("lâng", "láng"),
-                ("mâng", "máng"),
-                ("nâng", "náng"),
-                ("ngâng", "ngáng"),
+                ("mâng", "bbnáng"),
+                ("nâng", "lnáng"),
+                ("ngâng", "ggnáng"),
             ]
         )
 
