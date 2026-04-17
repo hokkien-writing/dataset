@@ -29,6 +29,16 @@ class TestPOJToBP(TranslatorTestBase):
             ]
         )
 
+    def test_vowels(self):
+        self.assert_round_trip(
+            [
+                ("o͘", "ōo"),
+                ("ó͘", "ǒo"),
+                ("ò͘", "òo"),
+                ("o̍͘k", "óok"),
+            ]
+        )
+
     def test_nasal_endings(self):
         self.assert_round_trip(
             [

@@ -14,7 +14,7 @@ def register_default_translators(registry):
         "TL",
         PhoneticMapping(
             initial_map={"ch": "ts", "chh": "tsh"},
-            vowel_map={"o.": "oo", "oa": "ua", "oe": "ue"},
+            vowel_map={"oa": "ua", "oe": "ue"},
         ),
     )
 
@@ -24,7 +24,7 @@ def register_default_translators(registry):
         "POJ",
         PhoneticMapping(
             initial_map={"ts": "ch", "tsh": "chh"},
-            vowel_map={"oo": "o.", "ua": "oa", "ue": "oe"},
+            vowel_map={"ua": "oa", "ue": "oe"},
         ),
     )
 
@@ -50,7 +50,6 @@ def register_default_translators(registry):
                 "chh": "c",
                 "j": "zz",
             },
-            vowel_map={"o.": "oo"},
         ),
     )
 
@@ -76,7 +75,6 @@ def register_default_translators(registry):
                 "c": "chh",
                 "zz": "j",
             },
-            vowel_map={"oo": "o."},
         ),
     )
 
