@@ -47,3 +47,12 @@ def create_config() -> LatnSystemConfig:
         tone_mark_priority=["a", "o", "e", "ur", "u", "i", "n", "m"],
         syllable_mappings={"ⁿ": "nn"},
     )
+
+
+def create_variant_rules():
+    return {
+        "ṳ": ["ṳ", "u", "i"],
+        "oiⁿ": ["oiⁿ", "aiⁿ"],
+        "t$": ["k"],
+        "n$": ["ng"],
+    }
