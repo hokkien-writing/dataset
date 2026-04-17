@@ -2921,7 +2921,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ no** Bõi-siou ... ... ... 袂消
 - **Sample** Pān-thâu; pān ... ... ... 辦頭  辦
 - **Sell, to** Bōi ... ... ... 賣
-- **„ stock in trade** Phòu phah--khṳt-náng ... ... ... 舖打與人
+- **„ stock in trade** Phòu phah--khṳt-nâng ... ... ... 舖打與人
 - **Share, a** Hūn ... ... ... 分
 - **Shop, a** Phòu ... ... ... 舖
 - **„ proprietor of** Tshâi-tsú ... ... ... 財主
@@ -5071,7 +5071,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Railway** Húe-chhia ... ... ... 火車
 - **Rank** Cheh-hâm ... ... ... 職銜
 - **Rare** Hán-tit ũ; chié-ũ ... ... ... 罕得有  少有
-- **Rascal** Aù-nâng; tshàu-nâng ... ... ... 臭人
+- **Rascal** Aù-nâng; tshàu-nâng ... ... ...   臭人
 - **Real** Chin ... ... ... 眞
 - **Really** Chin-sít ... ... ... 眞實
 - **Reap** Siu-tang ... ... ... 收冬

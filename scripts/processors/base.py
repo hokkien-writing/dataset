@@ -29,6 +29,7 @@ def generate_original(text: str) -> str:
     text = re.sub(r"\+\+([^\n+]+)\+\+", "", text)
     text = re.sub(r"~~([^\n~]+)~~\([^\n)]*\)", r"\1", text)
     text = re.sub(r"~~([^\n~]+)~~", r"\1", text)
+    text = re.sub(r"\[替\]", "", text)
     return text
 
 

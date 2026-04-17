@@ -76,7 +76,7 @@ def load_char_variants(path: Path) -> dict[str, list[str]]:
             rec = row["recommend"]
             variants: list[str] = []
             for k in ("variant_1", "variant_2", "variant_3"):
-                v = row.get(k, "").strip()
+                v = (row.get(k) or "").strip()
                 if v:
                     variants.append(v)
             if variants:
