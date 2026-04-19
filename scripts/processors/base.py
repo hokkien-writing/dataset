@@ -7,13 +7,21 @@ from dataclasses import dataclass
 
 @dataclass
 class Entry:
-    teochew: str
-    teochew_orig: str
+    han: str
+    han_orig: str
     puj: str
     puj_orig: str
-    english: str
-    english_orig: str
     source: str
+    en: str = ""
+    en_orig: str = ""
+    dp: str = ""
+    dp_orig: str = ""
+    bp: str = ""
+    bp_orig: str = ""
+    tl: str = ""
+    tl_orig: str = ""
+    zh_CN: str = ""
+    zh_TW: str = ""
 
 
 def generate_original(text: str) -> str:
@@ -21,6 +29,7 @@ def generate_original(text: str) -> str:
     text = re.sub(r"\+\+([^\n+]+)\+\+", "", text)
     text = re.sub(r"~~([^\n~]+)~~\([^\n)]*\)", r"\1", text)
     text = re.sub(r"~~([^\n~]+)~~", r"\1", text)
+    text = re.sub(r"\[替\]", "", text)
     return text
 
 

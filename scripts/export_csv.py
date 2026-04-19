@@ -20,10 +20,10 @@ PROCESSORS_DIR = PROJECT_ROOT / "scripts" / "processors"
 CSV_FIELDS = [
     "puj",
     "puj_orig",
-    "teochew",
-    "teochew_orig",
-    "english",
-    "english_orig",
+    "han",
+    "han_orig",
+    "en",
+    "en_orig",
     "source",
 ]
 
@@ -88,13 +88,13 @@ def main():
                         [
                             entry.puj,
                             entry.puj_orig if entry.puj_orig != entry.puj else "",
-                            entry.teochew,
-                            entry.teochew_orig
-                            if entry.teochew_orig != entry.teochew
+                            entry.han,
+                            entry.han_orig
+                            if entry.han_orig != entry.han
                             else "",
-                            entry.english,
-                            entry.english_orig
-                            if entry.english_orig != entry.english
+                            entry.en,
+                            entry.en_orig
+                            if entry.en_orig != entry.en
                             else "",
                             entry.source,
                         ]
