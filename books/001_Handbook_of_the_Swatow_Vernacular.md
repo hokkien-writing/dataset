@@ -5268,7 +5268,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Shed, tears** Lâu-mák-tsap ... ... ... 流目汁
 - **„ blood** Lâu-hueh ... ... ... 流血
 - **Shell, as of eggs, shell-fish** Khak ... ... ... ~~壳~~(殼)
-- **Shelter, to take** Siám ... ... ... 避
+- **Shelter, to take** Siám ... ... ... ~~避~~(閃)
 - **Shepherd** Chiéⁿ-iêⁿ--kâi-nâng ... ... ... ~~守~~(掌)羊~~個~~(个)人[訓]
 - **Shield** Pâi; tin-pâi ... ... ... 牌  籐牌
 - **Shift** Súa ... ... ... 徙
