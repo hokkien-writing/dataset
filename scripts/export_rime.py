@@ -194,6 +194,7 @@ speller:
 
 translator:
   dictionary: {pkg}
+  prism: {schema_id}
 
 latn:
   dictionary: {latn_dict}
