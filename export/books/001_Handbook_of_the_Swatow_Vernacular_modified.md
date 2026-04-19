@@ -5411,7 +5411,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Spoiled** Hāi--lō ... ... ... 害了
 - **Sport** Thit-thô; sńg ... ... ... 佚佗  耍
 - **Spot, a** Tiám ... ... ... 點
-- **Sprain** Chek--tiéh; nãuⁿ--tiéh; tsuáh--tiéh ... ... ...   〔〕
+- **Sprain** Chek--tiéh; nãuⁿ--tiéh; tsuáh--tiéh ... ... ... 〔〕  〔〕  〔〕
 - **Spread, as a carpet** Tshṳ; phi ... ... ... 舒  披
 - **Spring, a** Tsûaⁿ; tsúi-tsûaⁿ ... ... ... 泉  水泉
 - **Sprinkle** Hîⁿ ... ... ... 〔〕
