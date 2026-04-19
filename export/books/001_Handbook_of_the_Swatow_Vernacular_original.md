@@ -1293,7 +1293,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **樓頂樓枋亦是如是** Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ ... ... ... The floor up-stairs the same.
 - **每個禮拜着洗清潔清潔** Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih ... ... ... Every week you must wash it clean.
 - **灰埕亦着洗** Hue-tiâⁿ iā tiéh sói ... ... ... The lime floor must be washed.
-- **此處每明朝早熱在** Chíe pâi-mêng-khí-tsá zuáh-tsãi ... ... ... Here it is very warm every morning.
+- **此處每明朝早熱在** Chié pâi-mêng-khí-tsá zuáh-tsãi ... ... ... Here it is very warm every morning.
 - **我要作欄杆** Uá àiⁿ-tsò lân-kan ... ... ... I want to make a railing.
 - **爾呌司阜霎時來** Lṳ́ kiè sai-pẽ khiã-tiām lâi ... ... ... You tell the carpenter to come bye-and-bye.
 - **共伊呾我此處要作欄杆** Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan ... ... ... Tell him I want to make a railing here.
@@ -4832,7 +4832,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ a, equal to Chinese** Saⁿ-lí ... ... ... 三里
 - **Mill, for removing the husk** Lâng ... ... ... 壟
 - **„ for grinding** Bō ... ... ... 磨
-- **Mill-stone** Bō-chíeh ... ... ... 磨石
+- **Mill-stone** Bō-Chiéh ... ... ... 磨石
 - **Minute, a** Chék-hun-cheng ... ... ... 壹分鐘
 - **„ small** Iùⁿ-iùⁿ ... ... ... 幼幼
 - **Miscarry** Lóh-súaⁿ; phah-tó ... ... ... 落產  打倒
@@ -5207,7 +5207,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Scandal, to** Phì-sièⁿ; ngí-lũn nâng-kâi-sṳ̄ ... ... ...   議論人[訓]個事
 - **Scar** Hûn; sieⁿ-hûn ... ... ... 痕  傷痕
 - **Scar-face** Phùa-kìaⁿ ... ... ... 破鏡
-- **Scarce** Chíe ... ... ... 少
+- **Scarce** Chié ... ... ... 少
 - **Scatter** Sùaⁿ; sì-sùaⁿ ... ... ... 散  四散
 - **Scholar** Hák-seng ... ... ... 學生
 - **School** Tsṳ-che ... ... ... 書齋
