@@ -1,0 +1,55 @@
+# Rime schema: teochew_dp
+# Generated from merged.csv - do not edit manually
+
+schema:
+  schema_id: teochew_dp
+  name: 潮州語・潮州話拼音
+  version: "0.1"
+  author:
+    - Hokkien Writing Project
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - script_translator
+    - script_translator@latn
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedba12345678-
+  algebra:
+    - derive/-/ /
+    - derive/[1-8]//
+    - xform/bh/b/
+    - xform/gh/g/
+    - xform/b/p/
+    - xform/p/ph/
+    - xform/d/t/
+    - xform/t/th/
+    - xform/g/k/
+    - xform/k/kh/
+    - xform/z/ch/
+    - xform/c/chh/
+    - xform/r/j/
+    - xform/nn$/nn/
+    - xform/^e(?!$)/ur/
+    - derive/ê/e/
+
+translator:
+  dictionary: teochew
+  enable_correction: true
+
+latn:
+  dictionary: teochew_dp_latn
+  enable_completion: true

@@ -4994,7 +4994,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Poison** Chiáh-sí-nâng; ták-iéh ... ... ... 食死人[訓]  毒藥
 - **Pole, for carrying** Phoi-taⁿ; pêⁿ-taⁿ ... ... ... 批擔  ~~平擔~~(扁擔)
 - **Polite** Kui-kṳ́; ũ-lói ... ... ... 規矩  有禮
-- **Pollute** Mak-tiéh-nah-sap; hú-tiéh nah-sap ... ... ... ~~染~~(衊)着~~污穢~~(垃圾)  ++捬着垃圾
+- **Pollute** Mak-tiéh-nah-sap; hú-tiéh nah-sap ... ... ... ~~染~~(衊)着~~污穢~~(垃圾)  ++捬着垃圾++
 - **Pond** Tî ... ... ... 池
 - **Poor** Khiou; kêng ... ... ... ~~貧~~(磽)  ~~貧~~(窮)
 - **Portrait** Sièⁿ ... ... ... 像

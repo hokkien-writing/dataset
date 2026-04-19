@@ -1,0 +1,7 @@
+# Rime default settings customization
+# Generated from merged.csv - do not edit manually
+
+patch:
+  schema_list:
+    - schema_id: teochew_puj
+    - schema_id: teochew_dp

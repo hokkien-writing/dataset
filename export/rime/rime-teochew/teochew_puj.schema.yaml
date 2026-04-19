@@ -1,0 +1,43 @@
+# Rime schema: teochew_puj
+# Generated from merged.csv - do not edit manually
+
+schema:
+  schema_id: teochew_puj
+  name: 潮州語・白話字
+  version: "0.1"
+  author:
+    - Hokkien Writing Project
+
+engine:
+  processors:
+    - ascii_composer
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - script_translator
+    - script_translator@latn
+  filters:
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedba12345678-
+  algebra:
+    - derive/-/ /
+    - derive/[1-8]//
+    - xform/tsh/chh/
+    - xform/ts/ch/
+
+translator:
+  dictionary: teochew
+  enable_correction: true
+
+latn:
+  dictionary: teochew_puj_latn
+  enable_completion: true
