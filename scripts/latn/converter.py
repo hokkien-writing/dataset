@@ -25,10 +25,14 @@ class LatnConverter(ABC):
         """Convert romanized text to keyboard input format."""
         # Keep syllables together with their tone digits
         tokens = re.findall(
-            r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*|[^\s]", text
+            r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*|\s+|[^\s]",
+            text,
         )
         converted_tokens = []
         for token in tokens:
+            if token.isspace():
+                converted_tokens.append(token)
+                continue
             # Match tokens with optional trailing digits
             if re.match(
                 r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*", token
@@ -167,11 +171,16 @@ class LatnConverter(ABC):
         """Convert keyboard input format (e.g., 'li3') to marked latn (e.g., 'lí')."""
         # Keep syllables together with their tone digits
         tokens = re.findall(
-            r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|[^\s]", text
+            r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|\s+|[^\s]",
+            text,
         )
         converted_tokens = []
 
         for token in tokens:
+            if token.isspace():
+                converted_tokens.append(token)
+                continue
+
             if re.match(r"[a-zA-Z0-9'-]+", token):
                 converted_tokens.append(self._word_to_handwriting(token))
             else:

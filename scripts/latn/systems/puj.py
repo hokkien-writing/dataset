@@ -18,7 +18,7 @@ def create_config() -> LatnSystemConfig:
 
     return LatnSystemConfig.from_simple_vowels(
         name="PUJ",
-        description="Pe̍h-uē-jī romanization system (han)",
+        description="Pe̍h-uē-jī romanization system",
         vowels=vowels,
         initials=[
             "tsh",

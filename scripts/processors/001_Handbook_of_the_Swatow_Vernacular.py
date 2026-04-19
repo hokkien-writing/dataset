@@ -79,7 +79,12 @@ class Processor(BookProcessor):
                 puj_mod = self.clean(generate_modified(puj_raw))
                 puj_orig = self.clean(generate_original(puj_raw))
 
-            puj_parts_raw = [p.strip() for p in puj_raw.split(";") if p.strip()]
+            if ";" in puj_raw:
+                puj_parts_raw = [p.strip() for p in puj_raw.split(";") if p.strip()]
+            else:
+                puj_parts_raw = [p.strip() for p in puj_raw.split(",") if p.strip()]
+                if any(" " in p for p in puj_parts_raw):
+                    puj_parts_raw = [puj_raw.strip()]
 
             chunks = []
             for chunk in raw_chunks:
@@ -100,6 +105,20 @@ class Processor(BookProcessor):
             if len(puj_parts_raw) == len(chunks) and len(chunks) > 1:
                 for i, (mod, orig) in enumerate(chunks):
                     p_part = puj_parts_raw[i]
+                    entries.append(
+                        Entry(
+                            han=self.clean(mod),
+                            han_orig=self.clean(orig),
+                            puj=self.clean(generate_modified(p_part)),
+                            puj_orig=self.clean(generate_original(p_part)),
+                            en=eng_mod,
+                            en_orig=eng_orig,
+                            source=source_label,
+                        )
+                    )
+            elif len(puj_parts_raw) > 1 and len(chunks) == 1:
+                mod, orig = chunks[0]
+                for p_part in puj_parts_raw:
                     entries.append(
                         Entry(
                             han=self.clean(mod),

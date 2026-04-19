@@ -2,8 +2,9 @@
 """
 Merge CSV files from export/books/ into a single wide table.
 
-Columns: puj, dp, poj, tl, bp, han, han_variants, en, zh_CN, zh_TW, source
+Columns: latn_norm, puj, dp, poj, tl, bp, han, han_variants, en, zh_CN, zh_TW, source
 
+- latn_norm: normalized latin form (auto-generated from puj via translator)
 - puj: Peng'im romanization (from existing CSV)
 - dp, poj, tl, bp: other romanization systems (reserved, empty for now)
 - han: Chinese characters (from han column)
@@ -15,9 +16,11 @@ Columns: puj, dp, poj, tl, bp, han, han_variants, en, zh_CN, zh_TW, source
 
 import csv
 import re
+import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
 EXPORT_DIR = PROJECT_ROOT / "export"
 BOOKS_DIR = EXPORT_DIR / "books"
 VARIANTS_CSV = EXPORT_DIR / "variants.csv"
@@ -25,6 +28,7 @@ CAPITALIZED_CSV = EXPORT_DIR / "capitalized_en.csv"
 OUTPUT_CSV = EXPORT_DIR / "merged.csv"
 
 WIDE_FIELDS = [
+    "latn_norm",
     "puj",
     "dp",
     "poj",
@@ -37,6 +41,10 @@ WIDE_FIELDS = [
     "zh_TW",
     "source",
 ]
+
+from scripts.latn import create_translator
+
+_puj_to_latn_norm = create_translator("PUJ", "LATN_NORM")
 
 _WORD_RE = re.compile(r"[a-zA-Z]+")
 
@@ -156,9 +164,14 @@ def main():
         with open(csv_file, encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
+                puj_val = row.get("puj", "").lower()
                 han = row.get("han", "")
+                latn_norm = (
+                    _puj_to_latn_norm.translate(puj_val).lower() if puj_val else ""
+                )
                 rec = {
-                    "puj": row.get("puj", "").lower(),
+                    "latn_norm": latn_norm,
+                    "puj": puj_val,
                     "dp": "",
                     "poj": "",
                     "tl": "",
@@ -172,7 +185,7 @@ def main():
                 }
                 rows.append(rec)
 
-    rows.sort(key=lambda r: r["puj"].lower())
+    rows.sort(key=lambda r: r["latn_norm"])
 
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)

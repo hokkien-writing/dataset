@@ -25,7 +25,7 @@ def create_config() -> LatnSystemConfig:
 
     return LatnSystemConfig.from_simple_vowels(
         name="POJ",
-        description="Pe̍h-ōe-jī system (Taiwanese/Amoy)",
+        description="Pe̍h-ōe-jī system",
         vowels=vowels,
         initials=[
             "chh",

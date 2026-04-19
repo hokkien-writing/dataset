@@ -30,7 +30,8 @@ build.sh             一鍵建置腳本
 | `~~小暑~~()` | 刪除但不知如何改正，暫時留白 | 小暑 | `〔〕` |
 | `++等++` | 新增文字 | （移除） | 等 |
 | `++++` | 需要新增但暫時找不到合適文字 | （移除） | `〔〕` |
-| `人[替]` | 借用字，`[替]` 標記前方為借用字 | 人 | 人[替] |
+| `人[訓]` | 訓用字，`[訓]` 標記前方為訓用字 | 人 | 人[訓] |
+| `丕[音]` | 借音字，`[音]` 標記前方為借音字 | 丕 | 丕[音] |
 
 ### 範例
 
@@ -99,26 +100,23 @@ PYTHONPATH=. python3 -m unittest discover scripts/tests
 
 ## 系統間轉換
 
-專案支持在不同的 Latin 系統間進行相互轉換（如 POJ <-> PUJ），並支持自定義音韻規律映射。
+支援 POJ、TL、PUJ、BP、DP 等系統間的互相轉換，以 LATN_NORM 為中介自動鏈式轉換。
 
 ```python
-from scripts.latn.registry import LatnRegistry
-from scripts.latn.config import PhoneticMapping
+from scripts.latn import create_translator
 
-registry = LatnRegistry()
-# 定義 POJ 到 PUJ 的映射規則
-mapping = PhoneticMapping(
-    vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
-    conversion_rules=[
-        (r"^chh(?![ie])", "tsh"), # chh -> tsh (非 i/e 前)
-        (r"^ch(?![hie])", "ts"),   # ch -> ts (非 h/i/e 前)
-        (r"^j(?![ie])", "z"),      # j -> z (非 i/e 前)
-    ]
-)
-registry.register_translator("POJ", "PUJ", mapping)
+# PUJ → POJ
+t = create_translator("PUJ", "POJ")
+t.translate("tsàng")  # "chàng"
+t.translate("kóu")    # "kó͘"
 
-translator = registry.create_translator("POJ", "PUJ")
-result = translator.translate("o͘-oá-oē") # 輸出 "ou-uá-uē"
+# POJ → TL
+t = create_translator("POJ", "TL")
+t.translate("chùi")   # "tsùi"
+
+# POJ → BP
+t = create_translator("POJ", "BP")
+t.translate("pàng")   # "bàng"
 ```
 
 ## 收錄內容
