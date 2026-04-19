@@ -17,6 +17,7 @@ scripts/             工具腳本
     base.py          基礎類別與共用函數
   tests/             單元測試
 build.sh             一鍵建置腳本
+test.sh              一鍵測試腳本
 ```
 
 ## 編輯標記規則
@@ -108,7 +109,7 @@ build.sh             一鍵建置腳本
 專案使用 Python 內置的 `unittest` 框架進行測試。執行以下指令即可運行所有單元測試：
 
 ```bash
-PYTHONPATH=. python3 -m unittest discover scripts/tests
+./test.sh
 ```
 
 ## 系統間轉換
