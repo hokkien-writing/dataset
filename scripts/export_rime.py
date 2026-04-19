@@ -194,7 +194,6 @@ speller:
 
 translator:
   dictionary: {pkg}
-  enable_correction: true
 
 latn:
   dictionary: {latn_dict}
@@ -274,7 +273,7 @@ def write_schema(system: str, pkg: str, output_dir: Path):
 
 def write_default_custom(systems: list, pkg: str, output_dir: Path):
     """Write default.custom.yaml registering all schemas for a package."""
-    schema_list = "\n".join(f"    - schema_id: {pkg}_{s}" for s in systems)
+    schema_list = "\n".join(f"    - schema: {pkg}_{s}" for s in systems)
     content = DEFAULT_CUSTOM_TEMPLATE.format(schema_list=schema_list)
     path = output_dir / "default.custom.yaml"
     path.write_text(content, encoding="utf-8")

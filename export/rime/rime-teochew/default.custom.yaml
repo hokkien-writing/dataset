@@ -3,5 +3,5 @@
 
 patch:
   schema_list:
-    - schema_id: teochew_puj
-    - schema_id: teochew_dp
+    - schema: teochew_puj
+    - schema: teochew_dp
