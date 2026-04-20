@@ -52,6 +52,7 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
     system columns has a non-empty value (e.g. ["puj", "dp"] for teochew).
     """
     counts = Counter()
+    systems_data = {} # (latn_norm, han) -> { "puj": str, "dp": str }
     with open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -77,7 +78,13 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
                     continue
             clean_han = re.sub(r"\[[^\]]*\]", "", han)
             if clean_han:
-                counts[(latn_norm, clean_han)] += 100
+                key = (latn_norm, clean_han)
+                counts[key] += 100
+                if key not in systems_data:
+                    systems_data[key] = {
+                        "puj": (row.get("puj") or "").strip(),
+                        "dp": (row.get("dp") or "").strip()
+                    }
             if han_variants:
                 w = 100
                 for variant in han_variants.split("|"):
@@ -88,7 +95,7 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
                             w = w // 2
                             if w > 0:
                                 counts[(latn_norm, clean_v)] += w
-    return counts
+    return counts, systems_data
 
 
 def write_base_dict(entries: dict, pkg: str, output_dir: Path):
@@ -116,14 +123,14 @@ CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
 SYSTEM_ALGEBRA = {
     "puj": CASE_FOLD
     + [
-        "derive/-/ /",
+        "derive/ /-/",
         "derive/[1-8]//",
         "xform/tsh/chh/",
         "xform/ts/ch/",
     ],
     "poj": CASE_FOLD
     + [
-        "derive/-/ /",
+        "derive/ /-/",
         "derive/[1-8]//",
         "xform/oo/ou/",
         "xform/oa/ua/",
@@ -131,14 +138,14 @@ SYSTEM_ALGEBRA = {
     ],
     "tl": CASE_FOLD
     + [
-        "derive/-/ /",
+        "derive/ /-/",
         "derive/[1-8]//",
         "xform/ts/ch/",
         "xform/tsh/chh/",
     ],
     "bp": CASE_FOLD
     + [
-        "derive/-/ /",
+        "derive/ /-/",
         "derive/[1-8]//",
         "xform/bb/p/",
         "xform/gg/k/",
@@ -159,7 +166,7 @@ SYSTEM_ALGEBRA = {
     ],
     "dp": CASE_FOLD
     + [
-        "derive/-/ /",
+        "derive/ /-/",
         "derive/[1-8]//",
         "xform/bh/b/",
         "xform/gh/g/",
@@ -229,6 +236,89 @@ patch:
 {schema_list}
 """
 
+LUA_FILTER_TEMPLATE = """\
+-- Rime Lua filter: puj_filter
+-- Generated from scripts/export_rime.py - do not edit manually
+
+local function capitalize_first(text)
+    if not text or text == "" then return text end
+    return text:gsub("^%l", function(c) return c:upper() end)
+end
+
+-- Elegant segmentation using Rime's Phrase components
+local function apply_user_separators(cand, env)
+    local genuine = cand:get_genuine()
+    if not genuine then return cand.text end
+    
+    -- Defensive check: Only 'phrase' or 'sentence' types usually have components
+    if type(genuine.size) ~= "function" or type(genuine.at) ~= "function" then
+        return cand.text
+    end
+    
+    local input = env.engine.context.input or ""
+    local res = ""
+    
+    -- Use pcall to safely call Rime C++ methods
+    local status, size = pcall(function() return genuine:size() end)
+    if not status or size <= 1 then return cand.text end
+    
+    local parts = {}
+    for i = 0, size - 1 do
+        local sub_ok, sub = pcall(function() return genuine:at(i) end)
+        if not sub_ok or not sub then break end
+        
+        res = res .. sub.text
+        
+        if i < size - 1 then
+            local next_ok, next_sub = pcall(function() return genuine:at(i + 1) end)
+            if next_ok and next_sub then
+                -- Extract separator from the gap in the input buffer
+                local sep_start = sub._end
+                local sep_end = next_sub.start
+                if sep_end > sep_start then
+                    local sep = input:sub(sep_start + 1, sep_end)
+                    res = res .. sep
+                end
+            end
+        end
+    end
+    
+    if res ~= "" then return res end
+    return cand.text
+end
+
+local function filter(translation, env)
+    local input = env.engine.context.input or ""
+    
+    for cand in translation:iter() do
+        local text = cand.text
+        local genuine = cand:get_genuine()
+        
+        -- Remove debug markers and apply logic
+        if cand.type == "sentence" or cand.type == "user_phrase" or cand.type == "dictionary" then
+            -- Remove any existing debug markers if present (from previous versions)
+            text = text:gsub("^⟪[^⟫]*⟫ ", "")
+            
+            -- For sentence candidates, try to preserve user separators (dashes)
+            if cand.type == "sentence" or cand.type == "phrase" then
+                text = apply_user_separators(cand, env)
+            end
+            
+            -- Capitalization logic
+            if input and input:match("^%u") then
+                text = capitalize_first(text)
+            end
+            
+            yield(Candidate(cand.type, cand.start, cand._end, text, cand.comment))
+        else
+            yield(cand)
+        end
+    end
+end
+
+return filter
+"""
+
 
 def _extract_syllable_bases(csv_path: Path) -> set[str]:
     """Extract all unique syllable bases (without tone) from merged.csv."""
@@ -292,7 +382,7 @@ def write_syllables_dict(system: str, pkg: str, output_dir: Path):
     print(f"Wrote {path}")
 
 
-def write_system_dict(entries: dict, system: str, pkg: str, output_dir: Path):
+def write_system_dict(entries: dict, systems_data: dict, system: str, pkg: str, output_dir: Path):
     """Write {pkg}_{system}.dict.yaml with romanization entries + han via import.
 
     Single translator design: romanization entries are first-class dictionary entries
@@ -301,8 +391,13 @@ def write_system_dict(entries: dict, system: str, pkg: str, output_dir: Path):
     translator = create_translator("LATN_NORM", system.upper())
 
     latn_weights = Counter()
-    for (latn_norm, _han), weight in entries.items():
+    preferred_handwriting = {} # latn_norm -> str
+
+    for (latn_norm, han), weight in entries.items():
         latn_weights[latn_norm] += weight
+        hw = systems_data.get((latn_norm, han), {}).get(system.lower())
+        if hw and latn_norm not in preferred_handwriting:
+            preferred_handwriting[latn_norm] = hw
 
     lines = [
         f"# Rime dictionary: {pkg}_{system}",
@@ -320,11 +415,13 @@ def write_system_dict(entries: dict, system: str, pkg: str, output_dir: Path):
 
     for latn_norm, weight in sorted(latn_weights.items()):
         code = latn_norm.replace("-", " ")
-        try:
-            handwriting = translator.translate(latn_norm.replace("-", " "))
-            romanized = handwriting.replace(" ", "-")
-        except Exception:
-            continue
+        handwriting = preferred_handwriting.get(latn_norm)
+        if not handwriting:
+            try:
+                handwriting = translator.translate(code)
+            except Exception:
+                continue
+        romanized = handwriting # Preserve original spaces/dashes if found in CSV
         if romanized.strip():
             lines.append(f"{romanized}\t{code}\t{weight}")
 
@@ -362,10 +459,19 @@ def write_default_custom(systems: list, pkg: str, output_dir: Path):
     print(f"Wrote {path}")
 
 
+def write_lua_filter(output_dir: Path):
+    """Write lua/puj_filter.lua."""
+    lua_dir = output_dir / "lua"
+    lua_dir.mkdir(parents=True, exist_ok=True)
+    path = lua_dir / "puj_filter.lua"
+    path.write_text(LUA_FILTER_TEMPLATE, encoding="utf-8")
+    print(f"Wrote {path}")
+
+
 def main():
     for pkg, cfg in PACKAGE_SYSTEMS.items():
         systems = cfg["systems"]
-        entries = load_entries(MERGED_CSV, require_systems=cfg["require"])
+        entries, systems_data = load_entries(MERGED_CSV, require_systems=cfg["require"])
         if not entries:
             print(f"[{pkg}] No entries, skipping.")
             continue
@@ -374,9 +480,11 @@ def main():
         write_base_dict(entries, pkg, pkg_dir)
         for system in systems:
             write_syllables_dict(system, pkg, pkg_dir)
-            write_system_dict(entries, system, pkg, pkg_dir)
+            write_system_dict(entries, systems_data, system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
+        if pkg == "teochew":
+            write_lua_filter(pkg_dir)
         print(f"[{pkg}] Done.")
 
     print(f"\nDone. Rime files exported to {OUTPUT_DIR}/")

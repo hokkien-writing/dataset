@@ -57,7 +57,7 @@ speller:
     - derive/x/X/
     - derive/y/Y/
     - derive/z/Z/
-    - derive/-/ /
+    - derive/ /-/
     - derive/[1-8]//
     - xform/bh/b/
     - xform/gh/g/
