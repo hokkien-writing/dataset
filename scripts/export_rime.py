@@ -240,51 +240,67 @@ LUA_FILTER_TEMPLATE = """\
 -- Rime Lua filter: puj_filter
 -- Generated from scripts/export_rime.py - do not edit manually
 
+-- Comprehensive mapping of syllable codes to PUJ handwriting
+{syllable_map}
+
 local function capitalize_first(text)
     if not text or text == "" then return text end
-    return text:gsub("^%l", function(c) return c:upper() end)
+    -- Handle UTF-8 safely for PUJ
+    local first = utf8.char(utf8.codepoint(text, 1))
+    return first:upper() .. text:sub(utf8.offset(text, 2) or (#text + 1))
 end
 
--- Elegant segmentation using Rime's Phrase components
+-- Reconstruct candidate text using user's input separators and the syllable map
 local function apply_user_separators(cand, env)
-    local genuine = cand:get_genuine()
-    if not genuine then return cand.text end
+    local input = env.engine.context.input or ""
+    local comment = cand.comment or ""
+    if input == "" then return cand.text end
     
-    -- Defensive check: Only 'phrase' or 'sentence' types usually have components
-    if type(genuine.size) ~= "function" or type(genuine.at) ~= "function" then
-        return cand.text
+    -- Extract full codes from comment (e.g. "menn1 hng1 si5")
+    local codes = {}
+    for code in comment:gmatch("[%w]+") do
+        table.insert(codes, code)
     end
     
-    local input = env.engine.context.input or ""
     local res = ""
-    
-    -- Use pcall to safely call Rime C++ methods
-    local status, size = pcall(function() return genuine:size() end)
-    if not status or size <= 1 then return cand.text end
-    
-    local parts = {}
-    for i = 0, size - 1 do
-        local sub_ok, sub = pcall(function() return genuine:at(i) end)
-        if not sub_ok or not sub then break end
-        
-        res = res .. sub.text
-        
-        if i < size - 1 then
-            local next_ok, next_sub = pcall(function() return genuine:at(i + 1) end)
-            if next_ok and next_sub then
-                -- Extract separator from the gap in the input buffer
-                local sep_start = sub._end
-                local sep_end = next_sub.start
-                if sep_end > sep_start then
-                    local sep = input:sub(sep_start + 1, sep_end)
-                    res = res .. sep
-                end
+    local i = 1
+    local code_idx = 1
+    while i <= #input do
+        -- Match alphanumeric syllable token
+        local token = input:match("^[%w]+", i)
+        if token then
+            local hw = token
+            -- Use the full code from the comment for lookup if available
+            local full_code = codes[code_idx]
+            if full_code then
+                hw = SYLLABLE_MAP[full_code:lower()] or SYLLABLE_MAP[token:lower()] or token
+                code_idx = code_idx + 1
+            else
+                hw = SYLLABLE_MAP[token:lower()] or token
+            end
+            
+            -- Preserve capitalization
+            if token:match("^%u") then
+                hw = capitalize_first(hw)
+            end
+            
+            res = res .. hw
+            i = i + #token
+        else
+            -- Match non-alphanumeric separator (including spaces and dashes)
+            local sep = input:match("^[^%w]+", i)
+            if sep then
+                res = res .. sep
+                i = i + #sep
+            else
+                -- Fallback for safe iteration
+                local char = input:sub(i, i)
+                res = res .. char
+                i = i + 1
             end
         end
     end
-    
-    if res ~= "" then return res end
-    return cand.text
+    return res
 end
 
 local function filter(translation, env)
@@ -294,17 +310,12 @@ local function filter(translation, env)
         local text = cand.text
         local genuine = cand:get_genuine()
         
-        -- Remove debug markers and apply logic
+        -- Apply logic to handle separators and capitalization
         if cand.type == "sentence" or cand.type == "user_phrase" or cand.type == "dictionary" then
-            -- Remove any existing debug markers if present (from previous versions)
-            text = text:gsub("^⟪[^⟫]*⟫ ", "")
+            -- Reconstruct text based on user separators (dashes, spaces)
+            text = apply_user_separators(cand, env)
             
-            -- For sentence candidates, try to preserve user separators (dashes)
-            if cand.type == "sentence" or cand.type == "phrase" then
-                text = apply_user_separators(cand, env)
-            end
-            
-            -- Capitalization logic
+            -- Capitalization logic (ensure first letter of candidate is correct)
             if input and input:match("^%u") then
                 text = capitalize_first(text)
             end
@@ -349,7 +360,13 @@ def generate_latn_norm_syllables(csv_path: Path = MERGED_CSV):
     bases = _extract_syllable_bases(csv_path)
     syllables = set()
     for base in bases:
-        for tone in range(1, 9):
+        if base.endswith(("p", "t", "k", "h")):
+            # ptkh ending -> only 4 and 8
+            tones = [4, 8]
+        else:
+            # Other ending -> NOT 4 and 8 (Tones 1, 2, 3, 5, 6, 7)
+            tones = [1, 2, 3, 5, 6, 7]
+        for tone in tones:
             syllables.add(f"{base}{tone}")
     return sorted(syllables)
 
@@ -459,12 +476,53 @@ def write_default_custom(systems: list, pkg: str, output_dir: Path):
     print(f"Wrote {path}")
 
 
-def write_lua_filter(output_dir: Path):
-    """Write lua/puj_filter.lua."""
+def generate_syllable_map(system: str) -> str:
+    """Generate a Lua table mapping syllable codes to their handwriting."""
+    translator = create_translator("LATN_NORM", system.upper())
+    syllables = generate_latn_norm_syllables()
+    
+    mapping = {}
+    # First pass: all explicit tone syllables (e.g., menn1, ak4)
+    for syl in syllables:
+        try:
+            hw = translator.translate(syl)
+            if hw and hw.strip().lower() != syl.lower():
+                mapping[syl.lower()] = hw
+        except Exception:
+            continue
+
+    # Second pass: Implicit tone rules for digit-less input (e.g., menn -> meⁿ)
+    # Rule: syllables ending in p, t, k, h are tone 4, others are tone 1
+    bases = _extract_syllable_bases(MERGED_CSV)
+    for base in bases:
+        base = base.lower()
+        # Only add if not already present as a special single-letter syllable
+        if base not in mapping:
+            default_tone = "4" if base.endswith(("p", "t", "k", "h")) else "1"
+            try:
+                hw = translator.translate(base + default_tone)
+                if hw:
+                    mapping[base] = hw
+            except Exception:
+                continue
+            
+    lines = ["local SYLLABLE_MAP = {"]
+    for k, v in sorted(mapping.items()):
+        lines.append(f'    ["{k}"] = "{v}",')
+    lines.append("}")
+    return "\n".join(lines)
+
+
+def write_lua_filter(system: str, output_dir: Path):
+    """Write lua/puj_filter.lua with an embedded syllable map."""
     lua_dir = output_dir / "lua"
     lua_dir.mkdir(parents=True, exist_ok=True)
     path = lua_dir / "puj_filter.lua"
-    path.write_text(LUA_FILTER_TEMPLATE, encoding="utf-8")
+    
+    syl_map_lua = generate_syllable_map(system)
+    content = LUA_FILTER_TEMPLATE.replace("{syllable_map}", syl_map_lua)
+    
+    path.write_text(content, encoding="utf-8")
     print(f"Wrote {path}")
 
 
@@ -484,7 +542,8 @@ def main():
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
         if pkg == "teochew":
-            write_lua_filter(pkg_dir)
+            # Use PUJ as the primary system for reconstruction logic
+            write_lua_filter("puj", pkg_dir)
         print(f"[{pkg}] Done.")
 
     print(f"\nDone. Rime files exported to {OUTPUT_DIR}/")
