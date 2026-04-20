@@ -5,6 +5,7 @@ import csv
 import re
 import sys
 from collections import Counter
+from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
@@ -15,6 +16,7 @@ from scripts.latn import create_translator, create_converter
 
 MERGED_CSV = PROJECT_ROOT / "export" / "merged.csv"
 OUTPUT_DIR = PROJECT_ROOT / "export" / "rime"
+BUILD_VERSION = datetime.now().strftime("%Y%m%d.%H%M%S")
 
 PACKAGE_SYSTEMS = {
     "hokkien": {
@@ -52,7 +54,7 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
     system columns has a non-empty value (e.g. ["puj", "dp"] for teochew).
     """
     counts = Counter()
-    systems_data = {} # (latn_norm, han) -> { "puj": str, "dp": str }
+    systems_data = {}  # (latn_norm, han) -> { "puj": str, "dp": str }
     with open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -83,7 +85,7 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
                 if key not in systems_data:
                     systems_data[key] = {
                         "puj": (row.get("puj") or "").strip(),
-                        "dp": (row.get("dp") or "").strip()
+                        "dp": (row.get("dp") or "").strip(),
                     }
             if han_variants:
                 w = 100
@@ -105,7 +107,7 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
         "# Generated from merged.csv - do not edit manually",
         "---",
         f"name: {pkg}",
-        'version: "0.1"',
+        f'version: "{BUILD_VERSION}"',
         "sort: by_weight",
         "...",
         "",
@@ -192,7 +194,7 @@ SCHEMA_TEMPLATE = """\
 schema:
   schema_id: {schema_id}
   name: {name}
-  version: "0.1"
+  version: "{version}"
   author:
     - Hokkien Writing Project
 
@@ -211,7 +213,7 @@ engine:
   translators:
     - script_translator
   filters:
-    - lua_filter@puj_filter
+    - lua_filter@*puj_filter
     - uniquifier
 
 speller:
@@ -380,7 +382,7 @@ def write_syllables_dict(system: str, pkg: str, output_dir: Path):
         "# Generated - all valid syllables - do not edit manually",
         "---",
         f"name: {pkg}_{system}_syllables",
-        'version: "0.1"',
+        f'version: "{BUILD_VERSION}"',
         "sort: by_weight",
         "...",
         "",
@@ -399,7 +401,9 @@ def write_syllables_dict(system: str, pkg: str, output_dir: Path):
     print(f"Wrote {path}")
 
 
-def write_system_dict(entries: dict, systems_data: dict, system: str, pkg: str, output_dir: Path):
+def write_system_dict(
+    entries: dict, systems_data: dict, system: str, pkg: str, output_dir: Path
+):
     """Write {pkg}_{system}.dict.yaml with romanization entries + han via import.
 
     Single translator design: romanization entries are first-class dictionary entries
@@ -408,7 +412,7 @@ def write_system_dict(entries: dict, systems_data: dict, system: str, pkg: str, 
     translator = create_translator("LATN_NORM", system.upper())
 
     latn_weights = Counter()
-    preferred_handwriting = {} # latn_norm -> str
+    preferred_handwriting = {}  # latn_norm -> str
 
     for (latn_norm, han), weight in entries.items():
         latn_weights[latn_norm] += weight
@@ -421,7 +425,7 @@ def write_system_dict(entries: dict, systems_data: dict, system: str, pkg: str, 
         "# Generated from merged.csv - do not edit manually",
         "---",
         f"name: {pkg}_{system}",
-        'version: "0.1"',
+        f'version: "{BUILD_VERSION}"',
         "sort: by_weight",
         "import_tables:",
         f"  - {pkg}",
@@ -438,7 +442,7 @@ def write_system_dict(entries: dict, systems_data: dict, system: str, pkg: str, 
                 handwriting = translator.translate(code)
             except Exception:
                 continue
-        romanized = handwriting # Preserve original spaces/dashes if found in CSV
+        romanized = handwriting  # Preserve original spaces/dashes if found in CSV
         if romanized.strip():
             lines.append(f"{romanized}\t{code}\t{weight}")
 
@@ -460,6 +464,7 @@ def write_schema(system: str, pkg: str, output_dir: Path):
     content = SCHEMA_TEMPLATE.format(
         schema_id=schema_id,
         name=name,
+        version=BUILD_VERSION,
         algebra=algebra,
     )
     path = output_dir / f"{schema_id}.schema.yaml"
@@ -480,7 +485,7 @@ def generate_syllable_map(system: str) -> str:
     """Generate a Lua table mapping syllable codes to their handwriting."""
     translator = create_translator("LATN_NORM", system.upper())
     syllables = generate_latn_norm_syllables()
-    
+
     mapping = {}
     # First pass: all explicit tone syllables (e.g., menn1, ak4)
     for syl in syllables:
@@ -505,7 +510,7 @@ def generate_syllable_map(system: str) -> str:
                     mapping[base] = hw
             except Exception:
                 continue
-            
+
     lines = ["local SYLLABLE_MAP = {"]
     for k, v in sorted(mapping.items()):
         lines.append(f'    ["{k}"] = "{v}",')
@@ -518,10 +523,10 @@ def write_lua_filter(system: str, output_dir: Path):
     lua_dir = output_dir / "lua"
     lua_dir.mkdir(parents=True, exist_ok=True)
     path = lua_dir / "puj_filter.lua"
-    
+
     syl_map_lua = generate_syllable_map(system)
     content = LUA_FILTER_TEMPLATE.replace("{syllable_map}", syl_map_lua)
-    
+
     path.write_text(content, encoding="utf-8")
     print(f"Wrote {path}")
 

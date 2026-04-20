@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州語・潮州話拼音
-  version: "0.1"
+  version: "20260420.230636"
   author:
     - Hokkien Writing Project
 
@@ -23,7 +23,7 @@ engine:
   translators:
     - script_translator
   filters:
-    - lua_filter@puj_filter
+    - lua_filter@*puj_filter
     - uniquifier
 
 speller:
