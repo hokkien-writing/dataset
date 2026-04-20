@@ -13,6 +13,7 @@ from scripts.export_rime import (
     write_latn_dict,
     write_schema,
     write_default_custom,
+    generate_latn_norm_syllables,
     MERGED_CSV,
     PACKAGE_SYSTEMS,
 )
@@ -77,6 +78,19 @@ class TestExportRime(unittest.TestCase):
         self.assertIn("name: teochew_puj_latn", content)
         self.assertIn("a1 bo2", content)
 
+    def test_write_latn_dict_includes_syllables(self):
+        entries = {("a1-bo2", "阿母"): 100}
+        write_latn_dict(entries, "puj", "teochew", self.tmpdir)
+        content = (self.tmpdir / "teochew_puj_latn.dict.yaml").read_text("utf-8")
+        for tone in range(1, 9):
+            self.assertIn(f"\tbo{tone}\t", content)
+
+    def test_write_latn_dict_no_import_tables(self):
+        entries = {("a1-bo2", "阿母"): 100}
+        write_latn_dict(entries, "puj", "teochew", self.tmpdir)
+        content = (self.tmpdir / "teochew_puj_latn.dict.yaml").read_text("utf-8")
+        self.assertNotIn("import_tables", content)
+
     def test_write_latn_dict_all_systems(self):
         entries = load_entries(MERGED_CSV, require_systems=["puj", "dp"])
         for pkg, cfg in PACKAGE_SYSTEMS.items():
@@ -112,7 +126,6 @@ class TestExportRime(unittest.TestCase):
         self.assertIn("hokkien_poj", content)
 
     def test_full_pipeline(self):
-        """Both packages generate correctly."""
         for pkg, cfg in PACKAGE_SYSTEMS.items():
             entries = load_entries(MERGED_CSV, require_systems=cfg["require"])
             if not entries:
@@ -133,6 +146,19 @@ class TestExportRime(unittest.TestCase):
                 expected,
                 f"{pkg}: expected {expected}, got {len(yaml_files)}",
             )
+
+    def test_generate_syllables_no_mn_as_vowel(self):
+        syllables = generate_latn_norm_syllables()
+        for s in syllables:
+            base = __import__("re").sub(r"\d$", "", s)
+            if base.startswith(("pm", "nm", "bm", "bn", "mm", "nn")):
+                self.fail(f"Invalid syllable with m/n as vowel: {s}")
+
+    def test_generate_syllables_syllabic_nasals(self):
+        syllables = generate_latn_norm_syllables()
+        for nasal in ("m", "n", "ng"):
+            for tone in range(1, 9):
+                self.assertIn(f"{nasal}{tone}", syllables)
 
     def test_load_entries_require_systems(self):
         teochew = load_entries(MERGED_CSV, require_systems=["puj", "dp"])

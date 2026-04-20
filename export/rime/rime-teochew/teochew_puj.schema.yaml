@@ -22,12 +22,13 @@ engine:
     - fallback_segmentor
   translators:
     - script_translator
-    - script_translator@latn
   filters:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedba12345678-
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
+  delimiter: " "
   algebra:
     - derive/-/ /
     - derive/[1-8]//
@@ -35,9 +36,5 @@ speller:
     - xform/ts/ch/
 
 translator:
-  dictionary: teochew
-  prism: teochew_puj
-
-latn:
-  dictionary: teochew_puj_latn
+  dictionary: teochew_puj
   enable_completion: true

@@ -36,6 +36,12 @@ SYSTEM_NAMES = {
 }
 
 
+def _to_latn_norm(puj_handwriting: str) -> str:
+    puj_converter = create_converter("PUJ")
+    keyboard = puj_converter.to_keyboard(puj_handwriting)
+    return keyboard.replace("-", " ")
+
+
 def load_entries(csv_path: Path, require_systems: Optional[list] = None):
     """Load and deduplicate entries from merged.csv.
 
@@ -50,6 +56,13 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
         reader = csv.DictReader(f)
         for row in reader:
             latn_norm = (row.get("latn_norm") or "").strip()
+            if not latn_norm:
+                puj_val = (row.get("puj") or "").strip()
+                if puj_val:
+                    try:
+                        latn_norm = _to_latn_norm(puj_val)
+                    except Exception:
+                        continue
             han = (row.get("han") or "").strip()
             han_variants = (row.get("han_variants") or "").strip()
             if not latn_norm or not han:
@@ -183,21 +196,18 @@ engine:
     - fallback_segmentor
   translators:
     - script_translator
-    - script_translator@latn
   filters:
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedba12345678-
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
+  delimiter: " "
   algebra:
 {algebra}
 
 translator:
-  dictionary: {pkg}
-  prism: {schema_id}
-
-latn:
-  dictionary: {latn_dict}
+  dictionary: {schema_id}
   enable_completion: true
 """
 
@@ -211,10 +221,78 @@ patch:
 """
 
 
-def write_latn_dict(entries: dict, system: str, pkg: str, output_dir: Path):
-    """Write {pkg}_{system}_latn.dict.yaml (romanization output dictionary).
+def generate_latn_norm_syllables():
+    """Generate all valid LATN_NORM syllables.
 
-    Aggregates by latn_norm so variants don't create duplicates.
+    Regular: initial + vowel + ending + tone
+    Syllabic nasals: m/n/ng alone + tone (no vowel nucleus)
+    """
+    from scripts.latn.systems.latn_norm import create_config
+
+    config = create_config()
+    vowels = list(config.vowel_dict.keys())
+    vowel_bases = sorted(
+        {v[:-1] for v in vowels if v[-1].isdigit()}, key=len, reverse=True
+    )
+    vowel_bases = [v for v in vowel_bases if v not in ("m", "n")]
+
+    initials = [""] + sorted(config.initials, key=len, reverse=True)
+    all_endings = sorted(
+        set(config.nasal_endings + config.entering_endings), key=len, reverse=True
+    )
+    endings = [""] + all_endings
+
+    syllables = set()
+    for initial in initials:
+        for vowel in vowel_bases:
+            for ending in endings:
+                base = initial + vowel + ending
+                for tone in range(1, 9):
+                    syllables.add(f"{base}{tone}")
+
+    for nasal in ("m", "n", "ng"):
+        for tone in range(1, 9):
+            syllables.add(f"{nasal}{tone}")
+
+    return sorted(syllables)
+
+
+def write_syllables_dict(system: str, pkg: str, output_dir: Path):
+    """Write {pkg}_{system}_syllables.dict.yaml with all valid single-syllable romanizations."""
+    translator = create_translator("LATN_NORM", system.upper())
+
+    lines = [
+        f"# Rime dictionary: {pkg}_{system}_syllables",
+        "# Generated - all valid syllables - do not edit manually",
+        "---",
+        f"name: {pkg}_{system}_syllables",
+        'version: "0.1"',
+        "sort: by_weight",
+        "...",
+        "",
+    ]
+
+    for syllable in generate_latn_norm_syllables():
+        try:
+            handwriting = translator.translate(syllable)
+        except Exception:
+            continue
+        if handwriting.strip():
+            lines.append(f"{handwriting}\t{syllable}\t1")
+            cap = syllable[0].upper() + syllable[1:]
+            cap_hw = handwriting[0].upper() + handwriting[1:]
+            lines.append(f"{cap_hw}\t{cap}\t1")
+
+    path = output_dir / f"{pkg}_{system}_syllables.dict.yaml"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Wrote {path}")
+
+
+def write_system_dict(entries: dict, system: str, pkg: str, output_dir: Path):
+    """Write {pkg}_{system}.dict.yaml with romanization entries + han via import.
+
+    Single translator design: romanization entries are first-class dictionary entries
+    alongside han entries (imported from base dict via import_tables).
     """
     translator = create_translator("LATN_NORM", system.upper())
 
@@ -223,12 +301,15 @@ def write_latn_dict(entries: dict, system: str, pkg: str, output_dir: Path):
         latn_weights[latn_norm] += weight
 
     lines = [
-        f"# Rime dictionary: {pkg}_{system}_latn",
+        f"# Rime dictionary: {pkg}_{system}",
         "# Generated from merged.csv - do not edit manually",
         "---",
-        f"name: {pkg}_{system}_latn",
+        f"name: {pkg}_{system}",
         'version: "0.1"',
         "sort: by_weight",
+        "import_tables:",
+        f"  - {pkg}",
+        f"  - {pkg}_{system}_syllables",
         "...",
         "",
     ]
@@ -240,11 +321,13 @@ def write_latn_dict(entries: dict, system: str, pkg: str, output_dir: Path):
             romanized = handwriting.replace(" ", "-")
         except Exception:
             continue
-        if not romanized.strip():
-            continue
-        lines.append(f"{romanized}\t{code}\t{weight}")
+        if romanized.strip():
+            lines.append(f"{romanized}\t{code}\t{weight}")
+            cap_code = code[0].upper() + code[1:]
+            cap_hw = romanized[0].upper() + romanized[1:]
+            lines.append(f"{cap_hw}\t{cap_code}\t{weight}")
 
-    path = output_dir / f"{pkg}_{system}_latn.dict.yaml"
+    path = output_dir / f"{pkg}_{system}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Wrote {path}")
 
@@ -257,15 +340,12 @@ def write_schema(system: str, pkg: str, output_dir: Path):
     """Write {pkg}_{system}.schema.yaml."""
     schema_id = f"{pkg}_{system}"
     name = SYSTEM_NAMES[system]
-    latn_dict = f"{pkg}_{system}_latn"
     algebra = format_algebra(SYSTEM_ALGEBRA[system])
 
     content = SCHEMA_TEMPLATE.format(
         schema_id=schema_id,
         name=name,
         algebra=algebra,
-        latn_dict=latn_dict,
-        pkg=pkg,
     )
     path = output_dir / f"{schema_id}.schema.yaml"
     path.write_text(content, encoding="utf-8")
@@ -292,7 +372,8 @@ def main():
         pkg_dir.mkdir(parents=True, exist_ok=True)
         write_base_dict(entries, pkg, pkg_dir)
         for system in systems:
-            write_latn_dict(entries, system, pkg, pkg_dir)
+            write_syllables_dict(system, pkg, pkg_dir)
+            write_system_dict(entries, system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
         print(f"[{pkg}] Done.")
