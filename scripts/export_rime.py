@@ -111,27 +111,33 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
     print(f"Wrote {len(entries)} entries to {path}")
 
 
+CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
+
 SYSTEM_ALGEBRA = {
-    "puj": [
+    "puj": CASE_FOLD
+    + [
         "derive/-/ /",
         "derive/[1-8]//",
         "xform/tsh/chh/",
         "xform/ts/ch/",
     ],
-    "poj": [
+    "poj": CASE_FOLD
+    + [
         "derive/-/ /",
         "derive/[1-8]//",
         "xform/oo/ou/",
         "xform/oa/ua/",
         "xform/oe/ue/",
     ],
-    "tl": [
+    "tl": CASE_FOLD
+    + [
         "derive/-/ /",
         "derive/[1-8]//",
         "xform/ts/ch/",
         "xform/tsh/chh/",
     ],
-    "bp": [
+    "bp": CASE_FOLD
+    + [
         "derive/-/ /",
         "derive/[1-8]//",
         "xform/bb/p/",
@@ -151,7 +157,8 @@ SYSTEM_ALGEBRA = {
         "xform/zz/j/",
         "xform/oo/ou/",
     ],
-    "dp": [
+    "dp": CASE_FOLD
+    + [
         "derive/-/ /",
         "derive/[1-8]//",
         "xform/bh/b/",
@@ -197,18 +204,20 @@ engine:
   translators:
     - script_translator
   filters:
+    - lua_filter@puj_filter
     - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
-  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
-  delimiter: " "
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
+  delimiter: " -"
   algebra:
 {algebra}
 
 translator:
   dictionary: {schema_id}
   enable_completion: true
+  enable_sentence: true
 """
 
 DEFAULT_CUSTOM_TEMPLATE = """\
@@ -221,39 +230,37 @@ patch:
 """
 
 
-def generate_latn_norm_syllables():
-    """Generate all valid LATN_NORM syllables.
+def _extract_syllable_bases(csv_path: Path) -> set[str]:
+    """Extract all unique syllable bases (without tone) from merged.csv."""
+    import re
 
-    Regular: initial + vowel + ending + tone
-    Syllabic nasals: m/n/ng alone + tone (no vowel nucleus)
-    """
-    from scripts.latn.systems.latn_norm import create_config
+    converter = create_converter("PUJ")
+    bases = set()
+    with open(csv_path, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            puj = (row.get("puj") or "").strip()
+            if not puj:
+                continue
+            try:
+                kb = converter.to_keyboard(puj)
+            except Exception:
+                continue
+            for syl in kb.replace("--", " ").split():
+                syl = syl.strip(",.?!")
+                m = re.match(r"^([a-z]+?)(\d)$", syl)
+                if m:
+                    bases.add(m.group(1))
+    return bases
 
-    config = create_config()
-    vowels = list(config.vowel_dict.keys())
-    vowel_bases = sorted(
-        {v[:-1] for v in vowels if v[-1].isdigit()}, key=len, reverse=True
-    )
-    vowel_bases = [v for v in vowel_bases if v not in ("m", "n")]
 
-    initials = [""] + sorted(config.initials, key=len, reverse=True)
-    all_endings = sorted(
-        set(config.nasal_endings + config.entering_endings), key=len, reverse=True
-    )
-    endings = [""] + all_endings
-
+def generate_latn_norm_syllables(csv_path: Path = MERGED_CSV):
+    """Generate all valid LATN_NORM syllables from actual data + tone expansion."""
+    bases = _extract_syllable_bases(csv_path)
     syllables = set()
-    for initial in initials:
-        for vowel in vowel_bases:
-            for ending in endings:
-                base = initial + vowel + ending
-                for tone in range(1, 9):
-                    syllables.add(f"{base}{tone}")
-
-    for nasal in ("m", "n", "ng"):
+    for base in bases:
         for tone in range(1, 9):
-            syllables.add(f"{nasal}{tone}")
-
+            syllables.add(f"{base}{tone}")
     return sorted(syllables)
 
 
@@ -279,9 +286,6 @@ def write_syllables_dict(system: str, pkg: str, output_dir: Path):
             continue
         if handwriting.strip():
             lines.append(f"{handwriting}\t{syllable}\t1")
-            cap = syllable[0].upper() + syllable[1:]
-            cap_hw = handwriting[0].upper() + handwriting[1:]
-            lines.append(f"{cap_hw}\t{cap}\t1")
 
     path = output_dir / f"{pkg}_{system}_syllables.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -323,9 +327,6 @@ def write_system_dict(entries: dict, system: str, pkg: str, output_dir: Path):
             continue
         if romanized.strip():
             lines.append(f"{romanized}\t{code}\t{weight}")
-            cap_code = code[0].upper() + code[1:]
-            cap_hw = romanized[0].upper() + romanized[1:]
-            lines.append(f"{cap_hw}\t{cap_code}\t{weight}")
 
     path = output_dir / f"{pkg}_{system}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")

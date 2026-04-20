@@ -23,13 +23,40 @@ engine:
   translators:
     - script_translator
   filters:
+    - lua_filter@puj_filter
     - uniquifier
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
-  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
-  delimiter: " "
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
+  delimiter: " -"
   algebra:
+    - derive/a/A/
+    - derive/b/B/
+    - derive/c/C/
+    - derive/d/D/
+    - derive/e/E/
+    - derive/f/F/
+    - derive/g/G/
+    - derive/h/H/
+    - derive/i/I/
+    - derive/j/J/
+    - derive/k/K/
+    - derive/l/L/
+    - derive/m/M/
+    - derive/n/N/
+    - derive/o/O/
+    - derive/p/P/
+    - derive/q/Q/
+    - derive/r/R/
+    - derive/s/S/
+    - derive/t/T/
+    - derive/u/U/
+    - derive/v/V/
+    - derive/w/W/
+    - derive/x/X/
+    - derive/y/Y/
+    - derive/z/Z/
     - derive/-/ /
     - derive/[1-8]//
     - xform/bh/b/
@@ -50,3 +77,4 @@ speller:
 translator:
   dictionary: teochew_dp
   enable_completion: true
+  enable_sentence: true
