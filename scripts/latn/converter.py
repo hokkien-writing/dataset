@@ -145,14 +145,7 @@ class LatnConverter(ABC):
             and syllable
             and syllable[-1] in self.entering_endings
         ):
-            found_entering = False
-            for _, opt_t in all_tone_options:
-                if opt_t in [4, 8]:
-                    tone_num = opt_t
-                    found_entering = True
-                    break
-            if not found_entering:
-                tone_num = 4
+            tone_num = 8 if tone_num > 1 else 4
 
         # Remove tone digits first
         syllable = re.sub(r"\d", "", syllable)
