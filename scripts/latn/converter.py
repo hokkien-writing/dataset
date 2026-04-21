@@ -5,6 +5,9 @@ import unicodedata
 from abc import ABC
 from scripts.latn.config import LatnSystemConfig
 
+_SUPERSCRIPT_DIGITS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+_NORMAL_DIGITS = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+
 
 class LatnConverter(ABC):
     """Base class for latn converters."""
@@ -25,7 +28,7 @@ class LatnConverter(ABC):
         """Convert romanized text to keyboard input format."""
         # Keep syllables together with their tone digits
         tokens = re.findall(
-            r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*|\s+|[^\s]",
+            r"[a-zA-Z\u00B2\u00B3\u00B9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u2070-\u207F'-]+\d*|\s+|[^\s]",
             text,
         )
         converted_tokens = []
@@ -35,7 +38,8 @@ class LatnConverter(ABC):
                 continue
             # Match tokens with optional trailing digits
             if re.match(
-                r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*", token
+                r"[a-zA-Z\u00B2\u00B3\u00B9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u2070-\u207F'-]+\d*",
+                token,
             ):
                 # Handle proper nouns/capitalization where needed
                 converted_tokens.append(self._to_keyboard_word(token))
@@ -73,6 +77,10 @@ class LatnConverter(ABC):
             return ""
 
         if any(c.isdigit() for c in syllable):
+            for marked, keyboard in self.config.syllable_mappings.items():
+                if marked in syllable:
+                    syllable = syllable.replace(marked, keyboard)
+            syllable = syllable.translate(_NORMAL_DIGITS)
             return syllable
 
         original_syllable = syllable
@@ -182,7 +190,9 @@ class LatnConverter(ABC):
                 converted_tokens.append(token)
                 continue
 
-            if re.match(r"[a-zA-Z0-9'-]+", token):
+            if re.match(
+                r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF'-]+", token
+            ):
                 converted_tokens.append(self._word_to_handwriting(token))
             else:
                 converted_tokens.append(token)
@@ -294,6 +304,9 @@ class LatnConverter(ABC):
                                 break
 
         if not marked:
-            return syllable
+            tone_str = str(tone_num)
+            if self.config.superscript_tones:
+                tone_str = tone_str.translate(_SUPERSCRIPT_DIGITS)
+            return f"{base_part}{tone_str}"
 
         return base_part

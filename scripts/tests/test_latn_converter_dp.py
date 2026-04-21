@@ -6,58 +6,67 @@ class TestDPConverter(ConverterTestBase):
     SYSTEM_NAME = "DP"
 
     def test_vowels(self):
+        s = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
         self.assert_round_trip(
-            [(f"a{t}", f"a{t}") for t in range(1, 9)]
-            + [(f"e{t}", f"e{t}") for t in range(1, 9)]
-            + [(f"ê{t}", f"ê{t}") for t in range(1, 9)]
-            + [(f"i{t}", f"i{t}") for t in range(1, 9)]
-            + [(f"o{t}", f"o{t}") for t in range(1, 9)]
-            + [(f"u{t}", f"u{t}") for t in range(1, 9)]
+            [(f"a{t}", f"a{str(t).translate(s)}") for t in range(1, 9)]
+            + [(f"e{t}", f"e{str(t).translate(s)}") for t in range(1, 9)]
+            + [(f"ê{t}", f"ê{str(t).translate(s)}") for t in range(1, 9)]
+            + [(f"i{t}", f"i{str(t).translate(s)}") for t in range(1, 9)]
+            + [(f"o{t}", f"o{str(t).translate(s)}") for t in range(1, 9)]
+            + [(f"u{t}", f"u{str(t).translate(s)}") for t in range(1, 9)]
         )
 
     def test_e_vs_e_circumflex(self):
         self.assertNotEqual(
-            self.converter.to_keyboard("ê5"),
-            self.converter.to_keyboard("e5"),
+            self.converter.to_keyboard("ê⁵"),
+            self.converter.to_keyboard("e⁵"),
         )
 
     def test_syllables(self):
         self.assert_round_trip(
             [
-                ("diang5", "diang5"),
-                ("zung1", "zung1"),
-                ("huêng5", "huêng5"),
-                ("lo6", "lo6"),
-                ("bhung7", "bhung7"),
-                ("ziah8", "ziah8"),
-                ("ghu3", "ghu3"),
-                ("cê5", "cê5"),
-                ("ri5", "ri5"),
+                ("diang5", "diang⁵"),
+                ("zung1", "zung¹"),
+                ("huêng5", "huêng⁵"),
+                ("lo6", "lo⁶"),
+                ("bhung7", "bhung⁷"),
+                ("ziah8", "ziah⁸"),
+                ("ghu3", "ghu³"),
+                ("cê5", "cê⁵"),
+                ("ri5", "ri⁵"),
             ]
         )
 
     def test_entering(self):
         self.assert_round_trip(
             [
-                ("ab4", "ab4"),
-                ("ad4", "ad4"),
-                ("ag4", "ag4"),
-                ("ah4", "ah4"),
-                ("ab8", "ab8"),
-                ("ad8", "ad8"),
-                ("ag8", "ag8"),
-                ("ah8", "ah8"),
-                ("ziab4", "ziab4"),
-                ("lod4", "lod4"),
-                ("bhag4", "bhag4"),
+                ("ab4", "ab⁴"),
+                ("ad4", "ad⁴"),
+                ("ag4", "ag⁴"),
+                ("ah4", "ah⁴"),
+                ("ab8", "ab⁸"),
+                ("ad8", "ad⁸"),
+                ("ag8", "ag⁸"),
+                ("ah8", "ah⁸"),
+                ("ziab4", "ziab⁴"),
+                ("lod4", "lod⁴"),
+                ("bhag4", "bhag⁴"),
             ]
         )
 
     def test_capitalization(self):
-        self.assertEqual(self.converter.to_handwriting("Diang5"), "Diang5")
+        self.assertEqual(self.converter.to_handwriting("Diang5"), "Diang⁵")
 
     def test_hyphenated(self):
-        self.assert_round_trip([("diang5-huêng5", "diang5-huêng5")])
+        self.assert_round_trip([("diang5-huêng5", "diang⁵-huêng⁵")])
+
+    def test_nasalized(self):
+        self.assert_round_trip(
+            [
+                ("uann3", "uaⁿ³"),
+                ("inn5", "iⁿ⁵"),
+            ]
+        )
 
 
 if __name__ == "__main__":

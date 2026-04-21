@@ -1016,9 +1016,9 @@ Substantives and Adjectives are not declined: the same word expresses both the s
 
 | Singular               | Plural                              |
 | ---------------------- | ----------------------------------- |
-| **我** (Uá) I.           | **阮。咱**(Ún or nán) we.                |
+| **我** (Uá) I.           | **阮。咱**(Ún ; nán) we.                |
 | **汝**(Lṳ́) thou or you. | **恁**(Nín) ye or you.                 |
-| **伊**(I) he, she, it.   | **因。伊人[訓]** (In or i--nâng) they, them. |
+| **伊**(I) he, she, it.   | **𪜶。伊人[訓]** (In ; i--nâng) they, them. |
 
 The distinctions of moods, tenses, numbers and persons are shown by the addition of certain auxiliary verbs or particles, as follows:—
 
@@ -1031,7 +1031,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 - **伊愛** I àiⁿ ... ... ... He wants.
 - **阮勿** Ún màiⁿ ... ... ... We don't want.
 - **恁是我个朋友** Nín sĩ uá kâi phêng-iú ... ... ... You are my friends.
-- **因。伊人[訓]是外人[訓]** In or i--nâng sĩ gūa-nâng ... ... ... They are outsiders.
+- **𪜶是外人[訓]。伊人[訓]是外人[訓]** In sĩ gūa-nâng; I--nâng sĩ gūa-nâng ... ... ... They are outsiders.
 
 #### past tense.
 
@@ -1040,8 +1040,8 @@ The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed c
 - **伊分我** I pun uá ... ... ... He gave me.
 - **伊昨日來** I tsa-jít lâi ... ... ... He came yesterday.
 - **伊昨日有來亞無** I tsa-jít ũ lâi a-bô? ... ... ... Did he come yesterday or not?
-- **伊昨日毋曾來。伊昨日無來** I tsa-jít m̃-chêng lâi, or i tsa-jít bô-lâi ... ... ... He did not come yesterday.
-- **我昨日曾來。我昨日有來** Uá tsa-jít chêng--lâi, or uá tsa-jít ũ--lâi ... ... ... I did come yesterday.
+- **伊昨日毋曾來。伊昨日無來** I tsa-jít m̃-chêng lâi; i tsa-jít bô-lâi ... ... ... He did not come yesterday.
+- **我昨日曾來。我昨日有來** Uá tsa-jít chêng--lâi; uá tsa-jít ũ--lâi ... ... ... I did come yesterday.
 
 #### perfect tense.
 

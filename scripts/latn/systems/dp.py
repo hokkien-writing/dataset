@@ -19,7 +19,7 @@ def create_config() -> LatnSystemConfig:
 
     return LatnSystemConfig.from_simple_vowels(
         name="DP",
-        description="Teochew Pinyin (Diê5-pêng1)",
+        description="Teochew Pinyin (Diê⁵-pêng¹)",
         vowels=vowels,
         initials=[
             "gh",
@@ -43,4 +43,6 @@ def create_config() -> LatnSystemConfig:
         nasal_endings=["m", "n", "ng"],
         entering_endings=["b", "d", "g", "h"],
         tone_mark_priority=[],
+        syllable_mappings={"ⁿ": "nn"},
+        superscript_tones=True,
     )

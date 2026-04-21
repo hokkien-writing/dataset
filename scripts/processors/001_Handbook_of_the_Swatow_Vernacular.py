@@ -12,6 +12,18 @@ from scripts.processors.base import (
 CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff]")
 LINE_RE = re.compile(r"^\s*- \*\*(.+?)\*\*\s*(.*)")
 SEP_RE = re.compile(r"\s*\.\.\.\s*\.\.\.\s*\.\.\.\s*")
+ANNOTATION_RE = re.compile(r"~~[^~]*~~\([^)]*\)")
+
+
+def _split_outside_annotations(text: str, sep: str) -> list[str]:
+    masked = ANNOTATION_RE.sub(lambda m: "\x00" * len(m.group()), text)
+    parts = []
+    start = 0
+    for m in re.finditer(re.escape(sep), masked):
+        parts.append(text[start : m.start()])
+        start = m.end()
+    parts.append(text[start:])
+    return parts
 
 
 class Processor(BookProcessor):
@@ -79,10 +91,19 @@ class Processor(BookProcessor):
                 puj_mod = self.clean(generate_modified(puj_raw))
                 puj_orig = self.clean(generate_original(puj_raw))
 
-            if ";" in puj_raw:
-                puj_parts_raw = [p.strip() for p in puj_raw.split(";") if p.strip()]
+            stripped_for_check = ANNOTATION_RE.sub("", puj_raw)
+            if ";" in stripped_for_check:
+                puj_parts_raw = [
+                    p.strip()
+                    for p in _split_outside_annotations(puj_raw, ";")
+                    if p.strip()
+                ]
             else:
-                puj_parts_raw = [p.strip() for p in puj_raw.split(",") if p.strip()]
+                puj_parts_raw = [
+                    p.strip()
+                    for p in _split_outside_annotations(puj_raw, ",")
+                    if p.strip()
+                ]
                 if any(" " in p for p in puj_parts_raw):
                     puj_parts_raw = [puj_raw.strip()]
 

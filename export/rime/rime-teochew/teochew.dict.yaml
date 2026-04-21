@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260421.204610"
+version: "20260421.221748"
 sort: by_weight
 ...
 
@@ -1864,8 +1864,8 @@ To stir.	chhiou1	100
 煙	in1	100
 因未去	in1 bue7 khur3	100
 因到了	in1 kau3  lo7	100
-因。伊人是外人	in1 or1 i1  nang5 si6 gua7 nang5	100
-因。伊儂是外儂	in1 or1 i1  nang5 si6 gua7 nang5	50
+𪜶是外人。伊人是外人	in1 si6 gua7 nang5; i1  nang5 si6 gua7 nang5	100
+𪜶是外儂。伊儂是外儂	in1 si6 gua7 nang5; i1  nang5 si6 gua7 nang5	50
 胭脂	in1 chi1	100
 鷹架	in1 ke3	100
 In-n̄g	in1 ng7	100
@@ -5370,6 +5370,7 @@ Hard.	toinn7	100
 我無	ua2 bo5	100
 我袂寫	ua2 boi6 sia2	100
 我𠀾寫	ua2 boi6 sia2	50
+我昨日曾來。我昨日有來	ua2 cha1 jit8 cheng5  lai5; ua2 cha1 jit8 u6  lai5	100
 我昨日唔記得佮汝呾	ua2 cha1 jit8 m6 ki3 tit4 kah4 lur2 tann3	25
 我昨日唔記得佮爾呾	ua2 cha1 jit8 m6 ki3 tit4 kah4 lur2 tann3	12
 我昨日毋記得佮汝呾	ua2 cha1 jit8 m6 ki3 tit4 kah4 lur2 tann3	100

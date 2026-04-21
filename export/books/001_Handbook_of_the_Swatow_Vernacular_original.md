@@ -1031,7 +1031,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 - **伊要** I àiⁿ ... ... ... He wants.
 - **阮勿** Ún màiⁿ ... ... ... We don't want.
 - **恁是我個朋友** Nín sĩ uá kâi phêng-iú ... ... ... You are my friends.
-- **因。伊人[訓]是外人[訓]** In or i--nâng sĩ gūa-nâng ... ... ... They are outsiders.
+- **因。伊人是外人** In or i--nâng sĩ gūa-nâng ... ... ... They are outsiders.
 
 #### past tense.
 

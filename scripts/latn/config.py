@@ -68,6 +68,8 @@ class LatnSystemConfig:
 
     syllable_mappings: Dict[str, str] = field(default_factory=dict)
 
+    superscript_tones: bool = False
+
     def __post_init__(self):
         """Build reverse mappings automatically from forward mappings."""
         if self.reverse_vowel_map is None:

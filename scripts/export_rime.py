@@ -394,10 +394,12 @@ return {{ processor = processor }, filter}
 
 
 def _extract_syllable_bases(csv_path: Path) -> set[str]:
-    """Extract all unique syllable bases (without tone) from merged.csv."""
+    """Extract all unique LATN_NORM syllable bases (without tone) from merged.csv."""
     import re
 
-    converter = create_converter("PUJ")
+    puj_converter = create_converter("PUJ")
+    puj_to_norm = create_translator("PUJ", "LATN_NORM")
+    norm_converter = create_converter("LATN_NORM")
     bases = set()
     with open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
@@ -406,14 +408,21 @@ def _extract_syllable_bases(csv_path: Path) -> set[str]:
             if not puj:
                 continue
             try:
-                kb = converter.to_keyboard(puj)
+                kb = puj_converter.to_keyboard(puj)
             except Exception:
                 continue
             for syl in kb.replace("--", " ").split():
                 syl = syl.strip(",.?!")
                 m = re.match(r"^([a-z]+?)(\d)$", syl)
                 if m:
-                    bases.add(m.group(1))
+                    try:
+                        norm_hw = puj_to_norm.translate(syl)
+                        norm_kb = norm_converter.to_keyboard(norm_hw)
+                        m2 = re.match(r"^([a-z]+?)(\d)$", norm_kb)
+                        if m2:
+                            bases.add(m2.group(1))
+                    except Exception:
+                        continue
     return bases
 
 

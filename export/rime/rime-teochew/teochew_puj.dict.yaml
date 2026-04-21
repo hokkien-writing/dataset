@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260421.204610"
+version: "20260421.221748"
 sort: by_weight
 import_tables:
   - teochew
@@ -1779,7 +1779,7 @@ im	im1	100
 in	in1	250
 in būe khṳ̀	in1 bue7 khur3	100
 in kàu--lō	in1 kau3  lo7	100
-in or i--nâng sĩ gūa-nâng	in1 or1 i1  nang5 si6 gua7 nang5	150
+in sĩ gūa-nâng; i--nâng sĩ gūa-nâng	in1 si6 gua7 nang5; i1  nang5 si6 gua7 nang5	150
 in-chi	in1 chi1	100
 in-kè	in1 ke3	100
 in-n̄g	in1 ng7	100
@@ -4885,6 +4885,8 @@ uá àiⁿ-tah kap-pán	ua2 ainn3 tah4 kap4 pan2	100
 uá am-pou húe	ua2 am1 pou1 hue2	150
 uá bô	ua2 bo5	100
 uá bõi-siá	ua2 boi6 sia2	150
+uá tsa-ji̍t chêng--lâi; uá tsa-ji̍t ũ--lâi	ua2 cha1 jit8 cheng5  lai5; ua2 cha1 jit8 u6  lai5	100
+uá tsa-jít chêng--lâi; uá tsa-jít ũ--lâi	ua2 cha1 jit8 cheng5  lai5; ua2 cha1 jit8 u6  lai5	99
 uá tsa-ji̍t m̃-kì-tit kah lṳ́ tàⁿ	ua2 cha1 jit8 m6 ki3 tit4 kah4 lur2 tann3	187
 uá tsa-jít m̃-kì-tit kah lṳ́ tàⁿ	ua2 cha1 jit8 m6 ki3 tit4 kah4 lur2 tann3	186
 uá tsa-mêⁿ thàng-mêⁿ bõi-u̍t	ua2 cha1 menn5 thang3 menn5 boi6 ut8	187
