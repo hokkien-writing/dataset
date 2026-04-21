@@ -170,20 +170,19 @@ SYSTEM_ALGEBRA = {
     + [
         "derive/ /-/",
         "derive/[1-8]//",
-        "xform/bh/b/",
-        "xform/gh/g/",
-        "xform/b/p/",
-        "xform/p/ph/",
-        "xform/d/t/",
-        "xform/t/th/",
-        "xform/g/k/",
-        "xform/k/kh/",
-        "xform/z/ch/",
-        "xform/c/chh/",
-        "xform/r/j/",
-        "xform/nn$/nn/",
-        "xform/^e(?!$)/ur/",
-        "derive/ê/e/",
+        "xform/^b/bh/",
+        "xform/^g/gh/",
+        "xform/^p([^h])/b/",
+        "xform/^ph/p/",
+        "xform/^t([^h])/d/",
+        "xform/^th/t/",
+        "xform/^g([^h])/k/",
+        "xform/^kh/k/",
+        "xform/^chh/c/",
+        "xform/^ch([^h])/z/",
+        "xform/^j/r/",
+        "xform/e/ei/",
+        "xform/ur/e/",
     ],
 }
 
@@ -201,7 +200,6 @@ schema:
 engine:
   processors:
     - ascii_composer
-    - lua_processor@caps_tracker
     - speller
     - punctuator
     - selector
@@ -528,7 +526,13 @@ def write_system_dict(
 
 
 def format_algebra(rules: list) -> str:
-    return "\n".join(f"    - {r}" for r in rules)
+    lines = []
+    for r in rules:
+        if r.startswith("#"):
+            lines.append(f"    {r}")
+        else:
+            lines.append(f"    - {r}")
+    return "\n".join(lines)
 
 
 def write_schema(system: str, pkg: str, output_dir: Path):
@@ -608,8 +612,7 @@ def write_lua_filter(system: str, output_dir: Path):
     rime_lua = output_dir / "rime.lua"
     rime_lua.write_text(
         "local puj_mod = require('puj_filter')\n"
-        "puj_filter = puj_mod[2]\n"
-        "caps_tracker = puj_mod[1].processor\n",
+        "puj_filter = puj_mod[2]\n",
         encoding="utf-8",
     )
 

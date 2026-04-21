@@ -4,14 +4,13 @@
 schema:
   schema_id: teochew_dp
   name: 潮州語・潮州話拼音
-  version: "20260421.221748"
+  version: "20260421.231615"
   author:
     - Hokkien Writing Project
 
 engine:
   processors:
     - ascii_composer
-    - lua_processor@caps_tracker
     - speller
     - punctuator
     - selector
@@ -60,20 +59,19 @@ speller:
     - derive/z/Z/
     - derive/ /-/
     - derive/[1-8]//
-    - xform/bh/b/
-    - xform/gh/g/
-    - xform/b/p/
-    - xform/p/ph/
-    - xform/d/t/
-    - xform/t/th/
-    - xform/g/k/
-    - xform/k/kh/
-    - xform/z/ch/
-    - xform/c/chh/
-    - xform/r/j/
-    - xform/nn$/nn/
-    - xform/^e(?!$)/ur/
-    - derive/ê/e/
+    - xform/^b/bh/
+    - xform/^g/gh/
+    - xform/^p([^h])/b/
+    - xform/^ph/p/
+    - xform/^t([^h])/d/
+    - xform/^th/t/
+    - xform/^g([^h])/k/
+    - xform/^kh/k/
+    - xform/^chh/c/
+    - xform/^ch([^h])/z/
+    - xform/^j/r/
+    - xform/e/ei/
+    - xform/ur/e/
 
 translator:
   dictionary: teochew_dp

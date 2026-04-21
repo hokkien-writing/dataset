@@ -4,14 +4,13 @@
 schema:
   schema_id: teochew_puj
   name: 潮州語・白話字
-  version: "20260421.221748"
+  version: "20260421.231615"
   author:
     - Hokkien Writing Project
 
 engine:
   processors:
     - ascii_composer
-    - lua_processor@caps_tracker
     - speller
     - punctuator
     - selector
