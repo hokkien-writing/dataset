@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260421.184246"
+version: "20260421.204610"
 sort: by_weight
 ...
 
@@ -1231,8 +1231,8 @@ To stir.	chhiou1	100
 應該得	eng3 kai1 tit4	100
 延遲	eng5 ti1	100
 用	eng7	200
-用柴通間內烟	eng7 chha5 thong1 koinn1 lai6 huu1	50
-用柴通間內煙	eng7 chha5 thong1 koinn1 lai6 huu1	100
+用柴通間內烟	eng7 chha5 thong1 koinn1 lai6 hun1	50
+用柴通間內煙	eng7 chha5 thong1 koinn1 lai6 hun1	100
 用雞毛抹	eng7 koi1 monn5 buah4	100
 用鷄毛抹	eng7 koi1 monn5 buah4	50
 用伍牲來奉	eng7 ngou2 senn1 lai5 hong6	100
@@ -3105,16 +3105,16 @@ In-n̄g	in1 ng7	100
 汝个毋是此樣生	lur2 kai5 m6 si6 chienn3 senn1	100
 爾个唔是此樣生	lur2 kai5 m6 si6 chienn3 senn1	12
 爾个毋是此樣生	lur2 kai5 m6 si6 chienn3 senn1	25
+汝唔孬去	lur3 m6 monn2 khur3	50
+汝毋孬去	lur3 m6 monn2 khur3	100
+爾唔孬去	lur3 m6 monn2 khur3	12
+爾毋孬去	lur3 m6 monn2 khur3	25
 驢	lur5	100
 呂宋薰	lur6 song3 hun1	100
 呂宋票	lur6 song3 pie1	100
 脫去	lut4  khur3	100
 黜掉	lut4 tiou7	100
 律	lut8	200
-汝唔孬去	luu2 m6 monn2 khur3	50
-汝毋孬去	luu2 m6 monn2 khur3	100
-爾唔孬去	luu2 m6 monn2 khur3	12
-爾毋孬去	luu2 m6 monn2 khur3	25
 唔	m6	50
 毋	m6	100
 唔知	m6 chai1	50

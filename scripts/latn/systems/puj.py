@@ -1,41 +1,26 @@
 """PUJ (Pe̍h-ūe-jī) system configuration.
 
-Tone Mark Placement Rules (歸納自 Handbook of the Swatow Vernacular 8000+ 條資料)
-================================================================================
+Tone Mark Rules (from Handbook of the Swatow Vernacular 語料庫分析)
+====================================================================
 
-舒聲（非入聲）：
+輔音聲母 舒聲：
+  含 a → a:  ái, áu, iá, iám, iâng, ói, óu, ióu
+  ua+尾 → a: uái, uân, uáng
+  ua裸 → u:  úa, Búa, Hûa
+  uaⁿ → u:  Húaⁿ, Kùaⁿ (語料84%)
+  ie → e:   ié, ién, iéⁿ
+  無a雙元音 → 前元音: iú, úi, úe, óu, ói
+  ng → n,  m → m
 
-  含 a 的複合韻 → 標於 a
-    ai, au, ia, iam, iang, oi, ou, iou, etc.
-    例: ái, áu, iá, iám, iâng, ói, óu, ióu
-
-  ua（裸，無韻尾）→ 標於 u
-    例: úa, úe, úi
-
-  ua + 韻尾 (i/n/ng) → 標於 a
-    uai, uan, uang
-    例: uái, uân, uáng
-
-  ie 系列 → 標於 e
-    例: ié, ién, iéⁿ
-
-  ie 以外的無 a 雙元音 → 標於前一個元音
-    iu → u (iú), ui → u (úi), ue → u (úe), ou → o (óu), oi → o (ói)
-
-  m（自成音節）→ 標於 m
-    例: ḿ
-
-  ng → 標於 n（雙字母標於前一個字母）
-    例: n̂g, ńg
+零聲母 舒聲 (vowel_initial_overrides)：
+  ua → a:  uá, uâ, uà
+  au → u:  aú, aû, aù
+  ue → e:  ué, uê, uē
+  uaⁿ → a: uáⁿ, uâⁿ, uàⁿ
 
 入聲（韻尾 p/t/k/h）：
-
-  標於韻尾前一個元音
-    uah → a (ua̍h), ueh → e (ue̍h), aih → i (ai̍h), oih → i (oi̍h)
-    iah → a (ia̍h), ieh → e (ie̍h), auh → u (au̍h), eh → e (e̍h)
-
-鼻化 ⁿ 視同韻尾，uaⁿ 與 uan 同規則標於 a
-    uaⁿ → a (kuáⁿ), aiⁿ → a (áiⁿ), oiⁿ → o (óiⁿ)
+  標於韻尾前元音（從右往左掃描）
+  ua̍h, ue̍h, ia̍h, ie̍h, aih→i, oih→i, auh→u
 """
 
 from scripts.latn.config import LatnSystemConfig
@@ -53,6 +38,7 @@ def create_config() -> LatnSystemConfig:
         "n": "n ń ǹ n n̂ ñ n̄ n̍",
         "m": "m ḿ m̀ m m̂ m̃ m̄ m̍",
         "ua": "ua úa ùa ua ûa ũa ūa u̍a",
+        "uaⁿ": "uaⁿ úaⁿ ùaⁿ uaⁿ ûaⁿ ũaⁿ ūaⁿ u̍aⁿ",
         "uai": "uai uái uài uai uâi uãi uāi ua̍i",
         "uan": "uan uán uàn uan uân uãn uān ua̍n",
         "uang": "uang uáng uàng uang uâng uãng uāng ua̍ng",
@@ -90,6 +76,7 @@ def create_config() -> LatnSystemConfig:
             "uai",
             "uan",
             "uang",
+            "uaⁿ",
             "ua",
             "a",
             "o",

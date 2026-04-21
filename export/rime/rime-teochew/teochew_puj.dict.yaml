@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260421.184246"
+version: "20260421.204610"
 sort: by_weight
 import_tables:
   - teochew
@@ -1174,7 +1174,7 @@ eng-têng	eng1 teng5	150
 èng-kai-tit	eng3 kai1 tit4	100
 êng-ti	eng5 ti1	100
 ēng	eng7	200
-ēng tshâ thong-koiⁿ-lãi huu	eng7 chha5 thong1 koinn1 lai6 huu1	150
+ēng tshâ thong-koiⁿ-lãi hun	eng7 chha5 thong1 koinn1 lai6 hun1	150
 ēng koi-môⁿ buah	eng7 koi1 monn5 buah4	150
 ēng ngóu-seⁿ lâi-hõng	eng7 ngou2 senn1 lai5 hong6	100
 êⁿ	enn5	100
@@ -2889,6 +2889,7 @@ lṳ́ tõ hṳ́-kò	lur2 to6 hur2 ko3	150
 lṳ́ u̍t-kàu ji̍t hièⁿ-uàⁿ chiàⁿ-tsáu-khí	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	150
 lṳ́ út-kàu jít hièⁿ-uàⁿ chiàⁿ-tsáu-khí	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	149
 lṳ́-kâi m̃-sĩ chièⁿ-seⁿ	lur2 kai5 m6 si6 chienn3 senn1	187
+lṳ̀ m̃-móⁿ khṳ̀	lur3 m6 monn2 khur3	187
 lṳ̂	lur5	100
 lṳ̃-sòng-hun	lur6 song3 hun1	100
 lṳ̃-sòng-pie	lur6 song3 pie1	100
@@ -2896,7 +2897,6 @@ lut--khṳ̀	lut4  khur3	100
 lut-tiōu	lut4 tiou7	100
 lu̍t	lut8	200
 lút	lut8	199
-luú m̃-móⁿ khṳ̀	luu2 m6 monn2 khur3	187
 m̃	m6	150
 m̃-tsai	m6 chai1	150
 m̃-tsai nâng-chhêng	m6 chai1 nang5 chheng5	187

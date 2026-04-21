@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260421.184246"
+version: "20260421.204610"
 sort: by_weight
 import_tables:
   - teochew
@@ -969,7 +969,7 @@ ze6 lai5 hue2	chur6 lai5 hue2	100
 êng3 gai1 did4	eng3 kai1 tit4	100
 êng5 di1	eng5 ti1	100
 êng7	eng7	200
-êng7 ca5 tong1 goinn1 lai6 huu1	eng7 chha5 thong1 koinn1 lai6 huu1	150
+êng7 ca5 tong1 goinn1 lai6 hun1	eng7 chha5 thong1 koinn1 lai6 hun1	150
 êng7 goi1 monn5 bhuah4	eng7 koi1 monn5 buah4	150
 êng7 ngou2 senn1 lai5 hong6	eng7 ngou2 senn1 lai5 hong6	100
 enn5	enn5	100
@@ -2413,13 +2413,13 @@ le2 dieh8 lai5	lur2 tieh8 lai5	150
 le2 do6 he2 go3	lur2 to6 hur2 ko3	150
 le2 ud8 gau3 rid8 hienn3 uann3 ziann3 zau2 ki2	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	150
 le2 gai5 m6 si6 zienn3 senn1	lur2 kai5 m6 si6 chienn3 senn1	187
+le3 m6 monn2 ke3	lur3 m6 monn2 khur3	187
 le5	lur5	100
 le6 song3 hun1	lur6 song3 hun1	100
 le6 song3 bie1	lur6 song3 pie1	100
 lud4  ke3	lut4  khur3	100
 lud4 diou7	lut4 tiou7	100
 lud8	lut8	200
-luu2 m6 monn2 ke3	luu2 m6 monn2 khur3	187
 m6	m6	150
 m6 zai1	m6 chai1	150
 m6 zai1 nang5 cêng5	m6 chai1 nang5 chheng5	187

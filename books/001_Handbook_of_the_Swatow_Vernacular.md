@@ -1112,7 +1112,7 @@ Tiéh 着 (must, ought, or should) implies obligation.
 
 M̃-móⁿ (don't) ~~不可~~(毋孬) implies the opposite of 着 tiéh, viz. must not, ought not, and should not.
 
-- **~~爾~~(汝)~~不可~~(毋孬)去** Luú m̃-móⁿ khṳ̀ ... ... ... You must not go.
+- **~~爾~~(汝)~~不可~~(毋孬)去** Lṳ̀ m̃-móⁿ khṳ̀ ... ... ... You must not go.
 - **恁~~不可~~(毋孬)分伊去** Nín m̃-móⁿ pun i khṳ̀ ... ... ... You ought not to let him go.
 - **恁~~不可~~(毋孬)~~辯~~(詏)** Nín m̃-móⁿ à ... ... ... You should not argue.
 
@@ -1811,7 +1811,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **火牌~~濕~~(㴷)。~~畫~~(劃)袂~~焰~~(着)** Húe-pâi tâm, uéh bõi-tóh ... ... ... The matches are damp, (though) they are struck they will not light.
 - **燈心~~盡了~~(了囉)** Teng-sim lióu--lō ... ... ... The wick is burnt down.
 - **用火炭。勿用火柴** Ēng húe-thùaⁿ, màiⁿ ēng húe-tshâ ... ... ... Use charcoal, don't use fire-wood.
-- **用柴通間內~~烟~~(煙)** Ēng tshâ thong-koiⁿ-lãi huu ... ... ... If you use wood the whole house will be full of smoke.
+- **用柴通間內~~烟~~(煙)** Ēng tshâ thong-koiⁿ-lãi hun ... ... ... If you use wood the whole house will be full of smoke.
 - **灶空~~個~~(个)~~火灰~~(火烌)~~携丟~~(抔掉)** Tsàu-khang kâi húe-hu put-tiòu ... ... ... Remove the ashes in the furnace.
 
 ------

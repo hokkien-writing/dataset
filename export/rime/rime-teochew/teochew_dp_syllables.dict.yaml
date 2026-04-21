@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_dp_syllables
-version: "20260421.184246"
+version: "20260421.204610"
 sort: by_weight
 ...
 
@@ -672,12 +672,6 @@ he6	hur6	1
 he7	hur7	1
 hud4	hut4	1
 hud8	hut8	1
-huu1	huu1	1
-huu2	huu2	1
-huu3	huu3	1
-huu5	huu5	1
-huu6	huu6	1
-huu7	huu7	1
 i1	i1	1
 i2	i2	1
 i3	i3	1
@@ -1434,12 +1428,6 @@ le6	lur6	1
 le7	lur7	1
 lud4	lut4	1
 lud8	lut8	1
-luu1	luu1	1
-luu2	luu2	1
-luu3	luu3	1
-luu5	luu5	1
-luu6	luu6	1
-luu7	luu7	1
 m1	m1	1
 m2	m2	1
 m3	m3	1

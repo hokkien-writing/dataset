@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_puj_syllables
-version: "20260421.184246"
+version: "20260421.204610"
 sort: by_weight
 ...
 
@@ -672,12 +672,6 @@ hṳ̃	hur6	1
 hṳ̄	hur7	1
 hut	hut4	1
 hu̍t	hut8	1
-huu	huu1	1
-huú	huu2	1
-huù	huu3	1
-huû	huu5	1
-huũ	huu6	1
-huū	huu7	1
 i	i1	1
 í	i2	1
 ì	i3	1
@@ -1434,12 +1428,6 @@ lṳ̃	lur6	1
 lṳ̄	lur7	1
 lut	lut4	1
 lu̍t	lut8	1
-luu	luu1	1
-luú	luu2	1
-luù	luu3	1
-luû	luu5	1
-luũ	luu6	1
-luū	luu7	1
 m	m1	1
 ḿ	m2	1
 m̀	m3	1
