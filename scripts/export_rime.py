@@ -127,8 +127,8 @@ SYSTEM_ALGEBRA = {
     + [
         "derive/ /-/",
         "derive/[1-8]//",
-        "xform/tsh/chh/",
-        "xform/ts/ch/",
+        "derive/ch/ts/",
+        "derive/chh/tsh/",
     ],
     "poj": CASE_FOLD
     + [
@@ -142,8 +142,8 @@ SYSTEM_ALGEBRA = {
     + [
         "derive/ /-/",
         "derive/[1-8]//",
-        "xform/ts/ch/",
-        "xform/tsh/chh/",
+        "derive/ch/ts/",
+        "derive/chh/tsh/",
     ],
     "bp": CASE_FOLD
     + [
@@ -470,6 +470,7 @@ def write_system_dict(
     alongside han entries (imported from base dict via import_tables).
     """
     translator = create_translator("LATN_NORM", system.upper())
+    system_converter = create_converter(system.upper())
 
     latn_weights = Counter()
     preferred_handwriting = {}  # latn_norm -> str
@@ -496,15 +497,21 @@ def write_system_dict(
 
     for latn_norm, weight in sorted(latn_weights.items()):
         code = latn_norm.replace("-", " ")
-        handwriting = preferred_handwriting.get(latn_norm)
-        if not handwriting:
+        csv_handwriting = preferred_handwriting.get(latn_norm)
+        if not csv_handwriting or not csv_handwriting.strip():
             try:
-                handwriting = translator.translate(code)
+                csv_handwriting = translator.translate(code)
             except Exception:
                 continue
-        romanized = handwriting  # Preserve original spaces/dashes if found in CSV
-        if romanized.strip():
-            lines.append(f"{romanized}\t{code}\t{weight}")
+        if not csv_handwriting or not csv_handwriting.strip():
+            continue
+        standard_handwriting = system_converter.to_handwriting(
+            system_converter.to_keyboard(csv_handwriting)
+        )
+        if standard_handwriting and standard_handwriting.strip():
+            lines.append(f"{standard_handwriting}\t{code}\t{weight}")
+        if csv_handwriting and csv_handwriting != standard_handwriting:
+            lines.append(f"{csv_handwriting}\t{code}\t{weight - 1}")
 
     path = output_dir / f"{pkg}_{system}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
