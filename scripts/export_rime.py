@@ -342,6 +342,8 @@ end
 
 local function filter(translation, env)
     local caps = _caps_mask
+    local has_caps = caps:sub(1, 1) == "U"
+    local items = {}
 
     for cand in translation:iter() do
         local text = cand.text
@@ -350,15 +352,39 @@ local function filter(translation, env)
 
         if need_reconstruct then
             text = apply_user_separators(cand, env)
-            if caps:sub(1, 1) == "U" then
+            if has_caps then
                 text = capitalize_first(text)
             end
-            yield(Candidate(cand.type, cand.start, cand._end, text, cand.comment))
         else
-            if caps:sub(1, 1) == "U" then
+            if has_caps then
                 text = capitalize_first(cand.text)
             end
-            yield(Candidate(cand.type, cand.start, cand._end, text, cand.comment))
+        end
+
+        table.insert(items, {
+            type = cand.type,
+            start = cand.start,
+            _end = cand._end,
+            text = text,
+            comment = cand.comment,
+            is_latin = text:match("^%a") ~= nil
+        })
+    end
+
+    if has_caps then
+        for _, item in ipairs(items) do
+            if item.is_latin then
+                yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
+            end
+        end
+        for _, item in ipairs(items) do
+            if not item.is_latin then
+                yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
+            end
+        end
+    else
+        for _, item in ipairs(items) do
+            yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
         end
     end
 end
