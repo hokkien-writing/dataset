@@ -2344,7 +2344,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **船行了** Tsûn kiàⁿ--lō ... ... ... Ships have gone.
 - **船袂行** Tsûn bõi-kiâⁿ ... ... ... Ships can't go.
 - **船敲風** Tsûn khau-huang ... ... ... Ships tacking.
-- **船擱着** Ksûn khūa--tiéh ... ... ... Ships run aground.
+- **船擱着** Tsûn khūa--tiéh ... ... ... Ships run aground.
 - **船破** Tsûn puáh-tiòu ... ... ... Ship-wreck.
 - **船相撞着** Tsûn sie-tsuãng-tiéh ... ... ... Ships come into collision with each other.
 - **沉** Tîm ... ... ... To sink.

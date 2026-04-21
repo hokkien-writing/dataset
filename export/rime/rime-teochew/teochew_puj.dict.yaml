@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260421.115825"
+version: "20260421.120435"
 sort: by_weight
 import_tables:
   - teochew
@@ -919,6 +919,7 @@ tsûn	chun5	100
 tsûn àiⁿ-kiàⁿ	chun5 ainn3 kiann3	100
 tsûn bõi-kiâⁿ	chun5 boi6 kiann5	150
 tsûn khau-huang	chun5 khau1 huang1	100
+tsûn khūa--tiéh	chun5 khua7  tieh8	100
 tsûn kiàⁿ--lō	chun5 kiann3  lo7	100
 tsûn kua hâng	chun5 kua1 hang5	100
 tsûn puáh-tiòu	chun5 puah8 tiou3	100
@@ -2096,7 +2097,6 @@ kóu-tát	kou2 tat8	150
 kóu-tn̄g	kou2 tng7	100
 kòu	kou3	200
 kôu	kou5	200
-ksûn khūa--tiéh	ksun5 khua7  tieh8	100
 kú	ku2	100
 kú-kú	ku2 ku2	100
 kú-kuài	ku2 kuai3	200

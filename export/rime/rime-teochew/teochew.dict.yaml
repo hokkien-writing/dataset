@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260421.115825"
+version: "20260421.120435"
 sort: by_weight
 ...
 
@@ -1165,6 +1165,7 @@ To stir.	chhiou1	100
 船袂行	chun5 boi6 kiann5	100
 船𠀾行	chun5 boi6 kiann5	50
 船摳風	chun5 khau1 huang1	100
+船擱着	chun5 khua7  tieh8	100
 船行囉	chun5 kiann3  lo7	100
 船倚行	chun5 kua1 hang5	100
 船破掉	chun5 puah8 tiou3	100
@@ -2683,7 +2684,6 @@ In-n̄g	in1 ng7	100
 古傳	kou2 tng7	100
 雇	kou3	200
 糊	kou5	200
-船擱着	ksun5 khua7  tieh8	100
 久	ku2	100
 久久	ku2 ku2	100
 古怪	ku2 kuai3	200
