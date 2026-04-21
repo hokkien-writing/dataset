@@ -138,7 +138,7 @@ def register_default_translators(registry):
                 "r": "j",
             },
             vowel_map={"e": "ur", "ê": "e"},
-            ending_map={"b": "p", "d": "t", "g": "k", "n": "nn"},
+            ending_map={"b": "p", "d": "t", "g": "k"},
         ),
     )
 
@@ -160,6 +160,6 @@ def register_default_translators(registry):
                 "j": "r",
             },
             vowel_map={"ur": "e", "e": "ê"},
-            ending_map={"p": "b", "t": "d", "k": "g", "nn": "n"},
+            ending_map={"p": "b", "t": "d", "k": "g"},
         ),
     )

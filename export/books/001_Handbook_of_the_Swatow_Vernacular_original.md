@@ -227,7 +227,7 @@ Singapore, February, 1886.
 - **此個是的個** Chí-kâi sĩ tî-kâi? ... ... ... What is this?
 - **彼個我勿** Hṳ́-kâi uá màiⁿ ... ... ... I don't want that one.
 - **爾要的一個** Lṳ́ àiⁿ tî-chék-kâi? ... ... ... Which do you want?
-- **爾要的個** Lṳ́ aìⁿ tî-kâi? ... ... ... What do you want?
+- **爾要的個** Lṳ́ àiⁿ tî-kâi? ... ... ... What do you want?
 - **伊如何無來** I tsò-nîⁿ bô-lâi? ... ... ... Why did he not come?
 - **是因爲何爲** Sĩ in-ûi tsò-nîⁿ? ... ... ... For what reason?
 - **爾是是誰** Lṳ́ sĩ tî-tiâng? ... ... ... Who are you?
@@ -451,11 +451,11 @@ Singapore, February, 1886.
 
 #### section II.
 
-- **此個我勿。我要換** Chí--kâi uá màiⁿ, uá aìⁿ-ūaⁿ ... ... ... I don't want a change.
+- **此個我勿。我要換** Chí--kâi uá màiⁿ, uá àiⁿ-ūaⁿ ... ... ... I don't want a change.
 - **爾去追伊** Lṳ́ khṳ̀-jiōu i ... ... ... You go and chase him.
 - **追不着** Jiōu m̃-tièh ... ... ... Can't overtake him.
 - **爾走就追會着** Lṳ́ tsáu chiũ-jiōu õi-tièh ... ... ... If you run, you will overtake him.
-- **爾勿騙我** Lṳ́ màiⁿ-phièn úa ... ... ... Don't you deceive me.
+- **爾勿騙我** Lṳ́ màiⁿ-phièn uá ... ... ... Don't you deceive me.
 - **爾要選的一個** Lṳ́ àiⁿ-suán tî-chék-kâi? ... ... ... Which do you wish to choose?
 - **此個修清潔** Chí--kâi muéh-chheng-khih ... ... ... Clean this.
 - **此個携去煮** Chí--kâi khiéh-khṳ̀ tsṳ́ ... ... ... Take this and cook it.
@@ -827,7 +827,7 @@ Singapore, February, 1886.
 - **夜昏正轉來** Mêⁿ-hng chiàⁿ-tńg--lâi ... ... ... I shall not be back until to-night.
 - **或者下午亦不知** Pa-lak ẽ-kùa iā m̃-tsai ... ... ... Perhaps in the afternoon, but I don't know.
 - **今夜伊不在** Ke-mêⁿ i m̃-tõ ... ... ... He shall not be at home to-night.
-- **夜昏子伊要來我此處** Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò ... ... ... He is coming to my place to-night.
+- **夜昏子伊要來我此處** Mêⁿ-hng-kiaⁿ iàiⁿ-lâi uá--kò ... ... ... He is coming to my place to-night.
 - **我請伊** Uá chhiáⁿ i ... ... ... I have invited him.
 - **伊作有幾多日工** I tsoh ũ jiéh-tsōi jít kang? ... ... ... How many days' work has he done?
 - **伊作有壹個月** I tsoh ũ chék-kâi guéh ... ... ... He has worked one month.
@@ -1821,7 +1821,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 ### Lesson XV. garden.
 
 - **花園** Hue-hn̂g ... ... ... A flower garden.
-- **草埔** Tshaú-pou ... ... ... A lawn.
+- **草埔** Tsháu-pou ... ... ... A lawn.
 - **花** Hue ... ... ... Plants or flowers.
 - **蕊** Lúi ... ... ... A bud.
 - **月記** Guéh-kì ... ... ... Rose.
@@ -3010,7 +3010,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ corroborated** Kháu-keng siang-hûa ... ... ... 口供相和
 - **„ contradicted** Kháu-keng siang-huán ... ... ... 口供相反
 - **Statement, make your** Sù--lâi ... ... ... 訴來
-- **„ wish to make** Aìⁿ-sù ... ... ... 要訴
+- **„ wish to make** Àiⁿ-sù ... ... ... 要訴
 - **„ allow to make** Iông-sù ... ... ... 容訴
 - **Guilty** Ũ-tsũe ... ... ... 有罪
 - **Innocent** Bô-tsũe ... ... ... 無罪
@@ -3573,8 +3573,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **無。伊呾不是伊刣** Bô, i tàⁿ m̃-sĩ i thâi ... ... ... No, he said the man was not killed by him.
 - **伊與老爹呾。老爺亞。我無罪** I kah lãu-tia tàⁿ, lãu-iâ--a, uá bô-tsũe ... ... ... He said to the mandarin, "Your Worship, I am innocent."
 - **我是被人[訓]枉屈** Uá sĩ khoih--nâng uáng-khut ... ... ... "I am falsely accused by the people.
-- **人[訓]要害我** Nâng-àiⁿ-hāi úa ... ... ... "People wish to do me harm.
-- **求老爺代我伸寃。可憐我** Khiû lãu-iâ thòi-úa sin-uan, khó-liên uá ... ... ... "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
+- **人[訓]要害我** Nâng-àiⁿ-hāi uá ... ... ... "People wish to do me harm.
+- **求老爺代我伸寃。可憐我** Khiû lãu-iâ thòi -uá sin-uan, khó-liên uá ... ... ... "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
 - **老爹呌伊訴** Lãu-tia kiè i sù ... ... ... The mandarin asked him to make his statement.
 - **伊呾甚多話** I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe ... ... ... He made a long statement.
 - **老爹聽了就㸃頭** Lãu-tia thiaⁿ-lióu chiũ tak-thâu ... ... ... The mandarin after hearing him, nodded his head.
@@ -3649,7 +3649,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **做弍拾棚戯。共迎老爺** Tsò jĩ-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ ... ... ... They have twenty theatre stages besides a procession.
 - **來去遊玩** Lâi-khṳ̀ thit-thô ... ... ... Let us go for amusement.
 - **我要去拜老爺** Uá àiⁿ-khṳ̀ pài-lãu-iâ ... ... ... I am going to worship the idol.
-- **要去拜媽祖** Aìⁿ-khṳ̀-pài Máⁿ-tsóu ... ... ... I wish to worship the Goddess of sailors.
+- **要去拜媽祖** Àiⁿ-khṳ̀-pài Máⁿ-tsóu ... ... ... I wish to worship the Goddess of sailors.
 - **明天要迎老爺** Màⁿ-khí àiⁿ iâⁿ-lãu-iâ ... ... ... There will be a procession to-morrow.
 - **時節着拜亞公** Sî-tsoih tiéh pài-a-kong ... ... ... We must worship our ancestors on festival days.
 - **清明着去祭掃** Chheng-mêng tiéh-khṳ̀ kùe-tsúa ... ... ... On the festival of tombs, we must go to worship the graves.

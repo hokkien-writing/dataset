@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_puj
   name: 潮州語・白話字
-  version: "20260421.120435"
+  version: "20260421.184246"
   author:
     - Hokkien Writing Project
 
@@ -60,8 +60,8 @@ speller:
     - derive/z/Z/
     - derive/ /-/
     - derive/[1-8]//
-    - xform/tsh/chh/
-    - xform/ts/ch/
+    - derive/ch/ts/
+    - derive/chh/tsh/
 
 translator:
   dictionary: teochew_puj

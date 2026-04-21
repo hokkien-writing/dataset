@@ -98,8 +98,16 @@ class LatnConverter(ABC):
                 # Try longest match from reverse_vowel_map
                 for marked_vowel, options in self.reverse_vowel_map.items():
                     if syllable.startswith(marked_vowel, i):
-                        has_diacritics = (
-                            unicodedata.normalize("NFD", marked_vowel) != marked_vowel
+                        end_pos = i + len(marked_vowel)
+                        if end_pos < len(syllable) and unicodedata.category(
+                            syllable[end_pos]
+                        ).startswith("M"):
+                            continue
+                        has_diacritics = unicodedata.normalize(
+                            "NFD", marked_vowel
+                        ) != marked_vowel or any(
+                            unicodedata.category(c).startswith("M")
+                            for c in marked_vowel
                         )
                         if not has_diacritics:
                             if (
@@ -219,6 +227,12 @@ class LatnConverter(ABC):
         if not base_part:
             return syllable
 
+        # Apply system-specific syllable mappings (keyboard -> marked)
+        # Must happen BEFORE tone marking so that e.g. 'uann' -> 'uaⁿ'
+        # prevents 'uan' from matching as a composite vowel.
+        for marked_sym, keyboard in self.config.syllable_mappings.items():
+            base_part = re.sub(keyboard + "$", marked_sym, base_part)
+
         # Prioritize predefined dictionary (e.g. for complex syllables in POJ/PUJ)
         # Check if the combined form matches our complex map
         key = f"{base_part}{tone_num}"
@@ -226,25 +240,58 @@ class LatnConverter(ABC):
             return self.config.complex_syllable_map[key]
 
         marked = False
-        for vowel in self.tone_mark_priority:
-            if vowel in base_part:
-                k = f"{vowel}{tone_num}"
-                if k in self.vowel_dict:
-                    idx = base_part.rfind(vowel)
-                    if idx != -1:
-                        marked_char = self.vowel_dict[k]
-                        base_part = (
-                            base_part[:idx]
-                            + marked_char
-                            + base_part[idx + len(vowel) :]
-                        )
-                        marked = True
-                        break
 
-        # Apply system-specific syllable mappings (keyboard -> marked)
-        # Note: keyboard symbols are usually suffixes (like 'nn')
-        for marked_sym, keyboard in self.config.syllable_mappings.items():
-            base_part = re.sub(keyboard + "$", marked_sym, base_part)
+        is_entering = (
+            self.config.entering_tone_mark_before_ending
+            and tone_num in [4, 8]
+            and base_part
+            and base_part[-1] in self.entering_endings
+        )
+
+        if is_entering:
+            ending = base_part[-1]
+            stem = base_part[:-1]
+            for i in range(len(stem) - 1, -1, -1):
+                for vowel in self.tone_mark_priority:
+                    if stem[i : i + len(vowel)] == vowel:
+                        k = f"{vowel}{tone_num}"
+                        if k in self.vowel_dict:
+                            stem = (
+                                stem[:i] + self.vowel_dict[k] + stem[i + len(vowel) :]
+                            )
+                            marked = True
+                            break
+                if marked:
+                    break
+            if marked:
+                base_part = stem + ending
+
+        if not marked:
+            has_consonant_initial = any(
+                base_part[: len(ini)] == ini
+                for ini in self.config.initials
+                if ini and ini[0] not in "aeiou"
+            )
+            if not has_consonant_initial and self.config.vowel_initial_overrides:
+                k = f"{base_part}{tone_num}"
+                if k in self.config.vowel_initial_overrides:
+                    base_part = self.config.vowel_initial_overrides[k]
+                    marked = True
+            if not marked:
+                for vowel in self.tone_mark_priority:
+                    if vowel in base_part:
+                        k = f"{vowel}{tone_num}"
+                        if k in self.vowel_dict:
+                            idx = base_part.rfind(vowel)
+                            if idx != -1:
+                                marked_char = self.vowel_dict[k]
+                                base_part = (
+                                    base_part[:idx]
+                                    + marked_char
+                                    + base_part[idx + len(vowel) :]
+                                )
+                                marked = True
+                                break
 
         if not marked:
             return syllable

@@ -227,7 +227,7 @@ Singapore, February, 1886.
 - **此個是~~的個~~(底個)** Chí-kâi sĩ tî-kâi? ... ... ... What is this?
 - **彼個我勿** Hṳ́-kâi uá màiⁿ ... ... ... I don't want that one.
 - **~~爾~~(汝)~~要~~(愛)~~的一個~~(底一個)** Lṳ́ àiⁿ tî-chék-kâi? ... ... ... Which do you want?
-- **~~爾~~(汝)~~要~~(愛)~~的個~~(底個)** Lṳ́ aìⁿ tî-kâi? ... ... ... What do you want?
+- **~~爾~~(汝)~~要~~(愛)~~的個~~(底個)** Lṳ́ àiⁿ tî-kâi? ... ... ... What do you want?
 - **伊~~如何~~(怎呢)無來** I tsò-nîⁿ bô-lâi? ... ... ... Why did he not come?
 - **是因爲~~何爲~~(怎呢)** Sĩ in-ûi tsò-nîⁿ? ... ... ... For what reason?
 - **~~爾~~(汝)是~~是誰~~(底誰)** Lṳ́ sĩ tî-tiâng? ... ... ... Who are you?
@@ -451,11 +451,11 @@ Singapore, February, 1886.
 
 #### section II.
 
-- **此個我勿。我~~要~~(愛)換** Chí--kâi uá màiⁿ, uá aìⁿ-ūaⁿ ... ... ... I don't want a change.
+- **此個我勿。我~~要~~(愛)換** Chí--kâi uá màiⁿ, uá àiⁿ-ūaⁿ ... ... ... I don't want a change.
 - **~~爾~~(汝)去追伊** Lṳ́ khṳ̀-jiōu i ... ... ... You go and chase him.
 - **追~~不~~(毋)着** Jiōu m̃-tièh ... ... ... Can't overtake him.
 - **~~爾~~(汝)走就追會着** Lṳ́ tsáu chiũ-jiōu õi-tièh ... ... ... If you run, you will overtake him.
-- **~~爾~~(汝)勿騙我** Lṳ́ màiⁿ-phièn úa ... ... ... Don't you deceive me.
+- **~~爾~~(汝)勿騙我** Lṳ́ màiⁿ-phièn uá ... ... ... Don't you deceive me.
 - **~~爾~~(汝)~~要~~(愛)選~~的一個~~(底一個)** Lṳ́ àiⁿ-suán tî-chék-kâi? ... ... ... Which do you wish to choose?
 - **此個~~修清潔~~(物清潔)** Chí--kâi muéh-chheng-khih ... ... ... Clean this.
 - **此個~~携~~(挈)去煮** Chí--kâi khiéh-khṳ̀ tsṳ́ ... ... ... Take this and cook it.
@@ -827,7 +827,7 @@ Singapore, February, 1886.
 - **夜昏正轉來** Mêⁿ-hng chiàⁿ-tńg--lâi ... ... ... I shall not be back until to-night.
 - **或者~~下午~~(下旰)亦~~不~~(毋)知** Pa-lak ẽ-kùa iā m̃-tsai ... ... ... Perhaps in the afternoon, but I don't know.
 - **今夜伊~~不~~(毋)在** Ke-mêⁿ i m̃-tõ ... ... ... He shall not be at home to-night.
-- **~~夜昏子~~(夜昏囝)伊~~要~~(愛)來我~~此處~~(塊)** Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò ... ... ... He is coming to my place to-night.
+- **~~夜昏子~~(夜昏囝)伊~~要~~(愛)來我~~此處~~(塊)** Mêⁿ-hng-kiaⁿ iàiⁿ-lâi uá--kò ... ... ... He is coming to my place to-night.
 - **我請伊** Uá chhiáⁿ i ... ... ... I have invited him.
 - **伊作有~~幾多~~(若㩼)日工** I tsoh ũ jiéh-tsōi jít kang? ... ... ... How many days' work has he done?
 - **伊作有~~壹~~(一)個月** I tsoh ũ chék-kâi guéh ... ... ... He has worked one month.
@@ -1821,7 +1821,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 ### Lesson XV. garden.
 
 - **花園** Hue-hn̂g ... ... ... A flower garden.
-- **草埔** Tshaú-pou ... ... ... A lawn.
+- **草埔** Tsháu-pou ... ... ... A lawn.
 - **花** Hue ... ... ... Plants or flowers.
 - **蕊** Lúi ... ... ... A bud.
 - **月記** Guéh-kì ... ... ... Rose.
@@ -3010,7 +3010,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ corroborated** Kháu-keng siang-hûa ... ... ... 口供相和
 - **„ contradicted** Kháu-keng siang-huán ... ... ... 口供相反
 - **Statement, make your** Sù--lâi ... ... ... 訴來
-- **„ wish to make** Aìⁿ-sù ... ... ... ~~要~~(愛)訴
+- **„ wish to make** Àiⁿ-sù ... ... ... ~~要~~(愛)訴
 - **„ allow to make** Iông-sù ... ... ... 容訴
 - **Guilty** Ũ-tsũe ... ... ... 有罪
 - **Innocent** Bô-tsũe ... ... ... 無罪
@@ -3573,8 +3573,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **無。伊呾~~不~~(毋)是伊刣** Bô, i tàⁿ m̃-sĩ i thâi ... ... ... No, he said the man was not killed by him.
 - **伊~~與~~(佮)老爹呾。老爺亞。我無罪** I kah lãu-tia tàⁿ, lãu-iâ--a, uá bô-tsũe ... ... ... He said to the mandarin, "Your Worship, I am innocent."
 - **我是~~被~~(乞)人[訓]枉屈** Uá sĩ khoih--nâng uáng-khut ... ... ... "I am falsely accused by the people.
-- **人[訓]~~要~~(愛)害我** Nâng-àiⁿ-hāi úa ... ... ... "People wish to do me harm.
-- **求老爺代我伸~~寃~~(冤)。可憐我** Khiû lãu-iâ thòi-úa sin-uan, khó-liên uá ... ... ... "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
+- **人[訓]~~要~~(愛)害我** Nâng-àiⁿ-hāi uá ... ... ... "People wish to do me harm.
+- **求老爺代我伸~~寃~~(冤)。可憐我** Khiû lãu-iâ thòi -uá sin-uan, khó-liên uá ... ... ... "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
 - **老爹~~呌~~(叫)伊訴** Lãu-tia kiè i sù ... ... ... The mandarin asked him to make his statement.
 - **伊呾甚~~多~~(㩼)話** I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe ... ... ... He made a long statement.
 - **老爹聽了就~~㸃~~(點)頭** Lãu-tia thiaⁿ-lióu chiũ tak-thâu ... ... ... The mandarin after hearing him, nodded his head.
@@ -3649,7 +3649,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **做~~弍拾~~(二十)棚戯。~~共~~(佮)迎老爺** Tsò jĩ-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ ... ... ... They have twenty theatre stages besides a procession.
 - **來去~~遊玩~~(佚佗)** Lâi-khṳ̀ thit-thô ... ... ... Let us go for amusement.
 - **我~~要~~(愛)去拜老爺** Uá àiⁿ-khṳ̀ pài-lãu-iâ ... ... ... I am going to worship the idol.
-- **~~要~~(愛)去拜媽祖** Aìⁿ-khṳ̀-pài Máⁿ-tsóu ... ... ... I wish to worship the Goddess of sailors.
+- **~~要~~(愛)去拜媽祖** Àiⁿ-khṳ̀-pài Máⁿ-tsóu ... ... ... I wish to worship the Goddess of sailors.
 - **~~明天~~(明旦起)~~要~~(愛)迎老爺** Màⁿ-khí àiⁿ iâⁿ-lãu-iâ ... ... ... There will be a procession ~~to-morrow~~(tomorrow).
 - **時節着拜~~亞~~(阿)公** Sî-tsoih tiéh pài-a-kong ... ... ... We must worship our ancestors on festival days.
 - **清明着去~~祭掃~~(掛紙)** Chheng-mêng tiéh-khṳ̀ kùe-tsúa ... ... ... On the festival of tombs, we must go to worship the graves.

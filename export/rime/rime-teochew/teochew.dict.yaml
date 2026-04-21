@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260421.120435"
+version: "20260421.184246"
 sort: by_weight
 ...
 
@@ -26,8 +26,8 @@ sort: by_weight
 阿娘	a1 nienn5	100
 阿娘仔	a1 nienn5 kiann2	50
 阿娘囝	a1 nienn5 kiann2	100
-阿郎	a1 nng1	100
-阿郞	a1 nng1	50
+阿郎	a1 nng5	100
+阿郞	a1 nng5	50
 阿奴	a1 nounn1	100
 阿孥	a1 nounn5	300
 阿孥在哭	a1 nounn5 to6 khau3	100
@@ -812,7 +812,7 @@ To stir.	chhiou1	100
 全愈	chhuan5 ju2	100
 全權	chhuan5 khuan5	100
 撞	chhuann3	100
-閂門	chhuann3 mng1	100
+閂門	chhuann3 mng5	100
 吹	chhue1	100
 炊	chhue1	100
 箠	chhue5	200
@@ -849,7 +849,7 @@ To stir.	chhiou1	100
 出口貨	chhut4 khau2 hue3	100
 出力	chhut4 lat8	100
 出名	chhut4 miann5	200
-出門	chhut4 mng1	100
+出門	chhut4 mng5	100
 出票	chhut4 phie3	100
 出世	chhut4 si3	100
 出所費	chhut4 so2 hui3	200
@@ -973,7 +973,7 @@ To stir.	chhiou1	100
 照	chie3	200
 照律	chie3 lut8	100
 借	chieh4	600
-借問	chieh4 mng1	100
+借問	chieh4 mng7	100
 石	chieh8	300
 石鼠	chieh8 chhur2	100
 石灰	chieh8 hue1	100
@@ -1249,7 +1249,7 @@ To stir.	chhiou1	100
 𠢕儂	gau5 nang5	12
 牙	ge5	300
 蜈蚣	ge5 kang1	100
-衙門	ge5 mng1	200
+衙門	ge5 mng5	200
 牙頭齒	ge5 thau5 khi2	200
 玉	gek8	200
 疑	gi1	100
@@ -1371,7 +1371,7 @@ To stir.	chhiou1	100
 蟻	hia7	100
 歇	hiah4	600
 歇恬	hiah4 tiam7	100
-額門神	hiah8 mng1 sin5	100
+額門神	hiah8 mng5 sin5	100
 薟	hiam1	100
 薟椒	hiam1 chie1	100
 薟椒是畨爿來个	hiam1 chie1 si6 huan1 poinn5 lai5  kai5	25
@@ -2285,8 +2285,8 @@ In-n̄g	in1 ng7	100
 口供	khau2 keng1	200
 口供相和	khau2 keng1 siang1 hua5	100
 口供相反	khau2 keng1 siang1 huan2	100
-攷問	khau2 mng1	150
-考問	khau2 mng1	300
+攷問	khau2 mng7	150
+考問	khau2 mng7	300
 哭	khau3	200
 客	kheh4	200
 客商	kheh4 siang1	100
@@ -3346,12 +3346,12 @@ In-n̄g	in1 ng7	100
 麵包	minn7 pau1	100
 麫線	minn7 suann3	50
 麵線	minn7 suann3	100
-問	mng1	300
-門	mng1	200
-門拴	mng1 chheng7	100
-門閂	mng1 chhuann3	100
-問候	mng1 hau7	100
 晚餐	mng2 chhan1	100
+門	mng5	200
+門拴	mng5 chheng7	100
+門閂	mng5 chhuann3	100
+問	mng7	300
+問候	mng7 hau7	100
 牧師	mok8 sur1	100
 摸	mong5	200
 濛烟	mong5 in1	50
@@ -3538,10 +3538,10 @@ In-n̄g	in1 ng7	100
 年	ninn5	100
 尼姑婆	ninn5 kou1 phua5	100
 奶	ninn6	100
-䌜	nng1	100
 軟	nng2	300
 軟疕	nng2 ninn5	100
 鑽	nng3	100
+䌜	nng5	100
 卵	nng6	100
 卵淸	nng6 chheng1	50
 卵清	nng6 chheng1	100
@@ -4267,7 +4267,7 @@ To roast, as a fowl &c.	pek4	100
 城	siann5	200
 城是大在	siann5 si6 tua7 chai6	100
 城外	siann5 gua7	100
-城門	siann5 mng1	100
+城門	siann5 mng5	100
 澀	siap4	100
 澁	siap4	50
 燒	sie1	500
@@ -4276,7 +4276,7 @@ To roast, as a fowl &c.	pek4	100
 相争	sie1 chenn1	100
 相爭	sie1 chenn1	100
 相接	sie1 chiap4	100
-相借問	sie1 chieh4 mng1	100
+相借問	sie1 chieh4 mng7	100
 相擠	sie1 chinn3	200
 相撞着	sie1 chuang6  tieh8	100
 燒香㸃燭	sie1 hienn1	50
@@ -4334,7 +4334,7 @@ To roast, as a fowl &c.	pek4	100
 心事	sim1 sur7	100
 心事㩼	sim1 sur7 choi7	100
 審	sim2	200
-審問	sim2 mng1	100
+審問	sim2 mng7	100
 新	sin1	100
 身	sin1	100
 新聞	sin1 bun6	100
@@ -4565,7 +4565,7 @@ To roast, as a fowl &c.	pek4	100
 舵工好行了	tai6 kong1 ho2 kiann5  lo7	100
 玳瑁	tai7 pue7	100
 觸	tak4	100
-荒喪	tak4 nng1	100
+荒喪	tak4 nng7	100
 㸃頭	tak4 thau5	50
 點頭	tak4 thau5	100
 毒	tak8	100
@@ -4731,7 +4731,7 @@ To roast, as a fowl &c.	pek4	100
 探	tham3	100
 探仔	tham3 kiann2	50
 探囝	tham3 kiann2	100
-探問	tham3 mng1	100
+探問	tham3 mng7	100
 痰	tham5	100
 痰呸	tham5 phui3	100
 痰筒	tham5 tang7	100
@@ -5256,7 +5256,7 @@ Hard.	toinn7	100
 大官	tua7 kuann1	100
 大勞人	tua7 lau5 nang5	100
 大勞儂	tua7 lau5 nang5	50
-大門	tua7 mng1	100
+大門	tua7 mng5	100
 大黃	tua7 ng5	100
 大學	tua7 oh8	100
 大聲	tua7 siann1	200
@@ -5393,7 +5393,7 @@ Hard.	toinn7	100
 我此個禮拜毋閒在	ua2 chi2 kai5 loi2 pai3 m6 oinn5 chai6	100
 我此個地方唔熟	ua2 chi2 kai5 ti7 hng1 m6 sek8	50
 我此個地方毋熟	ua2 chi2 kai5 ti7 hng1 m6 sek8	100
-我就掠伊去衙門塊	ua2 chiu6 liah8 i1 khur3 ge5 mng1  ko7	100
+我就掠伊去衙門塊	ua2 chiu6 liah8 i1 khur3 ge5 mng5  ko7	100
 我次次來到覓汝唔在	ua2 chua7 chua7 lai5 kau3 chhue7 lur2 m6 to6	50
 我次次來到覓汝毋在	ua2 chua7 chua7 lai5 kau3 chhue7 lur2 m6 to6	100
 我次次來到覓爾唔在	ua2 chua7 chua7 lai5 kau3 chhue7 lur2 m6 to6	12

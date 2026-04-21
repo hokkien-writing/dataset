@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260421.120435"
+version: "20260421.184246"
 sort: by_weight
 import_tables:
   - teochew
@@ -27,7 +27,7 @@ a1 nainn2	a1 nainn2	100
 a1 nenn1	a1 nenn1	150
 a1 nienn5	a1 nienn5	100
 a1 nienn5 giann2	a1 nienn5 kiann2	150
-a1 nng1	a1 nng1	150
+a1 nng5	a1 nng5	150
 a1 nounn1	a1 nounn1	100
 a1 nounn5	a1 nounn5	300
 a1 nounn5 do6 kau3	a1 nounn5 to6 khau3	100
@@ -624,7 +624,7 @@ cuan5	chhuan5	200
 cuan5 ru2	chhuan5 ju2	100
 cuan5 kuan5	chhuan5 khuan5	100
 cuann3	chhuann3	100
-cuann3 mng1	chhuann3 mng1	100
+cuann3 mng5	chhuann3 mng5	100
 cue1	chhue1	200
 cue5	chhue5	200
 cue7	chhue7	300
@@ -653,7 +653,7 @@ cud4 ri7 bêh8	chhut4 ji7 peh8	100
 cud4 kau2 hue3	chhut4 khau2 hue3	100
 cud4 lad8	chhut4 lat8	100
 cud4 miann5	chhut4 miann5	200
-cud4 mng1	chhut4 mng1	100
+cud4 mng5	chhut4 mng5	100
 cud4 pie3	chhut4 phie3	100
 cud4 si3	chhut4 si3	100
 cud4 so2 hui3	chhut4 so2 hui3	200
@@ -755,7 +755,7 @@ zie2 u6	chie2 u6	100
 zie3	chie3	200
 zie3 lud8	chie3 lut8	100
 zieh4	chieh4	600
-zieh4 mng1	chieh4 mng1	100
+zieh4 mng7	chieh4 mng7	100
 zieh8	chieh8	300
 zieh8 ce2	chieh8 chhur2	100
 zieh8 hue1	chieh8 hue1	100
@@ -979,7 +979,7 @@ ghau5 a1 nienn5	gau5 a1 nienn5	150
 ghau5 nang5	gau5 nang5	187
 ghê5	ge5	300
 ghê5 gang1	ge5 kang1	100
-ghê5 mng1	ge5 mng1	200
+ghê5 mng5	ge5 mng5	200
 ghê5 tau5 ki2	ge5 thau5 khi2	200
 ghêg8	gek8	200
 ghi1	gi1	100
@@ -1086,7 +1086,7 @@ hia2 kieh8 bun1 ua2	hia2 khieh8 pun1 ua2	100
 hia7	hia7	100
 hiah4	hiah4	600
 hiah4 diam7	hiah4 tiam7	100
-hiah8 mng1 sin5	hiah8 mng1 sin5	100
+hiah8 mng5 sin5	hiah8 mng5 sin5	100
 hiam1	hiam1	100
 hiam1 zie1	hiam1 chie1	100
 hiam1 zie1 si6 huan1 boinn5 lai5  gai5	hiam1 chie1 si6 huan1 poinn5 lai5  kai5	187
@@ -1783,7 +1783,7 @@ kau2	khau2	400
 kau2 gêng1	khau2 keng1	200
 kau2 gêng1 siang1 hua5	khau2 keng1 siang1 hua5	100
 kau2 gêng1 siang1 huan2	khau2 keng1 siang1 huan2	100
-kau2 mng1	khau2 mng1	450
+kau2 mng7	khau2 mng7	450
 kau3	khau3	200
 kêh4	kheh4	200
 kêh4 siang1	kheh4 siang1	100
@@ -2546,11 +2546,12 @@ minn6	minn6	100
 minn7	minn7	150
 minn7 bau1	minn7 pau1	150
 minn7 suann3	minn7 suann3	150
-mng1	mng1	500
-mng1 cêng7	mng1 chheng7	100
-mng1 cuann3	mng1 chhuann3	100
-mng1 hau7	mng1 hau7	100
 mng2 can1	mng2 chhan1	100
+mng5	mng5	200
+mng5 cêng7	mng5 chheng7	100
+mng5 cuann3	mng5 chhuann3	100
+mng7	mng7	300
+mng7 hau7	mng7 hau7	100
 mog8 se1	mok8 sur1	100
 mong5	mong5	200
 mong5 in1	mong5 in1	150
@@ -2695,10 +2696,10 @@ ninn2  gai5 bou3	ninn2  kai5 pou3	100
 ninn5	ninn5	200
 ninn5 gou1 pua5	ninn5 kou1 phua5	100
 ninn6	ninn6	100
-nng1	nng1	100
 nng2	nng2	300
 nng2 ninn5	nng2 ninn5	100
 nng3	nng3	100
+nng5	nng5	100
 nng6	nng6	100
 nng6 cêng1	nng6 chheng1	150
 nng6 rin5	nng6 jin5	100
@@ -3273,13 +3274,13 @@ siann3 sin5	siann3 sin5	100
 siann5	siann5	200
 siann5 si6 dua7 zai6	siann5 si6 tua7 chai6	100
 siann5 ghua7	siann5 gua7	100
-siann5 mng1	siann5 mng1	100
+siann5 mng5	siann5 mng5	100
 siab4	siap4	150
 sie1	sie1	500
 sie1 a3	sie1 a3	150
 sie1 zenn1	sie1 chenn1	200
 sie1 ziab4	sie1 chiap4	100
-sie1 zieh4 mng1	sie1 chieh4 mng1	100
+sie1 zieh4 mng7	sie1 chieh4 mng7	100
 sie1 zinn3	sie1 chinn3	200
 sie1 zuang6  dieh8	sie1 chuang6  tieh8	100
 sie1 hienn1	sie1 hienn1	150
@@ -3330,7 +3331,7 @@ sim1 sin5 m6 diann7	sim1 sin5 m6 tiann7	150
 sim1 se7	sim1 sur7	100
 sim1 se7 zoi7	sim1 sur7 choi7	100
 sim2	sim2	200
-sim2 mng1	sim2 mng1	100
+sim2 mng7	sim2 mng7	100
 sin1	sin1	200
 sin1 bhun6	sin1 bun6	100
 sin1 bhun6 zua2	sin1 bun6 chua2	100
@@ -3515,7 +3516,7 @@ dai6 gong1	tai6 kong1	200
 dai6 gong1 ho2 giann5  lo7	tai6 kong1 ho2 kiann5  lo7	100
 dai7 bue7	tai7 pue7	100
 dag4	tak4	100
-dag4 nng1	tak4 nng1	100
+dag4 nng7	tak4 nng7	100
 dag4 tau5	tak4 thau5	150
 dag8	tak8	100
 dag8 ieh8	tak8 ieh8	100
@@ -3644,7 +3645,7 @@ tam1 sim1	tham1 sim1	300
 tam2 senn1 lam1 kou1	tham2 senn1 lam1 khou1	100
 tam3	tham3	100
 tam3 giann2	tham3 kiann2	150
-tam3 mng1	tham3 mng1	100
+tam3 mng7	tham3 mng7	100
 tam5	tham5	100
 tam5 pui3	tham5 phui3	100
 tam5 dang7	tham5 tang7	100
@@ -4056,7 +4057,7 @@ dua7 gou1	tua7 kou1	200
 dua7 gu6	tua7 ku6	100
 dua7 guann1	tua7 kuann1	100
 dua7 lau5 nang5	tua7 lau5 nang5	150
-dua7 mng1	tua7 mng1	100
+dua7 mng5	tua7 mng5	100
 dua7 ng5	tua7 ng5	100
 dua7 oh8	tua7 oh8	100
 dua7 siann1	tua7 siann1	200
@@ -4151,7 +4152,7 @@ ua2 zêg8 sin1 lau5 guann7	ua2 chek8 sin1 lau5 kuann7	100
 ua2 ciann2 i1	ua2 chhiann2 i1	100
 ua2 zi2 gai5 loi2 bai3 m6 oinn5 zai6	ua2 chi2 kai5 loi2 pai3 m6 oinn5 chai6	187
 ua2 zi2 gai5 di7 hng1 m6 sêg8	ua2 chi2 kai5 ti7 hng1 m6 sek8	150
-ua2 ziu6 liah8 i1 ke3 ghê5 mng1  go7	ua2 chiu6 liah8 i1 khur3 ge5 mng1  ko7	100
+ua2 ziu6 liah8 i1 ke3 ghê5 mng5  go7	ua2 chiu6 liah8 i1 khur3 ge5 mng5  ko7	100
 ua2 zua7 zua7 lai5 gau3 cue7 le2 m6 do6	ua2 chua7 chua7 lai5 kau3 chhue7 lur2 m6 to6	197
 ua2 ê6 gai5 ghueh8 ainn3 dng2	ua2 e6 kai5 gueh8 ainn3 tng2	100
 ua2 hiou2	ua2 hiou2	100

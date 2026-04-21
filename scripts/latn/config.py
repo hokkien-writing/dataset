@@ -56,6 +56,12 @@ class LatnSystemConfig:
         default_factory=lambda: ["a", "o", "u", "e", "i", "ur", "n", "m"]
     )
 
+    entering_tone_mark_before_ending: bool = False
+
+    vowel_initial_reversed_priority: list = field(default_factory=list)
+
+    vowel_initial_overrides: Dict[str, str] = field(default_factory=dict)
+
     reverse_vowel_map: Optional[Dict[str, List[Tuple[str, int]]]] = None
 
     reverse_complex_map: Optional[Dict[str, Tuple[str, int]]] = None
