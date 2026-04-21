@@ -212,7 +212,7 @@ engine:
   translators:
     - script_translator
   filters:
-    - lua_filter@puj_filter
+    - lua_filter@{filter_name}
     - uniquifier
 
 speller:
@@ -240,10 +240,10 @@ patch:
 LUA_PROCESSOR_TEMPLATE = ""
 
 LUA_FILTER_TEMPLATE = """\
--- Rime Lua module: puj_filter (contains both processor and filter)
+-- Rime Lua module: {filter_name} (contains both processor and filter)
 -- Generated from scripts/export_rime.py - do not edit manually
 
--- Comprehensive mapping of syllable codes to PUJ handwriting
+-- Comprehensive mapping of syllable codes to {system_name} handwriting
 {syllable_map}
 
 local function capitalize_first(text)
@@ -540,12 +540,14 @@ def write_schema(system: str, pkg: str, output_dir: Path):
     schema_id = f"{pkg}_{system}"
     name = SYSTEM_NAMES[system]
     algebra = format_algebra(SYSTEM_ALGEBRA[system])
+    filter_name = f"{system}_filter"
 
     content = SCHEMA_TEMPLATE.format(
         schema_id=schema_id,
         name=name,
         version=BUILD_VERSION,
         algebra=algebra,
+        filter_name=filter_name,
     )
     path = output_dir / f"{schema_id}.schema.yaml"
     path.write_text(content, encoding="utf-8")
@@ -599,22 +601,23 @@ def generate_syllable_map(system: str) -> str:
 
 
 def write_lua_filter(system: str, output_dir: Path):
-    """Write lua/puj_filter.lua (single module with processor + filter)."""
+    """Write lua/{system}_filter.lua (single module with processor + filter)."""
     lua_dir = output_dir / "lua"
     lua_dir.mkdir(parents=True, exist_ok=True)
 
+    filter_name = f"{system}_filter"
+    system_name = SYSTEM_NAMES.get(system, system)
     syl_map_lua = generate_syllable_map(system)
-    content = LUA_FILTER_TEMPLATE.replace("{syllable_map}", syl_map_lua)
-    path = lua_dir / "puj_filter.lua"
+    content = (
+        LUA_FILTER_TEMPLATE.replace("{syllable_map}", syl_map_lua)
+        .replace("{filter_name}", filter_name)
+        .replace("{system_name}", system_name)
+    )
+    path = lua_dir / f"{filter_name}.lua"
     path.write_text(content, encoding="utf-8")
     print(f"Wrote {path}")
 
-    rime_lua = output_dir / "rime.lua"
-    rime_lua.write_text(
-        "local puj_mod = require('puj_filter')\n"
-        "puj_filter = puj_mod[2]\n",
-        encoding="utf-8",
-    )
+    return filter_name
 
 
 def main():
@@ -632,9 +635,15 @@ def main():
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
-        if pkg == "teochew":
-            # Use PUJ as the primary system for reconstruction logic
-            write_lua_filter("puj", pkg_dir)
+        filter_names = []
+        for system in systems:
+            filter_names.append(write_lua_filter(system, pkg_dir))
+        rime_lua = pkg_dir / "rime.lua"
+        lines = []
+        for fn in filter_names:
+            lines.append(f"local {fn}_mod = require('{fn}')")
+            lines.append(f"{fn} = {fn}_mod[2]")
+        rime_lua.write_text("\n".join(lines) + "\n", encoding="utf-8")
         print(f"[{pkg}] Done.")
 
     print(f"\nDone. Rime files exported to {OUTPUT_DIR}/")
