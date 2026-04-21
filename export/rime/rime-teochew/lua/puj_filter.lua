@@ -1,4 +1,4 @@
--- Rime Lua filter: puj_filter
+-- Rime Lua module: puj_filter (contains both processor and filter)
 -- Generated from scripts/export_rime.py - do not edit manually
 
 -- Comprehensive mapping of syllable codes to PUJ handwriting
@@ -3641,32 +3641,67 @@ local SYLLABLE_MAP = {
 
 local function capitalize_first(text)
     if not text or text == "" then return text end
-    -- Handle UTF-8 safely for PUJ
     local first = utf8.char(utf8.codepoint(text, 1))
     return first:upper() .. text:sub(utf8.offset(text, 2) or (#text + 1))
 end
 
--- Reconstruct candidate text using user's input separators and the syllable map
+local _caps_mask = ""
+
+local function processor(key, env)
+    if key:release() then return 2 end
+    local ctx = env.engine.context
+    local kc = key.keycode
+
+    local n = #ctx.input
+    if #_caps_mask > n then
+        _caps_mask = _caps_mask:sub(1, n)
+    end
+
+    if kc == 8 then
+        if #_caps_mask > 0 then
+            _caps_mask = _caps_mask:sub(1, #_caps_mask - 1)
+        end
+        return 2
+    end
+
+    if kc >= 65 and kc <= 90 then
+        _caps_mask = _caps_mask .. "U"
+    elseif (kc >= 97 and kc <= 122) or (kc >= 48 and kc <= 57) or kc == 45 then
+        _caps_mask = _caps_mask .. "_"
+    end
+
+    return 2
+end
+
+local function get_caps_mask(env)
+    local ctx = env.engine.context
+    local n = #ctx.input
+    local caps = _caps_mask
+    if #caps > n then caps = caps:sub(1, n) end
+    while #caps < n do caps = caps .. "_" end
+    return caps
+end
+
 local function apply_user_separators(cand, env)
-    local input = env.engine.context.input or ""
+    local ctx = env.engine.context
+    local input = ctx.input or ""
     local comment = cand.comment or ""
     if input == "" then return cand.text end
-    
-    -- Extract full codes from comment (e.g. "menn1 hng1 si5")
+
+    local caps = get_caps_mask(env)
+
     local codes = {}
     for code in comment:gmatch("[%w]+") do
         table.insert(codes, code)
     end
-    
+
     local res = ""
     local i = 1
     local code_idx = 1
     while i <= #input do
-        -- Match alphanumeric syllable token
         local token = input:match("^[%w]+", i)
         if token then
             local hw = token
-            -- Use the full code from the comment for lookup if available
             local full_code = codes[code_idx]
             if full_code then
                 hw = SYLLABLE_MAP[full_code:lower()] or SYLLABLE_MAP[token:lower()] or token
@@ -3674,22 +3709,19 @@ local function apply_user_separators(cand, env)
             else
                 hw = SYLLABLE_MAP[token:lower()] or token
             end
-            
-            -- Preserve capitalization
-            if token:match("^%u") then
+
+            if caps:sub(i, i) == "U" then
                 hw = capitalize_first(hw)
             end
-            
+
             res = res .. hw
             i = i + #token
         else
-            -- Match non-alphanumeric separator (including spaces and dashes)
             local sep = input:match("^[^%w]+", i)
             if sep then
                 res = res .. sep
                 i = i + #sep
             else
-                -- Fallback for safe iteration
                 local char = input:sub(i, i)
                 res = res .. char
                 i = i + 1
@@ -3700,27 +3732,26 @@ local function apply_user_separators(cand, env)
 end
 
 local function filter(translation, env)
-    local input = env.engine.context.input or ""
-    
+    local caps = _caps_mask
+
     for cand in translation:iter() do
         local text = cand.text
-        local genuine = cand:get_genuine()
-        
-        -- Apply logic to handle separators and capitalization
-        if cand.type == "sentence" or cand.type == "user_phrase" or cand.type == "dictionary" then
-            -- Reconstruct text based on user separators (dashes, spaces)
+        local need_reconstruct = (cand.type == "sentence" or cand.type == "user_phrase"
+            or cand.type == "dictionary")
+
+        if need_reconstruct then
             text = apply_user_separators(cand, env)
-            
-            -- Capitalization logic (ensure first letter of candidate is correct)
-            if input and input:match("^%u") then
+            if caps:sub(1, 1) == "U" then
                 text = capitalize_first(text)
             end
-            
             yield(Candidate(cand.type, cand.start, cand._end, text, cand.comment))
         else
-            yield(cand)
+            if caps:sub(1, 1) == "U" then
+                text = capitalize_first(cand.text)
+            end
+            yield(Candidate(cand.type, cand.start, cand._end, text, cand.comment))
         end
     end
 end
 
-return filter
+return {{ processor = processor }, filter}
