@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州語・潮州話拼音
-  version: "20260421.232815"
+  version: "20260422.075146"
   author:
     - Hokkien Writing Project
 
@@ -59,17 +59,18 @@ speller:
     - derive/z/Z/
     - derive/ /-/
     - derive/[1-8]//
-    - xform/^b/bh/
     - xform/^g/gh/
-    - xform/^p([^h])/b/
-    - xform/^ph/p/
-    - xform/^t([^h])/d/
-    - xform/^th/t/
-    - xform/^g([^h])/k/
-    - xform/^kh/k/
-    - xform/^chh/c/
-    - xform/^ch([^h])/z/
+    - xform/^b/bh/
     - xform/^j/r/
+    - xform/^chh/c/
+    - xform/^ch/z/
+    - xform/^k(?=[^h])/g/
+    - xform/^kh/k/
+    - xform/^p(?=[^h])/b/
+    - xform/^ph/p/
+    - xform/^t(?=[^h])/d/
+    - xform/^th/t/
+    - xform/nn$/nn/
     - xform/e/ei/
     - xform/ur/e/
 
