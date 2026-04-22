@@ -4,13 +4,14 @@
 schema:
   schema_id: teochew_dp
   name: 潮州語・潮州話拼音
-  version: "20260422.145941"
+  version: "20260422.160713"
   author:
     - Hokkien Writing Project
 
 engine:
   processors:
     - ascii_composer
+    - lua_processor@dp_caps_tracker
     - speller
     - punctuator
     - selector

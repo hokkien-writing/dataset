@@ -4225,10 +4225,23 @@ local SYLLABLE_MAP = {
     ["ut8"] = "ud⁸",
 }
 
+local LATIN_UPPER = {
+    ["à"] = "À", ["á"] = "Á", ["â"] = "Â", ["ã"] = "Ã",
+    ["è"] = "È", ["é"] = "É", ["ê"] = "Ê",
+    ["ì"] = "Ì", ["í"] = "Í", ["î"] = "Î",
+    ["ñ"] = "Ñ",
+    ["ò"] = "Ò", ["ó"] = "Ó", ["ô"] = "Ô", ["õ"] = "Õ",
+    ["ù"] = "Ù", ["ú"] = "Ú", ["û"] = "Û",
+    ["ā"] = "Ā", ["ē"] = "Ē", ["ĩ"] = "Ĩ", ["ī"] = "Ī",
+    ["ń"] = "Ń", ["ō"] = "Ō", ["ũ"] = "Ũ", ["ū"] = "Ū",
+    ["ǹ"] = "Ǹ", ["ḿ"] = "Ḿ", ["ṳ"] = "Ṳ", ["ẽ"] = "Ẽ",
+}
+
 local function capitalize_first(text)
     if not text or text == "" then return text end
     local first = utf8.char(utf8.codepoint(text, 1))
-    return first:upper() .. text:sub(utf8.offset(text, 2) or (#text + 1))
+    local upper = LATIN_UPPER[first] or first:upper()
+    return upper .. text:sub(utf8.offset(text, 2) or (#text + 1))
 end
 
 local _caps_mask = ""

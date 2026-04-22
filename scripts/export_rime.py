@@ -206,6 +206,7 @@ schema:
 engine:
   processors:
     - ascii_composer
+    - lua_processor@{caps_tracker_name}
     - speller
     - punctuator
     - selector
@@ -269,10 +270,23 @@ LUA_FILTER_TEMPLATE = """\
 -- Comprehensive mapping of syllable codes to {system_name} handwriting
 {syllable_map}
 
+local LATIN_UPPER = {
+    ["à"] = "À", ["á"] = "Á", ["â"] = "Â", ["ã"] = "Ã",
+    ["è"] = "È", ["é"] = "É", ["ê"] = "Ê",
+    ["ì"] = "Ì", ["í"] = "Í", ["î"] = "Î",
+    ["ñ"] = "Ñ",
+    ["ò"] = "Ò", ["ó"] = "Ó", ["ô"] = "Ô", ["õ"] = "Õ",
+    ["ù"] = "Ù", ["ú"] = "Ú", ["û"] = "Û",
+    ["ā"] = "Ā", ["ē"] = "Ē", ["ĩ"] = "Ĩ", ["ī"] = "Ī",
+    ["ń"] = "Ń", ["ō"] = "Ō", ["ũ"] = "Ũ", ["ū"] = "Ū",
+    ["ǹ"] = "Ǹ", ["ḿ"] = "Ḿ", ["ṳ"] = "Ṳ", ["ẽ"] = "Ẽ",
+}
+
 local function capitalize_first(text)
     if not text or text == "" then return text end
     local first = utf8.char(utf8.codepoint(text, 1))
-    return first:upper() .. text:sub(utf8.offset(text, 2) or (#text + 1))
+    local upper = LATIN_UPPER[first] or first:upper()
+    return upper .. text:sub(utf8.offset(text, 2) or (#text + 1))
 end
 
 local _caps_mask = ""
@@ -574,6 +588,7 @@ def write_schema(system: str, pkg: str, output_dir: Path):
     name = SYSTEM_NAMES[system]
     algebra = format_algebra(SYSTEM_ALGEBRA[system])
     filter_name = f"{system}_filter"
+    caps_tracker_name = f"{system}_caps_tracker"
 
     content = SCHEMA_TEMPLATE.format(
         schema_id=schema_id,
@@ -581,6 +596,7 @@ def write_schema(system: str, pkg: str, output_dir: Path):
         version=BUILD_VERSION,
         algebra=algebra,
         filter_name=filter_name,
+        caps_tracker_name=caps_tracker_name,
     )
     path = output_dir / f"{schema_id}.schema.yaml"
     path.write_text(content, encoding="utf-8")
@@ -706,9 +722,12 @@ def main():
             filter_names.append(write_lua_filter(entries, system, pkg_dir))
         rime_lua = pkg_dir / "rime.lua"
         lines = []
-        for fn in filter_names:
+        for system in systems:
+            fn = f"{system}_filter"
+            ct = f"{system}_caps_tracker"
             lines.append(f"local {fn}_mod = require('{fn}')")
             lines.append(f"{fn} = {fn}_mod[2]")
+            lines.append(f"{ct} = {fn}_mod[1].processor")
         rime_lua.write_text("\n".join(lines) + "\n", encoding="utf-8")
         print(f"[{pkg}] Done.")
 
