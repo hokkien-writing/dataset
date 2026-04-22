@@ -113,7 +113,7 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
         "",
     ]
     for (latn_norm, han), count in sorted(entries.items()):
-        code = latn_norm.replace("-", " ")
+        code = latn_norm.replace("--", "   ").replace("-", "  ")
         lines.append(f"{han}\t{code}\t{count}")
     path = output_dir / f"{pkg}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -129,6 +129,7 @@ SYSTEM_ALGEBRA = {
         "derive/ch/ts/",
         "derive/chh/tsh/",
         "derive/oinn/ainn/",
+        "derive/nn//",
     ]
     + CASE_FOLD,
     "poj": [
@@ -179,7 +180,6 @@ SYSTEM_ALGEBRA = {
         "xform/^ph/p/",
         "xform/^t(?=[^h])/d/",
         "xform/^th/t/",
-        "xform/nn$/nn/",
         "xform/e/ei/",
         "xform/ur/e/",
         "derive/ /-/",
@@ -187,6 +187,7 @@ SYSTEM_ALGEBRA = {
         "derive/d/g/",
         "derive/([aeiu])n$/$1ng/",
         "derive/oinn/ainn/",
+        "derive/nn//",
     ]
     + CASE_FOLD,
 }
@@ -234,6 +235,8 @@ key_binder:
     - {{ when: has_menu, accept: Right, send: Page_Down }}
     - {{ when: paging, accept: bracketleft, send: Page_Up }}
     - {{ when: has_menu, accept: bracketright, send: Page_Down }}
+    - {{ when: has_menu, accept: Tab, send: Page_Down }}
+    - {{ when: paging, accept: Shift+Tab, send: Page_Up }}
 
 style:
   horizontal: true
@@ -243,6 +246,7 @@ translator:
   dictionary: {schema_id}
   enable_completion: true
   enable_sentence: true
+  spelling_hints: 99
 """
 
 DEFAULT_CUSTOM_TEMPLATE = """\
@@ -307,6 +311,17 @@ local function get_caps_mask(env)
     return caps
 end
 
+local function codes_to_handwriting(comment)
+    if not comment or comment == "" then return "" end
+    local result = comment:gsub("[%w]+", function(code)
+        local hw = SYLLABLE_MAP[code:lower()]
+        return hw or code
+    end)
+    result = result:gsub("   ", "--")
+    result = result:gsub("  ", "-")
+    return result
+end
+
 local function apply_user_separators(cand, env)
     local ctx = env.engine.context
     local input = ctx.input or ""
@@ -362,6 +377,15 @@ local function filter(translation, env)
     local items = {}
 
     for cand in translation:iter() do
+        local function is_han_char(text)
+            if not text or #text == 0 then return false end
+            local b = string.byte(text, 1)
+            if b >= 0xE4 and b <= 0xE9 then return true end
+            if b >= 0xF0 then return true end
+            return false
+        end
+
+        local original_is_han = is_han_char(cand.text)
         local text = cand.text
         local need_reconstruct = (cand.type == "sentence" or cand.type == "user_phrase"
             or cand.type == "dictionary")
@@ -377,12 +401,16 @@ local function filter(translation, env)
             end
         end
 
+        local display_comment = original_is_han
+            and codes_to_handwriting(cand.comment)
+            or ""
+
         table.insert(items, {
             type = cand.type,
             start = cand.start,
             _end = cand._end,
             text = text,
-            comment = cand.comment,
+            comment = display_comment,
             is_latin = text:match("^%a") ~= nil
         })
     end
@@ -409,56 +437,32 @@ return {{ processor = processor }, filter}
 """
 
 
-def _extract_syllable_bases(csv_path: Path) -> set[str]:
-    """Extract all unique LATN_NORM syllable bases (without tone) from merged.csv."""
-    import re
-
-    puj_converter = create_converter("PUJ")
-    puj_to_norm = create_translator("PUJ", "LATN_NORM")
-    norm_converter = create_converter("LATN_NORM")
+def _extract_syllable_bases_from_entries(entries: dict) -> set[str]:
+    """Extract all unique LATN_NORM syllable bases directly from entries."""
     bases = set()
-    with open(csv_path, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            puj = (row.get("puj") or "").strip()
-            if not puj:
-                continue
-            try:
-                kb = puj_converter.to_keyboard(puj)
-            except Exception:
-                continue
-            for syl in kb.replace("--", " ").split():
-                syl = syl.strip(",.?!")
-                m = re.match(r"^([a-z]+?)(\d)$", syl)
-                if m:
-                    try:
-                        norm_hw = puj_to_norm.translate(syl)
-                        norm_kb = norm_converter.to_keyboard(norm_hw)
-                        m2 = re.match(r"^([a-z]+?)(\d)$", norm_kb)
-                        if m2:
-                            bases.add(m2.group(1))
-                    except Exception:
-                        continue
+    for (latn_norm, _han), _weight in entries.items():
+        for syl in re.split(r"[\s\-]+", latn_norm):
+            m = re.match(r"^([a-z]+?)(\d)$", syl.strip())
+            if m:
+                bases.add(m.group(1))
     return bases
 
 
-def generate_latn_norm_syllables(csv_path: Path = MERGED_CSV):
+def generate_latn_norm_syllables(entries: dict):
     """Generate all valid LATN_NORM syllables from actual data + tone expansion."""
-    bases = _extract_syllable_bases(csv_path)
+    bases = _extract_syllable_bases_from_entries(entries)
     syllables = set()
     for base in bases:
         if base.endswith(("p", "t", "k", "h")):
-            # ptkh ending -> only 4 and 8
             tones = [4, 8]
         else:
-            # Other ending -> NOT 4 and 8 (Tones 1, 2, 3, 5, 6, 7)
             tones = [1, 2, 3, 5, 6, 7]
         for tone in tones:
             syllables.add(f"{base}{tone}")
     return sorted(syllables)
 
 
-def write_syllables_dict(system: str, pkg: str, output_dir: Path):
+def write_syllables_dict(entries: dict, system: str, pkg: str, output_dir: Path):
     """Write {pkg}_{system}_syllables.dict.yaml with all valid single-syllable romanizations."""
     translator = create_translator("LATN_NORM", system.upper())
 
@@ -473,7 +477,7 @@ def write_syllables_dict(system: str, pkg: str, output_dir: Path):
         "",
     ]
 
-    for syllable in generate_latn_norm_syllables():
+    for syllable in generate_latn_norm_syllables(entries):
         try:
             handwriting = translator.translate(syllable)
         except Exception:
@@ -591,10 +595,43 @@ def write_default_custom(systems: list, pkg: str, output_dir: Path):
     print(f"Wrote {path}")
 
 
-def generate_syllable_map(system: str) -> str:
+def generate_han_rom_map(entries: dict, systems_data: dict, system: str) -> str:
+    translator = create_translator("LATN_NORM", system.upper())
+    system_converter = create_converter(system.upper())
+    mapping = {}
+    for (latn_norm, han), weight in entries.items():
+        csv_hw = systems_data.get((latn_norm, han), {}).get(system.lower())
+        if not csv_hw or not csv_hw.strip():
+            try:
+                csv_hw = translator.translate(latn_norm)
+            except Exception:
+                continue
+        if not csv_hw or not csv_hw.strip():
+            continue
+        try:
+            hw = system_converter.to_handwriting(system_converter.to_keyboard(csv_hw))
+        except Exception:
+            hw = csv_hw
+        if system == "dp":
+            hw = hw.replace("-", "")
+            if csv_hw and csv_hw != hw:
+                if han not in mapping:
+                    mapping[han] = csv_hw.replace("-", "")
+        if han not in mapping and hw and hw.strip():
+            mapping[han] = hw
+    lines = ["local HAN_ROM_MAP = {"]
+    for k, v in sorted(mapping.items()):
+        safe_v = v.replace("\\", "\\\\").replace('"', '\\"')
+        safe_k = k.replace("\\", "\\\\").replace('"', '\\"')
+        lines.append(f'    ["{safe_k}"] = "{safe_v}",')
+    lines.append("}")
+    return "\n".join(lines)
+
+
+def generate_syllable_map(entries: dict, system: str) -> str:
     """Generate a Lua table mapping syllable codes to their handwriting."""
     translator = create_translator("LATN_NORM", system.upper())
-    syllables = generate_latn_norm_syllables()
+    syllables = generate_latn_norm_syllables(entries)
 
     mapping = {}
     # First pass: all explicit tone syllables (e.g., menn1, ak4)
@@ -608,7 +645,7 @@ def generate_syllable_map(system: str) -> str:
 
     # Second pass: Implicit tone rules for digit-less input (e.g., menn -> meⁿ)
     # Rule: syllables ending in p, t, k, h are tone 4, others are tone 1
-    bases = _extract_syllable_bases(MERGED_CSV)
+    bases = _extract_syllable_bases_from_entries(entries)
     for base in bases:
         base = base.lower()
         # Only add if not already present as a special single-letter syllable
@@ -628,14 +665,14 @@ def generate_syllable_map(system: str) -> str:
     return "\n".join(lines)
 
 
-def write_lua_filter(system: str, output_dir: Path):
+def write_lua_filter(entries: dict, system: str, output_dir: Path):
     """Write lua/{system}_filter.lua (single module with processor + filter)."""
     lua_dir = output_dir / "lua"
     lua_dir.mkdir(parents=True, exist_ok=True)
 
     filter_name = f"{system}_filter"
     system_name = SYSTEM_NAMES.get(system, system)
-    syl_map_lua = generate_syllable_map(system)
+    syl_map_lua = generate_syllable_map(entries, system)
     content = (
         LUA_FILTER_TEMPLATE.replace("{syllable_map}", syl_map_lua)
         .replace("{filter_name}", filter_name)
@@ -659,13 +696,13 @@ def main():
         pkg_dir.mkdir(parents=True, exist_ok=True)
         write_base_dict(entries, pkg, pkg_dir)
         for system in systems:
-            write_syllables_dict(system, pkg, pkg_dir)
+            write_syllables_dict(entries, system, pkg, pkg_dir)
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
         filter_names = []
         for system in systems:
-            filter_names.append(write_lua_filter(system, pkg_dir))
+            filter_names.append(write_lua_filter(entries, system, pkg_dir))
         rime_lua = pkg_dir / "rime.lua"
         lines = []
         for fn in filter_names:

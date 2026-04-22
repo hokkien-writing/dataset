@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_puj
   name: 潮州語・白話字
-  version: "20260422.114350"
+  version: "20260422.144152"
   author:
     - Hokkien Writing Project
 
@@ -37,6 +37,7 @@ speller:
     - derive/ch/ts/
     - derive/chh/tsh/
     - derive/oinn/ainn/
+    - derive/nn//
     - derive/a/A/
     - derive/b/B/
     - derive/c/C/
@@ -70,6 +71,8 @@ key_binder:
     - { when: has_menu, accept: Right, send: Page_Down }
     - { when: paging, accept: bracketleft, send: Page_Up }
     - { when: has_menu, accept: bracketright, send: Page_Down }
+    - { when: has_menu, accept: Tab, send: Page_Down }
+    - { when: paging, accept: Shift+Tab, send: Page_Up }
 
 style:
   horizontal: true
@@ -79,3 +82,4 @@ translator:
   dictionary: teochew_puj
   enable_completion: true
   enable_sentence: true
+  spelling_hints: 99
