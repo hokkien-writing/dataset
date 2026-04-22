@@ -693,6 +693,7 @@ def write_system_dict(
 
     for latn_norm, weight in sorted(latn_weights.items()):
         spaced_code = latn_norm.replace("-", " ")
+        rom_weight = weight - 1
         csv_handwriting = preferred_handwriting.get(latn_norm)
         if not csv_handwriting or not csv_handwriting.strip():
             try:
@@ -707,17 +708,17 @@ def write_system_dict(
         if system == "dp":
             if standard_handwriting and standard_handwriting.strip():
                 lines.append(
-                    f"{standard_handwriting.replace('-', '')}\t{spaced_code}\t{weight}"
+                    f"{standard_handwriting.replace('-', '')}\t{spaced_code}\t{rom_weight}"
                 )
             if csv_handwriting and csv_handwriting != standard_handwriting:
                 lines.append(
-                    f"{csv_handwriting.replace('-', '')}\t{spaced_code}\t{weight - 1}"
+                    f"{csv_handwriting.replace('-', '')}\t{spaced_code}\t{rom_weight - 1}"
                 )
         else:
             if standard_handwriting and standard_handwriting.strip():
-                lines.append(f"{standard_handwriting}\t{spaced_code}\t{weight}")
+                lines.append(f"{standard_handwriting}\t{spaced_code}\t{rom_weight}")
             if csv_handwriting and csv_handwriting != standard_handwriting:
-                lines.append(f"{csv_handwriting}\t{spaced_code}\t{weight - 1}")
+                lines.append(f"{csv_handwriting}\t{spaced_code}\t{rom_weight - 1}")
 
     path = output_dir / f"{pkg}_{system}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
