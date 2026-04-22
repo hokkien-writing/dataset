@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州語・潮州話拼音
-  version: "20260422.111106"
+  version: "20260422.113641"
   author:
     - Hokkien Writing Project
 
@@ -15,6 +15,7 @@ engine:
     - punctuator
     - selector
     - navigator
+    - key_binder
     - express_editor
   segmentors:
     - abc_segmentor
@@ -76,6 +77,13 @@ speller:
     - derive/x/X/
     - derive/y/Y/
     - derive/z/Z/
+
+key_binder:
+  bindings:
+    - { when: paging, accept: Left, send: Page_Up }
+    - { when: has_menu, accept: Right, send: Page_Down }
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
 
 translator:
   dictionary: teochew_dp

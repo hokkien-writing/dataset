@@ -129,20 +129,23 @@ SYSTEM_ALGEBRA = {
         "derive/ch/ts/",
         "derive/chh/tsh/",
         "derive/oinn/ainn/",
-    ] + CASE_FOLD,
+    ]
+    + CASE_FOLD,
     "poj": [
         "derive/ /-/",
         "derive/[1-8]//",
         "xform/ou/oo/",
         "xform/ua/oa/",
         "xform/ue/oe/",
-    ] + CASE_FOLD,
+    ]
+    + CASE_FOLD,
     "tl": [
         "xform/ch/ts/",
         "xform/chh/tsh/",
         "derive/ /-/",
         "derive/[1-8]//",
-    ] + CASE_FOLD,
+    ]
+    + CASE_FOLD,
     "bp": [
         "derive/ /-/",
         "derive/[1-8]//",
@@ -162,7 +165,8 @@ SYSTEM_ALGEBRA = {
         "xform/c/chh/",
         "xform/zz/j/",
         "xform/oo/ou/",
-    ] + CASE_FOLD,
+    ]
+    + CASE_FOLD,
     "dp": [
         "xform/^g/gh/",
         "xform/^b/bh/",
@@ -183,7 +187,8 @@ SYSTEM_ALGEBRA = {
         "derive/d/g/",
         "derive/([aeiu])n$/$1ng/",
         "derive/oinn/ainn/",
-    ] + CASE_FOLD,
+    ]
+    + CASE_FOLD,
 }
 
 SCHEMA_TEMPLATE = """\
@@ -204,6 +209,7 @@ engine:
     - punctuator
     - selector
     - navigator
+    - key_binder
     - express_editor
   segmentors:
     - abc_segmentor
@@ -221,6 +227,13 @@ speller:
   delimiter: " -"
   algebra:
 {algebra}
+
+key_binder:
+  bindings:
+    - {{ when: paging, accept: Left, send: Page_Up }}
+    - {{ when: has_menu, accept: Right, send: Page_Down }}
+    - {{ when: paging, accept: bracketleft, send: Page_Up }}
+    - {{ when: has_menu, accept: bracketright, send: Page_Down }}
 
 translator:
   dictionary: {schema_id}
