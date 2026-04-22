@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260422.144152"
+version: "20260422.145941"
 sort: by_weight
 import_tables:
   - teochew

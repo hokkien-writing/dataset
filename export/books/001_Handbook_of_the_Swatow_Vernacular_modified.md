@@ -2843,7 +2843,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Broker, a** Phah-khang ... ... ... 拍空
 - **Bundle, a** Pau ... ... ... 包
 - **Business** Sṳ̄; seng-lí ... ... ... 事  生理
-- **Busy** M̃-ôiⁿ; sṳ̄ tsōi ... ... ... 毋(閒)  事㩼
+- **Busy** M̃-ôiⁿ; sṳ̄ tsōi ... ... ... 毋閒  事㩼
 - **Cargo** Hùe ... ... ... 貨
 - **Cask, a** Tháng ... ... ... 桶
 - **Certificate, a** Phêng-tuaⁿ ... ... ... 憑單

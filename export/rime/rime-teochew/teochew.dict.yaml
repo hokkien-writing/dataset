@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260422.144152"
+version: "20260422.145941"
 sort: by_weight
 ...
 
@@ -3185,14 +3185,10 @@ In-n̄g	in1  ng7	100
 毋孬偷挈儂个物	m6  monn2 thau1  khieh8 nang5 kai5 mueh8	50
 唔孬錢	m6  monn2  chinn5	50
 毋孬錢	m6  monn2  chinn5	100
-唔(閑)	m6  oinn5	12
-唔(閒)	m6  oinn5	25
-唔閑	m6  oinn5	12
-唔閒	m6  oinn5	25
-毋(閑)	m6  oinn5	50
-毋(閒)	m6  oinn5	100
-毋閑	m6  oinn5	50
-毋閒	m6  oinn5	100
+唔閑	m6  oinn5	24
+唔閒	m6  oinn5	50
+毋閑	m6  oinn5	100
+毋閒	m6  oinn5	200
 唔捌	m6  pat4	3
 唔識	m6  pat4	12
 唔𧧸	m6  pat4	6

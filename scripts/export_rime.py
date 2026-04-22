@@ -241,6 +241,7 @@ key_binder:
 style:
   horizontal: true
   candidate_list_layout: linear
+  candidate_format: "%@"
 
 translator:
   dictionary: {schema_id}
@@ -256,7 +257,7 @@ DEFAULT_CUSTOM_TEMPLATE = """\
 patch:
   schema_list:
 {schema_list}
-  "menu/page_size": 8
+  "menu/page_size": 6
 """
 
 LUA_PROCESSOR_TEMPLATE = ""

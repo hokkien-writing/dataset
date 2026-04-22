@@ -5,4 +5,4 @@ patch:
   schema_list:
     - schema: teochew_puj
     - schema: teochew_dp
-  "menu/page_size": 8
+  "menu/page_size": 6
