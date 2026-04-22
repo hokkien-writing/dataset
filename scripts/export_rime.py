@@ -504,11 +504,11 @@ def write_system_dict(
     ]
 
     for latn_norm, weight in sorted(latn_weights.items()):
-        code = latn_norm.replace("-", " ")
+        spaced_code = latn_norm.replace("-", " ")
         csv_handwriting = preferred_handwriting.get(latn_norm)
         if not csv_handwriting or not csv_handwriting.strip():
             try:
-                csv_handwriting = translator.translate(code)
+                csv_handwriting = translator.translate(latn_norm)
             except Exception:
                 continue
         if not csv_handwriting or not csv_handwriting.strip():
@@ -516,10 +516,20 @@ def write_system_dict(
         standard_handwriting = system_converter.to_handwriting(
             system_converter.to_keyboard(csv_handwriting)
         )
-        if standard_handwriting and standard_handwriting.strip():
-            lines.append(f"{standard_handwriting}\t{code}\t{weight}")
-        if csv_handwriting and csv_handwriting != standard_handwriting:
-            lines.append(f"{csv_handwriting}\t{code}\t{weight - 1}")
+        if system == "dp":
+            if standard_handwriting and standard_handwriting.strip():
+                lines.append(
+                    f"{standard_handwriting.replace('-', '')}\t{spaced_code}\t{weight}"
+                )
+            if csv_handwriting and csv_handwriting != standard_handwriting:
+                lines.append(
+                    f"{csv_handwriting.replace('-', '')}\t{spaced_code}\t{weight - 1}"
+                )
+        else:
+            if standard_handwriting and standard_handwriting.strip():
+                lines.append(f"{standard_handwriting}\t{spaced_code}\t{weight}")
+            if csv_handwriting and csv_handwriting != standard_handwriting:
+                lines.append(f"{csv_handwriting}\t{spaced_code}\t{weight - 1}")
 
     path = output_dir / f"{pkg}_{system}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
