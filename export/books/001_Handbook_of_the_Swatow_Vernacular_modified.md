@@ -1112,7 +1112,7 @@ Tiéh 着 (must, ought, or should) implies obligation.
 
 M̃-móⁿ (don't) 毋孬 implies the opposite of 着 tiéh, viz. must not, ought not, and should not.
 
-- **汝毋孬去** Lṳ̀ m̃-móⁿ khṳ̀ ... ... ... You must not go.
+- **汝毋孬去** Lṳ́ m̃-móⁿ khṳ̀ ... ... ... You must not go.
 - **恁毋孬分伊去** Nín m̃-móⁿ pun i khṳ̀ ... ... ... You ought not to let him go.
 - **恁毋孬詏** Nín m̃-móⁿ à ... ... ... You should not argue.
 
@@ -1147,7 +1147,7 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 - **此個敬長過彼個** Chí--kâi kèng-tn̂g kùe hṳ́-kâi ... ... ... This is longer than that.
 - **汝个好。我个愈更好** Lṳ́--kâi hó, uá--kâi zú-kèng hó ... ... ... Yours is good, (but) mine better.
 - **伊會走猛過我** I õi-tsáu méⁿ-kùe uá ... ... ... He can run faster than I.
-- **伊行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
+- **汝行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
 - **潮州府會贏過汕頭亞袂** Tiê-chiu-hú õi iâⁿ-kùe Suaⁿ-thâu a-bõi? ... ... ... Is Ch'ao-chow-fu better than Swatow?
 - **汝寫个字贏我个** Lṳ́ siá kâi jī iâⁿ uá kâi ... ... ... Your writing is better than mine.
 - **伊做s事汝** I tsò-sṳ̄ iâⁿ lṳ́ ... ... ... He does things better than you.
@@ -2186,7 +2186,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **汝豈識[訓]食榴蓮咩** Lṳ́ khah-pat chiáh liû-liân mē? ... ... ... Have you ever eaten durians?
 - **是芳在也** Sĩ phang tsãi a. ... ... ... It is very fragrant indeed.
 - **葡萄好作酒** Phû-thô hó-tsò-chiú ... ... ... Grapes can be made into wine.
-- **汝尚食果子咩** Lú siãng-chiáh kúe-chí mē? ... ... ... Are you fond of eating fruit?
+- **汝尚食果子咩** Lṳ́ siãng-chiáh kúe-chí mē? ... ... ... Are you fond of eating fruit?
 
 ------
 
@@ -3622,7 +3622,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **底誰刣贏** Tî-tiâng thâi-iâⁿ? ... ... ... Who has won the victory?
 - **還了未知** Huân-lióu būe-tsai ... ... ... We don't know yet.
 - **荷蘭西个兵來未齊** Hô-lân-se kâi-piaⁿ lâi būe-tsôi ... ... ... The French troops have not all arrived yet.
-- **伊若是來齊就愛直直去京城塊** In nāⁿ-sĩ lâi-tsôi chiũ àiⁿ tít-tít khṳ̀ kiaⁿ-siâⁿ--kō; ... ... ... If they all have come out, they will go direct to the capital;
+- **𪜶若是來齊就愛直直去京城塊** In nāⁿ-sĩ lâi-tsôi chiũ àiⁿ tít-tít khṳ̀ kiaⁿ-siâⁿ--kō; ... ... ... If they all have come out, they will go direct to the capital;
 - **在彼塊輸贏** Tõ-hṳ́--kō su-iâⁿ ... ... ... And there, it will be either won or lost.
 - **現時在臺灣塊有相刣** Hīn-sî tõ Tâi-uân--kō ũ sie-thâi ... ... ... At present there are battles going on in Formosa.
 - **雞籠乞荷蘭西拍去了** Koi-lâng khoih Hô-lân-se phah--khṳ̀-lō ... ... ... Keelung is taken by the French.

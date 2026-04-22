@@ -100,6 +100,157 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
     return counts, systems_data
 
 
+def load_all_entries_for_chars(csv_path: Path) -> Counter:
+    """Load all rows from merged.csv and return Counter of (syllable, char) -> weight.
+
+    Decompose entries into individual (syllable, char) pairs by:
+    1. Splitting into word segments
+    2. Skipping segments with Chinese punctuation (not whole row)
+    3. Matching syllable count to char count 1:1
+    """
+    punct = '。，、！？；：，「」『』""《》'
+    # Flower code numerals (花碼) to exclude
+    flower_code = "〇〡〢〣〤〥〦〧〨〩〪〭〮〯〫〬〰〱〲〳〴〵〶〷〸〹〺〻〼〽〾〿"
+    char_counts = Counter()
+    with open(csv_path, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            latn_norm = (row.get("latn_norm") or "").strip()
+            if not latn_norm:
+                puj_val = (row.get("puj") or "").strip()
+                if puj_val:
+                    try:
+                        latn_norm = _to_latn_norm(puj_val)
+                    except Exception:
+                        continue
+            if not latn_norm:
+                continue
+            han = (row.get("han") or "").strip()
+            han_variants = (row.get("han_variants") or "").strip()
+            if not han:
+                continue
+
+            # Clean han: remove text in brackets
+            clean_han = re.sub(r"\[[^\]]*\]", "", han)
+
+            # Strategy: expand latn to individual syllables (split by '-'),
+            # then match each syllable to corresponding character
+
+            # Split latn by comma first (to handle comma-separated phrases)
+            latn_parts = re.split(r",", latn_norm)
+
+            # Initialize all_syllables list
+            all_syllables = []
+
+            # Split each part by space, then expand by hyphen
+            for part in latn_parts:
+                part = part.strip()
+                if not part:
+                    continue
+                for word in part.split():
+                    word = word.strip()
+                    # Remove quotes from word
+                    word = re.sub(r'["\']', "", word)
+                    if not word:
+                        continue
+                    # Expand by hyphen to get individual syllables
+                    for syl in word.split("-"):
+                        syl = syl.strip()
+                        # Remove punctuation from syllable (., ?, !, etc.)
+                        syl = re.sub(r"[.?!]", "", syl)
+                        if syl:
+                            all_syllables.append(syl)
+
+            # Split han into segments, then combine (excluding punctuation)
+            han_raw_segments = [
+                s.strip()
+                for s in re.split(r'[，。、！？；：「」『』""《》\s]+', clean_han)
+                if s.strip()
+            ]
+
+            # Skip if no syllables
+            if not all_syllables:
+                continue
+
+            # Combine all han segments (skip those with Chinese punctuation)
+            all_chars = ""
+            for seg in han_raw_segments:
+                if not any(p in seg for p in punct):
+                    all_chars += seg
+
+            # Skip if has flower code
+            if any(c in flower_code for c in all_chars):
+                continue
+
+            chars_list = list(all_chars)
+
+            # Must match syllable count to character count 1:1
+            if len(all_syllables) != len(chars_list):
+                continue
+
+            base_weight = 100
+            for syl, ch in zip(all_syllables, chars_list):
+                if (syl, ch) not in char_counts:
+                    char_counts[(syl, ch)] = base_weight
+                else:
+                    char_counts[(syl, ch)] += base_weight
+
+            if han_variants:
+                last_weight = base_weight
+                for variant in han_variants.split("|"):
+                    v = variant.strip()
+                    if v:
+                        clean_v = re.sub(r"\[[^\]]*\]", "", v)
+                        var_segments = [
+                            s.strip()
+                            for s in re.split(
+                                r'[，。、！？；：「」『』""《》\s]+', clean_v
+                            )
+                            if s.strip()
+                        ]
+                        # Use SAME syllables as main entry
+                        all_chars_var = "".join(var_segments)
+                        if any(p in all_chars_var for p in punct):
+                            all_chars_var = ""
+                            for seg in var_segments:
+                                if not any(p in seg for p in punct):
+                                    all_chars_var += seg
+                        # Skip variants with flower code
+                        if any(c in all_chars_var for c in flower_code):
+                            continue
+                        chars_var_list = list(all_chars_var)
+                        if len(all_syllables) == len(chars_var_list):
+                            last_weight = last_weight // 2
+                            for syl, ch in zip(all_syllables, chars_var_list):
+                                if (syl, ch) not in char_counts:
+                                    char_counts[(syl, ch)] = last_weight
+                                else:
+                                    char_counts[(syl, ch)] += last_weight
+    return char_counts
+
+
+def write_char_dict_from_counts(char_counts: Counter, pkg: str, output_dir: Path):
+    """Write {pkg}_chars.dict.yaml from precomputed (syllable, char) -> weight Counter."""
+    if not char_counts:
+        return
+    lines = [
+        f"# Rime dictionary: {pkg}_chars",
+        "# Generated from merged.csv - decomposed character table",
+        "---",
+        f"name: {pkg}_chars",
+        f'version: "{BUILD_VERSION}"',
+        "sort: by_weight",
+        "...",
+        "",
+    ]
+    for (syl, ch), count in sorted(char_counts.items()):
+        code = syl.replace("--", "   ").replace("-", "  ")
+        lines.append(f"{ch}\t{code}\t{count}")
+    path = output_dir / f"{pkg}_chars.dict.yaml"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Wrote {len(char_counts)} char entries to {path}")
+
+
 def write_base_dict(entries: dict, pkg: str, output_dir: Path):
     """Write {pkg}.dict.yaml (latn_norm -> han with weights)."""
     lines = [
@@ -534,6 +685,7 @@ def write_system_dict(
         "sort: by_weight",
         "import_tables:",
         f"  - {pkg}",
+        f"  - {pkg}_chars",
         f"  - {pkg}_{system}_syllables",
         "...",
         "",
@@ -703,6 +855,9 @@ def write_lua_filter(entries: dict, system: str, output_dir: Path):
 
 
 def main():
+    # For character dict, use all entries (no system filtering) and punctuation stripped
+    all_char_counts = load_all_entries_for_chars(MERGED_CSV)
+
     for pkg, cfg in PACKAGE_SYSTEMS.items():
         systems = cfg["systems"]
         entries, systems_data = load_entries(MERGED_CSV, require_systems=cfg["require"])
@@ -712,6 +867,7 @@ def main():
         pkg_dir = OUTPUT_DIR / f"rime-{pkg}"
         pkg_dir.mkdir(parents=True, exist_ok=True)
         write_base_dict(entries, pkg, pkg_dir)
+        write_char_dict_from_counts(all_char_counts, pkg, pkg_dir)
         for system in systems:
             write_syllables_dict(entries, system, pkg, pkg_dir)
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)

@@ -1112,7 +1112,7 @@ Tiéh 着 (must, ought, or should) implies obligation.
 
 M̃-móⁿ (don't) 不可 implies the opposite of 着 tiéh, viz. must not, ought not, and should not.
 
-- **爾不可去** Lṳ̀ m̃-móⁿ khṳ̀ ... ... ... You must not go.
+- **爾不可去** Lṳ́ m̃-móⁿ khṳ̀ ... ... ... You must not go.
 - **恁不可分伊去** Nín m̃-móⁿ pun i khṳ̀ ... ... ... You ought not to let him go.
 - **恁不可辯** Nín m̃-móⁿ à ... ... ... You should not argue.
 
@@ -1147,7 +1147,7 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 - **此個敬長過彼個** Chí--kâi kèng-tn̂g kùe hṳ́-kâi ... ... ... This is longer than that.
 - **爾个好。我個愈更好** Lṳ́--kâi hó, uá--kâi zú-kèng hó ... ... ... Yours is good, (but) mine better.
 - **伊會走猛過我** I õi-tsáu méⁿ-kùe uá ... ... ... He can run faster than I.
-- **伊行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
+- **爾行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
 - **潮州府會贏過汕頭或袂** Tiê-chiu-hú õi iâⁿ-kùe Suaⁿ-thâu a-bõi? ... ... ... Is Ch'ao-chow-fu better than Swatow?
 - **爾寫個字贏我個** Lṳ́ siá kâi jī iâⁿ uá kâi ... ... ... Your writing is better than mine.
 - **伊作事事爾** I tsò-sṳ̄ iâⁿ lṳ́ ... ... ... He does things better than you.
@@ -2186,7 +2186,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **爾豈識[訓]食榴蓮否** Lṳ́ khah-pat chiáh liû-liân mē? ... ... ... Have you ever eaten durians?
 - **是香在也** Sĩ phang tsãi a. ... ... ... It is very fragrant indeed.
 - **葡萄好作酒** Phû-thô hó-tsò-chiú ... ... ... Grapes can be made into wine.
-- **爾上食菓子否** Lú siãng-chiáh kúe-chí mē? ... ... ... Are you fond of eating fruit?
+- **爾上食菓子否** Lṳ́ siãng-chiáh kúe-chí mē? ... ... ... Are you fond of eating fruit?
 
 ------
 

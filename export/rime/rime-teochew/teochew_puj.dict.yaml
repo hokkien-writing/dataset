@@ -2,10 +2,11 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260422.160713"
+version: "20260422.170957"
 sort: by_weight
 import_tables:
   - teochew
+  - teochew_chars
   - teochew_puj_syllables
 ...
 
@@ -2864,10 +2865,11 @@ lṳ́ khṳ̀ húe-si̍t-pâng kiè húe-thâu lâi	lur2 khur3 hue2 sit8 pang5 
 lṳ́ khṳ̀ húe-sít-pâng kiè húe-thâu lâi	lur2 khur3 hue2 sit8 pang5 kie3 hue2 thau5 lai5	186
 lṳ́ khṳ̀-jiōu i	lur2 khur3 jiou7 i1	150
 lṳ́ ki chhìn siám	lur2 ki1 chhin3 siam2	150
-lṳ́ kiâⁿ méⁿ-kùe i tsáu	lur2 kiann5 menn2 kue3 i1 chau2	100
+lṳ́ kiâⁿ méⁿ-kùe i tsáu	lur2 kiann5 menn2 kue3 i1 chau2	150
 lṳ́ kiè sai-pẽ khiã-tiām lâi	lur2 kie3 sai1 pe6 khia6 tiam7 lai5	187
 lṳ́ lia̍h--i	lur2 liah8  i1	150
 lṳ́ liáh--i	lur2 liah8  i1	149
+lṳ́ m̃-móⁿ khṳ̀	lur2 m6 monn2 khur3	187
 lṳ́ m̃-móⁿ u̍t-kàu ji̍t uàⁿ chiàⁿ-tsáu-khí	lur2 m6 monn2 ut8 kau3 jit8 uann3 chiann3 chau2 khi2	187
 lṳ́ m̃-móⁿ út-kàu jít uàⁿ chiàⁿ-tsáu-khí	lur2 m6 monn2 ut8 kau3 jit8 uann3 chiann3 chau2 khi2	186
 lṳ́ màiⁿ-phièn uá	lur2 mainn3 phien3 ua2	150
@@ -2889,7 +2891,6 @@ lṳ́ tõ hṳ́-kò	lur2 to6 hur2 ko3	150
 lṳ́ u̍t-kàu ji̍t hièⁿ-uàⁿ chiàⁿ-tsáu-khí	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	150
 lṳ́ út-kàu jít hièⁿ-uàⁿ chiàⁿ-tsáu-khí	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	149
 lṳ́-kâi m̃-sĩ chièⁿ-seⁿ	lur2 kai5 m6 si6 chienn3 senn1	187
-lṳ̀ m̃-móⁿ khṳ̀	lur3 m6 monn2 khur3	187
 lṳ̂	lur5	100
 lṳ̃-sòng-hun	lur6 song3 hun1	100
 lṳ̃-sòng-pie	lur6 song3 pie1	100

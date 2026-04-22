@@ -2,10 +2,11 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260422.160713"
+version: "20260422.170957"
 sort: by_weight
 import_tables:
   - teochew
+  - teochew_chars
   - teochew_dp_syllables
 ...
 
@@ -2396,9 +2397,10 @@ le² ke³	lur2 khur3	150
 le² ke³ hue²sid⁸bang⁵ gie³ hue²tau⁵ lai⁵	lur2 khur3 hue2 sit8 pang5 kie3 hue2 thau5 lai5	187
 le² ke³riou⁷ i¹	lur2 khur3 jiou7 i1	150
 le² gi¹ cin³ siam²	lur2 ki1 chhin3 siam2	150
-le² giaⁿ⁵ meⁿ²gue³ i¹ zau²	lur2 kiann5 menn2 kue3 i1 chau2	100
+le² giaⁿ⁵ meⁿ²gue³ i¹ zau²	lur2 kiann5 menn2 kue3 i1 chau2	150
 le² gie³ sai¹bê⁶ kia⁶diam⁷ lai⁵	lur2 kie3 sai1 pe6 khia6 tiam7 lai5	187
 le² liah⁸i¹	lur2 liah8  i1	150
+le² m⁶moⁿ² ke³	lur2 m6 monn2 khur3	187
 le² m⁶moⁿ² ud⁸gau³ rid⁸ uaⁿ³ ziaⁿ³zau²ki²	lur2 m6 monn2 ut8 kau3 jit8 uann3 chiann3 chau2 khi2	187
 le² maiⁿ³pien³ ua²	lur2 mainn3 phien3 ua2	150
 le² min²êng⁷ lai⁵	lur2 min2 eng7 lai5	187
@@ -2413,7 +2415,6 @@ le² dieh⁸lai⁵	lur2 tieh8 lai5	150
 le² do⁶ he²go³	lur2 to6 hur2 ko3	150
 le² ud⁸gau³ rid⁸ hieⁿ³uaⁿ³ ziaⁿ³zau²ki²	lur2 ut8 kau3 jit8 hienn3 uann3 chiann3 chau2 khi2	150
 le²gai⁵ m⁶si⁶ zieⁿ³seⁿ¹	lur2 kai5 m6 si6 chienn3 senn1	187
-le³ m⁶moⁿ² ke³	lur3 m6 monn2 khur3	187
 le⁵	lur5	100
 le⁶song³hun¹	lur6 song3 hun1	100
 le⁶song³bie¹	lur6 song3 pie1	100

@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260422.160713"
+version: "20260422.170957"
 sort: by_weight
 ...
 
@@ -3062,13 +3062,18 @@ In-n̄g	in1  ng7	100
 爾去追伊	lur2 khur3  jiou7 i1	50
 汝枝秤閃	lur2 ki1 chhin3 siam2	100
 爾枝秤閃	lur2 ki1 chhin3 siam2	50
-伊行猛過伊走	lur2 kiann5 menn2  kue3 i1 chau2	100
+汝行猛過伊走	lur2 kiann5 menn2  kue3 i1 chau2	100
+爾行猛過伊走	lur2 kiann5 menn2  kue3 i1 chau2	50
 汝叫司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	100
 汝呌司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	50
 爾叫司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	25
 爾呌司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	12
 汝掠伊	lur2 liah8   i1	100
 爾掠伊	lur2 liah8   i1	50
+汝唔孬去	lur2 m6  monn2 khur3	50
+汝毋孬去	lur2 m6  monn2 khur3	100
+爾唔孬去	lur2 m6  monn2 khur3	12
+爾毋孬去	lur2 m6  monn2 khur3	25
 汝唔孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	50
 汝毋孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	100
 爾唔孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	12
@@ -3105,10 +3110,6 @@ In-n̄g	in1  ng7	100
 汝个毋是此樣生	lur2  kai5 m6  si6 chienn3  senn1	100
 爾个唔是此樣生	lur2  kai5 m6  si6 chienn3  senn1	12
 爾个毋是此樣生	lur2  kai5 m6  si6 chienn3  senn1	25
-汝唔孬去	lur3 m6  monn2 khur3	50
-汝毋孬去	lur3 m6  monn2 khur3	100
-爾唔孬去	lur3 m6  monn2 khur3	12
-爾毋孬去	lur3 m6  monn2 khur3	25
 驢	lur5	100
 呂宋薰	lur6  song3  hun1	100
 呂宋票	lur6  song3  pie1	100
