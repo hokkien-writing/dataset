@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州語・潮州話拼音
-  version: "20260422.083230"
+  version: "20260422.111106"
   author:
     - Hokkien Writing Project
 
@@ -31,6 +31,25 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
   delimiter: " -"
   algebra:
+    - xform/^g/gh/
+    - xform/^b/bh/
+    - xform/^j/r/
+    - xform/^chh/c/
+    - xform/^ch/z/
+    - xform/^k(?=[^h])/g/
+    - xform/^kh/k/
+    - xform/^p(?=[^h])/b/
+    - xform/^ph/p/
+    - xform/^t(?=[^h])/d/
+    - xform/^th/t/
+    - xform/nn$/nn/
+    - xform/e/ei/
+    - xform/ur/e/
+    - derive/ /-/
+    - derive/[1-8]//
+    - derive/d/g/
+    - derive/([aeiu])n$/$1ng/
+    - derive/oinn/ainn/
     - derive/a/A/
     - derive/b/B/
     - derive/c/C/
@@ -57,22 +76,6 @@ speller:
     - derive/x/X/
     - derive/y/Y/
     - derive/z/Z/
-    - derive/ /-/
-    - derive/[1-8]//
-    - xform/^g/gh/
-    - xform/^b/bh/
-    - xform/^j/r/
-    - xform/^chh/c/
-    - xform/^ch/z/
-    - xform/^k(?=[^h])/g/
-    - xform/^kh/k/
-    - xform/^p(?=[^h])/b/
-    - xform/^ph/p/
-    - xform/^t(?=[^h])/d/
-    - xform/^th/t/
-    - xform/nn$/nn/
-    - xform/e/ei/
-    - xform/ur/e/
 
 translator:
   dictionary: teochew_dp

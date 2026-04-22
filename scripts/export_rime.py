@@ -123,30 +123,27 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
 CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
 
 SYSTEM_ALGEBRA = {
-    "puj": CASE_FOLD
-    + [
+    "puj": [
         "derive/ /-/",
         "derive/[1-8]//",
         "derive/ch/ts/",
         "derive/chh/tsh/",
-    ],
-    "poj": CASE_FOLD
-    + [
+        "derive/oinn/ainn/",
+    ] + CASE_FOLD,
+    "poj": [
         "derive/ /-/",
         "derive/[1-8]//",
-        "xform/oo/ou/",
-        "xform/oa/ua/",
-        "xform/oe/ue/",
-    ],
-    "tl": CASE_FOLD
-    + [
+        "xform/ou/oo/",
+        "xform/ua/oa/",
+        "xform/ue/oe/",
+    ] + CASE_FOLD,
+    "tl": [
+        "xform/ch/ts/",
+        "xform/chh/tsh/",
         "derive/ /-/",
         "derive/[1-8]//",
-        "derive/ch/ts/",
-        "derive/chh/tsh/",
-    ],
-    "bp": CASE_FOLD
-    + [
+    ] + CASE_FOLD,
+    "bp": [
         "derive/ /-/",
         "derive/[1-8]//",
         "xform/bb/p/",
@@ -165,11 +162,8 @@ SYSTEM_ALGEBRA = {
         "xform/c/chh/",
         "xform/zz/j/",
         "xform/oo/ou/",
-    ],
-    "dp": CASE_FOLD
-    + [
-        "derive/ /-/",
-        "derive/[1-8]//",
+    ] + CASE_FOLD,
+    "dp": [
         "xform/^g/gh/",
         "xform/^b/bh/",
         "xform/^j/r/",
@@ -184,7 +178,12 @@ SYSTEM_ALGEBRA = {
         "xform/nn$/nn/",
         "xform/e/ei/",
         "xform/ur/e/",
-    ],
+        "derive/ /-/",
+        "derive/[1-8]//",
+        "derive/d/g/",
+        "derive/([aeiu])n$/$1ng/",
+        "derive/oinn/ainn/",
+    ] + CASE_FOLD,
 }
 
 SCHEMA_TEMPLATE = """\
