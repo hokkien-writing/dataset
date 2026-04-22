@@ -235,6 +235,10 @@ key_binder:
     - {{ when: paging, accept: bracketleft, send: Page_Up }}
     - {{ when: has_menu, accept: bracketright, send: Page_Down }}
 
+style:
+  horizontal: true
+  candidate_list_layout: linear
+
 translator:
   dictionary: {schema_id}
   enable_completion: true
@@ -248,6 +252,7 @@ DEFAULT_CUSTOM_TEMPLATE = """\
 patch:
   schema_list:
 {schema_list}
+  "menu/page_size": 8
 """
 
 LUA_PROCESSOR_TEMPLATE = ""

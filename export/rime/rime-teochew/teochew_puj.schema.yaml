@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_puj
   name: 潮州語・白話字
-  version: "20260422.113641"
+  version: "20260422.114350"
   author:
     - Hokkien Writing Project
 
@@ -70,6 +70,10 @@ key_binder:
     - { when: has_menu, accept: Right, send: Page_Down }
     - { when: paging, accept: bracketleft, send: Page_Up }
     - { when: has_menu, accept: bracketright, send: Page_Down }
+
+style:
+  horizontal: true
+  candidate_list_layout: linear
 
 translator:
   dictionary: teochew_puj
