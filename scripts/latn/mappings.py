@@ -115,6 +115,7 @@ def register_default_translators(registry):
                 "j": "zz",
             },
             vowel_map={"ou": "oo"},
+            nasal_prefix={"nn": ("n", ""), "nnh": ("n", "h")},
         ),
     )
 

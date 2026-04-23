@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_poj
-version: "20260423.143423"
+version: "20260423.155657"
 sort: by_weight
 import_tables:
   - hokkien_chars

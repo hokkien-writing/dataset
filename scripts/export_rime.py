@@ -325,11 +325,13 @@ SYSTEM_ALGEBRA = {
         "xform/^t(?=[^h])/d/",
         "xform/^th/t/",
         "xform/ou/oo/",
-        "xform/([aeiou]+)nn$/n$1/",
+        "xform/^n(?=[^g])/ln/",
+        "xform/([aeiou]+)nnh(\\d)$/n$1h$2/",
+        "xform/([aeiou]+)nn(\\d)$/n$1$2/",
         "xform/^ng/ggn/",
         "xform/^m/bbn/",
         "derive/ /-/",
-        "derive/[1-8]//"
+        "derive/[1-8]//",
     ]
     + CASE_FOLD,
     "dp": [

@@ -45,7 +45,7 @@ def create_config() -> LatnSystemConfig:
             "s",
             "j",
         ],
-        nasal_endings=["m", "n", "ng"],
-        entering_endings=["p", "t", "k", "h"],
+        nasal_endings=["m", "n", "ng", "nn"],
+        entering_endings=["nnh", "p", "t", "k", "h"],
         tone_mark_priority=[],
     )

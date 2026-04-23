@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_bp
   name: 閩南話拼音
-  version: "20260423.143423"
+  version: "20260423.155657"
   author:
     - Hokkien Writing Project
 
@@ -44,8 +44,10 @@ speller:
     - xform/^ph/p/
     - xform/^t(?=[^h])/d/
     - xform/^th/t/
-    - xform/oo/ou/
-    - xform/([aeiou]+)nn$/n$1/
+    - xform/ou/oo/
+    - xform/^n(?=[^g])/ln/
+    - xform/([aeiou]+)nnh(\d)$/n$1h$2/
+    - xform/([aeiou]+)nn(\d)$/n$1$2/
     - xform/^ng/ggn/
     - xform/^m/bbn/
     - derive/ /-/

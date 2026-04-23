@@ -24,6 +24,9 @@ class PhoneticMapping:
     ending_map: Dict[str, str] = field(default_factory=dict)
     """Mapping of source syllable ending to target ending (e.g., entering p->b)."""
 
+    nasal_prefix: Optional[Dict[str, Tuple[str, str]]] = None
+    """Map nasal ending to (vowel_prefix, remaining_ending). E.g. {"nn": ("n", ""), "nnh": ("n", "h")}"""
+
     remove_hyphens: bool = False
     """Whether to remove hyphens between syllables in the output"""
 
