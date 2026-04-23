@@ -285,6 +285,148 @@ def _strip_brackets(s: str) -> str:
     return s
 
 
+_BARE_SAFE_CP = frozenset(
+    {
+        0x2014,
+        0x2026,
+        0x00AB,
+        0x00BB,
+        0x00D7,
+        0x00F7,
+        0x2039,
+        0x203A,
+        0x203B,
+        0x262F,
+        0x2318,
+        0x2742,
+        0x30FB,
+        0x00B7,
+    }
+)
+
+
+def _is_bare_safe(c: str) -> bool:
+    cp = ord(c)
+    return (0x3001 <= cp <= 0x9FFF) or (0xFF01 <= cp <= 0xFFEF) or cp in _BARE_SAFE_CP
+
+
+def _punct_key(char: str) -> str:
+    if char == "'":
+        return "''''"
+    return f"'{char}'"
+
+
+def _punct_flow_val(s: str) -> str:
+    if not s:
+        return "''"
+    if all(_is_bare_safe(c) for c in s):
+        return s
+    return "'" + s.replace("'", "''") + "'"
+
+
+def _punct_line(key: str, value, indent: int = 4) -> str:
+    prefix = " " * indent
+    yaml_key = _punct_key(key)
+    if isinstance(value, str):
+        return f"{prefix}{yaml_key}: {_punct_flow_val(value)}"
+    elif isinstance(value, dict):
+        if "commit" in value:
+            v = _punct_flow_val(value["commit"])
+            return f"{prefix}{yaml_key}: {{ commit: {v} }}"
+        elif "pair" in value:
+            p = value["pair"]
+            p0 = "'" + p[0].replace("'", "''") + "'"
+            p1 = "'" + p[1].replace("'", "''") + "'"
+            return f"{prefix}{yaml_key}: {{ pair: [ {p0}, {p1} ] }}"
+    elif isinstance(value, list):
+        items = ", ".join(_punct_flow_val(v) for v in value)
+        return f"{prefix}{yaml_key}: [ {items} ]"
+    return ""
+
+
+PUNCT_FULL = [
+    (" ", {"commit": "　"}),
+    (",", {"commit": "，"}),
+    (".", {"commit": "。"}),
+    ("<", ["《", "〈", "«", "‹"]),
+    (">", ["》", "〉", "»", "›"]),
+    ("/", ["／", "÷"]),
+    ("?", {"commit": "？"}),
+    (";", {"commit": "；"}),
+    (":", {"commit": "："}),
+    ("'", {"pair": ["\u2018", "\u2019"]}),
+    ('"', {"pair": ["\u201c", "\u201d"]}),
+    ("\\", ["、", "＼"]),
+    ("|", ["·", "｜", "\u00a7", "\u00a6"]),
+    ("`", "｀"),
+    ("~", "～"),
+    ("!", {"commit": "！"}),
+    ("@", ["＠", "☯"]),
+    ("#", ["＃", "⌘"]),
+    ("%", ["％", "\u00b0", "℃"]),
+    ("$", ["￥", "$", "\u20ac", "\u00a3", "\u00a5", "\u00a2", "\u00a4"]),
+    ("^", {"commit": "……"}),
+    ("&", "＆"),
+    ("*", ["＊", "·", "・", "×", "※", "❂"]),
+    ("(", "（"),
+    (")", "）"),
+    ("-", "－"),
+    ("_", "——"),
+    ("+", "＋"),
+    ("=", "＝"),
+    ("[", ["「", "【", "〔", "［"]),
+    ("]", ["」", "】", "〕", "］"]),
+    ("{", ["『", "〖", "｛"]),
+    ("}", ["』", "〗", "｝"]),
+]
+
+PUNCT_HALF = [
+    (",", "，"),
+    (".", "。"),
+    ("<", "《"),
+    (">", "》"),
+    ("/", "/"),
+    ("?", "？"),
+    (";", "；"),
+    (":", "："),
+    ("'", {"pair": ["\u2018", "\u2019"]}),
+    ('"', {"pair": ["\u201c", "\u201d"]}),
+    ("\\", "、"),
+    ("|", "|"),
+    ("`", "`"),
+    ("~", "~"),
+    ("!", "！"),
+    ("@", "@"),
+    ("#", "#"),
+    ("%", "%"),
+    ("$", "\u00a5"),
+    ("^", "……"),
+    ("&", "&"),
+    ("*", "*"),
+    ("(", "（"),
+    (")", "）"),
+    ("-", "-"),
+    ("_", "——"),
+    ("+", "+"),
+    ("=", "="),
+    ("[", "【"),
+    ("]", "】"),
+    ("{", "「"),
+    ("}", "」"),
+]
+
+
+def _build_punctuator_section() -> str:
+    lines = ["punctuator:"]
+    lines.append("  full_shape:")
+    for key, value in PUNCT_FULL:
+        lines.append(_punct_line(key, value, indent=4))
+    lines.append("  half_shape:")
+    for key, value in PUNCT_HALF:
+        lines.append(_punct_line(key, value, indent=4))
+    return "\n".join(lines)
+
+
 CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
 
 COMMENT_FORMAT = {
@@ -426,8 +568,15 @@ schema:
   version: "{version}"
   author:
     - Hokkien Writing Project
-  dependencies:
-    - {schema_id}_en
+
+switches:
+  - name: ascii_punct
+    reset: 0
+    states: [ 。，, ．， ]
+  - name: zh_simp
+    states: [ 漢字, 汉字 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
 
 engine:
   processors:
@@ -446,10 +595,12 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
     - script_translator
     - reverse_lookup_translator
     - reverse_lookup_translator@en_lookup
   filters:
+    - simplifier
     - lua_filter@{filter_name}
     - uniquifier
 
@@ -460,7 +611,11 @@ speller:
   algebra:
 {algebra}
 
+menu:
+  page_size: 6
+
 key_binder:
+  import_preset: default
   bindings:
     - {{ when: paging, accept: Left, send: Page_Up }}
     - {{ when: has_menu, accept: Right, send: Page_Down }}
@@ -468,6 +623,14 @@ key_binder:
     - {{ when: has_menu, accept: bracketright, send: Page_Down }}
     - {{ when: has_menu, accept: Tab, send: Page_Down }}
     - {{ when: paging, accept: Shift+Tab, send: Page_Up }}
+    - {{ when: always, accept: Control+Shift+4, toggle: zh_simp }}
+    - {{ when: always, accept: Control+Shift+dollar, toggle: zh_simp }}
+    - {{ when: always, accept: Control+period, toggle: ascii_punct }}
+
+simplifier:
+  opencc_config: t2s.json
+  option_name: zh_simp
+  tips: char
 
 style:
   horizontal: true
@@ -490,7 +653,9 @@ reverse_lookup:
 {pinyin_comment_format}
 
 en_lookup:
+  tag: en_lookup
   dictionary: {schema_id_en}
+  enable_completion: true
   prefix: "~"
   suffix: "'"
   tips: "〔English〕"
@@ -913,10 +1078,6 @@ def write_en_dict(
                 csv_hw = csv_hw.strip()
                 if not csv_hw:
                     continue
-                    try:
-                        csv_hw = translator.translate(latn_norm)
-                    except Exception:
-                        continue
                 if not csv_hw or not csv_hw.strip():
                     continue
                 try:
@@ -960,6 +1121,9 @@ def write_schema(system: str, pkg: str, output_dir: Path):
         en_comment_format=comment_fmt,
         schema_id_en=f"{schema_id}_en",
     )
+
+    content += "\n" + _build_punctuator_section() + "\n"
+
     path = output_dir / f"{schema_id}.schema.yaml"
     path.write_text(content, encoding="utf-8")
     print(f"Wrote {path}")
