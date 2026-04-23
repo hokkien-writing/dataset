@@ -30,11 +30,11 @@ PACKAGE_SYSTEMS = {
 }
 
 SYSTEM_NAMES = {
-    "poj": "閩南語・白話字",
-    "tl": "閩南語・台羅",
-    "bp": "閩南語・閩南話拼音",
-    "puj": "潮州語・白話字",
-    "dp": "潮州語・潮州話拼音",
+    "poj": "白話字",
+    "puj": "潮州白話字",
+    "tl": "台羅",
+    "dp": "潮州話拼音",
+    "bp": "閩南話拼音",
 }
 
 
@@ -244,7 +244,10 @@ def write_char_dict_from_counts(char_counts: Counter, pkg: str, output_dir: Path
         "",
     ]
     for (syl, ch), count in sorted(char_counts.items()):
-        code = syl.replace("--", "   ").replace("-", "  ")
+        code = _strip_brackets(syl).replace("--", "   ").replace("-", "  ")
+        ch = _strip_brackets(ch)
+        if not ch or not code:
+            continue
         lines.append(f"{ch}\t{code}\t{count}")
     path = output_dir / f"{pkg}_chars.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
@@ -264,11 +267,22 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
         "",
     ]
     for (latn_norm, han), count in sorted(entries.items()):
-        code = latn_norm.replace("--", "   ").replace("-", "  ")
+        code = _strip_brackets(latn_norm).replace("--", "   ").replace("-", "  ")
+        han = _strip_brackets(han)
+        if not han or not code:
+            continue
         lines.append(f"{han}\t{code}\t{count}")
     path = output_dir / f"{pkg}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
     print(f"Wrote {len(entries)} entries to {path}")
+
+
+def _strip_brackets(s: str) -> str:
+    import re
+
+    s = re.sub(r"\[(?:替|音|訓|文|白)\]", "", s)
+    s = re.sub(r"^\[([^\]]+)\]$", r"\1", s)
+    return s
 
 
 CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
@@ -299,24 +313,23 @@ SYSTEM_ALGEBRA = {
     ]
     + CASE_FOLD,
     "bp": [
+        "xform/^g/gg/",
+        "xform/^b/bb/",
+        "xform/^j/zz/",
+        "xform/^chh/c/",
+        "xform/^ch/z/",
+        "xform/^k(?=[^h])/g/",
+        "xform/^kh/k/",
+        "xform/^p(?=[^h])/b/",
+        "xform/^ph/p/",
+        "xform/^t(?=[^h])/d/",
+        "xform/^th/t/",
+        "xform/ou/oo/",
+        "xform/([aeiou]+)nn$/n$1/",
+        "xform/^ng/ggn/",
+        "xform/^m/bbn/",
         "derive/ /-/",
-        "derive/[1-8]//",
-        "xform/bb/p/",
-        "xform/gg/k/",
-        "xform/dd/t/",
-        "xform/ggn/ng/",
-        "xform/bbn/m/",
-        "xform/ln/n/",
-        "xform/b/p/",
-        "xform/p/ph/",
-        "xform/g/k/",
-        "xform/k/kh/",
-        "xform/d/t/",
-        "xform/t/th/",
-        "xform/z/ch/",
-        "xform/c/chh/",
-        "xform/zz/j/",
-        "xform/oo/ou/",
+        "derive/[1-8]//"
     ]
     + CASE_FOLD,
     "dp": [
@@ -682,7 +695,7 @@ def write_system_dict(
     ]
 
     for latn_norm, weight in sorted(latn_weights.items()):
-        spaced_code = latn_norm.replace("-", " ")
+        spaced_code = _strip_brackets(latn_norm).replace("-", " ")
         rom_weight = weight - 1
         csv_handwriting = preferred_handwriting.get(latn_norm)
         if not csv_handwriting or not csv_handwriting.strip():
@@ -692,8 +705,11 @@ def write_system_dict(
                 continue
         if not csv_handwriting or not csv_handwriting.strip():
             continue
-        standard_handwriting = system_converter.to_handwriting(
-            system_converter.to_keyboard(csv_handwriting)
+        csv_handwriting = _strip_brackets(csv_handwriting)
+        standard_handwriting = _strip_brackets(
+            system_converter.to_handwriting(
+                system_converter.to_keyboard(csv_handwriting)
+            )
         )
         if system == "dp":
             if standard_handwriting and standard_handwriting.strip():

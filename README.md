@@ -7,16 +7,21 @@
 ```
 books/               校注後的書籍來源（含編輯標記）
 lyrics/              校注後的歌詞來源（含編輯標記）
+external/            外部資料集原始檔（由 sync_external.sh 同步）
 export/              匯出輸出
   books/             書籍匯出
   lyrics/            歌詞匯出
+  external/          外部資料集標準化 CSV
 scripts/             工具腳本
   export.py          匯出原版 / 修改版 Markdown
   export_csv.py      匯出結構化 CSV
+  import_external.py 轉換外部資料集為標準化 CSV
+  importers/         各外部資料集的轉換器
   processors/        各書籍的 CSV 解析處理器
     base.py          基礎類別與共用函數
   tests/             單元測試
 build.sh             一鍵建置腳本
+sync_external.sh     同步外部資料集
 test.sh              一鍵測試腳本
 ```
 
@@ -137,7 +142,10 @@ t.translate("pàng")   # "bàng"
 
 - [Books 書籍](books/README.md)
 - [Lyrics 歌詞](lyrics/README.md)
+- [External 外部資料集](external/README.md)
 
 ## 授權
 
-MIT License
+本專案程式碼以 MIT License 授權。
+
+外部資料集各自有其授權條款，詳見 [external/README.md](external/README.md)。其中包含 CC BY-SA 4.0、CC BY-NC-SA 3.0 TW、CC BY-ND 3.0 TW、CC0 等不同授權。

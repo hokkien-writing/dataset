@@ -2,13 +2,18 @@
 set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
-SOURCE_DIR="$SCRIPT_DIR/export/rime/rime-teochew"
+SOURCE_DIRS=(
+    "$SCRIPT_DIR/export/rime/rime-hokkien"
+    "$SCRIPT_DIR/export/rime/rime-teochew"
+)
 
-if [ ! -d "$SOURCE_DIR" ]; then
-    echo "Error: source directory not found: $SOURCE_DIR"
-    echo "Run build.sh first to generate Rime files."
-    exit 1
-fi
+for d in "${SOURCE_DIRS[@]}"; do
+    if [ ! -d "$d" ]; then
+        echo "Error: source directory not found: $d"
+        echo "Run build.sh first to generate Rime files."
+        exit 1
+    fi
+done
 
 detect_os() {
     local uname_out
@@ -63,18 +68,60 @@ echo "Target directory: $target"
 
 mkdir -p "$target"
 
-for file in "$SOURCE_DIR"/*; do
-    [ -f "$file" ] || continue
-    cp -v "$file" "$target/"
+merged_rime_lua=""
+schema_lines=""
+page_size=""
+for SOURCE_DIR in "${SOURCE_DIRS[@]}"; do
+    echo ""
+    echo "Deploying: $(basename "$SOURCE_DIR")"
+
+    for file in "$SOURCE_DIR"/*; do
+        [ -f "$file" ] || continue
+        fname="$(basename "$file")"
+        if [ "$fname" = "rime.lua" ]; then
+            merged_rime_lua="$merged_rime_lua
+$(cat "$file")"
+            continue
+        fi
+        if [ "$fname" = "default.custom.yaml" ]; then
+            while IFS= read -r line; do
+                case "$line" in
+                    "    - schema:"*)
+                        schema_lines="$schema_lines
+$line"
+                        ;;
+                    *"menu/page_size"*)
+                        page_size="$line"
+                        ;;
+                esac
+            done < "$file"
+            continue
+        fi
+        cp -v "$file" "$target/"
+    done
+
+    if [ -d "$SOURCE_DIR/lua" ]; then
+        mkdir -p "$target/lua"
+        for file in "$SOURCE_DIR/lua"/*; do
+            [ -f "$file" ] || continue
+            cp -v "$file" "$target/lua/"
+        done
+    fi
 done
 
-if [ -d "$SOURCE_DIR/lua" ]; then
-    mkdir -p "$target/lua"
-    for file in "$SOURCE_DIR/lua"/*; do
-        [ -f "$file" ] || continue
-        cp -v "$file" "$target/lua/"
-    done
-fi
+printf "%s\n" "$merged_rime_lua" | sed '/^$/d' > "$target/rime.lua"
+echo "Merged rime.lua written to $target/rime.lua"
+
+{
+    echo "# Rime default settings customization"
+    echo "# Generated from merged.csv - do not edit manually"
+    echo ""
+    echo "patch:"
+    echo "  schema_list:"
+    printf "%s\n" "$schema_lines" | sed '/^$/d' | sort -u
+    echo "$page_size"
+} > "$target/default.custom.yaml"
+echo "Merged default.custom.yaml written to $target/default.custom.yaml"
 
 echo ""
 echo "Files copied successfully."

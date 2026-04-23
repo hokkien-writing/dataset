@@ -23,6 +23,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 EXPORT_DIR = PROJECT_ROOT / "export"
 BOOKS_DIR = EXPORT_DIR / "books"
+EXTERNAL_DIR = EXPORT_DIR / "external"
 VARIANTS_CSV = EXPORT_DIR / "variants.csv"
 CAPITALIZED_CSV = EXPORT_DIR / "capitalized_en.csv"
 OUTPUT_CSV = EXPORT_DIR / "merged.csv"
@@ -45,6 +46,8 @@ WIDE_FIELDS = [
 from scripts.latn import create_translator
 
 _puj_to_latn_norm = create_translator("PUJ", "LATN_NORM")
+_poj_to_latn_norm = create_translator("POJ", "LATN_NORM")
+_tl_to_latn_norm = create_translator("TL", "LATN_NORM")
 
 _WORD_RE = re.compile(r"[a-zA-Z]+")
 
@@ -157,7 +160,6 @@ def main():
     csv_files = sorted(BOOKS_DIR.glob("*.csv"))
     if not csv_files:
         print("No CSV files found", BOOKS_DIR)
-        return
 
     for csv_file in csv_files:
         print(f"Reading {csv_file.name}...")
@@ -184,6 +186,45 @@ def main():
                     "source": row.get("source", "").split(" > ")[0],
                 }
                 rows.append(rec)
+
+    ext_files = sorted(EXTERNAL_DIR.glob("*.csv")) if EXTERNAL_DIR.exists() else []
+    if ext_files:
+        for csv_file in ext_files:
+            print(f"Reading external/{csv_file.name}...")
+            with open(csv_file, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    latn_norm = (row.get("latn_norm") or "").strip().lower()
+                    poj_val = (row.get("poj") or "").strip()
+                    tl_val = (row.get("tl") or "").strip()
+                    han = (row.get("han") or "").strip()
+                    if not latn_norm and poj_val:
+                        try:
+                            latn_norm = _poj_to_latn_norm.translate(poj_val).lower()
+                        except Exception:
+                            pass
+                    if not latn_norm and tl_val:
+                        try:
+                            latn_norm = _tl_to_latn_norm.translate(tl_val).lower()
+                        except Exception:
+                            pass
+                    rows.append(
+                        {
+                            "latn_norm": latn_norm,
+                            "puj": (row.get("puj") or "").strip(),
+                            "dp": (row.get("dp") or "").strip(),
+                            "poj": poj_val,
+                            "tl": tl_val,
+                            "bp": (row.get("bp") or "").strip(),
+                            "han": han,
+                            "han_variants": "",
+                            "en": lower_first_en((row.get("en") or "").strip()),
+                            "zh_CN": (row.get("zh_CN") or "").strip(),
+                            "zh_TW": (row.get("zh_TW") or "").strip(),
+                            "source": (row.get("source") or "").strip().split(" > ")[0],
+                        }
+                    )
+        print(f"Loaded {sum(1 for r in rows)} total entries (incl. external)")
 
     rows.sort(key=lambda r: r["latn_norm"])
 
