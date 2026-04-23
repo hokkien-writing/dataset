@@ -287,6 +287,64 @@ def _strip_brackets(s: str) -> str:
 
 CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
 
+COMMENT_FORMAT = {
+    "puj": [
+        "xform/-/ /",
+        "xform/chh/tsh/",
+        "xform/ch/ts/",
+        "xlit/12345678/¹²³⁴⁵⁶⁷⁸/",
+    ],
+    "poj": [
+        "xform/-/ /",
+        "xform/ou/oo/",
+        "xform/ua/oa/",
+        "xform/ue/oe/",
+    ],
+    "tl": [
+        "xform/-/ /",
+        "xform/chh/tsh/",
+        "xform/ch/ts/",
+    ],
+    "bp": [
+        "xform/-/ /",
+        "xform/^g/gg/",
+        "xform/^b/bb/",
+        "xform/^j/zz/",
+        "xform/^chh/c/",
+        "xform/^ch/z/",
+        "xform/^k(?=[^h])/g/",
+        "xform/^kh/k/",
+        "xform/^p(?=[^h])/b/",
+        "xform/^ph/p/",
+        "xform/^t(?=[^h])/d/",
+        "xform/^th/t/",
+        "xform/ou/oo/",
+        "xform/^n(?=[^g])/ln/",
+        "xform/([aeiou]+)nnh(\\d)$/n$1h$2/",
+        "xform/([aeiou]+)nn(\\d)$/n$1$2/",
+        "xform/^ng/ggn/",
+        "xform/^m/bbn/",
+        "xlit/12345678/¹²³⁴⁵⁶⁷⁸/",
+    ],
+    "dp": [
+        "xform/-/ /",
+        "xform/^g/gh/",
+        "xform/^b/bh/",
+        "xform/^j/r/",
+        "xform/^chh/c/",
+        "xform/^ch/z/",
+        "xform/^k(?=[^h])/g/",
+        "xform/^kh/k/",
+        "xform/^p(?=[^h])/b/",
+        "xform/^ph/p/",
+        "xform/^t(?=[^h])/d/",
+        "xform/^th/t/",
+        "xform/e/ei/",
+        "xform/ur/e/",
+        "xlit/12345678/¹²³⁴⁵⁶⁷⁸/",
+    ],
+}
+
 SYSTEM_ALGEBRA = {
     "puj": [
         "derive/ /-/",
@@ -368,10 +426,13 @@ schema:
   version: "{version}"
   author:
     - Hokkien Writing Project
+  dependencies:
+    - {schema_id}_en
 
 engine:
   processors:
     - ascii_composer
+    - recognizer
     - lua_processor@{caps_tracker_name}
     - speller
     - punctuator
@@ -381,10 +442,13 @@ engine:
     - express_editor
   segmentors:
     - abc_segmentor
+    - matcher
     - punct_segmentor
     - fallback_segmentor
   translators:
     - script_translator
+    - reverse_lookup_translator
+    - reverse_lookup_translator@en_lookup
   filters:
     - lua_filter@{filter_name}
     - uniquifier
@@ -416,6 +480,32 @@ translator:
   enable_sentence: true
   enable_user_dict: true
   spelling_hints: 99
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: "〔普通話拼音〕"
+  comment_format:
+{pinyin_comment_format}
+
+en_lookup:
+  dictionary: {schema_id_en}
+  prefix: "~"
+  suffix: "'"
+  tips: "〔English〕"
+  comment_format:
+{en_comment_format}
+
+recognizer:
+  import_preset: default
+  patterns:
+    en_lookup: "~[a-z]*'?$"
+    reverse_lookup: "`[a-z]*'?$"
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
 """
 
 DEFAULT_CUSTOM_TEMPLATE = """\
@@ -743,13 +833,121 @@ def format_algebra(rules: list) -> str:
     return "\n".join(lines)
 
 
+def format_comment_format(rules: list) -> str:
+    lines = []
+    for r in rules:
+        lines.append(f"    - {r}")
+    return "\n".join(lines)
+
+
+def _clean_en(en_text: str) -> str:
+    if en_text.startswith("#") or en_text.startswith("-") or en_text.startswith(":"):
+        return ""
+    text = en_text
+    text = re.sub(r"\[[^\]]*\]", "", text)
+    text = re.sub(r'"[^"]*"', "", text)
+    text = re.sub(r"means.*", "", text)
+    text = re.sub(r"[^a-zA-Z ]", "", text)
+    text = re.sub(r" +", " ", text).strip()
+    return text if len(text.split()) <= 5 else ""
+
+
+def write_en_dict(
+    entries: dict, systems_data: dict, system: str, pkg: str, output_dir: Path
+):
+    translator = create_translator("LATN_NORM", system.upper())
+    system_converter = create_converter(system.upper())
+    dict_name = f"{pkg}_{system}_en"
+    lines = [
+        f"# Rime dictionary: {dict_name}",
+        "# Generated from merged.csv - English reverse lookup",
+        "---",
+        f"name: {dict_name}",
+        f'version: "{BUILD_VERSION}"',
+        "sort: by_weight",
+        "...",
+        "",
+    ]
+    seen = set()
+    count = 0
+    with open(MERGED_CSV, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            latn_norm = (row.get("latn_norm") or "").strip()
+            if not latn_norm:
+                puj_val = (row.get("puj") or "").strip()
+                if puj_val:
+                    try:
+                        latn_norm = _to_latn_norm(puj_val)
+                    except Exception:
+                        continue
+            en = (row.get("en") or "").strip()
+            if not en or not latn_norm:
+                continue
+            if re.search(r'[".]', latn_norm):
+                continue
+            en_clean = _clean_en(en)
+            if not en_clean:
+                continue
+            han = (row.get("han") or "").strip()
+            han = re.sub(r"\[[^\]]*\]", "", han)
+            if han:
+                key = (han, en_clean)
+                if key in seen:
+                    continue
+                if han.startswith("-") or han.startswith(":") or han.startswith("#"):
+                    continue
+                seen.add(key)
+                lines.append(f"{han}\t{en_clean}\t100")
+                count += 1
+            else:
+                csv_hw = (row.get(system) or "").strip()
+                if not csv_hw:
+                    try:
+                        csv_hw = translator.translate(latn_norm)
+                    except Exception:
+                        continue
+                if not csv_hw or not csv_hw.strip():
+                    continue
+                csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw)
+                csv_hw = csv_hw.strip()
+                if not csv_hw:
+                    continue
+                    try:
+                        csv_hw = translator.translate(latn_norm)
+                    except Exception:
+                        continue
+                if not csv_hw or not csv_hw.strip():
+                    continue
+                try:
+                    hw = system_converter.to_handwriting(
+                        system_converter.to_keyboard(csv_hw)
+                    )
+                except Exception:
+                    hw = csv_hw
+                hw = _strip_brackets(hw)
+                if system == "dp":
+                    hw = hw.replace("-", "")
+                if hw.startswith("-") or hw.startswith(":") or hw.startswith("#"):
+                    continue
+                key = (hw, en_clean)
+                if key in seen:
+                    continue
+                seen.add(key)
+                lines.append(f"{hw}\t{en_clean}\t50")
+                count += 1
+    path = output_dir / f"{dict_name}.dict.yaml"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Wrote {count} entries to {path}")
+
+
 def write_schema(system: str, pkg: str, output_dir: Path):
-    """Write {pkg}_{system}.schema.yaml."""
     schema_id = f"{pkg}_{system}"
     name = SYSTEM_NAMES[system]
     algebra = format_algebra(SYSTEM_ALGEBRA[system])
     filter_name = f"{system}_filter"
     caps_tracker_name = f"{system}_caps_tracker"
+    comment_fmt = format_comment_format(COMMENT_FORMAT[system])
 
     content = SCHEMA_TEMPLATE.format(
         schema_id=schema_id,
@@ -758,6 +956,9 @@ def write_schema(system: str, pkg: str, output_dir: Path):
         algebra=algebra,
         filter_name=filter_name,
         caps_tracker_name=caps_tracker_name,
+        pinyin_comment_format=comment_fmt,
+        en_comment_format=comment_fmt,
+        schema_id_en=f"{schema_id}_en",
     )
     path = output_dir / f"{schema_id}.schema.yaml"
     path.write_text(content, encoding="utf-8")
@@ -880,6 +1081,7 @@ def main():
         for system in systems:
             write_syllables_dict(entries, system, pkg, pkg_dir)
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)
+            write_en_dict(entries, systems_data, system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
         filter_names = []
