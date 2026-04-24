@@ -115,8 +115,12 @@ _QUOTE_RE = re.compile(r'["\']')
 _SENT_PUNCT_RE = re.compile(r"[.?!]")
 
 
-def load_all_entries_for_chars(all_rows: list[dict]) -> Counter:
+def load_all_entries_for_chars(
+    all_rows: list[dict], require_systems: Optional[list] = None
+) -> Counter:
     """Load all rows from merged.csv and return Counter of (syllable, char) -> weight."""
+    if require_systems is None:
+        require_systems = []
     punct = '。，、！？；：，「」『』""《》'
     flower_code = "〇〡〢〣〤〥〦〧〨〩〪〭〮〯〫〬〰〱〲〳〴〵〶〷〸〹〺〻〼〽〾〿"
     flower_code_set = set(flower_code)
@@ -129,6 +133,10 @@ def load_all_entries_for_chars(all_rows: list[dict]) -> Counter:
         han_variants = (row.get("han_variants") or "").strip()
         if not han:
             continue
+
+        if require_systems:
+            if not any((row.get(s) or "").strip() for s in require_systems):
+                continue
 
         clean_han = _BRACKET_RE.sub("", han)
 
@@ -1460,18 +1468,19 @@ def main():
     all_rows = _load_merged_rows(MERGED_CSV)
     print(f"Loaded {len(all_rows)} rows")
 
-    all_char_counts = load_all_entries_for_chars(all_rows)
-
     for pkg, cfg in PACKAGE_SYSTEMS.items():
         systems = cfg["systems"]
         entries, systems_data = load_entries(all_rows, require_systems=cfg["require"])
         if not entries:
             print(f"[{pkg}] No entries, skipping.")
             continue
+        char_counts = load_all_entries_for_chars(
+            all_rows, require_systems=cfg["require"]
+        )
         pkg_dir = OUTPUT_DIR / f"rime-{pkg}"
         pkg_dir.mkdir(parents=True, exist_ok=True)
         write_base_dict(entries, pkg, pkg_dir)
-        write_char_dict_from_counts(all_char_counts, pkg, pkg_dir)
+        write_char_dict_from_counts(char_counts, pkg, pkg_dir)
         for system in systems:
             write_syllables_dict(entries, system, pkg, pkg_dir)
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)

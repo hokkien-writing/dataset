@@ -29,6 +29,8 @@ class LatnTranslator:
         all_endings = (
             source_converter.config.entering_endings
             + source_converter.config.nasal_endings
+            + target_converter.config.entering_endings
+            + target_converter.config.nasal_endings
         )
         self._source_endings = sorted(set(all_endings), key=len, reverse=True)
         self._translate_cache: dict[str, str] = {}
@@ -39,6 +41,8 @@ class LatnTranslator:
         Longest match for ending (from end), then longest match for initial (from start).
         What remains is the vowel nucleus.
         """
+        base = base.lower()
+
         ending = ""
         for e in self._source_endings:
             if base.endswith(e) and len(base) > len(e):
