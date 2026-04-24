@@ -40,23 +40,21 @@ SYSTEM_NAMES = {
 }
 
 
+_puj_converter = create_converter("PUJ")
+
+
 def _to_latn_norm(puj_handwriting: str) -> str:
-    puj_converter = create_converter("PUJ")
-    keyboard = puj_converter.to_keyboard(puj_handwriting)
+    keyboard = _puj_converter.to_keyboard(puj_handwriting)
     return keyboard.replace("-", " ")
 
 
-def load_entries(csv_path: Path, require_systems: Optional[list] = None):
-    """Load and deduplicate entries from merged.csv.
+_PUNCT_OR_QUOTE_RE = re.compile(r'[,.?!"\']')
+_DIGIT_RE = re.compile(r"\d")
+_BRACKET_RE = re.compile(r"\[[^\]]*\]")
 
-    Returns: dict of (latn_norm, han) -> weight (int)
-    Base weight per occurrence: 100. Variants: 50, 25, 12, ...
 
-    require_systems: if set, only include rows where at least one of these
-    system columns has a non-empty value (e.g. ["puj", "dp"] for teochew).
-    """
-    counts = Counter()
-    systems_data = {}  # (latn_norm, han) -> { "puj": str, "dp": str }
+def _load_merged_rows(csv_path: Path) -> list[dict]:
+    rows = []
     with open(csv_path, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -68,166 +66,145 @@ def load_entries(csv_path: Path, require_systems: Optional[list] = None):
                         latn_norm = _to_latn_norm(puj_val)
                     except Exception:
                         continue
-            han = (row.get("han") or "").strip()
-            han_variants = (row.get("han_variants") or "").strip()
-            if not latn_norm or not han:
+            row["_latn_norm"] = latn_norm
+            rows.append(row)
+    return rows
+
+
+def load_entries(all_rows: list[dict], require_systems: Optional[list] = None):
+    counts = Counter()
+    systems_data = {}
+    for row in all_rows:
+        latn_norm = row["_latn_norm"]
+        han = (row.get("han") or "").strip()
+        han_variants = (row.get("han_variants") or "").strip()
+        if not latn_norm or not han:
+            continue
+        if _PUNCT_OR_QUOTE_RE.search(latn_norm):
+            continue
+        syllable_count = len(_DIGIT_RE.findall(latn_norm))
+        if syllable_count > 10:
+            continue
+        if require_systems:
+            if not any((row.get(s) or "").strip() for s in require_systems):
                 continue
-            if re.search(r'[,.?!"\']', latn_norm):
-                continue
-            syllable_count = len(re.findall(r"\d", latn_norm))
-            if syllable_count > 10:
-                continue
-            if require_systems:
-                if not any((row.get(s) or "").strip() for s in require_systems):
-                    continue
-            clean_han = re.sub(r"\[[^\]]*\]", "", han)
-            if clean_han:
-                key = (latn_norm, clean_han)
-                counts[key] += 100
-                if key not in systems_data:
-                    systems_data[key] = {
-                        "puj": (row.get("puj") or "").strip(),
-                        "dp": (row.get("dp") or "").strip(),
-                    }
-            if han_variants:
-                w = 100
-                for variant in han_variants.split("|"):
-                    v = variant.strip()
-                    if v:
-                        clean_v = re.sub(r"\[[^\]]*\]", "", v)
-                        if clean_v:
-                            w = w // 2
-                            if w > 0:
-                                counts[(latn_norm, clean_v)] += w
+        clean_han = _BRACKET_RE.sub("", han)
+        if clean_han:
+            key = (latn_norm, clean_han)
+            counts[key] += 100
+            if key not in systems_data:
+                systems_data[key] = {
+                    "puj": (row.get("puj") or "").strip(),
+                    "dp": (row.get("dp") or "").strip(),
+                }
+        if han_variants:
+            w = 100
+            for variant in han_variants.split("|"):
+                v = variant.strip()
+                if v:
+                    clean_v = _BRACKET_RE.sub("", v)
+                    if clean_v:
+                        w = w // 2
+                        if w > 0:
+                            counts[(latn_norm, clean_v)] += w
     return counts, systems_data
 
 
-def load_all_entries_for_chars(csv_path: Path) -> Counter:
-    """Load all rows from merged.csv and return Counter of (syllable, char) -> weight.
+_HAN_PUNCT_SPLIT_RE = re.compile(r'[，。、！？；：「」『』""《》\s]+')
+_QUOTE_RE = re.compile(r'["\']')
+_SENT_PUNCT_RE = re.compile(r"[.?!]")
 
-    Decompose entries into individual (syllable, char) pairs by:
-    1. Splitting into word segments
-    2. Skipping segments with Chinese punctuation (not whole row)
-    3. Matching syllable count to char count 1:1
-    """
+
+def load_all_entries_for_chars(all_rows: list[dict]) -> Counter:
+    """Load all rows from merged.csv and return Counter of (syllable, char) -> weight."""
     punct = '。，、！？；：，「」『』""《》'
-    # Flower code numerals (花碼) to exclude
     flower_code = "〇〡〢〣〤〥〦〧〨〩〪〭〮〯〫〬〰〱〲〳〴〵〶〷〸〹〺〻〼〽〾〿"
+    flower_code_set = set(flower_code)
     char_counts = Counter()
-    with open(csv_path, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            latn_norm = (row.get("latn_norm") or "").strip()
-            if not latn_norm:
-                puj_val = (row.get("puj") or "").strip()
-                if puj_val:
-                    try:
-                        latn_norm = _to_latn_norm(puj_val)
-                    except Exception:
-                        continue
-            if not latn_norm:
+    for row in all_rows:
+        latn_norm = row["_latn_norm"]
+        if not latn_norm:
+            continue
+        han = (row.get("han") or "").strip()
+        han_variants = (row.get("han_variants") or "").strip()
+        if not han:
+            continue
+
+        clean_han = _BRACKET_RE.sub("", han)
+
+        latn_parts = latn_norm.split(",")
+
+        all_syllables = []
+
+        for part in latn_parts:
+            part = part.strip()
+            if not part:
                 continue
-            han = (row.get("han") or "").strip()
-            han_variants = (row.get("han_variants") or "").strip()
-            if not han:
-                continue
-
-            # Clean han: remove text in brackets
-            clean_han = re.sub(r"\[[^\]]*\]", "", han)
-
-            # Strategy: expand latn to individual syllables (split by '-'),
-            # then match each syllable to corresponding character
-
-            # Split latn by comma first (to handle comma-separated phrases)
-            latn_parts = re.split(r",", latn_norm)
-
-            # Initialize all_syllables list
-            all_syllables = []
-
-            # Split each part by space, then expand by hyphen
-            for part in latn_parts:
-                part = part.strip()
-                if not part:
+            for word in part.split():
+                word = word.strip()
+                word = _QUOTE_RE.sub("", word)
+                if not word:
                     continue
-                for word in part.split():
-                    word = word.strip()
-                    # Remove quotes from word
-                    word = re.sub(r'["\']', "", word)
-                    if not word:
+                for syl in word.split("-"):
+                    syl = syl.strip()
+                    syl = _SENT_PUNCT_RE.sub("", syl)
+                    if syl:
+                        all_syllables.append(syl)
+
+        han_raw_segments = [
+            s.strip() for s in _HAN_PUNCT_SPLIT_RE.split(clean_han) if s.strip()
+        ]
+
+        if not all_syllables:
+            continue
+
+        all_chars = ""
+        for seg in han_raw_segments:
+            if not any(p in seg for p in punct):
+                all_chars += seg
+
+        if any(c in flower_code_set for c in all_chars):
+            continue
+
+        chars_list = list(all_chars)
+
+        if len(all_syllables) != len(chars_list):
+            continue
+
+        base_weight = 100
+        for syl, ch in zip(all_syllables, chars_list):
+            if (syl, ch) not in char_counts:
+                char_counts[(syl, ch)] = base_weight
+            else:
+                char_counts[(syl, ch)] += base_weight
+
+        if han_variants:
+            last_weight = base_weight
+            for variant in han_variants.split("|"):
+                v = variant.strip()
+                if v:
+                    clean_v = _BRACKET_RE.sub("", v)
+                    var_segments = [
+                        s.strip()
+                        for s in _HAN_PUNCT_SPLIT_RE.split(clean_v)
+                        if s.strip()
+                    ]
+                    all_chars_var = "".join(var_segments)
+                    if any(p in all_chars_var for p in punct):
+                        all_chars_var = ""
+                        for seg in var_segments:
+                            if not any(p in seg for p in punct):
+                                all_chars_var += seg
+                    if any(c in flower_code_set for c in all_chars_var):
                         continue
-                    # Expand by hyphen to get individual syllables
-                    for syl in word.split("-"):
-                        syl = syl.strip()
-                        # Remove punctuation from syllable (., ?, !, etc.)
-                        syl = re.sub(r"[.?!]", "", syl)
-                        if syl:
-                            all_syllables.append(syl)
-
-            # Split han into segments, then combine (excluding punctuation)
-            han_raw_segments = [
-                s.strip()
-                for s in re.split(r'[，。、！？；：「」『』""《》\s]+', clean_han)
-                if s.strip()
-            ]
-
-            # Skip if no syllables
-            if not all_syllables:
-                continue
-
-            # Combine all han segments (skip those with Chinese punctuation)
-            all_chars = ""
-            for seg in han_raw_segments:
-                if not any(p in seg for p in punct):
-                    all_chars += seg
-
-            # Skip if has flower code
-            if any(c in flower_code for c in all_chars):
-                continue
-
-            chars_list = list(all_chars)
-
-            # Must match syllable count to character count 1:1
-            if len(all_syllables) != len(chars_list):
-                continue
-
-            base_weight = 100
-            for syl, ch in zip(all_syllables, chars_list):
-                if (syl, ch) not in char_counts:
-                    char_counts[(syl, ch)] = base_weight
-                else:
-                    char_counts[(syl, ch)] += base_weight
-
-            if han_variants:
-                last_weight = base_weight
-                for variant in han_variants.split("|"):
-                    v = variant.strip()
-                    if v:
-                        clean_v = re.sub(r"\[[^\]]*\]", "", v)
-                        var_segments = [
-                            s.strip()
-                            for s in re.split(
-                                r'[，。、！？；：「」『』""《》\s]+', clean_v
-                            )
-                            if s.strip()
-                        ]
-                        # Use SAME syllables as main entry
-                        all_chars_var = "".join(var_segments)
-                        if any(p in all_chars_var for p in punct):
-                            all_chars_var = ""
-                            for seg in var_segments:
-                                if not any(p in seg for p in punct):
-                                    all_chars_var += seg
-                        # Skip variants with flower code
-                        if any(c in all_chars_var for c in flower_code):
-                            continue
-                        chars_var_list = list(all_chars_var)
-                        if len(all_syllables) == len(chars_var_list):
-                            last_weight = last_weight // 2
-                            for syl, ch in zip(all_syllables, chars_var_list):
-                                if (syl, ch) not in char_counts:
-                                    char_counts[(syl, ch)] = last_weight
-                                else:
-                                    char_counts[(syl, ch)] += last_weight
+                    chars_var_list = list(all_chars_var)
+                    if len(all_syllables) == len(chars_var_list):
+                        last_weight = last_weight // 2
+                        for syl, ch in zip(all_syllables, chars_var_list):
+                            if (syl, ch) not in char_counts:
+                                char_counts[(syl, ch)] = last_weight
+                            else:
+                                char_counts[(syl, ch)] += last_weight
     return char_counts
 
 
@@ -1126,6 +1103,7 @@ def write_en_dict(
     system: str,
     pkg: str,
     output_dir: Path,
+    all_rows: list[dict],
     require_systems: Optional[list] = None,
 ):
     translator = create_translator("LATN_NORM", system.upper())
@@ -1143,62 +1121,53 @@ def write_en_dict(
     ]
     seen = set()
     entry_rows = []
-    with open(MERGED_CSV, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            latn_norm = (row.get("latn_norm") or "").strip()
-            if not latn_norm:
-                puj_val = (row.get("puj") or "").strip()
-                if puj_val:
-                    try:
-                        latn_norm = _to_latn_norm(puj_val)
-                    except Exception:
-                        continue
-            if require_systems:
-                if not any((row.get(s) or "").strip() for s in require_systems):
-                    continue
-            en = (row.get("en") or "").strip()
-            if not en or not latn_norm:
+    for row in all_rows:
+        latn_norm = row["_latn_norm"]
+        if require_systems:
+            if not any((row.get(s) or "").strip() for s in require_systems):
                 continue
-            if re.search(r'[".]', latn_norm):
-                continue
-            en_clean = _clean_en(en)
-            if not en_clean:
-                continue
-            han = (row.get("han") or "").strip()
-            han = re.sub(r"\[[^\]]*\]", "", han)
-            if han and not (
-                han.startswith("-") or han.startswith(":") or han.startswith("#")
+        en = (row.get("en") or "").strip()
+        if not en or not latn_norm:
+            continue
+        if re.search(r'[".]', latn_norm):
+            continue
+        en_clean = _clean_en(en)
+        if not en_clean:
+            continue
+        han = (row.get("han") or "").strip()
+        han = _BRACKET_RE.sub("", han)
+        if han and not (
+            han.startswith("-") or han.startswith(":") or han.startswith("#")
+        ):
+            key = ("han", han, en_clean)
+            if key not in seen:
+                seen.add(key)
+                entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
+        csv_hw = (row.get(system) or "").strip()
+        if not csv_hw:
+            try:
+                csv_hw = translator.translate(latn_norm)
+            except Exception:
+                csv_hw = ""
+        if csv_hw and csv_hw.strip():
+            csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
+        if csv_hw and csv_hw.strip():
+            try:
+                hw = system_converter.to_handwriting(
+                    system_converter.to_keyboard(csv_hw)
+                )
+            except Exception:
+                hw = csv_hw
+            hw = _strip_brackets(hw)
+            if system in ["dp", "bp"]:
+                hw = hw.replace("-", "")
+            if hw and not (
+                hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
             ):
-                key = ("han", han, en_clean)
+                key = ("hw", hw, en_clean)
                 if key not in seen:
                     seen.add(key)
-                    entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
-            csv_hw = (row.get(system) or "").strip()
-            if not csv_hw:
-                try:
-                    csv_hw = translator.translate(latn_norm)
-                except Exception:
-                    csv_hw = ""
-            if csv_hw and csv_hw.strip():
-                csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
-            if csv_hw and csv_hw.strip():
-                try:
-                    hw = system_converter.to_handwriting(
-                        system_converter.to_keyboard(csv_hw)
-                    )
-                except Exception:
-                    hw = csv_hw
-                hw = _strip_brackets(hw)
-                if system in ["dp", "bp"]:
-                    hw = hw.replace("-", "")
-                if hw and not (
-                    hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
-                ):
-                    key = ("hw", hw, en_clean)
-                    if key not in seen:
-                        seen.add(key)
-                        entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
+                    entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
     for _, line in sorted(entry_rows, key=lambda x: x[0]):
         lines.append(line)
     path = output_dir / f"{dict_name}.dict.yaml"
@@ -1226,6 +1195,7 @@ def write_zh_dict(
     system: str,
     pkg: str,
     output_dir: Path,
+    all_rows: list[dict],
     require_systems: Optional[list] = None,
 ):
     translator = create_translator("LATN_NORM", system.upper())
@@ -1243,73 +1213,64 @@ def write_zh_dict(
     ]
     seen = set()
     entry_rows = []
-    with open(MERGED_CSV, encoding="utf-8") as f:
-        reader = csv.DictReader(f)
-        for row in reader:
-            latn_norm = (row.get("latn_norm") or "").strip()
-            if not latn_norm:
-                puj_val = (row.get("puj") or "").strip()
-                if puj_val:
-                    try:
-                        latn_norm = _to_latn_norm(puj_val)
-                    except Exception:
-                        continue
-            if require_systems:
-                if not any((row.get(s) or "").strip() for s in require_systems):
-                    continue
-            zh_tw = (row.get("zh_TW") or "").strip()
-            if not zh_tw or not latn_norm:
+    for row in all_rows:
+        latn_norm = row["_latn_norm"]
+        if require_systems:
+            if not any((row.get(s) or "").strip() for s in require_systems):
                 continue
-            if re.search(r'[".]', latn_norm):
-                continue
-            zh_parts = re.split(r"[、，,；;\s]+", zh_tw)
-            pinyin_list = _zh_to_pinyin(zh_tw)
-            if not pinyin_list:
-                continue
-            han = (row.get("han") or "").strip()
-            han = re.sub(r"\[[^\]]*\]", "", han)
-            csv_hw = (row.get(system) or "").strip()
-            if not csv_hw:
-                try:
-                    csv_hw = translator.translate(latn_norm)
-                except Exception:
-                    csv_hw = ""
-            if csv_hw and csv_hw.strip():
-                csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
-            hw = ""
-            if csv_hw and csv_hw.strip():
-                try:
-                    hw = system_converter.to_handwriting(
-                        system_converter.to_keyboard(csv_hw)
-                    )
-                except Exception:
-                    hw = csv_hw
-                hw = _strip_brackets(hw)
-                if system in ["dp", "bp"]:
-                    hw = hw.replace("-", "")
-            han_clean = han
-            for i, pinyin_code_raw in enumerate(pinyin_list):
-                pinyin_code = re.sub(r"[0-9 ]", "", pinyin_code_raw)
-                zh_label = zh_parts[i] if i < len(zh_parts) else zh_tw
-                if han_clean and not (
-                    han_clean.startswith("-")
-                    or han_clean.startswith(":")
-                    or han_clean.startswith("#")
-                ):
-                    if hw:
-                        text = f"{zh_label}☞{han_clean} ({hw})"
-                    else:
-                        text = f"{zh_label}☞{han_clean}"
-                elif hw and not (
-                    hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
-                ):
-                    text = f"{zh_label}☞{hw}"
+        zh_tw = (row.get("zh_TW") or "").strip()
+        if not zh_tw or not latn_norm:
+            continue
+        if re.search(r'[".]', latn_norm):
+            continue
+        zh_parts = re.split(r"[、，,；;\s]+", zh_tw)
+        pinyin_list = _zh_to_pinyin(zh_tw)
+        if not pinyin_list:
+            continue
+        han = (row.get("han") or "").strip()
+        han = _BRACKET_RE.sub("", han)
+        csv_hw = (row.get(system) or "").strip()
+        if not csv_hw:
+            try:
+                csv_hw = translator.translate(latn_norm)
+            except Exception:
+                csv_hw = ""
+        if csv_hw and csv_hw.strip():
+            csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
+        hw = ""
+        if csv_hw and csv_hw.strip():
+            try:
+                hw = system_converter.to_handwriting(
+                    system_converter.to_keyboard(csv_hw)
+                )
+            except Exception:
+                hw = csv_hw
+            hw = _strip_brackets(hw)
+            if system in ["dp", "bp"]:
+                hw = hw.replace("-", "")
+        han_clean = han
+        for i, pinyin_code_raw in enumerate(pinyin_list):
+            pinyin_code = re.sub(r"[0-9 ]", "", pinyin_code_raw)
+            zh_label = zh_parts[i] if i < len(zh_parts) else zh_tw
+            if han_clean and not (
+                han_clean.startswith("-")
+                or han_clean.startswith(":")
+                or han_clean.startswith("#")
+            ):
+                if hw:
+                    text = f"{zh_label}☞{han_clean} ({hw})"
                 else:
-                    continue
-                key = (text, pinyin_code)
-                if key not in seen:
-                    seen.add(key)
-                    entry_rows.append((pinyin_code, f"{text}\t{pinyin_code}\t100"))
+                    text = f"{zh_label}☞{han_clean}"
+            elif hw and not (
+                hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
+            ):
+                text = f"{zh_label}☞{hw}"
+            else:
+                continue
+            key = (text, pinyin_code)
+            if key not in seen:
+                seen.add(key)
+                entry_rows.append((pinyin_code, f"{text}\t{pinyin_code}\t100"))
     for _, line in sorted(entry_rows, key=lambda x: x[0]):
         lines.append(line)
     if not entry_rows:
@@ -1495,12 +1456,15 @@ def write_lua_filter(entries: dict, system: str, output_dir: Path):
 
 
 def main():
-    # For character dict, use all entries (no system filtering) and punctuation stripped
-    all_char_counts = load_all_entries_for_chars(MERGED_CSV)
+    print(f"Loading {MERGED_CSV}...")
+    all_rows = _load_merged_rows(MERGED_CSV)
+    print(f"Loaded {len(all_rows)} rows")
+
+    all_char_counts = load_all_entries_for_chars(all_rows)
 
     for pkg, cfg in PACKAGE_SYSTEMS.items():
         systems = cfg["systems"]
-        entries, systems_data = load_entries(MERGED_CSV, require_systems=cfg["require"])
+        entries, systems_data = load_entries(all_rows, require_systems=cfg["require"])
         if not entries:
             print(f"[{pkg}] No entries, skipping.")
             continue
@@ -1517,6 +1481,7 @@ def main():
                 system,
                 pkg,
                 pkg_dir,
+                all_rows,
                 require_systems=cfg["require"],
             )
             write_en_schema(system, pkg, pkg_dir)
@@ -1526,6 +1491,7 @@ def main():
                 system,
                 pkg,
                 pkg_dir,
+                all_rows,
                 require_systems=cfg["require"],
             )
             has_zh = zh_count > 0
