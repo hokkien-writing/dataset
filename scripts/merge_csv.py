@@ -190,16 +190,37 @@ def main():
 
     ext_files = sorted(EXTERNAL_DIR.glob("*.csv")) if EXTERNAL_DIR.exists() else []
     if ext_files:
+        # 如果中括號中沒有漢字，則連同中括號一起移除
+        pattern = r"\[[^\[\]\u4e00-\u9fff]*\]"
         for csv_file in ext_files:
             print(f"Reading external/{csv_file.name}...")
             with open(csv_file, encoding="utf-8") as f:
                 reader = csv.DictReader(f)
                 for row in reader:
                     latn_norm = (row.get("latn_norm") or "").strip().lower()
-                    poj_val = (row.get("poj") or "").strip()
-                    tl_val = (row.get("tl") or "").strip()
-                    dp_val = (row.get("dp") or "").strip()
-                    han = (row.get("han") or "").strip()
+                    puj_val = (row.get("puj") or "").strip(":#-.")
+                    poj_val = (row.get("poj") or "").strip(":#-.")
+                    tl_val = (row.get("tl") or "").strip(":#-.")
+                    dp_val = (row.get("dp") or "").strip(":#-.")
+                    bp_val = (row.get("bp") or "").strip(":#-.")
+                    han = (row.get("han") or "").strip(":#-")
+                    poj_val = re.sub(pattern, "", poj_val).strip()
+                    tl_val = re.sub(pattern, "", tl_val).strip()
+                    # 如果 poj_val 沒有英文字母，則跳過
+                    if poj_val and re.search(r"[a-z]", poj_val) is None:
+                        continue
+                    # 如果 poj_val 不是英文字母開頭，則跳過
+                    if poj_val and not (poj_val and poj_val[0].isascii() and poj_val[0].isalpha()):
+                        continue
+                    
+                    if poj_val == '牛角oâiⁿ':
+                        print(poj_val)
+
+                    if not latn_norm and puj_val:
+                        try:
+                            latn_norm = _puj_to_latn_norm.translate(puj_val).lower()
+                        except Exception:
+                            pass
                     if not latn_norm and poj_val:
                         try:
                             latn_norm = _poj_to_latn_norm.translate(poj_val).lower()
@@ -218,11 +239,11 @@ def main():
                     rows.append(
                         {
                             "latn_norm": latn_norm,
-                            "puj": (row.get("puj") or "").strip(),
-                            "dp": (row.get("dp") or "").strip(),
+                            "puj": puj_val,
+                            "dp": dp_val,
                             "poj": poj_val,
                             "tl": tl_val,
-                            "bp": (row.get("bp") or "").strip(),
+                            "bp": bp_val,
                             "han": han,
                             "han_variants": "",
                             "en": lower_first_en((row.get("en") or "").strip()),
