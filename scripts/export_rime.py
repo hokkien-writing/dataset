@@ -565,6 +565,9 @@ schema:
   version: "{version}"
   author:
     - Hokkien Writing Project
+  dependencies:
+    - {schema_id_en}
+    - luna_pinyin
 
 switches:
   - name: ascii_punct
@@ -648,18 +651,14 @@ reverse_lookup:
   prefix: "`"
   suffix: "'"
   tips: "〔普通話拼音〕"
-  comment_format:
-{pinyin_comment_format}
+
 
 en_lookup:
   tag: en_lookup
   dictionary: {schema_id_en}
-  enable_completion: true
   prefix: "~"
   suffix: "'"
   tips: "〔English〕"
-  comment_format:
-{en_comment_format}
 
 recognizer:
   import_preset: default
@@ -701,7 +700,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - table_translator
+    - script_translator
   filters:
     - simplifier
     - uniquifier
@@ -1058,11 +1057,20 @@ def _clean_en(en_text: str) -> str:
     text = re.sub(r"means.*", "", text)
     text = re.sub(r"[^a-zA-Z ]", "", text)
     text = re.sub(r" +", " ", text).strip()
+    words = text.split()
+    if len(words) > 1 and words[0].lower() in ("a", "an"):
+        words = words[1:]
+        text = " ".join(words)
     return text if len(text.split()) <= 5 else ""
 
 
 def write_en_dict(
-    entries: dict, systems_data: dict, system: str, pkg: str, output_dir: Path
+    entries: dict,
+    systems_data: dict,
+    system: str,
+    pkg: str,
+    output_dir: Path,
+    require_systems: Optional[list] = None,
 ):
     translator = create_translator("LATN_NORM", system.upper())
     system_converter = create_converter(system.upper())
@@ -1078,7 +1086,7 @@ def write_en_dict(
         "",
     ]
     seen = set()
-    count = 0
+    entry_rows = []
     with open(MERGED_CSV, encoding="utf-8") as f:
         reader = csv.DictReader(f)
         for row in reader:
@@ -1090,6 +1098,9 @@ def write_en_dict(
                         latn_norm = _to_latn_norm(puj_val)
                     except Exception:
                         continue
+            if require_systems:
+                if not any((row.get(s) or "").strip() for s in require_systems):
+                    continue
             en = (row.get("en") or "").strip()
             if not en or not latn_norm:
                 continue
@@ -1107,8 +1118,7 @@ def write_en_dict(
                 if han.startswith("-") or han.startswith(":") or han.startswith("#"):
                     continue
                 seen.add(key)
-                lines.append(f"{han}\t{en_clean}\t100")
-                count += 1
+                entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
             else:
                 csv_hw = (row.get(system) or "").strip()
                 if not csv_hw:
@@ -1139,11 +1149,12 @@ def write_en_dict(
                 if key in seen:
                     continue
                 seen.add(key)
-                lines.append(f"{hw}\t{en_clean}\t50")
-                count += 1
+                entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
+    for _, line in sorted(entry_rows, key=lambda x: x[0]):
+        lines.append(line)
     path = output_dir / f"{dict_name}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {count} entries to {path}")
+    print(f"Wrote {len(entry_rows)} entries to {path}")
 
 
 def write_schema(system: str, pkg: str, output_dir: Path):
@@ -1177,7 +1188,7 @@ def write_en_schema(system: str, pkg: str, output_dir: Path):
     schema_id = f"{pkg}_{system}"
     content = EN_SCHEMA_TEMPLATE.format(
         schema_id_en=f"{schema_id}_en",
-        name_en=f"{SYSTEM_NAMES[system]}-EN",
+        name_en=f"{SYSTEM_NAMES[system]}-English",
         version=BUILD_VERSION,
     )
     path = output_dir / f"{schema_id}_en.schema.yaml"
@@ -1301,7 +1312,14 @@ def main():
         for system in systems:
             write_syllables_dict(entries, system, pkg, pkg_dir)
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)
-            write_en_dict(entries, systems_data, system, pkg, pkg_dir)
+            write_en_dict(
+                entries,
+                systems_data,
+                system,
+                pkg,
+                pkg_dir,
+                require_systems=cfg["require"],
+            )
             write_en_schema(system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
