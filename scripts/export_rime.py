@@ -9,6 +9,8 @@ from datetime import datetime
 from pathlib import Path
 from typing import Optional
 
+import pypinyin
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
@@ -567,6 +569,7 @@ schema:
     - Hokkien Writing Project
   dependencies:
     - {schema_id_en}
+{zh_dependency}
     - luna_pinyin
 
 switches:
@@ -593,6 +596,7 @@ engine:
     - ascii_segmentor
     - matcher
     - affix_segmentor@en_lookup
+{zh_segmentor}
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -601,13 +605,14 @@ engine:
     - script_translator
     - reverse_lookup_translator
     - table_translator@en_lookup
+{zh_translator}
   filters:
     - simplifier
     - lua_filter@{filter_name}
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-!~`
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
   delimiter: " -"
   algebra:
@@ -650,7 +655,7 @@ reverse_lookup:
   dictionary: luna_pinyin
   prefix: "`"
   suffix: "'"
-  tips: "〔普通話拼音〕"
+  tips: "〔普通話拼音反查〕"
 
 
 en_lookup:
@@ -660,16 +665,19 @@ en_lookup:
   suffix: "'"
   tips: "〔English〕"
 
+{zh_lookup_section}
 recognizer:
   import_preset: default
   patterns:
     en_lookup: "~[a-z]*'?$"
+{zh_pattern}
     reverse_lookup: "`[a-z]*'?$"
 
 abc_segmentor:
   extra_tags:
     - reverse_lookup
     - en_lookup
+{zh_extra_tag}
 """
 
 EN_SCHEMA_TEMPLATE = """\
@@ -714,6 +722,54 @@ speller:
 
 translator:
   dictionary: {schema_id_en}
+"""
+
+ZH_SCHEMA_TEMPLATE = """\
+# Rime schema: {schema_id_zh}
+# Generated from merged.csv - do not edit manually
+
+schema:
+  schema_id: {schema_id_zh}
+  name: {name_zh}
+  version: "{version}"
+  author:
+    - Hokkien Writing Project
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - matcher
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyz'"
+  initials: "abcdefghijklmnopqrstuvwxyz"
+  delimiter: " '"
+  use_space: false
+  auto_select: false
+  algebra:
+    - derive/[1-5]//
+
+translator:
+  dictionary: {schema_id_zh}
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
 """
 
 DEFAULT_CUSTOM_TEMPLATE = """\
@@ -1150,13 +1206,146 @@ def write_en_dict(
     print(f"Wrote {len(entry_rows)} entries to {path}")
 
 
-def write_schema(system: str, pkg: str, output_dir: Path):
+def _zh_to_pinyin(zh_text: str) -> list[str]:
+    parts = re.split(r"[、，,；;\s]+", zh_text)
+    results = []
+    for part in parts:
+        part = part.strip()
+        if not part:
+            continue
+        py = pypinyin.lazy_pinyin(part, style=pypinyin.Style.TONE3, errors="ignore")
+        pinyin_str = " ".join(py)
+        if pinyin_str:
+            results.append(pinyin_str)
+    return results
+
+
+def write_zh_dict(
+    entries: dict,
+    systems_data: dict,
+    system: str,
+    pkg: str,
+    output_dir: Path,
+    require_systems: Optional[list] = None,
+):
+    translator = create_translator("LATN_NORM", system.upper())
+    system_converter = create_converter(system.upper())
+    dict_name = f"{pkg}_{system}_zh"
+    lines = [
+        f"# Rime dictionary: {dict_name}",
+        "# Generated from merged.csv - Mandarin reverse lookup",
+        "---",
+        f"name: {dict_name}",
+        f'version: "{BUILD_VERSION}"',
+        "sort: by_weight",
+        "...",
+        "",
+    ]
+    seen = set()
+    entry_rows = []
+    with open(MERGED_CSV, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            latn_norm = (row.get("latn_norm") or "").strip()
+            if not latn_norm:
+                puj_val = (row.get("puj") or "").strip()
+                if puj_val:
+                    try:
+                        latn_norm = _to_latn_norm(puj_val)
+                    except Exception:
+                        continue
+            if require_systems:
+                if not any((row.get(s) or "").strip() for s in require_systems):
+                    continue
+            zh_tw = (row.get("zh_TW") or "").strip()
+            if not zh_tw or not latn_norm:
+                continue
+            if re.search(r'[".]', latn_norm):
+                continue
+            zh_parts = re.split(r"[、，,；;\s]+", zh_tw)
+            pinyin_list = _zh_to_pinyin(zh_tw)
+            if not pinyin_list:
+                continue
+            han = (row.get("han") or "").strip()
+            han = re.sub(r"\[[^\]]*\]", "", han)
+            csv_hw = (row.get(system) or "").strip()
+            if not csv_hw:
+                try:
+                    csv_hw = translator.translate(latn_norm)
+                except Exception:
+                    csv_hw = ""
+            if csv_hw and csv_hw.strip():
+                csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
+            hw = ""
+            if csv_hw and csv_hw.strip():
+                try:
+                    hw = system_converter.to_handwriting(
+                        system_converter.to_keyboard(csv_hw)
+                    )
+                except Exception:
+                    hw = csv_hw
+                hw = _strip_brackets(hw)
+                if system in ["dp", "bp"]:
+                    hw = hw.replace("-", "")
+            han_clean = han
+            for i, pinyin_code_raw in enumerate(pinyin_list):
+                pinyin_code = re.sub(r"[0-9 ]", "", pinyin_code_raw)
+                zh_label = zh_parts[i] if i < len(zh_parts) else zh_tw
+                if han_clean and not (
+                    han_clean.startswith("-")
+                    or han_clean.startswith(":")
+                    or han_clean.startswith("#")
+                ):
+                    if hw:
+                        text = f"{zh_label}☞{han_clean} ({hw})"
+                    else:
+                        text = f"{zh_label}☞{han_clean}"
+                elif hw and not (
+                    hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
+                ):
+                    text = f"{zh_label}☞{hw}"
+                else:
+                    continue
+                key = (text, pinyin_code)
+                if key not in seen:
+                    seen.add(key)
+                    entry_rows.append((pinyin_code, f"{text}\t{pinyin_code}\t100"))
+    for _, line in sorted(entry_rows, key=lambda x: x[0]):
+        lines.append(line)
+    if not entry_rows:
+        return 0
+    path = output_dir / f"{dict_name}.dict.yaml"
+    path.write_text("\n".join(lines) + "\n", encoding="utf-8")
+    print(f"Wrote {len(entry_rows)} entries to {path}")
+    return len(entry_rows)
+
+
+def write_schema(system: str, pkg: str, output_dir: Path, has_zh: bool = True):
     schema_id = f"{pkg}_{system}"
     name = SYSTEM_NAMES[system]
     algebra = format_algebra(SYSTEM_ALGEBRA[system])
     filter_name = f"{system}_filter"
     caps_tracker_name = f"{system}_caps_tracker"
-    comment_fmt = format_comment_format(COMMENT_FORMAT[system])
+
+    if has_zh:
+        zh_dependency = f"    - {schema_id}_zh"
+        zh_segmentor = "    - affix_segmentor@zh_lookup"
+        zh_translator = "    - table_translator@zh_lookup"
+        zh_lookup_section = f"""zh_lookup:
+  tag: zh_lookup
+  dictionary: {schema_id}_zh
+  enable_completion: true
+  prefix: "!"
+  suffix: "'"
+  tips: "〔普通話對照〕"
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+"""
+        zh_pattern = '    zh_lookup: "![a-z]*\'?$"'
+        zh_extra_tag = "    - zh_lookup"
+    else:
+        zh_dependency = zh_segmentor = zh_translator = ""
+        zh_lookup_section = zh_pattern = zh_extra_tag = ""
 
     content = SCHEMA_TEMPLATE.format(
         schema_id=schema_id,
@@ -1165,9 +1354,14 @@ def write_schema(system: str, pkg: str, output_dir: Path):
         algebra=algebra,
         filter_name=filter_name,
         caps_tracker_name=caps_tracker_name,
-        pinyin_comment_format=comment_fmt,
-        en_comment_format=comment_fmt,
         schema_id_en=f"{schema_id}_en",
+        schema_id_zh=f"{schema_id}_zh",
+        zh_dependency=zh_dependency,
+        zh_segmentor=zh_segmentor,
+        zh_translator=zh_translator,
+        zh_lookup_section=zh_lookup_section,
+        zh_pattern=zh_pattern,
+        zh_extra_tag=zh_extra_tag,
     )
 
     content += "\n" + _build_punctuator_section() + "\n"
@@ -1185,6 +1379,18 @@ def write_en_schema(system: str, pkg: str, output_dir: Path):
         version=BUILD_VERSION,
     )
     path = output_dir / f"{schema_id}_en.schema.yaml"
+    path.write_text(content, encoding="utf-8")
+    print(f"Wrote {path}")
+
+
+def write_zh_schema(system: str, pkg: str, output_dir: Path):
+    schema_id = f"{pkg}_{system}"
+    content = ZH_SCHEMA_TEMPLATE.format(
+        schema_id_zh=f"{schema_id}_zh",
+        name_zh=f"{SYSTEM_NAMES[system]}-普通話",
+        version=BUILD_VERSION,
+    )
+    path = output_dir / f"{schema_id}_zh.schema.yaml"
     path.write_text(content, encoding="utf-8")
     print(f"Wrote {path}")
 
@@ -1314,7 +1520,18 @@ def main():
                 require_systems=cfg["require"],
             )
             write_en_schema(system, pkg, pkg_dir)
-            write_schema(system, pkg, pkg_dir)
+            zh_count = write_zh_dict(
+                entries,
+                systems_data,
+                system,
+                pkg,
+                pkg_dir,
+                require_systems=cfg["require"],
+            )
+            has_zh = zh_count > 0
+            if has_zh:
+                write_zh_schema(system, pkg, pkg_dir)
+            write_schema(system, pkg, pkg_dir, has_zh=has_zh)
         write_default_custom(systems, pkg, pkg_dir)
         filter_names = []
         for system in systems:
