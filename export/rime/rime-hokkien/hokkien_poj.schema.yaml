@@ -4,13 +4,27 @@
 schema:
   schema_id: hokkien_poj
   name: 白話字
-  version: "20260423.155657"
+  version: "20260424.231406"
   author:
     - Hokkien Writing Project
+  dependencies:
+    - hokkien_poj_en
+    - hokkien_poj_zh
+    - luna_pinyin
+
+switches:
+  - name: ascii_punct
+    reset: 0
+    states: [ 。，, ．， ]
+  - name: zh_simp
+    states: [ 漢字, 汉字 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
 
 engine:
   processors:
     - ascii_composer
+    - recognizer
     - lua_processor@poj_caps_tracker
     - speller
     - punctuator
@@ -19,17 +33,26 @@ engine:
     - key_binder
     - express_editor
   segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@en_lookup
+    - affix_segmentor@zh_lookup
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
+    - punct_translator
     - script_translator
+    - reverse_lookup_translator
+    - table_translator@en_lookup
+    - table_translator@zh_lookup
   filters:
+    - simplifier
     - lua_filter@poj_filter
     - uniquifier
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-!~`
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
   delimiter: " -"
   algebra:
@@ -65,7 +88,11 @@ speller:
     - derive/y/Y/
     - derive/z/Z/
 
+menu:
+  page_size: 6
+
 key_binder:
+  import_preset: default
   bindings:
     - { when: paging, accept: Left, send: Page_Up }
     - { when: has_menu, accept: Right, send: Page_Down }
@@ -73,6 +100,14 @@ key_binder:
     - { when: has_menu, accept: bracketright, send: Page_Down }
     - { when: has_menu, accept: Tab, send: Page_Down }
     - { when: paging, accept: Shift+Tab, send: Page_Up }
+    - { when: always, accept: Control+Shift+4, toggle: zh_simp }
+    - { when: always, accept: Control+Shift+dollar, toggle: zh_simp }
+    - { when: always, accept: Control+period, toggle: ascii_punct }
+
+simplifier:
+  opencc_config: t2s.json
+  option_name: zh_simp
+  tips: char
 
 style:
   horizontal: true
@@ -85,3 +120,109 @@ translator:
   enable_sentence: true
   enable_user_dict: true
   spelling_hints: 99
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: "〔普通話拼音反查〕"
+
+
+en_lookup:
+  tag: en_lookup
+  dictionary: hokkien_poj_en
+  prefix: "~"
+  suffix: "'"
+  tips: "〔English〕"
+
+zh_lookup:
+  tag: zh_lookup
+  dictionary: hokkien_poj_zh
+  enable_completion: true
+  prefix: "!"
+  suffix: "'"
+  tips: "〔普通話對照〕"
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+recognizer:
+  import_preset: default
+  patterns:
+    en_lookup: "~[a-z]*'?$"
+    zh_lookup: "![a-z]*'?$"
+    reverse_lookup: "`[a-z]*'?$"
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+    - en_lookup
+    - zh_lookup
+
+punctuator:
+  full_shape:
+    ' ': { commit: '　' }
+    ',': { commit: ， }
+    '.': { commit: 。 }
+    '<': [ 《, 〈, «, ‹ ]
+    '>': [ 》, 〉, », › ]
+    '/': [ ／, ÷ ]
+    '?': { commit: ？ }
+    ';': { commit: ； }
+    ':': { commit: ： }
+    '''': { pair: [ '‘', '’' ] }
+    '"': { pair: [ '“', '”' ] }
+    '\': [ 、, ＼ ]
+    '|': [ ·, ｜, '§', '¦' ]
+    '`': ｀
+    '~': ～
+    '!': { commit: ！ }
+    '@': [ ＠, ☯ ]
+    '#': [ ＃, ⌘ ]
+    '%': [ ％, '°', '℃' ]
+    '$': [ ￥, '$', '€', '£', '¥', '¢', '¤' ]
+    '^': { commit: …… }
+    '&': ＆
+    '*': [ ＊, ·, ・, ×, ※, ❂ ]
+    '(': （
+    ')': ）
+    '-': －
+    '_': ——
+    '+': ＋
+    '=': ＝
+    '[': [ 「, 【, 〔, ［ ]
+    ']': [ 」, 】, 〕, ］ ]
+    '{': [ 『, 〖, ｛ ]
+    '}': [ 』, 〗, ｝ ]
+  half_shape:
+    ',': ，
+    '.': 。
+    '<': 《
+    '>': 》
+    '/': '/'
+    '?': ？
+    ';': ；
+    ':': ：
+    '''': { pair: [ '‘', '’' ] }
+    '"': { pair: [ '“', '”' ] }
+    '\': 、
+    '|': '|'
+    '`': '`'
+    '~': '~'
+    '!': ！
+    '@': '@'
+    '#': '#'
+    '%': '%'
+    '$': '¥'
+    '^': ……
+    '&': '&'
+    '*': '*'
+    '(': （
+    ')': ）
+    '-': '-'
+    '_': ——
+    '+': '+'
+    '=': '='
+    '[': 【
+    ']': 】
+    '{': 「
+    '}': 」

@@ -2,10 +2,17 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260423.155657"
+version: "20260424.231406"
 sort: by_weight
 ...
 
+丫	a1	100
+亞	a1	100
+椏	a1	100
+氬	a1	100
+錒	a1	100
+阿	a1	200
+鴉	a1	100
 阿母	a1  bo2	100
 亞無	a1  bo5	100
 阿姐	a1  che2	100
@@ -41,13 +48,37 @@ sort: by_weight
 阿爹	a1  tia1	200
 阿丈	a1  tienn6	200
 阿旦	a1  tuann3	100
+掗	a2	100
 掗折	a2  chih8	100
 拗彎	a2  uan1	100
 䛩	a3	50
+亞	a3	100
+埡	a3	100
+婭	a3	100
 詏	a3	100
-鴨	ah4	100
+嗄	a6	100
+阿	a7	100
+押	ah4	200
+鴨	ah4	200
 鴨攝	ah4  nih4	100
-愛	ainn3	100
+哀	ai1	100
+埃	ai1	100
+乃	ai2	100
+噯	ai2	100
+曖	ai2	100
+欸	ai2	200
+藹	ai2	100
+醢	ai2	100
+隘	ai2	100
+靄	ai2	100
+嬡	ai5	100
+哎	ai7	100
+唉	ai7	100
+嬡	ainn3	100
+愛	ainn3	200
+慾	ainn3	100
+璦	ainn3	100
+靉	ainn3	100
 愛建厝着有地脚	ainn3 khi2  chhu3 tieh8 u6 ti7  kha1	25
 愛建厝着有地腳	ainn3 khi2  chhu3 tieh8 u6 ti7  kha1	50
 愛建厝着有地跤	ainn3 khi2  chhu3 tieh8 u6 ti7  kha1	12
@@ -62,27 +93,48 @@ sort: by_weight
 愛訴	ainn3  su3	100
 愛退堂了	ainn3  tho3  tng5   lo7	100
 愛吐	ainn3  thou3	100
-惡	ak4	400
+堊	ak4	100
+惡	ak4	500
+抑	ak4	100
+揠	ak4	100
 沃	ak4	100
 沃水	ak4  chui2	100
 沃着雨	ak4  tieh8  hou6	100
-庵	am1	100
+庵	am1	200
+盦	am1	100
+諳	am1	100
 𤲅	am1	50
 飲	am2	100
-暗	am3	100
+揞	am3	100
+暗	am3	200
+諳	am3	100
+闇	am3	100
+黯	am3	100
 暗靜	am3  chenn6	300
 暗靜呾	am3  chenn6  tann3	100
 暗號	am3  ho7	100
-頷	am6	100
+頷	am6	200
 頷領	am6  niann2	200
 安更	an1  kenn1	100
 按	an3	100
 按察	an3  chhat4	100
+安	ang1	200
+桉	ang1	100
+氨	ang1	100
 翁	ang1	100
+胺	ang1	100
+銨	ang1	100
+骯	ang1	100
+鵪	ang1	100
 尪仔	ang1  kiann2	100
 尪囝	ang1  kiann2	200
-甕	ang3	100
-紅	ang5	100
+宴	ang3	100
+按	ang3	100
+晏	ang3	100
+甕	ang3	200
+齆	ang3	100
+洪	ang5	100
+紅	ang5	200
 紅磚	ang5  chng1	100
 紅鰽	ang5  cho5	100
 紅花女	ang5  hue1  nng2	200
@@ -92,16 +144,37 @@ sort: by_weight
 紅頭船	ang5  thau5  chun5	100
 掩目走坫	ann1  mak8 chau2  tiam7	100
 佔	ann5	100
+噯	ann6	100
+餡	ann7	100
+呷	ap4	100
+狎	ap4	100
 押數	ap4  siou3	200
-匣	ap8	100
+匣	ap8	200
+盒	ap8	100
+凹	au1	100
+區	au1	100
+坳	au1	100
+慪	au1	100
+歐	au1	100
+毆	au1	100
+漚	au1	100
+甌	au1	100
+謳	au1	100
+鏖	au1	100
+靿	au1	100
+鷗	au1	200
+嘔	au2	100
+媼	au2	100
+拗	au2	100
 嘔噦	au2  ueh4	100
 杇	au3	100
+燠	au3	100
 爛人	au3  nang5	100
 爛儂	au3  nang5	50
-喉	au5	100
+喉	au5	200
 渴	au5 ta1	100
 喉嚨	au5  leng5	200
-後	au6	100
+後	au6	200
 後日	au6   jit8	100
 後日我就轉來	au6   jit8 ua2 chiu6 tng2   lai5	100
 後裔	au6  i6	300
@@ -111,7 +184,12 @@ sort: by_weight
 峇仔	ba7  kiann2	50
 峇囝	ba7  kiann2	100
 峇厘	ba7  li5	200
-墨	bak8	100
+嵋	bai5	100
+楣	bai5	100
+眉	bai5	100
+鎇	bai5	100
+墨	bak8	200
+木	bak8	100
 墨水	bak8  chui2	100
 墨水礶	bak8  chui2  kuan3	50
 墨水罐	bak8  chui2  kuan3	100
@@ -122,8 +200,13 @@ sort: by_weight
 木虱	bak8  sat4	100
 墨斗	bak8  tau2	100
 密	bat8	100
-碼	be2	100
-馬	be2	100
+卯	bau2	100
+昴	bau2	100
+泖	bau2	100
+茆	bau2	100
+鉚	bau2	100
+碼	be2	200
+馬	be2	200
 馬車	be2  chhia1	100
 碼子	be2  chi2	100
 馬鮫	be2  ka1	100
@@ -138,23 +221,34 @@ sort: by_weight
 碼頭	be2  thau5	100
 馬頭	be2  thau5	100
 馬鞍	be2  uann1	100
-麥	beh8	100
+麥	beh8	200
 麥粉粿	beh8  hun2  kue2	100
 麥粉餜	beh8  hun2  kue2	50
-米	bi2	100
+米	bi2	200
 米籮	bi2  lo5	200
 米粮	bi2  nienn5	50
 米糧	bi2  nienn5	100
 米篩	bi2  thai1	200
-味	bi7	100
+味	bi7	200
+未	bi7	200
 氼	bi7	100
 味素	bi7  sou3	100
 味素	bi7  sou7	100
+描	bie5	100
+瞄	bie5	100
+廟	bie7	100
 覕	bih4	100
+篾	bih8	100
+蜜	bik8	100
 蜜	bit8	100
-母	bo2	100
+姥	bo2	100
+拇	bo2	100
+母	bo2	200
 母舅	bo2  ku6	100
-無	bo5	200
+亡	bo5	200
+无	bo5	100
+毋	bo5	100
+無	bo5	300
 無地脚厝袂徛	bo5 ti7  kha1 chhu3 boi6  khia6	6
 無地脚厝𠀾徛	bo5 ti7  kha1 chhu3 boi6  khia6	3
 無地腳厝袂徛	bo5 ti7  kha1 chhu3 boi6  khia6	25
@@ -204,14 +298,14 @@ sort: by_weight
 無枉屈人	bo5  uang2  khut4 nang5	100
 無枉屈儂	bo5  uang2  khut4 nang5	50
 無位次	bo5  ui7  chhur3	100
-帽	bo7	100
-磨	bo7	100
+帽	bo7	200
+磨	bo7	200
 磨石	bo7  chieh8	100
 帽珠	bo7  chu1	100
 帽仔	bo7  kiann2	100
 帽囝	bo7  kiann2	200
 帽吊	bo7  tiou3	100
-買	boi2	300
+買	boi2	400
 買一隻雞做湯	boi2 chek8  chiah4 koi1 cho3  thng1	100
 買一隻鷄做湯	boi2 chek8  chiah4 koi1 cho3  thng1	50
 買無	boi2  bo5	100
@@ -220,6 +314,7 @@ sort: by_weight
 買客	boi2  kheh4	100
 袂	boi6	200
 𠀾	boi6	100
+𠁞	boi6	100
 袂無班母	boi6  bo5  pan1  bo2	100
 𠀾無班母	boi6  bo5  pan1  bo2	50
 袂食	boi6  chiah8	100
@@ -234,42 +329,124 @@ sort: by_weight
 𠀾銷	boi6  siou1	50
 袂得	boi6  tit4	100
 𠀾得	boi6  tit4	50
-賣	boi7	200
+賣	boi7	300
 賣上盤	boi7  chienn6  puann5	100
 賣偏人	boi7  phinn1   nang5	100
 賣偏儂	boi7  phinn1   nang5	50
 婦	bou2	200
-畝	bou2	200
-舞	bu2	100
+牡	bou2	100
+畝	bou2	300
+戊	bou7	100
+侮	bu2	100
+嫵	bu2	100
+憮	bu2	100
+撫	bu2	100
+武	bu2	100
+碔	bu2	100
+舞	bu2	200
+鵡	bu2	100
 撫院	bu2  inn7	100
 武官	bu2  kuann1	200
+巫	bu5	100
+廡	bu5	100
+蕪	bu5	100
+誣	bu5	100
 誣賴	bu5  lua7	100
-霧	bu7	100
+務	bu6	100
+婺	bu6	100
+騖	bu6	100
+鶩	bu6	100
+霧	bu7	200
 霧水	bu7  chui2	100
 磨	bua2	100
 埋	bua5	50
 摩	bua5	100
-磨	bua5	200
+磨	bua5	300
 磨苦	bua5  khou2	100
 磨刀石	bua5  to1  chieh8	100
-抹	buah4	100
+抹	buah4	200
 抹鼻薰	buah4  phinn7  hun1	100
+末	buah8	100
+沫	buah8	100
+秣	buah8	100
+茇	buah8	100
+鈸	buah8	100
 萬世	buan7  si3	200
+妄	buang2	100
+惘	buang2	100
+罔	buang2	100
+輞	buang2	100
+魍	buang2	100
+忘	buang5	100
 忘約	buang5  ieh4	100
 忘恩	buang5  urn1	100
-尾	bue2	300
+望	buang6	100
+尾	bue2	400
 尾尾	bue2  bue2	100
 尾蝶	bue2  iah8	100
-梅	bue5	100
+媒	bue5	100
+枚	bue5	100
+梅	bue5	200
+煤	bue5	100
+脢	bue5	100
+莓	bue5	100
+酶	bue5	100
+霉	bue5	100
+黴	bue5	100
 媒人	bue5  nang5	100
 媒儂	bue5  nang5	50
 未	bue7	200
 未食先食	bue7  chiah8 soinn1  chiah8	100
-襪	bueh8	100
+襪	bueh8	200
+墁	bueng6	100
+嫚	bueng6	100
+幔	bueng6	100
+慢	bueng6	100
+曼	bueng6	100
+漫	bueng6	100
+蔓	bueng6	100
+謾	bueng6	100
+饅	bueng6	100
+萬	bueng7	100
 痱	bui3	100
 蚊	bun1	100
 文章	bun5  chienn1	100
 文官	bun5  kuann1	100
+燜	bung1	100
+蚊	bung1	100
+聞	bung3	100
+抆	bung5	100
+文	bung5	100
+旻	bung5	100
+汶	bung5	100
+玫	bung5	100
+紊	bung5	100
+紋	bung5	100
+聞	bung5	100
+閿	bung5	100
+雯	bung5	100
+聞	bung6	100
+悶	bung7	100
+懣	bung7	100
+紊	bung7	100
+侘	cha1	100
+咤	cha1	100
+咱	cha1	100
+喳	cha1	100
+嗟	cha1	100
+揸	cha1	100
+查	cha1	100
+楂	cha1	100
+槎	cha1	100
+渣	cha1	100
+溠	cha1	100
+猹	cha1	100
+瘥	cha1	100
+皻	cha1	100
+碴	cha1	100
+蹉	cha1	100
+餷	cha1	100
+髽	cha1	100
 查某	cha1  bou2	25
 諸婦	cha1  bou2	100
 諸母	cha1  bou2	50
@@ -285,39 +462,125 @@ sort: by_weight
 昨夜伊剌死儂	cha1  menn5 i1 chhng3  si2 nang5	50
 昨暝伊剌死人	cha1  menn5 i1 chhng3  si2 nang5	25
 昨暝伊剌死儂	cha1  menn5 i1 chhng3  si2 nang5	12
-早	cha2	200
+早	cha2	300
+昔	cha2	100
+昨	cha2	100
+痄	cha2	100
+蚤	cha2	200
 早底當時	cha2 tiang1  si5	100
 早早	cha2  cha2	100
 昨夜三更蝕	cha2  menn5 sann1  kenn1 sih8	100
 昨暝三更蝕	cha2  menn5 sann1  kenn1 sih8	50
 早晨	cha2  sin5	100
-閘	chah8	100
+乍	cha3	100
+咋	cha3	100
+怍	cha3	100
+怎	cha3	100
+柞	cha3	100
+榨	cha3	100
+炸	cha3	100
+砟	cha3	100
+窄	cha3	100
+蚱	cha3	100
+詐	cha3	100
+鮓	cha3	100
+𠷿	chah4	100
+卡	chah8	100
+柵	chah8	100
+炸	chah8	100
+閘	chah8	200
 閘路	chah8  lou7	100
-知	chai1	100
+崽	chai1	100
+栽	chai1	100
+災	chai1	100
+知	chai1	200
 知亞	chai1   a1	100
 知觀	chai1  kuan1	100
 知人情	chai1  nang5  chheng5	100
 知儂情	chai1  nang5  chheng5	50
+宰	chai2	100
+崽	chai2	100
+滓	chai2	100
+載	chai2	100
 宰相	chai2  siang3	100
-載	chai3	100
+再	chai3	100
+載	chai3	200
 載貨	chai3  hue3	100
-儎	chai7	100
+臍	chai5	100
+在	chai6	100
+蠆	chai6	100
+豸	chai6	100
+儎	chai7	200
+哉	chai7	100
+扎	chak4	200
+拃	chak4	100
+拶	chak4	100
+札	chak4	200
+櫛	chak4	100
+癤	chak4	100
+筰	chak4	100
+紮	chak4	200
 聒	chak4	200
+鍘	chak4	100
 聒着	chak4   tieh8	100
-針	cham1	100
+簪	cham1	100
+針	cham1	200
+塹	cham2	100
+嶄	cham2	100
+斬	cham2	100
+槧	cham2	100
 斬頭	cham2  thau5	200
-鏨	cham6	100
+蘸	cham3	100
+譖	cham3	100
+站	cham6	100
+鏨	cham6	200
 棧房	chan3  pang5	100
 層	chan5	100
-棕	chang1	100
+曾	chang1	200
+棕	chang1	200
+糌	chang1	100
+罾	chang1	100
+臧	chang1	100
+莊	chang1	200
+髒	chang1	100
+鬃	chang1	100
 棕色	chang1  sek4	100
 棕蓑	chang1  sui1	100
-壯	chang3	200
-棧	chang3	100
+攥	chang2	100
+壯	chang3	300
+奘	chang3	100
+攢	chang3	200
+昝	chang3	100
+棧	chang3	200
+粽	chang3	100
+臢	chang3	100
+讚	chang3	100
+贊	chang3	100
+趲	chang3	100
+躦	chang3	100
+鑽	chang3	200
 棧房	chang3  pang5	100
+叢	chang5	100
+層	chang5	100
 欉	chang5	200
-汁	chap4	100
-十	chap8	100
+臟	chang6	100
+臧	chang6	100
+藏	chang6	100
+贜	chang6	100
+贈	chang7	100
+匝	chap4	100
+咂	chap4	100
+唼	chap4	100
+噆	chap4	100
+汁	chap4	200
+眨	chap4	100
+砸	chap4	100
+軋	chap4	100
+釓	chap4	100
+什	chap8	100
+十	chap8	200
+拾	chap8	100
+雜	chap8	100
 〡〇〇〇十万	chap8  buan7	100
 十萬	chap8  buan7	100
 〡〧	chap8  chhit4	100
@@ -348,7 +611,13 @@ sort: by_weight
 節	chat4	200
 節度	chat4  tou7	100
 密	chat8	100
-走	chau2	200
+嘈	chau1	100
+糟	chau1	100
+蹧	chau1	100
+遭	chau1	100
+找	chau2	100
+笟	chau2	100
+走	chau2	300
 走馬樓	chau2  be2  lau5	100
 走馬樓个簾放落來	chau2  be2  lau5 kai5 liam5 pang3   loh8  lai5	100
 走文書	chau2  bun5  chur1	100
@@ -358,24 +627,59 @@ sort: by_weight
 走囝	chau2  kiann2	200
 走鬼	chau2  kui2	200
 女孫	chau2  sun1	100
+奏	chau3	100
 灶	chau3	200
-竈	chau3	100
+竈	chau3	200
 灶空个火烌抔掉	chau3  khang1 kai5 hue2  hu1 put4  tiou3	100
 竈空个火烌抔掉	chau3  khang1 kai5 hue2  hu1 put4  tiou3	50
+唣	chau6	100
+悼	chau6	100
+慥	chau6	100
+棹	chau6	100
+淖	chau6	100
+皂	chau6	100
+罩	chau6	100
+造	chau6	100
 造化	chau6  hue3	200
+齋	che1	100
+姊	che2	100
+姐	che2	200
+這	che2	100
 姐妹仔	che2  muenn7  kiann2	50
 姐妹囝	che2  muenn7  kiann2	100
-債	che3	100
+債	che3	200
 債主	che3  chu2	200
+寨	che7	100
+砦	che7	100
+仄	cheh4	100
+嘖	cheh4	100
+幘	cheh4	100
+昃	cheh4	100
+磧	cheh4	100
+積	cheh4	100
+簣	cheh4	100
+績	cheh4	100
+職	cheh4	100
+責	cheh4	100
+賾	cheh4	100
 職銜	cheh4  ham5	100
 職任	cheh4  jim6	200
-燭	chek4	200
+則	chek4	100
+叔	chek4	100
+崱	chek4	100
+燭	chek4	300
+癪	chek4	100
+稷	chek4	100
 積	chek4	100
+謖	chek4	100
 積惡	chek4  ak4	200
 則例	chek4  li7	100
 燭檯	chek4  tai5	100
 一條	chek4  tiou5	100
-一	chek8	200
+一	chek8	300
+壹	chek8	100
+弌	chek8	100
+澤	chek8	100
 〡〇〇〇万	chek8  buan7	100
 一萬	chek8  buan7	100
 一尾紅鰽愛二百錢	chek8  bue2 ang5  cho5 ainn3 nonn6  peh4  chinn5	100
@@ -443,17 +747,54 @@ sort: by_weight
 一頓食一包	chek8  tng3 chiah8 chek8  pau1	100
 一對	chek8  tui3	200
 一堆	chek8  tun1	100
-舂	cheng1	200
-鍾	cheng1	100
-鐘	cheng1	100
+䋫	cheng1	100
+丁	cheng1	100
+偵	cheng1	100
+僧	cheng1	100
+噌	cheng1	100
+增	cheng1	100
+崢	cheng1	100
+幀	cheng1	100
+征	cheng1	100
+怔	cheng1	100
+憎	cheng1	100
+掙	cheng1	100
+楨	cheng1	100
+湞	cheng1	100
+猙	cheng1	100
+琤	cheng1	100
+甑	cheng1	100
+盅	cheng1	100
+睛	cheng1	100
+睜	cheng1	100
+矰	cheng1	100
+禎	cheng1	100
+箏	cheng1	100
+精	cheng1	200
+繒	cheng1	100
+舂	cheng1	300
+菁	cheng1	100
+蒸	cheng1	100
+諍	cheng1	100
+貞	cheng1	100
+赬	cheng1	100
+蹭	cheng1	100
+鉦	cheng1	100
+錚	cheng1	100
+鍾	cheng1	200
+鐘	cheng1	200
+鐺	cheng1	100
 曾女孫	cheng1  chau2  sun1	100
 眾牲	cheng1  senn1	100
 衆牲	cheng1  senn1	50
 曾孫	cheng1  sun1	100
-種	cheng2	100
-腫	cheng2	100
-種	cheng3	200
-證	cheng3	100
+種	cheng2	200
+腫	cheng2	200
+政	cheng3	100
+症	cheng3	100
+種	cheng3	300
+衆	cheng3	100
+證	cheng3	200
 種作	cheng3  choh4	200
 種珠	cheng3  chu1	200
 證據	cheng3  kur6	100
@@ -462,17 +803,43 @@ sort: by_weight
 衆人	cheng3  nang5	50
 衆儂	cheng3  nang5	24
 種豆	cheng3  tau7	100
+嘗	cheng5	100
+曾	cheng5	100
 腫	cheng5	100
 挣	cheng6	100
+淨	cheng6	100
 追	cheng6	100
-爭	chenn1	100
-靜	chenn6	100
+靖	cheng6	100
+靚	cheng6	100
+爭	chenn1	200
+井	chenn2	100
+汫	chenn2	200
+阱	chenn2	100
+晴	chenn5	100
+竫	chenn6	100
+靜	chenn6	200
 靜靜	chenn6  chenn6	200
+䟕	chha1	100
+叉	chha1	200
+岔	chha1	100
+嵯	chha1	100
+差	chha1	300
+搓	chha1	100
+杈	chha1	200
+汊	chha1	100
+衩	chha1	100
 差錯	chha1  chho3	100
 差唔多	chha1  m6  to1	50
 差毋多	chha1  m6  to1	100
 差不多	chha1  put4  to1	200
-炒	chha2	100
+炒	chha2	200
+仛	chha3	100
+姹	chha3	100
+礤	chha3	100
+詫	chha3	100
+蹅	chha3	100
+垞	chha5	100
+柴	chha5	100
 柴秤	chha5  chhin3	100
 柴鵝	chha5  go5	100
 柴戅	chha5  kong3	100
@@ -483,15 +850,30 @@ sort: by_weight
 柴頭	chha5  thau5	200
 柴槌	chha5  thui5	200
 挿	chhah4	100
-插	chhah4	200
-彩	chhai2	100
-菜	chhai3	100
+插	chhah4	300
+歃	chhah4	100
+臿	chhah4	100
+鍤	chhah4	100
+猜	chhai1	100
+彩	chhai2	200
+採	chhai2	100
+睬	chhai2	100
+綵	chhai2	100
+踩	chhai2	100
+采	chhai2	100
+菜	chhai3	200
 菜脯	chhai3  pou2	100
 菜豆	chhai3  tau7	100
 菜豆唐人炒	chhai3  tau7 tng5  nang5 chha2	100
 菜豆唐儂炒	chhai3  tau7 tng5  nang5 chha2	50
 菜頭	chhai3  thau5	100
 菜頭煮魚甜	chhai3  thau5 chur2  hur5 tiam5	100
+才	chhai5	100
+材	chhai5	100
+纔	chhai5	100
+裁	chhai5	100
+豺	chhai5	100
+財	chhai5	100
 才情	chhai5  chheng5	100
 財主	chhai5  chu2	100
 財主在彼內	chhai5  chu2 to6 hur2  lai6	100
@@ -499,12 +881,39 @@ sort: by_weight
 財副	chhai5  hu3	200
 財氣	chhai5  khi3	300
 豺狼	chhai5  lang5	100
+䃰	chhak4	100
+剎	chhak4	100
+察	chhak4	100
+搽	chhak4	100
+擦	chhak4	100
+漆	chhak4	100
+錯	chhak4	100
+鑔	chhak4	100
+賊	chhak8	100
+鑿	chhak8	100
+鰂	chhak8	100
 鑿仔	chhak8  kiann2	100
 鑿囝	chhak8  kiann2	200
-摻	chham1	100
+參	chham1	100
+摻	chham1	200
+攙	chham1	100
+滲	chham1	100
+磣	chham1	100
+驂	chham1	100
 參名	chham1  miann5	100
 參詳	chham1  siang5	100
+慘	chham2	100
+憯	chham2	100
+儳	chham3	100
+懺	chham3	100
+羼	chham3	100
+讖	chham3	100
 纖碎	chham3  chhui3	200
+巉	chham5	100
+慚	chham5	100
+讒	chham5	100
+饞	chham5	100
+鵮	chham7	100
 謒	chhan1	100
 塍	chhan5	50
 田	chhan5	100
@@ -516,11 +925,37 @@ sort: by_weight
 田螺	chhan5  lo5	100
 塍地	chhan5  ti7	50
 田地	chhan5  ti7	100
-蔥	chhang1	100
+倉	chhang1	200
+傖	chhang1	100
+創	chhang1	100
+孱	chhang1	100
+愴	chhang1	100
+戧	chhang1	100
+滄	chhang1	100
+潺	chhang1	100
+瑲	chhang1	100
+蒼	chhang1	100
+蔥	chhang1	200
+蹌	chhang1	100
+鏘	chhang1	100
+餐	chhang1	100
+鶬	chhang1	100
 蒼白	chhang1  peh8	100
 蔥頭	chhang1  thau5	100
+剷	chhang2	100
+蕆	chhang2	100
+鏟	chhang2	100
+創	chhang3	100
+熗	chhang3	100
+燦	chhang3	100
+璨	chhang3	100
+粲	chhang3	100
 創營	chhang3  iann5	200
 創過	chhang3  kue3	100
+戕	chhang5	100
+殘	chhang5	100
+田	chhang5	100
+藏	chhang5	100
 入奉教	chhap4  hong6  ka3	100
 挿會	chhap4  hue6	50
 插會	chhap4  hue6	100
@@ -531,7 +966,11 @@ sort: by_weight
 漆	chhat4	200
 漆器	chhat4  khi3	100
 賊	chhat8	100
-抄	chhau1	200
+剿	chhau1	100
+抄	chhau1	300
+操	chhau1	100
+耖	chhau1	100
+鈔	chhau1	100
 操練	chhau1  lien7	200
 草	chhau2	100
 草帽	chhau2  bo7	100
@@ -544,26 +983,63 @@ sort: by_weight
 草埔攏總是樹葉	chhau2  pou1 long2  chong2 si6 chhiu7  hieh8	100
 草場	chhau2  tienn5	100
 草塲	chhau2  tienn5	50
-臭	chhau3	200
+吵	chhau3	100
+噪	chhau3	100
+慥	chhau3	100
+操	chhau3	100
+氉	chhau3	100
+澡	chhau3	100
+燥	chhau3	100
+臊	chhau3	100
+臭	chhau3	300
+藻	chhau3	100
+譟	chhau3	100
+躁	chhau3	100
 臭臊	chhau3  chho1	100
 臭人	chhau3  nang5	200
 臭儂	chhau3  nang5	100
 臭頭	chhau3  thau5	100
+嘈	chhau5	100
+巢	chhau5	100
+曹	chhau5	100
+漕	chhau5	100
+繅	chhau5	100
+螬	chhau5	100
 叉	chhe1	100
+尺	chhe1	100
+扠	chhe1	100
 差役	chhe1  hiah8	100
+扯	chhe2	100
 廁缸	chhe3  kng1	100
-查	chhe5	200
+查	chhe5	300
 查看	chhe5  thoinn2	50
 查睇	chhe5  thoinn2	100
 鑔	chhe6	100
+冊	chheh4	100
+策	chheh4	100
 冊魚	chheh4  hur5	100
 冊架	chheh4  ke3	100
 冊皮	chheh4  phue5	100
 冊櫥	chheh4  tu5	200
-粟	chhek4	100
+側	chhek4	100
+僳	chhek4	100
+嘁	chhek4	100
+坼	chhek4	100
+惻	chhek4	100
+慼	chhek4	100
+戚	chhek4	100
+斥	chhek4	100
+測	chhek4	100
+粟	chhek4	200
+膝	chhek4	100
 粟倉	chhek4  chhng1	100
+偁	chheng1	100
+圊	chheng1	100
+檉	chheng1	100
 淸	chheng1	100
-清	chheng1	200
+清	chheng1	300
+稱	chheng1	100
+蜻	chheng1	200
 淸楚	chheng1  chho2	50
 清楚	chheng1  chho2	100
 淸潔	chheng1  khih4	100
@@ -572,18 +1048,29 @@ sort: by_weight
 清潔相	chheng1  khih4  sienn3	100
 淸明着去掛紙	chheng1  meng5 tieh8  khur3 kue3  chua2	50
 清明着去掛紙	chheng1  meng5 tieh8  khur3 kue3  chua2	100
-銃	chheng3	200
+倩	chheng3	100
+稱	chheng3	200
+茜	chheng3	200
+蒨	chheng3	200
+銃	chheng3	300
 銃子	chheng3  chi2	300
 銃子火藥	chheng3  chi2 hue2  ieh8	100
 銃藥	chheng3  ieh8	200
 銃空	chheng3  khang1	100
+情	chheng5	100
+棖	chheng5	100
+橙	chheng5	100
+餳	chheng5	100
 穿	chheng7	200
 穿衫褲	chheng7 sann1  khou3	100
-星	chhenn1	100
-生	chhenn1	100
-腥	chhenn1	100
+星	chhenn1	200
+氰	chhenn1	100
+生	chhenn1	200
+腥	chhenn1	200
+菁	chhenn1	100
 靑	chhenn1	300
-青	chhenn1	600
+青	chhenn1	700
+鯖	chhenn1	100
 星灼灼熠	chhenn1 iap8  iap8  sih4	100
 生菜	chhenn1  chhai3	100
 靑靑	chhenn1  chhenn1	100
@@ -601,36 +1088,90 @@ sort: by_weight
 生鐵	chhenn1  thih4	100
 靑天	chhenn1  thinn1	50
 青天	chhenn1  thinn1	100
-醒	chhenn2	100
+醒	chhenn2	200
 醒起來	chhenn2   khi2  lai5	100
-妻	chhi1	200
+嗜	chhi1	100
+嗤	chhi1	100
+妻	chhi1	300
+媸	chhi1	100
+棲	chhi1	100
+淒	chhi1	100
+癡	chhi1	100
+笞	chhi1	100
+筮	chhi1	100
+篪	chhi1	100
+萋	chhi1	100
+蚩	chhi1	100
+郪	chhi1	100
+鰭	chhi1	100
+鴟	chhi1	100
 淒慘	chhi1  chham2	300
 妻舅	chhi1  ku6	100
 淒凉	chhi1  liang5	100
-刺	chhi3	200
+褫	chhi2	100
+刺	chhi3	400
+弒	chhi3	100
+翅	chhi3	100
 莿	chhi3	100
-試	chhi3	300
+試	chhi3	400
 刺藍帕	chhi3  nann5  phe3	100
 試看	chhi3  thoinn2	100
 試睇	chhi3  thoinn2	200
+墀	chhi5	100
+薺	chhi5	100
+蚳	chhi5	100
+蠐	chhi5	100
+遲	chhi5	100
+馳	chhi5	100
+齊	chhi5	100
 刺殼	chhi5  khak4	100
-市	chhi6	100
+市	chhi6	200
+鈰	chhi6	100
 巿眠起無魚	chhi6 meng5  khi2 bo5  hur5	100
-飼	chhi7	200
-賒	chhia1	200
-車	chhia1	200
+飼	chhi7	300
+奢	chhia1	100
+硨	chhia1	100
+賒	chhia1	300
+車	chhia1	300
 車稅	chhia1  sue3	100
 刺	chhiah4	200
+赤	chhiah4	100
 刺花	chhiah4  hue1	100
 赤脚	chhiah4  kha1	50
 赤腳	chhiah4  kha1	100
 赤跤	chhiah4  kha1	24
 赤骹	chhiah4  kha1	200
 赤糖	chhiah4  thng5	100
+綽	chhiak4	100
+雀	chhiak4	100
+鵲	chhiak4	100
 籤	chhiam1	100
 簽名	chhiam1  miann5	400
-倡	chhiang3	100
-請	chhiann2	400
+倡	chhiang1	100
+嗆	chhiang1	100
+娼	chhiang1	100
+昌	chhiang1	100
+猖	chhiang1	100
+菖	chhiang1	100
+閶	chhiang1	100
+鯧	chhiang1	100
+嗆	chhiang2	100
+廠	chhiang2	100
+敞	chhiang2	100
+昶	chhiang2	100
+氅	chhiang2	100
+闡	chhiang2	100
+倡	chhiang3	200
+唱	chhiang3	100
+嬙	chhiang5	100
+檣	chhiang5	100
+爿	chhiang5	100
+萇	chhiang5	100
+薔	chhiang5	100
+釺	chhiang5	100
+長	chhiang5	100
+且	chhiann2	100
+請	chhiann2	500
 請和尙來讀經	chhiann2 hue5  sienn3 lai5 thak8  keng1	50
 請和尚來讀經	chhiann2 hue5  sienn3 lai5 thak8  keng1	100
 請汝教我	chhiann2 lur2 ka3 ua2	100
@@ -642,28 +1183,71 @@ sort: by_weight
 請等	chhiann2  tan2	100
 請安	chhiann2  uann1	100
 唱	chhie3	100
-笑	chhie3	200
+笑	chhie3	300
 唱曲	chhie3  khek4	100
 唱歌	chhie3  kua1	100
-尺	chhieh4	200
+呎	chhieh4	100
+尺	chhieh4	300
 淖	chhieh4	100
 淖淖	chhieh4  chhieh4	100
+席	chhieh8	100
+蓆	chhieh8	100
+切	chhiek4	100
+沏	chhiek4	100
+趄	chhiek4	100
+僉	chhiem1	100
+扦	chhiem1	100
+簽	chhiem1	100
+籤	chhiem1	100
+僭	chhiem3	100
+殲	chhiem5	100
+潜	chhiem5	100
+纖	chhiem5	100
 淺	chhien2	200
-槍	chhienn1	100
+芊	chhieng1	100
+躚	chhieng1	100
+遷	chhieng1	100
+阡	chhieng1	100
+韆	chhieng1	100
+淺	chhieng2	100
+槍	chhienn1	200
 鎗	chhienn1	150
 鯧魚	chhienn1  hur5	100
 鯧魚上減一尾愛百五錢	chhienn1  hur5 siang6  kiam2 chek8  bue2 ainn3 peh4  ngou6  chinn5	100
-搶	chhienn2	300
+搶	chhienn2	400
 搶剝	chhienn2  pak4	200
 墻	chhienn5	100
-象	chhienn6	100
+牆	chhienn5	100
+像	chhienn6	100
+橡	chhienn6	100
+象	chhienn6	200
 象牙	chhienn6  ge5	100
+匠	chhienn7	100
+搶	chhienn7	100
 搶目	chhienn7  mak8	100
+妾	chhiep4	100
+竊	chhiep4	100
 切切	chhiet4  chhiet4	100
 切要	chhiet4  iou3	100
-深	chhim1	200
+彳	chhih4	100
+蠘	chhih8	100
+七	chhik4	100
+拭	chhik4	100
+柒	chhik4	100
+深	chhim1	300
 深坑	chhim1  khenn1	100
 尋追踪跡	chhim1  tui1 chong1  chiah4	100
+寢	chhim2	100
+鋟	chhim2	100
+吣	chhim3	100
+沁	chhim3	100
+侵	chhim5	100
+尋	chhim5	100
+撏	chhim5	100
+潯	chhim5	100
+蕁	chhim5	100
+駸	chhim5	100
+鱘	chhim5	100
 親	chhin1	100
 親戚	chhin1  chhek4	200
 親像	chhin1  chhienn6	400
@@ -680,13 +1264,40 @@ sort: by_weight
 凊彩	chhin3  chhai2	200
 秤錘	chhin3  thui5	100
 臣	chhin5	100
-鮮	chhinn1	200
+親	chhing1	100
+凊	chhing3	100
+櫬	chhing3	100
+秤	chhing3	100
+襯	chhing3	100
+齔	chhing3	100
+秦	chhing5	100
+臣	chhing5	100
+螓	chhing5	100
+鮮	chhinn1	300
+侈	chhinn2	100
+恥	chhinn2	100
+眵	chhinn2	100
+齒	chhinn2	100
 To stir.	chhiou1	100
 𢲵	chhiou1	100
+俏	chhiou2	100
+嘲	chhiou2	100
+峭	chhiou2	100
+悄	chhiou2	100
+愀	chhiou2	100
+潲	chhiou2	100
+稍	chhiou2	100
+誚	chhiou2	100
 有權勢	chhiou3	100
-朝	chhiou5	100
+晁	chhiou5	100
+朝	chhiou5	200
 朝廷	chhiou5  theng5	200
-緝	chhip4	100
+戢	chhip4	100
+楫	chhip4	100
+緝	chhip4	200
+葺	chhip4	100
+蕺	chhip4	100
+輯	chhip4	100
 七	chhit4	100
 刷	chhit4	100
 拭	chhit4	200
@@ -694,13 +1305,28 @@ To stir.	chhiou1	100
 拭腳个蓑	chhit4  kha1 kai5 sui1	50
 拭跤个蓑	chhit4  kha1 kai5 sui1	12
 拭骹个蓑	chhit4  kha1 kai5 sui1	100
-秋	chhiu1	100
-鬚	chhiu1	100
+啾	chhiu1	100
+愀	chhiu1	100
+揪	chhiu1	100
+揫	chhiu1	100
+楸	chhiu1	100
+湫	chhiu1	100
+甃	chhiu1	100
+瞅	chhiu1	100
+秋	chhiu1	200
+萩	chhiu1	100
+鍬	chhiu1	200
+鞦	chhiu1	200
+鬚	chhiu1	200
+鰍	chhiu1	100
+鶖	chhiu1	100
 初一	chhiu1  it4	100
 初二	chhiu1  ji6	100
 初三	chhiu1  sann1	100
-手	chhiu2	300
+手	chhiu2	400
+掱	chhiu2	100
 贖	chhiu2	100
+醜	chhiu2	100
 手勿動着	chhiu2 mainn3  thang6   tieh8	100
 手指	chhiu2  chi2	200
 手指	chhiu2  choinn2	100
@@ -715,9 +1341,15 @@ To stir.	chhiou1	100
 手腕	chhiu2  uan2	100
 刷	chhiu3	200
 漱	chhiu3	100
+仇	chhiu5	100
+售	chhiu5	100
+囚	chhiu5	100
+犨	chhiu5	100
+讐	chhiu5	100
+酬	chhiu5	100
 仇人	chhiu5  nang5	100
 仇儂	chhiu5  nang5	50
-樹	chhiu7	100
+樹	chhiu7	200
 樹無露水袂活	chhiu7 bo5 lou7  chui2 boi6  uah8	100
 樹無露水𠀾活	chhiu7 bo5 lou7  chui2 boi6  uah8	50
 樹袂發	chhiu7 boi6  huat4	100
@@ -744,20 +1376,35 @@ To stir.	chhiou1	100
 床布佮手巾垃圾好換	chhng5  pou3 kah4 chhiu2  kurn1 nah4  sap4 ho2  uann7	100
 牀布佮手巾垃圾好換	chhng5  pou3 kah4 chhiu2  kurn1 nah4  sap4 ho2  uann7	50
 作	chho1	100
+初	chho1	200
 初頭下	chho1  thau5  e7	100
+楚	chho2	100
+礎	chho2	100
+草	chho2	200
 草倡	chho2  chhiang3	100
 草字	chho2  ji7	100
 草稿	chho2  ko2	100
 草略	chho2  liak8	100
-銼	chho3	100
-錯	chho3	600
+糙	chho3	100
+銼	chho3	200
+錯	chho3	700
+剉	chho5	100
+挫	chho5	100
+矬	chho5	100
+磋	chho5	100
+脞	chho5	100
+莝	chho5	100
+鋤	chho5	100
+鹺	chho5	100
 藏	chho7	100
 裝	chho7	100
 貯水	chho7 chui2	100
 貯雞湯个甌	chho7 koi1  thng1 kai5 au1	100
 貯鷄湯个甌	chho7 koi1  thng1 kai5 au1	50
 放衫褲个筐	chho7 sann1  khou3 kai5 kheng1	100
-撮	chhoh4	100
+撮	chhoh4	300
+仟	chhoinn1	100
+千	chhoinn1	100
 千里馬	chhoinn1 li2  be2	100
 〡一〡一千	chhoinn1 peh4 it4  chap8  it4	100
 千百一十一	chhoinn1 peh4 it4  chap8  it4	100
@@ -776,20 +1423,65 @@ To stir.	chhiou1	100
 〡二〇千	chhoinn1  ji6	100
 千二	chhoinn1  ji6	100
 千里鏡	chhoinn1  li2  kiann3	100
-筅	chhoinn2	400
+筅	chhoinn2	500
 筅好挈來	chhoinn2  ho2 khieh8   lai5	100
-蠶	chhoinn5	100
-冲	chhong1	100
+蠶	chhoinn5	200
+亍	chhok4	100
+促	chhok4	100
+戳	chhok4	200
+捉	chhok4	100
+斮	chhok4	100
+槭	chhok4	200
+矗	chhok4	100
+蠋	chhok4	100
+觸	chhok4	100
+蹙	chhok4	100
+蹴	chhok4	100
+躅	chhok4	100
+鐲	chhok4	100
+齪	chhok4	100
+充	chhong1	100
+冲	chhong1	200
+匆	chhong1	100
+忡	chhong1	100
+沖	chhong1	100
+种	chhong1	100
+翀	chhong1	100
+聰	chhong1	100
+茺	chhong1	100
+衝	chhong1	100
+衷	chhong1	100
+驄	chhong1	100
 充公	chhong1  kong1	200
 𭀚公	chhong1  kong1	100
 充軍	chhong1  kun1	100
 𭀚軍	chhong1  kun1	50
-從	chhong5	100
+衝	chhong3	100
+崇	chhong5	100
+從	chhong5	200
+蓯	chhong5	100
 從今以後	chhong5  kim1 inn2  au6	100
-粗	chhou1	300
+粗	chhou1	400
+觕	chhou1	100
 粗糠	chhou1  khng1	100
-醋	chhou3	100
-厝	chhu3	200
+揍	chhou3	100
+湊	chhou3	100
+簉	chhou3	100
+腠	chhou3	100
+輳	chhou3	100
+醋	chhou3	200
+愁	chhou5	100
+芻	chhu1	100
+趨	chhu1	100
+雛	chhu1	100
+騶	chhu1	100
+取	chhu2	100
+娶	chhu2	100
+措	chhu2	100
+處	chhu2	100
+厝	chhu3	300
+處	chhu3	100
+趣	chhu3	100
 厝漏	chhu3 lau7	100
 趣味	chhu3  bi7	300
 厝主	chhu3  chu2	200
@@ -801,6 +1493,9 @@ To stir.	chhiou1	100
 厝稅	chhu3  sue3	100
 厝頂	chhu3  teng2	100
 厝圖	chhu3  tou5	100
+滁	chhu5	100
+歪	chhua2	100
+蔡	chhua3	100
 娶	chhua7	100
 娶婦	chhua7  bou2	200
 娶走	chhua7  chau2	100
@@ -811,23 +1506,81 @@ To stir.	chhiou1	100
 全	chhuan5	200
 全愈	chhuan5  ju2	100
 全權	chhuan5  khuan5	100
+闖	chhuang2	100
+闖	chhuang3	100
 撞	chhuann3	100
+閂	chhuann3	100
 閂門	chhuann3  mng5	100
-吹	chhue1	100
-炊	chhue1	100
+吹	chhue1	200
+炊	chhue1	200
+髓	chhue2	100
+棰	chhue5	100
 箠	chhue5	200
 覓	chhue7	200
 覔	chhue7	100
 覓着	chhue7   tieh8	100
 覔着	chhue7   tieh8	50
-催	chhui1	200
+剟	chhuek4	100
+啜	chhuek4	100
+嘬	chhuek4	100
+惙	chhuek4	100
+掇	chhuek4	100
+綴	chhuek4	100
+蕞	chhuek4	100
+輟	chhuek4	100
+川	chhueng1	100
+皴	chhueng1	100
+穿	chhueng1	100
+喘	chhueng2	100
+湍	chhueng2	100
+串	chhueng3	100
+攛	chhueng3	100
+爨	chhueng3	100
+竄	chhueng3	100
+篡	chhueng3	100
+躥	chhueng3	100
+釧	chhueng3	100
+鑹	chhueng3	100
+全	chhueng5	100
+拴	chhueng5	100
+栓	chhueng5	100
+牷	chhueng5	100
+痊	chhueng5	100
+筌	chhueng5	100
+荃	chhueng5	100
+詮	chhueng5	100
+醛	chhueng5	100
+銓	chhueng5	100
+催	chhui1	300
+崔	chhui1	100
+推	chhui1	100
+搋	chhui1	100
+摧	chhui1	100
+璀	chhui1	100
+膪	chhui1	100
 催緊	chhui1  kin2	100
 催迫	chhui1  pek4	100
 催拚	chhui1  piann3	100
+惴	chhui2	100
+揣	chhui2	100
+撬	chhui2	100
+毳	chhui2	100
+脆	chhui2	100
+膗	chhui2	100
+踹	chhui2	100
+啐	chhui3	100
 喙	chhui3	100
-嘴	chhui3	50
+嘴	chhui3	150
+淬	chhui3	100
+碎	chhui3	100
+粹	chhui3	100
+綷	chhui3	100
+翠	chhui3	100
+觜	chhui3	100
 喙臨皮	chhui3  lim5  phue5	100
 嘴臨皮	chhui3  lim5  phue5	50
+出	chhuk4	100
+齣	chhuk4	100
 伸	chhun1	100
 春	chhun1	100
 寸	chhun3	100
@@ -835,9 +1588,40 @@ To stir.	chhiou1	100
 存	chhun5	100
 賰十四粒做粿	chhun5 chap8  si3 liap8 cho3  kue2	100
 賰十四粒做餜	chhun5 chap8  si3 liap8 cho3  kue2	50
+春	chhung1	100
+椿	chhung1	100
+忖	chhung2	100
+舛	chhung2	100
+荈	chhung2	100
+蠢	chhung2	100
+吋	chhung3	100
+寸	chhung3	100
+存	chhung5	100
+哧	chhur1	100
 舒	chhur1	100
-次	chhur3	100
-慈	chhur5	100
+呲	chhur2	100
+此	chhur2	100
+泚	chhur2	100
+跐	chhur2	100
+鼠	chhur2	100
+廁	chhur3	200
+次	chhur3	200
+茨	chhur3	100
+兹	chhur5	100
+徐	chhur5	200
+慈	chhur5	200
+疵	chhur5	100
+眦	chhur5	100
+磁	chhur5	100
+糍	chhur5	100
+茨	chhur5	100
+訾	chhur5	100
+雌	chhur5	100
+髭	chhur5	100
+村	chhurng1	100
+瘡	chhurng1	100
+艙	chhurng1	100
+牀	chhurng5	100
 出	chhut4	200
 出去	chhut4   khur3	100
 出簽	chhut4  chhiam1	100
@@ -855,7 +1639,28 @@ To stir.	chhiou1	100
 出所費	chhut4  so2  hui3	200
 出山	chhut4  suann1	100
 出痘	chhut4  tau7	100
+齏	chi1	100
+只	chi2	100
+咫	chi2	100
+址	chi2	100
 子	chi2	200
+指	chi2	100
+旨	chi2	100
+枳	chi2	100
+止	chi2	100
+沚	chi2	100
+濟	chi2	100
+祉	chi2	100
+秭	chi2	100
+笫	chi2	100
+紫	chi2	100
+芷	chi2	100
+茝	chi2	100
+詣	chi2	100
+趾	chi2	100
+酯	chi2	100
+鱭	chi2	100
+黹	chi2	100
 此三張挈去信關	chi2 sann1  tienn1 khieh8 khur3 sin3  kuan1	100
 此三張挈去信𨵿	chi2 sann1  tienn1 khieh8 khur3 sin3  kuan1	50
 此個借我	chi2   kai5 chieh4 ua2	100
@@ -899,19 +1704,58 @@ To stir.	chhiou1	100
 此張圓牀來徙放別塊	chi2  tienn1 inn5  chhng5 lai5 sua2 pang3 pat8  ko3	50
 此張信挈去餉關	chi2  tienn1 sin3 khieh8 khur3 hiang3  kuan1	100
 此張信挈去餉𨵿	chi2  tienn1 sin3 khieh8 khur3 hiang3  kuan1	50
-祭	chi3	100
+傺	chi3	100
+制	chi3	100
+劑	chi3	100
+幟	chi3	100
+志	chi3	100
+掣	chi3	100
+摯	chi3	100
+濟	chi3	100
+熾	chi3	100
+瘈	chi3	100
+瘛	chi3	100
+瘵	chi3	100
+祭	chi3	200
+至	chi3	100
+製	chi3	100
+誌	chi3	100
+識	chi3	100
+質	chi3	100
+贄	chi3	100
+躋	chi3	100
+躓	chi3	100
+際	chi3	100
+霽	chi3	100
+鷙	chi3	100
 濟貧	chi3  phin5	100
 䑛	chi6	100
-遮	chia1	100
+巳	chi6	100
+舐	chi6	100
+遮	chia1	200
 此個	chia2	100
+者	chia2	100
+赭	chia2	100
+鍺	chia2	100
 此唔是	chia2 m6  si6	50
 此毋是	chia2 m6  si6	100
 此我唔曉怎呢物	chia2 ua2 m6  hiou2 cho3  ninn5 mueh8	50
 此我毋曉怎呢物	chia2 ua2 m6  hiou2 cho3  ninn5 mueh8	100
 此天時怎好行	chia2   thinn1  si5 cho3  ho2  kiann5	100
+柘	chia3	100
+炙	chia3	100
+蔗	chia3	100
+跖	chia3	100
+鷓	chia3	100
+籍	chia6	100
+藉	chia6	100
+褯	chia6	100
+謝	chia7	100
+摭	chiah4	100
 跡	chiah4	100
-隻	chiah4	100
-食	chiah8	400
+迹	chiah4	100
+隻	chiah4	200
+食	chiah8	500
 食鴉片	chiah8  a1  phien3	100
 食齋	chiah8  che1	100
 食草	chiah8  chhau2	100
@@ -941,40 +1785,91 @@ To stir.	chhiou1	100
 食桌	chiah8  toh4	100
 食棹	chiah8  toh4	50
 食櫥	chiah8  tu5	100
+勺	chiak4	100
+嚼	chiak4	100
+妁	chiak4	100
+彴	chiak4	100
+杓	chiak4	100
+灼	chiak4	100
+爵	chiak4	100
+皭	chiak4	100
+芍	chiak4	100
+酌	chiak4	100
 尖	chiam1	200
 佔過	chiam3  kue3	100
 暫	chiam6	100
 漸漸	chiam6  chiam6	100
 暫時	chiam6  si5	100
+倀	chiang1	100
+嫜	chiang1	100
+將	chiang1	100
+張	chiang1	100
+弶	chiang1	100
+彰	chiang1	100
+漳	chiang1	100
+獐	chiang1	100
+璋	chiang1	100
+章	chiang1	200
+螿	chiang1	100
+蟑	chiang1	100
 將軍	chiang1  kun1	100
 將來	chiang1  lai5	100
+糨	chiang2	100
+長	chiang2	100
 掌管	chiang2  kuan2	100
 掌櫃	chiang2  kuinn7	100
+倀	chiang3	100
+將	chiang3	100
+嶂	chiang3	100
+幛	chiang3	100
+悵	chiang3	100
+漲	chiang3	100
+獎	chiang3	100
+瘴	chiang3	100
+脹	chiang3	100
+障	chiang3	100
+丈	chiang6	100
+仗	chiang6	100
+匠	chiang6	100
+杖	chiang6	100
 丈夫	chiang6  hu1	100
 丈地	chiang7  ti7	100
+晶	chiann1	100
+正	chiann1	100
 正月	chiann1   gueh8	100
 䭕	chiann2	200
+整	chiann2	100
+正	chiann2	100
 整理	chiann2  li2	300
-正	chiann3	100
+正	chiann3	200
+鉦	chiann3	100
 正手	chiann3  chhiu2	100
 正經	chiann3  keng1	100
 正直	chiann3  tit8	100
+成	chiann5	100
 接	chiap4	200
 捷	chiap8	100
 捷捷	chiap8  chiap8	100
-招	chie1	100
+招	chie1	300
+椒	chie1	100
+蕉	chie1	100
 招柑	chie1  kann1	100
 招牌	chie1  pai5	100
-少	chie2	200
+少	chie2	300
 此塊	chie2	100
 此塊排眠起早熱在	chie2 pai5  meng5  khi2  cha2 juah8  chai6	100
 此塊排眠起早爇在	chie2 pai5  meng5  khi2  cha2 juah8  chai6	50
 少有	chie2  u6	100
-照	chie3	200
+曌	chie3	100
+照	chie3	300
+醮	chie3	100
 照律	chie3  lut8	100
-借	chieh4	600
+借	chieh4	700
+質	chieh4	100
+鑕	chieh4	100
 借問	chieh4  mng7	100
-石	chieh8	300
+石	chieh8	400
+鼫	chieh8	100
 石鼠	chieh8  chhur2	100
 石灰	chieh8  hue1	100
 石膏	chieh8  ko1	100
@@ -982,73 +1877,208 @@ To stir.	chhiou1	100
 石碑	chieh8  pi1	100
 石部	chieh8  pou6	100
 石亭	chieh8  teng5	100
+即	chiek4	100
+唧	chiek4	100
+占	chiem1	100
+呫	chiem1	100
+尖	chiem1	100
+幨	chiem1	100
+漸	chiem1	100
+瞻	chiem1	100
+詹	chiem1	100
+譫	chiem1	100
+佔	chiem3	100
+占	chiem3	100
+暫	chiem6	100
+漸	chiem6	100
 煎	chien1	100
 戰	chien3	100
 戰船	chien3  chun5	100
 戰贏	chien3  iann5	200
 戰輸	chien3  su1	200
-漿	chienn1	200
+戔	chieng1	100
+旃	chieng1	100
+湔	chieng1	100
+濺	chieng1	100
+煎	chieng1	100
+箋	chieng1	100
+籛	chieng1	100
+膻	chieng1	100
+邅	chieng1	100
+韉	chieng1	100
+顫	chieng1	100
+鱣	chieng1	100
+剪	chieng2	100
+戩	chieng2	100
+殄	chieng2	100
+濺	chieng2	100
+燼	chieng2	100
+畛	chieng2	100
+疢	chieng2	100
+疹	chieng2	100
+縝	chieng2	100
+翦	chieng2	100
+診	chieng2	100
+謭	chieng2	100
+贐	chieng2	100
+趁	chieng2	100
+踐	chieng2	100
+軫	chieng2	100
+餞	chieng2	100
+餮	chieng2	100
+戰	chieng3	100
+顫	chieng3	100
+樟	chienn1	100
+漿	chienn1	300
 章	chienn1	100
 樟柴	chienn1  chha5	100
 樟栳	chienn1  lo2	100
-掌	chienn2	300
-槳	chienn2	100
+仉	chienn2	100
+掌	chienn2	400
+槳	chienn2	200
+礃	chienn2	100
+蔣	chienn2	100
 掌羊个人	chienn2  ienn5   kai5  nang5	100
 掌羊个儂	chienn2  ienn5   kai5  nang5	50
 巡更个人昨夜無掌	chienn2  kenn1   kai5  nang5 cha1  menn5 bo5 chienn2	100
 巡更个人昨暝無掌	chienn2  kenn1   kai5  nang5 cha1  menn5 bo5 chienn2	50
 巡更个儂昨夜無掌	chienn2  kenn1   kai5  nang5 cha1  menn5 bo5 chienn2	25
 巡更个儂昨暝無掌	chienn2  kenn1   kai5  nang5 cha1  menn5 bo5 chienn2	12
+醬	chienn3	100
 此樣生	chienn3  senn1	100
-上	chienn6	100
+上	chienn6	200
 癢	chienn6	100
 上旰	chienn6  kua3	100
 上目	chienn6  mak8	100
 上數	chienn6  siou3	100
-接	chih4	200
-摺	chih4	100
+婕	chiep8	100
+捷	chiep8	100
+洽	chiep8	100
+睫	chiep8	100
+箑	chiep8	100
+折	chih4	100
+接	chih4	400
+摺	chih4	200
+褶	chih4	100
 摺襊	chih4  chue7	100
-折	chih8	100
-舌	chih8	100
+折	chih8	200
+舌	chih8	200
+浙	chik4	100
+瘠	chik4	100
+織	chik4	100
+脊	chik4	100
+蹐	chik4	100
+鯽	chik4	100
+鶺	chik4	100
 唚	chim1	100
+斟	chim1	100
+箴	chim1	100
+枕	chim2	100
 枕頭	chim2  thau5	100
 枕頭亦着曝	chim2  thau5 ia7 tieh8 phak8	100
 枕頭囊	chim2  thau5  long5	100
 枕頭囊亦着排個禮拜換	chim2  thau5  long5 ia7 tieh8 pai5  kai5 loi2  pai3 uann7	100
-浸	chim3	100
+寖	chim3	100
+浸	chim3	200
 眞	chin1	150
 真	chin1	300
 眞實	chin1  sit8	150
 真實	chin1  sit8	300
 進	chin3	100
-氈	chinn1	200
+嗔	ching1	100
+榛	ching1	100
+津	ching1	100
+溱	ching1	100
+甄	ching1	100
+真	ching1	100
+瞋	ching1	100
+臻	ching1	100
+蓁	ching1	100
+薪	ching1	100
+拯	ching2	100
+振	ching2	100
+賑	ching2	100
+震	ching2	100
+搢	ching3	100
+晉	ching3	100
+洊	ching3	100
+牮	ching3	100
+縉	ching3	100
+薦	ching3	100
+進	ching3	100
+儘	ching6	100
+濜	ching6	100
+盡	ching6	100
+藎	ching6	100
+支	chinn1	100
+歧	chinn1	100
+氈	chinn1	300
+肢	chinn1	100
+脂	chinn1	100
 錢	chinn1	100
 氈帽	chinn1  bo7	100
-稚	chinn2	100
-箭	chinn3	100
+稚	chinn2	200
+擠	chinn3	100
+箭	chinn3	200
 箭靶	chinn3  pa2	100
-錢	chinn5	400
+錢	chinn5	500
 薺蔥	chinn5  chhang1	100
 錢紙	chinn5  chua2	100
 蠐龍	chinn5  leng5	100
 錢銀	chinn5  ngurn5	100
+剿	chiou1	100
+噍	chiou1	100
+憔	chiou1	100
+昭	chiou1	100
+朝	chiou1	100
+樵	chiou1	100
+焦	chiou1	100
+瞧	chiou1	100
+礁	chiou1	100
+蘸	chiou1	100
+譙	chiou1	100
+釗	chiou1	100
+鷦	chiou1	100
 招呼	chiou1  hu1	100
-鳥	chiou2	100
+嘦	chiou2	100
+鳥	chiou2	200
 鳥喙	chiou2  chhui3	100
 鳥嘴	chiou2  chhui3	50
+詔	chiou3	100
+執	chip4	100
+縶	chip4	100
 執意	chip4  i3	100
 執癖	chip4  phiah4	100
+嫉	chip8	100
+疾	chip8	100
+蒺	chip8	100
+集	chip8	100
+周	chiu1	100
+啁	chiu1	100
+州	chiu1	100
+惆	chiu1	100
+洲	chiu1	100
+盩	chiu1	100
+稠	chiu1	100
+舟	chiu1	100
+賙	chiu1	100
+週	chiu1	100
+鵃	chiu1	100
 週流	chiu1  liu5	100
+酒	chiu2	100
 酒鍾	chiu2  cheng1	100
 酒錢	chiu2  chinn5	100
 酒機	chiu2  kui2	100
 酒餅	chiu2  piann2	100
 酒杯	chiu2  pue1	100
-咒	chiu3	100
+咒	chiu3	200
 咒誓	chiu3  chua7	200
-就	chiu6	100
+僦	chiu6	100
+就	chiu6	200
+鷲	chiu6	100
 就是	chiu6  si6	100
 就是此樣生	chiu6  si6 chienn3  senn1	100
+闃	chiuh4	100
 磚	chng1	200
 裝	chng1	100
 磚窯	chng1  ie5	100
@@ -1060,9 +2090,12 @@ To stir.	chhiou1	100
 鑽空	chng3  khang1	100
 鑽仔	chng3  kiann2	100
 鑽囝	chng3  kiann2	200
-棗	cho2	100
-阻	cho2	200
-做	cho3	500
+佐	cho2	100
+俎	cho2	100
+左	cho2	100
+棗	cho2	200
+阻	cho2	300
+做	cho3	600
 做分人	cho3   pun1  nang5	100
 做分儂	cho3   pun1  nang5	50
 做賊	cho3  chhat8	100
@@ -1084,13 +2117,17 @@ To stir.	chhiou1	100
 做頭	cho3  thau5	100
 做桌	cho3  toh4	100
 做棹	cho3  toh4	50
-坐	cho6	200
+槽	cho5	100
+佐	cho6	100
+助	cho6	100
+坐	cho6	300
 造船	cho6  chun5	100
 坐酷久了	cho6  hoh4  ku2   lo7	100
 坐堂	cho6  tng5	100
 坐位	cho6  ui7	200
-座	cho7	100
-作	choh4	100
+座	cho7	200
+作	choh4	300
+撧	choh4	100
 作塍人	choh4  chhan5  nang5	25
 作塍儂	choh4  chhan5  nang5	12
 作田人	choh4  chhan5  nang5	100
@@ -1098,45 +2135,162 @@ To stir.	chhiou1	100
 作灰工	choh4  hue1  kang1	100
 作工	choh4  kang1	100
 作工課	choh4  khang1  khue3	100
+絕	choh8	100
 㩼	choi7	100
-節	choih4	100
-截	choih8	200
-前	choinn5	200
+節	choih4	300
+截	choih8	300
+前	choinn5	300
 前後	choinn5  au6	100
 前齒	choinn5  khi2	100
-族	chok8	100
+劚	chok4	100
+喌	chok4	100
+囑	chok4	100
+屬	chok4	100
+斸	chok4	100
+矚	chok4	100
+祝	chok4	100
+足	chok4	100
+嗾	chok8	100
+族	chok8	200
+簇	chok8	100
+鏃	chok8	100
+宗	chong1	100
+嵏	chong1	100
+樅	chong1	100
+淙	chong1	100
+琮	chong1	100
+終	chong1	100
+綜	chong1	100
+縱	chong1	100
+螽	chong1	100
+蹤	chong1	100
 終久	chong1  ku2	300
+傯	chong2	100
+總	chong2	100
+踵	chong2	100
 總簿	chong2  phou6	100
 總督	chong2  tok4	100
+瘲	chong3	100
+縱	chong3	100
 總是	chong3  si6	100
-租	chou1	200
+從	chong6	100
+租	chou1	300
+謅	chou1	100
+鄒	chou1	100
+陬	chou1	100
 租船	chou1  chun5	100
+祖	chou2	100
 祖母	chou2  bo2	100
 祖家信	chou2  ke1  sin3	100
 祖公	chou2  kong1	100
 祖父	chou2  pe6	100
-珠	chu1	200
+驟	chou6	100
+侏	chu1	100
+咀	chu1	100
+徂	chu1	100
+朱	chu1	100
+櫧	chu1	100
+櫫	chu1	100
+殂	chu1	100
+沮	chu1	100
+洙	chu1	100
+瀦	chu1	100
+狙	chu1	100
+珠	chu1	300
+疽	chu1	100
+硃	chu1	100
+組	chu1	100
+緅	chu1	100
+罝	chu1	100
+苴	chu1	100
+茱	chu1	100
+菹	chu1	100
+蛆	chu1	100
+詛	chu1	100
+諏	chu1	200
+諸	chu1	100
+趄	chu1	100
+邾	chu1	100
+銖	chu1	100
+雎	chu1	100
+駔	chu1	100
+齟	chu1	100
 朱布	chu1  pou3	100
 硃砂	chu1  sa1	100
-主	chu2	100
+主	chu2	200
+拄	chu2	100
+枓	chu2	100
 主意	chu2  i3	100
-鑄	chu3	100
+注	chu3	100
+疰	chu3	100
+蛀	chu3	100
+蠹	chu3	100
+註	chu3	100
+鑄	chu3	200
 鑄鐵	chu3  thih4	100
+住	chu6	100
+炷	chu6	100
+祚	chu6	100
+聚	chu6	100
+胙	chu6	100
+酢	chu6	100
+駐	chu6	100
+麈	chu6	100
+抓	chua1	100
+紙	chua2	100
 紙煤	chua2  bue5	100
 紙花	chua2  hue1	100
 紙字	chua2  ji7	100
 紙輪燈	chua2  luan2  teng1	100
 紙牌	chua2  pai5	100
-蛇	chua5	100
+蛇	chua5	200
 次次	chua7  chua7	100
 絀	chuah8	100
+濁	chuak8	100
+濯	chuak8	100
+蜀	chuak8	100
 專心	chuan1  sim1	100
-裝	chuang1	100
-泉	chuann5	200
-罪	chue6	200
+奘	chuang1	100
+妝	chuang1	100
+樁	chuang1	100
+裝	chuang1	200
+僮	chuang6	100
+噇	chuang6	100
+撞	chuang6	100
+狀	chuang6	100
+撾	chuann1	100
+琖	chuann2	100
+盞	chuann2	100
+泉	chuann5	300
+賤	chuann7	100
+最	chue3	100
+罪	chue6	300
 襊	chue7	100
+咄	chuek4	100
+拙	chuek4	100
+準	chuek4	100
+絀	chuek4	100
+茁	chuek4	100
+專	chueng1	100
+湍	chueng1	100
+遄	chueng1	100
+顓	chueng1	100
+囀	chueng2	100
+轉	chueng2	100
+賺	chueng3	100
+撰	chueng6	100
+饌	chueng6	100
 哺	chuh4	100
-水	chui2	100
+嘬	chuh4	100
+椎	chui1	100
+檇	chui1	100
+濉	chui1	100
+睢	chui1	100
+萑	chui1	100
+錐	chui1	100
+隹	chui1	100
+騅	chui1	100
+水	chui2	200
 水泉	chui2  chuann5	200
 水牛	chui2  gu5	100
 水烟	chui2  in1	50
@@ -1157,7 +2311,27 @@ To stir.	chhiou1	100
 水桶	chui2  thang2	100
 水抽	chui2  thiu1	100
 水土	chui2  thou2	100
+醉	chui3	100
+卒	chui6	100
+悴	chui6	100
+晬	chui6	100
+淬	chui6	100
+猝	chui6	100
+瘁	chui6	100
+祟	chui6	100
+粹	chui6	100
+綷	chui6	100
+膵	chui6	100
+萃	chui6	100
+贅	chui6	100
 脧核	chui6  hut8	100
+卒	chuk4	100
+帥	chuk4	100
+捽	chuk4	100
+摔	chuk4	100
+率	chuk4	100
+秫	chuk8	100
+糯	chuk8	100
 尊貴	chun1  kui3	100
 準	chun2	100
 船	chun5	100
@@ -1182,6 +2356,59 @@ To stir.	chhiou1	100
 船鎮中	chun5  tin3  tang1	100
 捘	chun6	100
 捘掉	chun6  tiou3	100
+尊	chung1	100
+撙	chung1	100
+樽	chung1	100
+蹲	chung1	100
+遵	chung1	100
+鱒	chung1	100
+准	chung2	100
+準	chung2	100
+隼	chung2	100
+俊	chung3	100
+圳	chung3	100
+峻	chung3	100
+捘	chung3	100
+朘	chung3	100
+浚	chung3	100
+濬	chung3	100
+狻	chung3	100
+竣	chung3	100
+逡	chung3	100
+鐫	chung3	100
+隽	chung3	100
+餕	chung3	100
+駿	chung3	100
+鵕	chung3	100
+船	chung5	100
+之	chur1	100
+兹	chur1	100
+咨	chur1	100
+啙	chur1	100
+姿	chur1	100
+孖	chur1	100
+孜	chur1	100
+孳	chur1	100
+嵫	chur1	100
+書	chur1	100
+氏	chur1	200
+淄	chur1	100
+滋	chur1	100
+粢	chur1	100
+緇	chur1	100
+耔	chur1	100
+芝	chur1	100
+菑	chur1	200
+諮	chur1	100
+貲	chur1	100
+資	chur1	100
+賫	chur1	100
+趑	chur1	100
+輜	chur1	100
+錙	chur1	100
+鷀	chur1	100
+鼒	chur1	100
+齜	chur1	100
 書齋	chur1  che1	100
 書冊	chur1  chheh4	100
 書院	chur1  inn7	100
@@ -1196,18 +2423,42 @@ To stir.	chhiou1	100
 諸娘仔	chur1  nienn5  kiann2	100
 諸娘囝	chur1  nienn5  kiann2	200
 書櫥	chur1  tu5	100
-煮	chur2	200
+仔	chur2	100
+子	chur2	100
+梓	chur2	100
+煮	chur2	300
+籽	chur2	200
+耔	chur2	100
 煮食	chur2  chiah8	100
 仔細	chur2  soi3	200
+恣	chur3	100
+滋	chur3	100
+漬	chur3	100
+胔	chur3	100
+薯	chur5	100
+自	chur6	100
 自盡	chur6  chin6	200
 自然	chur6  jien5	100
 自來火	chur6  lai5  hue2	100
-啞	e2	200
+嗻	churh8	100
+磚	churng1	100
+贜	churng1	100
+葬	churng3	100
+𠿺	churng3	100
+狀	churng7	100
+啞	e1	100
+揶	e1	100
+耶	e1	100
+誒	e1	100
+啞	e2	300
+耶	e5	200
 下日汝唔孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	50
 下日汝毋孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	100
 下日爾唔孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	12
 下日爾毋孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	25
-下	e6	100
+下	e6	200
+吓	e6	100
+廈	e6	100
 下次船我就愛去	e6  chua7  chun5 ua2 chiu6  ainn3  khur3	100
 下水	e6  chui2	100
 下頦	e6  hai5	200
@@ -1216,10 +2467,58 @@ To stir.	chhiou1	100
 下日伊正毋敢	e6  jit8 i1 chiann3  m6  kann2	100
 下旰	e6  kua3	100
 下下	e7  e7	200
-譯	ek8	100
+厄	eh4	100
+嗌	eh4	100
+扼	eh4	100
+軛	eh4	100
+阨	eh4	100
+隘	eh4	100
+溢	ek4	100
+肊	ek4	100
+臆	ek4	100
+鎰	ek4	100
+億	ek8	100
+埸	ek8	100
+奕	ek8	100
+嶧	ek8	100
+弈	ek8	100
+弋	ek8	100
+憶	ek8	100
+懌	ek8	100
+掖	ek8	100
+斁	ek8	100
+易	ek8	200
+液	ek8	100
+溢	ek8	100
+繹	ek8	100
+翊	ek8	100
+翌	ek8	100
+翼	ek8	100
+聿	ek8	100
+腋	ek8	100
+蜴	ek8	100
+譯	ek8	200
+霱	ek8	100
 浴布	ek8  pou3	100
+嚶	eng1	100
+嬰	eng1	100
+應	eng1	100
+攖	eng1	100
+櫻	eng1	100
 烟	eng1	50
 煙	eng1	100
+瑛	eng1	100
+瓔	eng1	100
+癭	eng1	100
+纓	eng1	100
+罃	eng1	100
+罌	eng1	100
+膺	eng1	100
+英	eng1	100
+霙	eng1	100
+鶯	eng1	100
+鷹	eng1	100
+鸚	eng1	100
 鸚歌	eng1  ko1	100
 英國人就曉	eng1  kok4  nang5 chiu6  hiou2	100
 英國儂就曉	eng1  kok4  nang5 chiu6  hiou2	50
@@ -1227,16 +2526,19 @@ To stir.	chhiou1	100
 烟塵	eng1  teng5	50
 煙塵	eng1  teng5	100
 湧	eng2	100
+應	eng3	100
 應該	eng3  kai1	100
 應該得	eng3  kai1  tit4	100
 延遲	eng5  ti1	100
-用	eng7	200
+用	eng7	300
 用柴通間內烟	eng7 chha5 thong1  koinn1  lai6 hun1	50
 用柴通間內煙	eng7 chha5 thong1  koinn1  lai6 hun1	100
 用雞毛抹	eng7 koi1  monn5 buah4	100
 用鷄毛抹	eng7 koi1  monn5 buah4	50
 用伍牲來奉	eng7 ngou2  senn1 lai5  hong6	100
+楹	enn5	100
 樑	enn5	100
+礙	gai7	100
 賢	gau2	100
 𠢕	gau2	50
 賢	gau5	200
@@ -1247,18 +2549,38 @@ To stir.	chhiou1	100
 賢儂	gau5  nang5	50
 𠢕人	gau5  nang5	25
 𠢕儂	gau5  nang5	12
-牙	ge5	300
+樂	gauh8	100
+枒	ge2	100
+牙	ge5	400
+芽	ge5	100
+蚜	ge5	100
+衙	ge5	100
+釾	ge5	100
 蜈蚣	ge5  kang1	100
 衙門	ge5  mng5	200
 牙頭齒	ge5  thau5  khi2	200
-玉	gek8	200
+砑	ge7	100
+獄	gek8	100
+玉	gek8	300
+鈺	gek8	100
 疑	gi1	100
-疑	gi5	100
-鵝	go5	100
-餓	go7	100
+嶷	gi5	100
+疑	gi5	200
+訝	gia3	100
+迓	gia3	100
+琊	gia5	100
+鵝	go5	200
+餓	go7	200
+倪	goi5	100
+囈	goi7	100
+蓺	goi7	100
+藝	goi7	100
+吳	gou5	100
+蜈	gou5	100
+誤	gou7	100
 誤着人个事	gou7   tieh8 nang5  kai5  sur7	100
 誤着儂个事	gou7   tieh8 nang5  kai5  sur7	50
-牛	gu5	100
+牛	gu5	200
 牛肉	gu5  bah4	100
 牛羊	gu5  ienn5	100
 牛角	gu5  kak4	100
@@ -1271,6 +2593,7 @@ To stir.	chhiou1	100
 牛屎	gu5  sai2	100
 牛担彎	gu5  tann1  uan1	50
 牛擔彎	gu5  tann1  uan1	100
+外	gua7	100
 外女孫	gua7  chau2  sun1	100
 外國人	gua7  kok4  nang5	100
 外國儂	gua7  kok4  nang5	50
@@ -1279,7 +2602,8 @@ To stir.	chhiou1	100
 外甥	gua7  seng1	100
 外甥女	gua7  seng1  nng2	100
 外孫	gua7  sun1	100
-月	gueh8	200
+刖	gueh8	100
+月	gueh8	300
 月無日彼樣光	gueh8 bo5 jit8 hienn3  kng1	100
 月小	gueh8 sie2	100
 月蝕	gueh8 sih8	100
@@ -1289,11 +2613,27 @@ To stir.	chhiou1	100
 月記	gueh8  ki3	100
 月仔	gueh8  kiann2	50
 月囝	gueh8  kiann2	100
+魏	gui7	100
+語	gur2	100
+御	gur6	100
+禦	gur6	100
+馭	gur6	100
+御	gur7	100
+哈	ha1	100
+孝	ha3	200
 縖	ha5	100
-合	hah8	300
+哈	hah4	100
+瓣	hah4	100
+餄	hah4	100
+合	hah8	400
+鉿	hah8	100
 合埋	hah8  bua5	50
 合摩	hah8  bua5	100
-海	hai2	100
+咳	hai1	100
+嗨	hai1	100
+嘿	hai1	100
+嗐	hai2	100
+海	hai2	200
 海賊	hai2  chhat8	100
 海風潮	hai2  huang1  tie5	100
 海茸	hai2  jong5	100
@@ -1302,75 +2642,272 @@ To stir.	chhiou1	100
 海墘有儂行	hai2  kinn5 u6 nang5 kiann2	50
 海嶼	hai2  sur6	100
 海圖	hai2  tou5	100
+孩	hai5	100
+徊	hai5	100
+諧	hai5	100
+頦	hai5	100
+駭	hai5	100
+骸	hai5	100
+亥	hai6	100
+咳	hai6	100
+廨	hai6	100
+懈	hai6	100
+械	hai6	100
+氦	hai6	100
+瀣	hai6	100
+痎	hai6	100
+薤	hai6	100
+解	hai6	100
+邂	hai6	100
+閡	hai6	100
 駭異	hai6  i6	100
-害	hai7	100
+害	hai7	200
 害了	hai7   lo7	100
+劐	hak4	100
+喝	hak4	200
+壑	hak4	100
+曷	hak4	100
+洫	hak4	100
+涸	hak4	100
+瞎	hak4	100
+耠	hak4	100
+褐	hak4	100
+謁	hak4	100
+豁	hak4	100
+轄	hak4	100
+遏	hak4	100
+郝	hak4	100
+鞨	hak4	100
+鶡	hak4	100
+學	hak8	100
+嶨	hak8	100
 學生	hak8  seng1	200
 學習	hak8  sip8	100
-蚶	ham1	100
+憨	ham1	100
+蚶	ham1	200
+邯	ham1	100
+酣	ham1	100
 撼	ham2	100
 撼掉	ham2  tiou3	100
-喊	ham3	200
+喊	ham3	300
 叫伊猛猛來沃花	ham3 i1 menn2  menn2 lai5 ak4  hue1	100
 呌伊猛猛來沃花	ham3 i1 menn2  menn2 lai5 ak4  hue1	50
 喊伊着恬恬	ham3 i1 tieh8 tiam7  tiam7	100
+函	ham5	100
+含	ham5	100
+咸	ham5	100
+啣	ham5	100
+晗	ham5	100
+浛	ham5	100
+涵	ham5	100
+菡	ham5	100
+銜	ham5	100
+頷	ham5	100
 銜瓏術	ham5  lam5  sut8	100
+憾	ham6	100
+撼	ham6	100
+陷	ham7	100
 罕得	han2  tit4	100
 罕得有	han2  tit4 u6	100
 寒暑針	han5  su2  cham1	100
 限	han6	100
 烘	hang1	100
+熯	hang1	100
+頇	hang1	100
 魴龜	hang1  ku1	100
-行	hang5	400
-降	hang5	100
+悍	hang2	100
+捍	hang2	100
+旰	hang2	100
+汗	hang2	100
+瀚	hang2	100
+焊	hang2	100
+稈	hang2	100
+罕	hang2	100
+翰	hang2	100
+鼾	hang2	100
+夯	hang3	100
+漢	hang3	100
+夯	hang5	100
+寒	hang5	100
+杭	hang5	100
+桁	hang5	200
+汗	hang5	100
+沆	hang5	100
+瀚	hang5	100
+珩	hang5	100
+絎	hang5	100
+翰	hang5	100
+航	hang5	100
+行	hang5	600
+迒	hang5	100
+邗	hang5	100
+降	hang5	200
+韓	hang5	100
+頏	hang5	100
 行情	hang5  chheng5	200
 降服	hang5  hok8	100
-項	hang6	100
-巷	hang7	100
+限	hang6	100
+項	hang6	200
+巷	hang7	200
 巷仔	hang7  kiann2	50
 巷囝	hang7  kiann2	100
 黃昏	hann2  hun1	100
 合	hap8	100
+峽	hap8	100
 合約	hap8  ieh4	100
 合同	hap8  tang2	100
 合同	hap8  tang5	200
+哮	hau1	100
+嗥	hau1	100
+嚆	hau1	100
+嚎	hau1	100
+枵	hau1	100
+滈	hau1	100
+猇	hau1	100
+蒿	hau1	100
+薅	hau1	100
+號	hau1	100
+酵	hau1	100
+鎬	hau1	100
+饕	hau1	100
+鴞	hau1	200
+齁	hau1	100
+吼	hau2	100
+昊	hau2	100
+浩	hau2	100
+灝	hau2	100
+皓	hau2	100
+顥	hau2	100
+壕	hau5	100
+毫	hau5	100
+濠	hau5	100
+豪	hau5	100
+校	hau6	100
 後生	hau6  senn1	100
+候	hau7	100
+効	hau7	100
+效	hau7	100
+鱟	hau7	100
 鱟殼扇	hau7  khak4  sinn3	100
 鱟伯策	hau7  peh4  chheh4	100
 允	haunn3	100
-好	haunn3	500
+好	haunn3	600
 好赫个人	haunn3  hehnn2   kai5  nang5	100
 好赫个儂	haunn3  hehnn2   kai5  nang5	50
-蝦	he5	100
+蝦	he5	200
 蝦米	he5  bi2	100
 許	he6	100
 下貨	he6  hue3	100
 許願	he6  nguan6	100
-夏	he7	100
+夏	he7	200
+廈	he7	100
 夏天就熱	he7   thinn1 chiu6  juah8	100
 夏天就爇	he7   thinn1 chiu6  juah8	50
 夏至	he7  chi3	100
-嚇	heh4	100
+吓	heh4	100
+嚇	heh4	200
 嚇驚	heh4  kiann1	100
 嚇一下叫	hehnn1   che7  kie3	100
 嚇一下呌	hehnn1   che7  kie3	50
+劾	hek4	100
+核	hek4	100
+滆	hek4	100
+覈	hek4	100
+覡	hek4	100
+赩	hek4	100
+赫	hek4	100
+閡	hek4	100
+鬩	hek4	100
+黑	hek4	100
 乏	hek8	200
+亨	heng1	100
+哼	heng1	200
+胸	heng1	100
+脝	heng1	100
+興	heng1	100
+馨	heng1	100
 興盛	heng1  seng6	100
 興旺	heng1  uang6	100
+擤	heng2	100
+興	heng3	100
+刑	heng5	100
+型	heng5	100
+形	heng5	100
+恆	heng5	100
+王	heng5	100
+硎	heng5	100
+陘	heng5	100
 行李	heng5  li2	200
+倖	heng6	100
+孕	heng6	100
+幸	heng6	100
+悻	heng6	100
+杏	heng6	100
+莕	heng6	100
+行	heng6	100
+僖	hi1	100
+兮	hi1	100
+唏	hi1	100
+嘻	hi1	100
+嬉	hi1	100
+巇	hi1	100
+希	hi1	100
+晞	hi1	100
+曦	hi1	100
+欷	hi1	100
+浠	hi1	100
+烯	hi1	100
+熙	hi1	100
+熹	hi1	100
+犧	hi1	100
+禧	hi1	100
+稀	hi1	100
+絺	hi1	100
+羲	hi1	100
+郗	hi1	100
+醯	hi1	100
+頤	hi1	100
 戲仔	hi1  kiann2	50
 戲囝	hi1  kiann2	100
-戲	hi3	200
+喜	hi2	100
+蟢	hi2	100
+屓	hi3	100
+戲	hi3	300
 戲腳	hi3  kieh4	100
 戲棚	hi3  penn5	100
 戲旦	hi3  tuann3	100
-靴	hia1	200
+奚	hi5	100
+蠵	hi5	100
+豀	hi5	100
+蹊	hi5	100
+鼷	hi5	100
+係	hi6	100
+勩	hi6	100
+拽	hi6	100
+攜	hi6	100
+曳	hi6	100
+禊	hi6	100
+系	hi6	100
+繫	hi6	100
+跩	hi6	100
+靴	hia1	300
 彼個	hia2	100
 彼就是	hia2 chiu6  si6	100
 彼個挈分我	hia2 khieh8  pun1 ua2	100
+暇	hia3	100
+罅	hia3	100
+瑕	hia5	100
+遐	hia5	100
+霞	hia5	100
+下	hia6	100
+瓦	hia6	100
+蟻	hia6	100
+瓦	hia7	100
 蟻	hia7	100
-歇	hiah4	600
+歇	hiah4	700
 歇恬	hiah4  tiam7	100
+役	hiah8	100
+額	hiah8	100
 額門神	hiah8  mng5  sin5	100
 薟	hiam1	100
 薟椒	hiam1  chie1	100
@@ -1382,31 +2919,68 @@ To stir.	chhiou1	100
 險險	hiam2  hiam2	100
 嫌	hiam5	100
 𭒡	hiam5	50
+香	hiang1	200
 香港有大行	hiang1  kang2 u6 tua7  hang5	100
+享	hiang2	100
 响	hiang2	200
-向	hiang3	100
-餉	hiang3	300
+嚮	hiang2	100
+響	hiang2	100
+饗	hiang2	100
+向	hiang3	200
+嚮	hiang3	100
+垧	hiang3	100
+晌	hiang3	100
+餉	hiang3	400
 餉關	hiang3  kuan1	100
 餉𨵿	hiang3  kuan1	50
 餉粮	hiang3  nienn5	50
 餉糧	hiang3  nienn5	100
 餉牌	hiang3  pai5	100
+兄	hiann1	100
 兄弟	hiann1  ti6	200
 兄弟仔	hiann1  ti6  kiann2	50
 兄弟囝	hiann1  ti6  kiann2	100
 燃	hiann5	100
+邢	hiann5	100
+顏	hiann5	100
 燃柴	hiann5  chha5	100
 燃火个人	hiann5  hue2   kai5  nang5	100
 燃火个儂	hiann5  hue2   kai5  nang5	50
 燃伙食	hiann5  hue2  sit8	100
 燃塗炭	hiann5  thou5  thuann3	100
+艾	hiann7	100
 葉鍱	hiap8  tiap8	100
 彼塊	hie2	100
-葉	hieh8	100
-頁	hieh8	100
+葉	hieh8	200
+頁	hieh8	200
+蠍	hiek4	100
+險	hiem2	100
+嫌	hiem5	100
+慊	hiem5	100
 顯微鏡	hien2  muinn5  kiann3	200
 羶	hien7	100
 現錢	hien7  chinn5	100
+掀	hieng1	200
+顯	hieng2	100
+俔	hieng3	100
+峴	hieng3	100
+憲	hieng3	100
+獻	hieng3	100
+睍	hieng3	100
+絢	hieng3	100
+讞	hieng3	100
+釁	hieng3	100
+嫻	hieng5	100
+泫	hieng5	100
+炫	hieng5	100
+玄	hieng5	100
+痃	hieng5	100
+癇	hieng5	100
+舷	hieng5	100
+蚿	hieng5	100
+衒	hieng5	100
+賢	hieng5	100
+鄉	hienn1	100
 香	hienn1	200
 香柴	hienn1  chha5	100
 鄉下人	hienn1  e6  nang5	200
@@ -1419,15 +2993,33 @@ To stir.	chhiou1	100
 香料	hienn1  liou7	100
 香爐	hienn1  lou5	100
 彼樣生	hienn3  senn1	100
+俠	hiep8	100
+協	hiep8	100
+叶	hiep8	100
+夾	hiep8	100
+挾	hiep8	100
+浹	hiep8	100
+狹	hiep8	100
+硤	hiep8	100
+脅	hiep8	100
+蛺	hiep8	100
+陜	hiep8	100
 蝎仔	hiet4  kiann2	50
 蝎囝	hiet4  kiann2	100
+歆	him1	100
 熊	him1	100
+鑫	him1	100
+熊	him5	100
 眩	hin5	200
 眩船	hin5  chun5	100
 現在	hin7  chai6	200
 現時在臺灣塊有相刣	hin7  si5 to6 tai5  uan5   ko7 u6 sie1  thai5	100
+暈	hing5	100
+眩	hing5	200
+現	hing7	100
+見	hing7	100
 搖掉	hinn3  tiou3	100
-弦	hinn5	100
+弦	hinn5	200
 弦線	hinn5  suann3	100
 耳	hinn6	200
 耳聾	hinn6 lang5	100
@@ -1435,22 +3027,76 @@ To stir.	chhiou1	100
 耳環	hinn6  huan5	100
 耳鈎	hinn6  kau1	100
 耳空	hinn6  khang1	100
+勖	hiok4	100
+或	hiok4	100
+旭	hiok4	100
+昱	hiok4	100
+毓	hiok4	100
+煜	hiok4	100
+燠	hiok4	100
+郁	hiok4	100
+隩	hiok4	100
+頊	hiok4	100
+馥	hiok4	100
+兇	hiong1	100
+凶	hiong1	100
+匈	hiong1	100
+汹	hiong1	100
 雄	hiong3	100
-雄	hiong5	100
-僥	hiou1	100
+雄	hiong5	200
+僥	hiou1	200
+嘵	hiou1	100
+梟	hiou1	100
+邀	hiou1	100
+驍	hiou1	100
 僥情絕義	hiou1  chheng5 choh8  ngi6	100
 僥心	hiou1  sim1	200
-曉	hiou2	200
+曉	hiou2	300
 曉情理	hiou2  chheng5  li2	100
-歙	hip4	100
-翕	hip4	200
+嬲	hiou5	100
+歙	hip4	200
+翕	hip4	300
 翕死	hip4  si2	200
+休	hiunn1	100
+咻	hiunn1	100
+幽	hiunn1	100
+庥	hiunn1	100
+悠	hiunn1	100
+攸	hiunn1	100
+貅	hiunn1	100
+髹	hiunn1	100
+鵂	hiunn1	100
+麀	hiunn1	100
+朽	hiunn2	100
+嗅	hiunn3	100
+復	hiunn3	100
+溴	hiunn3	100
+糗	hiunn3	100
+臭	hiunn3	100
 裘	hiunn5	200
+勛	hng1	100
+昕	hng1	100
+曛	hng1	100
+欣	hng1	100
+殷	hng1	100
+燻	hng1	100
+薰	hng1	100
+軒	hng1	100
+醺	hng1	100
+鍁	hng1	100
 哼謒	hng1  chhan1	100
+哼	hng2	100
+啈	hng2	100
+很	hng2	100
+狠	hng2	100
+園	hng5	100
 園籬	hng5  li5	200
+恨	hng6	100
 遠	hng6	100
+𠮾	hng7	100
 抹鼻薰	hngh4  phinn7  hun1	100
-好	ho2	700
+呵	ho1	100
+好	ho2	800
 好過	ho2   kue3	100
 好了	ho2   lo7	100
 好價	ho2  ke3	100
@@ -1459,12 +3105,21 @@ To stir.	chhiou1	100
 好趁	ho2  than3	100
 好看	ho2  thoinn2	100
 好睇	ho2  thoinn2	200
-河	ho5	200
+囮	ho3	100
+耗	ho3	100
+荷	ho3	100
+訛	ho3	100
+何	ho5	100
+和	ho5	200
+河	ho5	300
+荷	ho5	100
 荷蘭薯	ho5  lan5  chur5	100
 荷蘭西个兵來未齊	ho5  lan5  se1 kai5  piann1 lai5 bue7  choi5	100
 荷蘭豆	ho5  lan5  tau7	100
 荷包	ho5  pau1	100
-號	ho7	200
+和	ho6	100
+號	ho7	300
+賀	ho7	100
 號頭	ho7  thau5	100
 酷㩼日無沃	hoh4  choi7 jit8 bo5  ak4	100
 酷久咱此塊唔捌有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	3
@@ -1474,52 +3129,235 @@ To stir.	chhiou1	100
 酷久咱此塊毋識有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	100
 酷久咱此塊毋𧧸有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	50
 翕小影	hoh4  siou2  iann2	100
-鶴	hoh8	100
-蟹	hoi6	100
+福	hoh8	100
+鶴	hoh8	200
+蟹	hoi6	200
+蜆	hoinn2	100
 還	hoinn5	200
 闔	hoinn6	100
+莧	hoinn7	100
+復	hok4	100
+福	hok4	100
+蝠	hok4	100
+蝮	hok4	100
+複	hok4	100
+輻	hok4	100
 福氣	hok4  khi3	200
-服	hok8	200
+伏	hok8	100
+域	hok8	100
+復	hok8	100
+惑	hok8	100
+或	hok8	100
+斛	hok8	100
+服	hok8	300
+棫	hok8	100
+槲	hok8	100
+洑	hok8	100
+縠	hok8	100
+茯	hok8	100
+菔	hok8	100
+蔛	hok8	100
+蜮	hok8	100
+袱	hok8	100
+覆	hok8	100
+鰒	hok8	100
 服色	hok8  sek4	200
 復轉	hok8  tng2	100
+丰	hong1	100
+哄	hong1	100
+封	hong1	100
+峯	hong1	100
+灃	hong1	100
+烽	hong1	100
+葑	hong1	100
+諷	hong1	100
+豐	hong1	100
+轟	hong1	100
+酆	hong1	100
+鋒	hong1	100
+風	hong1	200
 風險	hong1  hiam2	200
 風聲	hong1  siann1	100
 風俗	hong1  sok8	100
+俸	hong2	100
+唪	hong2	100
+捧	hong2	100
+蚌	hong2	100
 俸祿	hong2  lok8	100
+哄	hong3	100
+蕻	hong3	100
+訌	hong3	100
+諷	hong3	100
+賵	hong3	100
+閧	hong3	100
+宏	hong5	100
+弘	hong5	100
+泓	hong5	100
+洪	hong5	100
+烘	hong5	100
+紘	hong5	100
+虹	hong5	100
+逢	hong5	100
+鴻	hong5	100
 奉	hong6	200
-鳳	hong6	100
+鳳	hong6	200
 奉養	hong6  iang2	100
 奉教	hong6  ka3	100
+轟	hong7	100
+戽	hou3	100
+侯	hou5	100
+堠	hou5	100
+瘊	hou5	100
+篌	hou5	100
+糇	hou5	100
+葫	hou5	100
 胡椒	hou5  chie1	100
 蜈蜞	hou5  khi5	100
 狐狸	hou5  lai5	100
 胡蠅	hou5  sin5	100
 蝴蠅	hou5  sin5	50
 侯蠅屎痣	hou5  sin5  sai2  ki3	100
+后	hou6	100
+戶	hou6	100
+逅	hou6	100
 雨	hou6	100
+骺	hou6	100
 雨愛來	hou6 ainn3  lai5	100
 雨定着是大	hou6 tiann7  tieh8 si6 tua7	100
 雨仔	hou6  kiann2	50
 雨囝	hou6  kiann2	100
 雨傘	hou6  suann3	100
-虎	hounn2	100
+不	hounn2	100
+否	hounn2	100
+唬	hounn2	100
+琥	hounn2	100
+虎	hounn2	200
 虎牢	hounn2  lo5	100
+乎	hu1	100
+伕	hu1	100
+俘	hu1	100
+呼	hu1	100
+嘑	hu1	100
+夫	hu1	100
+孚	hu1	100
+孵	hu1	100
+敷	hu1	100
+枹	hu1	100
+桴	hu1	100
+滹	hu1	100
+砆	hu1	100
+罅	hu1	100
+腐	hu1	100
+膚	hu1	100
+莩	hu1	100
+虖	hu1	100
+蜉	hu1	100
+衭	hu1	100
+趺	hu1	100
+跗	hu1	100
+郛	hu1	100
+鄜	hu1	100
+鈇	hu1	100
+麩	hu1	100
 夫人	hu1  jin5	100
-府	hu2	200
+俯	hu2	100
+府	hu2	300
 敷	hu2	100
+栩	hu2	100
+滏	hu2	100
+滸	hu2	100
+父	hu2	100
+甫	hu2	100
+腑	hu2	100
+釜	hu2	100
 捬着	hu2   tieh8	100
 附着垃圾	hu2   tieh8 nah4  sap4	100
 府太爺	hu2  thai3  ia5	100
 捬着垃圾	hu2  tieh8 nah4  sap4	200
-副	hu3	200
+仆	hu3	100
+付	hu3	100
+傅	hu3	100
+副	hu3	300
+咐	hu3	100
+拊	hu3	100
+訃	hu3	100
+賦	hu3	100
+賻	hu3	100
+赴	hu3	100
+附	hu3	100
+駙	hu3	100
 付托	hu3  thoh4	100
-扶	hu5	200
-符	hu5	100
+互	hu5	100
+壺	hu5	100
+弧	hu5	100
+扶	hu5	300
+狐	hu5	100
+猢	hu5	100
+瑚	hu5	100
+符	hu5	200
+糊	hu5	100
+胡	hu5	100
+芙	hu5	100
+苻	hu5	100
+蚨	hu5	100
+蝴	hu5	100
+餬	hu5	100
+鬍	hu5	100
+鳧	hu5	100
+鶘	hu5	100
+冱	hu6	100
+婦	hu6	100
+岵	hu6	100
+怙	hu6	100
+扈	hu6	100
+沍	hu6	100
+滬	hu6	100
+煦	hu6	100
+祜	hu6	100
+穫	hu6	100
+蝜	hu6	100
+護	hu6	100
+負	hu6	100
+輔	hu6	100
+鄠	hu6	100
+酗	hu6	100
+阜	hu6	100
+鮒	hu6	100
+黼	hu6	100
+乎	hu7	100
+腐	hu7	100
+划	hua1	100
+嘩	hua1	100
+花	hua1	200
+華	hua1	200
+驊	hua1	100
 和	hua5	300
+樺	hua5	100
+禾	hua5	100
+華	hua5	100
+鏵	hua5	100
 和約	hua5  ieh4	100
+禍	hua6	100
+劃	huah4	100
 呵呬	huah4  hi3	100
 伐	huah8	100
 步	huah8	100
+懷	huai5	100
+槐	huai5	100
+淮	huai5	100
+隗	huai5	100
+壞	huai6	100
+氾	huam3	100
+汎	huam3	100
+泛	huam3	100
+凡	huam5	100
+樊	huam5	200
+凡	huam6	100
+患	huam6	100
+犯	huam6	100
+範	huam6	100
+范	huam6	100
+釩	huam6	100
 犯罪	huam6  chue6	200
 犯人	huam6  jin5	100
 犯律	huam6  lut8	200
@@ -1559,7 +3397,20 @@ To stir.	chhiou1	100
 還了未知	huan5  liou2 bue7  chai1	200
 還了有	huan5  liou2 u6	100
 煩惱	huan5  lo2	400
+坊	huang1	100
+塃	huang1	100
 封	huang1	200
+慌	huang1	100
+方	huang1	200
+枋	huang1	100
+瘋	huang1	100
+肓	huang1	100
+肪	huang1	100
+芳	huang1	100
+荒	huang1	100
+謊	huang1	100
+邡	huang1	100
+鈁	huang1	100
 風	huang1	300
 風大	huang1 tua7	100
 風水	huang1  chui2	100
@@ -1572,14 +3423,49 @@ To stir.	chhiou1	100
 風颱	huang1  thai1	100
 風颱時風險	huang1  thai1 si6 hong1  hiam2	100
 瘋痛	huang1  thiann3	100
+仿	huang2	100
+幌	huang2	100
+恍	huang2	100
+昉	huang2	100
+晃	huang2	100
+滉	huang2	100
+紡	huang2	100
+舫	huang2	100
+訪	huang2	100
 仿似	huang2  sur6	200
 彷似	huang2  sur6	100
+放	huang3	100
 放肆	huang3  sur3	200
+凰	huang5	100
+喤	huang5	100
+坊	huang5	100
+妨	huang5	100
+徨	huang5	100
+惶	huang5	100
+湟	huang5	100
+潢	huang5	100
+煌	huang5	100
+璜	huang5	100
+皇	huang5	100
+篁	huang5	100
+簧	huang5	100
+蘅	huang5	100
+蝗	huang5	100
+蟥	huang5	100
+衡	huang5	100
+遑	huang5	100
+防	huang5	100
+隍	huang5	200
+鰉	huang5	100
+黌	huang5	100
 皇帝	huang5  ti3	200
 歡喜	huann1  hi2	300
 喘氣	huann5	100
 捍	huann7	100
-法	huap4	100
+焊	huann7	100
+法	huap4	200
+珐	huap4	100
+砝	huap4	100
 法律	huap4  lut8	100
 發	huat4	200
 發燒	huat4  sie1	100
@@ -1587,8 +3473,9 @@ To stir.	chhiou1	100
 發笋	huat4  sun2	100
 罰	huat8	200
 罰銀	huat8  ngurn5	100
-灰	hue1	200
+灰	hue1	300
 花	hue1	100
+詼	hue1	100
 花攏總皺皺	hue1 long2  chong2 jiou5  jiou5	100
 花園	hue1  hng5	100
 花會	hue1  hue6	100
@@ -1601,6 +3488,10 @@ To stir.	chhiou1	100
 灰塗	hue1  thou5	100
 灰埕	hue1  tiann5	100
 灰埕亦着洗	hue1  tiann5 ia7 tieh8 soi2	100
+伙	hue2	100
+夥	hue2	100
+火	hue2	100
+鈥	hue2	100
 火柴	hue2  chha5	100
 火車	hue2  chhia1	100
 火石	hue2  chieh8	100
@@ -1632,12 +3523,20 @@ To stir.	chhiou1	100
 伙長	hue2  tienn2	100
 火長	hue2  tienn2	100
 火長起去	hue2  tienn2 khi2  khur3	100
+化	hue3	100
+悔	hue3	100
+晦	hue3	100
 歲	hue3	200
-貨	hue3	500
+誨	hue3	100
+貨	hue3	600
 貨換貨	hue3 uann7 hue3	100
 貨單	hue3  tuann1	100
 囘	hue5	50
-回	hue5	100
+回	hue5	200
+洄	hue5	100
+茴	hue5	100
+蛔	hue5	100
+迴	hue5	100
 囘家	hue5  ke1	50
 回家	hue5  ke1	100
 囘批	hue5  phoi1	50
@@ -1647,24 +3546,141 @@ To stir.	chhiou1	100
 回信	hue5  sin3	100
 囘話	hue5  ue7	150
 回話	hue5  ue7	300
-會	hue6	100
+匯	hue6	100
+會	hue6	200
+燴	hue6	100
 會面	hue6  min7	100
-血	hueh4	100
+和	hue7	100
+血	hueh4	200
 血脈	hueh4  mehnn2	200
 血脉	hueh4  mehnn2	100
+發	huek4	100
+髮	huek4	100
+乏	huek8	100
+伐	huek8	100
+垡	huek8	100
+穴	huek8	100
+筏	huek8	100
+罰	huek8	100
+茓	huek8	100
+閥	huek8	100
+反	hueng1	100
+幡	hueng1	100
+歡	hueng1	100
+獾	hueng1	100
+番	hueng1	100
+翻	hueng1	100
+萑	hueng1	100
+反	hueng2	100
+返	hueng2	100
+喚	hueng3	100
+奐	hueng3	100
+幻	hueng3	100
+換	hueng3	100
+渙	hueng3	100
+煥	hueng3	100
+瘓	hueng3	100
+販	hueng3	100
+圜	hueng5	100
+垣	hueng5	100
+寰	hueng5	100
+擐	hueng5	100
+桓	hueng5	100
+洹	hueng5	100
+澴	hueng5	100
+煩	hueng5	100
+環	hueng5	100
+礬	hueng5	100
+繁	hueng5	100
+轘	hueng5	100
+還	hueng5	100
+鐶	hueng5	100
+鬟	hueng5	100
+梵	hueng6	100
+豢	hueng6	100
+飯	hueng6	100
+橫	huenn5	100
 橫桅	huenn5  ui5	100
+欻	huh4	100
 忽一下叫	huh4   che7  kie3	100
 忽一下呌	huh4   che7  kie3	50
+啡	hui1	100
 囘	hui1	150
 回	hui1	300
+墮	hui1	100
+妃	hui1	100
+徽	hui1	100
+扉	hui1	100
+揮	hui1	100
+斐	hui1	100
+暉	hui1	100
+緋	hui1	100
+翡	hui1	100
+翬	hui1	100
+腓	hui1	100
+菲	hui1	100
+輝	hui1	100
+隳	hui1	100
+霏	hui1	100
+非	hui1	100
+騑	hui1	100
+麾	hui1	100
 囘輾轉	hui1  lin3  tng2	50
 回輾轉	hui1  lin3  tng2	100
 囘轉來	hui1  tng2   lai5	50
 回轉來	hui1  tng2   lai5	100
+卉	hui2	100
+悱	hui2	100
 毀掉	hui2  tiou3	100
-肺	hui3	100
+剕	hui3	100
+喙	hui3	100
+廢	hui3	100
+狒	hui3	100
+痱	hui3	100
+肺	hui3	200
+芾	hui3	100
+諱	hui3	100
+費	hui3	100
 廢掉	hui3  tiou7	100
-缶	hui5	300
+缶	hui5	400
+彗	hui6	100
+恚	hui6	100
+惠	hui6	100
+慧	hui6	100
+蔧	hui6	100
+蕙	hui6	100
+蟪	hui6	100
+匪	huinn2	100
+棐	huinn2	100
+榧	huinn2	100
+毀	huinn2	100
+燬	huinn2	100
+虺	huinn2	100
+蜚	huinn2	100
+誹	huinn2	100
+懸	huinn5	100
+佛	huk4	100
+刎	huk4	100
+唿	huk4	100
+囫	huk4	100
+弗	huk4	100
+忽	huk4	100
+怫	huk4	100
+惚	huk4	100
+拂	huk4	100
+氟	huk4	100
+沸	huk4	100
+淴	huk4	100
+祓	huk4	100
+笏	huk4	100
+紱	huk4	100
+紼	huk4	100
+艴	huk4	100
+芾	huk4	100
+茀	huk4	100
+黻	huk4	100
+佛	huk8	100
+核	huk8	100
 分	hun1	200
 分明	hun1  meng5	100
 分別	hun1  piet8	100
@@ -1677,6 +3693,48 @@ To stir.	chhiou1	100
 混	hun6	200
 份	hun7	100
 分	hun7	100
+分	hung1	100
+吩	hung1	100
+婚	hung1	100
+惛	hung1	100
+昏	hung1	100
+枌	hung1	100
+棻	hung1	100
+氛	hung1	100
+汾	hung1	100
+渾	hung1	100
+烟	hung1	100
+琿	hung1	100
+紛	hung1	100
+芬	hung1	100
+菸	hung1	100
+葷	hung1	100
+酚	hung1	100
+閽	hung1	100
+雰	hung1	100
+忿	hung2	100
+惲	hung2	100
+憤	hung2	100
+粉	hung2	100
+奮	hung3	100
+訓	hung3	100
+痕	hung5	100
+蕓	hung5	100
+雲	hung5	100
+餛	hung5	100
+魂	hung5	100
+圂	hung6	100
+混	hung6	100
+渾	hung6	100
+溷	hung6	100
+諢	hung6	100
+份	hung7	100
+分	hung7	100
+噓	hur1	100
+墟	hur1	100
+歔	hur1	100
+虛	hur1	100
+許	hur2	100
 彼欉是白發个	hur2   chang5 si6 peh8  huat4   kai5	100
 彼欉大樹乞風吹倒去	hur2  chang5 tu7  a1  chhiu7 khoih4 huang1 chhue1 to2   khur3	100
 彼些个	hur2  chuann3  kai5	100
@@ -1685,7 +3743,8 @@ To stir.	chhiou1	100
 彼個我勿	hur2  kai5 ua2 mainn3	100
 彼塊	hur2  ko3	100
 彼底當時	hur2  tiang1  si5	100
-魚	hur5	100
+漁	hur5	100
+魚	hur5	200
 魚腮	hur5  chhi1	100
 魚春	hur5  chhun1	200
 魚子	hur5  chi2	200
@@ -1705,7 +3764,19 @@ To stir.	chhiou1	100
 核	hut8	100
 佛祖	hut8  chou2	200
 佛教	hut8  ka3	100
-伊	i1	100
+伊	i1	200
+依	i1	100
+咿	i1	100
+噫	i1	100
+於	i1	100
+漪	i1	100
+猗	i1	100
+繄	i1	100
+衣	i1	100
+銥	i1	100
+餏	i1	100
+鷖	i1	100
+黟	i1	100
 伊愛	i1 ainn3	100
 伊愛留鬚	i1 ainn3 lau5  chhiu1	100
 伊愛䛩	i1 ainn3  a3	50
@@ -1789,19 +3860,81 @@ To stir.	chhiou1	100
 伊有愈㩼我	i1 u6 ju2  choi7 ua2	100
 伊个病重	i1  kai5 penn7 tang6	100
 依原	i1  nguan5	100
+倚	i2	100
+扆	i2	100
+旖	i2	100
+椅	i2	200
+犄	i2	100
+綺	i2	100
+噫	i3	100
+意	i3	100
+憶	i3	100
+曀	i3	100
+殪	i3	100
+瘞	i3	100
+縊	i3	100
+肄	i3	100
+薏	i3	100
+衣	i3	100
+諡	i3	100
+鐿	i3	100
+饐	i3	100
 意思	i3  sur3	100
+匜	i5	100
+圯	i5	100
+夷	i5	100
+姨	i5	100
+宧	i5	100
+巵	i5	100
+彝	i5	100
+怡	i5	100
+扅	i5	100
+椸	i5	100
+痍	i5	100
+眙	i5	100
+移	i5	100
+簃	i5	100
+胰	i5	100
+荑	i5	100
+蛇	i5	100
+詒	i5	100
+貤	i5	100
+貽	i5	100
+迤	i5	100
+迻	i5	100
+飴	i5	100
 姨丈	i5  tienn6	100
-野	ia2	100
+咦	i6	100
+懿	i6	100
+易	i6	100
+異	i6	100
+裔	i6	100
+呀	ia1	100
+冶	ia2	100
+野	ia2	200
 野樣	ia2  ienn7	200
+椰	ia5	100
+爺	ia5	100
 耶穌	ia5  sou1	100
 耶穌教	ia5  sou1  ka3	100
-亦	ia7	100
+也	ia7	100
+亦	ia7	200
 亦無食人个錢	ia7 bo5 chiah8 nang5 kai5 chinn5	100
 亦無食儂个錢	ia7 bo5 chiah8 nang5 kai5 chinn5	50
 播種	ia7  cheng2	100
-益	iah4	100
+益	iah4	200
 曳	iah8	100
+驛	iah8	100
 曳手	iah8  chhiu2	100
+瀹	iak4	100
+爍	iak4	100
+爚	iak4	100
+籥	iak4	100
+趯	iak4	100
+躍	iak4	100
+鑠	iak4	100
+鑰	iak4	100
+龠	iak4	100
 約母量八人	iak4  bo2  liang6 poih4  nang5	100
 約母量八儂	iak4  bo2  liang6 poih4  nang5	50
 約量	iak4  liang6	100
@@ -1811,33 +3944,59 @@ To stir.	chhiou1	100
 鹽	iam5	100
 鹽硝	iam5  siou1	100
 鹽碟	iam5  tih8	100
+央	iang1	100
+怏	iang1	100
+殃	iang1	100
+泱	iang1	100
+秧	iang1	200
+鞅	iang1	100
+氧	iang2	100
+蛘	iang2	100
+養	iang2	100
 養育	iang2  iok8	100
 養仔	iang2  kiann2	50
 養囝	iang2  kiann2	100
+映	iang3	100
 映目	iang3  mak8	100
+佯	iang5	100
+徉	iang5	100
+揚	iang5	100
+暘	iang5	100
+楊	iang5	200
+洋	iang5	200
+煬	iang5	200
+瘍	iang5	100
+陽	iang5	100
+颺	iang5	100
 陽車火船	iang5  chhia1 hue2  chun5	100
-影	iann2	100
+恙	iang6	100
+漾	iang6	100
+癢	iang6	100
+影	iann2	200
 贏	iann5	200
 贏過	iann5   kue3	100
 贏過	iann5  kue3	100
 迎老爺	iann5  lau6  ia5	100
 營盤	iann5  puann5	200
 灼灼熠	iap8  iap8  sih4	100
-腰	ie1	200
+腰	ie1	300
 腰脊骨	ie1  chiah4  kut4	200
 腰龜	ie1  ku1	100
 腰骨	ie1  kut4	100
 腰龍骨	ie1  leng5  kut4	100
+舀	ie2	100
 調雞湯个匙	ie2 koi1  thng1 kai5 si5	100
 調鷄湯个匙	ie2 koi1  thng1 kai5 si5	50
 舀掉水	ie2  tiou7  chui2	100
+姚	ie5	100
+窑	ie5	100
 搖鐘	ie5  cheng1	100
 搖鼓	ie5  kou2	100
 搖籃	ie5  nann5	100
 搖	ie6	200
-約	ieh4	300
+約	ieh4	500
 約字	ieh4  ji7	100
-藥	ieh8	200
+藥	ieh8	400
 藥末	ieh8  buah8	100
 藥方	ieh8  hng1	100
 藥粉	ieh8  hun2	100
@@ -1845,9 +4004,68 @@ To stir.	chhiou1	100
 藥機	ieh8  kui2	100
 藥根	ieh8  kurn1	100
 藥單	ieh8  tuann1	100
+厭	iem1	100
+奄	iem1	100
+崦	iem1	100
+懨	iem1	100
+淹	iem1	100
+腌	iem1	100
+閹	iem1	100
+鞥	iem1	100
+饜	iem1	100
+偃	iem2	100
+剡	iem2	100
+厴	iem2	100
+堰	iem2	100
+掩	iem2	100
+渰	iem2	100
+罨	iem2	100
+蝘	iem2	100
+郾	iem2	100
+鼹	iem2	100
+厭	iem3	100
+魘	iem3	100
+黶	iem3	100
+鹽	iem5	100
+扊	iem7	100
+灧	iem7	100
+炎	iem7	100
+焰	iem7	100
+琰	iem7	100
+艷	iem7	100
 燕	ien3	100
 燕菜	ien3  chhai3	100
 燕窩	ien3  o1	100
+嫣	ieng1	100
+嬿	ieng1	100
+淵	ieng1	200
+焉	ieng1	100
+燕	ieng1	100
+蔫	ieng1	100
+鄢	ieng1	100
+閼	ieng1	100
+鳶	ieng1	100
+兖	ieng2	100
+遠	ieng2	100
+嚥	ieng3	100
+媛	ieng5	100
+涎	ieng5	100
+湲	ieng5	100
+筵	ieng5	100
+紈	ieng5	200
+蜒	ieng5	100
+兖	ieng6	100
+援	ieng6	100
+楥	ieng6	100
+爰	ieng6	100
+羨	ieng6	100
+胤	ieng6	100
+衍	ieng6	100
+焉	ieng7	100
+鴦	ienn1	100
+烊	ienn5	100
+羊	ienn5	100
+蛘	ienn5	100
 鎔	ienn5	200
 羊肉	ienn5  bah4	100
 楊梅	ienn5  bue5	100
@@ -1855,9 +4073,36 @@ To stir.	chhiou1	100
 羊毛	ienn5  monn5	100
 羊肉	ienn5  nek8	100
 楊桃	ienn5  to5	100
-樣	ienn7	900
+樣	ienn7	1000
 樣樣伊煮來好在	ienn7  ienn7 i1 chur2  lai5 ho2  chai6	100
-音	im1	100
+壓	iep4	100
+擪	iep4	100
+靨	iep4	100
+燁	iep8	100
+葉	iep8	100
+一	ik4	100
+乙	ik4	100
+咽	ik4	100
+釔	ik4	100
+佚	ik8	100
+佾	ik8	100
+妷	ik8	100
+泆	ik8	100
+軼	ik8	100
+迭	ik8	100
+逸	ik8	100
+喑	im1	100
+愔	im1	100
+瘖	im1	100
+陰	im1	100
+音	im1	200
+飲	im2	100
+廕	im3	100
+窨	im3	100
+蔭	im3	100
+淫	im5	100
+蟫	im5	100
+霪	im5	100
 淫事	im5  sur7	100
 引	in1	100
 烟	in1	50
@@ -1889,32 +4134,201 @@ In-n̄g	in1  ng7	100
 鉛子	in5  chi2	200
 鉛筆	in5  pit4	100
 延遲	in5  ti5	100
+咽	ing1	100
+因	ing1	100
+堙	ing1	100
+姻	ing1	100
+氤	ing1	100
+湮	ing1	200
+煙	ing1	100
+甄	ing1	100
+胭	ing1	100
+茵	ing1	100
+裀	ing1	100
+鄄	ing1	100
+銦	ing1	100
+引	ing2	100
+癮	ing2	100
+蚓	ing2	100
+印	ing3	100
+夤	ing5	100
+寅	ing5	100
+沿	ing5	100
+演	ing5	100
+鉛	ing5	100
+暈	ing7	100
+以	inn2	100
+圉	inn2	100
+已	inn2	100
 椅	inn2	100
+苡	inn2	100
+苢	inn2	100
 椅仔	inn2  kiann2	50
 椅囝	inn2  kiann2	100
 椅頭	inn2  thau5	100
+燕	inn3	100
 燕鳥	inn3  chiou2	100
-圓	inn5	200
+丸	inn5	100
+圓	inn5	300
+芄	inn5	100
 圓床來放彼	inn5  chhng5 lai5  sai7 pang3  hie2…	100
 圓牀來放彼	inn5  chhng5 lai5  sai7 pang3  hie2…	50
+矣	inn7	100
+硯	inn7	100
+院	inn7	100
+唷	iok8	100
+堉	iok8	100
+峪	iok8	100
+慾	iok8	100
+毓	iok8	100
+浴	iok8	100
+淯	iok8	100
+育	iok8	100
+鵒	iok8	100
+嬴	iong1	100
+灉	iong1	100
+癰	iong1	100
+臃	iong1	100
+薨	iong1	100
+邕	iong1	100
+雍	iong1	100
+饔	iong1	100
+俑	iong2	100
+勇	iong2	100
+壅	iong2	100
+永	iong2	100
+甬	iong2	100
+蛹	iong2	100
+踴	iong2	100
 勇將	iong2  chiang3	200
+咏	iong3	100
+壅	iong3	100
 容	iong3	100
+恿	iong3	100
+擁	iong3	100
+泳	iong3	100
+涌	iong3	100
+㼆	iong5	100
+傭	iong5	100
+塋	iong5	100
+墉	iong5	100
+嬴	iong5	100
+容	iong5	100
+嶸	iong5	100
+庸	iong5	100
+慵	iong5	100
+榕	iong5	100
+榮	iong5	100
+溶	iong5	200
+滎	iong5	100
+瀛	iong5	100
+熒	iong5	100
+熔	iong5	200
+營	iong5	200
+瑩	iong5	100
+盈	iong5	100
+縈	iong5	100
+蓉	iong5	100
+融	iong5	200
+螢	iong5	100
+蠑	iong5	100
+贏	iong5	200
+鏞	iong5	100
+顒	iong5	100
+鱅	iong5	100
 容訴	iong5  su3	100
+佣	iong6	100
+吆	iou1	100
+喲	iou1	100
+夭	iou1	100
+妖	iou1	100
+幺	iou1	100
 枵	iou1	100
+殀	iou1	100
+祅	iou1	100
+要	iou1	100
+邀	iou1	100
+窈	iou2	100
 畧好	iou2  ho2	100
+要	iou3	100
+媱	iou5	100
+徭	iou5	100
+搖	iou5	100
+珧	iou5	100
+瑤	iou5	100
+謠	iou5	100
+遙	iou5	100
+颻	iou5	100
+鰩	iou5	100
+鷂	iou5	100
 謠言	iou5  ngan5	100
+曜	iou6	100
+耀	iou6	100
+悒	ip4	100
+挹	ip4	100
+揖	ip4	100
+浥	ip4	100
+邑	ip4	100
 揖作	ip4  cha3	100
 壹	it4	100
 一好	it4  ho2	100
 憶得	it4  tit4	200
 逸	it8	100
-油	iu5	400
+優	iu1	100
+呦	iu1	100
+憂	iu1	100
+耰	iu1	100
+卣	iu2	100
+友	iu2	100
+囮	iu2	100
+有	iu2	100
+牖	iu2	100
+狖	iu2	100
+羑	iu2	100
+肘	iu2	100
+莠	iu2	100
+誘	iu2	100
+酉	iu2	100
+鮪	iu2	100
+黝	iu2	100
+又	iu5	100
+尤	iu5	100
+有	iu5	100
+油	iu5	500
+游	iu5	100
+猶	iu5	100
+猷	iu5	100
+由	iu5	100
+疣	iu5	100
+繇	iu5	200
+蕕	iu5	100
+蚰	iu5	100
+蝣	iu5	100
+蝤	iu5	100
+遊	iu5	100
+遒	iu5	100
+郵	iu5	100
+酋	iu5	100
+鈾	iu5	100
+魷	iu5	100
+鼬	iu5	100
 油紙	iu5  chua2	100
 油刷	iu5  sueh4	100
-柚	iu7	100
-幼	iunn3	100
+佑	iu6	100
+侑	iu6	100
+右	iu6	100
+囿	iu6	100
+宥	iu6	100
+祐	iu6	100
+莜	iu6	100
+賄	iu6	100
+釉	iu6	100
+柚	iu7	200
+幼	iunn3	200
 苡米	iunn3  bi2	100
 幼幼	iunn3  iunn3	100
+媵	jeng6	100
+兒	ji5	100
 兒婿	ji5  sai3	100
 弍	ji6	100
 二月	ji6   gueh8	100
@@ -1931,25 +4345,80 @@ In-n̄g	in1  ng7	100
 二更	ji6  kenn1	100
 二人	ji6  nang5	100
 二儂	ji6  nang5	50
-字	ji7	200
-餌	ji7	100
+二	ji7	100
+佴	ji7	100
+刵	ji7	100
+字	ji7	300
+寺	ji7	100
+牸	ji7	100
+珥	ji7	100
+餌	ji7	200
 字母	ji7  bo2	100
 字號	ji7  ho7	200
 字白	ji7  peh8	100
 字板	ji7  poinn2	100
 字典	ji7  tien2	100
-嚷	jiang2	400
+偌	jia2	100
+喏	jia2	100
+惹	jia2	100
+弱	jiak8	100
+箬	jiak8	100
+若	jiak8	100
+蒻	jiak8	100
+嚷	jiang2	500
+壤	jiang2	100
+攘	jiang2	100
+瀼	jiang2	100
+禳	jiang2	100
 讓	jiang2	200
+釀	jiang2	100
+𧟄	jiang2	100
+扔	jiang5	200
+攘	jiang5	100
+讓	jiang6	100
+橈	jie5	200
 漿	jie5	100
-尿	jie7	100
+尿	jie7	200
 尿壺	jie7  hu5	100
 尿脬	jie7  pha1	100
 若	jieh8	100
+熱	jiek8	100
+冉	jiem2	100
+染	jiem2	100
+苒	jiem2	100
+蚦	jiem2	100
+髯	jiem2	100
+另	jieng5	100
+撚	jieng5	100
+然	jieng5	100
+燃	jieng5	100
 熱	jiet8	300
 爇	jiet8	150
 揤	jih4	100
+讋	jih4	100
+廿	jih8	200
+念	jih8	200
 揤	jih8	100
+日	jik8	100
+仞	jim2	100
+刃	jim2	100
+妊	jim2	100
+忍	jim2	100
+牣	jim2	100
+稔	jim2	100
+紉	jim2	100
+荏	jim2	100
+衽	jim2	100
+訒	jim2	100
+軔	jim2	100
+韌	jim2	100
+飪	jim2	100
+任	jim6	100
+壬	jim6	100
+恁	jim6	100
+賃	jim6	100
 任意	jim6  i3	100
+任	jim7	100
 仁	jin5	100
 仁慈	jin5  chhur5	100
 人參	jin5  siam1	100
@@ -1957,8 +4426,19 @@ In-n̄g	in1  ng7	100
 認錯	jin7  chho3	100
 認出	jin7  chhut4	100
 認罪	jin7  chue6	100
-爪	jiou2	100
+人	jing5	100
+仁	jing5	100
+認	jing7	100
+抓	jiou2	100
+擾	jiou2	100
+沼	jiou2	100
+爪	jiou2	200
+縐	jiou3	100
+繞	jiou3	100
+遶	jiou3	100
 皺紗	jiou3  se1	100
+嬈	jiou5	100
+饒	jiou5	100
 趕	jiou7	200
 追	jiou7	100
 追唔着	jiou7 m6  tieh8	50
@@ -1987,17 +4467,79 @@ In-n̄g	in1  ng7	100
 日規	jit8  kui1	100
 日晝	jit8  tau3	200
 日逐	jit8  tok8	100
+煣	jiu2	100
+糅	jiu3	100
+揉	jiu5	100
+柔	jiu5	100
+猱	jiu5	100
+蹂	jiu5	100
+鞣	jiu5	100
 魷魚	jiu5  hur5	100
 鰇魚	jiu5  hur5	100
-褥	jok8	100
+溽	jok8	100
+縟	jok8	100
+蓐	jok8	100
+褥	jok8	200
+辱	jok8	100
 褥挈去曝	jok8 khieh8 khur3 phak8	100
-絨	jong5	100
+冗	jong2	100
+氄	jong2	100
+仍	jong5	100
+戎	jong5	100
+毧	jong5	100
+狨	jong5	100
+礽	jong5	100
+絨	jong5	200
+羢	jong5	100
+茸	jong5	100
+乳	ju2	100
+孺	ju2	100
+愈	ju2	100
+月	ju2	100
+癒	ju2	100
+窳	ju2	100
+茹	ju2	100
 乳母	ju2  bo2	100
 愈㩼愈好	ju2  choi7 ju2  ho2	100
 愈好	ju2  ho2	200
 愈唔孬	ju2  m6  monn2	50
 愈毋孬	ju2  m6  monn2	100
-儒	ju5	100
+俞	ju5	100
+儒	ju5	200
+嚅	ju5	100
+如	ju5	100
+孺	ju5	100
+嵛	ju5	100
+庾	ju5	100
+愉	ju5	100
+挐	ju5	100
+揄	ju5	100
+榆	ju5	100
+毹	ju5	100
+洳	ju5	100
+渝	ju5	100
+濡	ju5	100
+瑜	ju5	100
+瘐	ju5	100
+窬	ju5	100
+腴	ju5	100
+臾	ju5	100
+茹	ju5	100
+萸	ju5	100
+薷	ju5	100
+蝓	ju5	100
+蠕	ju5	100
+襦	ju5	100
+覦	ju5	100
+諛	ju5	100
+銣	ju5	100
+隃	ju5	100
+顬	ju5	100
+喻	ju6	100
+籲	ju6	100
+裕	ju6	100
+諭	ju6	100
+逾	ju6	100
 熱	juah8	200
 爇	juah8	100
 熱布	juah8  pou3	100
@@ -2005,13 +4547,52 @@ In-n̄g	in1  ng7	100
 熱衫	juah8  sann1	100
 爇衫	juah8  sann1	50
 任都好	juan6 tou1  ho2	100
+挼	jue5	100
+睿	jue6	100
+蚋	jue6	100
+銳	jue6	100
+枘	jue7	100
+汭	jue7	100
+芮	jue7	100
+悅	juek8	100
+說	juek8	100
+纂	jueng2	100
+纘	jueng2	100
+入	juh8	200
+唯	jui2	100
+帷	jui5	100
+惟	jui5	100
+濰	jui5	100
+維	jui5	100
+唯	jui6	100
+遺	jui6	100
 韌	jun7	200
 閏月	jun7  gueh8	100
 有。閏五	jun7  ngou6	100
+允	jung2	100
+吮	jung2	100
+狁	jung2	100
+潤	jung6	100
+閏	jung7	100
+婼	jur2	100
+汝	jur2	100
+洱	jur2	100
+爾	jur2	100
+璽	jur2	100
+耳	jur2	100
+邇	jur2	100
+鉺	jur2	100
 挐	jur5	200
 濡	jur5	100
+而	jur5	100
 挐挐	jur5  jur5	200
-膠	ka1	200
+女	jur6	100
+字	jur6	100
+膩	jur6	100
+貳	jur6	100
+耳	jur7	100
+膠	ka1	300
+虼	ka1	100
 鉸	ka1	100
 虼蚤	ka1  chau2	200
 尻脊	ka1  chiah4	100
@@ -2027,26 +4608,71 @@ In-n̄g	in1  ng7	100
 咬嗽	ka1  sau3	100
 鉸刀	ka1  to1	100
 攪	ka2	100
-絞	ka2	400
-教	ka3	600
+絞	ka2	500
+鉸	ka2	100
+尕	ka3	100
+教	ka3	700
+校	ka3	100
+玍	ka3	100
+窖	ka3	100
+較	ka3	100
 教書先生	ka3  chur1 sin1  senn1	100
 教會熟	ka3  oi6  sek8	100
-咬	ka6	200
+咬	ka6	300
+咬	ka7	100
 咳咳叫	ka7  ka7  kie3	100
 咳咳呌	ka7  ka7  kie3	50
 佮	kah4	100
-甲	kah4	100
+岬	kah4	100
+甲	kah4	200
+胛	kah4	100
+鉀	kah4	100
 佮伊呾我此塊愛作欄杆	kah4 i1 tann3 ua2 chi2  ko3 ainn3  cho3 lan5  kan1	100
 佮挈一張紙	kah4 khieh8 chek8  tienn1 chua2	100
 袷仔	kah4  kiann2	50
 袷囝	kah4  kiann2	100
+偕	kai1	100
+喈	kai1	100
+垓	kai1	100
+楷	kai1	100
+皆	kai1	100
+磑	kai1	100
+秸	kai1	100
+荄	kai1	100
+該	kai1	100
+賅	kai1	100
+陔	kai1	100
+階	kai1	200
+丐	kai3	100
+介	kai3	100
+价	kai3	100
+尬	kai3	100
+屆	kai3	100
+岕	kai3	100
+廨	kai3	100
+戒	kai3	100
+戤	kai3	100
+斠	kai3	100
+界	kai3	100
+疥	kai3	200
+芥	kai3	100
+蓋	kai3	100
+蚧	kai3	100
+誡	kai3	100
+鈣	kai3	100
+骱	kai3	100
 芥辣	kai3  luah8	100
-個	kai5	100
+個	kai5	200
 個個禮拜着洗淸潔淸潔	kai5  kai5 loi2  pai3 tieh8 soi2 chheng1  khih4 chheng1  khih4	50
 個個禮拜着洗清潔清潔	kai5  kai5 loi2  pai3 tieh8 soi2 chheng1  khih4 chheng1  khih4	100
 各個埠頭都有市	kai5  kai5 pou1  thau5 tou1 u6 chhi6	100
 個銀挈去倒錢	kai5  ngurn5 khieh8  khur3 tau2  chinn5	100
-角	kak4	100
+各	kak4	100
+桷	kak4	100
+礐	kak4	100
+結	kak4	200
+覺	kak4	100
+角	kak4	300
 角瓜	kak4  kue1	100
 各人	kak4  nang5	100
 各儂	kak4  nang5	50
@@ -2054,8 +4680,12 @@ In-n̄g	in1  ng7	100
 丢	kak8	100
 捔	kak8	100
 捔掉	kak8  tiou3	200
-甘	kam1	200
-監	kam1	100
+尷	kam1	100
+泔	kam1	100
+甘	kam1	300
+疳	kam1	100
+監	kam1	200
+紺	kam1	100
 甘蜜	kam1  bit8	100
 甘癪	kam1  chek4	100
 甘草	kam1  chhau2	100
@@ -2063,37 +4693,101 @@ In-n̄g	in1  ng7	100
 甘虫	kam1  thang5	50
 甘蟲	kam1  thang5	100
 䃭	kam2	100
+感	kam2	100
 感謝	kam2  sia7	300
 感恩	kam2  urn1	100
+檻	kam3	100
+淦	kam3	100
+監	kam3	100
+鑒	kam3	100
 干證	kan1  cheng3	200
 奸夫	kan1  hu1	50
 姦夫	kan1  hu1	100
 奸淫	kan1  im5	50
 姦淫	kan1  im5	100
 艱苦	kan1  khou2	600
-工	kang1	100
+乾	kang1	200
+剛	kang1	100
+奸	kang1	100
+姦	kang1	100
+岡	kang1	100
+崗	kang1	100
+工	kang1	300
+干	kang1	100
+杆	kang1	200
+江	kang1	100
+犴	kang1	100
+碙	kang1	100
+綱	kang1	100
+罡	kang1	100
+艱	kang1	100
+茳	kang1	100
+菅	kang1	100
+蕑	kang1	100
+豇	kang1	100
+酐	kang1	100
+間	kang1	200
 工錢	kang1  chinn5	200
 工資	kang1  chur1	200
 江魚	kang1  hur5	100
-港	kang2	100
-講	kang2	100
+囝	kang2	100
+擀	kang2	100
+柬	kang2	100
+梘	kang2	100
+港	kang2	200
+澗	kang2	100
+筧	kang2	100
+簡	kang2	100
+耩	kang2	100
+講	kang2	200
+鐧	kang2	100
 講究	kang2  kiu3	100
 講論	kang2  lun6	100
+幹	kang3	100
+旰	kang3	100
+杠	kang3	200
+榦	kang3	100
+洚	kang3	100
+瞯	kang3	100
+絳	kang3	100
+諫	kang3	100
+降	kang3	100
 降級	kang3  khip4	200
-共	kang7	100
+共	kang7	200
+柑	kann1	100
 橄欖	kann1  nann2	100
-敢	kann2	300
-酵	kann3	100
+敢	kann2	400
+橄	kann2	100
+酵	kann3	200
 酵母	kann3  bo2	100
+合	kap4	100
+蛤	kap4	100
+鴿	kap4	100
 夾書冊	kap4  chur1  chheh4	100
 夾板	kap4  pan2	100
 蛤婆	kap4  po5	100
 結	kat4	300
 結直	kat4  tit8	100
 結案	kat4  uann3	100
-交	kau1	100
-溝	kau1	200
+交	kau1	200
+勾	kau1	100
+句	kau1	100
+枸	kau1	100
+槔	kau1	100
+櫜	kau1	100
+溝	kau1	300
+皋	kau1	100
+睾	kau1	100
+篝	kau1	100
+茭	kau1	100
+蛟	kau1	100
+跤	kau1	100
+轇	kau1	100
+郊	kau1	100
 鈎	kau1	100
+鉤	kau1	100
+鞲	kau1	100
+鮫	kau1	100
 交伊分差役个手	kau1 i1 pun1 chhe1  hiah8 kai2 chhiu2	100
 交挿	kau1  chhap4	100
 交插	kau1  chhap4	200
@@ -2109,26 +4803,43 @@ In-n̄g	in1  ng7	100
 交𨵿个儂	kau1  kuan1   kai5  nang5	12
 高麗	kau1  li5	100
 高升	kau1  seng1	100
-九	kau2	100
-狗	kau2	100
+九	kau2	200
+佼	kau2	100
+搞	kau2	100
+攪	kau2	200
+杲	kau2	100
+槁	kau2	100
+犒	kau2	100
+狗	kau2	200
+狡	kau2	100
+玖	kau2	200
+皎	kau2	100
+縞	kau2	100
 狗母	kau2  bo2	100
-到	kau3	200
-夠	kau3	300
+到	kau3	300
+夠	kau3	500
+誥	kau3	100
+郜	kau3	100
+鋯	kau3	100
 夠儎	kau3  chai7	100
 購採館	kau3  chhai2  kuan2	100
 夠水	kau3  chui2	100
 告量	kau3  nienn5	100
 商量	kau3  nienn5	100
 厚	kau5	100
-猴	kau5	100
-厚	kau6	100
+猴	kau5	200
+緱	kau5	100
+厚	kau6	200
 侯栗	kau6  lak8	200
 垢穢	kau6  ueh8	100
 厚	kau7	100
 捲	kauh4	100
 捲起	kauh4   khi2	100
+傢	ke1	100
 加	ke1	200
-家	ke1	200
+家	ke1	300
+袈	ke1	100
+鎵	ke1	100
 加一下就愛行	ke1 chek8  e7 chiu6 ainn3  kiann5	100
 加唔久就正月	ke1 m6  ku2 chiu6 chiann1   gueh8	50
 加毋久就正月	ke1 m6  ku2 chiu6 chiann1   gueh8	100
@@ -2150,41 +4861,104 @@ In-n̄g	in1  ng7	100
 家神	ke1  sin5	100
 家事	ke1  sur7	200
 家長	ke1  tienn2	100
-假	ke2	400
+假	ke2	600
 假手筆	ke2  chhiu2  pit4	100
 假印	ke2  in3	100
-嫁	ke3	200
+價	ke3	100
+嫁	ke3	300
+架	ke3	100
+稼	ke3	100
+駕	ke3	100
 價錢	ke3  chinn5	200
 價錢加一半	ke3  chinn5 ke1 chek8  ue5	100
 價錢呾定着	ke3  chinn5 tann3  tiann7  tieh8	100
-枷	ke5	100
+枷	ke5	200
+耞	ke5	100
 下	ke6	100
 下庄	ke6  chng1	50
 下莊	ke6  chng1	100
 下品	ke6  pin2	100
-隔	keh4	100
+挌	keh4	100
+搿	keh4	100
+格	keh4	100
+膈	keh4	100
+鎘	keh4	100
+隔	keh4	200
+骼	keh4	100
 隔奶	keh4  ninn6	100
+硌	keh8	100
+㦸	kek4	100
+亟	kek4	100
+侷	kek4	100
+墼	kek4	100
+棘	kek4	100
+檄	kek4	100
+殛	kek4	100
+激	kek4	100
+緙	kek4	100
+翮	kek4	100
+菊	kek4	100
+跼	kek4	100
+革	kek4	100
 激酒	kek4  chiu2	100
 菊花	kek4  hue1	100
 激死	kek4  si2	100
-宮	keng1	100
-弓	keng1	100
+局	kek8	100
+極	kek8	100
+湨	kek8	100
+鋦	kek8	100
+供	keng1	100
+宮	keng1	200
+弓	keng1	200
+更	keng1	200
+涇	keng1	100
+矜	keng1	100
+經	keng1	200
+荊	keng1	100
 宮廟	keng1  bie7	100
 弓蕉	keng1  chie1	100
 芎蕉	keng1  chie1	50
-敬	keng3	100
+境	keng2	100
+憬	keng2	100
+景	keng2	100
+璟	keng2	100
+竟	keng2	100
+敬	keng3	200
+更	keng3	100
 更好	keng3  ho2	200
 敬重	keng3  tong6	200
 窮	keng5	100
 貧	keng5	100
+儆	keng6	100
+競	keng6	100
+警	keng6	100
+埂	kenn1	100
+庚	kenn1	100
+羹	kenn1	100
+耕	kenn1	100
+賡	kenn1	100
+鶊	kenn1	100
 耕作	kenn1  choh4	100
 經布	kenn1  pou3	100
+哽	kenn2	100
+埂	kenn2	100
+梗	kenn2	100
+綆	kenn2	100
+骾	kenn2	100
+鯁	kenn2	100
 骾着	kenn2   tieh8	50
 鯁着	kenn2   tieh8	100
 骾着喉	kenn2  tieh8  au5	50
 鯁着喉	kenn2  tieh8  au5	100
+勁	kenn3	100
+徑	kenn3	100
+痙	kenn3	100
+粳	kenn3	100
+脛	kenn3	100
+逕	kenn3	100
+頸	kenn3	100
 脚	kha1	50
-腳	kha1	100
+腳	kha1	200
 跤	kha1	24
 骹	kha1	200
 脚後蹬	kha1  au6  tenn1	25
@@ -2241,7 +5015,14 @@ In-n̄g	in1  ng7	100
 腳底	kha1  toi2	50
 跤底	kha1  toi2	12
 骹底	kha1  toi2	100
-扣	kha3	200
+佧	kha2	100
+卡	kha2	100
+咔	kha2	100
+巧	kha2	100
+豈	kha2	100
+叩	kha3	200
+扣	kha3	400
+釦	kha3	100
 扣黎郎(按：源自馬來語 lelong)	kha3  loi7  long1	100
 扣黎郞(按：源自馬來語 lelong)	kha3  loi7  long1	50
 扣破	kha3  phua3	100
@@ -2254,52 +5035,168 @@ In-n̄g	in1  ng7	100
 較闊	khah4  khuah4	100
 較緊	khah4  kin2	100
 較狹	khah4  oih8	100
+揩	khai1	100
+鐦	khai1	100
+開	khai1	100
 開放	khai1  pang3	100
-殼	khak4	200
+凱	khai2	100
+剴	khai2	100
+塏	khai2	100
+愷	khai2	100
+楷	khai2	100
+皚	khai2	100
+磑	khai2	100
+鎧	khai2	100
+闓	khai2	100
+嘅	khai3	100
+慨	khai3	100
+暨	khai3	100
+概	khai3	100
+溉	khai3	100
+催	khak4	100
+克	khak4	100
+剋	khak4	100
+咯	khak4	100
+嘎	khak4	100
+噶	khak4	100
+恪	khak4	100
+慤	khak4	100
+戛	khak4	100
+搉	khak4	100
+旮	khak4	100
+榷	khak4	100
+殼	khak4	300
+确	khak4	100
+確	khak4	100
+藿	khak4	100
+霍	khak4	100
+麯	khak4	100
+坩	kham1	100
+堪	kham1	100
+嵌	kham1	100
+戡	kham1	100
+龕	kham1	100
 堪該	kham1  kai1	200
+坎	kham2	100
+嵌	kham2	100
+瞰	kham2	100
+矙	kham2	100
+砍	kham2	100
+闞	kham2	100
 冚	kham3	100
+勘	kham3	100
 盖	kham3	50
+磡	kham3	100
 蓋	kham3	100
 鈸	kham6	100
 牽	khan1	100
 牽馬索	khan1  be2  soh4	100
 牽成	khan1  seng5	100
 牽拖	khan1  thua1	100
+䆲	khang1	100
+劻	khang1	100
+匡	khang1	100
+夼	khang1	100
+康	khang1	100
+恇	khang1	100
+慷	khang1	100
+槺	khang1	100
+洭	khang1	100
+牽	khang1	100
 空	khang1	300
+縴	khang1	100
 空殼	khang1  khak4	100
 工課	khang1  khue3	100
 空心肚食	khang1  sim1  tou2 chiah8	100
+亢	khang3	100
+伉	khang3	100
+侃	khang3	100
+匟	khang3	100
+吭	khang3	100
+抗	khang3	100
+炕	khang3	100
+鈧	khang3	100
 匟床	khang3  chhng5	50
 炕床	khang3  chhng5	100
+嗑	khap4	100
+恰	khap4	100
+掐	khap4	100
+搕	khap4	100
+榼	khap4	100
+溘	khap4	100
+盍	khap4	100
 盖	khap4	50
+瞌	khap4	100
+磕	khap4	100
 蓋	khap4	100
+郃	khap4	100
+閤	khap4	100
+闔	khap4	100
+饁	khap4	100
 盖印	khap4  in3	100
 蓋印	khap4  in3	200
 刻苦	khat4  khou2	200
 刻苦忍	khat4  khou2  lun2	100
 刻苦奈	khat4  khou2  nainn6	100
+尻	khau1	100
 摳	khau1	100
-口	khau2	100
-攷	khau2	100
-考	khau2	200
+鬮	khau1	100
+口	khau2	200
+拷	khau2	100
+攷	khau2	200
+栲	khau2	100
+烤	khau2	100
+考	khau2	300
 口供	khau2  keng1	200
 口供相和	khau2  keng1 siang1  hua5	100
 口供相反	khau2  keng1 siang1  huan2	100
 攷問	khau2  mng7	150
 考問	khau2  mng7	300
-哭	khau3	200
-客	kheh4	200
+哭	khau3	300
+銬	khau3	100
+靠	khau3	100
+喀	kheh4	100
+客	kheh4	300
+揢	kheh4	100
 客商	kheh4  siang1	100
 客店	kheh4  tiam3	100
-刻	khek4	200
-曲	khek4	100
-肯	kheng2	200
+刻	khek4	300
+擊	khek4	100
+曲	khek4	300
+兢	kheng1	100
+卿	kheng1	100
+筐	kheng1	100
+啃	kheng2	100
+掯	kheng2	100
+肯	kheng2	300
+裉	kheng2	100
+慶	kheng3	100
+檾	kheng3	100
+磬	kheng3	100
+罄	kheng3	100
+勍	kheng5	100
+坰	kheng5	100
+扃	kheng5	100
+擎	kheng5	100
+檠	kheng5	100
+莖	kheng5	100
+鯨	kheng5	100
+黥	kheng5	100
 虹	kheng6	100
 虹有加加色	kheng6 u6 ke1  ke1 sek4	100
-坑	khenn1	200
+坑	khenn1	300
+崎	khi1	100
+敧	khi1	100
+欺	khi1	100
+蹊	khi1	100
 崎嶇	khi1  khu1	200
-起	khi2	600
-齒	khi2	100
+䏿	khi2	100
+啓	khi2	100
+棨	khi2	100
+綮	khi2	100
+芑	khi2	100
+起	khi2	700
+齒	khi2	200
 起來	khi2   lai5	200
 齒刷	khi2  chhiu3	100
 起厝	khi2  chhu3	100
@@ -2311,20 +5208,58 @@ In-n̄g	in1  ng7	100
 起身	khi2  sin1	100
 起頭	khi2  thau5	200
 齒痛	khi2  thiann3	100
-氣	khi3	300
+亟	khi3	100
+偈	khi3	100
+器	khi3	100
+愒	khi3	100
+愾	khi3	200
+憩	khi3	100
+棄	khi3	100
+氣	khi3	400
+汽	khi3	100
 氣味	khi3  bi7	200
 器具	khi3  ku6	100
 氣力	khi3  lat8	200
-奇	khi5	100
+亓	khi5	100
+俟	khi5	100
+其	khi5	100
+圻	khi5	100
+奇	khi5	200
+期	khi5	100
+沂	khi5	100
+淇	khi5	100
+琦	khi5	100
+琪	khi5	100
+畸	khi5	100
+祁	khi5	100
+祇	khi5	100
+祈	khi5	100
+祺	khi5	100
+綦	khi5	100
+耆	khi5	100
+芪	khi5	100
+蘄	khi5	100
+蚑	khi5	100
+蜞	khi5	100
+衹	khi5	100
+頎	khi5	100
+騏	khi5	100
+鬐	khi5	100
+鰭	khi5	100
+麒	khi5	100
 奇異	khi5  i6	100
 奇巧	khi5  kha2	300
 奇巧物	khi5  kha2  mueh8	100
 其實	khi5  sit8	100
 祈禱	khi5  tau2	100
 其餘	khi5  ur5	100
-騎	khia5	100
+忌	khi7	100
+騎	khia3	100
+騎	khia5	200
 騎馬	khia5  be2	100
+企	khia6	100
 徛	khia6	100
+跂	khia6	100
 徛起來	khia6   khi2  lai5	100
 徛起	khia6  khi2	200
 霎時愛落雨	khia6  tiam7 ainn3  loh8  hou6	100
@@ -2336,6 +5271,9 @@ In-n̄g	in1  ng7	100
 徛在跤頭个人	khia6  to6  kha1  thau7   kai5  nang5	1
 徛在骹頭个人	khia6  to6  kha1  thau7   kai5  nang5	100
 徛在骹頭个儂	khia6  to6  kha1  thau7   kai5  nang5	50
+隙	khiah4	100
+卻	khiak4	100
+怯	khiak4	100
 欠	khiam3	300
 欠人个債	khiam3  nang5  kai5  che3	100
 欠儂个債	khiam3  nang5  kai5  che3	50
@@ -2343,6 +5281,8 @@ In-n̄g	in1  ng7	100
 欠儂个錢	khiam3  nang5  kai5  chinn5	100
 儉	khiam6	200
 勥	khiang3	400
+強	khiang5	100
+鏹	khiang5	100
 挈	khieh4	100
 挈餉	khieh4  hiang3	100
 挈恨	khieh4  hurn6	100
@@ -2359,23 +5299,135 @@ In-n̄g	in1  ng7	100
 挈來	khieh8   lai5	200
 挈定	khieh8   tiann7	100
 挈椗	khieh8  teng3	100
+㵐	khiek4	100
+厥	khiek4	100
+噘	khiek4	100
+孑	khiek4	200
+嶡	khiek4	100
+恝	khiek4	100
+拮	khiek4	100
+挈	khiek4	100
+揳	khiek4	100
+撅	khiek4	100
+擷	khiek4	100
+攫	khiek4	100
+桔	khiek4	100
+橛	khiek4	100
+湨	khiek4	100
+獗	khiek4	100
+瘈	khiek4	100
+矍	khiek4	100
+籰	khiek4	100
+纈	khiek4	100
+蕨	khiek4	100
+虢	khiek4	100
+蠼	khiek4	100
+詰	khiek4	100
+蹶	khiek4	100
+鍥	khiek4	100
+鐝	khiek4	100
+钁	khiek4	100
+頡	khiek4	100
+鱖	khiek4	100
+黠	khiek4	100
+謙	khiem1	100
+嗛	khiem2	100
+慊	khiem2	100
+歉	khiem2	100
+欠	khiem3	100
+拑	khiem5	100
+箝	khiem5	100
+緘	khiem5	100
+儉	khiem6	100
+芡	khiem6	100
+岍	khieng1	100
+愆	khieng1	100
+搴	khieng1	100
+汧	khieng1	100
+虔	khieng1	100
+褰	khieng1	100
+騫	khieng1	100
+犬	khieng2	100
+畎	khieng2	100
+繾	khieng2	100
+謇	khieng2	100
+譴	khieng2	100
+蹇	khieng2	100
+遣	khieng2	100
+乾	khieng5	100
+腔	khienn1	100
 缺喙	khih4  chhui3	100
 缺嘴	khih4  chhui3	50
-欽	khim1	100
+嶔	khim1	100
+欽	khim1	200
+衾	khim1	100
+衿	khim1	100
+襟	khim1	100
 欽差	khim1  chhe1	100
-琴	khim5	100
+撳	khim2	100
+噙	khim5	100
+擒	khim5	100
+檎	khim5	100
+琴	khim5	200
+禽	khim5	100
+鈐	khim5	200
 禽獸	khim5  siu3	200
 輕	khin1	100
+氫	khing1	100
+烴	khing1	100
+輕	khing1	100
 捉	khinn2	100
-磽	khiou1	200
+可	khiok4	100
+氪	khiok4	100
+蛐	khiok4	100
+恐	khiong2	100
+鞏	khiong2	100
+窮	khiong5	100
+筇	khiong5	100
+藭	khiong5	100
+蛩	khiong5	100
+跫	khiong5	100
+邛	khiong5	100
+敲	khiou1	100
+橋	khiou1	100
+磽	khiou1	300
+蹺	khiou1	100
 磽仔人食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	25
 磽仔儂食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	12
 磽囝人食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	100
 磽囝儂食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	50
+竅	khiou3	100
 翹尾	khiou3  bue2	100
 翹頭絲	khiou3  thau5  si1	100
+䀉	khiou5	100
+僑	khiou5	100
+喬	khiou5	100
+橇	khiou5	100
+翹	khiou5	100
+荍	khiou5	100
+蕎	khiou5	100
+蹻	khiou5	100
+鞽	khiou5	100
 翹楚	khiou5  chho2	100
-求	khiu5	300
+吸	khip4	100
+圾	khip4	100
+岌	khip4	100
+歙	khip4	100
+汲	khip4	100
+泣	khip4	100
+笈	khip4	100
+級	khip4	100
+丘	khiu1	100
+虯	khiu1	100
+蚯	khiu1	100
+鳩	khiu1	100
+龜	khiu1	100
+仇	khiu5	100
+俅	khiu5	100
+求	khiu5	400
+裘	khiu5	100
+賕	khiu5	100
+逑	khiu5	100
 求乞	khiu5  khurt4	100
 糠	khng1	100
 囥	khng3	200
@@ -2384,75 +5436,221 @@ In-n̄g	in1  ng7	100
 勸戒	khng3  koi3	200
 囥放櫃底	khng3  pang3 kuinn7  toi2	100
 囥	khng7	100
+戈	kho1	100
+柯	kho1	100
+牁	kho1	100
+珂	kho1	100
+疴	kho1	100
+稞	kho1	200
+窠	kho1	100
+舸	kho1	100
+苛	kho1	100
+軻	kho1	100
+輠	kho1	100
+可	kho2	100
+哿	kho2	100
+坷	kho2	100
+岢	kho2	100
+棵	kho2	100
+涸	kho2	100
+顆	kho2	100
+騍	kho2	100
+髁	kho2	100
 可憐	kho2  lien5	300
 可比	kho2  pi2	200
 可惜	kho2  sieh4	100
 可痛	kho2  thiann3	100
 可惡	kho2  u3	100
+錁	kho3	100
 鋯絲	kho3  si1	100
 煲糊	khoh8  kou5	100
-溪	khoi1	200
+溪	khoi1	300
+鸂	khoi1	100
 剃鬚	khoi1  chhiu1	100
 溪墘	khoi1  kinn5	100
+契	khoi3	100
 喫草	khoi3  chhau2	100
 乞	khoih4	100
+莢	khoih4	100
 夾布	khoih4  pou3	100
 盖	khoinn3	100
 蓋	khoinn3	200
+告	khok4	100
+哭	khok4	100
+嚳	khok4	100
+柝	khok4	100
+梏	khok4	100
+觳	khok4	100
+酷	khok4	100
+鵠	khok4	100
+崆	khong1	100
+空	khong1	100
+箜	khong1	100
+倥	khong2	100
+孔	khong2	100
 孔雀	khong2  chhieh4	100
 孔子	khong2  chur2	100
 孔夫子	khong2  hu1  chur2	100
+控	khong3	100
+空	khong3	100
+鞚	khong3	100
 呼	khou1	100
-箍	khou1	200
+圈	khou1	200
+箍	khou1	300
 篐	khou1	100
+𥸱	khou1	100
 鬮數	khou1  siou3	100
 箍桶	khou1  thang2	100
 篐桶	khou1  thang2	50
 箍掉	khou1  tiou3	100
 篐掉	khou1  tiou3	50
-苦	khou2	200
+苦	khou2	300
+許	khou2	100
 苦瓜	khou2  kue1	100
 苦瓜亦是食凉	khou2  kue1 ia7  si6 chiah8  liang5	100
 苦命	khou2  miann7	100
-褲	khou3	100
+寇	khou3	100
+庫	khou3	100
+蔻	khou3	100
+褲	khou3	200
 褲橛	khou3  kueh8	100
 庫房	khou3  pang5	200
 褲頭綾	khou3  thau5  leng5	100
 褲頭帶	khou3  thau5  tua7	200
 褲腿	khou3  thui2	100
 褲吊	khou3  tiou3	100
+佉	khu1	100
+傴	khu1	100
+刳	khu1	100
+區	khu1	100
+坵	khu1	200
+嶇	khu1	100
+拘	khu1	100
+摳	khu1	100
+朐	khu1	100
+樞	khu1	100
+瞘	khu1	100
+祛	khu1	100
+胠	khu1	100
+袪	khu1	100
+軀	khu1	100
+邱	khu1	100
+駒	khu1	100
+驅	khu1	100
 蹲	khu5	100
-臼	khu6	100
+桕	khu6	100
+臼	khu6	200
 臼仔	khu6  kiann2	50
 臼囝	khu6  kiann2	100
+䯞	khua1	100
+侉	khua1	100
+垮	khua1	100
+挎	khua1	100
+胯	khua1	100
+誇	khua1	100
+跨	khua1	100
+挂	khua3	100
+罣	khua3	100
+罫	khua3	100
+褂	khua3	100
 掛着	khua3   tieh8	100
 掛慮	khua3  lur6	100
 濶	khuah4	150
-闊	khuah4	300
+闊	khuah4	400
+快	khuai3	100
+筷	khuai3	100
+彍	khuak4	100
+擴	khuak4	100
 寛	khuan1	200
 圈套	khuan1  thau3	100
 款	khuan2	500
 款待	khuan2  thai6	100
 權	khuan5	200
+傾	khuang1	100
 圈	khuang1	100
+框	khuang1	100
+眶	khuang1	100
+逛	khuang1	100
 圈做一箍	khuang1  cho3 chek8  khou1	100
 圈做一篐	khuang1  cho3 chek8  khou1	50
+頃	khuang2	100
+壙	khuang3	100
+曠	khuang3	100
+況	khuang3	100
+礦	khuang3	100
+貺	khuang3	100
+鄺	khuang3	100
+煢	khuang5	100
+狂	khuang5	100
+瓊	khuang5	100
 寬寬	khuann1  khuann1	200
 寬寬危	khuann1  khuann1 kuinn5	100
 寛	khuann3	100
 看命先生	khuann3  miann6 sin1  senn1	100
 看命先生	khuann3  miann7 sin1  senn1	100
 快活	khuann3  uah8	300
+恢	khue1	100
+盔	khue1	100
+科	khue1	100
+蝌	khue1	100
+詼	khue1	100
+魁	khue1	100
+卦	khue3	100
 快	khue3	100
+課	khue3	100
+踝	khue3	100
 快	khue5	100
-缺	khueh4	100
+瘸	khue5	100
+缺	khueh4	200
+闋	khueh4	100
+闕	khueh4	100
+寬	khueng1	100
+肱	khueng1	100
+髖	khueng1	100
+款	khueng2	100
+惓	khueng5	100
+權	khueng5	100
+蜷	khueng5	100
+踡	khueng5	100
+窟	khuh4	200
+巋	khui1	100
+虧	khui1	100
 開	khui1	100
 開藥材舖	khui1 ieh8  chhai5  phou3	100
 開藥機	khui1 iek8  kui2	100
 開花	khui1  hue1	100
 開帆	khui1  phang5	100
 開單	khui1  tuann1	100
+匭	khui2	100
+宄	khui2	100
+晷	khui2	100
+簋	khui2	100
+軌	khui2	100
+季	khui3	100
 氣	khui3	100
+夔	khui5	100
+戣	khui5	100
+揆	khui5	100
+暌	khui5	100
+睽	khui5	100
+葵	khui5	100
+逵	khui5	100
+馗	khui5	100
+匱	khui6	100
+愧	khui6	100
+憒	khui6	100
+潰	khui6	100
+瞶	khui6	200
+簣	khui6	100
+蕢	khui6	100
+饋	khui6	100
+倔	khuk4	100
+屈	khuk4	100
+崛	khuk4	100
+搰	khuk4	100
+矻	khuk4	100
+窘	khuk4	100
+詘	khuk4	100
 捆	khun2	100
 綑	khun2	200
 困	khun3	200
@@ -2462,21 +5660,103 @@ In-n̄g	in1  ng7	100
 羣	khun5	150
 群	khun5	300
 拳頭	khun5  thau5	100
-去	khur3	200
+坤	khung1	100
+昆	khung1	100
+焜	khung1	100
+琨	khung1	100
+醌	khung1	100
+髡	khung1	100
+囷	khung2	100
+壼	khung2	100
+悃	khung2	100
+捆	khung2	100
+梱	khung2	100
+窘	khung2	100
+菌	khung2	100
+蕈	khung2	100
+閫	khung2	100
+麇	khung2	100
+困	khung3	100
+睏	khung3	100
+拳	khung5	100
+羣	khung5	100
+麇	khung5	100
+去	khur3	300
 去也	khur3   no7	100
 去職	khur3  cheh4	100
 去厝	khur3  chhu3	100
+佢	khur5	100
+氍	khur5	100
+渠	khur5	100
+璩	khur5	100
+癯	khur5	100
+瞿	khur5	100
+磲	khur5	100
+蕖	khur5	100
+蘧	khur5	100
+衢	khur5	100
+乞	khurk4	100
 芹菜	khurn5  chhai3	100
+糠	khurng1	100
+墾	khurng2	100
+懇	khurng2	100
+勸	khurng3	100
+勤	khurng5	100
+芹	khurng5	100
 乞	khurt4	300
 乞食	khurt4  chiah8	100
 窟	khut4	100
-枝	ki1	100
+乩	ki1	100
+吱	ki1	100
+嘰	ki1	100
+基	ki1	100
+姬	ki1	100
+岐	ki1	100
+嵇	ki1	100
+幾	ki1	100
+朞	ki1	100
+枝	ki1	200
+梔	ki1	100
+機	ki1	100
+歧	ki1	100
+璣	ki1	100
+畿	ki1	100
+磯	ki1	100
+稽	ki1	100
+笄	ki1	100
+箕	ki1	100
+肌	ki1	100
+芰	ki1	100
+萁	ki1	100
+蟣	ki1	100
+譏	ki1	100
+跂	ki1	100
+飢	ki1	100
+饑	ki1	100
+𧝞	ki1	100
 一枝八個錢	ki1 poih4  kai5 chinn5	100
 饑荒	ki1  hng1	100
 機會	ki1  hue6	100
 基督	ki1  tok4	100
+几	ki2	100
+屺	ki2	100
+己	ki2	100
+幾	ki2	100
+庋	ki2	200
 指	ki2	100
-痣	ki3	100
+杞	ki2	100
+紀	ki2	100
+莒	ki2	100
+麂	ki2	100
+廄	ki3	100
+既	ki3	100
+暨	ki3	100
+洎	ki3	100
+痣	ki3	200
+紀	ki3	100
+繼	ki3	100
+罽	ki3	100
+記	ki3	100
 繼母	ki3  bo2	100
 記號	ki3  ho7	100
 記口供	ki3  khau2  keng1	100
@@ -2485,14 +5765,47 @@ In-n̄g	in1  ng7	100
 繼父	ki3  pe6	100
 記數	ki3  siou3	100
 記得	ki3  tit4	200
-旗	ki5	100
+旂	ki5	100
+旗	ki5	200
+棋	ki5	100
 旗杆	ki5  kuann1	100
-寄	kia3	200
+企	ki6	100
+伎	ki6	100
+偈	ki6	100
+冀	ki6	100
+妓	ki6	100
+履	ki6	100
+忌	ki6	100
+忮	ki6	100
+技	ki6	100
+窶	ki6	100
+羈	ki6	100
+薊	ki6	100
+覬	ki6	100
+跽	ki6	100
+驥	ki6	100
+伽	kia1	100
+佳	kia1	100
+加	kia1	100
+咖	kia1	100
+嘉	kia1	100
+珈	kia1	100
+痂	kia1	100
+笳	kia1	100
+葭	kia1	100
+跏	kia1	100
+迦	kia1	100
+斝	kia2	100
+檟	kia2	100
+寄	kia3	300
 寄去買	kia3  khur3  boi2	100
+崎	kia6	100
 崎	kia7	100
+訐	kiah4	100
 揭算盤	kiah4  sng3  puann5	100
 揭𮅕盤	kiah4  sng3  puann5	50
-屐	kiah8	200
+劇	kiah8	100
+屐	kiah8	300
 減	kiam2	300
 劍	kiam3	100
 鹹	kiam5	200
@@ -2501,10 +5814,21 @@ In-n̄g	in1  ng7	100
 鹹澀	kiam5  siap4	100
 鹹澁	kiam5  siap4	50
 鹹酸	kiam5  sng1	100
-驚	kiann1	200
+僵	kiang1	100
+姜	kiang1	100
+殭	kiang1	100
+疆	kiang1	100
+繮	kiang1	100
+羌	kiang1	100
+蜣	kiang1	100
+強	kiang2	100
+襁	kiang2	100
+京	kiann1	100
+驚	kiann1	300
+麖	kiann1	100
 驚到戇去	kiann1  kau3  kong5   khur3	100
 京城	kiann1  siann5	100
-仔	kiann2	150
+仔	kiann2	250
 囝	kiann2	300
 仔兒着行孝父母	kiann2  ji5 tieh8 kiann5  hau3 pe6  bo2	50
 囝兒着行孝父母	kiann2  ji5 tieh8 kiann5  hau3 pe6  bo2	100
@@ -2523,8 +5847,8 @@ In-n̄g	in1  ng7	100
 囝婿	kiann2  sai3	100
 仔孫	kiann2  sun1	150
 囝孫	kiann2  sun1	300
-鏡	kiann3	100
-行	kiann5	500
+鏡	kiann3	200
+行	kiann5	600
 行走	kiann5  chau2	100
 行船人	kiann5  chun5  nang5	200
 行船儂	kiann5  chun5  nang5	100
@@ -2536,9 +5860,9 @@ In-n̄g	in1  ng7	100
 行摩	kiann5  mua5	100
 行賺路	kiann5  tann7  lou7	100
 行爲	kiann5  ui5	100
-件	kiann6	100
+件	kiann6	200
 健	kiann7	100
-叫	kie3	700
+叫	kie3	800
 呌	kie3	350
 叫伙頭來	kie3 hue2  thau5 lai5	100
 呌伙頭來	kie3 hue2  thau5 lai5	50
@@ -2546,60 +5870,179 @@ In-n̄g	in1  ng7	100
 呌伊來	kie3 i1 lai5	50
 叫司阜來補	kie3 sai1  pe6 lai5 pou2	100
 呌司阜來補	kie3 sai1  pe6 lai5 pou2	50
-橋	kie5	100
+橋	kie5	200
 簥	kie5	100
+茄	kie5	100
 簥好煮咖喱	kie5 ho2  chur2 ka1  li5	100
-轎	kie7	200
+藠	kie6	100
+轎	kie7	300
+腳	kieh4	200
+潔	kiek4	100
+羯	kiek4	100
+傑	kiek8	100
+桀	kiek8	100
+磔	kiek8	100
+竭	kiek8	100
+兼	kiem1	100
+縑	kiem1	100
+蒹	kiem1	100
+螊	kiem1	100
+撿	kiem2	100
+檢	kiem2	100
+減	kiem2	100
+瞼	kiem2	100
+碱	kiem2	100
+鹼	kiem2	100
+劍	kiem3	100
+鹹	kiem5	100
 見笑	kien3  siou3	100
 建	kien6	100
-薑	kienn1	100
+堅	kieng1	100
+娟	kieng1	100
+慳	kieng1	100
+捐	kieng1	100
+涓	kieng1	100
+蜎	kieng1	100
+蠲	kieng1	100
+鏗	kieng1	100
+鰹	kieng1	100
+鵑	kieng1	100
+狷	kieng3	100
+絹	kieng3	100
+罥	kieng3	100
+見	kieng3	100
+健	kieng6	100
+建	kieng6	100
+毽	kieng6	100
+犍	kieng6	100
+腱	kieng6	100
+鍵	kieng6	100
+薑	kienn1	200
 薑母好作藥	kienn1  bo2 ho2  cho3  ieh8	100
+強	kienn5	100
+劫	kiep4	100
+峽	kiep4	100
+愜	kiep4	100
+篋	kiep4	100
+莢	kiep4	100
+郟	kiep4	100
+鋏	kiep4	100
+頰	kiep4	100
+砌	kih4	100
 頰溝	kih4  kau1	200
-金	kim1	100
+吉	kik4	100
+揭	kik4	200
+楬	kik4	100
+橘	kik4	100
+碣	kik4	100
+今	kim1	100
+金	kim1	200
 金橄欖	kim1  kann1  nann2	100
 金器	kim1  khui3	100
 金鑾殿	kim1  luan5  toinn7	100
 金沙	kim1  sua1	100
-禁	kim3	300
+錦	kim2	100
+噤	kim3	100
+禁	kim3	400
 禁子	kim3  chi2	100
 禁監	kim3  kam1	100
 禁港	kim3  kang2	100
 禁口	kim3  khau2	100
+妗	kim6	100
 緊	kin2	200
+緊	king2	100
 墘	kinn5	100
+掬	kiok4	100
+粥	kiok4	100
+鞠	kiok4	100
+鞫	kiok4	100
+鬻	kiok4	100
+麯	kiok4	100
+共	kiong1	100
+恭	kiong1	100
+穹	kiong1	100
+芎	kiong1	100
+躬	kiong1	100
 恭喜	kiong1  hi2	100
+拱	kiong2	100
+珙	kiong2	100
+龔	kiong2	100
+姣	kiou1	100
+嬌	kiou1	100
+澆	kiou1	100
 邀	kiou1	100
+驕	kiou1	100
 邀阿孥	kiou1 a1  nounn2	100
 邀走	kiou1  chau2	100
+嶠	kiou2	100
+撟	kiou2	100
+皦	kiou2	100
+矯	kiou2	100
+繑	kiou2	100
+繳	kiou2	100
+餃	kiou2	100
 繳尾	kiou2  bue2	100
+撬	kiou6	100
+急	kip4	100
+給	kip4	100
+及	kip8	100
+芨	kip8	100
 桔	kit4	100
 結疕	kit4  phi2	100
 結凍	kit4  tang3	100
-救	kiu3	300
+朹	kiu2	100
+糾	kiu2	100
+羑	kiu2	100
+艽	kiu2	100
+赳	kiu2	100
+救	kiu3	400
+究	kiu3	100
 救主	kiu3  chu2	100
 毬	kiu5	50
-球	kiu5	100
+球	kiu5	200
+咎	kiu6	100
+柩	kiu6	100
+疚	kiu6	100
+糾	kiu6	100
 光	kng1	200
 扛	kng1	100
 光通	kng1  thang3	100
 鋼	kng3	100
-糕	ko1	100
+哥	ko1	100
+撾	ko1	100
+歌	ko1	100
+活	ko1	100
+渦	ko1	100
+竿	ko1	200
+篙	ko1	100
+糕	ko1	200
+羔	ko1	100
+膏	ko1	100
+過	ko1	100
+高	ko1	200
+𠹭	ko1	100
 膏藥	ko1  ieh8	100
 高麗菜	ko1  le5  chhai3	100
 羔丕	ko1  pi5	100
 羔丕磨	ko1  pi5  bo7	100
 羔丕礶	ko1  pi5  kuan3	50
 羔丕罐	ko1  pi5  kuan3	100
-划	ko3	200
-告	ko3	100
-塊	ko3	100
+稿	ko2	100
+藁	ko2	100
+蜾	ko2	100
+划	ko3	300
+告	ko3	300
+塊	ko3	200
 告贏	ko3  iann5	100
 告示	ko3  si7	100
 告輸	ko3  su1	100
+擱	ko5	100
+個	ko6	100
+閣	koh4	100
 各樣	koh4  ienn7	100
 胳胴下	koh4  lang5  e6	100
-街	koi1	100
-雞	koi1	100
+街	koi1	200
+雞	koi1	200
 鷄	koi1	50
 雞鴨	koi1  ah4	100
 鷄鴨	koi1  ah4	50
@@ -2630,25 +6073,51 @@ In-n̄g	in1  ng7	100
 鷄湯落㸃囝芹菜就芳	koi1  thng1 loh8 tiam2  kiann2 khurn5  chhai3 chiu6 phang1	1
 鷄湯落點仔芹菜就芳	koi1  thng1 loh8 tiam2  kiann2 khurn5  chhai3 chiu6 phang1	3
 鷄湯落點囝芹菜就芳	koi1  thng1 loh8 tiam2  kiann2 khurn5  chhai3 chiu6 phang1	6
-改	koi2	300
+改	koi2	400
 攺	koi2	150
-解	koi2	100
+解	koi2	200
 解薰丸	koi2  hun1  inn5	100
 解藥	koi2  ieh8	100
 改變	koi2  pinn3	200
 攺變	koi2  pinn3	100
 解說	koi2  sueh4	100
 疥	koi3	100
+解	koi3	100
+計	koi3	100
 計共	koi3  kang7	300
 計謀	koi3  mong5	100
-易	koi7	100
-夾	koih4	100
-夾	koih8	100
+鮭	koi5	100
+易	koi7	200
+夾	koih4	200
+裌	koih4	100
+夾	koih8	200
 葵笠	koih8  loih8	100
+掮	koinn1	100
+肩	koinn1	100
 間	koinn1	200
 肩頭	koinn1  thau5	200
+揀	koinn2	100
+繭	koinn2	100
+襇	koinn2	100
+趼	koinn2	100
+間	koinn3	100
 揀	koinn5	100
-國	kok4	100
+嘓	kok4	100
+國	kok4	200
+幗	kok4	100
+摑	kok4	100
+榖	kok4	100
+瀔	kok4	100
+玨	kok4	200
+穀	kok4	100
+蟈	kok4	100
+谷	kok4	100
+轂	kok4	100
+公	kong1	100
+功	kong1	100
+攻	kong1	100
+肛	kong1	100
+蚣	kong1	100
 公眾	kong1  cheng3	100
 公衆	kong1  cheng3	50
 公親	kong1  chhin1	100
@@ -2661,19 +6130,41 @@ In-n̄g	in1  ng7	100
 功恩	kong1  urn1	100
 管	kong2	100
 戇戇愛夗	kong2  kong2 ainn3  ut8	100
+供	kong3	100
+嗊	kong3	100
 愩	kong3	100
+戇	kong3	100
+汞	kong3	100
+貢	kong3	100
+贛	kong3	100
 𨫋	kong3	200
 貢皇帝	kong3  huang5  ti3	100
-戇	kong5	100
+戇	kong5	200
 戇去	kong5  khur3	100
-菇	kou1	100
+䬲	kou1	100
+估	kou1	100
+姑	kou1	100
+孤	kou1	100
+枯	kou1	100
+沽	kou1	100
+罛	kou1	100
+菇	kou1	200
+菰	kou1	100
+鴣	kou1	100
 沽酒	kou1  chiu2	100
 沽油	kou1  iu5	100
 姑丈	kou1  tienn6	100
-估	kou2	100
-古	kou2	300
-股	kou2	100
-鼓	kou2	100
+估	kou2	200
+古	kou2	400
+牯	kou2	100
+笱	kou2	100
+羖	kou2	100
+股	kou2	200
+臌	kou2	100
+芶	kou2	100
+苟	kou2	100
+鈷	kou2	100
+鼓	kou2	200
 古早	kou2  cha2	100
 估價	kou2  ke3	200
 古人	kou2  nang5	100
@@ -2682,30 +6173,108 @@ In-n̄g	in1  ng7	100
 估値	kou2  tat8	50
 估值	kou2  tat8	100
 古傳	kou2  tng7	100
+僱	kou3	100
+冓	kou3	100
+垢	kou3	100
+妒	kou3	100
+媾	kou3	100
+彀	kou3	100
+斁	kou3	100
+構	kou3	100
+覯	kou3	100
+詬	kou3	100
+購	kou3	100
+轂	kou3	100
+遘	kou3	100
 雇	kou3	200
-糊	kou5	200
-久	ku2	100
+糊	kou5	300
+靠	kou6	100
+劬	ku1	100
+呱	ku1	200
+咕	ku1	100
+岣	ku1	100
+痀	ku1	100
+蛄	ku1	100
+軲	ku1	100
+辜	ku1	200
+骷	ku1	100
+鴝	ku1	100
+龜	ku1	100
+久	ku2	200
+嘏	ku2	100
+盬	ku2	100
+瞽	ku2	100
+罟	ku2	100
+蠱	ku2	100
+詁	ku2	100
+賈	ku2	200
+韭	ku2	200
 久久	ku2  ku2	100
 古怪	ku2  kuai3	200
+句	ku3	100
+固	ku3	100
+崮	ku3	100
+故	ku3	100
+泃	ku3	100
+灸	ku3	100
+痼	ku3	100
+錮	ku3	100
+顧	ku3	200
 故此	ku3  chhur2	100
-舊	ku7	200
+俱	ku6	100
+具	ku6	100
+埧	ku6	100
+懼	ku6	100
+犋	ku6	100
+舅	ku6	100
+颶	ku6	100
+鵙	ku6	100
+故	ku7	100
+舊	ku7	300
 舊約	ku7  ieh4	100
+柯	kua1	100
 歌	kua1	100
 跨	kua1	100
+𧿼	kua1	100
 寡婦	kua2  hu6	100
 寡個	kua2  kai5	100
 掛	kua3	200
 掛馬鞍	kua3  be2  uann1	100
-割	kuah4	300
+䠚	kua5	100
+割	kuah4	400
+渴	kuah4	100
+葛	kuah4	100
+轕	kuah4	100
 割牛肉	kuah4  gu5  bah4	100
 割花	kuah4  hue1	100
 割花司阜	kuah4  hue1 sai1  pe6	100
 割猪肉	kuah4  tur1  bah4	50
 割豬肉	kuah4  tur1  bah4	100
+乖	kuai1	100
+拐	kuai2	100
+柺	kuai2	100
 拐脚	kuai2  kha1	50
 拐腳	kuai2  kha1	100
 拐跤	kuai2  kha1	24
 拐骹	kuai2  kha1	200
+儈	kuai3	100
+劊	kuai3	100
+噲	kuai3	100
+怪	kuai3	100
+擓	kuai3	100
+會	kuai3	100
+檜	kuai3	100
+澮	kuai3	100
+燴	kuai3	100
+獪	kuai3	100
+繪	kuai3	100
+膾	kuai3	100
+蒯	kuai3	100
+薈	kuai3	100
+崞	kuak4	100
+廓	kuak4	100
+椁	kuak4	100
+漷	kuak4	100
 觀顧	kuan1  ku3	200
 管	kuan2	400
 管藥機个人	kuan2  ieh8  kui2   kai5  nang5	100
@@ -2715,8 +6284,27 @@ In-n̄g	in1  ng7	100
 痒癲	kuan3  pien1	100
 灌腸	kuan3  tng5	100
 捲	kuan7	100
+光	kuang1	100
+桄	kuang1	100
+洸	kuang1	100
+胱	kuang1	100
+觥	kuang1	100
 誆	kuang1	100
-肝	kuann1	100
+誑	kuang1	100
+銧	kuang1	100
+廣	kuang2	100
+炯	kuang2	100
+絅	kuang2	100
+綸	kuang2	100
+耿	kuang2	100
+詗	kuang2	100
+迥	kuang2	100
+倌	kuann1	100
+官	kuann1	100
+桿	kuann1	100
+棺	kuann1	100
+秆	kuann1	100
+肝	kuann1	200
 棺木	kuann1  bak8	100
 棺柴	kuann1  chha5	100
 官正	kuann1  chiann3	200
@@ -2725,22 +6313,29 @@ In-n̄g	in1  ng7	100
 官府	kuann1  hu2	100
 官衣	kuann1  i1	100
 官印	kuann1  in3	100
+剮	kuann2	100
+寡	kuann2	100
+趕	kuann2	100
 寒着	kuann5   tieh8	100
 寒藥	kuann5  ieh8	100
 摜	kuann6	100
 貫	kuann6	100
 摜一桶水來	kuann6 chek8  thang2 chui2 lai5	100
 汗	kuann7	200
+瓜	kue1	100
 瓜冊	kue1  chheh4	100
-粿	kue2	200
-餜	kue2	100
+果	kue2	200
+粿	kue2	300
+菓	kue2	100
+餜	kue2	200
 果子	kue2  chi2	100
 菓子	kue2  chi2	50
 果子个時愛到	kue2  chi2 kai5 si5 ainn3  kau3	100
 菓子个時愛到	kue2  chi2 kai5 si5 ainn3  kau3	50
 果子園	kue2  chi2  hng5	100
 菓子園	kue2  chi2  hng5	50
-過	kue3	400
+過	kue3	500
+髻	kue3	100
 過去	kue3   khur3	200
 過漿	kue3  chienn1	100
 過限	kue3  han6	100
@@ -2750,26 +6345,100 @@ In-n̄g	in1  ng7	100
 絆着	kue5   tieh8	100
 葵扇	kue5  sinn3	100
 刮	kueh4	100
+郭	kueh4	200
+䀨	kuek4	100
+䒷	kuek4	100
+决	kuek4	100
+刮	kuek4	100
+抉	kuek4	100
+括	kuek4	100
+栝	kuek4	100
+炔	kuek4	100
+玦	kuek4	100
+蛞	kuek4	100
+訣	kuek4	100
+譎	kuek4	100
+颳	kuek4	100
+鴰	kuek4	100
+冠	kueng1	100
+觀	kueng1	100
+關	kueng1	100
+鰥	kueng1	100
+捲	kueng2	100
+棬	kueng2	100
+琯	kueng2	100
+管	kueng2	100
+綣	kueng2	100
+綰	kueng2	100
+莞	kueng2	100
+菅	kueng2	100
+逭	kueng2	100
+館	kueng2	100
+鬈	kueng2	100
+冠	kueng3	100
+券	kueng3	100
+慣	kueng3	100
+摜	kueng3	100
+毌	kueng3	100
+灌	kueng3	100
+盥	kueng3	100
+眷	kueng3	100
+祼	kueng3	100
+罐	kueng3	100
+觀	kueng3	100
+貫	kueng3	100
+顴	kueng3	100
+鸛	kueng3	100
+倦	kueng6	100
 關	kuenn1	300
 𨵿	kuenn1	150
 關藥機	kuenn1 ieh8  kui2	100
 𨵿藥機	kuenn1 ieh8  kui2	50
+圭	kui1	100
+奎	kui1	100
+嬀	kui1	100
+歸	kui1	100
+潙	kui1	100
+皈	kui1	100
+硅	kui1	100
+窺	kui1	100
+規	kui1	100
+跬	kui1	100
+閨	kui1	100
+鮭	kui1	100
 規矩	kui1  kur2	300
 歸原	kui1  nguan5	100
 規條	kui1  tiou5	100
-鬼	kui2	200
-貴	kui3	300
+傀	kui2	100
+詭	kui2	100
+鬼	kui2	300
+悸	kui3	100
+桂	kui3	100
+瑰	kui3	100
+癸	kui3	100
+貴	kui3	400
 貴在	kui3  chai6	100
 貴器	kui3  khi3	200
 桂皮	kui3  phue5	100
-跪	kui6	200
+跪	kui6	300
 跪落去	kui6   loh8  khur3	100
 慣勢	kuinn3  sinn3	100
 慣習	kuinn3  sinn3	100
 危	kuinn5	200
-櫃	kuinn7	100
-縣	kuinn7	100
+匱	kuinn7	100
+櫃	kuinn7	200
+縣	kuinn7	200
 縣官	kuinn7  kuann1	100
+榾	kuk4	100
+餶	kuk4	100
+骨	kuk4	100
+鶻	kuk4	100
+倔	kuk8	100
+掘	kuk8	100
+搰	kuk8	100
+汩	kuk8	100
+滑	kuk8	100
+猾	kuk8	100
 君子	kun1  chur2	200
 軍兵	kun1  piann1	100
 滾	kun2	100
@@ -2777,9 +6446,50 @@ In-n̄g	in1  ng7	100
 綑條	kun2  tiou5	100
 棍	kun3	100
 裙	kun5	100
+君	kung1	100
+皸	kung1	100
+軍	kung1	100
+掍	kung2	100
+滚	kung2	100
+磙	kung2	100
+緄	kung2	100
+衮	kung2	100
+輥	kung2	100
+鯀	kung2	100
+捃	kung3	100
+棍	kung3	100
+裙	kung5	100
+郡	kung6	100
+居	kur1	100
+琚	kur1	100
+裾	kur1	100
+車	kur1	100
+枸	kur2	200
+柜	kur2	100
+櫸	kur2	100
+矩	kur2	100
+秬	kur2	100
+舉	kur2	100
+蒟	kur2	100
+踽	kur2	100
 舉荐	kur2  chin3	100
-鋸	kur3	200
+鋸	kur3	300
 鋸銊	kur3  sut4	100
+倨	kur6	100
+噱	kur6	100
+巨	kur6	100
+拒	kur6	100
+据	kur6	100
+據	kur6	100
+炬	kur6	100
+秬	kur6	100
+苣	kur6	100
+詎	kur6	100
+距	kur6	100
+踞	kur6	100
+遽	kur6	100
+醵	kur6	100
+嗝	kurh4	100
 斤	kurn1	200
 根	kurn1	100
 筋	kurn1	100
@@ -2790,6 +6500,34 @@ In-n̄g	in1  ng7	100
 近	kurn6	200
 近覷	kurn6  chhur3	100
 近視	kurn6  si7	100
+均	kurng1	100
+巾	kurng1	100
+扛	kurng1	100
+掆	kurng1	100
+斤	kurng1	100
+根	kurng1	100
+筋	kurng1	100
+缸	kurng1	100
+觔	kurng1	100
+跟	kurng1	100
+鈞	kurng1	100
+僅	kurng2	100
+卷	kurng2	100
+卺	kurng2	100
+堇	kurng2	100
+廑	kurng2	100
+槿	kurng2	100
+殣	kurng2	100
+瑾	kurng2	100
+謹	kurng2	100
+饉	kurng2	100
+哏	kurng3	100
+艮	kurng3	100
+茛	kurng3	100
+覲	kurng3	100
+鋼	kurng3	100
+靳	kurng3	100
+近	kurng6	100
 結	kurt8	100
 骨	kut4	100
 骨牌	kut4  pai5	100
@@ -2797,22 +6535,47 @@ In-n̄g	in1  ng7	100
 掘	kut8	100
 滑	kut8	300
 掘了挈糞箕抔掉	kut8  liou2 khieh8 pun3  ki1 put4  tiou3	100
+剌	la1	100
+啦	la1	100
+喇	la1	100
+嘞	la1	100
+垃	la1	100
+拉	la1	100
+旯	la1	100
+鞡	la1	100
 𤰉	la3	200
-朥	la5	200
+朥	la5	300
 𤰉	la6	100
 納凊	la7  chhin3	100
 納凉	la7  liang5	200
 半燒	la7  lun5  sie1	100
 晾衫	la7  sann1	100
+擸	lah4	100
+瘌	lah4	100
+邋	lah4	100
+獵	lah8	100
+臘	lah8	100
+蠟	lah8	100
+躐	lah8	100
+辣	lah8	200
+鑞	lah8	100
+鬣	lah8	200
 蠟蔗	lah8  chia3	100
 曆日	lah8  jit8	100
-來	lai5	100
-梨	lai5	100
+徠	lai3	100
+睞	lai3	100
+賚	lai3	100
+來	lai5	200
+崍	lai5	100
+梨	lai5	200
+淶	lai5	100
+萊	lai5	100
+錸	lai5	100
 來去佚佗	lai5  khur3 thit4  tho5	200
 來銀	lai5  ngurn5	100
 來抛加一個椗	lai5  pha1 ke1   kai5 teng3	100
 來往	lai5  uang2	300
-內	lai6	200
+內	lai6	300
 內女孫	lai6  chau2  sun1	100
 內爿	lai6  poinn5	100
 內畔	lai6  poinn5	50
@@ -2820,10 +6583,35 @@ In-n̄g	in1  ng7	100
 內地	lai6  ti7	100
 利	lai7	200
 利錢	lai7  chinn5	100
-六	lak8	100
+碌	lak4	100
+六	lak8	200
+力	lak8	100
+叻	lak8	100
+樂	lak8	200
+陸	lak8	300
 六斤四	lak8  kurn1  si3	100
 六部	lak8  pou6	100
+搿	lam2	100
+攬	lam2	100
+檻	lam2	100
+欖	lam2	100
+纜	lam2	100
+腩	lam2	100
+艦	lam2	100
+覽	lam2	100
+南	lam5	100
+喃	lam5	100
+囡	lam5	100
+婪	lam5	100
+嵐	lam5	100
+楠	lam5	100
+男	lam5	100
+罱	lam5	100
 藍	lam5	200
+蝻	lam5	100
+襤	lam5	100
+濫	lam6	100
+灠	lam6	100
 欄杆	lan5  kan1	100
 零些	lan5  lo2	100
 零須	lan5  lo2	100
@@ -2831,15 +6619,63 @@ In-n̄g	in1  ng7	100
 零些賣	lan5  san1  boi7	100
 卵核	lan6  hut8	100
 卵脬	lan6  pha1	100
+囊	lang2	100
+囔	lang2	100
+懶	lang2	100
+攮	lang2	100
+曩	lang2	100
 籠	lang2	100
+赧	lang2	100
+饢	lang2	100
+齉	lang2	100
 漏掉	lang3  tiou3	100
+啷	lang5	100
 壟	lang5	100
+廊	lang5	100
+攔	lang5	100
+斕	lang5	100
+榔	lang5	100
+欄	lang5	100
+浪	lang5	100
 濃	lang5	100
+瀾	lang5	100
+爛	lang5	100
+狼	lang5	100
+琅	lang5	100
+瑯	lang5	100
+礱	lang5	100
+稂	lang5	100
+籠	lang5	100
+聾	lang5	100
+膿	lang5	200
+蘭	lang5	100
+螂	lang5	100
+讕	lang5	100
+踉	lang5	100
+鑭	lang5	100
+閬	lang5	100
+闌	lang5	100
+難	lang5	100
+零	lang5	200
+鱗	lang5	200
+弄	lang6	200
+朗	lang6	100
+浪	lang6	100
+爛	lang6	100
+蒗	lang6	100
+難	lang7	100
 納餉	lap8  hiang3	100
 納粮	lap8  nienn5	50
 納糧	lap8  nienn5	100
 力	lat8	600
+褸	lau1	100
+姥	lau2	100
+栳	lau2	100
 漏	lau2	100
+老	lau2	100
+耮	lau2	100
+荖	lau2	100
+銠	lau2	100
 荖子	lau2  chi2	100
 老將	lau2  chiang3	100
 荖葉	lau2  hieh8	100
@@ -2848,7 +6684,18 @@ In-n̄g	in1  ng7	100
 漏人	lau2  nang5	100
 漏儂	lau2  nang5	50
 老實	lau2  sit8	200
+勞	lau3	100
+澇	lau3	100
+劉	lau5	100
+勞	lau5	100
+嘮	lau5	100
+嶗	lau5	100
+撈	lau5	200
+樓	lau5	100
 流	lau5	100
+漊	lau5	100
+癆	lau5	100
+耬	lau5	100
 流涸	lau5 kho2	200
 流漲	lau5 tinn6	100
 勞汝	lau5   lur2	100
@@ -2863,7 +6710,7 @@ In-n̄g	in1  ng7	100
 樓枋	lau5  pang1	100
 樓頂樓枋亦是此樣生	lau5  teng2 lau5  pang1 ia7 si6 chienn3  senn1	100
 樓梯	lau5  thui1	100
-老	lau6	200
+老	lau6	300
 老叔	lau6  chek4	100
 栳㭳	lau6  hau3	100
 老虎	lau6  hounn2	100
@@ -2885,16 +6732,76 @@ In-n̄g	in1  ng7	100
 老爹聽了就點頭	lau6  tia1 thiann1  liou2 chiu6 tak4  thau5	100
 老爺戴頂就出來坐堂	lau6  tia1 ti3  teng2 chiu6 chhut4   lai5 cho6  tng5	100
 老大	lau6  tua7	100
-漏	lau7	100
+漏	lau7	200
+瘻	lau7	100
 霤母槽	lau7  bo2  cho5	100
 漏屎	lau7  sai2	100
+嚦	leh8	100
+曆	leh8	100
+櫟	leh8	100
+櫪	leh8	100
+歷	leh8	100
+瀝	leh8	100
+癧	leh8	100
+皪	leh8	100
+礫	leh8	100
+藶	leh8	100
+靂	leh8	100
+鬲	leh8	100
+仂	lek8	100
+勒	lek8	100
+屴	lek8	100
 歴	lek8	100
-綠	lek8	100
+氯	lek8	100
+泐	lek8	100
+綠	lek8	200
 緑	lek8	100
+肋	lek8	100
+菉	lek8	100
+轢	lek8	100
+鰳	lek8	100
 勒索	lek8  sok4	100
+鈴	leng1	100
 燈盞个火熄去	leng1  chuann2 kai5 hue2 kue3   khur3	100
 推	leng2	100
-龍	leng5	100
+攆	leng2	100
+伶	leng5	100
+凌	leng5	100
+另	leng5	100
+嚨	leng5	100
+囹	leng5	100
+塄	leng5	100
+寧	leng5	100
+拎	leng5	100
+擰	leng5	100
+棱	leng5	100
+楞	leng5	100
+檸	leng5	100
+櫺	leng5	100
+泠	leng5	100
+淩	leng5	100
+濘	leng5	100
+獰	leng5	100
+玲	leng5	100
+瓴	leng5	100
+甯	leng5	100
+睖	leng5	100
+綾	leng5	100
+羚	leng5	100
+翎	leng5	100
+聆	leng5	100
+能	leng5	100
+舲	leng5	100
+菱	leng5	100
+薐	leng5	100
+蛉	leng5	100
+酃	leng5	100
+陵	leng5	100
+靈	leng5	100
+鯪	leng5	100
+鴒	leng5	100
+齡	leng5	100
+龍	leng5	200
 靈精	leng5  cheng1	100
 龍蝦	leng5  he5	100
 靈魂	leng5  hun5	200
@@ -2910,76 +6817,298 @@ In-n̄g	in1  ng7	100
 叧外㸃	leng5  ngua7 tiam2	12
 叧外點	leng5  ngua7 tiam2	25
 龍位	leng5  ui7	100
-令	leng6	200
-李	li2	100
-理	li2	200
+令	leng6	300
+佞	leng6	100
+甯	leng6	100
+苓	leng6	100
+俚	li2	100
+哩	li2	100
+娌	li2	100
+履	li2	100
+旅	li2	100
+李	li2	200
+浬	li2	100
+澧	li2	100
+理	li2	300
+膂	li2	100
+蠡	li2	100
+裏	li2	100
+邐	li2	100
+醴	li2	100
+里	li2	100
+鋰	li2	100
+鯉	li2	100
 理事	li2  sur7	100
+攦	li3	100
 裂	li3	100
-籬	li5	100
+剺	li5	100
+劙	li5	100
+厘	li5	100
+嫠	li5	100
+摛	li5	100
+漓	li5	100
+灕	li5	100
+犁	li5	200
+犛	li5	100
+狸	li5	100
+璃	li5	100
+籬	li5	200
+罹	li5	100
+藜	li5	100
+螭	li5	100
+酈	li5	100
+醨	li5	100
+離	li5	100
+驪	li5	100
+魑	li5	100
+鸝	li5	100
+黎	li5	100
+黧	li5	100
 離庵埠無若遠	li5 am1  pou1 bo5  jieh8  hng6	100
 離𤲅埠無若遠	li5 am1  pou1 bo5  jieh8  hng6	50
 厘秤	li5  chhin3	100
 離經	li5  keng1	200
 離開	li5  khui1	100
 離別	li5  piet8	100
+儷	li6	100
+利	li6	100
+勵	li6	100
+厲	li6	100
+唳	li6	100
+戾	li6	100
+捩	li6	100
+猁	li6	100
+痢	li6	100
+癘	li6	100
+盭	li6	100
+砅	li6	100
+礪	li6	100
+糲	li6	100
+荔	li6	100
+莉	li6	100
+蒞	li6	100
+蜊	li6	100
+蠣	li6	100
+詈	li6	100
+鱺	li6	100
+麗	li6	100
 痢疾	li6  chit4	100
 厲害	li6  hai7	200
-例	li7	100
-掠	liah8	500
+例	li7	200
+俐	li7	100
+吏	li7	100
+哩	li7	100
+掠	liah8	600
 掠唔打緊	liah8  m6  ta2  keng2	50
 掠毋打緊	liah8  m6  ta2  keng2	100
 掠舵	liah8  tua6	200
+撂	liak8	100
+略	liak8	100
 捻	liam3	100
 簾	liam5	100
 念	liam7	100
 唸經	liam7  keng1	100
 念路	liam7  lou7	100
+倆	liang2	100
+兩	liang2	100
+輛	liang2	100
+魎	liang2	100
 凉	liang5	100
+梁	liang5	100
+椋	liang5	100
+涼	liang5	100
+粱	liang5	100
+良	liang5	100
+量	liang5	100
+亮	liang6	100
+喨	liang6	100
+晾	liang6	100
+諒	liang6	100
+量	liang6	100
 粒	liap8	200
 粒頂就脫掉放在床頂	liap8  teng2 chiu6 thut4  tiou3 pang3 to6 chhng5  teng2	100
 粒頂就脫掉放在牀頂	liap8  teng2 chiu6 thut4  tiou3 pang3 to6 chhng5  teng2	50
+傈	liek8	100
+冽	liek8	100
+凓	liek8	100
+列	liek8	100
+慄	liek8	100
+栗	liek8	100
+洌	liek8	100
+溧	liek8	100
+烈	liek8	100
+篥	liek8	100
+茢	liek8	100
+趔	liek8	100
+鴷	liek8	100
+拈	liem1	100
+粘	liem1	100
+捻	liem2	100
+撚	liem2	100
+斂	liem2	100
+殮	liem2	100
+瀲	liem2	100
+奩	liem5	100
+帘	liem5	100
+廉	liem5	100
+濂	liem5	100
+簾	liem5	100
+臁	liem5	100
+蠊	liem5	100
+鐮	liem5	100
+鬑	liem5	100
+鮎	liem5	100
+埝	liem6	100
+念	liem6	100
+唸	liem7	100
+念	liem7	100
 練	lien7	200
 鍊	lien7	200
+璉	lieng2	100
+臉	lieng2	100
+憐	lieng5	100
+漣	lieng5	100
+聯	lieng5	100
+連	lieng5	100
+鏈	lieng5	100
+吝	lieng6	100
+藺	lieng6	100
+躪	lieng6	100
+楝	lieng7	100
+煉	lieng7	100
+練	lieng7	100
+鍊	lieng7	100
+鏈	lieng7	100
+粒	liep8	100
 列	liet8	100
-裂	lih8	100
+咧	lih8	100
+裂	lih8	200
 飮	lim1	100
+凜	lim2	100
+廩	lim2	100
+懍	lim2	100
+檩	lim2	100
+林	lim5	100
+淋	lim5	100
+琳	lim5	100
+臨	lim5	100
+霖	lim5	100
 林擒	lim5  khim5	100
 臨時	lim5  si5	100
 輪	lin2	200
 輾錢	lin3  chinn5	100
 鄰近	lin5  kurn6	100
-了	liou2	200
+輦	ling2	100
+嶙	ling5	100
+燐	ling5	100
+疄	ling5	100
+瞵	ling5	100
+磷	ling5	100
+轔	ling5	100
+遴	ling5	100
+鄰	ling5	100
+鰱	ling5	200
+麟	ling5	100
+了	liou2	300
+撩	liou2	100
+蓼	liou2	100
+釕	liou2	100
+了	liou3	100
+僚	liou5	100
+嘹	liou5	100
+寥	liou5	100
+寮	liou5	100
+撩	liou5	100
+燎	liou5	100
+獠	liou5	100
+瘳	liou5	100
+療	liou5	100
+瞭	liou5	100
+繚	liou5	100
+聊	liou5	100
+蹽	liou5	100
+遼	liou5	100
+醪	liou5	100
+鐐	liou5	100
+鷯	liou5	100
+尥	liou7	100
+廖	liou7	100
+料	liou7	100
 料理	liou7  li2	100
+立	lip8	100
 立約	lip8  ieh4	100
 㧕	liu2	100
 挖	liu2	100
+柳	liu2	100
+綹	liu2	100
 鈕	liu2	200
 鈕縫	liu2  phang7	100
 快	liu3	100
+溜	liu3	100
+瀏	liu3	100
+籀	liu3	100
+罶	liu3	100
+遛	liu3	100
+霤	liu3	100
+餾	liu3	100
 溜落去	liu3   loh8  khur3	100
 溜跋	liu3  puah8	100
-留	liu5	100
-瘤	liu5	100
+僇	liu5	100
+嘍	liu5	100
+旒	liu5	100
+榴	liu5	100
+流	liu5	100
+琉	liu5	100
+留	liu5	200
+瘤	liu5	200
+硫	liu5	100
+遛	liu5	100
+飀	liu5	100
+騮	liu5	100
+𨻧	liu5	100
 榴蓮	liu5  lian5	100
 硫磺	liu5  ng5	100
 絞死	liu5  si2	100
 流徒	liu5  thu5	100
+鎦	liu7	100
+餾	liu7	100
 㨨旗	liu7  ki5	100
 鍍金	liu7  kim1	100
 鎏金器	liu7  kim1  khi3	100
 鎦金器	liu7  kim1  khi3	50
 鎏銀器	liu7  ngurn5  khi3	100
 鎦銀器	liu7  ngurn5  khi3	50
+咯	lo1	100
+佬	lo2	200
+潦	lo2	200
+蓏	lo2	100
+裸	lo2	100
+裹	lo2	100
 浪蕩个人	lo2  tong7   kai5  nang5	100
 浪蕩个儂	lo2  tong7   kai5  nang5	50
-螺	lo5	300
-鑼	lo5	100
-騾	lo5	100
+囉	lo5	100
+欏	lo5	100
+漯	lo5	100
+牢	lo5	200
+瘰	lo5	100
+籮	lo5	200
+羅	lo5	100
+腡	lo5	100
+蘿	lo5	100
+螺	lo5	400
+蠃	lo5	100
+覼	lo5	100
+邏	lo5	100
+鑼	lo5	200
+騾	lo5	200
 羅經	lo5  kenn1	200
 羅網	lo5  mang6	100
 羅絲轉	lo5  si1  juan2	100
 羅絲釘	lo5  si1  teng1	100
-落	loh8	200
+摞	loh8	100
+犖	loh8	100
+落	loh8	300
+駱	loh8	200
 落馬	loh8  be2	100
 落船	loh8  chun5	200
 落鹽	loh8  iam5	100
@@ -2990,41 +7119,191 @@ In-n̄g	in1  ng7	100
 落神婆	loh8  sin5  phua5	200
 落產	loh8  suann2	100
 駱駝	loh8  thoh8	200
-禮	loi2	100
+禮	loi2	200
 禮拜	loi2  pai3	100
 禮拜日我愛去禮拜	loi2  pai3  jit8 ua2 ainn3  khur3 loi2  pai3	100
 禮拜堂	loi2  pai3  tng5	300
 禮數	loi2  siou3	100
 𠠍	loi3	100
 犁	loi5	100
+籬	loi7	100
+笠	loih8	100
 漉	lok4	100
 搖籤	lok4  chhiam1	100
 漉漉	lok4  lok4	100
+僇	lok8	100
+咯	lok8	100
+戮	lok8	100
+摝	lok8	100
+洛	lok8	100
+淥	lok8	100
+漉	lok8	100
+濼	lok8	100
+烙	lok8	100
+珞	lok8	100
+甪	lok8	100
+碌	lok8	100
+祿	lok8	100
+簏	lok8	100
+絡	lok8	100
+貉	lok8	100
+輅	lok8	100
+轆	lok8	100
+逯	lok8	100
+酪	lok8	100
+鉻	lok8	100
+錄	lok8	100
+雒	lok8	100
+餎	lok8	100
+麓	lok8	100
+壟	long2	100
+攏	long2	100
+籠	long2	100
+隴	long2	200
 攏總	long2  chong2	300
 攏總算	long2  chong2  sng3	100
 攏總𮅕	long2  chong2  sng3	50
+儂	long5	100
+噥	long5	100
+曨	long5	100
+朧	long5	100
+櫳	long5	100
+濃	long5	100
+瀧	long5	100
+瓏	long5	100
+癃	long5	100
+矓	long5	100
+穠	long5	100
+窿	long5	100
+蘢	long5	100
+農	long5	100
+隆	long5	100
 惱	lou2	200
+滷	lou2	100
+鹵	lou2	100
 嶁岣	lou2  kou2	100
+露	lou3	100
+爐	lou5	100
+鑪	lou5	100
+鱸	lou5	100
 滷	lou6	100
+陋	lou6	100
 滷鹹	lou6  kiam5	100
-路	lou7	300
+路	lou7	400
+露	lou7	100
 露水	lou7  chui2	100
 路仔	lou7  kiann2	50
 路囝	lou7  kiann2	100
 路票	lou7  phie3	200
-夵	lu1	100
+嘍	lu1	100
+夵	lu1	200
+摟	lu1	100
+僂	lu2	100
+嚕	lu2	100
+塿	lu2	100
+屢	lu2	100
+擄	lu2	100
+櫓	lu2	200
+氌	lu2	100
+簍	lu2	200
+縷	lu2	100
+蔞	lu2	200
+虜	lu2	100
+褸	lu2	100
+鑥	lu2	100
+魯	lu2	100
+僂	lu5	100
+婁	lu5	100
+嶁	lu5	100
+廬	lu5	200
+摟	lu5	100
+櫨	lu5	100
+瀘	lu5	100
+盧	lu5	100
+瞜	lu5	100
+臚	lu5	100
+蔞	lu5	100
+蘆	lu5	200
+螻	lu5	100
+轆	lu5	100
+轤	lu5	100
+鏤	lu5	100
+顱	lu5	100
+髏	lu5	100
+鸕	lu5	100
+潞	lu6	100
+珞	lu6	100
+賂	lu6	100
+鷺	lu6	100
+賴	lua7	100
 烙	luah4	100
-蕊	lui2	300
-擂	lui5	100
-雷	lui5	100
+劣	luek4	100
+埒	luek4	100
+捋	luek4	100
+卵	lueng2	100
+暖	lueng2	100
+餪	lueng2	100
+孌	lueng3	100
+孿	lueng3	100
+戀	lueng3	100
+攣	lueng3	100
+臠	lueng3	100
+圞	lueng5	100
+孿	lueng5	100
+巒	lueng5	100
+欒	lueng5	100
+灤	lueng5	100
+鑾	lueng5	100
+鸞	lueng5	100
+亂	lueng6	100
+鐳	lui1	100
+儡	lui2	100
+壘	lui2	100
+嫘	lui2	100
+彙	lui2	100
+磊	lui2	100
+累	lui2	100
+縲	lui2	100
+纍	lui2	100
+耒	lui2	100
+蕊	lui2	400
+蕾	lui2	100
+誄	lui2	100
+擂	lui5	200
+檑	lui5	100
+鐳	lui5	100
+雷	lui5	200
 雷公	lui5  kong1	100
 雷公响	lui5  kong1 tan2	100
+泪	lui6	100
+累	lui6	100
+累	lui7	100
+羸	lui7	100
+類	lui7	100
 累汝	lui7   lur2	100
 累爾	lui7   lur2	50
+律	luk8	100
+率	luk8	100
+矞	luk8	100
+聿	luk8	100
+葎	luk8	100
+鷸	luk8	100
 忍	lun2	100
 輪着底誰	lun5  tieh8  ti5  tiang5	100
 蹂踏	lun7  tah8	100
-汝	lur2	100
+嫩	lung3	100
+侖	lung5	100
+倫	lung5	100
+圇	lung5	100
+掄	lung5	100
+淪	lung5	100
+綸	lung5	100
+輪	lung5	100
+論	lung6	100
+你	lur2	100
+女	lur2	100
+您	lur2	100
+汝	lur2	200
 爾	lur2	50
 汝無	lur2 bo5	100
 爾無	lur2 bo5	50
@@ -3110,13 +7389,22 @@ In-n̄g	in1  ng7	100
 汝个毋是此樣生	lur2  kai5 m6  si6 chienn3  senn1	100
 爾个唔是此樣生	lur2  kai5 m6  si6 chienn3  senn1	12
 爾个毋是此樣生	lur2  kai5 m6  si6 chienn3  senn1	25
-驢	lur5	100
+櫚	lur5	100
+閭	lur5	100
+驢	lur5	200
+侶	lur6	100
+呂	lur6	100
+慮	lur6	100
+濾	lur6	100
+鋁	lur6	100
 呂宋薰	lur6  song3  hun1	100
 呂宋票	lur6  song3  pie1	100
 脫去	lut4   khur3	100
 黜掉	lut4  tiou7	100
 律	lut8	200
+姆	m2	100
 唔	m6	50
+嘸	m6	100
 毋	m6	100
 唔知	m6  chai1	50
 毋知	m6  chai1	100
@@ -3220,6 +7508,21 @@ In-n̄g	in1  ng7	100
 毋着	m6  tieh8	700
 唔對	m6  tui3	50
 毋對	m6  tui3	100
+嗎	ma1	100
+媽	ma1	100
+麽	ma1	100
+嗎	ma2	100
+媽	ma2	100
+瑪	ma2	100
+螞	ma2	100
+馬	ma2	100
+麽	ma3	100
+嬷	mah4	100
+勿	mai3	100
+埋	mai5	100
+薶	mai5	100
+霾	mai5	100
+邁	mai6	100
 勿	mainn3	100
 勿佮伊相罵	mainn3 kah4 i1 sie1  menn7	100
 勿笑	mainn3  chhie3	100
@@ -3232,7 +7535,10 @@ In-n̄g	in1  ng7	100
 勿亂食	mainn3  theng3  chiah8	100
 衊着垃圾	mak4   tieh8 nah4  sap4	100
 衊着垃圾	mak4  tieh8  nah4  sap4	100
-目	mak8	100
+嘜	mak8	100
+目	mak8	200
+茉	mak8	100
+鉬	mak8	100
 目澀	mak8   siap4	100
 目澁	mak8   siap4	50
 目𥍆	mak8   siap4	25
@@ -3251,13 +7557,32 @@ In-n̄g	in1  ng7	100
 挽	man2	100
 慢	man7	200
 緩	man7	100
+挽	mang2	100
+莽	mang2	100
 蚊	mang2	50
+蟒	mang2	100
 蠓	mang2	100
+輓	mang2	100
 慢天	mang2  thien1	100
 蚊帳	mang2  tienn3	50
 蠓帳	mang2  tienn3	100
 蚊帳鈎	mang2  tienn3  kau1	50
 蠓帳鈎	mang2  tienn3  kau1	100
+忙	mang5	100
+氓	mang5	100
+硭	mang5	100
+芒	mang5	100
+茫	mang5	100
+虻	mang5	200
+蠻	mang5	100
+邙	mang5	100
+鋩	mang5	100
+閩	mang5	100
+𣙷	mang5	100
+網	mang6	100
+夢	mang7	100
+慢	mang7	100
+緩	mang7	100
 芒黑	mang7  hek4	100
 芒膠	mang7  ka1	100
 夢見	mang7  kinn3	200
@@ -3276,15 +7601,61 @@ In-n̄g	in1  ng7	100
 明夜昏我愛請儂	mann3  menn5  hng1 ua2 ainn3  chhiann2  nang5	50
 明暝昏我愛請人	mann3  menn5  hng1 ua2 ainn3  chhiann2  nang5	25
 明暝昏我愛請儂	mann3  menn5  hng1 ua2 ainn3  chhiann2  nang5	12
+耄	mau2	100
+旄	mau5	100
+牦	mau5	100
+矛	mau5	100
+茅	mau5	100
+蟊	mau5	100
+酕	mau5	100
+鍪	mau5	100
+髦	mau5	100
+冒	mau6	100
+媢	mau6	100
+毣	mau6	100
+毷	mau6	100
+瑁	mau6	100
+貌	mau6	100
 包	maunn7	100
+猛	me2	100
+蜢	me2	100
+夜	me3	100
+夜	me5	100
 嗎	me7	100
+駡	me7	100
+咩	meh4	100
+脉	meh8	100
+霢	meh8	100
 脈	mehnn2	100
 脉	mehnn2	50
-明	meng5	200
+冪	mek8	100
+汨	mek8	100
+貊	mek8	100
+陌	mek8	100
+驀	mek8	100
+皿	meng2	100
+茗	meng2	100
+酩	meng2	100
+錳	meng2	100
+冥	meng5	100
+明	meng5	300
+洺	meng5	100
+溟	meng5	100
+甍	meng5	100
+盟	meng5	100
+盲	meng5	100
+瞑	meng5	100
+茗	meng5	100
+萌	meng5	100
+蓂	meng5	100
+螟	meng5	100
+銘	meng5	100
+鳴	meng5	100
 眠起	meng5  khi2	100
 眠起早旰	meng5  khi2  cha2   kua3	100
 明白	meng5  peh8	700
-命	meng6	400
+命	meng6	500
+孟	meng6	100
 猛	menn2	400
 夜旰	menn5   kua3	100
 暝旰	menn5   kua3	50
@@ -3304,12 +7675,68 @@ In-n̄g	in1  ng7	100
 暝昏囝	menn5  hng1  kiann2	25
 明年	menn5  ninn5	100
 罵	menn7	300
+乜	mi1	100
+咪	mi1	100
+瞇	mi1	100
+亹	mi2	100
+眯	mi2	100
+芈	mi2	100
+靡	mi2	100
+劘	mi5	100
+棉	mi5	100
+湄	mi5	100
+穈	mi5	100
+糜	mi5	100
+縻	mi5	100
+蘼	mi5	100
+迷	mi5	100
+郿	mi5	100
+醚	mi5	100
+麋	mi5	100
+媚	mi6	100
+袂	mi6	100
+謎	mi6	100
+麵	mi7	100
+名	mia5	100
+命	mia7	100
 名家	miann5  ke1	200
 名聲	miann5  siann1	100
 命	miann7	400
 命運	miann7  un7	100
 勉強	mien2  kiang2	200
 勉强	mien2  kiang2	100
+丏	mieng2	100
+偭	mieng2	100
+免	mieng2	100
+冕	mieng2	100
+勉	mieng2	100
+娩	mieng2	100
+愍	mieng2	100
+憫	mieng2	100
+敏	mieng2	100
+沔	mieng2	100
+浼	mieng2	100
+湎	mieng2	100
+湣	mieng2	100
+澠	mieng2	100
+眄	mieng2	100
+緬	mieng2	100
+腼	mieng2	100
+閔	mieng2	100
+鰵	mieng2	100
+黽	mieng2	100
+綿	mieng5	100
+緬	mieng5	100
+乜	mih4	100
+宓	mik8	100
+密	mik8	100
+滅	mik8	100
+蔑	mik8	100
+蠛	mik8	100
+衊	mik8	100
+覓	mik8	100
+謐	mik8	100
+默	mik8	100
 免	min2	100
 免	min2	50
 免用	min2  eng7	100
@@ -3328,6 +7755,13 @@ In-n̄g	in1  ng7	100
 面色	min7  sek4	100
 面桶	min7  thang2	100
 面桶架	min7  thang2  ke3	100
+岷	ming5	100
+抿	ming5	100
+民	ming5	100
+泯	ming5	100
+眠	ming5	100
+緡	ming5	100
+面	ming7	100
 棉	minn5	100
 爛	minn5	100
 糜	minn5	100
@@ -3343,26 +7777,119 @@ In-n̄g	in1  ng7	100
 麵包	minn7  pau1	100
 麫線	minn7  suann3	50
 麵線	minn7  suann3	100
+喵	miou1	100
+杪	miou2	100
+杳	miou2	100
+淼	miou2	100
+渺	miou2	100
+眇	miou2	100
+秒	miou2	100
+窅	miou2	100
+緲	miou2	100
+藐	miou2	100
+邈	miou2	100
+描	miou5	100
+瞄	miou5	100
+苗	miou5	100
+錨	miou5	100
+妙	miou6	100
 晚餐	mng2  chhan1	100
 門	mng5	200
 門拴	mng5  chheng7	100
 門閂	mng5  chhuann3	100
 問	mng7	300
 問候	mng7  hau7	100
+嘛	mo1	200
+芼	mo1	100
+饃	mo1	100
+孬	mo2	100
+嫫	mo5	100
+摩	mo5	100
+摹	mo5	100
+模	mo5	100
+毛	mo5	200
+蘑	mo5	100
+蟆	mo5	100
+謨	mo5	100
+魔	mo5	100
+募	mo6	100
+墓	mo6	100
+幕	mo6	200
+慕	mo6	100
+暮	mo6	100
+莫	mo6	100
+望	mo7	100
+麽	moh4	100
+漠	moh8	100
+瘼	moh8	100
+膜	moh8	100
+万	mok8	100
+冒	mok8	100
+寞	mok8	100
+歿	mok8	100
+沐	mok8	100
+沒	mok8	200
+牧	mok8	100
+疫	mok8	200
+睦	mok8	100
+穆	mok8	100
+繆	mok8	100
+苜	mok8	100
+莫	mok8	100
+鄚	mok8	100
+鏌	mok8	100
+霂	mok8	100
 牧師	mok8  sur1	100
-摸	mong5	200
+懞	mong2	100
+某	mong2	100
+貿	mong3	100
+侔	mong5	100
+哞	mong5	100
+幪	mong5	100
+摸	mong5	300
+曚	mong5	100
+朦	mong5	100
+檬	mong5	100
+濛	mong5	100
+牟	mong5	100
+眸	mong5	200
+瞀	mong5	100
+矇	mong5	100
+礞	mong5	100
+艨	mong5	100
+蒙	mong5	100
+蛑	mong5	100
+蠓	mong5	100
+謀	mong5	100
 濛烟	mong5  in1	50
 濛煙	mong5  in1	100
+懋	mong6	100
+茂	mong6	100
+袤	mong6	100
 ⿱艹麾	monn1	100
 毛	monn5	200
 魔鬼	monn5  kui2	100
 毛扇	monn5  sinn3	100
 望	monn7	200
+滿	mua2	100
+痲	mua5	100
+瞞	mua5	100
+蔴	mua5	100
+顢	mua5	100
+鰻	mua5	100
+麻	mua5	100
 鰻	muann5	100
 麻雀鳥	muann5  chiah4  chiou2	100
 麻皮	muann5  phue5	100
 麻布	muann5  pou3	100
-物	mueh8	300
+每	mue2	100
+寐	mue6	100
+昧	mue6	100
+沬	mue6	100
+秣	mue6	100
+魅	mue6	100
+妹	mue7	100
+物	mueh8	400
 物淸潔	mueh8  chheng1  khih4	50
 物清潔	mueh8  chheng1  khih4	100
 物食	mueh8  chiah8	100
@@ -3375,13 +7902,54 @@ In-n̄g	in1  ng7	100
 物破	mueh8  phua3	100
 物掉	mueh8  tiou3	200
 物彎	mueh8  uan1	100
+末	muek8	100
+靺	muek8	100
 糜	muenn5	200
+娓	mui2	100
+美	mui2	100
+鎂	mui2	100
+微	mui5	100
+薇	mui5	100
+刎	muk4	100
+吻	muk4	100
+殁	muk8	100
+晚	mung2	100
+們	mung5	100
+捫	mung5	100
+門	mung5	100
+問	mung7	100
+璺	mung7	100
+哪	na1	100
+那	na1	100
+哪	na2	100
+拿	na2	100
+那	na2	100
+鎿	na2	100
+籃	na5	100
+藍	na5	100
 垃圾	nah4  sap4	400
+乃	nai2	100
+倷	nai2	100
+奶	nai2	100
+褦	nai2	100
+鼐	nai2	100
+乃	nai6	100
+奈	nai6	100
+柰	nai6	100
+氖	nai6	100
+瀨	nai6	100
+癩	nai6	100
+籟	nai6	100
+耐	nai6	100
+萘	nai6	100
+賴	nai6	100
 奈	nainn6	200
 柰	nainn6	100
 耐	nainn6	200
 奈唔去	nainn6  m6  khur3	50
 奈毋去	nainn6  m6  khur3	100
+捺	nak8	100
+搦	nak8	200
 攬	nam2	200
 攬个枕頭	nam2   kai5 chim2  thau5	100
 攬儎字	nam2  chai7  ji7	100
@@ -3397,7 +7965,8 @@ In-n̄g	in1  ng7	100
 咱勿對彼過	nan2 mainn3 tui3  hie2 kue3	100
 咱所有个色是從虹塊來	nan2 so2  u6 kai5 sek4 si6 chhong5 kheng6   ko3 lai5	100
 咱此塊罕得有雪	nan2   chie2 han2   tit4 u6 soh4	100
-人	nang5	200
+俺	nang2	100
+人	nang5	300
 儂	nang5	100
 人熱	nang5 juah8	200
 人爇	nang5 juah8	100
@@ -3435,8 +8004,37 @@ In-n̄g	in1  ng7	100
 若是開伊个花是雅在	nann7  si6 khui1 i1 kai5 hue1 si6 ngia2  chai6	100
 若是唔夠一路好買	nann7  si6 m6  kau3 chek8  lou7 ho2  boi2	50
 若是毋夠一路好買	nann7  si6 m6  kau3 chek8  lou7 ho2  boi2	100
+肭	nap4	100
+吶	nap8	100
+納	nap8	100
+衲	nap8	100
+訥	nap8	100
+諾	nap8	100
+鈉	nap8	100
+呶	nau1	100
+撓	nau1	100
+澆	nau1	100
+猱	nau1	100
+硇	nau1	100
+鐃	nau1	100
+孬	nau2	100
+惱	nau2	100
+瑙	nau2	100
+腦	nau2	100
+努	nau6	100
+弩	nau6	100
+鬧	nau6	100
+鬧	nau7	100
+姈	ne1	100
+冷	ne2	100
 呢	ne7	100
-肉	nek8	100
+匿	nek8	100
+恧	nek8	100
+慝	nek8	100
+昵	nek8	100
+溺	nek8	100
+肉	nek8	200
+衵	nek8	100
 肉桂	nek8  kui3	100
 龍眼	nek8  oinn2	100
 龍眼干	nek8  oinn2  kuann1	100
@@ -3448,43 +8046,180 @@ In-n̄g	in1  ng7	100
 黃酸	ng5  sng1	100
 黃銅	ng5  tang5	100
 㦙	nga3	200
+厓	ngai5	100
+呆	ngai5	100
+崖	ngai5	100
+捱	ngai5	100
+涯	ngai5	100
+睚	ngai5	100
+乂	ngai6	200
+刈	ngai6	200
+岸	ngai6	100
+砹	ngai6	100
+艾	ngai6	100
 堅	ngaih8	200
+噩	ngak8	100
+岳	ngak8	100
+嶽	ngak8	100
+愕	ngak8	100
+腭	ngak8	100
+萼	ngak8	100
+諤	ngak8	100
+鄂	ngak8	100
+鍔	ngak8	100
+鰐	ngak8	100
+鶚	ngak8	100
 岳母	ngak8  bo2	100
 鱷魚	ngak8  hur5	100
 岳父	ngak8  pe6	100
+岩	ngam5	100
+巖	ngam5	100
+癌	ngam5	100
 眼在	ngan2  chai6	200
 凝	ngan5	200
 寒	ngan5	100
-熬	ngau5	100
-硬	nge6	200
+昂	ngang1	100
+眼	ngang2	100
+言	ngang5	100
+顏	ngang5	200
+唁	ngang6	100
+彥	ngang6	100
+諺	ngang6	100
+贋	ngang6	100
+雁	ngang6	100
+嗷	ngau1	100
+囂	ngau1	100
+崤	ngau5	100
+嶅	ngau5	100
+廒	ngau5	100
+敖	ngau5	100
+殽	ngau5	100
+洨	ngau5	100
+淆	ngau5	100
+熬	ngau5	200
+爻	ngau5	100
+獒	ngau5	100
+翱	ngau5	100
+聱	ngau5	100
+螯	ngau5	100
+遨	ngau5	100
+鏊	ngau5	100
+餚	ngau5	100
+驁	ngau5	100
+鰲	ngau5	100
+傲	ngau6	100
+奡	ngau6	100
+勁	nge6	100
+硬	nge6	300
 硬愛	nge6  ainn3	200
 硬腳	nge6  kioh4	100
 硬掠	nge6  liah8	200
-逆	ngek8	100
+逆	ngek8	200
 逆風	ngek8  huang1	100
 逆流	ngek8  lau5	100
 逆律	ngek8  lut8	100
+儗	ngi2	100
+擬	ngi2	100
+議	ngi2	100
 議罪	ngi2  chue6	100
 議論人个事	ngi2  lun6 nang5  kai5  sur7	100
 議論儂个事	ngi2  lun6 nang5  kai5  sur7	50
-雅	ngia2	300
+囈	ngi3	100
+堄	ngi3	100
+睨	ngi3	100
+誼	ngi3	100
+鬩	ngi3	100
+倪	ngi5	100
+儀	ngi5	100
+宜	ngi5	100
+毅	ngi5	100
+猊	ngi5	100
+羿	ngi5	100
+霓	ngi5	100
+鯢	ngi5	100
+麑	ngi5	100
+䴊	ngi6	100
+劓	ngi6	100
+義	ngi6	100
+雅	ngia2	400
+孽	ngiak8	100
+瘧	ngiak8	100
+臬	ngiak8	100
+蘗	ngiak8	100
+虐	ngiak8	100
+謔	ngiak8	100
+鎳	ngiak8	100
 嚴	ngiam5	200
+仰	ngiang2	100
+儼	ngiem2	100
+玁	ngiem2	100
+龑	ngiem2	100
+嚴	ngiem5	100
+釅	ngiem5	100
+閻	ngiem5	100
+驗	ngiem7	100
 癮	ngien3	100
+妍	ngieng1	100
+研	ngieng1	100
+凝	ngieng5	100
+迎	ngieng5	100
+業	ngiep8	100
+鄴	ngiep8	100
+吟	ngim5	100
+岑	ngim5	100
+崟	ngim5	100
+涔	ngim5	100
+芩	ngim5	100
+黔	ngim5	100
 吟詩	ngim5  si1	100
-貓	ngiou1	100
+貓	ngiou1	200
 貓頭鳥	ngiou1  thau5  chiou2	100
 貓鼠	ngiou2  chhur2	100
 貓鼠觸	ngiou2  chhur2  tak4	100
-遇	ngo6	200
+嘵	ngiou5	100
+堯	ngiou5	100
+嶢	ngiou5	100
+蕘	ngiou5	100
+蟯	ngiou5	100
+喁	ngo3	100
+俄	ngo5	100
+哦	ngo5	100
+喁	ngo5	100
+娥	ngo5	100
+峨	ngo5	100
+嵎	ngo5	100
+愚	ngo5	100
+梧	ngo5	100
+硪	ngo5	100
+禺	ngo5	100
+莪	ngo5	100
+虞	ngo5	100
+蛾	ngo5	100
+鋨	ngo5	100
+隅	ngo5	100
+寓	ngo6	100
+寤	ngo6	100
+悟	ngo6	100
+晤	ngo6	100
+遇	ngo6	300
 遇着	ngo6   tieh8	100
 研	ngoinn2	100
+伍	ngou2	100
+偶	ngou2	100
+午	ngou2	100
+忤	ngou2	100
+耦	ngou2	100
+藕	ngou2	100
+迕	ngou2	100
 伍星	ngou2  chhenn1	100
 藕粉	ngou2  hun2	100
 𩵱魚	ngou2  hur5	100
 偶然	ngou2  jien5	100
 五經	ngou2  kiann1	100
 五牲	ngou2  senn1	100
-五	ngou6	100
+五	ngou6	200
+仵	ngou6	100
+伍	ngou6	100
 五穀	ngou6  kak4	200
 五更	ngou6  kenn1	100
 原價	nguan5  ke3	100
@@ -3493,7 +8228,37 @@ In-n̄g	in1  ng7	100
 原來	nguan5  lai5	100
 元帥	nguan5  sue3	100
 愿	nguan6	100
+玩	ngueng2	100
+阮	ngueng2	100
+頑	ngueng2	100
+元	ngueng5	100
+刓	ngueng5	100
+原	ngueng5	100
+塬	ngueng5	100
+沅	ngueng5	100
+源	ngueng5	100
+羱	ngueng5	100
+芫	ngueng5	100
+螈	ngueng5	100
+黿	ngueng5	100
+愿	ngueng6	100
+願	ngueng6	100
+危	ngui5	100
+嵬	ngui5	100
+巍	ngui5	100
+隗	ngui5	100
 危皮	ngui5  phue5	100
+僞	ngui6	100
+仡	ngurk4	100
+吃	ngurk4	100
+嚙	ngurk4	100
+圪	ngurk4	100
+契	ngurk4	100
+屹	ngurk4	100
+疙	ngurk4	100
+紇	ngurk4	100
+訖	ngurk4	100
+迄	ngurk4	100
 銀	ngurn5	200
 銀硃	ngurn5  chu1	100
 銀水	ngurn5  chui2	100
@@ -3501,11 +8266,42 @@ In-n̄g	in1  ng7	100
 銀庫	ngurn5  khou3	100
 銀錠	ngurn5  tiann6	100
 銀單	ngurn5  tuann1	200
+誾	ngurng3	100
+嚚	ngurng5	100
+垠	ngurng5	100
+狺	ngurng5	100
+鄞	ngurng5	100
+銀	ngurng5	100
+齗	ngurng5	100
+齦	ngurng5	100
+呢	ni1	100
+弭	ni2	100
+彌	ni2	100
+瀰	ni2	100
+獼	ni2	100
+襧	ni2	100
+怩	ni3	100
+泥	ni3	100
+呢	ni5	100
+妮	ni5	100
+尼	ni5	100
+年	ni5	100
+旎	ni5	100
+泥	ni5	100
+鈮	ni5	100
 年年	ni5  ninn5	100
+㖸	nia1	100
+嶺	nia2	100
+領	nia2	100
 黏昵	niam1  ninn5	100
 領	niann2	300
 領事府	niann2  sur7  hu2	200
 領事官	niann2  sur7  kuann1	100
+兩	nie2	100
+娘	nie5	100
+梁	nie5	100
+糧	nie5	100
+量	nie5	100
 兩	nienn2	200
 粮	nienn5	50
 糧	nienn5	100
@@ -3513,6 +8309,19 @@ In-n̄g	in1  ng7	100
 粮差	nienn5  chhe1	50
 糧差	nienn5  chhe1	100
 量地	nienn5  ti7	100
+囁	niep4	100
+懾	niep4	100
+捏	niep4	100
+攝	niep4	100
+涅	niep4	100
+灄	niep4	100
+聶	niep4	100
+苶	niep4	100
+讋	niep4	100
+躡	niep4	100
+鑷	niep4	100
+隉	niep4	100
+顳	niep4	100
 攝仔	nih4  kiann2	50
 攝囝	nih4  kiann2	100
 攝目	nih4  mak8	100
@@ -3527,6 +8336,7 @@ In-n̄g	in1  ng7	100
 恁是我个朋友	nin2 si6 ua2 kai5 pheng5  iu2	100
 恁个生理酷熱	nin2  kai5 seng1  li2 hoh4  jiet8	100
 恁个生理酷爇	nin2  kai5 seng1  li2 hoh4  jiet8	50
+恁	ning2	100
 奶母	ninn1  bo2	100
 年冬	ninn1  tang1	100
 染	ninn2	100
@@ -3535,6 +8345,31 @@ In-n̄g	in1  ng7	100
 年	ninn5	100
 尼姑婆	ninn5  kou1  phua5	100
 奶	ninn6	100
+嫋	niou2	100
+溺	niou2	100
+蔦	niou2	100
+裊	niou2	100
+皺	niou3	100
+妞	niu2	100
+忸	niu2	100
+扭	niu2	100
+狃	niu2	100
+紐	niu2	100
+衄	niu2	100
+鈕	niu2	100
+繆	niu5	100
+繆	niu6	100
+謬	niu6	100
+恩	nk1	100
+摁	nk1	100
+蒽	nk1	100
+尹	nk2	100
+隱	nk2	100
+磺	nk5	100
+黃	nk5	100
+嗯	nk6	100
+㕶	nk7	100
+嗯	nk7	100
 軟	nng2	300
 軟疕	nng2  ninn5	100
 鑽	nng3	100
@@ -3543,6 +8378,24 @@ In-n̄g	in1  ng7	100
 卵淸	nng6  chheng1	50
 卵清	nng6  chheng1	100
 卵仁	nng6  jin5	100
+努	no3	100
+懦	no3	100
+砮	no3	100
+糯	no3	100
+耨	no3	100
+駑	no3	100
+儺	no5	100
+娜	no5	100
+孥	no5	100
+帑	no5	100
+弩	no5	100
+挪	no5	100
+榔	no5	100
+二	no6	100
+貳	no6	100
+怒	no7	100
+蓮	noi5	100
+楝	noi7	100
 蓮子	noinn5  chi2	100
 蓮花	noinn5  hue1	100
 蓮角	noinn5  kak4	100
@@ -3556,23 +8409,60 @@ In-n̄g	in1  ng7	100
 二斤半	nonn6  kurn1  puann3	100
 〢〇〇百	nonn6  peh4	100
 二百	nonn6  peh4	100
+奴	nou1	100
+奴	nou5	100
 小兒在耍	nounn1  kiann2 to6 sng2	100
 奴才	nounn5  chhai5	100
 孥仔	nounn5  kiann2	100
 孥囝	nounn5  kiann2	200
 孥仔款	nounn5  kiann2  khuan2	50
 孥囝款	nounn5  kiann2  khuan2	100
+攔	nua7	100
+爛	nua7	100
 涎	nuann6	200
+餒	nue2	100
+女	nurng2	100
+蠕	nurng2	100
+軟	nurng2	100
+釹	nurng2	100
+瓤	nurng5	100
+莨	nurng5	100
+郎	nurng5	100
+卵	nurng6	100
+倭	o1	100
+呵	o1	100
+啊	o1	100
+噢	o1	100
+婀	o1	100
+媧	o1	100
+屙	o1	100
+渦	o1	100
+窩	o1	100
+萵	o1	100
 汚糟	o1  cho1	150
 污糟	o1  cho1	300
 呵咾	o1  lo2	200
-蚝	o5	50
+襖	o2	100
+圫	o3	100
+奧	o3	200
+嶴	o3	100
+懊	o3	200
+澳	o3	100
+隩	o3	100
+菏	o5	100
+蚝	o5	150
 蠔	o5	100
 蚝珠	o5  chu1	50
 蠔珠	o5  chu1	100
 蚝殼鏡	o5  khak4  kiann3	50
 蠔殼鏡	o5  khak4  kiann3	100
+嚄	o6	100
+臥	o6	100
+荷	o6	100
+哦	o7	100
+喔	o7	100
 僫	oh4	200
+呃	oh4	100
 難	oh4	100
 僫趁	oh4  than3	100
 難趁	oh4  than3	50
@@ -3580,9 +8470,10 @@ In-n̄g	in1  ng7	100
 難醫	oh4  ui1	50
 學	oh8	500
 學古	oh8  kou2	100
-挨	oi1	100
+挨	oi1	200
 挨着	oi1   tieh8	100
-矮	oi2	100
+矮	oi2	200
+鞋	oi5	100
 鞋刷	oi5  sueh4	100
 鞋拖	oi5  thua1	200
 鞋底	oi5  toi2	100
@@ -3596,10 +8487,28 @@ In-n̄g	in1  ng7	100
 狹	oih8	100
 閑	oinn1	50
 閒	oinn1	100
+閑	oinn5	100
+閒	oinn5	100
 閑遊	oinn5  iu5	50
 閒遊	oinn5  iu5	100
+喔	ok4	100
+屋	ok4	100
+幄	ok4	100
+握	ok4	100
+沃	ok4	100
+渥	ok4	100
+鋈	ok4	100
+齷	ok4	100
+䩺	ong1	100
+嗡	ong1	100
+翁	ong1	100
 掌打	ong3	100
-烏	ou1	200
+盎	ong3	100
+蓊	ong3	100
+唪	ong6	100
+訇	ong7	100
+烏	ou1	300
+鎢	ou1	100
 烏木	ou1  bak8	100
 烏畨	ou1  huan1	50
 烏番	ou1  huan1	100
@@ -3612,17 +8521,43 @@ In-n̄g	in1  ng7	100
 烏布	ou1  pou3	100
 烏布鞋	ou1  pou3  oi5	100
 烏糖	ou1  thng5	100
-湖	ou5	100
-芋	ou7	100
+嫗	ou2	100
+湖	ou5	200
+胡	ou5	100
+芋	ou7	200
 芋翕	ou7 hip4	100
+叭	pa1	100
+巴	pa1	100
+扒	pa1	100
+爸	pa1	100
+疤	pa1	100
+粑	pa1	100
+芭	pa1	100
+葩	pa1	100
+豝	pa1	100
+鈀	pa1	100
 或者	pa1  lak4	200
 或者無	pa1  lak4 bo5	100
 或者下旰亦唔知	pa1  lak4 e6  kua3 ia7 m6  chai1	50
 或者下旰亦毋知	pa1  lak4 e6  kua3 ia7 m6  chai1	100
-靶	pa2	100
+把	pa2	200
+欛	pa2	100
+靶	pa2	200
+飽	pa2	100
+壩	pa3	100
+灞	pa3	100
+豹	pa3	100
+趵	pa3	100
+霸	pa3	100
+罷	pa6	100
 罷職	pa6  cheh4	200
-擺	pai2	200
-拜	pai3	200
+吧	pa7	100
+㗑	pai1	100
+唄	pai1	100
+捭	pai2	100
+擺	pai2	300
+襬	pai2	100
+拜	pai3	300
 拜阿公	pai3  a1  kong1	100
 拜一	pai3  it4	100
 拜二	pai3  ji6	100
@@ -3641,7 +8576,10 @@ In-n̄g	in1  ng7	100
 拜上帝人	pai3  siang6  ti3  nang5	100
 拜上帝儂	pai3  siang6  ti3  nang5	50
 拜託	pai3  thoh4	100
-牌	pai5	100
+徘	pai5	100
+排	pai5	100
+牌	pai5	200
+箄	pai5	100
 排場	pai5  chhiang5	100
 排塲	pai5  chhiang5	50
 排囘	pai5  hue5	50
@@ -3651,17 +8589,19 @@ In-n̄g	in1  ng7	100
 排比	pai5  pi2	100
 排時	pai5  si5	100
 排轉	pai5  tng2	200
-敗	pai7	100
-剝	pak4	100
-北	pak4	200
-幅	pak4	100
+敗	pai7	200
+亳	pak4	100
+剝	pak4	200
+北	pak4	300
+幅	pak4	200
+腹	pak4	100
 剝糕粿	pak4  ko1  kue2	200
 剝糕餜	pak4  ko1  kue2	100
 剝皮	pak4  phue5	100
 北爿	pak4  poinn5	100
 北畔	pak4  poinn5	50
 綁	pak8	100
-縛	pak8	400
+縛	pak8	500
 縛船	pak8  chun5	200
 縛船个字	pak8  chun5 kai5  ji7	100
 班	pan1	200
@@ -3670,15 +8610,42 @@ In-n̄g	in1  ng7	100
 辦	pan7	400
 酌	pan7	100
 辦頭	pan7  thau5	400
-枋	pang1	200
+崩	pang1	100
+幫	pang1	100
+彭	pang1	100
+斑	pang1	100
+方	pang1	200
+枋	pang1	300
+楓	pang1	200
+浜	pang1	200
+班	pang1	100
+瘢	pang1	100
+癍	pang1	100
+繃	pang1	100
+蹦	pang1	100
+邦	pang1	100
+頒	pang1	100
 方刀	pang1  to1	100
 方刀斫着鐵釘缺去	pang1  to1 tok4   tieh8 thih4  teng1 khih4  khur3	100
 方刀斲着鐵釘缺去	pang1  to1 tok4   tieh8 thih4  teng1 khih4  khur3	50
 崩堤	pang1  toi1	100
+坂	pang2	100
+扳	pang2	100
+板	pang2	100
+梆	pang2	100
+榜	pang2	100
+版	pang2	200
+綁	pang2	100
+繃	pang2	100
+耪	pang2	100
+膀	pang2	100
+蝂	pang2	100
+闆	pang2	100
 綁脚臁	pang2  kha1  liam5	25
 綁腳臁	pang2  kha1  liam5	50
 綁跤臁	pang2  kha1  liam5	12
 綁骹臁	pang2  kha1  liam5	100
+扮	pang3	100
 放	pang3	400
 放伊去	pang3 i1 khur3	100
 放此	pang3   chie2	100
@@ -3689,25 +8656,58 @@ In-n̄g	in1  ng7	100
 放生債	pang3  senn1  che3	100
 放生數	pang3  senn1  siou3	100
 放掉	pang3  tiou3	100
-房	pang5	200
+房	pang5	300
+瓶	pang5	100
+馮	pang5	100
+傍	pang6	100
+棒	pang6	100
+磅	pang6	100
+稖	pang6	100
+謗	pang6	100
 捌	pat4	25
 識	pat4	100
 𧧸	pat4	50
 菝仔	pat8  kiann2	50
 菝囝	pat8  kiann2	100
-包	pau1	600
+包	pau1	700
+孢	pau1	100
+枹	pau1	100
+疱	pau1	100
+胞	pau1	100
+苞	pau1	100
+麅	pau1	100
 包裹	pau1  ko2	200
 包領	pau1  niann2	200
+堡	pau2	100
+葆	pau2	100
+褓	pau2	100
+鴇	pau2	100
 鑤	pau3	100
+暴	pau6	100
+爆	pau6	100
+鮑	pau6	100
 把	pe2	100
-爬	pe5	100
-耙	pe5	200
+䎱	pe5	100
+扒	pe5	100
+杷	pe5	100
+爬	pe5	200
+琶	pe5	100
+筢	pe5	100
+耙	pe5	300
+鈀	pe5	100
+父	pe6	100
 父母	pe6  bo2	100
+伯	peh4	200
+佰	peh4	100
+掰	peh4	100
+柏	peh4	200
 爬	peh4	100
+百	peh4	100
 百五個錢	peh4  ngou6 kai5 chinn5	100
 百姓	peh4  senn3	300
 百姓呵咾此個官府	peh4  senn3 o1  lo2 chi2  kai5 kuann1  hu2	100
-白	peh8	100
+帛	peh8	100
+白	peh8	200
 白菜	peh8  chhai3	100
 白䭕無味	peh8  chiann2  bo5  bi7	100
 白矾	peh8  huan5	100
@@ -3726,18 +8726,38 @@ In-n̄g	in1  ng7	100
 白糖	peh8  thng5	100
 白話	peh8  ue7	200
 To roast, as a fowl &c.	pek4	100
-迫	pek4	100
+愎	pek4	100
+煏	pek4	100
+輻	pek4	100
+迫	pek4	200
+逼	pek4	100
+炳	peng2	100
+秉	peng2	100
+邴	peng2	100
+憑	peng5	100
+並	peng6	100
+併	peng6	100
+并	peng6	100
+栟	peng6	100
+胼	peng6	100
+迸	peng6	100
+駢	peng6	100
+把	penn3	100
+柄	penn3	100
 平	penn5	100
-棚	penn5	100
+棚	penn5	200
 平樣	penn5  ienn7	400
 扁担	penn5  tann1	50
 扁擔	penn5  tann1	100
 柄	penn7	100
-病	penn7	300
+病	penn7	400
+脬	pha1	100
+趴	pha1	100
 拋椗	pha1  teng3	100
-泡	pha6	100
-打	phah4	200
-拍	phah4	400
+泡	pha6	200
+啪	phah4	100
+打	phah4	300
+拍	phah4	500
 打尻川爿	phah4 kha1  chhng1  poinn2	25
 打尻川畔	phah4 kha1  chhng1  poinn2	12
 拍尻川爿	phah4 kha1  chhng1  poinn2	100
@@ -3783,27 +8803,108 @@ To roast, as a fowl &c.	pek4	100
 打倒	phah4  to2	100
 拍倒	phah4  to2	200
 痞	phai2	300
-派	phai3	100
+旆	phai3	100
+沛	phai3	100
+派	phai3	200
+湃	phai3	100
+茷	phai3	100
+蒎	phai3	100
+霈	phai3	100
+博	phak4	100
+搏	phak4	100
+膊	phak4	100
+趴	phak4	100
 趴落去	phak4   loh8  khur1	100
 趴佝	phak4  ku1	100
-曝	phak8	100
+暴	phak8	100
+曝	phak8	200
 曬	phak8	100
-雹	phak8	100
+瀑	phak8	100
+爆	phak8	100
+雹	phak8	200
+攀	phang1	100
 芳	phang1	100
-蜂	phang1	100
+蜂	phang1	200
 芳菜	phang1  chhai3	100
 芳水	phang1  chui2	100
 芳葉	phang1  hieh8	100
 蜂岫	phang1  siu7	100
-紡	phang2	100
-帆	phang5	100
+紡	phang2	200
+嗙	phang3	100
+盼	phang3	100
+襻	phang3	100
+傍	phang5	100
+尨	phang5	100
+帆	phang5	200
+彭	phang5	200
+徬	phang5	100
+旁	phang5	100
+滂	phang5	100
+甏	phang5	100
+篷	phang5	100
+膀	phang5	100
+航	phang5	100
+蒡	phang5	100
+螃	phang5	100
+逄	phang5	100
+霶	phang5	100
+鰟	phang5	100
+龐	phang5	100
 帆布	phang5  pou3	200
-縫	phang7	100
-冇	phann3	100
+縫	phang7	200
+冇	phann3	200
+怕	phann3	100
 冇柴	phann3  chha5	100
+刨	phau1	100
+拋	phau1	100
+爮	phau1	100
+褒	phau1	100
+鉋	phau1	100
+跑	phau2	100
+泡	phau3	100
+炮	phau3	100
+砲	phau3	100
 炮臺	phau3  thai5	100
-袍	phau5	100
-秤	pheng5	100
+匏	phau5	100
+咆	phau5	100
+庖	phau5	100
+炮	phau5	100
+瓟	phau5	100
+袍	phau5	200
+帕	phe3	100
+劈	phek4	100
+匐	phek4	100
+擗	phek4	100
+擘	phek4	100
+珀	phek4	100
+甓	phek4	100
+碧	phek4	100
+蔔	phek4	100
+薜	phek4	100
+襞	phek4	100
+辟	phek4	100
+闢	phek4	100
+霹	phek4	100
+魄	phek4	100
+𤏡	phek4	100
+姘	pheng1	100
+拼	pheng1	100
+烹	pheng1	100
+娉	pheng3	100
+聘	pheng3	200
+騁	pheng3	100
+坪	pheng5	200
+平	pheng5	100
+怦	pheng5	100
+抨	pheng5	100
+朋	pheng5	100
+枰	pheng5	100
+砰	pheng5	100
+硼	pheng5	100
+秤	pheng5	200
+苹	pheng5	100
+評	pheng5	100
+鬅	pheng5	100
 平安	pheng5  an1	300
 平和	pheng5  hua5	100
 朋友	pheng5  iu2	200
@@ -3811,52 +8912,169 @@ To roast, as a fowl &c.	pek4	100
 平常	pheng5  sienn5	100
 憑單	pheng5  tuann1	200
 斟酌	phenn1  phah4	100
-披	phi1	100
+澎	phenn5	100
+膨	phenn5	100
+蟛	phenn5	100
+帔	phi1	100
+披	phi1	200
+狉	phi1	100
+丕	phi2	100
+否	phi2	100
+呸	phi2	200
+嚭	phi2	100
+圮	phi2	100
 疕	phi2	100
+痞	phi2	100
+苤	phi2	100
+邳	phi2	100
+鄙	phi2	100
+埤	phi3	100
+媲	phi3	100
+嬖	phi3	100
+淠	phi3	100
+濞	phi3	100
+譬	phi3	100
 譬相	phi3  sienn3	100
-疲	phi5	100
+疲	phi5	200
+羆	phi5	100
+脾	phi5	100
+貔	phi5	100
+屁	phi6	100
+僻	phiah4	100
+癖	phiah4	100
 𩩍籬	phiann1  li5	200
 𩩍籬骨	phiann1  li5  kut4	100
 聘金	phiann3  kim1	200
+票	phie3	100
+萍	phie5	100
+鰾	phie6	100
+撇	phiek4	200
 片	phien3	100
 騙	phien3	200
 騙人	phien3  nang5	100
 騙儂	phien3  nang5	50
 騙人驚	phien3  nang5  kiann1	100
 騙儂驚	phien3  nang5  kiann1	50
+便	phieng1	100
+偏	phieng1	100
+扁	phieng1	100
+犏	phieng1	100
+篇	phieng1	100
+編	phieng1	100
+翩	phieng1	100
+蝙	phieng1	100
+褊	phieng1	100
+蹁	phieng1	100
+片	phieng3	100
+瓣	phieng3	100
+諞	phieng3	100
+騙	phieng3	100
+匹	phik4	100
+疋	phik4	100
 摒掉	phin5  tiou3	100
+屏	phing2	100
+牝	phing2	100
+砭	phing2	100
+貶	phing2	100
+屏	phing5	100
+摒	phing5	100
+濱	phing5	100
+瀕	phing5	100
+蘋	phing5	100
+貧	phing5	100
+頻	phing5	100
+顰	phing5	100
 便	phinn1	100
 偏	phinn1	200
 鼻	phinn6	100
-鼻	phinn7	200
+鼻	phinn7	300
 鼻薰	phinn7  hun1	200
 鼻空	phinn7  khang1	100
+剽	phiou1	100
+朴	phiou1	100
+杓	phiou1	100
+標	phiou1	100
+漂	phiou1	100
+瓢	phiou1	100
+瘭	phiou1	100
+瞟	phiou1	100
+縹	phiou1	100
+薸	phiou1	100
+螵	phiou1	100
+鏢	phiou1	100
+鑣	phiou1	100
+飄	phiou1	100
+飆	phiou1	100
+驃	phiou1	100
+嫖	phiou5	100
 匹配	phit4  phue3	100
+漂	phiu3	100
 失手	phiu3  chhiu2	100
-抱	pho6	200
-粕	phoh4	100
+罘	phiu5	100
+芣	phiu5	100
+叵	pho2	100
+笸	pho2	100
+跛	pho2	100
+鉕	pho2	100
+頗	pho2	100
+婆	pho5	200
+皤	pho5	100
+抱	pho6	400
+粕	phoh4	200
 劈頭	phoh4  thau5	100
-批	phoi1	300
+批	phoi1	400
 批館	phoi1  kuan2	100
 批皮	phoi1  phue5	300
 批信	phoi1  sin3	100
 批担	phoi1  tann1	50
 批擔	phoi1  tann1	100
-辦	phoinn7	200
+稗	phoinn7	100
+辦	phoinn7	300
 辨	phoinn7	200
 辦事	phoinn7  sur7	100
+仆	phok4	100
+幞	phok4	100
+撲	phok4	100
+朴	phok4	100
+樸	phok4	100
+濮	phok4	100
+璞	phok4	100
+蹼	phok4	100
+醭	phok4	100
+釙	phok4	100
+鏷	phok4	100
 起泡	phok4  pha6	100
 凸疕	phok4  phi2	100
 捧	phong2	100
+碰	phong3	100
+膀	phong3	100
 碰鰾	phong3  phie6	100
-鋪	phou1	100
+縫	phong5	100
+芃	phong5	100
+蓬	phong5	100
+鵬	phong5	100
+舖	phou1	100
+鋪	phou1	200
 鋪石	phou1  chieh8	100
+剖	phou2	100
+匍	phou2	100
+圃	phou2	100
+掊	phou2	100
+普	phou2	100
+氆	phou2	100
+浦	phou2	100
+溥	phou2	100
+甫	phou2	100
+脯	phou2	100
+裒	phou2	100
+譜	phou2	100
+鐠	phou2	100
 普天下	phou2  thinn1  e6	100
 普天脚下	phou2  thinn1  kha1  e6	25
 普天腳下	phou2  thinn1  kha1  e6	50
 普天跤下	phou2  thinn1  kha1  e6	12
 普天骹下	phou2  thinn1  kha1  e6	100
-舖	phou3	400
+舖	phou3	500
 舖打乞人	phou3 phah4   khurt4  nang5	25
 舖打乞儂	phou3 phah4   khurt4  nang5	12
 舖拍乞人	phou3 phah4   khurt4  nang5	100
@@ -3864,15 +9082,23 @@ To roast, as a fowl &c.	pek4	100
 舖櫃	phou3  kuinn7	100
 舖路	phou3  lou7	100
 舖頭	phou3  thau5	100
+簿	phou6	100
 簿仔	phou6  kiann2	50
 簿囝	phou6  kiann2	100
-浮	phu5	200
+浮	phu5	300
+涪	phu5	100
+莆	phu5	100
+菩	phu5	100
+葡	phu5	100
+蒱	phu5	100
+蒲	phu5	100
+蜉	phu5	100
 浮起來	phu5   khi2  lai5	100
 葡萄	phu5  tho5	100
 葡萄好作酒	phu5  tho5 ho2  cho3  chiu2	100
 葡萄干	phu5  tho5  kuann1	100
 浮大風	phu5  tua7  huang1	100
-破	phua3	400
+破	phua3	500
 破碎碎	phua3  chhui3  chhui3	100
 破家仔	phua3  ke1  kiann2	50
 破家囝	phua3  ke1  kiann2	100
@@ -3881,69 +9107,233 @@ To roast, as a fowl &c.	pek4	100
 破布	phua3  pou3	100
 破相	phua3  sienn3	100
 破掉	phua3  tiou3	100
-潑	phuah4	100
+撥	phuah4	100
+潑	phuah4	300
+癶	phuah4	100
 絆鞭	phuan5  pinn1	100
-配	phue3	100
-皮	phue5	400
+潘	phuann1	100
+番	phuann1	100
+伴	phuann6	100
+坯	phue1	100
+胚	phue1	100
+配	phue3	200
+皮	phue5	500
+裴	phue5	100
+鈹	phue5	100
 皮箱	phue5  sienn1	100
-被	phue6	100
+被	phue6	200
 被唔孬洗較業	phue6 m6  monn2 soi2 khah4  giap8	50
 被毋孬洗較業	phue6 m6  monn2 soi2 khah4  giap8	100
 沬	phueh8	100
 波	phueh8	100
+𠱀	phueh8	100
 詖古	phueh8  kou2	100
 詖閑話	phueh8  oinn5  ue7	50
 詖閒話	phueh8  oinn5  ue7	100
 詖話	phueh8  ue7	100
+墦	phueng1	100
+燔	phueng1	100
+璠	phueng1	100
+膰	phueng1	100
+藩	phueng1	200
+鄱	phueng1	100
+判	phueng3	100
+拌	phueng3	100
+柈	phueng3	100
+泮	phueng3	100
+畔	phueng3	100
+絆	phueng3	100
+胖	phueng3	100
+槃	phueng5	100
+盤	phueng5	100
+磐	phueng5	100
+蟠	phueng5	100
+蹣	phueng5	100
+蹯	phueng5	100
+噗	phuh4	100
 呸	phui3	100
+啐	phui3	100
+屁	phui3	100
 呸涎	phui3  nuann6	100
 噴	phun3	100
 鍤	phun3	100
 墳	phun5	100
+奔	phung1	100
+賁	phung1	100
+錛	phung1	100
+噴	phung3	100
+濆	phung3	100
+逩	phung3	100
+墳	phung5	100
+湓	phung5	100
+盆	phung5	100
 嗶	pi1	200
-碑	pi1	100
+埤	pi1	200
+睥	pi1	100
+砒	pi1	100
+碑	pi1	200
+蓖	pi1	100
+蜱	pi1	100
+裨	pi1	100
+郫	pi1	100
 卑麻油	pi1  muann5  iu5	100
-比	pi2	100
+仳	pi2	100
+妣	pi2	100
+庀	pi2	100
+彼	pi2	100
+比	pi2	200
+毗	pi2	100
+狴	pi2	100
+秕	pi2	100
+稗	pi2	100
+紕	pi2	100
+蚍	pi2	200
+魮	pi2	100
 比正	pi2  chiann3	100
 比好	pi2  ho2	100
 比喻	pi2  ju6	100
+匕	pi3	100
+庇	pi3	100
+毖	pi3	100
+泌	pi3	100
+痹	pi3	100
+祕	pi3	100
 背	pi3	100
+臂	pi3	100
+費	pi3	100
+賁	pi3	100
+轡	pi3	100
 庇佑	pi3  iu6	100
+啤	pi5	100
+枇	pi5	100
+琵	pi5	100
+脾	pi5	100
+髀	pi5	100
+鼙	pi5	100
 枇杷	pi5  pe5	100
 琵琶	pi5  pe5	100
+俾	pi6	100
+備	pi6	100
+婢	pi6	100
+幣	pi6	100
+憊	pi6	100
+憋	pi6	100
+敝	pi6	100
+斃	pi6	100
+獘	pi6	100
+畀	pi6	100
+瞥	pi6	100
+蔽	pi6	100
+被	pi6	100
+贔	pi6	100
+蹩	pi6	100
+閉	pi6	100
+陛	pi6	100
+鞁	pi6	100
+鞴	pi6	100
+𢲾	pi6	100
 被告	pi6  ko3	200
-壁	piah4	100
+弊	pi7	100
+避	pi7	100
+壁	piah4	200
+璧	piah4	100
 爆	piang3	100
 爆掉	piang3  tiou3	200
-兵	piann1	300
+兵	piann1	400
+冰	piann1	100
 冰霜	piann1  sng1	100
 氷霜	piann1  sng1	50
 冰霜是寒在	piann1  sng1 si6 ngan5  chai6	100
 氷霜是寒在	piann1  sng1 si6 ngan5  chai6	50
 冰糖	piann1  thng5	100
 氷糖	piann1  thng5	50
-餅	piann2	100
+丙	piann2	100
+餅	piann2	200
 餅藥	piann2  ieh8	100
-標	pie1	100
-鏢	pie1	200
+併	piann3	100
+標	pie1	200
+膘	pie1	100
+錶	pie1	100
+鏢	pie1	300
+鑣	pie1	100
+表	pie2	200
 表姐妹	pie2  che2  muenn7	200
 表姊妹	pie2  chi2  muenn7	100
 表兄弟	pie2  hiann1  ti6	300
-裱	pie3	100
+漂	pie3	100
+裱	pie3	200
 表叔	pie3  chek4	100
 表伯	pie3  peh4	100
 漂白	pie3  peh8	100
+別	piek8	100
+彆	piek8	100
 變	pien3	200
 辯論	pien6  lun6	100
 辯駁	pien6  poh4	100
+籩	pieng1	100
+邊	pieng1	200
+鞭	pieng1	200
+鯿	pieng1	100
+扁	pieng2	100
+碥	pieng2	100
+稨	pieng2	100
+萹	pieng2	100
+藊	pieng2	100
+變	pieng3	100
+便	pieng6	100
+卞	pieng6	100
+弁	pieng6	100
+忭	pieng6	100
+汴	pieng6	100
+辨	pieng6	200
+辯	pieng6	100
+鱉	pih4	100
+必	pik4	100
+筆	pik4	100
+觱	pik4	100
+鉍	pik4	100
+嗶	pik8	100
+弼	pik8	100
+畢	pik8	100
+癟	pik8	100
+篳	pik8	100
+苾	pik8	100
+蹕	pik8	100
 摒擋	pin1  tng3	100
-辮	pinn1	200
+乒	ping1	100
+份	ping1	100
+儐	ping1	100
+彬	ping1	100
+檳	ping1	100
+濱	ping1	100
+繽	ping1	100
+豳	ping1	100
+賓	ping1	100
+邠	ping1	100
+匾	ping2	100
+品	ping2	100
+稟	ping2	100
+箅	ping2	100
+嬪	ping3	100
+擯	ping3	100
+殯	ping3	100
+篦	ping3	100
+編	ping3	100
+遍	ping3	100
+髕	ping3	100
+鬢	ping3	100
+辮	pinn1	300
 邊	pinn1	100
 變	pinn3	100
 變	pinn5	100
 辮	pinn6	100
+俵	piou2	100
+婊	piou2	100
+殍	piou2	100
+莩	piou2	100
 表明	piou2  meng5	200
 筆架	pit4  ke3	100
+彪	piu1	100
 本	png2	300
 本錢	png2  chinn5	200
 本分	png2  hun7	200
@@ -3953,11 +9343,19 @@ To roast, as a fowl &c.	pek4	100
 飯	png6	100
 飯勿烳較糜	png7 mainn3  pu5 khah4  minn5	100
 飯粒	png7  liap8	100
+啵	po1	100
+坡	po1	100
+嶓	po1	100
+波	po1	100
+玻	po1	100
+菠	po1	100
+陂	po1	200
 玻璃	po1  li5	200
 玻璃樽	po1  li5  chun1	100
 玻璃器	po1  li5  khi3	100
 玻璃杯	po1  li5  pue1	100
-寶	po2	100
+保	po2	200
+寶	po2	200
 保護	po2  ho7	100
 保佑	po2  iu6	100
 保家	po2  ke1	100
@@ -3965,30 +9363,49 @@ To roast, as a fowl &c.	pek4	100
 保家館	po2  ke1  kuan2	100
 保領	po2  niann2	200
 寶貝	po2  pue3	100
-報	po3	100
+報	po3	200
 報知	po3  chai1	200
 報仇	po3  chhiu5	200
 報餉單	po3  hiang3  tuann1	100
+婆	po5	100
 薄荷	po5  ho3	100
 薄荷油	po5  ho3  iu5	100
-駁	poh4	100
-薄	poh8	200
-八	poih4	100
+薄	po7	100
+舶	poh4	100
+駁	poh4	200
+泊	poh8	100
+礴	poh8	100
+箔	poh8	100
+薄	poh8	300
+鉑	poh8	100
+八	poih4	200
+捌	poih4	100
 拔	poih8	100
 斑	poinn1	100
 反	poinn2	200
 反輾轉	poinn2  lin3  tng2	100
-爿	poinn5	100
+爿	poinn5	200
 畔	poinn5	50
+卜	pok4	100
 卜卦先生	pok4  khue3 sin1  senn1	100
-埔	pou1	100
-埠	pou1	100
+僕	pok8	100
+蔔	pok8	100
+甭	pong2	200
+乓	pong5	100
+泵	pong5	100
+磅	pong7	100
+鎊	pong7	100
+埔	pou1	200
+埠	pou1	200
 埠頭	pou1  thau5	100
-補	pou2	600
+斧	pou2	100
+脯	pou2	100
+補	pou2	700
 補還	pou2  hoinn5	100
 補藥	pou2  ieh8	100
 補鞋	pou2  oi5	100
 斧頭	pou2  thau5	100
+傅	pou3	100
 布	pou3	100
 布尺	pou3  chhieh4	100
 布碎	pou3  chhui3	100
@@ -3996,24 +9413,37 @@ To roast, as a fowl &c.	pek4	100
 布帆	pou3  phang5	100
 布疋	pou3  phit4	100
 布袋	pou3  to7	100
+醅	pou5	200
+部	pou6	100
 哺	pou7	100
-步	pou7	200
-富	pu3	200
+步	pou7	300
+踄	pou7	100
+晡	pu1	100
+逋	pu1	100
+酺	pu1	100
+佈	pu3	100
+富	pu3	300
+布	pu3	200
+怖	pu3	100
 富个人哩穿燒	pu3   kai5  nang5 li1 chheng7  sie1	100
 富个儂哩穿燒	pu3   kai5  nang5 li1 chheng7  sie1	50
 匏	pu5	100
 烳	pu5	100
-煲	pu5	100
+煲	pu5	200
+瓠	pu5	100
 煲零些燒水	pu5 lan5  lo2 sie1  chui2	100
 煲食	pu5  chiah8	100
+哺	pu6	100
+捕	pu6	100
 胕膿	pu6  lang5	100
 孵雞仔	pu7  koi1  kiann2	50
 孵雞囝	pu7  koi1  kiann2	100
 孵鷄仔	pu7  koi1  kiann2	12
 孵鷄囝	pu7  koi1  kiann2	25
-簸	pua3	100
+播	pua3	100
+簸	pua3	200
 簸箕	pua3  ki1	100
-鉢	puah4	100
+鉢	puah4	200
 跋	puah8	100
 跋錢	puah8  chinn5	100
 跋錢是唔孬事	puah8  chinn5 si6 m6  monn2 sur7	50
@@ -4025,12 +9455,13 @@ To roast, as a fowl &c.	pek4	100
 拔桶	puah8  thang2	100
 叛反	puan6  huan2	100
 叛逆	puan6  ngek8	100
-搬	puann1	200
-半	puann3	100
+搬	puann1	300
+般	puann1	100
+半	puann3	200
 半夜	puann3  menn5	100
 半暝	puann3  menn5	50
 半天	puann3  thinn1	100
-盤	puann5	200
+盤	puann5	300
 盤一樣食了着換	puann5 chek8  ienn7 chiah8  liou2 tieh8  uann7	100
 盤仔	puann5  kiann2	50
 盤囝	puann5  kiann2	100
@@ -4038,12 +9469,59 @@ To roast, as a fowl &c.	pek4	100
 盤碗	puann5  uann2	100
 盤碗食了着洗	puann5  uann2 chiah8  liou2 tieh8  soi2	100
 拂	puann6	200
-飛	pue1	100
-賠	pue5	300
+杯	pue1	100
+飛	pue1	200
+背	pue3	100
+貝	pue3	100
+輩	pue3	100
+培	pue5	100
+碚	pue5	100
+賠	pue5	400
+錇	pue5	100
+陪	pue5	100
 賠還	pue5  hoinn5	100
-焙	pue7	100
-肥	pui5	300
-吠	pui7	100
+佩	pue6	100
+倍	pue6	100
+悖	pue6	100
+掊	pue6	100
+揹	pue6	100
+狽	pue6	100
+珮	pue6	100
+背	pue6	100
+蓓	pue6	100
+裴	pue6	100
+褙	pue6	100
+貝	pue6	100
+鋇	pue6	100
+𦮷	pue6	100
+焙	pue7	200
+勃	puek8	100
+孛	puek8	100
+拔	puek8	100
+渤	puek8	100
+脖	puek8	100
+茇	puek8	100
+荸	puek8	100
+跋	puek8	100
+鈸	puek8	100
+餑	puek8	100
+魃	puek8	100
+鵓	puek8	100
+鼥	puek8	100
+𥎱	puek8	100
+叛	pueng6	100
+卑	pui1	100
+悲	pui1	100
+椑	pui1	100
+沸	pui3	100
+痱	pui3	100
+淝	pui5	100
+肥	pui5	400
+蜰	pui5	100
+吠	pui7	200
+不	puk4	100
+抔	puk4	100
+鈈	puk4	100
 分	pun1	300
 分開	pun1  khui1	100
 分我看	pun1  ua2  thoinn2	50
@@ -4059,15 +9537,30 @@ To roast, as a fowl &c.	pek4	100
 歕風	pun5  huang1	100
 歕過	pun5  kue3	100
 歕嗶	pun5  pi1	200
+本	pung2	100
+笨	pung2	100
+苯	pung2	100
+拚	pung3	200
+畚	pung3	100
+糞	pung3	100
 不止	put4  chi2	100
 不孝	put4  hau3	100
 不過	put4  kue3	100
 不能	put4  leng5	200
 不論	put4  lun6	100
+沙	sa1	200
+筲	sa1	200
+莎	sa1	200
+撒	sa3	100
+傻	sa6	100
+啥	sa6	100
 煠	sah8	100
 煠酒	sah8  chiu2	100
-獅	sai1	100
-西	sai1	200
+犀	sai1	100
+獅	sai1	200
+腮	sai1	100
+西	sai1	300
+鰓	sai1	100
 私下	sai1  e6	100
 犀牛	sai1  gu5	100
 私奇	sai1  khia1	100
@@ -4080,30 +9573,65 @@ To roast, as a fowl &c.	pek4	100
 西畔	sai1  poinn5	50
 私心	sai1  sim1	100
 私事	sai1  sur7	100
-使	sai2	600
-屎	sai2	100
+使	sai2	700
+屎	sai2	200
+駛	sai2	100
 使用	sai2  eng7	200
 使牛	sai2  gu5	100
 使油	sai2  iu5	100
 使油司阜	sai2  iu5 sai1  pe6	100
 屎溝	sai2  kau1	200
 屎鉢	sai2  puah4	100
-柿	sai6	100
+使	sai3	100
+塞	sai3	100
+婿	sai3	100
+曬	sai3	100
+灑	sai3	100
+賽	sai3	100
+鎩	sai3	100
+柿	sai6	200
 柿餅	sai6  piann2	100
-杉	sam1	100
+剎	sak4	100
+塞	sak4	100
+撒	sak4	100
+薩	sak4	100
+虱	sak4	100
+鎩	sak4	100
+三	sam1	200
+杉	sam1	200
+毿	sam1	100
+穇	sam1	100
+釤	sam1	100
 杉牌	sam1  pai5	100
 三不時	sam1  put4  si5	100
+糂	sam2	100
 鉎	san1	100
 珊瑚	san1  hu5	100
 㾪	san2	100
-雙	sang1	200
-鬆	sang1	100
+刪	sang1	100
+姍	sang1	100
+澘	sang1	100
+瀧	sang1	100
+珊	sang1	100
+舢	sang1	100
+芟	sang1	100
+跚	sang1	100
+雙	sang1	300
+鬆	sang1	300
 雙生	sang1  senn1	100
-送	sang3	300
+滻	sang2	100
+喪	sang3	100
+氙	sang3	100
+疝	sang3	100
+訕	sang3	100
+送	sang3	400
+霰	sang3	100
 送聘	sang3  phiann3	100
 送喪	sang3  sng1	200
 三	sann1	100
-衫	sann1	200
+仨	sann1	100
+叁	sann1	100
+衫	sann1	300
 三月稍絀	sann1   gueh8 iou2  chuah8	100
 〣〇	sann1  chap8	100
 三十	sann1  chap8	100
@@ -4130,36 +9658,111 @@ To roast, as a fowl &c.	pek4	100
 三牲	sann1  senn1	100
 衫吊	sann1  tiou3	100
 衫袋	sann1  to7	100
+卅	sap4	100
+靸	sap4	100
+颯	sap4	100
+𢶍	sap4	100
+𧐔	sap4	100
 塞	sat4	100
 虱	sat4	100
 虱箆	sat4  pin3	200
-騷	sau1	100
+捎	sau1	200
+搔	sau1	100
+梢	sau1	200
+艄	sau1	100
+蛸	sau1	200
+鞘	sau1	200
+騷	sau1	200
 騷館	sau1  kuan2	100
-掃	sau3	200
+哨	sau3	100
+嗽	sau3	100
+嘯	sau3	100
+埽	sau3	100
+掃	sau3	300
 掃灰水	sau3  hue1  chui2	100
 掃帚	sau3  siu2	200
 掃帚星	sau3  soi1  chhenn1	100
+些	se1	100
+紗	se1	100
+裟	se1	100
 些須仔	se1  su1  kiann2	50
 些須囝	se1  su1  kiann2	100
-色	sek4	200
+儕	se5	100
+嗇	sek4	100
+埴	sek4	100
+夕	sek4	100
+奭	sek4	100
+媳	sek4	100
+式	sek4	100
+息	sek4	100
+悉	sek4	100
+擲	sek4	100
+晰	sek4	100
+析	sek4	100
+栻	sek4	100
+植	sek4	100
+殖	sek4	100
+汐	sek4	100
+淅	sek4	100
+湜	sek4	100
+熄	sek4	100
+瑟	sek4	100
+皙	sek4	100
+矽	sek4	100
+碩	sek4	100
+穡	sek4	100
+穸	sek4	100
+窸	sek4	100
+色	sek4	300
+蜥	sek4	100
+螅	sek4	100
+螫	sek4	100
+蟋	sek4	100
+識	sek4	100
+軾	sek4	100
+適	sek4	100
+郝	sek4	100
+釋	sek4	100
+銫	sek4	100
+飾	sek4	100
 色水	sek4  chui2	100
 色料	sek4  liou7	100
 捔掉	sek4  tiou3	100
-熟	sek8	400
+熟	sek8	500
 熱	sek8	200
 爇	sek8	100
+勝	seng1	100
+升	seng1	100
+惺	seng1	100
+旌	seng1	100
+昇	seng1	100
+牲	seng1	200
+猩	seng1	100
+生	seng1	200
+甡	seng1	100
+甥	seng1	100
+眚	seng1	100
+笙	seng1	100
+腥	seng1	200
 升旗	seng1  ki5	100
 生理	seng1  li2	400
 生理熱	seng1  li2 jiet8	100
 生理爇	seng1  li2 jiet8	50
 生理人	seng1  li2  nang5	100
 生理儂	seng1  li2  nang5	50
+勝	seng3	100
 聖堂	seng3  tng5	200
-乘	seng5	100
-成	seng5	100
+丞	seng5	100
+乘	seng5	200
+成	seng5	300
+承	seng5	100
+誠	seng5	100
 榕樹	seng5  chhiu7	100
 松香	seng5  hienn1	100
 誠實	seng5  sit8	200
+乘	seng6	100
+嵊	seng6	100
+盛	seng6	100
 生	senn1	500
 鉎	senn1	100
 生瘋	senn1  huang1	100
@@ -4173,23 +9776,42 @@ To roast, as a fowl &c.	pek4	100
 生成	senn1  seng5	100
 生㿗	senn1  thue5	100
 鍟鍋	senn1  ue1	100
-省	senn2	100
-姓	senn3	200
-性	senn3	100
+省	senn2	200
+姓	senn3	300
+性	senn3	200
 性情	senn3  chheng5	100
-屍	si1	100
-施	si1	100
-絲	si1	100
-詩	si1	100
+司	si1	100
+尸	si1	100
+屍	si1	200
+施	si1	200
+樨	si1	200
+硒	si1	100
+絲	si1	200
+葹	si1	100
+蓍	si1	100
+詩	si1	200
+鷥	si1	100
 是伊个	si1 i1  kai5	100
 施米	si1  bi2	100
 西瓜	si1  kue1	100
 絲線	si1  suann3	100
 絲綢綾緞	si1  tiu5 lin5  tng7	100
-死	si2	400
+兕	si2	100
+始	si2	100
+屣	si2	100
+弛	si2	100
+枲	si2	100
+死	si2	500
+矢	si2	100
+葸	si2	100
+蓰	si2	100
+豕	si2	100
+郤	si2	100
 死牛	si2  gu5	100
 死狗	si2  kau2	100
-四	si3	100
+世	si3	100
+勢	si3	100
+四	si3	200
 四肢	si3  chinn1	100
 四指呾無	si3  choinn2 tann3  bo5	100
 世間	si3  kan1	200
@@ -4202,9 +9824,12 @@ To roast, as a fowl &c.	pek4	100
 四方牀	si3  pang1 chhng5	50
 四散	si3  suann3	100
 勢頭	si3  thau5	100
-匙	si5	100
-時	si5	100
+匙	si5	200
+塒	si5	100
+時	si5	200
+蒔	si5	100
 辭	si5	100
+鰣	si5	100
 時鐘	si5  cheng1	200
 時鐘墜	si5  cheng1  thui7	100
 時節着拜阿公	si5  choih4 tieh8 pai3  a1  kong1	100
@@ -4212,35 +9837,80 @@ To roast, as a fowl &c.	pek4	100
 時鏢	si5  pie1	100
 時辰	si5  sin5	100
 辭掉	si5  tiou3	300
-是	si6	300
+侍	si6	100
+恃	si6	100
+是	si6	400
+氏	si6	100
+蒔	si6	100
+視	si6	100
 是趣味在	si6 chhu3  bi8 chai6	100
 是此樣生	si6 chienn3  senn1	100
 是伊	si6 i1	100
 是雅在	si6 ngia2  chai6	100
 是乜	si6  mih4	100
+噬	si7	100
+示	si7	100
+筮	si7	100
+視	si7	100
+誓	si7	100
+豉	si7	100
+逝	si7	100
 豉油	si7  iu5	100
 豉油架	si7  iu5  ke3	100
 豉油架放鎭中	si7  iu5  ke3 pang3 tin3  tang1	50
 豉油架放鎮中	si7  iu5  ke3 pang3 tin3  tang1	100
 斜	sia1	100
-寫	sia2	200
+寫	sia2	300
+捨	sia2	100
 寫字	sia2  ji7	100
 寫字床刻个	sia2  ji7  chhng5 khek4   kai5	100
 寫字牀刻个	sia2  ji7  chhng5 khek4   kai5	50
-瀉	sia3	100
-謝	sia3	100
+卸	sia3	100
+厙	sia3	100
+捨	sia3	100
+瀉	sia3	200
+猞	sia3	100
+舍	sia3	100
+謝	sia3	200
+赦	sia3	100
 赦罪	sia3  chue6	300
+佘	sia5	100
+斜	sia5	100
+畲	sia5	100
+邪	sia5	100
 斜紋	sia5  bun5	100
 斜莪粉	sia5  go7  hun2	100
 斜莪圓	sia5  go7  inn5	100
 斜目鳥	sia5  mak8  chiou2	100
 邪術	sia5  sut8	100
-謝	sia7	100
+社	sia6	100
+射	sia7	100
+榭	sia7	100
+謝	sia7	200
+麝	sia7	100
 射箭	sia7  chinn3	100
-錫	siah4	100
+削	siah4	200
+峭	siah4	100
+錫	siah4	200
 錫薄	siah4  poh8	100
+席	siah8	100
+屑	siak4	100
 閃	siam2	200
 尋	siam5	200
+勷	siang1	100
+商	siang1	100
+墒	siang1	100
+愓	siang1	100
+殤	siang1	100
+湘	siang1	100
+湯	siang1	100
+瀼	siang1	100
+瓤	siang1	100
+相	siang1	100
+穰	siang1	100
+襄	siang1	100
+觴	siang1	100
+驤	siang1	100
 相好朋友	siang1  ho2 pheng5  iu2	100
 相反	siang1  huan2	100
 相幫	siang1  pang1	100
@@ -4250,24 +9920,37 @@ To roast, as a fowl &c.	pek4	100
 相信	siang1  sin3	200
 相同	siang1  tang5	100
 相對	siang1  tui3	100
+想	siang2	100
+相	siang3	200
+嫦	siang5	100
+常	siang5	200
+庠	siang5	100
+徜	siang5	100
+祥	siang5	100
+翔	siang5	100
+裳	siang5	100
+詳	siang5	100
+上	siang6	100
 尙	siang6	100
-尚	siang6	200
+尚	siang6	300
+象	siang6	100
 尙且	siang6  chhiann2	100
 上好	siang6  ho2	200
 上帝	siang6  ti3	200
 上大	siang6  tua7	100
-聲	siann1	400
-聖	siann3	100
+聲	siann1	500
+聖	siann3	200
 聖書	siann3  chur1	100
 聖會	siann3  hue6	100
 聖神	siann3  sin5	100
-城	siann5	200
+城	siann5	300
 城是大在	siann5 si6 tua7  chai6	100
 城外	siann5  gua7	100
 城門	siann5  mng5	100
+𣛮	siann7	100
 澀	siap4	100
 澁	siap4	50
-燒	sie1	500
+燒	sie1	600
 相䛩	sie1  a3	50
 相詏	sie1  a3	100
 相争	sie1  chenn1	100
@@ -4298,30 +9981,108 @@ To roast, as a fowl &c.	pek4	100
 小帽	sie2  bo7	200
 小可	sie2  khua2	100
 小可事	sie2  khua2  sur7	100
-惜	sieh4	200
+惜	sieh4	300
 石榴	sieh8  liu5	100
+楔	siek4	100
+褻	siek4	100
+設	siek4	100
+參	siem1	100
+森	siem1	100
+䀹	siem2	100
+苫	siem2	100
+閃	siem2	100
+陝	siem2	100
+嬋	siem5	100
+孅	siem5	100
+暹	siem5	100
+檐	siem5	100
+蟾	siem5	100
+贍	siem5	100
 仙瑚	sien1  hu5	100
 癬	sien2	100
 腎子	sien6  chi2	100
-傷	sienn1	200
-箱	sienn1	300
+仙	sieng1	100
+祆	sieng1	100
+籼	sieng1	100
+冼	sieng2	100
+哂	sieng2	100
+尟	sieng2	100
+尠	sieng2	100
+燹	sieng2	100
+癬	sieng2	100
+矧	sieng2	100
+蘚	sieng2	100
+蜃	sieng2	100
+跣	sieng2	100
+銑	sieng2	100
+鮝	sieng2	100
+鮮	sieng2	100
+扇	sieng3	200
+搧	sieng3	100
+煽	sieng3	100
+騸	sieng3	100
+單	sieng5	100
+嬗	sieng5	100
+澶	sieng5	100
+禪	sieng5	100
+蟬	sieng5	200
+善	sieng6	100
+單	sieng6	100
+墡	sieng6	100
+擅	sieng6	100
+禪	sieng6	100
+繕	sieng6	100
+腎	sieng6	100
+膳	sieng6	100
+蟮	sieng6	100
+鄯	sieng6	100
+闡	sieng6	100
+鱔	sieng6	100
+傷	sienn1	300
+廂	sienn1	100
+箱	sienn1	400
+鑲	sienn1	100
 傷着	sienn1   tieh8	400
 傷風	sienn1  huang1	100
 傷痕	sienn1  hun5	200
 傷口	sienn1  khau2	100
 傷人	sienn1  nang5	100
 傷儂	sienn1  nang5	50
-賞	sienn2	100
+賞	sienn2	200
 賞格	sienn2  keh4	100
-像	sienn3	500
+像	sienn3	600
+償	sienn5	100
+嘗	sienn5	100
+嚐	sienn5	100
 常	sienn5	100
+鱨	sienn5	100
 常常	sienn5  sienn5	300
-想	sienn6	400
+想	sienn6	500
+邵	sienn7	100
+倏	siep4	100
+澀	siep4	100
+霎	siep4	100
+泄	siep8	100
+涉	siep8	100
+渫	siep8	100
+燮	siep8	100
+紲	siep8	100
+躞	siep8	100
 設出	siet4  chhut4	100
 設立	siet4  lip8	200
+契	sih4	100
+薛	sih4	100
+蝕	sih8	100
+食	sih8	100
 蝕本	sih8  png2	100
 窸窣	sih8  suh8	100
-心	sim1	300
+失	sik4	100
+室	sik4	100
+實	sik8	100
+殖	sik8	100
+心	sim1	400
+芯	sim1	100
+蓡	sim1	100
 心肝	sim1  kuann1	100
 心肝頭	sim1  kuann1  thau5	300
 心神唔定	sim1  sin5 m6  tiann3	50
@@ -4330,8 +10091,21 @@ To roast, as a fowl &c.	pek4	100
 心神毋定	sim1  sin5 m6  tiann7	100
 心事	sim1  sur7	100
 心事㩼	sim1  sur7 choi7	100
-審	sim2	200
+嬸	sim2	100
+審	sim2	300
+慎	sim2	100
+沁	sim2	100
+沈	sim2	100
+瀋	sim2	100
+稔	sim2	100
+諗	sim2	100
+讅	sim2	100
 審問	sim2  mng7	100
+伈	sim5	100
+忱	sim5	100
+葚	sim5	100
+諶	sim5	100
+甚	sim6	100
 新	sin1	100
 身	sin1	100
 新聞	sin1  bun6	100
@@ -4367,22 +10141,86 @@ To roast, as a fowl &c.	pek4	100
 神明	sin5  meng5	100
 神詩	sin5  si1	100
 剩	sin7	100
+伸	sing1	100
+呻	sing1	100
+新	sing1	100
+申	sing1	100
+砷	sing1	100
+紳	sing1	100
+莘	sing1	100
+身	sing1	100
+辛	sing1	100
+鋅	sing1	100
+騂	sing1	100
+信	sing3	100
+囟	sing3	100
+汛	sing3	100
+芯	sing3	100
+訊	sing3	100
+迅	sing3	100
+娠	sing5	100
+宸	sing5	100
+晨	sing5	100
+澠	sing5	100
+神	sing5	100
+繩	sing5	100
+蜃	sing5	100
+蠅	sing5	100
+辰	sing5	100
+剩	sing7	100
 扇	sinn3	200
+宵	siou1	100
+宿	siou1	100
 尋	siou1	100
-消	siou1	100
-硝	siou1	100
+搜	siou1	100
+消	siou1	200
+溲	siou1	100
+瀟	siou1	100
+硝	siou1	200
+簫	siou1	100
+綃	siou1	100
+翛	siou1	100
+蒐	siou1	100
+蕭	siou1	100
+螋	siou1	100
+蠨	siou1	100
+謏	siou1	100
+逍	siou1	100
+銷	siou1	100
+鎪	siou1	100
+霄	siou1	100
+餿	siou1	100
+小	siou2	100
 痟	siou2	100
+筱	siou2	100
 小影	siou2  iann2	100
 少禮	siou2  li2	200
+少	siou3	100
 數	siou3	200
+筱	siou3	100
 數還淸	siou3 hoinn5  chheng1	50
 數還清	siou3 hoinn5  chheng1	100
 數完	siou3 uan5	100
 數目	siou3  bak8	100
 少年	siou3  ninn5	100
 數簿	siou3  phou6	100
+劭	siou6	100
+卲	siou6	100
+召	siou6	100
+紹	siou6	100
+肇	siou6	100
+肖	siou6	100
+邵	siou6	100
+韶	siou6	100
 溼	sip4	50
-濕	sip4	100
+濕	sip4	200
+隰	sip4	100
+什	sip8	100
+嶍	sip8	100
+拾	sip8	100
+習	sip8	100
+襲	sip8	100
+鰼	sip8	100
 失約	sit4  ieh4	100
 失落	sit4  loh8	100
 失信	sit4  sin3	100
@@ -4391,8 +10229,12 @@ To roast, as a fowl &c.	pek4	100
 實意	sit8  i3	100
 實心	sit8  sim1	100
 實話呾	sit8  ue7 tann3	100
-收	siu1	400
-梳	siu1	200
+修	siu1	100
+收	siu1	500
+梳	siu1	300
+羞	siu1	100
+脩	siu1	100
+饈	siu1	100
 收監	siu1  kam1	100
 收帆	siu1  phang5	100
 修心	siu1  sim1	100
@@ -4401,15 +10243,31 @@ To roast, as a fowl &c.	pek4	100
 收拾	siu1  sip8	200
 收冬	siu1  tang1	100
 收單	siu1  tuann1	100
+守	siu2	100
+帚	siu2	100
+首	siu2	100
 守寡	siu2  kua2	200
+宿	siu3	100
+岫	siu3	100
+狩	siu3	100
+獸	siu3	100
+琇	siu3	100
+秀	siu3	100
+綉	siu3	100
+袖	siu3	100
+銹	siu3	100
 秀才就跪落去	siu3  chai5 chiu6 kui6   loh8  khur3	100
 秀才在跪隨時就起來	siu3  chai5 to6  kui6 sui5  si5 chiu5 khi2   lai5	100
 繡花	siu3  hue1	200
 氽	siu5	100
-泅	siu5	200
+泅	siu5	300
 秀才就出去	siu5  chai5 chiu6 chhut4   khur3	100
+受	siu6	100
+授	siu6	100
+綬	siu6	100
 受賄	siu6  iu6	200
 受苦	siu6  khou2	100
+壽	siu7	100
 岫	siu7	100
 酸	sng1	200
 酸菜	sng1  chhai3	100
@@ -4430,18 +10288,33 @@ To roast, as a fowl &c.	pek4	100
 算數	sng3  siou3	100
 𮅕數	sng3  siou3	50
 蒜頭	sng3  thau5	100
-疏	so1	100
+唆	so1	100
+嗦	so1	100
+娑	so1	100
+挲	so1	100
+搓	so1	100
+桫	so1	100
+梭	so1	100
+疏	so1	200
+蔬	so1	100
 逡	so1	100
 梭仔	so1  kiann2	50
 梭囝	so1  kiann2	100
+嗩	so2	100
+嫂	so2	100
+所	so2	100
+瑣	so2	100
+鎖	so2	100
 所費	so2  hui3	400
 所費大	so2  hui3  tua7	100
 所以	so2  inn2	100
 鎖匙	so2  si5	100
 鎖頭	so2  thau5	200
+疏	so3	100
 束	soh4	100
-索	soh4	100
-雪	soh4	200
+索	soh4	300
+雪	soh4	300
+鱈	soh4	100
 雪敢是愈寒	soh4 kann3  si6 ju2  ngan5	100
 雪帽	soh4  bo7	100
 雪柑	soh4  kann1	100
@@ -4451,6 +10324,9 @@ To roast, as a fowl &c.	pek4	100
 嘶	soi1	100
 嚷	soi1	100
 讓	soi1	50
+𦭶	soi1	100
+洗	soi2	200
+灑	soi2	100
 洗較業袂燒	soi2 khah4  giap8 boi6  sie1	100
 洗較業𠀾燒	soi2 khah4  giap8 boi6  sie1	50
 洗手杯	soi2  chhiu2  pue1	100
@@ -4461,7 +10337,7 @@ To roast, as a fowl &c.	pek4	100
 洗禮	soi2  loi2	100
 洗面个床	soi2  min7 kai5 chhng5	100
 洗面个牀	soi2  min7 kai5 chhng5	50
-細	soi3	300
+細	soi3	400
 細姨	soi3  i5	100
 細字	soi3  ji7	200
 細仔	soi3  kiann2	50
@@ -4470,29 +10346,156 @@ To roast, as a fowl &c.	pek4	100
 細舅	soi3  ku6	100
 細官	soi3  kuann1	100
 細詳	soi3  siang5	100
-先	soinn1	100
+𩐅	soih4	100
+先	soinn1	200
 先祖	soinn1  chou2	100
+叔	sok4	100
+嗦	sok4	100
+夙	sok4	100
+寂	sok4	100
+束	sok4	100
+涑	sok4	100
+淑	sok4	100
+漱	sok4	100
+簌	sok4	100
+縮	sok4	100
+肅	sok4	100
+菽	sok4	100
+蓿	sok4	100
+蔌	sok4	100
+觫	sok4	100
+謖	sok4	100
+速	sok4	100
+餗	sok4	100
 束金	sok4  kim1	100
-俗	sok8	100
-屬	sok8	100
-贖	sok8	100
+俗	sok8	200
+塾	sok8	100
+孰	sok8	100
+屬	sok8	200
+續	sok8	100
+贖	sok8	200
 贖罪	sok8  chue6	100
 俗語	sok8  gur2	200
+嵩	song1	100
+悚	song2	100
+慫	song2	100
+竦	song2	100
+聳	song2	100
 爽快	song2  khuai3	100
+宋	song3	100
+凇	song5	100
+松	song5	100
+淞	song5	100
+菘	song5	100
+訟	song6	100
+誦	song6	100
+頌	song6	100
 訟師	song6  sur1	100
-酥	sou1	100
-輸	su1	100
+甦	sou1	100
+穌	sou1	100
+蘇	sou1	100
+酥	sou1	200
+颼	sou1	100
+叟	sou2	100
+嗖	sou2	100
+廋	sou2	100
+擻	sou2	100
+溲	sou2	100
+瞍	sou2	100
+艘	sou2	100
+藪	sou2	100
+謏	sou2	200
+漱	sou3	100
+瘦	sou3	100
+囌	su1	100
+嬃	su1	100
+抒	su1	100
+樗	su1	200
+湑	su1	100
+濡	su1	100
+糈	su1	100
+紓	su1	100
+胥	su1	100
+輸	su1	200
+需	su1	100
+須	su1	100
+鬚	su1	100
+墅	su2	100
+抒	su2	100
+攄	su2	100
+暑	su2	100
+曙	su2	100
+杵	su2	100
+杼	su2	100
+渚	su2	100
+緒	su2	100
+署	su2	100
+翥	su2	100
+褚	su2	100
+黍	su2	100
+嗉	su3	100
+塑	su3	100
+庶	su3	100
+恕	su3	100
+愫	su3	100
+愬	su3	100
+數	su3	200
+溯	su3	100
+素	su3	100
+絮	su3	100
+膆	su3	100
+訴	su3	100
 訴來	su3   lai5	100
+殊	su5	100
+殳	su5	100
+蜍	su5	100
+㴻	su6	100
+序	su6	100
+敘	su6	100
+樹	su6	100
+漵	su6	100
+豎	su6	100
 沙	sua1	100
+痧	sua1	100
+砂	sua1	100
+鯊	sua1	100
 鯊魚	sua1  hur5	200
 沙蜢	sua1  menn1	100
 沙埧	sua1  pa3	100
-徙	sua2	200
+徙	sua2	300
+宿	suah4	100
+殺	suah4	100
+煞	suah4	100
 撒鹽	suah4  iam5	100
-榱	suainn7	100
+甩	suai2	100
+榱	suainn7	200
+嗍	suak4	100
+搠	suak4	100
+數	suak4	100
+朔	suak4	100
+槊	suak4	100
+蒴	suak4	100
 選	suan2	400
 鏇	suan7	100
-山	suann1	300
+喧	suang1	100
+宣	suang1	100
+悛	suang1	100
+揎	suang1	100
+暄	suang1	100
+楥	suang1	100
+楦	suang1	100
+渲	suang1	100
+煊	suang1	100
+瑄	suang1	100
+萱	suang1	100
+諼	suang1	100
+嗓	suang2	100
+搡	suang2	100
+爽	suang2	100
+磉	suang2	100
+顙	suang2	100
+山	suann1	400
+汕	suann1	100
 山水	suann1  chui2	100
 山羊	suann1  ienn5	100
 山溝	suann1  kau1	100
@@ -4504,18 +10507,74 @@ To roast, as a fowl &c.	pek4	100
 山人	suann1  nang5	200
 山儂	suann1  nang5	100
 山東梨	suann1  tang1  lai5	100
+散	suann2	100
+產	suann2	100
 產業	suann2  ngiap8	100
-散	suann3	200
+傘	suann3	100
+散	suann3	300
+汕	suann3	100
+綫	suann3	100
 線	suann3	200
+饊	suann3	100
 線索	suann3  soh4	100
-稅	sue3	300
+腺	suann5	100
+衰	sue1	100
+㲓	sue3	100
+帥	sue3	100
+帨	sue3	100
+戍	sue3	100
+歲	sue3	100
+稅	sue3	400
+蛻	sue3	100
 稅務司	sue3  bu6  si1	100
-刷	sueh4	200
-說	sueh4	100
+刷	sueh4	300
+唰	sueh4	100
+涮	sueh4	100
+說	sueh4	200
 刷灰水	sueh4  hue1  chui2	100
-榱	sui1	100
+選	sueng2	100
+汆	sueng3	100
+旋	sueng5	100
+漩	sueng5	100
+璿	sueng5	100
+璇	sueng7	100
+鏇	sueng7	100
+榱	sui1	200
+縗	sui1	100
+荽	sui1	100
+蓑	sui1	100
+蕤	sui1	100
+雖	sui1	100
 雖然	sui1  jien5	100
+巂	sui2	100
+圌	sui5	100
+垂	sui5	100
+棰	sui5	100
+燧	sui5	100
+穟	sui5	100
+綏	sui5	100
+誰	sui5	100
+遂	sui5	100
+邃	sui5	100
+陲	sui5	100
+隋	sui5	100
+隧	sui5	100
+隨	sui5	100
 隨時	sui5  si5	100
+瑞	sui6	100
+睡	sui6	100
+穗	sui7	100
+繐	sui7	100
+恤	suk4	100
+戌	suk4	100
+摔	suk4	100
+甩	suk4	100
+窣	suk4	100
+蟀	suk4	100
+𨄮	suk4	100
+沭	suk8	100
+術	suk8	100
+述	suk8	100
 孫婦	sun1  pu6	100
 笋	sun2	100
 損病	sun2  penn7	100
@@ -4526,15 +10585,103 @@ To roast, as a fowl &c.	pek4	100
 順合个貨毋孬比阮个	sun6  hah8 kai5  hue3 m6  monn2 un2   kai5	100
 順風	sun6  huang1	100
 順流	sun6  lau5	100
+孫	sung1	200
+猻	sung1	100
+蓀	sung1	100
+飧	sung1	100
+損	sung2	100
+榫	sung2	100
+笋	sung2	100
+噀	sung3	100
+巽	sung3	100
+瞬	sung3	100
+舜	sung3	100
+遜	sung3	100
+侚	sung5	100
+屯	sung5	100
+峋	sung5	100
+巡	sung5	100
+徇	sung5	100
+循	sung5	100
+恂	sung5	100
+旬	sung5	100
+栒	sung5	100
+殉	sung5	100
+洵	sung5	100
+淳	sung5	100
+珣	sung5	100
+純	sung5	100
+絢	sung5	100
+荀	sung5	100
+蒓	sung5	100
+詢	sung5	100
+郇	sung5	100
+醇	sung5	100
+馴	sung5	100
+鶉	sung5	100
+順	sung6	100
+嘶	sur1	200
+師	sur1	100
+廝	sur1	100
+思	sur1	200
+撕	sur1	100
+斯	sur1	100
+澌	sur1	100
+私	sur1	100
+緦	sur1	100
+舒	sur1	200
+虒	sur1	100
+螄	sur1	100
+鍶	sur1	100
+颸	sur1	100
 思量成	sur1  nienn5  seng5	100
+史	sur2	100
+儩	sur3	100
+思	sur3	100
+泗	sur3	100
+笥	sur3	100
+肆	sur3	200
+賜	sur3	100
+駟	sur3	100
 賜福	sur3  hok4	100
+嗣	sur5	100
+祠	sur5	100
+詞	sur5	100
+辭	sur5	200
 祠堂	sur5  tng5	100
+事	sur6	100
+什	sur6	100
+仕	sur6	100
+伺	sur6	100
+似	sur6	100
+俟	sur6	100
+嗣	sur6	100
+士	sur6	100
+姒	sur6	100
+峙	sur6	200
+嶼	sur6	100
+汜	sur6	100
+涘	sur6	100
+祀	sur6	100
+耜	sur6	100
+茌	sur6	100
+食	sur6	100
 伺理	sur6  li2	200
-事	sur7	500
+事	sur7	600
 事㩼	sur7 choi7	100
 事務	sur7  bu6	200
 事㩼	sur7  choi7	100
 事業	sur7  ngiap8	100
+喪	surng1	100
+孀	surng1	100
+桑	surng1	100
+痠	surng1	100
+酸	surng1	100
+霜	surng1	100
+耍	surng2	100
+筭	surng3	100
+算	surng3	100
+蒜	surng3	100
 摔	sut4	100
 灱	ta1	200
 大家	ta1  ke1	100
@@ -4543,39 +10690,91 @@ To roast, as a fowl &c.	pek4	100
 丈夫愈壯過姿娘	ta1  pou1 ju2  chang3 kue3 chur1  nienn5	25
 丈夫愈壯過珠娘	ta1  pou1 ju2  chang3 kue3 chur1  nienn5	50
 丈夫愈壯過諸娘	ta1  pou1 ju2  chang3 kue3 chur1  nienn5	100
+咑	ta2	100
+打	ta2	100
 打扮	ta2  pan3	200
-搭	tah4	100
+禾	ta5	100
+䐛	tah4	100
+搭	tah4	200
+耷	tah4	100
+褡	tah4	100
 託	tah4	100
 貼	tah4	100
+遢	tah4	100
 搭彼隻藍烟筒	tah4 hur2  chiah4 nam5  in1  tang5	50
 搭彼隻藍煙筒	tah4 hur2  chiah4 nam5  in1  tang5	100
 搭客	tah4  kheh4	100
 搭金	tah4  kim1	100
 搭布帆	tah4  pou3  phang5	100
 答背	tah4  pue3	100
-踏	tah8	200
+沓	tah8	100
+踏	tah8	300
+遝	tah8	100
 踏布	tah8  pou3	100
+呆	tai1	100
+歹	tai2	100
+逮	tai2	100
+岱	tai3	100
+玳	tai3	100
+襶	tai3	100
+貸	tai3	100
+黛	tai3	100
+大	tai6	100
+怠	tai6	100
+殆	tai6	100
+迨	tai6	100
+釱	tai6	100
+靆	tai6	100
 大臣	tai6  chhin5	200
 大人	tai6  jin5	100
 大家	tai6  ke1	100
 舵工	tai6  kong1	200
 舵工好行了	tai6  kong1 ho2  kiann5   lo7	100
 玳瑁	tai7  pue7	100
+笪	tak4	100
 觸	tak4	100
 荒喪	tak4  nng7	100
 㸃頭	tak4  thau5	50
 點頭	tak4  thau5	100
-毒	tak8	100
+值	tak8	200
+噠	tak8	100
+墶	tak8	100
+度	tak8	100
+毒	tak8	200
+濯	tak8	100
+碡	tak8	100
+繨	tak8	100
+踱	tak8	100
+達	tak8	100
+鐸	tak8	100
 毒藥	tak8  ieh8	100
+湛	tam1	100
+眈	tam1	100
+耽	tam1	100
+聃	tam1	100
 担認	tam1  jin7	50
 擔認	tam1  jin7	100
 担承	tam1  seng5	150
 擔承	tam1  seng5	300
+萏	tam2	100
 㴷	tam5	200
+啖	tam6	100
 等	tan2	200
 刺	tan3	100
-冬	tang1	200
-東	tang1	200
+中	tang1	200
+丹	tang1	200
+冬	tang1	300
+噹	tang1	100
+坍	tang1	100
+東	tang1	400
+檔	tang1	100
+殫	tang1	100
+璫	tang1	100
+癉	tang1	100
+簞	tang1	100
+襠	tang1	100
+鄲	tang1	100
+鐺	tang1	200
 冬天凊在	tang1   thinn1 chhin1  chai6	100
 冬天愈凊此處	tang1   thinn1 ju2  chhin3 chie2	100
 冬天磽仔人是淒慘	tang1   thinn1 khiou1  kiann2 nang5 si6 chhi1  chham2	25
@@ -4589,9 +10788,26 @@ To roast, as a fowl &c.	pek4	100
 東爿	tang1  poinn5	100
 東畔	tang1  poinn5	50
 東司	tang1  si1	100
+亶	tang2	100
+癉	tang2	100
+董	tang2	200
+讜	tang2	100
+黨	tang2	100
+凍	tang3	200
+擋	tang3	100
+旦	tang3	200
+棟	tang3	200
+檔	tang3	100
+當	tang3	200
+蛋	tang3	100
+蜑	tang3	100
+誕	tang3	100
 銅	tang3	100
-筒	tang5	200
-銅	tang5	200
+同	tang5	100
+筒	tang5	300
+茼	tang5	100
+銅	tang5	300
+陳	tang5	100
 銅指	tang5  choinn2	100
 同字劃	tang5  ji7  ueh8	100
 童乩	tang5  ki1	200
@@ -4600,7 +10816,16 @@ To roast, as a fowl &c.	pek4	100
 童身	tang5  sin1	200
 銅線	tang5  suann3	100
 銅鍋	tang5  ue1	100
-重	tang6	200
+但	tang6	100
+凼	tang6	100
+宕	tang6	100
+愓	tang6	100
+憚	tang6	100
+盪	tang6	100
+碭	tang6	100
+菪	tang6	100
+蕩	tang6	100
+重	tang6	400
 筒架	tang6  ke3	100
 重利	tang6  lai7	100
 重病	tang6  penn7	100
@@ -4608,8 +10833,11 @@ To roast, as a fowl &c.	pek4	100
 重重光	tang6  tang6  kng1	100
 重担	tang6  tann3	50
 重擔	tang6  tann3	100
+峝	tang7	100
+洞	tang7	100
+儋	tann1	100
 担	tann1	50
-擔	tann1	100
+擔	tann1	200
 担一張交椅來	tann1 chek8  chiah4 kau1  inn2 lai5	50
 擔一張交椅來	tann1 chek8  chiah4 kau1  inn2 lai5	100
 挑一張竹椅我坐	tann1 chek8  chiah4 tek4  inn2 ua2 cho6	100
@@ -4617,35 +10845,70 @@ To roast, as a fowl &c.	pek4	100
 擔枷	tann1  ke5	100
 担担	tann1  tann3	100
 擔擔	tann1  tann3	200
-膽	tann2	100
-呾	tann3	500
+膽	tann2	200
+呾	tann3	600
 担	tann3	50
-擔	tann3	100
+擔	tann3	200
 呾無	tann3  bo5	100
 呾知	tann3  chai1	100
 呾耍	tann3  sng2	100
 呾大話	tann3  tua7  ue7	100
 呾話	tann3  ue7	100
 呾話重句	tann3  ue7 teng5  ku3	100
+擲	tann6	100
+氮	tann6	100
+淡	tann6	100
+澹	tann6	100
 差	tann7	100
 賺	tann7	100
+嗒	tap4	100
+溚	tap4	100
+瘩	tap4	100
+答	tap4	100
 答答滴	tap8  tap8  tih4	100
 値	tat8	100
 值	tat8	200
 値錢	tat8  chinn5	250
 值錢	tat8  chinn5	500
+兜	tau1	100
+忉	tau1	100
+篼	tau1	100
+讀	tau1	100
+逗	tau1	100
 兜仔	tau1  kiann2	50
 兜囝	tau1  kiann2	100
 姪孫	tau1  sun1	100
 倒	tau2	100
-斗	tau2	200
+島	tau2	100
+找	tau2	100
+抖	tau2	100
+捯	tau2	100
+搗	tau2	100
+斗	tau2	300
+枓	tau2	100
+燾	tau2	100
+禱	tau2	100
+蚪	tau2	100
+鈄	tau2	100
+陡	tau2	100
 倒錢行	tau2  chinn5  hang5	100
 倒桌櫃	tau2  toh4  kuinn7	100
 倒棹櫃	tau2  toh4  kuinn7	50
-骰	tau5	100
+鬥	tau3	200
+投	tau5	100
+骰	tau5	200
+導	tau6	100
+盜	tau6	100
+稻	tau6	100
+纛	tau6	100
+蹈	tau6	100
+道	tau6	100
 道臺	tau6  thai5	100
+痘	tau7	100
+豆	tau7	100
 豆油	tau7  iu5	100
 笮	te3	100
+茶	te5	100
 茶米	te5  bi2	100
 茶盅	te5  cheng1	100
 茶枳枯	te5  chi2  khou1	100
@@ -4659,7 +10922,10 @@ To roast, as a fowl &c.	pek4	100
 壓着	teh4   tieh8	100
 壓棋	teh4  ki5	100
 壓重	teh4  tang6	100
-竹	tek4	100
+嫡	tek4	100
+德	tek4	100
+竹	tek4	200
+竺	tek4	100
 竹蔗	tek4  chia3	100
 竹椅	tek4  inn2	100
 竹器	tek4  khi3	100
@@ -4670,9 +10936,41 @@ To roast, as a fowl &c.	pek4	100
 竹牌	tek4  pai5	100
 竹炮	tek4  phau3	100
 竹笋	tek4  sun2	100
-鹿	tek8	100
+嘀	tek8	100
+妯	tek8	100
+敵	tek8	100
+滌	tek8	100
+特	tek8	100
+狄	tek8	100
+的	tek8	100
+笛	tek8	100
+翟	tek8	100
+荻	tek8	100
+菂	tek8	100
+蟄	tek8	100
+軸	tek8	100
+迪	tek8	100
+逖	tek8	100
+鏑	tek8	100
+鹿	tek8	200
 鹿茸	tek8  jong5	100
-燈	teng1	100
+丁	teng1	100
+仃	teng1	100
+叮	teng1	100
+徵	teng1	100
+汀	teng1	100
+燈	teng1	200
+玎	teng1	100
+町	teng1	100
+疔	teng1	100
+癥	teng1	100
+登	teng1	100
+簦	teng1	100
+蹬	teng1	100
+酊	teng1	100
+釘	teng1	100
+鐙	teng1	100
+靪	teng1	100
 燈拭唔淸潔	teng1 chhit4 m6  chheng1  khi1	12
 燈拭唔清潔	teng1 chhit4 m6  chheng1  khi1	25
 燈拭毋淸潔	teng1 chhit4 m6  chheng1  khi1	50
@@ -4688,24 +10986,67 @@ To roast, as a fowl &c.	pek4	100
 盯綴个人	teng1  tue3   kai5  nang5	100
 盯綴个儂	teng1  tue3   kai5  nang5	50
 登位	teng1  ui7	100
-戥	teng2	200
-頂	teng2	300
+戥	teng2	300
+等	teng2	100
+酊	teng2	100
+頂	teng2	400
 戥閃	teng2  siam2	100
+凳	teng3	100
+叮	teng3	100
 椗	teng3	100
+盯	teng3	100
+碇	teng3	100
+磴	teng3	100
+訂	teng3	100
+釘	teng3	100
+鐙	teng3	100
+飣	teng3	100
 椗袂食	teng3 boi6  chiah8	100
 椗𠀾食	teng3 boi6  chiah8	50
 中舉人	teng3  kur2  jin5	100
 椗索	teng3  soh4	200
+亭	teng5	100
+葶	teng5	100
+重	teng5	100
+綻	teng6	100
+腚	teng6	100
+躑	teng6	100
+鄧	teng6	100
+鄭	teng6	100
+錠	teng6	200
 佯唔知	tenn3  m6  chai1	50
 佯毋知	tenn3  m6  chai1	100
-塔	thah4	200
-疊	thah8	100
-篩	thai1	300
+鄭	tenn7	100
+他	tha1	100
+她	tha1	100
+它	tha1	100
+怹	tha1	100
+鉈	tha1	100
+塔	thah4	300
+趿	thah4	100
+疊	thah8	200
+篩	thai1	400
+苔	thai1	100
+呔	thai2	100
 癩瘑寮	thai2  ko1  liou5	100
+傣	thai3	100
+太	thai3	100
+態	thai3	100
+汰	thai3	100
+泰	thai3	100
+鈦	thai3	100
 太子	thai3  chur2	100
 太爺	thai3  ia5	100
 太平	thai3  pheng5	100
 刣	thai5	200
+擡	thai5	100
+檯	thai5	100
+臺	thai5	100
+薹	thai5	100
+邰	thai5	100
+颱	thai5	100
+駘	thai5	100
+鮐	thai5	100
 刣牛	thai5  gu5	100
 刣贏	thai5  iann5	200
 刣人	thai5  nang5	100
@@ -4713,46 +11054,120 @@ To roast, as a fowl &c.	pek4	100
 刣輸	thai5  su1	200
 刣猪	thai5  tur1	50
 刣豬	thai5  tur1	100
-待	thai6	100
+待	thai6	200
 待	thai7	200
-讀	thak8	200
+塌	thak4	100
+撻	thak4	100
+榻	thak4	100
+橐	thak4	100
+溻	thak4	100
+澾	thak4	100
+踢	thak4	100
+蹋	thak4	100
+闥	thak4	100
+韃	thak4	100
+讀	thak8	300
 讀深書	thak8  chhim1  chur1	100
 讀書人	thak8  chur1  nang5	100
 讀書儂	thak8  chur1  nang5	50
 讀經	thak8  keng1	100
 讀大書	thak8  tua7  chur1	100
-貪	tham1	100
+貪	tham1	200
 貪食	tham1  chiah8	100
 貪心	tham1  sim1	300
 縛活結	tham2  senn1  lam1  khou1	100
-探	tham3	100
+探	tham3	200
 探仔	tham3  kiann2	50
 探囝	tham3  kiann2	100
 探問	tham3  mng7	100
-痰	tham5	100
+壜	tham5	100
+撢	tham5	100
+曇	tham5	100
+潭	tham5	100
+澹	tham5	100
+痰	tham5	200
+蕁	tham5	100
+蟫	tham5	100
+覃	tham5	100
+談	tham5	100
+譚	tham5	100
+贉	tham5	100
+郯	tham5	100
 痰呸	tham5  phui3	100
 痰筒	tham5  tang7	100
+趟	tham7	100
 失足	tham7  phiu3	100
 袒	than2	100
 趁	than3	300
-桶	thang2	200
-毯	thang2	100
+䠀	thang1	100
+噸	thang1	100
+坍	thang1	100
+湯	thang1	200
+蟶	thang1	100
+蹚	thang1	100
+鏜	thang1	100
+倘	thang2	100
+儻	thang2	100
+坦	thang2	100
+妲	thang2	100
+忐	thang2	100
+怛	thang2	100
+桶	thang2	300
+毯	thang2	200
+淌	thang2	100
+疸	thang2	100
+袒	thang2	100
+趟	thang2	100
+躺	thang2	100
+鉭	thang2	100
+钂	thang2	100
+靼	thang2	100
 桶盤	thang2  puann5	100
+亙	thang3	100
+嘆	thang3	100
+賺	thang3	100
 通	thang3	200
 通過	thang3   kue3	100
+唐	thang5	100
+堂	thang5	100
+塘	thang5	100
+彈	thang5	100
+搪	thang5	100
+棠	thang5	100
+檀	thang5	100
+溏	thang5	100
+瞠	thang5	200
+膛	thang5	100
 虫	thang5	100
-蟲	thang5	200
+螗	thang5	100
+螳	thang5	100
+蟲	thang5	300
+赯	thang5	100
+鄌	thang5	100
+醣	thang5	100
 堂姊妹	thang5  chi2  muenn7	100
 堂兄弟	thang5  hiann1  ti6	100
 桐油	thang5  iu5	100
 堂孫婿	thang5  sun1  sai3	100
 動	thang6	100
 動着	thang6   tieh8	100
+褟	thap4	100
+錔	thap4	100
+𩷽	thap4	100
+塌	thap8	100
 塞	that4	100
 撻	that4	100
 踢着	that4   tieh8	100
 踢毬	that4  kiu5	50
 踢球	that4  kiu5	100
+偷	thau1	100
+叨	thau1	100
+媮	thau1	100
+搯	thau1	100
+洮	thau1	100
+滔	thau1	100
+縧	thau1	100
+韜	thau1	100
 逃走	thau1  chau2	100
 偷睒	thau1  iam2	100
 偷挈	thau1  khieh8	200
@@ -4763,8 +11178,19 @@ To roast, as a fowl &c.	pek4	100
 偷睇	thau1  thoinn2	100
 㪗	thau2	200
 㪗氣	thau2  khui3	200
+套	thau3	100
+透	thau3	100
 透大風	thau3  tua7  huang1	100
-頭	thau5	300
+啕	thau5	100
+幬	thau5	200
+掏	thau5	100
+淘	thau5	100
+濤	thau5	200
+燾	thau5	100
+醄	thau5	100
+陶	thau5	100
+頭	thau5	400
+鼗	thau5	100
 頭伏落來	thau5 phak4   loh8  lai5	100
 頭彩	thau5  chhai2	100
 頭殼	thau5  khak4	100
@@ -4778,41 +11204,142 @@ To roast, as a fowl &c.	pek4	100
 頭人	thau5  nang5	100
 頭儂	thau5  nang5	50
 頭布	thau5  pou3	100
+䖳	the7	100
+仛	theh8	100
+姹	theh8	100
+宅	theh8	100
+倜	thek4	100
+剔	thek4	100
+忑	thek4	100
+忒	thek4	100
+惕	thek4	100
+慝	thek4	100
+敕	thek4	100
+磔	thek4	100
+禿	thek4	100
+趯	thek4	100
+鋱	thek4	100
+陟	thek4	100
+飭	thek4	100
+騭	thek4	100
+鶒	thek4	100
+懲	theng1	100
+汀	theng1	100
 窓	theng1	50
-窗	theng1	100
+窗	theng1	200
+挺	theng2	100
+梃	theng2	100
+潁	theng2	100
+穎	theng2	100
+艇	theng2	100
+逞	theng2	100
+郢	theng2	100
+鋌	theng2	100
+聽	theng3	100
 聽造化	theng3  chau6  hue3	100
 聽呾	theng3  tann3	100
+停	theng5	100
+塍	theng5	100
+婷	theng5	100
+庭	theng5	100
+廷	theng5	100
+汀	theng5	100
+渟	theng5	100
+滕	theng5	100
+澂	theng5	100
+澄	theng5	100
+町	theng5	100
+瞪	theng5	100
+莛	theng5	100
+蜓	theng5	100
+謄	theng5	100
+酲	theng5	100
+霆	theng5	100
+騰	theng5	100
 停	theng6	100
+撑	thenn1	100
 撐去船頭	thenn1  khur3 chun2  thau5	100
 撐去火船邊	thenn1  khur3 hue2  chun5  pinn1	100
-剃	thi3	100
+體	thi2	200
+剃	thi3	200
+啻	thi3	100
+嚏	thi3	100
+屜	thi3	100
+替	thi3	100
+涕	thi3	100
+滯	thi3	100
+睇	thi3	100
+締	thi3	100
+翅	thi3	100
+薙	thi3	100
+褫	thi3	100
+諦	thi3	100
 滯氣	thi3  khi3	100
 剃頭	thi3  thau5	200
 剃頭仔	thi3  thau5  kiann2	50
 剃頭囝	thi3  thau5  kiann2	100
 剃刀	thi3  to1	100
-啼	thi5	100
-痔	thi6	100
+啼	thi5	200
+持	thi5	100
+提	thi5	100
+禔	thi5	100
+綈	thi5	100
+緹	thi5	100
+鵜	thi5	100
+痔	thi6	200
+拆	thiah4	100
 拆夥記	thiah4  hue2  ki3	200
 蹴	thiam3	100
 蹴脚	thiam3  kha1	25
 蹴腳	thiam3  kha1	50
 蹴跤	thiam3  kha1	12
 蹴骹	thiam3  kha1	100
-廳	thiann1	100
-聽	thiann1	400
+暢	thiang3	100
+鬯	thiang3	100
+廳	thiann1	200
+聽	thiann1	500
 聽見	thiann1  kinn3	100
 痛	thiann3	200
+呈	thiann5	100
+程	thiann5	100
 帖	thiap4	100
 貼過限个銀	thiap4  kue3  han6 kai5  ngurn5	100
 叠	thiap8	100
+挑	thie1	200
+糶	thie3	100
+徹	thiek4	100
+撤	thiek4	100
+澈	thiek4	100
+轍	thiek4	100
+添	thiem1	100
+忝	thiem2	100
+掭	thiem2	100
+舔	thiem2	100
+諂	thiem2	100
+餂	thiem2	100
+恬	thiem5	100
 天文	thien1  bun5	100
 天主	thien1  chu2	100
 天主教	thien1  chu2  ka3	100
 天狗	thien1  kau2	100
 天平	thien1  pheng5	100
 天生	thien1  senn1	100
-鐵	thih4	100
+天	thieng1	200
+蕆	thieng2	100
+佃	thieng5	100
+嗔	thieng5	100
+填	thieng5	100
+廛	thieng5	100
+滇	thieng5	100
+瀍	thieng5	100
+畋	thieng5	100
+瞋	thieng5	100
+纏	thieng5	100
+鈿	thieng5	100
+闐	thieng5	100
+帖	thiep4	100
+貼	thiep4	100
+鐵	thih4	200
 鐵鏨	thih4  cham6	100
 鐵鑱	thih4  chhiam5	100
 鐵碎	thih4  chhui3	100
@@ -4826,6 +11353,7 @@ To roast, as a fowl &c.	pek4	100
 鐵匙	thih4  si5	100
 鐵釘	thih4  teng1	100
 鐵槌	thih4  thui5	100
+陳	thing5	100
 天	thinn1	100
 添	thinn1	100
 添加零些油	thinn1 ke1 lan5  lo2 iu5	100
@@ -4850,16 +11378,36 @@ To roast, as a fowl &c.	pek4	100
 天	thinn5	100
 縫	thinn7	200
 縫衫藥機	thinn7  sann1 ieh8  kui2	100
-跳	thiou3	100
+搐	thiok4	100
+畜	thiok4	100
+蓄	thiok4	100
+祧	thiou1	100
+迢	thiou1	100
+佻	thiou2	100
+眺	thiou2	100
+窕	thiou2	100
+艞	thiou3	100
+調	thiou3	100
+超	thiou3	100
+跳	thiou3	200
+銚	thiou3	100
+調	thiou5	100
 鮡	thiou5	100
-柱	thiou6	100
+柱	thiou6	200
+砫	thiou6	100
 佚佗	thit4  tho5	300
 佚佗物	thit4  tho5  mueh8	200
-抽	thiu1	200
+抽	thiu1	300
 抽分	thiu1  hun1	100
 抽減	thiu1  kiam2	100
 抽痛	thiu1  thiann3	100
-丑	thiu2	100
+丑	thiu2	200
+斢	thiu3	100
+儔	thiu5	100
+疇	thiu5	100
+籌	thiu5	100
+裯	thiu5	100
+躊	thiu5	100
 湯	thng1	100
 湯匙	thng1  si5	100
 褪	thng3	100
@@ -4878,20 +11426,48 @@ To roast, as a fowl &c.	pek4	100
 糖罐	thng5  kuan3	100
 糖料	thng5  liou7	100
 撞枳	thng7  chi2	100
-胎	tho1	100
-討	tho2	200
+胎	tho1	200
+唾	tho2	100
+妥	tho2	100
+橢	tho2	100
+炧	tho2	100
+討	tho2	300
 妥當	tho2  tang3	100
 討趁	tho2  than3	100
-退	tho3	400
+蛻	tho3	100
+褪	tho3	200
+退	tho3	500
 退開	tho3  khui1	100
 褪色	tho3  sek4	100
 退色	tho3  sek4	100
 退堂	tho3  tng5	100
-桃	tho5	100
-托	thoh4	100
+坨	tho5	100
+柁	tho5	100
+桃	tho5	200
+沱	tho5	100
+砣	tho5	100
+萄	tho5	100
+跎	tho5	100
+酡	tho5	100
+陀	tho5	100
+馱	tho5	100
+駝	tho5	100
+鮀	tho5	100
+鴕	tho5	100
+鼉	tho5	100
+鼧	tho5	100
+庹	thoh4	100
+托	thoh4	200
+拓	thoh4	200
+搨	thoh4	100
+籜	thoh4	100
+蘀	thoh4	100
+託	thoh4	100
+駝	thoh8	100
+釵	thoi1	100
 體貼	thoi2  thiap4	200
-代	thoi3	200
-看	thoinn2	100
+代	thoi3	300
+看	thoinn2	200
 睇	thoinn2	200
 看無目	thoinn2  bo5  mak8	50
 睇無目	thoinn2  bo5  mak8	100
@@ -4911,16 +11487,47 @@ To roast, as a fowl &c.	pek4	100
 睇聖婆	thoinn2  siann3  phua5	100
 看重	thoinn2  tong6	100
 睇重	thoinn2  tong6	200
+柝	thok4	100
+通	thong1	100
 通知	thong1  chai1	100
 通風	thong1  huang1	100
 通事	thong1  sur7	100
+冢	thong2	100
+寵	thong2	100
+統	thong2	100
+慟	thong3	100
+痛	thong3	100
+佟	thong5	100
+侗	thong5	100
+僮	thong5	100
+同	thong5	100
+峒	thong5	100
+幢	thong5	100
+彤	thong5	100
+恫	thong5	100
+憧	thong5	100
+曈	thong5	100
+桐	thong5	100
+洞	thong5	100
+潼	thong5	100
+烔	thong5	100
+疃	thong5	100
+瞳	thong5	100
+童	thong5	100
+胴	thong5	100
+艟	thong5	100
+酮	thong5	100
 童生	thong5  seng1	100
+土	thou2	100
+釷	thou2	100
 土名	thou2  miann5	200
 土談	thou2  tham5	200
 土話	thou2  ue7	100
 兎	thou3	50
-兔	thou3	100
-吐	thou3	200
+兔	thou3	200
+吐	thou3	300
+堍	thou3	100
+菟	thou3	100
 吐瀉	thou3  sia3	100
 塗	thou5	200
 塗袂肥	thou5 boi7  pui5	100
@@ -4948,38 +11555,123 @@ To roast, as a fowl &c.	pek4	100
 配㸃囝凊水	thou7 tiam2  kiann2 chhin3  chui2	25
 配點仔凊水	thou7 tiam2  kiann2 chhin3  chui2	50
 配點囝凊水	thou7 tiam2  kiann2 chhin3  chui2	100
-躇	thu5	200
-拖	thua1	300
+儲	thu5	100
+圖	thu5	100
+塗	thu5	200
+徒	thu5	100
+搽	thu5	100
+涂	thu5	200
+荼	thu5	100
+躇	thu5	300
+途	thu5	100
+酴	thu5	100
+拖	thua1	400
 汰	thua7	100
+獺	thuah4	100
 磨	thuah4	100
 傳	thuan5	100
 傳道理	thuan5  to6  li2	200
 傳道理个人	thuan5  to6  li2   kai5  nang5	100
 傳道理个儂	thuan5  to6  li2   kai5  nang5	50
-炭	thuann3	100
-梯	thui1	100
-腿	thui2	100
+攤	thuann1	100
+灘	thuann1	100
+癱	thuann1	100
+炭	thuann3	200
+碳	thuann3	100
+羰	thuann3	100
+頹	thue1	100
+傳	thueng5	100
+團	thueng5	100
+摶	thueng5	100
+漙	thueng5	100
+糰	thueng5	100
+腯	thuh4	100
+梯	thui1	200
+腿	thui2	200
+槌	thui5	100
+錘	thui5	100
+墜	thui7	100
+怵	thuk4	100
+脫	thuk4	100
+詘	thuk4	100
+飿	thuk4	100
+黜	thuk4	100
 吞	thun1	100
 吞落去	thun1   loh8  khur3	100
+吞	thung1	100
+暾	thung1	100
+飩	thung1	100
+氽	thung2	100
+囤	thung5	100
+屯	thung5	100
+臀	thung5	100
+豚	thung5	100
+魨	thung5	100
+燙	thurng3	100
+糖	thurng5	100
+搪	thurng7	100
 脫	thut4	100
 黜職	thut4  cheh4	100
 脫孝	thut4  ha3	100
+低	ti1	100
+呧	ti1	100
+底	ti1	100
+氐	ti1	100
+的	ti1	100
+知	ti1	100
+祗	ti1	100
+羝	ti1	100
+蜘	ti1	100
+踟	ti1	100
+𩭲	ti1	100
 知府	ti1  hu2	100
 嘀嗒	ti1  ta5	200
 蜘蛛	ti1  tu1	100
 蜘蛛絲	ti1  tu1  si1	200
+坻	ti2	100
+底	ti2	200
+弤	ti2	100
+徵	ti2	100
+抵	ti2	100
+柢	ti2	100
+氐	ti2	100
+牴	ti2	100
+砥	ti2	100
+祗	ti2	100
+胝	ti2	100
+袛	ti2	100
+詆	ti2	100
+邸	ti2	100
 抵除後結欠	ti2  tur5  au6 kat4  khiam3	100
+帝	ti3	100
+智	ti3	100
+知	ti3	100
+碲	ti3	100
+緻	ti3	100
+置	ti3	100
+致	ti3	100
+蝃	ti3	100
 置營	ti3  iann5	100
 戴	ti5	100
-池	ti5	100
+池	ti5	200
 底一個	ti5  chek8  kai5	100
 底個	ti5  kai5	300
 底塊	ti5  ko3	100
 底時	ti5  si5	100
 底誰	ti5  tiang5	100
 底誰个	ti5  tiang5  kai5	100
+娣	ti6	100
+弟	ti6	100
+彘	ti6	100
+悌	ti6	100
+棣	ti6	100
+逮	ti6	200
+銻	ti6	100
+隸	ti6	100
+雉	ti6	100
 弟子	ti6  chur2	100
-地	ti7	300
+地	ti7	400
+治	ti7	100
 地獄	ti7  gek8	100
 地方	ti7  hng1	100
 地界	ti7  kai3	200
@@ -4990,7 +11682,11 @@ To roast, as a fowl &c.	pek4	100
 地理	ti7  li2	100
 地豆	ti7  tau7	100
 地圖	ti7  tou5	100
-摘	tiah4	300
+爹	tia1	100
+摘	tiah4	400
+擢	tiah4	100
+謫	tiah4	100
+糴	tiah8	100
 糴米	tiah8  bi2	100
 砧	tiam1	100
 㸃	tiam2	250
@@ -5017,13 +11713,18 @@ To roast, as a fowl &c.	pek4	100
 恬恬	tiam7  tiam7	300
 底當時	tiang1  si5	100
 撞着	tiann1  tieh8	100
-鼎	tiann2	200
-定	tiann7	100
+鼎	tiann2	300
+呈	tiann5	100
+埕	tiann5	100
+定	tiann7	200
 定罪	tiann7  chue6	300
 定銀	tiann7  ngurn5	100
 定死罪	tiann7  si2 chue6	100
 定着	tiann7  tieh8	200
-着	tieh8	400
+潮	tie5	100
+着	tieh4	100
+著	tieh4	100
+着	tieh8	500
 着早些	tieh8 cha2   che7	100
 着另外買一個新个	tieh8 leng5  ngua7 boi2 chek8  kai5 sin1   kai5	100
 着叧外買一個新个	tieh8 leng5  ngua7 boi2 chek8  kai5 sin1   kai5	50
@@ -5034,25 +11735,118 @@ To roast, as a fowl &c.	pek4	100
 着打伊到爛爛	tieh8  phah4 i1 kau3 lok4  lok4	50
 着拍伊到爛爛	tieh8  phah4 i1 kau3 lok4  lok4	100
 着痧	tieh8  sua1	100
+厔	tiek4	100
+哲	tiek4	100
+垤	tiek4	100
+帙	tiek4	100
+抶	tiek4	100
+桎	tiek4	100
+瓞	tiek4	100
+秩	tiek4	100
+窒	tiek4	100
+絰	tiek4	100
+耋	tiek4	100
+膣	tiek4	100
+蛭	tiek4	100
+蜇	tiek4	100
+跌	tiek4	100
+軼	tiek4	100
+輊	tiek4	100
+輒	tiek4	100
+迭	tiek4	100
+郅	tiek4	100
+侄	tiek8	100
+跌	tiek8	100
+掂	tiem1	100
+敁	tiem1	100
+沾	tiem1	100
+玷	tiem1	100
+砧	tiem1	100
+覘	tiem1	100
+詀	tiem1	100
+霑	tiem1	100
+點	tiem2	100
+坫	tiem3	100
+埝	tiem3	100
+店	tiem3	100
+惦	tiem3	100
+痁	tiem3	100
+踮	tiem3	100
+甜	tiem5	100
+菾	tiem5	100
+苫	tiem6	100
 賽	tien2	100
 電報	tien6  po3	100
 電報線	tien6  po3  suann3	100
-張	tienn1	100
+巔	tieng1	100
+滇	tieng1	100
+珍	tieng1	100
+癲	tieng1	100
+顛	tieng1	100
+典	tieng2	100
+囅	tieng2	100
+展	tieng2	100
+抻	tieng2	100
+搌	tieng2	100
+淟	tieng2	100
+碘	tieng2	100
+碾	tieng2	100
+腆	tieng2	100
+輾	tieng2	100
+墊	tieng6	100
+奠	tieng6	100
+殿	tieng6	100
+淀	tieng6	100
+澱	tieng6	100
+甸	tieng6	100
+癜	tieng6	100
+簟	tieng6	100
+臀	tieng6	100
+電	tieng6	100
+張	tienn1	200
+弶	tienn1	100
 張圈套	tienn1  khuan1  thau3	100
-脹	tienn3	100
+帳	tienn3	100
+脹	tienn3	200
+賬	tienn3	100
+釣	tienn3	100
+場	tienn5	100
+趙	tienn6	100
 丈姆婆	tienn6  m2  phua5	100
 丈人	tienn6  nang5	100
 丈儂	tienn6  nang5	50
+喋	tiep8	100
+堞	tiep8	100
+牒	tiep8	100
+蝶	tiep8	100
+諜	tiep8	100
+蹀	tiep8	100
+鍱	tiep8	100
 姪	tiet8	100
 姪女	tiet8  nng2	100
-滴	tih4	100
+啇	tih4	100
+滴	tih4	200
+蒂	tih4	100
 着力在。愛死	tih4  lat8  chai6	100
+碟	tih8	100
 碟仔	tih8  kiann2	50
 碟囝	tih8  kiann2	100
 着力	tih8  lat8	100
+得	tik4	100
+鍀	tik4	100
+直	tik8	100
 㶩	tim1	100
-沉	tim5	200
+燖	tim1	100
+琛	tim1	100
+郴	tim1	100
+酖	tim1	100
+鴆	tim1	100
+掂	tim3	100
+揕	tim3	100
+沈	tim5	100
+沉	tim5	300
 沉信	tim5  sin3	100
+朕	tim6	100
 籐牌	tin1  pai5	100
 顚倒	tin1  to3	100
 顛倒	tin1  to3	200
@@ -5067,21 +11861,47 @@ To roast, as a fowl &c.	pek4	100
 鎮中	tin3  tang1	200
 藤	tin5	100
 藤牌	tin5  pai5	100
+鎮	ting3	100
+塵	ting5	100
+藤	ting5	100
+陣	ting7	100
+纏	tinn5	100
+遞	tinn5	100
 纏脚	tinn5  kha1	25
 纏腳	tinn5  kha1	50
 纏跤	tinn5  kha1	12
 纏骹	tinn5  kha1	100
 漲	tinn6	200
-雕	tiou1	100
+凋	tiou1	100
+刁	tiou1	100
+叼	tiou1	100
+彫	tiou1	100
+汈	tiou1	100
+碉	tiou1	100
+笤	tiou1	100
+苕	tiou1	100
+蜩	tiou1	100
+貂	tiou1	100
+雕	tiou1	200
+髫	tiou1	100
+鯛	tiou1	100
 鵰	tiou1	50
-吊	tiou3	200
+吊	tiou3	300
+窵	tiou3	100
+銱	tiou3	100
 吊頷	tiou3  am6	200
 吊瓜	tiou3  kue1	100
 吊放衫吊	tiou3  pang3 sann1  tiou3	100
 吊桶	tiou3  thang2	100
-條	tiou5	200
+條	tiou5	300
+兆	tiou6	100
+召	tiou6	100
+旐	tiou6	100
 召專	tiou6  chuan1	100
 召	tiou7	100
+岧	tiou7	100
+掉	tiou7	100
+調	tiou7	100
 滴	tit4	100
 得着	tit4   tieh8	100
 得坐着	tit4  cho6   tieh8	100
@@ -5093,6 +11913,20 @@ To roast, as a fowl &c.	pek4	100
 得飯	tit4  png7	100
 直	tit8	500
 直透	tit8  thau3	100
+丟	tiu1	100
+銩	tiu1	100
+佇	tiu2	100
+冑	tiu2	100
+杼	tiu2	100
+肘	tiu2	100
+貯	tiu2	100
+酎	tiu2	100
+綢	tiu5	100
+宙	tiu6	100
+晝	tiu6	100
+籀	tiu6	100
+紂	tiu6	100
+苧	tiu6	100
 住	tiu7	100
 居	tiu7	100
 當	tng1	100
@@ -5131,23 +11965,37 @@ To roast, as a fowl &c.	pek4	100
 斷氣	tng6  khui3	200
 緞	tng7	100
 緞鞋	tng7  oi5	100
-刀	to1	100
+刀	to1	200
+哆	to1	100
+多	to1	100
+敠	to1	100
 刀叉亦是此樣生	to1  chhe1 ia7 si6 chienn3  senn1	100
 刀架	to1  ke3	100
 刀殼	to1  khak4	100
 刀仔	to1  kiann2	50
 刀囝	to1  kiann2	100
 刀肉	to1  nek8	100
-倒	to2	100
-短	to2	200
+倒	to2	300
+嚲	to2	100
+短	to2	300
 倒賬	to2  tienn3	100
-倒	to3	200
+倒	to3	300
+戴	to3	200
 倒手	to3  chhiu2	100
 倒酒	to3  chiu2	100
 倒油	to3  iu5	100
 倒反	to3  poinn2	100
 倒掉	to3  tiou3	100
-在	to6	200
+剁	to5	100
+垛	to5	100
+埵	to5	100
+朵	to5	100
+跺	to5	100
+躲	to5	100
+逃	to5	100
+在	to6	300
+垛	to6	100
+朵	to6	100
 在此塊到彼塊	to6 chi2  ko3 kau3 hur2  ko3	100
 在祖家一年春天是上好	to6 chou2  ke1 chek8  ninn5 chhun1   thinn1 si6 siang6  ho2	100
 在祖家夏天無此塊彼樣熱	to6 chou2  ke1 he7   thinn1 bo5 chie2 hienn3  juah8	100
@@ -5160,37 +12008,72 @@ To roast, as a fowl &c.	pek4	100
 在彼個舖危大	to6  hie2 kai5 phou3 kuinn5  tua7	100
 在彼塊輸贏	to6  hur2   ko7 su1  iann5	100
 道理	to6  li2	100
-代	to7	100
-袋	to7	100
-啄	toh4	100
-桌	toh4	100
+代	to7	200
+埭	to7	100
+袋	to7	200
+倬	toh4	100
+卓	toh4	100
+啄	toh4	200
+桌	toh4	200
 棹	toh4	50
-擇	toh8	500
+諑	toh4	100
+踔	toh4	100
+奪	toh8	100
+擇	toh8	600
 彼擇起來	toh8   khi2  lai5	100
 着火	toh8  hue2	100
-堤	toi1	200
+堤	toi1	300
 底	toi2	100
 底子	toi2  chur2	100
-蹄	toi5	100
-題	toi5	100
+蹄	toi5	200
+題	toi5	200
 題錢	toi5  chinn5	200
 典	toinn2	100
 典主	toinn2  chu2	100
 典契	toinn2  khoi3	100
+佃	toinn6	100
+第	toinn6	100
 第尾	toinn6  bue2	100
 第一	toinn6  it4	100
 第一好	toinn6  it4  ho2	100
 第二	toinn6  ji6	100
 Hard.	toinn7	100
-靛	toinn7	100
+殿	toinn7	100
+靛	toinn7	200
 𠕆	toinn7	200
+𠕇	toinn7	100
 𠕆柴	toinn7  chha5	100
-斫	tok4	200
-斲	tok4	100
+斫	tok4	300
+斲	tok4	200
+琢	tok4	100
+瘃	tok4	100
+督	tok4	100
+筑	tok4	100
+築	tok4	100
+篤	tok4	100
 斫脞	tok4  chho7	100
 斲脞	tok4  chho7	50
 督工	tok4  kang1	100
+櫝	tok8	100
+殰	tok8	100
+涿	tok8	100
+瀆	tok8	100
+牘	tok8	100
+犢	tok8	100
+獨	tok8	100
+纛	tok8	100
+覿	tok8	100
+讟	tok8	100
+逐	tok8	100
+頓	tok8	100
+髑	tok8	100
+黷	tok8	100
+丼	tom6	100
 中	tong1	100
+咚	tong1	100
+忠	tong1	100
+氡	tong1	100
+鼕	tong1	100
 中今	tong1  kim1	100
 中國	tong1  kok4	100
 中國佮荷蘭西相刣	tong1  kok4 kah4 ho5  lan5  se1 sie1  thai5	100
@@ -5199,12 +12082,22 @@ Hard.	toinn7	100
 中保	tong1  po2	100
 中心	tong1  sim1	100
 忠直	tong1  tit8	200
+懂	tong2	100
+中	tong3	100
 凍	tong3	200
+湩	tong3	100
 當	tong3	100
+疼	tong3	100
+蝀	tong3	100
 棟樑	tong3  enn5	100
 擋唔條	tong3  m6  tiou5	50
 擋毋條	tong3  m6  tiou5	100
-肚	tou2	400
+仲	tong6	100
+動	tong6	100
+捅	tong7	100
+唗	tou1	100
+都	tou1	100
+肚	tou2	500
 肚袂消	tou2 boi6  siou1	100
 肚𠀾消	tou2 boi6  siou1	50
 肚困	tou2 khun3	100
@@ -5216,18 +12109,40 @@ Hard.	toinn7	100
 肚痛	tou2  thiann3	100
 妒仇	tou3  chhiu5	100
 妒恨	tou3  huru6	100
-圖	tou5	100
+圖	tou5	200
+屠	tou5	100
+廚	tou5	100
 塗糞	tou5  pun3	200
-度	tou7	200
+杜	tou6	100
+竇	tou6	100
+肚	tou6	100
+脰	tou6	100
+芏	tou6	100
+豆	tou6	100
+餖	tou6	100
+度	tou7	300
+渡	tou7	100
+鍍	tou7	100
 渡船	tou7  chun5	100
+嘟	tu1	100
+姝	tu1	100
+株	tu1	100
+蛛	tu1	100
+誅	tu1	100
+堵	tu2	100
+楮	tu2	100
+睹	tu2	100
 砥	tu2	100
+賭	tu2	100
+著	tu3	100
 著書	tu3  chur1	100
-櫥	tu5	100
-帶	tua3	300
+櫥	tu5	200
+躕	tu5	100
+帶	tua3	400
 戴孝	tua3  ha3	100
 拕	tua6	100
-舵	tua6	100
-大	tua7	200
+舵	tua6	200
+大	tua7	300
 帶	tua7	100
 大後日	tua7   au6  jit8	100
 大人	tua7   nang5	100
@@ -5260,33 +12175,81 @@ Hard.	toinn7	100
 大事	tua7  sur7	100
 大桶	tua7  thang2	100
 大肚	tua7  tou2  lap4	100
-單	tuann1	300
+叱	tuah4	100
+單	tuann1	400
 單人	tuann1  nang5	200
 單儂	tuann1  nang5	100
 單重	tuann1  teng5	100
-惰	tuann6	300
+壇	tuann5	100
+惰	tuann6	400
 彈	tuann7	100
 搭	tue3	100
-綴	tue3	200
+綴	tue3	300
+兌	tue6	100
+端	tueng1	100
+斷	tueng3	100
+煅	tueng3	100
+斷	tueng6	100
+椴	tueng6	100
+段	tueng6	100
+篆	tueng6	100
+籪	tueng6	100
+追	tui1	100
+扯	tui2	100
 挽	tui2	200
 縋	tui2	100
 拖風	tui2  huang1	100
-對	tui3	400
+對	tui3	500
+碓	tui3	100
 由此過	tui3  chie2 kue3	100
 對聯	tui3  lien5	100
 對面	tui3  min7	100
 對敵	tui3  tek8	100
 對頭	tui3  thau5	100
 對單	tui3  tuann1	100
+捶	tui5	100
 捶腰	tui5  ie1	100
+墜	tui6	100
+墮	tui6	100
+懟	tui6	100
+縋	tui7	100
+隊	tui7	100
+凸	tuk8	100
+朮	tuk8	100
+柮	tuk8	100
+突	tuk8	100
 堆	tun1	200
 鈍	tun1	100
 囤貨房	tun1  hue3  pang5	100
 頓手	tun3  chhiu2	100
 燉	tun6	100
 燉鉢	tun6  puah4	100
+囤	tung1	100
+堆	tung1	100
+墩	tung1	100
+屯	tung1	100
+惇	tung1	100
+撴	tung1	100
+敦	tung1	100
+榃	tung1	100
+盹	tung1	100
+肫	tung1	100
+諄	tung1	100
+迍	tung1	100
+鈍	tung1	100
+噸	tung2	100
+盾	tung2	100
+躉	tung2	100
+扽	tung3	100
+窀	tung5	100
+脣	tung5	100
+沌	tung6	100
+燉	tung6	100
+砘	tung6	100
+遁	tung6	100
+頓	tung6	100
 猪	tur1	50
-豬	tur1	100
+豬	tur1	200
 猪尞	tur1 liou5	50
 豬尞	tur1 liou5	100
 猪肉	tur1  bah4	50
@@ -5303,18 +12266,67 @@ Hard.	toinn7	100
 豬牢	tur1  lo5	100
 猪肉	tur1  nek8	50
 豬肉	tur1  nek8	100
-除	tur5	600
+除	tur5	700
 除法	tur5  huap4	100
 鋤頭	tur5  thau5	100
 除掉	tur5  tiou7	100
 除斷	tur5  tng6	100
-箸	tur7	200
+箸	tur7	300
+噔	turng1	100
+當	turng1	100
+鼟	turng1	100
+唐	turng5	100
+堂	turng5	100
+塘	turng5	100
+腸	turng5	100
+丈	turng6	200
+傳	turng7	100
+塅	turng7	100
+段	turng7	100
+緞	turng7	100
+于	u1	100
+吁	u1	100
+呼	u1	100
+嗚	u1	100
+圩	u1	100
+圬	u1	100
+捂	u1	100
+污	u1	100
+洿	u1	100
+盂	u1	100
+盱	u1	100
+竽	u1	100
+紆	u1	100
+訏	u1	100
+迂	u1	100
+邘	u1	100
+鄔	u1	100
+雩	u1	100
+鳥	u1	100
 有成年	u1^ chiann5  ninn5	100
+宇	u2	100
+禹	u2	100
+羽	u2	100
+詡	u2	100
+齵	u2	100
 羽綾	u2  leng5	100
 羽毛	u2  monn5	100
 羽紗	u2  se1	100
-有	u6	100
+堊	u3	100
+塢	u3	100
+焐	u3	100
+吾	u5	100
+圄	u5	100
+娛	u5	100
+浯	u5	100
+牾	u5	100
+痦	u5	100
+郚	u5	100
+鼯	u5	100
+齬	u5	100
+有	u6	200
 有。閏五	u6	100
+銪	u6	100
 有加零些	u6 ke1 lan5  lo2	100
 有五個定定	u6 ngou6  kai5 tiann7  tiann7	100
 有錢	u6  chinn5	100
@@ -5343,8 +12355,16 @@ Hard.	toinn7	100
 有身份	u6  sin1  hun7	100
 有膽	u6  tann2	100
 有胎	u6  tho1	100
+䠚	ua1	100
+佤	ua1	100
+哇	ua1	100
+娃	ua1	100
+窪	ua1	100
+蛙	ua1	100
+蝸	ua1	100
+邷	ua1	100
 倚	ua2	100
-我	ua2	100
+我	ua2	200
 我愛上頂好个	ua2 ainn3 siang6  teng2  ho2   kai5	100
 我愛洗浴	ua2 ainn3 soi2  ek8	100
 我愛剃頭	ua2 ainn3 thi3  thau5	100
@@ -5472,8 +12492,15 @@ Hard.	toinn7	100
 我在彼有一間	ua2 to6  hie2 u6 chek8  koinn1	100
 我有	ua2 u6	100
 倚船邊	ua2  chun5  pinn1	100
-活	uah8	200
+活	uah8	300
 活動	uah8  tong6	100
+挖	uai1	100
+歪	uai1	100
+獲	uak8	100
+矱	uak8	100
+穫	uak8	100
+蠖	uak8	100
+鑊	uak8	100
 冤	uan1	100
 寃	uan1	50
 彎	uan1	100
@@ -5487,8 +12514,11 @@ Hard.	toinn7	100
 完粮	uan5  nienn5	50
 完糧	uan5  nienn5	100
 莞荽	uan5  sui1	100
+汪	uang1	100
+往	uang2	100
+枉	uang2	100
 枉屈	uang2  khut4	100
-王	uang5	200
+王	uang5	300
 王帽	uang5  bo7	100
 王后	uang5  hou6	200
 王宮	uang5  keng1	100
@@ -5496,44 +12526,145 @@ Hard.	toinn7	100
 旺梨是好在	uang5  lai5 si6 ho2  chai6	100
 王寶	uang5  po2	100
 皇上	uang5  siang6	100
+旺	uang6	100
+鞍	uann1	100
 安慰	uann1  ue3	100
-碗	uann2	100
+碗	uann2	200
 碗公	uann2  kong1	100
-案	uann3	200
+案	uann3	300
 案床	uann3  chhng5	100
 案牀	uann3  chhng5	50
 案件	uann3  kiann6	200
+旱	uann6	100
 換	uann7	300
 換衫褲	uann7 sann1  khou3	100
 換衫褲	uann7  sann1  khou3	100
 斡	uat4	100
+堝	ue1	100
+鍋	ue1	100
 鍋仔	ue1  kiann2	50
 鍋囝	ue1  kiann2	100
-穢	ue3	100
-畫	ue7	200
-話	ue7	200
+噦	ue3	100
+尉	ue3	100
+慰	ue3	100
+濊	ue3	100
+穢	ue3	200
+翽	ue3	100
+蔚	ue3	100
+薈	ue3	100
+衛	ue6	100
+讆	ue6	100
+畫	ue7	300
+話	ue7	300
 畫尪仔	ue7  ang1  kiann2	100
 畫尪囝	ue7  ang1  kiann2	200
 畫像	ue7  sienn3	100
-劃	ueh8	100
+噦	ueh4	100
+劃	ueh8	200
+畫	ueh8	100
+砉	ueh8	100
 劃襊	ueh8  chue7	100
 劃號	ueh8  ho7	100
 劃花號	ueh8  hue1  ho7	100
-醫	ui1	100
+斡	uek4	100
+曰	uek4	100
+刖	uek8	100
+樾	uek8	100
+粵	uek8	100
+越	uek8	100
+鉞	uek8	100
+冤	ueng1	100
+彎	ueng1	100
+灣	ueng1	100
+眢	ueng1	100
+鴛	ueng1	100
+剜	ueng2	100
+婉	ueng2	100
+宛	ueng2	100
+惋	ueng2	100
+浣	ueng2	100
+涴	ueng2	100
+琬	ueng2	100
+畹	ueng2	100
+皖	ueng2	100
+睆	ueng2	100
+脘	ueng2	100
+腕	ueng2	100
+苑	ueng2	100
+莞	ueng2	100
+蜿	ueng2	100
+豌	ueng2	100
+怨	ueng3	100
+員	ueng5	100
+垸	ueng5	100
+完	ueng5	100
+掾	ueng5	100
+椽	ueng5	100
+櫞	ueng5	100
+烷	ueng5	100
+猿	ueng5	100
+緣	ueng5	100
+芫	ueng5	100
+袁	ueng5	100
+轅	ueng5	100
+威	ui1	100
+崴	ui1	100
+葳	ui1	100
+醫	ui1	200
+隈	ui1	100
 醫袂好	ui1 boi6  ho2	100
 醫𠀾好	ui1 boi6  ho2	50
 醫僫好	ui1 oh4  ho2	100
 醫難好	ui1 oh4  ho2	50
 醫館	ui1  kuan2	100
 醫生	ui1  seng1	100
-畏	ui3	200
+偉	ui2	100
+偎	ui2	100
+喂	ui2	100
+喟	ui2	100
+委	ui2	100
+洧	ui2	100
+渭	ui2	100
+煒	ui2	100
+煨	ui2	100
+猥	ui2	100
+猬	ui2	100
+瑋	ui2	100
+痿	ui2	100
+緯	ui2	100
+萎	ui2	100
+葦	ui2	100
+諉	ui2	100
+逶	ui2	100
+韙	ui2	100
+餵	ui2	100
+畏	ui3	300
+謂	ui3	100
 畏凊	ui3  chhin3	100
 畏死	ui3  si2	100
 畏少禮	ui3  siou2  li2	100
-圍	ui5	200
-桅	ui5	100
+圍	ui5	300
+幃	ui5	100
+桅	ui5	200
+爲	ui5	100
+違	ui5	100
+闈	ui5	100
 桅頂	ui5  teng2	100
-位	ui7	100
+謂	ui6	100
+位	ui7	200
+欸	ui7	100
+胃	ui7	100
+兀	uk4	100
+尉	uk4	100
+杌	uk4	100
+熨	uk4	100
+矻	uk4	100
+膃	uk4	100
+菀	uk4	100
+蔚	uk4	100
+阢	uk4	100
+靰	uk4	100
+鬱	uk4	100
 瘟瘴	un1  chiang3	200
 穩	un2	100
 鑲	un2	100
@@ -5560,8 +12691,64 @@ Hard.	toinn7	100
 揾	un3	100
 紜紜	un5  un5	100
 運	un7	100
-預	ur6	100
+氳	ung1	100
+溫	ung1	100
+熅	ung1	100
+瘟	ung1	100
+薀	ung1	100
+醞	ung1	100
+穩	ung2	100
+縕	ung2	100
+蘊	ung2	100
+韞	ung2	100
+塭	ung3	100
+搵	ung3	100
+云	ung5	100
+勻	ung5	100
+焚	ung5	100
+筠	ung5	100
+紜	ung5	100
+耘	ung5	100
+芸	ung5	100
+鄖	ung5	100
+媼	ung6	100
+慍	ung6	100
+殞	ung6	100
+溳	ung6	100
+縕	ung6	100
+蘊	ung6	100
+隕	ung6	100
+云	ung7	100
+運	ung7	100
+鄆	ung7	100
+韻	ung7	100
+予	ur2	100
+與	ur2	100
+噎	ur3	200
+惡	ur3	200
+淤	ur3	200
+瞖	ur3	100
+翳	ur3	100
+飫	ur3	100
+予	ur5	100
+余	ur5	100
+妤	ur5	100
+旟	ur5	100
+璵	ur5	100
+畬	ur5	100
+舁	ur5	100
+輿	ur5	100
+餘	ur5	100
+澦	ur6	100
+礜	ur6	100
+與	ur6	100
+蕷	ur6	100
+譽	ur6	100
+豫	ur6	100
+預	ur6	200
 預備	ur6  pi6	100
+歟	ur7	100
+與	ur7	100
 斡轉頭	ut4  tng2  thau5	100
 夗	ut8	200
 夗房	ut8  pang5	100
