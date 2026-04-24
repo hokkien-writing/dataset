@@ -434,7 +434,6 @@ COMMENT_FORMAT = {
         "xform/-/ /",
         "xform/chh/tsh/",
         "xform/ch/ts/",
-        "xlit/12345678/¹²³⁴⁵⁶⁷⁸/",
     ],
     "poj": [
         "xform/-/ /",
@@ -466,7 +465,6 @@ COMMENT_FORMAT = {
         "xform/([aeiou]+)nn(\\d)$/n$1$2/",
         "xform/^ng/ggn/",
         "xform/^m/bbn/",
-        "xlit/12345678/¹²³⁴⁵⁶⁷⁸/",
     ],
     "dp": [
         "xform/-/ /",
@@ -483,7 +481,6 @@ COMMENT_FORMAT = {
         "xform/^th/t/",
         "xform/e/ei/",
         "xform/ur/e/",
-        "xlit/12345678/¹²³⁴⁵⁶⁷⁸/",
     ],
 }
 
@@ -590,15 +587,17 @@ engine:
     - key_binder
     - express_editor
   segmentors:
-    - abc_segmentor
+    - ascii_segmentor
     - matcher
+    - affix_segmentor@en_lookup
+    - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
     - script_translator
     - reverse_lookup_translator
-    - reverse_lookup_translator@en_lookup
+    - table_translator@en_lookup
   filters:
     - simplifier
     - lua_filter@{filter_name}
@@ -671,6 +670,51 @@ recognizer:
 abc_segmentor:
   extra_tags:
     - reverse_lookup
+    - en_lookup
+"""
+
+EN_SCHEMA_TEMPLATE = """\
+# Rime schema: {schema_id_en}
+# Generated from merged.csv - do not edit manually
+
+schema:
+  schema_id: {schema_id_en}
+  name: {name_en}
+  version: "{version}"
+  author:
+    - Hokkien Writing Project
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - abc_segmentor
+    - matcher
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - table_translator
+  filters:
+    - simplifier
+    - uniquifier
+
+speller:
+  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  initials: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  delimiter: " '"
+  use_space: false
+  auto_select: false
+
+translator:
+  dictionary: {schema_id_en}
 """
 
 DEFAULT_CUSTOM_TEMPLATE = """\
@@ -1129,6 +1173,18 @@ def write_schema(system: str, pkg: str, output_dir: Path):
     print(f"Wrote {path}")
 
 
+def write_en_schema(system: str, pkg: str, output_dir: Path):
+    schema_id = f"{pkg}_{system}"
+    content = EN_SCHEMA_TEMPLATE.format(
+        schema_id_en=f"{schema_id}_en",
+        name_en=f"{SYSTEM_NAMES[system]}-EN",
+        version=BUILD_VERSION,
+    )
+    path = output_dir / f"{schema_id}_en.schema.yaml"
+    path.write_text(content, encoding="utf-8")
+    print(f"Wrote {path}")
+
+
 def write_default_custom(systems: list, pkg: str, output_dir: Path):
     """Write default.custom.yaml registering all schemas for a package."""
     schema_list = "\n".join(f"    - schema: {pkg}_{s}" for s in systems)
@@ -1246,6 +1302,7 @@ def main():
             write_syllables_dict(entries, system, pkg, pkg_dir)
             write_system_dict(entries, systems_data, system, pkg, pkg_dir)
             write_en_dict(entries, systems_data, system, pkg, pkg_dir)
+            write_en_schema(system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir)
         write_default_custom(systems, pkg, pkg_dir)
         filter_names = []
