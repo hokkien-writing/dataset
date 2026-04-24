@@ -877,7 +877,7 @@ local function filter(translation, env)
 
         local display_comment = original_is_han
             and codes_to_handwriting(cand.comment)
-            or ""
+            or (cand.comment or "")
 
         if not has_caps then
             cand.comment = display_comment
@@ -1011,7 +1011,7 @@ def write_system_dict(
                 system_converter.to_keyboard(csv_handwriting)
             )
         )
-        if system == "dp":
+        if system in ["dp", "bp"]:
             if standard_handwriting and standard_handwriting.strip():
                 lines.append(
                     f"{standard_handwriting.replace('-', '')}\t{spaced_code}\t{rom_weight}"
@@ -1111,29 +1111,22 @@ def write_en_dict(
                 continue
             han = (row.get("han") or "").strip()
             han = re.sub(r"\[[^\]]*\]", "", han)
-            if han:
-                key = (han, en_clean)
-                if key in seen:
-                    continue
-                if han.startswith("-") or han.startswith(":") or han.startswith("#"):
-                    continue
-                seen.add(key)
-                entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
-            else:
-                csv_hw = (row.get(system) or "").strip()
-                if not csv_hw:
-                    try:
-                        csv_hw = translator.translate(latn_norm)
-                    except Exception:
-                        continue
-                if not csv_hw or not csv_hw.strip():
-                    continue
-                csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw)
-                csv_hw = csv_hw.strip()
-                if not csv_hw:
-                    continue
-                if not csv_hw or not csv_hw.strip():
-                    continue
+            if han and not (
+                han.startswith("-") or han.startswith(":") or han.startswith("#")
+            ):
+                key = ("han", han, en_clean)
+                if key not in seen:
+                    seen.add(key)
+                    entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
+            csv_hw = (row.get(system) or "").strip()
+            if not csv_hw:
+                try:
+                    csv_hw = translator.translate(latn_norm)
+                except Exception:
+                    csv_hw = ""
+            if csv_hw and csv_hw.strip():
+                csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
+            if csv_hw and csv_hw.strip():
                 try:
                     hw = system_converter.to_handwriting(
                         system_converter.to_keyboard(csv_hw)
@@ -1141,15 +1134,15 @@ def write_en_dict(
                 except Exception:
                     hw = csv_hw
                 hw = _strip_brackets(hw)
-                if system == "dp":
+                if system in ["dp", "bp"]:
                     hw = hw.replace("-", "")
-                if hw.startswith("-") or hw.startswith(":") or hw.startswith("#"):
-                    continue
-                key = (hw, en_clean)
-                if key in seen:
-                    continue
-                seen.add(key)
-                entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
+                if hw and not (
+                    hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
+                ):
+                    key = ("hw", hw, en_clean)
+                    if key not in seen:
+                        seen.add(key)
+                        entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
     for _, line in sorted(entry_rows, key=lambda x: x[0]):
         lines.append(line)
     path = output_dir / f"{dict_name}.dict.yaml"
@@ -1222,7 +1215,7 @@ def generate_han_rom_map(entries: dict, systems_data: dict, system: str) -> str:
             hw = system_converter.to_handwriting(system_converter.to_keyboard(csv_hw))
         except Exception:
             hw = csv_hw
-        if system == "dp":
+        if system in ["dp", "bp"]:
             hw = hw.replace("-", "")
             if csv_hw and csv_hw != hw:
                 if han not in mapping:
