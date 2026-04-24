@@ -32,3 +32,4 @@ sync_repo() {
 }
 
 sync_repo ChhoeTaigiDatabase ChhoeTaigi/ChhoeTaigiDatabase master
+sync_repo dieghv kahaani/dieghv master

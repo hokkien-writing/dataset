@@ -26,9 +26,11 @@ WIDE_FIELDS = [
 ]
 
 from scripts.importers.chhoetaigi import ChhoeTaigiImporter
+from scripts.importers.dieghv import DieghvImporter
 
 IMPORTERS = {
     "ChhoeTaigiDatabase": ChhoeTaigiImporter(),
+    "dieghv": DieghvImporter(),
 }
 
 
@@ -43,20 +45,22 @@ def main():
             print(f"[{dir_name}] Not found, skipping.")
             continue
 
-        csv_files = sorted(src_dir.rglob("*.csv"))
-        if not csv_files:
-            print(f"[{dir_name}] No CSV files found.")
+        data_files = sorted(p for ext in ("*.csv", "*.tsv") for p in src_dir.rglob(ext))
+        if not data_files:
+            print(f"[{dir_name}] No data files found.")
             continue
 
-        print(f"[{dir_name}] Processing {len(csv_files)} file(s)...")
+        print(f"[{dir_name}] Processing {len(data_files)} file(s)...")
 
-        for csv_file in csv_files:
-            entries = importer.import_file(csv_file, csv_file.stem)
+        for data_file in data_files:
+            entries = importer.import_file(data_file, data_file.stem)
             if not entries:
-                print(f"  ⚠ {csv_file.name}: no entries")
+                print(f"  ⚠ {data_file.name}: no entries")
                 continue
 
-            out_path = OUTPUT_DIR / csv_file.name
+            out_path = OUTPUT_DIR / data_file.name
+            if data_file.suffix == ".tsv":
+                out_path = OUTPUT_DIR / (data_file.stem + ".csv")
             with open(out_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)
                 writer.writeheader()
@@ -77,7 +81,7 @@ def main():
                         }
                     )
 
-            print(f"  ✓ {csv_file.name} ({len(entries)} entries)")
+            print(f"  ✓ {data_file.name} ({len(entries)} entries)")
             any_processed = True
 
     if not any_processed:

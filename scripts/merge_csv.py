@@ -48,6 +48,7 @@ from scripts.latn import create_translator
 _puj_to_latn_norm = create_translator("PUJ", "LATN_NORM")
 _poj_to_latn_norm = create_translator("POJ", "LATN_NORM")
 _tl_to_latn_norm = create_translator("TL", "LATN_NORM")
+_dp_to_latn_norm = create_translator("DP", "LATN_NORM")
 
 _WORD_RE = re.compile(r"[a-zA-Z]+")
 
@@ -197,6 +198,7 @@ def main():
                     latn_norm = (row.get("latn_norm") or "").strip().lower()
                     poj_val = (row.get("poj") or "").strip()
                     tl_val = (row.get("tl") or "").strip()
+                    dp_val = (row.get("dp") or "").strip()
                     han = (row.get("han") or "").strip()
                     if not latn_norm and poj_val:
                         try:
@@ -206,6 +208,11 @@ def main():
                     if not latn_norm and tl_val:
                         try:
                             latn_norm = _tl_to_latn_norm.translate(tl_val).lower()
+                        except Exception:
+                            pass
+                    if not latn_norm and dp_val:
+                        try:
+                            latn_norm = _dp_to_latn_norm.translate(dp_val).lower()
                         except Exception:
                             pass
                     rows.append(
