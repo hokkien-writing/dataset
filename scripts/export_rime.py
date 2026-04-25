@@ -1144,13 +1144,9 @@ def write_en_dict(
             continue
         han = (row.get("han") or "").strip()
         han = _BRACKET_RE.sub("", han)
-        if han and not (
+        has_han = han and not (
             han.startswith("-") or han.startswith(":") or han.startswith("#")
-        ):
-            key = ("han", han, en_clean)
-            if key not in seen:
-                seen.add(key)
-                entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
+        )
         csv_hw = (row.get(system) or "").strip()
         if not csv_hw:
             try:
@@ -1159,6 +1155,7 @@ def write_en_dict(
                 csv_hw = ""
         if csv_hw and csv_hw.strip():
             csv_hw = re.sub(r"[:\[\]#]+", "", csv_hw).strip()
+        hw = ""
         if csv_hw and csv_hw.strip():
             try:
                 hw = system_converter.to_handwriting(
@@ -1169,13 +1166,25 @@ def write_en_dict(
             hw = _strip_brackets(hw)
             if system in ["dp", "bp"]:
                 hw = hw.replace("-", "")
-            if hw and not (
-                hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
-            ):
-                key = ("hw", hw, en_clean)
-                if key not in seen:
-                    seen.add(key)
-                    entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
+        has_hw = hw and not (
+            hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
+        )
+        if has_han and has_hw:
+            text = f"{han} ({hw})"
+            key = ("combined", han, hw, en_clean)
+            if key not in seen:
+                seen.add(key)
+                entry_rows.append((en_clean.lower(), f"{text}\t{en_clean}\t100"))
+        elif has_han:
+            key = ("han", han, en_clean)
+            if key not in seen:
+                seen.add(key)
+                entry_rows.append((en_clean.lower(), f"{han}\t{en_clean}\t100"))
+        elif has_hw:
+            key = ("hw", hw, en_clean)
+            if key not in seen:
+                seen.add(key)
+                entry_rows.append((en_clean.lower(), f"{hw}\t{en_clean}\t50"))
     for _, line in sorted(entry_rows, key=lambda x: x[0]):
         lines.append(line)
     path = output_dir / f"{dict_name}.dict.yaml"
