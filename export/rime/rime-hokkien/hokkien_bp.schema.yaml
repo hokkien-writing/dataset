@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_bp
   name: 閩南話拼音
-  version: "20260426.165130"
+  version: "20260426.203949"
   author:
     - Hokkien Writing Project
   dependencies:

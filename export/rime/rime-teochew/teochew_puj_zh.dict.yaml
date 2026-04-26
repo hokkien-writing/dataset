@@ -2,7 +2,7 @@
 # Generated from merged.csv - Mandarin reverse lookup
 ---
 name: teochew_puj_zh
-version: "20260426.165130"
+version: "20260426.203949"
 sort: by_weight
 ...
 
@@ -176,7 +176,6 @@ sort: by_weight
 起床☞早起 (tsáu-khí)	qichuang	100
 乞丐☞乞食 (khṳt-chia̍h)	qigai	100
 勤勞☞力 (la̍t)	qinlao	100
-勤勞☞勤 (la̍t)	qinlao	100
 親戚☞親情 (chhin-chiãⁿ)	qinqi	100
 氣息☞氣 (khùi)	qixi	100
 缺德☞無行 (bô-hẽng)	quede	100
@@ -184,7 +183,6 @@ sort: by_weight
 人情世故☞儂事 (nâng-sṳ̄)	renqingshigu	100
 人情世故☞人事 (nâng-sṳ̄)	renqingshigu	100
 認識☞別 (pat)	renshi	100
-認識☞識 (pat)	renshi	100
 惹事☞生事 (seⁿ-sṳ̄)	reshi	100
 (肉)變質☞蔫 (iang)	roubianzhi	100
 肉末☞肉脞 (ne̍k-tshō)	roumo	100

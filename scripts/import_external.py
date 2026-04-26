@@ -45,7 +45,18 @@ def main():
             print(f"[{dir_name}] Not found, skipping.")
             continue
 
-        data_files = sorted(p for ext in ("*.csv", "*.tsv") for p in src_dir.rglob(ext))
+        if dir_name == "dieghv":
+            data_files = sorted(
+                p
+                for p in src_dir.rglob("*.dict.yaml")
+                if "schema" not in p.name
+                and "_60" not in p.name
+                and "mtr" not in p.name
+            )
+        else:
+            data_files = sorted(
+                p for ext in ("*.csv", "*.tsv") for p in src_dir.rglob(ext)
+            )
         if not data_files:
             print(f"[{dir_name}] No data files found.")
             continue
@@ -60,7 +71,9 @@ def main():
 
             out_path = OUTPUT_DIR / data_file.name
             if data_file.suffix == ".tsv":
-                out_path = OUTPUT_DIR / (data_file.stem + ".csv")
+                out_path = OUTPUT_DIR / (importer.get_source_name() + "_" + data_file.stem + ".csv")
+            if data_file.suffix in (".yaml", ".dict.yaml"):
+                out_path = OUTPUT_DIR / (importer.get_source_name() + "_" + data_file.stem + ".csv")
             with open(out_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)
                 writer.writeheader()
