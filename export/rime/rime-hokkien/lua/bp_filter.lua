@@ -5710,43 +5710,76 @@ end
 local function filter(translation, env)
     local caps = _caps_mask
     local has_caps = caps:sub(1, 1) == "U"
-    local latin_cands = {}
-    local han_cands = {}
+    local items = {}
 
     for cand in translation:iter() do
         local original_is_han = is_han_char(cand.text)
         local need_reconstruct = (cand.type == "sentence" or cand.type == "user_phrase"
             or cand.type == "dictionary")
 
-        local display_text = cand.text
+        local text = cand.text
+        local text_changed = false
         if need_reconstruct then
-            display_text = apply_user_separators(cand, env)
+            text = apply_user_separators(cand, env)
+            text_changed = true
+            if has_caps then
+                text = capitalize_first(text)
+            end
+        else
+            if has_caps then
+                text = capitalize_first(cand.text)
+                text_changed = true
+            end
         end
 
         local display_comment = original_is_han
             and codes_to_handwriting(cand.comment)
             or (cand.comment or "")
 
-        if not has_caps then
-            cand.comment = display_comment
-            yield(cand)
+        if text_changed then
+            table.insert(items, {
+                cand = cand,
+                type = cand.type,
+                start = cand.start,
+                _end = cand._end,
+                text = text,
+                comment = display_comment,
+                is_latin = text:match("^%a") ~= nil,
+                new_cand = true
+            })
         else
-            if has_caps then
-                display_text = capitalize_first(display_text)
-            end
-            local is_latin = display_text:match("^%a") ~= nil
-            local new_cand = Candidate(cand.type, cand.start, cand._end, display_text, display_comment)
-            if is_latin then
-                table.insert(latin_cands, new_cand)
-            else
-                table.insert(han_cands, new_cand)
-            end
+            cand.comment = display_comment
+            table.insert(items, {
+                cand = cand,
+                is_latin = cand.text:match("^%a") ~= nil,
+                new_cand = false
+            })
         end
     end
 
     if has_caps then
-        for _, c in ipairs(latin_cands) do yield(c) end
-        for _, c in ipairs(han_cands) do yield(c) end
+        for _, item in ipairs(items) do
+            if item.is_latin then
+                if item.new_cand then
+                    yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
+                else
+                    yield(item.cand)
+                end
+            end
+        end
+        for _, item in ipairs(items) do
+            if not item.is_latin then
+                if item.new_cand then
+                    yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
+                else
+                    yield(item.cand)
+                end
+            end
+        end
+    else
+        for _, item in ipairs(items) do
+            yield(item.cand)
+        end
     end
 end
 

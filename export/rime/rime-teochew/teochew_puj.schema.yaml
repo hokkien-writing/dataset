@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_puj
   name: 潮州白話字
-  version: "20260425.082316"
+  version: "20260426.130916"
   author:
     - Hokkien Writing Project
   dependencies:
@@ -138,8 +138,9 @@ en_lookup:
 
 
 recognizer:
-  import_preset: default
   patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
     en_lookup: "~[a-z]*'?$"
 
     reverse_lookup: "`[a-z]*'?$"
