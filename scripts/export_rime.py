@@ -1085,7 +1085,7 @@ def write_system_dict(
                 system_converter.to_keyboard(csv_handwriting)
             )
         )
-        if system in ["dp", "bp"]:
+        if system in ["dp"]:
             if standard_handwriting and standard_handwriting.strip():
                 lines.append(
                     f"{standard_handwriting.replace('-', '')}\t{spaced_code}\t{rom_weight}"
@@ -1197,7 +1197,7 @@ def write_en_dict(
             except Exception:
                 hw = csv_hw
             hw = _strip_brackets(hw)
-            if system in ["dp", "bp"]:
+            if system in ["dp"]:
                 hw = hw.replace("-", "")
         has_hw = hw and not (
             hw.startswith("-") or hw.startswith(":") or hw.startswith("#")
@@ -1296,7 +1296,7 @@ def write_zh_dict(
             except Exception:
                 hw = csv_hw
             hw = _strip_brackets(hw)
-            if system in ["dp", "bp"]:
+            if system in ["dp"]:
                 hw = hw.replace("-", "")
         han_clean = han
         for i, pinyin_code_raw in enumerate(pinyin_list):
@@ -1432,7 +1432,7 @@ def generate_han_rom_map(entries: dict, systems_data: dict, system: str) -> str:
             hw = system_converter.to_handwriting(system_converter.to_keyboard(csv_hw))
         except Exception:
             hw = csv_hw
-        if system in ["dp", "bp"]:
+        if system in ["dp"]:
             hw = hw.replace("-", "")
             if csv_hw and csv_hw != hw:
                 if han not in mapping:
