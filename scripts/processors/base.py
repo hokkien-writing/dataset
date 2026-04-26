@@ -14,6 +14,8 @@ class Entry:
     source: str
     en: str = ""
     en_orig: str = ""
+    poj: str = ""
+    poj_orig: str = ""
     dp: str = ""
     dp_orig: str = ""
     bp: str = ""

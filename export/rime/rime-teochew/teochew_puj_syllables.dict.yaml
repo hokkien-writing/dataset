@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_puj_syllables
-version: "20260426.141122"
+version: "20260426.165130"
 sort: by_weight
 ...
 
@@ -434,6 +434,12 @@ chhiù	chhiu3	1
 chhiû	chhiu5	1
 chhiũ	chhiu6	1
 chhiū	chhiu7	1
+tshng	chhng1	1
+tshńg	chhng2	1
+tshǹg	chhng3	1
+tshn̂g	chhng5	1
+tshñg	chhng6	1
+tshn̄g	chhng7	1
 tsho	chho1	1
 tshó	chho2	1
 tshò	chho3	1
@@ -578,6 +584,12 @@ chiãⁿ	chiann6	1
 chiāⁿ	chiann7	1
 chiap	chiap4	1
 chia̍p	chiap8	1
+chiau	chiau1	1
+chiáu	chiau2	1
+chiàu	chiau3	1
+chiâu	chiau5	1
+chiãu	chiau6	1
+chiāu	chiau7	1
 chie	chie1	1
 chié	chie2	1
 chiè	chie3	1
@@ -660,6 +672,12 @@ chiũ	chiu6	1
 chiū	chiu7	1
 chiuh	chiuh4	1
 chiu̍h	chiuh8	1
+tsng	chng1	1
+tsńg	chng2	1
+tsǹg	chng3	1
+tsn̂g	chng5	1
+tsñg	chng6	1
+tsn̄g	chng7	1
 tso	cho1	1
 tsó	cho2	1
 tsò	cho3	1
@@ -972,6 +990,8 @@ hiã	hia6	1
 hiā	hia7	1
 hiah	hiah4	1
 hia̍h	hiah8	1
+hiak	hiak4	1
+hia̍k	hiak8	1
 hiam	hiam1	1
 hiám	hiam2	1
 hiàm	hiam3	1
@@ -1284,6 +1304,12 @@ iãⁿ	iann6	1
 iāⁿ	iann7	1
 iap	iap4	1
 ia̍p	iap8	1
+iau	iau1	1
+iáu	iau2	1
+iàu	iau3	1
+iâu	iau5	1
+iãu	iau6	1
+iāu	iau7	1
 ie	ie1	1
 ié	ie2	1
 iè	ie3	1
@@ -1694,6 +1720,14 @@ khiàng	khiang3	1
 khiâng	khiang5	1
 khiãng	khiang6	1
 khiāng	khiang7	1
+khiat	khiat4	1
+khia̍t	khiat8	1
+khiau	khiau1	1
+khiáu	khiau2	1
+khiàu	khiau3	1
+khiâu	khiau5	1
+khiãu	khiau6	1
+khiāu	khiau7	1
 khieh	khieh4	1
 khie̍h	khieh8	1
 khiek	khiek4	1
@@ -1890,6 +1924,8 @@ khṳ̀	khur3	1
 khṳ̂	khur5	1
 khṳ̃	khur6	1
 khṳ̄	khur7	1
+khṳh	khurh4	1
+khṳ̍h	khurh8	1
 khṳk	khurk4	1
 khṳ̍k	khurk8	1
 khṳn	khurn1	1
@@ -1942,6 +1978,12 @@ kiãⁿ	kiann6	1
 kiāⁿ	kiann7	1
 kiap	kiap4	1
 kia̍p	kiap8	1
+kiau	kiau1	1
+kiáu	kiau2	1
+kiàu	kiau3	1
+kiâu	kiau5	1
+kiãu	kiau6	1
+kiāu	kiau7	1
 kie	kie1	1
 kié	kie2	1
 kiè	kie3	1
@@ -2278,6 +2320,12 @@ liãng	liang6	1
 liāng	liang7	1
 liap	liap4	1
 lia̍p	liap8	1
+liau	liau1	1
+liáu	liau2	1
+liàu	liau3	1
+liâu	liau5	1
+liãu	liau6	1
+liāu	liau7	1
 liek	liek4	1
 lie̍k	liek8	1
 liem	liem1	1
@@ -3066,6 +3114,8 @@ pà	pa3	1
 pâ	pa5	1
 pã	pa6	1
 pā	pa7	1
+pah	pah4	1
+pa̍h	pah8	1
 pai	pai1	1
 pái	pai2	1
 pài	pai3	1
@@ -3178,6 +3228,12 @@ phĩ	phi6	1
 phī	phi7	1
 phiah	phiah4	1
 phia̍h	phiah8	1
+phian	phian1	1
+phián	phian2	1
+phiàn	phian3	1
+phiân	phian5	1
+phiãn	phian6	1
+phiān	phian7	1
 phiaⁿ	phiann1	1
 phiáⁿ	phiann2	1
 phiàⁿ	phiann3	1
@@ -3614,6 +3670,12 @@ siãⁿ	siann6	1
 siāⁿ	siann7	1
 siap	siap4	1
 sia̍p	siap8	1
+siau	siau1	1
+siáu	siau2	1
+siàu	siau3	1
+siâu	siau5	1
+siãu	siau6	1
+siāu	siau7	1
 sie	sie1	1
 sié	sie2	1
 siè	sie3	1
@@ -4000,6 +4062,12 @@ thiãⁿ	thiann6	1
 thiāⁿ	thiann7	1
 thiap	thiap4	1
 thia̍p	thiap8	1
+thiau	thiau1	1
+thiáu	thiau2	1
+thiàu	thiau3	1
+thiâu	thiau5	1
+thiãu	thiau6	1
+thiāu	thiau7	1
 thie	thie1	1
 thié	thie2	1
 thiè	thie3	1
@@ -4186,6 +4254,12 @@ tiàm	tiam3	1
 tiâm	tiam5	1
 tiãm	tiam6	1
 tiām	tiam7	1
+tian	tian1	1
+tián	tian2	1
+tiàn	tian3	1
+tiân	tian5	1
+tiãn	tian6	1
+tiān	tian7	1
 tiang	tiang1	1
 tiáng	tiang2	1
 tiàng	tiang3	1
@@ -4200,6 +4274,12 @@ tiãⁿ	tiann6	1
 tiāⁿ	tiann7	1
 tiap	tiap4	1
 tia̍p	tiap8	1
+tiau	tiau1	1
+tiáu	tiau2	1
+tiàu	tiau3	1
+tiâu	tiau5	1
+tiãu	tiau6	1
+tiāu	tiau7	1
 tie	tie1	1
 tié	tie2	1
 tiè	tie3	1

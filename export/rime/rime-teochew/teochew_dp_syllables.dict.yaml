@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: teochew_dp_syllables
-version: "20260426.141122"
+version: "20260426.165130"
 sort: by_weight
 ...
 
@@ -584,6 +584,12 @@ ziaⁿ⁶	chiann6	1
 ziaⁿ⁷	chiann7	1
 ziab⁴	chiap4	1
 ziab⁸	chiap8	1
+ziau¹	chiau1	1
+ziau²	chiau2	1
+ziau³	chiau3	1
+ziau⁵	chiau5	1
+ziau⁶	chiau6	1
+ziau⁷	chiau7	1
 ziê¹	chie1	1
 ziê²	chie2	1
 ziê³	chie3	1
@@ -984,6 +990,8 @@ hia⁶	hia6	1
 hia⁷	hia7	1
 hiah⁴	hiah4	1
 hiah⁸	hiah8	1
+hiag⁴	hiak4	1
+hiag⁸	hiak8	1
 hiam¹	hiam1	1
 hiam²	hiam2	1
 hiam³	hiam3	1
@@ -1296,6 +1304,12 @@ iaⁿ⁶	iann6	1
 iaⁿ⁷	iann7	1
 iab⁴	iap4	1
 iab⁸	iap8	1
+iau¹	iau1	1
+iau²	iau2	1
+iau³	iau3	1
+iau⁵	iau5	1
+iau⁶	iau6	1
+iau⁷	iau7	1
 iê¹	ie1	1
 iê²	ie2	1
 iê³	ie3	1
@@ -1706,6 +1720,14 @@ kiang³	khiang3	1
 kiang⁵	khiang5	1
 kiang⁶	khiang6	1
 kiang⁷	khiang7	1
+kiad⁴	khiat4	1
+kiad⁸	khiat8	1
+kiau¹	khiau1	1
+kiau²	khiau2	1
+kiau³	khiau3	1
+kiau⁵	khiau5	1
+kiau⁶	khiau6	1
+kiau⁷	khiau7	1
 kiêh⁴	khieh4	1
 kiêh⁸	khieh8	1
 kiêg⁴	khiek4	1
@@ -1902,6 +1924,8 @@ ke³	khur3	1
 ke⁵	khur5	1
 ke⁶	khur6	1
 ke⁷	khur7	1
+keh⁴	khurh4	1
+keh⁸	khurh8	1
 keg⁴	khurk4	1
 keg⁸	khurk8	1
 ken¹	khurn1	1
@@ -1954,6 +1978,12 @@ giaⁿ⁶	kiann6	1
 giaⁿ⁷	kiann7	1
 giab⁴	kiap4	1
 giab⁸	kiap8	1
+giau¹	kiau1	1
+giau²	kiau2	1
+giau³	kiau3	1
+giau⁵	kiau5	1
+giau⁶	kiau6	1
+giau⁷	kiau7	1
 giê¹	kie1	1
 giê²	kie2	1
 giê³	kie3	1
@@ -2290,6 +2320,12 @@ liang⁶	liang6	1
 liang⁷	liang7	1
 liab⁴	liap4	1
 liab⁸	liap8	1
+liau¹	liau1	1
+liau²	liau2	1
+liau³	liau3	1
+liau⁵	liau5	1
+liau⁶	liau6	1
+liau⁷	liau7	1
 liêg⁴	liek4	1
 liêg⁸	liek8	1
 liêm¹	liem1	1
@@ -3078,6 +3114,8 @@ ba³	pa3	1
 ba⁵	pa5	1
 ba⁶	pa6	1
 ba⁷	pa7	1
+bah⁴	pah4	1
+bah⁸	pah8	1
 bai¹	pai1	1
 bai²	pai2	1
 bai³	pai3	1
@@ -3190,6 +3228,12 @@ pi⁶	phi6	1
 pi⁷	phi7	1
 piah⁴	phiah4	1
 piah⁸	phiah8	1
+pian¹	phian1	1
+pian²	phian2	1
+pian³	phian3	1
+pian⁵	phian5	1
+pian⁶	phian6	1
+pian⁷	phian7	1
 piaⁿ¹	phiann1	1
 piaⁿ²	phiann2	1
 piaⁿ³	phiann3	1
@@ -3626,6 +3670,12 @@ siaⁿ⁶	siann6	1
 siaⁿ⁷	siann7	1
 siab⁴	siap4	1
 siab⁸	siap8	1
+siau¹	siau1	1
+siau²	siau2	1
+siau³	siau3	1
+siau⁵	siau5	1
+siau⁶	siau6	1
+siau⁷	siau7	1
 siê¹	sie1	1
 siê²	sie2	1
 siê³	sie3	1
@@ -4012,6 +4062,12 @@ tiaⁿ⁶	thiann6	1
 tiaⁿ⁷	thiann7	1
 tiab⁴	thiap4	1
 tiab⁸	thiap8	1
+tiau¹	thiau1	1
+tiau²	thiau2	1
+tiau³	thiau3	1
+tiau⁵	thiau5	1
+tiau⁶	thiau6	1
+tiau⁷	thiau7	1
 tiê¹	thie1	1
 tiê²	thie2	1
 tiê³	thie3	1
@@ -4198,6 +4254,12 @@ diam³	tiam3	1
 diam⁵	tiam5	1
 diam⁶	tiam6	1
 diam⁷	tiam7	1
+dian¹	tian1	1
+dian²	tian2	1
+dian³	tian3	1
+dian⁵	tian5	1
+dian⁶	tian6	1
+dian⁷	tian7	1
 diang¹	tiang1	1
 diang²	tiang2	1
 diang³	tiang3	1
@@ -4212,6 +4274,12 @@ diaⁿ⁶	tiann6	1
 diaⁿ⁷	tiann7	1
 diab⁴	tiap4	1
 diab⁸	tiap8	1
+diau¹	tiau1	1
+diau²	tiau2	1
+diau³	tiau3	1
+diau⁵	tiau5	1
+diau⁶	tiau6	1
+diau⁷	tiau7	1
 diê¹	tie1	1
 diê²	tie2	1
 diê³	tie3	1

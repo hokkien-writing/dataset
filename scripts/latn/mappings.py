@@ -23,9 +23,15 @@ def register_default_translators(registry):
         "PUJ",
         PhoneticMapping(
             initial_map={
-                "ch": lambda init, vowel: "ch" if vowel[0] in ("i", "e") else "ts",
-                "chh": lambda init, vowel: "chh" if vowel[0] in ("i", "e") else "tsh",
-                "j": lambda init, vowel: "j" if vowel[0] in ("i", "e") else "z",
+                "ch": lambda init, vowel: (
+                    "ch" if vowel and vowel[0] in ("i", "e") else "ts"
+                ),
+                "chh": lambda init, vowel: (
+                    "chh" if vowel and vowel[0] in ("i", "e") else "tsh"
+                ),
+                "j": lambda init, vowel: (
+                    "j" if vowel and vowel[0] in ("i", "e") else "z"
+                ),
             },
         ),
     )

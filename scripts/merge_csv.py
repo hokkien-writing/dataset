@@ -23,6 +23,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 EXPORT_DIR = PROJECT_ROOT / "export"
 BOOKS_DIR = EXPORT_DIR / "books"
+CLIPPINGS_DIR = EXPORT_DIR / "clippings"
 EXTERNAL_DIR = EXPORT_DIR / "external"
 VARIANTS_CSV = EXPORT_DIR / "variants.csv"
 CAPITALIZED_CSV = EXPORT_DIR / "capitalized_en.csv"
@@ -168,15 +169,24 @@ def main():
             reader = csv.DictReader(f)
             for row in reader:
                 puj_val = row.get("puj", "").lower()
+                poj_val = (row.get("poj") or "").lower()
                 han = row.get("han", "")
-                latn_norm = (
-                    _puj_to_latn_norm.translate(puj_val).lower() if puj_val else ""
-                )
+                latn_norm = ""
+                if puj_val:
+                    try:
+                        latn_norm = _puj_to_latn_norm.translate(puj_val).lower()
+                    except Exception:
+                        pass
+                if not latn_norm and poj_val:
+                    try:
+                        latn_norm = _poj_to_latn_norm.translate(poj_val).lower()
+                    except Exception:
+                        pass
                 rec = {
                     "latn_norm": latn_norm,
                     "puj": puj_val,
                     "dp": "",
-                    "poj": "",
+                    "poj": poj_val,
                     "tl": "",
                     "bp": "",
                     "han": han,
@@ -187,6 +197,47 @@ def main():
                     "source": row.get("source", "").split(" > ")[0],
                 }
                 rows.append(rec)
+
+    clip_files = sorted(CLIPPINGS_DIR.glob("*.csv")) if CLIPPINGS_DIR.exists() else []
+    if clip_files:
+        for csv_file in clip_files:
+            print(f"Reading clippings/{csv_file.name}...")
+            with open(csv_file, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                for row in reader:
+                    puj_val = (row.get("puj") or "").strip().lower()
+                    poj_val = (row.get("poj") or "").strip().lower()
+                    han = (row.get("han") or "").strip()
+                    latn_norm = ""
+                    if puj_val:
+                        try:
+                            latn_norm = _puj_to_latn_norm.translate(puj_val).lower()
+                        except Exception:
+                            pass
+                    if not latn_norm and poj_val:
+                        try:
+                            latn_norm = _poj_to_latn_norm.translate(poj_val).lower()
+                        except Exception:
+                            pass
+                    rows.append(
+                        {
+                            "latn_norm": latn_norm,
+                            "puj": puj_val,
+                            "dp": "",
+                            "poj": poj_val,
+                            "tl": "",
+                            "bp": "",
+                            "han": han,
+                            "han_variants": "",
+                            "en": (row.get("en") or "").strip(),
+                            "zh_CN": (row.get("zh_CN") or "").strip(),
+                            "zh_TW": (row.get("zh_TW") or "").strip(),
+                            "source": (row.get("source") or csv_file.stem)
+                            .strip()
+                            .split(" > ")[0],
+                        }
+                    )
+        print(f"Loaded {sum(1 for r in rows)} total entries (incl. clippings)")
 
     ext_files = sorted(EXTERNAL_DIR.glob("*.csv")) if EXTERNAL_DIR.exists() else []
     if ext_files:
@@ -210,10 +261,12 @@ def main():
                     if poj_val and re.search(r"[a-z]", poj_val) is None:
                         continue
                     # 如果 poj_val 不是英文字母開頭，則跳過
-                    if poj_val and not (poj_val and poj_val[0].isascii() and poj_val[0].isalpha()):
+                    if poj_val and not (
+                        poj_val and poj_val[0].isascii() and poj_val[0].isalpha()
+                    ):
                         continue
-                    
-                    if poj_val == '牛角oâiⁿ':
+
+                    if poj_val == "牛角oâiⁿ":
                         print(poj_val)
 
                     if not latn_norm and puj_val:

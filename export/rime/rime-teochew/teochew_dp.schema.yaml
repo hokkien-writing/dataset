@@ -4,12 +4,12 @@
 schema:
   schema_id: teochew_dp
   name: 潮州話拼音
-  version: "20260426.141122"
+  version: "20260426.165130"
   author:
     - Hokkien Writing Project
   dependencies:
     - teochew_dp_en
-
+    - teochew_dp_zh
     - luna_pinyin
 
 switches:
@@ -36,7 +36,7 @@ engine:
     - ascii_segmentor
     - matcher
     - affix_segmentor@en_lookup
-
+    - affix_segmentor@zh_lookup
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -45,7 +45,7 @@ engine:
     - script_translator
     - reverse_lookup_translator
     - table_translator@en_lookup
-
+    - table_translator@zh_lookup
   filters:
     - simplifier
     - lua_filter@dp_filter
@@ -148,20 +148,29 @@ en_lookup:
   suffix: "'"
   tips: "〔English〕"
 
+zh_lookup:
+  tag: zh_lookup
+  dictionary: teochew_dp_zh
+  enable_completion: true
+  prefix: "!"
+  suffix: "'"
+  tips: "〔普通話對照〕"
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
 
 recognizer:
   patterns:
     email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
     url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
     en_lookup: "~[a-z]*'?$"
-
+    zh_lookup: "![a-z]*'?$"
     reverse_lookup: "`[a-z]*'?$"
 
 abc_segmentor:
   extra_tags:
     - reverse_lookup
     - en_lookup
-
+    - zh_lookup
 
 punctuator:
   full_shape:
