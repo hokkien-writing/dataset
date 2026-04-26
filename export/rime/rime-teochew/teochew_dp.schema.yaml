@@ -68,6 +68,9 @@ speller:
     - xform/^t(?=[^h])/d/
     - xform/^th/t/
     - xform/ur/v/
+    - xform/p(\d)$/b$1/
+    - xform/t(\d)$/d$1/
+    - xform/k(\d)$/g$1/
     - derive/ /-/
     - derive/[1-8]//
     - derive/d/g/
