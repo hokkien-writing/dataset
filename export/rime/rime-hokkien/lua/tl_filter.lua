@@ -5729,7 +5729,7 @@ local function filter(translation, env)
 
         local display_comment = original_is_han
             and codes_to_handwriting(cand.comment)
-            or (cand.comment or "")
+            or ""
 
         if text_changed then
             table.insert(items, {

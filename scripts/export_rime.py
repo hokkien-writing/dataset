@@ -530,8 +530,7 @@ SYSTEM_ALGEBRA = {
         "xform/^ph/p/",
         "xform/^t(?=[^h])/d/",
         "xform/^th/t/",
-        "xform/e/ei/",
-        "xform/ur/e/",
+        "xform/ur/v/",
         "derive/ /-/",
         "derive/[1-8]//",
         "derive/d/g/",
@@ -928,7 +927,7 @@ local function filter(translation, env)
 
         local display_comment = original_is_han
             and codes_to_handwriting(cand.comment)
-            or (cand.comment or "")
+            or ""
 
         if text_changed then
             table.insert(items, {
