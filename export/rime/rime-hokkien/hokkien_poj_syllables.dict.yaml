@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_poj_syllables
-version: "20260426.130916"
+version: "20260426.132515"
 sort: by_weight
 ...
 
@@ -3068,8 +3068,6 @@ o͘	ou1	1
 ō͘	ou7	1
 o͘h	ouh4	1
 o̍͘h	ouh8	1
-p4	p4	1
-p8	p8	1
 pa	pa1	1
 pá	pa2	1
 pà	pa3	1

@@ -987,7 +987,7 @@ def _extract_syllable_bases_from_entries(entries: dict) -> set[str]:
     for (latn_norm, _han), _weight in entries.items():
         for syl in re.split(r"[\s\-]+", latn_norm):
             m = re.match(r"^([a-z]+?)(\d)$", syl.strip())
-            if m:
+            if m and m.group(1) not in {"p", "t", "k", "h", "b", "d", "g"}:
                 bases.add(m.group(1))
     return bases
 

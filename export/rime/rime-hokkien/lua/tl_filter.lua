@@ -3756,7 +3756,6 @@ local SYLLABLE_MAP = {
     ["ouh"] = "ouh",
     ["ouh4"] = "ouh",
     ["ouh8"] = "o̍uh",
-    ["p"] = "p4",
     ["pa"] = "pa",
     ["pa1"] = "pa",
     ["pa2"] = "pá",
