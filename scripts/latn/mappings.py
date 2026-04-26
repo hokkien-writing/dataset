@@ -23,9 +23,15 @@ def register_default_translators(registry):
         "PUJ",
         PhoneticMapping(
             initial_map={
-                "ch": lambda init, vowel: "ch" if vowel[0] in ("i", "e") else "ts",
-                "chh": lambda init, vowel: "chh" if vowel[0] in ("i", "e") else "tsh",
-                "j": lambda init, vowel: "j" if vowel[0] in ("i", "e") else "z",
+                "ch": lambda init, vowel: (
+                    "ch" if vowel and vowel[0] in ("i", "e") else "ts"
+                ),
+                "chh": lambda init, vowel: (
+                    "chh" if vowel and vowel[0] in ("i", "e") else "tsh"
+                ),
+                "j": lambda init, vowel: (
+                    "j" if vowel and vowel[0] in ("i", "e") else "z"
+                ),
             },
         ),
     )
@@ -115,6 +121,7 @@ def register_default_translators(registry):
                 "j": "zz",
             },
             vowel_map={"ou": "oo"},
+            nasal_prefix={"nn": ("n", ""), "nnh": ("n", "h")},
         ),
     )
 
@@ -137,8 +144,8 @@ def register_default_translators(registry):
                 "c": "chh",
                 "r": "j",
             },
-            vowel_map={"e": "ur", "ê": "e"},
-            ending_map={"b": "p", "d": "t", "g": "k", "n": "nn"},
+            vowel_map={"e": "ur", "ê": "e", "uê": "ue", "iê": "ie"},
+            ending_map={"b": "p", "d": "t", "g": "k"},
         ),
     )
 
@@ -159,7 +166,7 @@ def register_default_translators(registry):
                 "chh": "c",
                 "j": "r",
             },
-            vowel_map={"ur": "e", "e": "ê"},
-            ending_map={"p": "b", "t": "d", "k": "g", "nn": "n"},
+            vowel_map={"ur": "e", "e": "ê", "ue": "uê", "ie": "iê"},
+            ending_map={"p": "b", "t": "d", "k": "g"},
         ),
     )

@@ -227,7 +227,7 @@ Singapore, February, 1886.
 - **此個是~~的個~~(底個)** Chí-kâi sĩ tî-kâi? ... ... ... What is this?
 - **彼個我勿** Hṳ́-kâi uá màiⁿ ... ... ... I don't want that one.
 - **~~爾~~(汝)~~要~~(愛)~~的一個~~(底一個)** Lṳ́ àiⁿ tî-chék-kâi? ... ... ... Which do you want?
-- **~~爾~~(汝)~~要~~(愛)~~的個~~(底個)** Lṳ́ aìⁿ tî-kâi? ... ... ... What do you want?
+- **~~爾~~(汝)~~要~~(愛)~~的個~~(底個)** Lṳ́ àiⁿ tî-kâi? ... ... ... What do you want?
 - **伊~~如何~~(怎呢)無來** I tsò-nîⁿ bô-lâi? ... ... ... Why did he not come?
 - **是因爲~~何爲~~(怎呢)** Sĩ in-ûi tsò-nîⁿ? ... ... ... For what reason?
 - **~~爾~~(汝)是~~是誰~~(底誰)** Lṳ́ sĩ tî-tiâng? ... ... ... Who are you?
@@ -451,11 +451,11 @@ Singapore, February, 1886.
 
 #### section II.
 
-- **此個我勿。我~~要~~(愛)換** Chí--kâi uá màiⁿ, uá aìⁿ-ūaⁿ ... ... ... I don't want a change.
+- **此個我勿。我~~要~~(愛)換** Chí--kâi uá màiⁿ, uá àiⁿ-ūaⁿ ... ... ... I don't want a change.
 - **~~爾~~(汝)去追伊** Lṳ́ khṳ̀-jiōu i ... ... ... You go and chase him.
 - **追~~不~~(毋)着** Jiōu m̃-tièh ... ... ... Can't overtake him.
 - **~~爾~~(汝)走就追會着** Lṳ́ tsáu chiũ-jiōu õi-tièh ... ... ... If you run, you will overtake him.
-- **~~爾~~(汝)勿騙我** Lṳ́ màiⁿ-phièn úa ... ... ... Don't you deceive me.
+- **~~爾~~(汝)勿騙我** Lṳ́ màiⁿ-phièn uá ... ... ... Don't you deceive me.
 - **~~爾~~(汝)~~要~~(愛)選~~的一個~~(底一個)** Lṳ́ àiⁿ-suán tî-chék-kâi? ... ... ... Which do you wish to choose?
 - **此個~~修清潔~~(物清潔)** Chí--kâi muéh-chheng-khih ... ... ... Clean this.
 - **此個~~携~~(挈)去煮** Chí--kâi khiéh-khṳ̀ tsṳ́ ... ... ... Take this and cook it.
@@ -827,7 +827,7 @@ Singapore, February, 1886.
 - **夜昏正轉來** Mêⁿ-hng chiàⁿ-tńg--lâi ... ... ... I shall not be back until to-night.
 - **或者~~下午~~(下旰)亦~~不~~(毋)知** Pa-lak ẽ-kùa iā m̃-tsai ... ... ... Perhaps in the afternoon, but I don't know.
 - **今夜伊~~不~~(毋)在** Ke-mêⁿ i m̃-tõ ... ... ... He shall not be at home to-night.
-- **~~夜昏子~~(夜昏囝)伊~~要~~(愛)來我~~此處~~(塊)** Mêⁿ-hng-kiaⁿ iàiⁿ-lâi úa--kò ... ... ... He is coming to my place to-night.
+- **~~夜昏子~~(夜昏囝)伊~~要~~(愛)來我~~此處~~(塊)** Mêⁿ-hng-kiaⁿ iàiⁿ-lâi uá--kò ... ... ... He is coming to my place to-night.
 - **我請伊** Uá chhiáⁿ i ... ... ... I have invited him.
 - **伊作有~~幾多~~(若㩼)日工** I tsoh ũ jiéh-tsōi jít kang? ... ... ... How many days' work has he done?
 - **伊作有~~壹~~(一)個月** I tsoh ũ chék-kâi guéh ... ... ... He has worked one month.
@@ -1016,9 +1016,9 @@ Substantives and Adjectives are not declined: the same word expresses both the s
 
 | Singular               | Plural                              |
 | ---------------------- | ----------------------------------- |
-| **我** (Uá) I.           | **阮。咱**(Ún or nán) we.                |
+| **我** (Uá) I.           | **阮。咱**(Ún ~~or~~(;) nán) we.                |
 | **~~爾~~(汝)**(Lṳ́) thou or you. | **恁**(Nín) ye or you.                 |
-| **伊**(I) he, she, it.   | **因。伊人[訓]** (In or i--nâng) they, them. |
+| **伊**(I) he, she, it.   | **~~因~~(𪜶)。伊人[訓]** (In ~~or~~(;) i--nâng) they, them. |
 
 The distinctions of moods, tenses, numbers and persons are shown by the addition of certain auxiliary verbs or particles, as follows:—
 
@@ -1031,7 +1031,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 - **伊~~要~~(愛)** I àiⁿ ... ... ... He wants.
 - **阮勿** Ún màiⁿ ... ... ... We don't want.
 - **恁是~~我個~~(我个)朋友** Nín sĩ uá kâi phêng-iú ... ... ... You are my friends.
-- **因。伊人[訓]是外人[訓]** In or i--nâng sĩ gūa-nâng ... ... ... They are outsiders.
+- **~~因。伊人是外人~~(𪜶是外人[訓]。伊人[訓]是外人[訓])** ~~In or i--nâng sĩ gūa-nâng~~(In sĩ gūa-nâng; I--nâng sĩ gūa-nâng) ... ... ... They are outsiders.
 
 #### past tense.
 
@@ -1040,8 +1040,8 @@ The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed c
 - **伊分我** I pun uá ... ... ... He gave me.
 - **伊昨日來** I tsa-jít lâi ... ... ... He came yesterday.
 - **伊昨日有來~~或無~~(亞無)** I tsa-jít ũ lâi a-bô? ... ... ... Did he come yesterday or not?
-- **伊昨日~~不嘗~~(毋曾)來。伊昨日無來** I tsa-jít m̃-chêng lâi, or i tsa-jít bô-lâi ... ... ... He did not come yesterday.
-- **我昨日~~嘗來~~(曾來)。我昨日有來** Uá tsa-jít chêng--lâi, or uá tsa-jít ũ--lâi ... ... ... I did come yesterday.
+- **伊昨日~~不嘗~~(毋曾)來。伊昨日無來** I tsa-jít m̃-chêng lâi~~, or~~(;) i tsa-jít bô-lâi ... ... ... He did not come yesterday.
+- **我昨日~~嘗來~~(曾來)。我昨日有來** Uá tsa-jít chêng--lâi~~, or~~(;) uá tsa-jít ũ--lâi ... ... ... I did come yesterday.
 
 #### perfect tense.
 
@@ -1112,7 +1112,7 @@ Tiéh 着 (must, ought, or should) implies obligation.
 
 M̃-móⁿ (don't) ~~不可~~(毋孬) implies the opposite of 着 tiéh, viz. must not, ought not, and should not.
 
-- **~~爾~~(汝)~~不可~~(毋孬)去** Luú m̃-móⁿ khṳ̀ ... ... ... You must not go.
+- **~~爾~~(汝)~~不可~~(毋孬)去** Lṳ́ m̃-móⁿ khṳ̀ ... ... ... You must not go.
 - **恁~~不可~~(毋孬)分伊去** Nín m̃-móⁿ pun i khṳ̀ ... ... ... You ought not to let him go.
 - **恁~~不可~~(毋孬)~~辯~~(詏)** Nín m̃-móⁿ à ... ... ... You should not argue.
 
@@ -1147,7 +1147,7 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 - **此個敬長過彼個** Chí--kâi kèng-tn̂g kùe hṳ́-kâi ... ... ... This is longer than that.
 - **~~爾~~(汝)个好。~~我個~~(我个)愈更好** Lṳ́--kâi hó, uá--kâi zú-kèng hó ... ... ... Yours is good, (but) mine better.
 - **伊會走猛過我** I õi-tsáu méⁿ-kùe uá ... ... ... He can run faster than I.
-- **伊行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
+- **~~爾~~(汝)行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
 - **潮州府會贏過汕頭~~或袂~~(亞袂)** Tiê-chiu-hú õi iâⁿ-kùe Suaⁿ-thâu a-bõi? ... ... ... Is Ch'ao-chow-fu better than Swatow?
 - **~~爾~~(汝)寫~~個~~(个)字贏~~我個~~(我个)** Lṳ́ siá kâi jī iâⁿ uá kâi ... ... ... Your writing is better than mine.
 - **伊~~作事~~(做s)事~~爾~~(汝)** I tsò-sṳ̄ iâⁿ lṳ́ ... ... ... He does things better than you.
@@ -1811,7 +1811,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **火牌~~濕~~(㴷)。~~畫~~(劃)袂~~焰~~(着)** Húe-pâi tâm, uéh bõi-tóh ... ... ... The matches are damp, (though) they are struck they will not light.
 - **燈心~~盡了~~(了囉)** Teng-sim lióu--lō ... ... ... The wick is burnt down.
 - **用火炭。勿用火柴** Ēng húe-thùaⁿ, màiⁿ ēng húe-tshâ ... ... ... Use charcoal, don't use fire-wood.
-- **用柴通間內~~烟~~(煙)** Ēng tshâ thong-koiⁿ-lãi huu ... ... ... If you use wood the whole house will be full of smoke.
+- **用柴通間內~~烟~~(煙)** Ēng tshâ thong-koiⁿ-lãi hun ... ... ... If you use wood the whole house will be full of smoke.
 - **灶空~~個~~(个)~~火灰~~(火烌)~~携丟~~(抔掉)** Tsàu-khang kâi húe-hu put-tiòu ... ... ... Remove the ashes in the furnace.
 
 ------
@@ -1821,7 +1821,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 ### Lesson XV. garden.
 
 - **花園** Hue-hn̂g ... ... ... A flower garden.
-- **草埔** Tshaú-pou ... ... ... A lawn.
+- **草埔** Tsháu-pou ... ... ... A lawn.
 - **花** Hue ... ... ... Plants or flowers.
 - **蕊** Lúi ... ... ... A bud.
 - **月記** Guéh-kì ... ... ... Rose.
@@ -2186,7 +2186,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~爾~~(汝)豈識[訓]食榴蓮~~否~~(咩)** Lṳ́ khah-pat chiáh liû-liân mē? ... ... ... Have you ever eaten durians?
 - **是~~香~~(芳)在也** Sĩ phang tsãi a. ... ... ... It is very fragrant indeed.
 - **葡萄好作酒** Phû-thô hó-tsò-chiú ... ... ... Grapes can be made into wine.
-- **~~爾~~(汝)~~上~~(尚)食~~菓~~(果)子~~否~~(咩)** Lú siãng-chiáh kúe-chí mē? ... ... ... Are you fond of eating fruit?
+- **~~爾~~(汝)~~上~~(尚)食~~菓~~(果)子~~否~~(咩)** Lṳ́ siãng-chiáh kúe-chí mē? ... ... ... Are you fond of eating fruit?
 
 ------
 
@@ -2344,7 +2344,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **船行~~了~~(囉)** Tsûn kiàⁿ--lō ... ... ... Ships have gone.
 - **船袂行** Tsûn bõi-kiâⁿ ... ... ... Ships can't go.
 - **船~~敲風~~(摳風)** Tsûn khau-huang ... ... ... Ships tacking.
-- **船擱着** Ksûn khūa--tiéh ... ... ... Ships run aground.
+- **船擱着** Tsûn khūa--tiéh ... ... ... Ships run aground.
 - **船破++掉++** Tsûn puáh-tiòu ... ... ... Ship-wreck.
 - **船相撞着** Tsûn sie-tsuãng-tiéh ... ... ... Ships come into collision with each other.
 - **沉** Tîm ... ... ... To sink.
@@ -2843,7 +2843,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Broker, a** Phah-khang ... ... ... ~~打~~(拍)空
 - **Bundle, a** Pau ... ... ... 包
 - **Business** Sṳ̄; seng-lí ... ... ... 事  生理
-- **Busy** M̃-ôiⁿ; sṳ̄ tsōi ... ... ... ~~不~~(毋)~~暇~~(~~閑~~(閒))  事~~多~~(㩼)
+- **Busy** M̃-ôiⁿ; sṳ̄ tsōi ... ... ... ~~不暇~~(毋閒)  事~~多~~(㩼)
 - **Cargo** Hùe ... ... ... 貨
 - **Cask, a** Tháng ... ... ... 桶
 - **Certificate, a** Phêng-tuaⁿ ... ... ... 憑單
@@ -3010,7 +3010,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ corroborated** Kháu-keng siang-hûa ... ... ... 口供相和
 - **„ contradicted** Kháu-keng siang-huán ... ... ... 口供相反
 - **Statement, make your** Sù--lâi ... ... ... 訴來
-- **„ wish to make** Aìⁿ-sù ... ... ... ~~要~~(愛)訴
+- **„ wish to make** Àiⁿ-sù ... ... ... ~~要~~(愛)訴
 - **„ allow to make** Iông-sù ... ... ... 容訴
 - **Guilty** Ũ-tsũe ... ... ... 有罪
 - **Innocent** Bô-tsũe ... ... ... 無罪
@@ -3573,8 +3573,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **無。伊呾~~不~~(毋)是伊刣** Bô, i tàⁿ m̃-sĩ i thâi ... ... ... No, he said the man was not killed by him.
 - **伊~~與~~(佮)老爹呾。老爺亞。我無罪** I kah lãu-tia tàⁿ, lãu-iâ--a, uá bô-tsũe ... ... ... He said to the mandarin, "Your Worship, I am innocent."
 - **我是~~被~~(乞)人[訓]枉屈** Uá sĩ khoih--nâng uáng-khut ... ... ... "I am falsely accused by the people.
-- **人[訓]~~要~~(愛)害我** Nâng-àiⁿ-hāi úa ... ... ... "People wish to do me harm.
-- **求老爺代我伸~~寃~~(冤)。可憐我** Khiû lãu-iâ thòi-úa sin-uan, khó-liên uá ... ... ... "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
+- **人[訓]~~要~~(愛)害我** Nâng-àiⁿ-hāi uá ... ... ... "People wish to do me harm.
+- **求老爺代我伸~~寃~~(冤)。可憐我** Khiû lãu-iâ thòi -uá sin-uan, khó-liên uá ... ... ... "I beg Your Worship to investigate the case on my behalf, and to have mercy on me."
 - **老爹~~呌~~(叫)伊訴** Lãu-tia kiè i sù ... ... ... The mandarin asked him to make his statement.
 - **伊呾甚~~多~~(㩼)話** I tàⁿ hiàⁿ-chiàⁿ-tsōi ūe ... ... ... He made a long statement.
 - **老爹聽了就~~㸃~~(點)頭** Lãu-tia thiaⁿ-lióu chiũ tak-thâu ... ... ... The mandarin after hearing him, nodded his head.
@@ -3622,7 +3622,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~何人~~(底誰)刣贏** Tî-tiâng thâi-iâⁿ? ... ... ... Who has won the victory?
 - **還了未知** Huân-lióu būe-tsai ... ... ... We don't know yet.
 - **荷蘭西~~個~~(个)兵來未齊** Hô-lân-se kâi-piaⁿ lâi būe-tsôi ... ... ... The French troops have not all arrived yet.
-- **伊若是來齊就~~要~~(愛)直直去京城~~處~~(塊)** In nāⁿ-sĩ lâi-tsôi chiũ àiⁿ tít-tít khṳ̀ kiaⁿ-siâⁿ--kō; ... ... ... If they all have come out, they will go direct to the capital;
+- **~~伊~~(𪜶)若是來齊就~~要~~(愛)直直去京城~~處~~(塊)** In nāⁿ-sĩ lâi-tsôi chiũ àiⁿ tít-tít khṳ̀ kiaⁿ-siâⁿ--kō; ... ... ... If they all have come out, they will go direct to the capital;
 - **在~~彼處~~(彼塊)輸贏** Tõ-hṳ́--kō su-iâⁿ ... ... ... And there, it will be either won or lost.
 - **現時在臺灣~~處~~(塊)有相刣** Hīn-sî tõ Tâi-uân--kō ũ sie-thâi ... ... ... At present there are battles going on in Formosa.
 - **~~鷄~~(雞)籠~~被~~(乞)荷蘭西~~打~~(拍)去了** Koi-lâng khoih Hô-lân-se phah--khṳ̀-lō ... ... ... Keelung is taken by the French.
@@ -3649,7 +3649,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **做~~弍拾~~(二十)棚戯。~~共~~(佮)迎老爺** Tsò jĩ-tsáp-pêⁿ hì, kah iâⁿ-lãu-iâ ... ... ... They have twenty theatre stages besides a procession.
 - **來去~~遊玩~~(佚佗)** Lâi-khṳ̀ thit-thô ... ... ... Let us go for amusement.
 - **我~~要~~(愛)去拜老爺** Uá àiⁿ-khṳ̀ pài-lãu-iâ ... ... ... I am going to worship the idol.
-- **~~要~~(愛)去拜媽祖** Aìⁿ-khṳ̀-pài Máⁿ-tsóu ... ... ... I wish to worship the Goddess of sailors.
+- **~~要~~(愛)去拜媽祖** Àiⁿ-khṳ̀-pài Máⁿ-tsóu ... ... ... I wish to worship the Goddess of sailors.
 - **~~明天~~(明旦起)~~要~~(愛)迎老爺** Màⁿ-khí àiⁿ iâⁿ-lãu-iâ ... ... ... There will be a procession ~~to-morrow~~(tomorrow).
 - **時節着拜~~亞~~(阿)公** Sî-tsoih tiéh pài-a-kong ... ... ... We must worship our ancestors on festival days.
 - **清明着去~~祭掃~~(掛紙)** Chheng-mêng tiéh-khṳ̀ kùe-tsúa ... ... ... On the festival of tombs, we must go to worship the graves.
@@ -4994,7 +4994,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Poison** Chiáh-sí-nâng; ták-iéh ... ... ... 食死人[訓]  毒藥
 - **Pole, for carrying** Phoi-taⁿ; pêⁿ-taⁿ ... ... ... 批擔  ~~平擔~~(扁擔)
 - **Polite** Kui-kṳ́; ũ-lói ... ... ... 規矩  有禮
-- **Pollute** Mak-tiéh-nah-sap; hú-tiéh nah-sap ... ... ... ~~染~~(衊)着~~污穢~~(垃圾)  ++捬着垃圾
+- **Pollute** Mak-tiéh-nah-sap; hú-tiéh nah-sap ... ... ... ~~染~~(衊)着~~污穢~~(垃圾)  ++捬着垃圾++
 - **Pond** Tî ... ... ... 池
 - **Poor** Khiou; kêng ... ... ... ~~貧~~(磽)  ~~貧~~(窮)
 - **Portrait** Sièⁿ ... ... ... 像

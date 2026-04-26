@@ -31,7 +31,7 @@ class TestPOJToPUJ(TranslatorTestBase):
             [
                 ("o͘", "ou"),
                 ("óa", "uá"),
-                ("ōe", "uē"),
+                ("ōe", "ūe"),
             ]
         )
 
@@ -73,7 +73,7 @@ class TestPOJToPUJ(TranslatorTestBase):
     def test_sentences(self):
         self.assert_round_trip(
             [
-                ("o͘-óa-ōe", "ou-uá-uē"),
+                ("o͘-óa-ōe", "ou-úa-ūe"),
             ]
         )
 

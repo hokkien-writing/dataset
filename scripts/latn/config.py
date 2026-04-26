@@ -24,6 +24,9 @@ class PhoneticMapping:
     ending_map: Dict[str, str] = field(default_factory=dict)
     """Mapping of source syllable ending to target ending (e.g., entering p->b)."""
 
+    nasal_prefix: Optional[Dict[str, Tuple[str, str]]] = None
+    """Map nasal ending to (vowel_prefix, remaining_ending). E.g. {"nn": ("n", ""), "nnh": ("n", "h")}"""
+
     remove_hyphens: bool = False
     """Whether to remove hyphens between syllables in the output"""
 
@@ -56,11 +59,19 @@ class LatnSystemConfig:
         default_factory=lambda: ["a", "o", "u", "e", "i", "ur", "n", "m"]
     )
 
+    entering_tone_mark_before_ending: bool = False
+
+    vowel_initial_reversed_priority: list = field(default_factory=list)
+
+    vowel_initial_overrides: Dict[str, str] = field(default_factory=dict)
+
     reverse_vowel_map: Optional[Dict[str, List[Tuple[str, int]]]] = None
 
     reverse_complex_map: Optional[Dict[str, Tuple[str, int]]] = None
 
     syllable_mappings: Dict[str, str] = field(default_factory=dict)
+
+    superscript_tones: bool = False
 
     def __post_init__(self):
         """Build reverse mappings automatically from forward mappings."""

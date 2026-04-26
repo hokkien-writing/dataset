@@ -1,0 +1,8 @@
+# Rime default settings customization
+# Generated from merged.csv - do not edit manually
+
+patch:
+  schema_list:
+    - schema: teochew_puj
+    - schema: teochew_dp
+  "menu/page_size": 6

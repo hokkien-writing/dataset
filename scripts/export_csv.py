@@ -15,15 +15,19 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-SOURCE_DIRS = ["books", "lyrics"]
+SOURCE_DIRS = ["books", "clippings", "lyrics"]
 PROCESSORS_DIR = PROJECT_ROOT / "scripts" / "processors"
 CSV_FIELDS = [
     "puj",
     "puj_orig",
+    "poj",
+    "poj_orig",
     "han",
     "han_orig",
     "en",
     "en_orig",
+    "zh_TW",
+    "zh_CN",
     "source",
 ]
 
@@ -58,9 +62,8 @@ def main():
         if not src_dir.exists():
             continue
 
-        md_files = sorted(
-            f for f in src_dir.glob("*.md") if f.name.lower() != "readme.md"
-        )
+        ext = "*.csv" if dir_name == "clippings" else "*.md"
+        md_files = sorted(f for f in src_dir.glob(ext) if f.name.lower() != "readme.md")
         if not md_files:
             continue
 
@@ -70,14 +73,22 @@ def main():
         print(f"[{dir_name}] Processing {len(md_files)} file(s) for CSV export...")
 
         for md_file in md_files:
-            processor = find_processor(md_file.stem)
-            if processor is None:
-                print(f"  ⚠ No processor for {md_file.stem}, skipping")
-                continue
+            if dir_name == "clippings":
+                processor = find_processor(dir_name)
+                if processor is None:
+                    print(f"  ⚠ No processor for clippings, skipping")
+                    continue
+                source_name = md_file.stem
+            else:
+                processor = find_processor(md_file.stem)
+                if processor is None:
+                    print(f"  ⚠ No processor for {md_file.stem}, skipping")
+                    continue
+                source_name = md_file.stem
 
             text = md_file.read_text(encoding="utf-8")
-            entries = processor.extract_entries(text, md_file.stem)
-            entries.sort(key=lambda e: e.puj.lower())
+            entries = processor.extract_entries(text, source_name)
+            entries.sort(key=lambda e: (e.puj or e.poj or "").lower())
 
             csv_path = out_dir / f"{md_file.stem}.csv"
             with open(csv_path, "w", newline="", encoding="utf-8") as f:
@@ -88,14 +99,14 @@ def main():
                         [
                             entry.puj,
                             entry.puj_orig if entry.puj_orig != entry.puj else "",
+                            entry.poj,
+                            entry.poj_orig if entry.poj_orig != entry.poj else "",
                             entry.han,
-                            entry.han_orig
-                            if entry.han_orig != entry.han
-                            else "",
+                            entry.han_orig if entry.han_orig != entry.han else "",
                             entry.en,
-                            entry.en_orig
-                            if entry.en_orig != entry.en
-                            else "",
+                            entry.en_orig if entry.en_orig != entry.en else "",
+                            entry.zh_TW,
+                            entry.zh_CN,
                             entry.source,
                         ]
                     )

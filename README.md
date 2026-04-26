@@ -7,16 +7,23 @@
 ```
 books/               校注後的書籍來源（含編輯標記）
 lyrics/              校注後的歌詞來源（含編輯標記）
+clippings/           採集詞條（從書本或日常對話中摘錄的 CSV）
+external/            外部資料集原始檔（由 sync_external.sh 同步）
 export/              匯出輸出
   books/             書籍匯出
   lyrics/            歌詞匯出
+  clippings/         採集詞條匯出
+  external/          外部資料集標準化 CSV
 scripts/             工具腳本
   export.py          匯出原版 / 修改版 Markdown
   export_csv.py      匯出結構化 CSV
+  import_external.py 轉換外部資料集為標準化 CSV
+  importers/         各外部資料集的轉換器
   processors/        各書籍的 CSV 解析處理器
     base.py          基礎類別與共用函數
   tests/             單元測試
 build.sh             一鍵建置腳本
+sync_external.sh     同步外部資料集
 test.sh              一鍵測試腳本
 ```
 
@@ -104,6 +111,22 @@ test.sh              一鍵測試腳本
 
 新增書籍時，只需在 `scripts/processors/` 新增同名的 `.py` 檔案，定義繼承 `BookProcessor` 的 `Processor` 類別即可。
 
+### 採集詞條（Clippings）
+
+`clippings/` 目錄存放從書本或日常對話中採集的詞條，格式為 CSV，命名規則為 `{teochew|hokkien}.{source}.csv`。
+
+CSV 表頭：
+
+| 欄位 | 說明 |
+|------|------|
+| `latn_norm` | 標準化羅馬字（帶調號數字，如 `ka2-thiann3`） |
+| `han` | 漢字，多個異體用 `|` 分隔（如 `滂沛\|霶霈`） |
+| `zh_TW` | 繁體中文釋義 |
+| `zh_CN` | 簡體中文釋義 |
+| `en` | 英文釋義 |
+
+檔名前綴 `teochew` 或 `hokkien` 決定 `latn_norm` 轉換為 PUJ 或 POJ。`|` 分隔的異體（`latn_norm`、`han`、`zh_TW` 皆支援）會在匯出時自動拆分為獨立行。
+
 ## 測試
 
 專案使用 Python 內置的 `unittest` 框架進行測試。執行以下指令即可運行所有單元測試：
@@ -137,7 +160,11 @@ t.translate("pàng")   # "bàng"
 
 - [Books 書籍](books/README.md)
 - [Lyrics 歌詞](lyrics/README.md)
+- [Clippings 採集詞條](clippings/)
+- [External 外部資料集](external/README.md)
 
 ## 授權
 
-MIT License
+本專案程式碼以 MIT License 授權。
+
+外部資料集各自有其授權條款，詳見 [external/README.md](external/README.md)。其中包含 CC BY-SA 4.0、CC BY-NC-SA 3.0 TW、CC BY-ND 3.0 TW、CC0 等不同授權。

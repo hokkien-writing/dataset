@@ -1,0 +1,245 @@
+# Rime schema: teochew_dp
+# Generated from merged.csv - do not edit manually
+
+schema:
+  schema_id: teochew_dp
+  name: 潮州話拼音
+  version: "20260426.203949"
+  author:
+    - Hokkien Writing Project
+  dependencies:
+    - teochew_dp_en
+    - teochew_dp_zh
+    - luna_pinyin
+
+switches:
+  - name: ascii_punct
+    reset: 0
+    states: [ 。，, ．， ]
+  - name: zh_simp
+    states: [ 漢字, 汉字 ]
+  - name: full_shape
+    states: [ 半角, 全角 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - lua_processor@dp_caps_tracker
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - key_binder
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@en_lookup
+    - affix_segmentor@zh_lookup
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+    - reverse_lookup_translator
+    - table_translator@en_lookup
+    - table_translator@zh_lookup
+  filters:
+    - simplifier
+    - lua_filter@dp_filter
+    - uniquifier
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-!~`
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
+  delimiter: " -"
+  algebra:
+    - xform/^g/gh/
+    - xform/^b/bh/
+    - xform/^j/r/
+    - xform/^chh/c/
+    - xform/^ch/z/
+    - xform/^k(?=[^h])/g/
+    - xform/^kh/k/
+    - xform/^p(?=[^h])/b/
+    - xform/^ph/p/
+    - xform/^t(?=[^h])/d/
+    - xform/^th/t/
+    - xform/ur/v/
+    - xform/p(\d)$/b$1/
+    - xform/t(\d)$/d$1/
+    - xform/k(\d)$/g$1/
+    - derive/ /-/
+    - derive/[1-8]//
+    - derive/d/g/
+    - derive/([aeiu])n$/$1ng/
+    - derive/oinn/ainn/
+    - derive/nn//
+    - derive/a/A/
+    - derive/b/B/
+    - derive/c/C/
+    - derive/d/D/
+    - derive/e/E/
+    - derive/f/F/
+    - derive/g/G/
+    - derive/h/H/
+    - derive/i/I/
+    - derive/j/J/
+    - derive/k/K/
+    - derive/l/L/
+    - derive/m/M/
+    - derive/n/N/
+    - derive/o/O/
+    - derive/p/P/
+    - derive/q/Q/
+    - derive/r/R/
+    - derive/s/S/
+    - derive/t/T/
+    - derive/u/U/
+    - derive/v/V/
+    - derive/w/W/
+    - derive/x/X/
+    - derive/y/Y/
+    - derive/z/Z/
+
+menu:
+  page_size: 6
+
+key_binder:
+  import_preset: default
+  bindings:
+    - { when: paging, accept: Left, send: Page_Up }
+    - { when: has_menu, accept: Right, send: Page_Down }
+    - { when: paging, accept: bracketleft, send: Page_Up }
+    - { when: has_menu, accept: bracketright, send: Page_Down }
+    - { when: has_menu, accept: Tab, send: Page_Down }
+    - { when: paging, accept: Shift+Tab, send: Page_Up }
+    - { when: always, accept: Control+Shift+4, toggle: zh_simp }
+    - { when: always, accept: Control+Shift+dollar, toggle: zh_simp }
+    - { when: always, accept: Control+period, toggle: ascii_punct }
+
+simplifier:
+  opencc_config: t2s.json
+  option_name: zh_simp
+  tips: char
+
+style:
+  horizontal: true
+  candidate_list_layout: linear
+  candidate_format: "%@"
+
+translator:
+  dictionary: teochew_dp
+  enable_completion: true
+  enable_sentence: true
+  enable_user_dict: true
+  spelling_hints: 99
+
+reverse_lookup:
+  dictionary: luna_pinyin
+  prefix: "`"
+  suffix: "'"
+  tips: "〔普通話拼音反查〕"
+
+
+en_lookup:
+  tag: en_lookup
+  dictionary: teochew_dp_en
+  prefix: "~"
+  suffix: "'"
+  tips: "〔English〕"
+
+zh_lookup:
+  tag: zh_lookup
+  dictionary: teochew_dp_zh
+  enable_completion: true
+  prefix: "!"
+  suffix: "'"
+  tips: "〔普通話對照〕"
+  preedit_format:
+    - xform/([nljqxy])v/$1ü/
+
+recognizer:
+  patterns:
+    email: "^[A-Za-z][-_.0-9A-Za-z]*@.*$"
+    url: "^(www[.]|https?:|ftp[.:]|mailto:|file:).*$|^[a-z]+[.].+$"
+    en_lookup: "~[a-z]*'?$"
+    zh_lookup: "![a-z]*'?$"
+    reverse_lookup: "`[a-z]*'?$"
+
+abc_segmentor:
+  extra_tags:
+    - reverse_lookup
+    - en_lookup
+    - zh_lookup
+
+punctuator:
+  full_shape:
+    ' ': { commit: '　' }
+    ',': { commit: ， }
+    '.': { commit: 。 }
+    '<': [ 《, 〈, «, ‹ ]
+    '>': [ 》, 〉, », › ]
+    '/': [ ／, ÷ ]
+    '?': { commit: ？ }
+    ';': { commit: ； }
+    ':': { commit: ： }
+    '''': { pair: [ '‘', '’' ] }
+    '"': { pair: [ '“', '”' ] }
+    '\': [ 、, ＼ ]
+    '|': [ ·, ｜, '§', '¦' ]
+    '`': ｀
+    '~': ～
+    '!': { commit: ！ }
+    '@': [ ＠, ☯ ]
+    '#': [ ＃, ⌘ ]
+    '%': [ ％, '°', '℃' ]
+    '$': [ ￥, '$', '€', '£', '¥', '¢', '¤' ]
+    '^': { commit: …… }
+    '&': ＆
+    '*': [ ＊, ·, ・, ×, ※, ❂ ]
+    '(': （
+    ')': ）
+    '-': －
+    '_': ——
+    '+': ＋
+    '=': ＝
+    '[': [ 「, 【, 〔, ［ ]
+    ']': [ 」, 】, 〕, ］ ]
+    '{': [ 『, 〖, ｛ ]
+    '}': [ 』, 〗, ｝ ]
+  half_shape:
+    ',': ，
+    '.': 。
+    '<': 《
+    '>': 》
+    '/': '/'
+    '?': ？
+    ';': ；
+    ':': ：
+    '''': { pair: [ '‘', '’' ] }
+    '"': { pair: [ '“', '”' ] }
+    '\': 、
+    '|': '|'
+    '`': '`'
+    '~': '~'
+    '!': ！
+    '@': '@'
+    '#': '#'
+    '%': '%'
+    '$': '¥'
+    '^': ……
+    '&': '&'
+    '*': '*'
+    '(': （
+    ')': ）
+    '-': '-'
+    '_': ——
+    '+': '+'
+    '=': '='
+    '[': 【
+    ']': 】
+    '{': 「
+    '}': 」

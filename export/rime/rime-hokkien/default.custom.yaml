@@ -1,0 +1,9 @@
+# Rime default settings customization
+# Generated from merged.csv - do not edit manually
+
+patch:
+  schema_list:
+    - schema: hokkien_bp
+    - schema: hokkien_tl
+    - schema: hokkien_poj
+  "menu/page_size": 6

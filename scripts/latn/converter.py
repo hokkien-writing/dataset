@@ -5,6 +5,9 @@ import unicodedata
 from abc import ABC
 from scripts.latn.config import LatnSystemConfig
 
+_SUPERSCRIPT_DIGITS = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹")
+_NORMAL_DIGITS = str.maketrans("⁰¹²³⁴⁵⁶⁷⁸⁹", "0123456789")
+
 
 class LatnConverter(ABC):
     """Base class for latn converters."""
@@ -21,32 +24,50 @@ class LatnConverter(ABC):
         # Priority for tone marking on vowels
         self.tone_mark_priority = config.tone_mark_priority
 
+        self._reverse_vowel_index: dict[str, list[tuple[str, list]]] = {}
+        for k, v in self.reverse_vowel_map.items():
+            first = k[0] if k else ""
+            if first not in self._reverse_vowel_index:
+                self._reverse_vowel_index[first] = []
+            self._reverse_vowel_index[first].append((k, v))
+        for first in self._reverse_vowel_index:
+            self._reverse_vowel_index[first].sort(key=lambda x: len(x[0]), reverse=True)
+
+        self._keyboard_cache: dict[str, str] = {}
+        self._handwriting_cache: dict[str, str] = {}
+        self._keyboard_syllable_cache: dict[str, str] = {}
+        self._handwriting_syllable_cache: dict[str, str] = {}
+
+    _KEYBOARD_TOKEN_RE = re.compile(
+        r"[a-zA-Z\u00B2\u00B3\u00B9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u2070-\u207F'-]+\d*|\s+|[^\s]"
+    )
+    _KEYBOARD_WORD_RE = re.compile(
+        r"[a-zA-Z\u00B2\u00B3\u00B9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u2070-\u207F'-]+\d*"
+    )
+
     def to_keyboard(self, text: str) -> str:
         """Convert romanized text to keyboard input format."""
-        # Keep syllables together with their tone digits
-        tokens = re.findall(
-            r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*|\s+|[^\s]",
-            text,
-        )
+        cached = self._keyboard_cache.get(text)
+        if cached is not None:
+            return cached
+        tokens = self._KEYBOARD_TOKEN_RE.findall(text)
         converted_tokens = []
         for token in tokens:
             if token.isspace():
                 converted_tokens.append(token)
                 continue
-            # Match tokens with optional trailing digits
-            if re.match(
-                r"[a-zA-Z\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+\d*", token
-            ):
-                # Handle proper nouns/capitalization where needed
+            if self._KEYBOARD_WORD_RE.match(token):
                 converted_tokens.append(self._to_keyboard_word(token))
             else:
                 converted_tokens.append(token)
 
-        return "".join(converted_tokens)
+        result = "".join(converted_tokens)
+        self._keyboard_cache[text] = result
+        return result
 
     def _to_keyboard_word(self, word: str) -> str:
         """Convert a romanized word to keyboard input format."""
-        parts = re.split(r"(-)", word)
+        parts = self._HYPHEN_SPLIT_RE.split(word)
         converted_parts = []
 
         for part in parts:
@@ -67,12 +88,27 @@ class LatnConverter(ABC):
 
         return "".join(converted_parts)
 
+    _DIGIT_RE = re.compile(r"\d")
+    _HYPHEN_SPLIT_RE = re.compile(r"(-)")
+
     def _to_keyboard_syllable(self, syllable: str) -> str:
         """Convert a single syllable from marked latn to keyboard format."""
+        cached = self._keyboard_syllable_cache.get(syllable)
+        if cached is not None:
+            return cached
+        result = self._to_keyboard_syllable_inner(syllable)
+        self._keyboard_syllable_cache[syllable] = result
+        return result
+
+    def _to_keyboard_syllable_inner(self, syllable: str) -> str:
         if not syllable:
             return ""
 
         if any(c.isdigit() for c in syllable):
+            for marked, keyboard in self.config.syllable_mappings.items():
+                if marked in syllable:
+                    syllable = syllable.replace(marked, keyboard)
+            syllable = syllable.translate(_NORMAL_DIGITS)
             return syllable
 
         original_syllable = syllable
@@ -95,11 +131,20 @@ class LatnConverter(ABC):
             all_tone_options = []
             while i < len(syllable):
                 found_vowel = False
-                # Try longest match from reverse_vowel_map
-                for marked_vowel, options in self.reverse_vowel_map.items():
+                first_char = syllable[i]
+                candidates = self._reverse_vowel_index.get(first_char, ())
+                for marked_vowel, options in candidates:
                     if syllable.startswith(marked_vowel, i):
-                        has_diacritics = (
-                            unicodedata.normalize("NFD", marked_vowel) != marked_vowel
+                        end_pos = i + len(marked_vowel)
+                        if end_pos < len(syllable) and unicodedata.category(
+                            syllable[end_pos]
+                        ).startswith("M"):
+                            continue
+                        has_diacritics = unicodedata.normalize(
+                            "NFD", marked_vowel
+                        ) != marked_vowel or any(
+                            unicodedata.category(c).startswith("M")
+                            for c in marked_vowel
                         )
                         if not has_diacritics:
                             if (
@@ -108,12 +153,10 @@ class LatnConverter(ABC):
                                 and syllable[i + 1] == "g"
                             ):
                                 continue
-                        base_vowel, t = options[0]  # Default to first
+                        base_vowel, t = options[0]
                         all_tone_options.extend(options)
 
-                        # Disambiguation logic for multiple tones mapping to same diacritic
                         if len(options) > 1:
-                            # If it's a checked syllable, prefer tones 4 or 8
                             is_checked = any(
                                 syllable.endswith(e) for e in self.entering_endings
                             )
@@ -123,7 +166,6 @@ class LatnConverter(ABC):
                                     break
                                 if not is_checked and opt_t not in [4, 8] and opt_t > 1:
                                     base_vowel, t = opt_base, opt_t
-                                    # Don't break, keep looking for better non-checked tone if any
 
                         if tone_num is None or (has_diacritics and t > 1):
                             tone_num = t
@@ -145,35 +187,30 @@ class LatnConverter(ABC):
             and syllable
             and syllable[-1] in self.entering_endings
         ):
-            found_entering = False
-            for _, opt_t in all_tone_options:
-                if opt_t in [4, 8]:
-                    tone_num = opt_t
-                    found_entering = True
-                    break
-            if not found_entering:
-                tone_num = 4
+            tone_num = 8 if tone_num > 1 else 4
 
-        # Remove tone digits first
-        syllable = re.sub(r"\d", "", syllable)
+        syllable = self._DIGIT_RE.sub("", syllable)
 
-        # Apply system-specific syllable mappings FIRST (marked -> keyboard)
-        # This handles things like ur -> e in PUJ before vowel_map processes e
         for marked, keyboard in self.config.syllable_mappings.items():
             if marked in syllable:
                 syllable = syllable.replace(marked, keyboard)
                 break
 
-        # Note: the numbers are used to mark tone.
         return f"{syllable}{tone_num}"
+
+    _HANDWRITING_TOKEN_RE = re.compile(
+        r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|\s+|[^\s]"
+    )
+    _HANDWRITING_WORD_RE = re.compile(
+        r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF'-]+"
+    )
 
     def to_handwriting(self, text: str) -> str:
         """Convert keyboard input format (e.g., 'li3') to marked latn (e.g., 'lí')."""
-        # Keep syllables together with their tone digits
-        tokens = re.findall(
-            r"[a-zA-Z0-9\u00C0-\u024F\u0300-\u036F\u1E00-\u1EFF\u207F'-]+|\s+|[^\s]",
-            text,
-        )
+        cached = self._handwriting_cache.get(text)
+        if cached is not None:
+            return cached
+        tokens = self._HANDWRITING_TOKEN_RE.findall(text)
         converted_tokens = []
 
         for token in tokens:
@@ -181,15 +218,17 @@ class LatnConverter(ABC):
                 converted_tokens.append(token)
                 continue
 
-            if re.match(r"[a-zA-Z0-9'-]+", token):
+            if self._HANDWRITING_WORD_RE.match(token):
                 converted_tokens.append(self._word_to_handwriting(token))
             else:
                 converted_tokens.append(token)
 
-        return "".join(converted_tokens)
+        result = "".join(converted_tokens)
+        self._handwriting_cache[text] = result
+        return result
 
     def _word_to_handwriting(self, word: str) -> str:
-        parts = re.split(r"(-)", word)
+        parts = self._HYPHEN_SPLIT_RE.split(word)
         converted_parts = []
         for part in parts:
             if part == "-":
@@ -208,12 +247,22 @@ class LatnConverter(ABC):
                 converted_parts.append(converted)
         return "".join(converted_parts)
 
+    _TONE_DIGIT_RE = re.compile(r"^(.*?)(\d)$")
+
     def _syllable_to_handwriting(self, syllable: str) -> str:
         """Convert keyboard format syllable (e.g., 'li3') to marked (e.g., 'lí')."""
+        cached = self._handwriting_syllable_cache.get(syllable)
+        if cached is not None:
+            return cached
+        result = self._syllable_to_handwriting_inner(syllable)
+        self._handwriting_syllable_cache[syllable] = result
+        return result
+
+    def _syllable_to_handwriting_inner(self, syllable: str) -> str:
         if not syllable:
             return ""
 
-        match = re.match(r"^(.*?)(\d)$", syllable)
+        match = self._TONE_DIGIT_RE.match(syllable)
         if not match:
             # Handle default tone if not provided (assume tone 1)
             # Or preserve it if it contains no tone digit.
@@ -226,6 +275,12 @@ class LatnConverter(ABC):
         if not base_part:
             return syllable
 
+        # Apply system-specific syllable mappings (keyboard -> marked)
+        # Must happen BEFORE tone marking so that e.g. 'uann' -> 'uaⁿ'
+        # prevents 'uan' from matching as a composite vowel.
+        for marked_sym, keyboard in self.config.syllable_mappings.items():
+            base_part = re.sub(keyboard + "$", marked_sym, base_part)
+
         # Prioritize predefined dictionary (e.g. for complex syllables in POJ/PUJ)
         # Check if the combined form matches our complex map
         key = f"{base_part}{tone_num}"
@@ -233,27 +288,63 @@ class LatnConverter(ABC):
             return self.config.complex_syllable_map[key]
 
         marked = False
-        for vowel in self.tone_mark_priority:
-            if vowel in base_part:
-                k = f"{vowel}{tone_num}"
-                if k in self.vowel_dict:
-                    idx = base_part.rfind(vowel)
-                    if idx != -1:
-                        marked_char = self.vowel_dict[k]
-                        base_part = (
-                            base_part[:idx]
-                            + marked_char
-                            + base_part[idx + len(vowel) :]
-                        )
-                        marked = True
-                        break
 
-        # Apply system-specific syllable mappings (keyboard -> marked)
-        # Note: keyboard symbols are usually suffixes (like 'nn')
-        for marked_sym, keyboard in self.config.syllable_mappings.items():
-            base_part = re.sub(keyboard + "$", marked_sym, base_part)
+        is_entering = (
+            self.config.entering_tone_mark_before_ending
+            and tone_num in [4, 8]
+            and base_part
+            and base_part[-1] in self.entering_endings
+        )
+
+        if is_entering:
+            ending = base_part[-1]
+            stem = base_part[:-1]
+            for i in range(len(stem) - 1, -1, -1):
+                for vowel in self.tone_mark_priority:
+                    if stem[i : i + len(vowel)] == vowel:
+                        k = f"{vowel}{tone_num}"
+                        if k in self.vowel_dict:
+                            stem = (
+                                stem[:i] + self.vowel_dict[k] + stem[i + len(vowel) :]
+                            )
+                            marked = True
+                            break
+                if marked:
+                    break
+            if marked:
+                base_part = stem + ending
 
         if not marked:
-            return syllable
+            has_consonant_initial = any(
+                base_part[: len(ini)] == ini
+                for ini in self.config.initials
+                if ini and ini[0] not in "aeiou"
+            )
+            if not has_consonant_initial and self.config.vowel_initial_overrides:
+                k = f"{base_part}{tone_num}"
+                if k in self.config.vowel_initial_overrides:
+                    base_part = self.config.vowel_initial_overrides[k]
+                    marked = True
+            if not marked:
+                for vowel in self.tone_mark_priority:
+                    if vowel in base_part:
+                        k = f"{vowel}{tone_num}"
+                        if k in self.vowel_dict:
+                            idx = base_part.rfind(vowel)
+                            if idx != -1:
+                                marked_char = self.vowel_dict[k]
+                                base_part = (
+                                    base_part[:idx]
+                                    + marked_char
+                                    + base_part[idx + len(vowel) :]
+                                )
+                                marked = True
+                                break
+
+        if not marked:
+            tone_str = str(tone_num)
+            if self.config.superscript_tones:
+                tone_str = tone_str.translate(_SUPERSCRIPT_DIGITS)
+            return f"{base_part}{tone_str}"
 
         return base_part
