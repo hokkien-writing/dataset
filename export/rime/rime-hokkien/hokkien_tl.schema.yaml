@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_tl
   name: 台羅
-  version: "20260426.203949"
+  version: "20260427.211159"
   author:
     - Hokkien Writing Project
   dependencies:
@@ -86,6 +86,7 @@ speller:
     - derive/x/X/
     - derive/y/Y/
     - derive/z/Z/
+    - abbrev/^([a-z]).+$/$1/
 
 menu:
   page_size: 6

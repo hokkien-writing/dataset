@@ -862,63 +862,44 @@ end
 
 local function filter(translation, env)
     local ctx = env.engine.context
-    local input = ctx.input or ""
     local caps = _caps_mask
     local has_caps = caps:sub(1, 1) == "U"
-    local has_tones = input:match("[%d%-]") ~= nil
 
-    if has_tones then
-        local latn_texts = {}
-        local items = {}
-
-        for cand in translation:iter() do
-            local is_han = is_han_char(cand.text)
-
-            if is_han then
-                local comment = cand.comment or ""
-                local hw = comment:gsub("[%w]+", function(code)
-                    return SYLLABLE_MAP[code:lower()] or code
-                end)
-                hw = hw:gsub("   ", "--")
-                hw = hw:gsub("  ", "-")
-                cand.comment = hw
-                table.insert(items, { cand = cand, is_exact = false })
-            else
-                if cand.type ~= "exact" then
-                    latn_texts[cand.text] = true
-                end
-                if has_caps then
-                    cand.text = capitalize_first(cand.text)
-                end
-                cand.comment = ""
-                table.insert(items, { cand = cand, is_exact = cand.type == "exact" })
-            end
-        end
-
-        for _, item in ipairs(items) do
-            if item.is_exact and latn_texts[item.cand.text] then
-                -- skip: user_dict-capable candidate with same text exists
-            else
-                yield(item.cand)
-            end
-        end
-    else
-        for cand in translation:iter() do
-            if is_han_char(cand.text) then
-                local comment = cand.comment or ""
-                local hw = comment:gsub("[%w]+", function(code)
-                    return SYLLABLE_MAP[code:lower()] or code
-                end)
-                hw = hw:gsub("   ", "--")
-                hw = hw:gsub("  ", "-")
-                cand.comment = hw
-            else
-                if has_caps then
-                    cand.text = capitalize_first(cand.text)
-                end
-                cand.comment = ""
-            end
+    for cand in translation:iter() do
+        if is_han_char(cand.text) then
+            local comment = cand.comment or ""
+            local hw = comment:gsub("[%w]+", function(code)
+                return SYLLABLE_MAP[code:lower()] or code
+            end)
+            hw = hw:gsub("   ", "--")
+            hw = hw:gsub("  ", "-")
+            cand.comment = hw
             yield(cand)
+        else
+            local comment = cand.comment or ""
+            local hw_parts = {}
+            for code in comment:gmatch("[%w]+") do
+                local hw = SYLLABLE_MAP[code:lower()]
+                if hw then
+                    table.insert(hw_parts, hw)
+                else
+                    hw_parts = {}
+                    break
+                end
+            end
+            local new_text = cand.text
+            if #hw_parts > 0 then
+                new_text = table.concat(hw_parts, "-")
+            end
+            if has_caps then
+                new_text = capitalize_first(new_text)
+            end
+            if new_text ~= cand.text then
+                yield(ShadowCandidate(cand, cand.type, new_text, ""))
+            else
+                cand.comment = ""
+                yield(cand)
+            end
         end
     end
 end

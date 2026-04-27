@@ -86,11 +86,29 @@ return {{ processor = proc, filter = filt, translator = trans }}
 
 If `mod.filter` is nil, Rime silently skips the filter/translator — no candidates appear and no error is logged.
 
+### Auto-Composed Sentence Hyphens
+
+When `script_translator` composes a sentence from individual syllable dict entries, it concatenates their texts without separators (e.g., `tiân` + `sí` → `tiânsí`). To add hyphens, reconstruct the text from `spelling_hints` comment codes via a SYLLABLE_MAP:
+
+```lua
+local hw_parts = {}
+for code in (cand.comment or ""):gmatch("[%w]+") do
+    local hw = SYLLABLE_MAP[code:lower()]
+    if hw then table.insert(hw_parts, hw) else hw_parts = {}; break end
+end
+if #hw_parts > 0 then
+    new_text = table.concat(hw_parts, "-")
+end
+```
+
+Key insight: `cand.comment` (from `spelling_hints`) contains the segmented codes even for auto-composed sentences. Use `ShadowCandidate` to apply the new text.
+
 ### Pitfalls
 - **Sandbox**: `io` and `os` libraries are restricted in many Rime builds.
 - **Memory**: Avoid creating too many tables inside the filter loop.
 - **Comment Mapping**: `cand.comment` is the only source of syllable segmentation for synthesized sentences in many schemas. Use it to reconstruct Latin handwriting with hyphens.
 - **Silent Lua failures**: If a `lua_filter`/`lua_translator`/`lua_processor` name doesn't resolve to a callable, Rime logs nothing and shows no candidates. Always verify `rime.lua` exports match schema references.
+- **Silent `cand.text` write**: Assigning `cand.text = x` in a Lua filter does **not** produce an error but silently fails — the displayed text remains unchanged. Always use `ShadowCandidate` to change candidate text.
 
 ## Official Reference
 
