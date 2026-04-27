@@ -480,7 +480,10 @@ SYSTEM_ALGEBRA = {
         "derive/oinn/ainn/",
         "derive/nn//",
     ]
-    + CASE_FOLD,
+    + CASE_FOLD
+    + [
+        "abbrev/^([a-z]).+$/$1/",
+    ],
     "poj": [
         "derive/ /-/",
         "derive/[1-8]//",
@@ -488,14 +491,20 @@ SYSTEM_ALGEBRA = {
         "xform/ua/oa/",
         "xform/ue/oe/",
     ]
-    + CASE_FOLD,
+    + CASE_FOLD
+    + [
+        "abbrev/^([a-z]).+$/$1/",
+    ],
     "tl": [
         "xform/ch/ts/",
         "xform/chh/tsh/",
         "derive/ /-/",
         "derive/[1-8]//",
     ]
-    + CASE_FOLD,
+    + CASE_FOLD
+    + [
+        "abbrev/^([a-z]).+$/$1/",
+    ],
     "bp": [
         "xform/^g/gg/",
         "xform/^b/bb/",
@@ -517,7 +526,10 @@ SYSTEM_ALGEBRA = {
         "derive/ /-/",
         "derive/[1-8]//",
     ]
-    + CASE_FOLD,
+    + CASE_FOLD
+    + [
+        "abbrev/^([a-z]).+$/$1/",
+    ],
     "dp": [
         "xform/^g/gh/",
         "xform/^b/bh/",
@@ -541,7 +553,10 @@ SYSTEM_ALGEBRA = {
         "derive/oinn/ainn/",
         "derive/nn//",
     ]
-    + CASE_FOLD,
+    + CASE_FOLD
+    + [
+        "abbrev/^([a-z]).+$/$1/",
+    ],
 }
 
 SCHEMA_TEMPLATE = """\
