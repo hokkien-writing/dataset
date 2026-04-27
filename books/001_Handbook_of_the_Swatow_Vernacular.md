@@ -961,7 +961,7 @@ Singapore, February, 1886.
 
 ### Lesson IX.
 
-### tones.
+#### tones.
 
 There are four great classes of tones—1st. Phêⁿ; 2nd. Siãng; 3rd. Khṳ̀; 4th. Jíp. In the Swatow Colloquial, eight seperate tones are distinguished from one another:—
 
@@ -974,7 +974,7 @@ There are four great classes of tones—1st. Phêⁿ; 2nd. Siãng; 3rd. Khṳ̀;
 7. 上入 Chiẽⁿ-jíp „ 歇 hiah, to stop.
 8. 下入 Ẽ-jíp „ 葉 hiéh, leaves.
 
-### inflections of the tones.
+#### inflections of the tones.
 
 When a syllable is connected with another by a hyphen, the former loses its original tone, and the latter retains it in full force. There are exceptions in the case of the first and sixth tones, which, though these are connected with other syllables, are not changed, but the rest are thus changed:—
 
@@ -994,7 +994,7 @@ As:—
 7. 失落 Sit-lóh, to lose, „ Sít-lóh.
 8. 落雨 Lóh-hõu, to rain, „ Loh-hõu.
 
-### hyphens.
+#### hyphens.
 
 On this admittedly difficult subject, I transcribe a few remarks from one well qualified to speak having made this a study.
 
@@ -1009,7 +1009,6 @@ On this admittedly difficult subject, I transcribe a few remarks from one well q
 ------
 
 
-
 ### Lesson X. Grammar.
 
 Substantives and Adjectives are not declined: the same word expresses both the singular and the plural. Pronouns hove a plural form.
@@ -1022,9 +1021,9 @@ Substantives and Adjectives are not declined: the same word expresses both the s
 
 The distinctions of moods, tenses, numbers and persons are shown by the addition of certain auxiliary verbs or particles, as follows:—
 
-### indicative mood.
+#### indicative mood.
 
-#### present tense.
+##### present tense.
 
 - **我來** Uá lâi ... ... ... I come.
 - **~~爾~~(汝)去** Lṳ́ khṳ̀ ... ... ... You go.
@@ -1033,7 +1032,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 - **恁是~~我個~~(我个)朋友** Nín sĩ uá kâi phêng-iú ... ... ... You are my friends.
 - **~~因。伊人是外人~~(𪜶是外人[訓]。伊人[訓]是外人[訓])** ~~In or i--nâng sĩ gūa-nâng~~(In sĩ gūa-nâng; I--nâng sĩ gūa-nâng) ... ... ... They are outsiders.
 
-#### past tense.
+##### past tense.
 
 The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed chiefly in asking questions and in giving answers, but seldom when a subject is simply being spoken of, viz.—
 
@@ -1043,7 +1042,7 @@ The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed c
 - **伊昨日~~不嘗~~(毋曾)來。伊昨日無來** I tsa-jít m̃-chêng lâi~~, or~~(;) i tsa-jít bô-lâi ... ... ... He did not come yesterday.
 - **我昨日~~嘗來~~(曾來)。我昨日有來** Uá tsa-jít chêng--lâi~~, or~~(;) uá tsa-jít ũ--lâi ... ... ... I did come yesterday.
 
-#### perfect tense.
+##### perfect tense.
 
 The chief signs of the Perfect Tense are 了 lióu, 正 chiàⁿ, 識[訓] pat, 有 ũ, 未 būe, and 亞未 a-būe.
 
@@ -1067,7 +1066,7 @@ Chiàⁿ 正 (just) and 識[訓] pat (ever) can be used both to questions and an
 - **因有去~~或未~~(亞未)** In ũ[2] khṳ̀ a-būe? ... ... ... Have they gone?
 - **因未去** In būe khṳ̀ ... ... ... They have not gone.
 
-#### future tense.
+##### future tense.
 
 The chief signs of the Future Tense are àiⁿ, 正~~要~~(愛) chiàⁿ-àiⁿ, (want) 會 õi (can) and 袂 bõi (cannot.) viz.—
 
@@ -1080,7 +1079,7 @@ The chief signs of the Future Tense are àiⁿ, 正~~要~~(愛) chiàⁿ-àiⁿ,
 - **伊袂死** I bõi--sí ... ... ... He will not die.
 - **伊將來會做大** I chiang-lâi õi tsò-tūa ... ... ... He will be great in the future.
 
-### potential mood.
+#### potential mood.
 
 The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 bõi-tit, 好 hó, 着 tiéh, and ~~不可~~(毋孬) m̃-móⁿ.
 
@@ -1135,9 +1134,9 @@ The Progressive Form is formed by the use of the word 在 tõ (in the act of) an
 - **伊呾伊~~要~~(愛)去** I tàⁿ i àiⁿ-lâi ... ... ... He says he is coming.
 - **伊~~要~~(愛)轉去** I àiⁿ-tńg--khṳ̀ ... ... ... He is going home.
 
-### comparison of adjectives.
+#### comparison of adjectives.
 
-#### the comparative degree.
+##### the comparative degree.
 
 The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 ióu, (a little) 過 kùe, (over) 贏 iâⁿ (to be superior, to defeat,) and 輸, (to be inferior, to be defeated.)
 
@@ -1404,7 +1403,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ### Lesson XIII. human body &c.
 
-### External.
+#### External.
 
 - **靈魂** Lêng-hûn ... ... ... Soul.
 - **命** Miāⁿ ... ... ... Life.
@@ -1450,7 +1449,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~脚趾~~(骹趾)** Kha-tsóiⁿ ... ... ... Toes.
 - **皮** Phûe ... ... ... Skin.
 
-### External.
+#### External.
 
 - **前齒** Tsôiⁿ-khí ... ... ... Front teeth.
 - **牙頭齒** Gê-thâu-khí ... ... ... Back teeth.
@@ -1594,7 +1593,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~免~~(免)用相輸。我~~不上~~(毋尚)~~賭賻~~(跋錢)** Mín-ēng sie-su, uá m̃-siãng puáh-chîⁿ ... ... ... We needn't have a match, as I don't like to gamble.
 - **~~賭賻~~(跋錢)是~~不好~~(毋孬)事** Puáh-chîⁿ sĩ m̃-móⁿ sṳ̄ ... ... ... Gambling is a bad thing.
 
-### Bed Room.
+#### Bed Room.
 
 - **眠床** Mîn-tshn̂g ... ... ... A bedstead.
 - **~~抗床~~(炕床)** Khàng-tshn̂g ... ... ... A Chinese couch.
@@ -1676,7 +1675,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~爾個~~(汝个)面有抹粉~~或無~~(亞無)** Lṳ́ kâi mīn ũ buah-hún a-bô? ... ... ... Do you put powder on your face?
 - **無。我~~每日~~(日日)用花露水** Bô, uá jít-jít ēng hue-lōu-tsúi ... ... ... No, I use lavender water every day.
 
-### Dining Room.
+#### Dining Room.
 
 - **食床** Chiáh-tshn̂g ... ... ... A dining table.
 - **床布** Tshn̂g-pòu ... ... ... Table cloth.
@@ -1742,7 +1741,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **我~~要~~(愛)算~~爾~~(汝)歇** Uá àiⁿ-sǹg lṳ́ hiah ... ... ... I want to discharge you.
 - **食便。搖鐘** Chiáh piēn, iê-cheng ... ... ... Ring the bell, when the dinner is ready.
 
-### Kitchen.
+#### Kitchen.
 
 - **~~竈~~(灶)** Tsàu ... ... ... A furnace.
 - **風爐** Huang-lôu ... ... ... A stove.
@@ -1938,7 +1937,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ### Lesson XVII. provisions, fish, vegetables and fruit.
 
-### Provisions.
+#### Provisions.
 
 - **Food** Chiáh; bí-niêⁿ ... ... ... 食  米糧
 - **Bread** Mīⁿ-pau ... ... ... ~~麫~~(麵)包
@@ -2027,7 +2026,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~後~~(了)羊肉烙。~~與~~(佮)荷蘭薯** Lióu iêⁿ-bah luah, kah hô-lân-tsṳ̂ ... ... ... Then mutton-chop and potatoes.
 - **~~後~~(了)火~~鷄~~(雞)浮。煴芥辣。了還了~~多多~~(㩼㩼)樣** Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ ... ... ... Then turkey fried in oil, and eaten with mustard, and many other kinds.
 
-### Fish.
+#### Fish.
 
 - **Fish** Hṳ̂ ... ... ... 魚
 - **Mackeral** Bé-ka ... ... ... 馬鮫
@@ -2074,7 +2073,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~要~~(愛)呾貴~~即~~(哩)袂貴。~~要~~(愛)呾~~平~~(偏)~~即~~(哩)袂~~平~~(偏)** Àiⁿ-tàⁿ-kùi li bõi-kùi, àiⁿ-tàⁿ-phiⁿ li bõi-phiⁿ ... ... ... To say “it is dear,” it isn't dear, but to say “it is cheap,” it isn't cheap.
 - **買~~微末~~(纖碎)就貴** Bói tshàm-tshùi chiũ kùi. ... ... ... To buy by retail it will be dear.
 
-### Vegetables.
+#### Vegetables.
 
 - **Vegetables** Tshài ... ... ... 菜
 - **Turnip** Tshài-thâu ... ... ... 菜頭
@@ -2129,7 +2128,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **蒜食後口臭** Sǹg chiáh-lióu tshùi tshàu ... ... ... After eating garlic the mouth will be foul.
 - **薑母好作藥** Kieⁿ-bó hó-tsò-iéh ... ... ... Dry ginger can be used as medicine.
 
-### Fruit.
+#### Fruit.
 
 - **Fruit** Kúe-chí ... ... ... ~~菓~~(果)子
 - **Mandarin orange** Chie-kaⁿ ... ... ... 招柑
