@@ -60,10 +60,37 @@ Rime's user dictionary fuzzy matching is aggressive. When the user types explici
 3. **Deployment**: Always click "Deploy" after modifying any file.
 4. **Logs**: Check `build/` folder for syntax errors; check `/tmp/rime.*` for engine logs.
 
+### Log Locations (macOS / Squirrel)
+
+Logs are in `/private/var/folders/.../T/rime.squirrel/`.
+
+| File | Content |
+|------|---------|
+| `rime.squirrel.INFO` | Deployment info, schema loading |
+| `rime.squirrel.WARNING` | Duplicate dict entries, non-fatal issues |
+| `rime.squirrel.ERROR` | YAML parse errors, missing files, Lua failures |
+
+Symlinks point to timestamped files.
+
+### Lua Module Return Shape
+
+`rime.lua` does `local mod = require('name')` then assigns `name = mod.filter` etc. The Lua module **must** return a flat table:
+
+```lua
+-- ✓ Correct: flat table
+return { processor = proc, filter = filt, translator = trans }
+
+-- ✗ Wrong: double-nested — mod.filter will be nil
+return {{ processor = proc, filter = filt, translator = trans }}
+```
+
+If `mod.filter` is nil, Rime silently skips the filter/translator — no candidates appear and no error is logged.
+
 ### Pitfalls
 - **Sandbox**: `io` and `os` libraries are restricted in many Rime builds.
 - **Memory**: Avoid creating too many tables inside the filter loop.
 - **Comment Mapping**: `cand.comment` is the only source of syllable segmentation for synthesized sentences in many schemas. Use it to reconstruct Latin handwriting with hyphens.
+- **Silent Lua failures**: If a `lua_filter`/`lua_translator`/`lua_processor` name doesn't resolve to a callable, Rime logs nothing and shows no candidates. Always verify `rime.lua` exports match schema references.
 
 ## Official Reference
 
