@@ -835,65 +835,7 @@ local function get_caps_mask(env)
     return caps
 end
 
-local function codes_to_handwriting(comment)
-    if not comment or comment == "" then return "" end
-    local result = comment:gsub("[%w]+", function(code)
-        local hw = SYLLABLE_MAP[code:lower()]
-        return hw or code
-    end)
-    result = result:gsub("   ", "--")
-    result = result:gsub("  ", "-")
-    return result
-end
 
-local function apply_user_separators(cand, env)
-    local ctx = env.engine.context
-    local input = ctx.input or ""
-    local comment = cand.comment or ""
-    if input == "" then return cand.text end
-
-    local caps = get_caps_mask(env)
-
-    local codes = {}
-    for code in comment:gmatch("[%w]+") do
-        table.insert(codes, code)
-    end
-
-    local res = ""
-    local i = 1
-    local code_idx = 1
-    while i <= #input do
-        local token = input:match("^[%w]+", i)
-        if token then
-            local hw = token
-            local full_code = codes[code_idx]
-            if full_code then
-                hw = SYLLABLE_MAP[full_code:lower()] or SYLLABLE_MAP[token:lower()] or token
-                code_idx = code_idx + 1
-            else
-                hw = SYLLABLE_MAP[token:lower()] or token
-            end
-
-            if caps:sub(i, i) == "U" then
-                hw = capitalize_first(hw)
-            end
-
-            res = res .. hw
-            i = i + #token
-        else
-            local sep = input:match("^[^%w]+", i)
-            if sep then
-                res = res .. sep
-                i = i + #sep
-            else
-                local char = input:sub(i, i)
-                res = res .. char
-                i = i + 1
-            end
-        end
-    end
-    return res
-end
 
 local function is_han_char(text)
     if not text or #text == 0 then return false end
@@ -904,77 +846,64 @@ local function is_han_char(text)
 end
 
 local function filter(translation, env)
+    local ctx = env.engine.context
+    local input = ctx.input or ""
     local caps = _caps_mask
     local has_caps = caps:sub(1, 1) == "U"
-    local items = {}
+    local has_tones = input:match("[%d%-]") ~= nil
 
-    for cand in translation:iter() do
-        local original_is_han = is_han_char(cand.text)
-        local need_reconstruct = (cand.type == "sentence" or cand.type == "user_phrase"
-            or cand.type == "dictionary")
+    if has_tones then
+        local latn_texts = {}
+        local items = {}
 
-        local text = cand.text
-        local text_changed = false
-        if need_reconstruct then
-            text = apply_user_separators(cand, env)
-            text_changed = true
-            if has_caps then
-                text = capitalize_first(text)
-            end
-        else
-            if has_caps then
-                text = capitalize_first(cand.text)
-                text_changed = true
-            end
-        end
+        for cand in translation:iter() do
+            local is_han = is_han_char(cand.text)
 
-        local display_comment = original_is_han
-            and codes_to_handwriting(cand.comment)
-            or ""
-
-        if text_changed then
-            table.insert(items, {
-                cand = cand,
-                type = cand.type,
-                start = cand.start,
-                _end = cand._end,
-                text = text,
-                comment = display_comment,
-                is_latin = text:match("^%a") ~= nil,
-                new_cand = true
-            })
-        else
-            cand.comment = display_comment
-            table.insert(items, {
-                cand = cand,
-                is_latin = cand.text:match("^%a") ~= nil,
-                new_cand = false
-            })
-        end
-    end
-
-    if has_caps then
-        for _, item in ipairs(items) do
-            if item.is_latin then
-                if item.new_cand then
-                    yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
-                else
-                    yield(item.cand)
+            if is_han then
+                local comment = cand.comment or ""
+                local hw = comment:gsub("[%w]+", function(code)
+                    return SYLLABLE_MAP[code:lower()] or code
+                end)
+                hw = hw:gsub("   ", "--")
+                hw = hw:gsub("  ", "-")
+                cand.comment = hw
+                table.insert(items, { cand = cand, is_exact = false })
+            else
+                if cand.type ~= "exact" then
+                    latn_texts[cand.text] = true
                 end
+                if has_caps then
+                    cand.text = capitalize_first(cand.text)
+                end
+                cand.comment = ""
+                table.insert(items, { cand = cand, is_exact = cand.type == "exact" })
             end
         end
+
         for _, item in ipairs(items) do
-            if not item.is_latin then
-                if item.new_cand then
-                    yield(Candidate(item.type, item.start, item._end, item.text, item.comment))
-                else
-                    yield(item.cand)
-                end
+            if item.is_exact and latn_texts[item.cand.text] then
+                -- skip: user_dict-capable candidate with same text exists
+            else
+                yield(item.cand)
             end
         end
     else
-        for _, item in ipairs(items) do
-            yield(item.cand)
+        for cand in translation:iter() do
+            if is_han_char(cand.text) then
+                local comment = cand.comment or ""
+                local hw = comment:gsub("[%w]+", function(code)
+                    return SYLLABLE_MAP[code:lower()] or code
+                end)
+                hw = hw:gsub("   ", "--")
+                hw = hw:gsub("  ", "-")
+                cand.comment = hw
+            else
+                if has_caps then
+                    cand.text = capitalize_first(cand.text)
+                end
+                cand.comment = ""
+            end
+            yield(cand)
         end
     end
 end
