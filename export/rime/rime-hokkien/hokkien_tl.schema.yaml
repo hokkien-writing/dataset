@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_tl
   name: 台羅
-  version: "20260428.121733"
+  version: "20260428.140643"
   author:
     - Hokkien Writing Project
   dependencies:
@@ -53,7 +53,7 @@ engine:
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678-!~`
-  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA12345678
+  initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " -"
   algebra:
     - xform/ch/ts/
