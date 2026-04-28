@@ -8,6 +8,7 @@ Tone Mark Rules (from Handbook of the Swatow Vernacular 語料庫分析)
   ua+尾 → a: uái, uân, uáng
   ua裸 → u:  úa, Búa, Hûa
   uaⁿ → u:  Húaⁿ, Kùaⁿ (語料84%)
+  ue+尾 → e: uéng
   ie → e:   ié, ién, iéⁿ
   無a雙元音 → 前元音: iú, úi, úe, óu, ói
   ng → n,  m → m
@@ -42,6 +43,7 @@ def create_config() -> LatnSystemConfig:
         "uai": "uai uái uài uai uâi uãi uāi ua̍i",
         "uan": "uan uán uàn uan uân uãn uān ua̍n",
         "uang": "uang uáng uàng uang uâng uãng uāng ua̍ng",
+        "ueng": "ueng uéng uèng ueng uêng uẽng uēng ue̍ng",
     }
 
     return LatnSystemConfig.from_simple_vowels(
@@ -78,6 +80,7 @@ def create_config() -> LatnSystemConfig:
             "uang",
             "uaⁿ",
             "ua",
+            "ueng",
             "a",
             "o",
             "ur",

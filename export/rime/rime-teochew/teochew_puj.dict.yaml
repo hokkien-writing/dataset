@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260428.140643"
+version: "20260428.142111"
 sort: by_weight
 import_tables:
   - teochew_chars
@@ -308,8 +308,8 @@ būe-chia̍h soiⁿ-chia̍h	bue7 chiah8 soinn1 chiah8	99
 būe-chiáh soiⁿ-chiáh	bue7 chiah8 soinn1 chiah8	98
 bue̍h	bueh8	299
 buéh	bueh8	298
-bũeng	bueng6	999
-būeng	bueng7	99
+buẽng	bueng6	999
+buēng	bueng7	99
 bùi	bui3	399
 bun	bun1	99
 bûn-chieⁿ	bun5 chienn1	99
@@ -941,9 +941,9 @@ tshūe--tie̍h	chhue7  tieh8	149
 tshūe--tiéh	chhue7  tieh8	148
 tshuek	chhuek4	999
 tshueng	chhueng1	299
-tshúeng	chhueng2	199
-tshùeng	chhueng3	899
-tshûeng	chhueng5	999
+tshuéng	chhueng2	199
+tshuèng	chhueng3	899
+tshuêng	chhueng5	999
 tshui	chhui1	4399
 tshui-kín	chhui1 kin2	99
 tshui-pek	chhui1 pek4	99
@@ -1300,7 +1300,7 @@ tsô	cho5	599
 tsô-thâu-ne̍k	cho5 thau5 nek8	99
 tsõ	cho6	1999
 tsõ nguâng	cho6 nguang5	99
-tsõ ngûeng	cho6 ngueng5	99
+tsõ nguêng	cho6 ngueng5	99
 tsõ-tsûn	cho6 chun5	99
 tsõ-hoh-kú--lō	cho6 hoh4 ku2  lo7	99
 tsõ-tn̂g	cho6 tng5	99
@@ -1377,9 +1377,9 @@ tsũe	chue6	799
 tsūe	chue7	199
 tsuek	chuek4	599
 tsueng	chueng1	499
-tsúeng	chueng2	199
-tsùeng	chueng3	199
-tsũeng	chueng6	299
+tsuéng	chueng2	199
+tsuèng	chueng3	199
+tsuẽng	chueng6	299
 tsuh	chuh4	699
 tsu̍h	chuh8	99
 tsui	chui1	4799
@@ -2051,12 +2051,12 @@ huek	huek4	199
 hue̍k	huek8	1799
 hueng	hueng1	999
 hueng lâi	hueng1 lai5	99
-húeng	hueng2	299
-hùeng	hueng3	799
-hûeng	hueng5	1999
-hûeng ló	hueng5 lo2	99
-hûeng náu	hueng5 nau2	99
-hũeng	hueng6	399
+huéng	hueng2	299
+huèng	hueng3	799
+huêng	hueng5	1999
+huêng ló	hueng5 lo2	99
+huêng náu	hueng5 nau2	99
+huẽng	hueng6	399
 hûeⁿ	huenn5	599
 hûeⁿ-ûi	huenn5 ui5	99
 huh	huh4	599
@@ -2560,7 +2560,7 @@ zûe	jue5	599
 zũe	jue6	1799
 zūe	jue7	1799
 zue̍k	juek8	199
-zúeng	jueng2	299
+zuéng	jueng2	299
 zu̍h	juh8	599
 zúi	jui2	599
 zûi	jui5	2399
@@ -3058,8 +3058,8 @@ khùe	khue3	1899
 khûe	khue5	699
 khueh	khueh4	1899
 khueng	khueng1	599
-khúeng	khueng2	399
-khûeng	khueng5	1199
+khuéng	khueng2	399
+khuêng	khueng5	1199
 khuh	khuh4	599
 khui	khui1	1499
 khui ie̍h-tshâi-phòu	khui1 ieh8 chhai5 phou3	99
@@ -3433,9 +3433,9 @@ kûe-sìⁿ	kue5 sinn3	99
 kueh	kueh4	699
 kuek	kuek4	1799
 kueng	kueng1	399
-kúeng	kueng2	2299
-kùeng	kueng3	1599
-kũeng	kueng6	99
+kuéng	kueng2	2299
+kuèng	kueng3	1599
+kuẽng	kueng6	99
 kueⁿ	kuenn1	649
 kueⁿ ie̍h-kúi	kuenn1 ieh8 kui2	149
 kueⁿ iéh-kúi	kuenn1 ieh8 kui2	148
@@ -3796,10 +3796,10 @@ luàng	luang3	2499
 luâng	luang5	3499
 luãng	luang6	499
 luek	luek4	399
-lúeng	lueng2	499
-lùeng	lueng3	499
-lûeng	lueng5	699
-lũeng	lueng6	99
+luéng	lueng2	499
+luèng	lueng3	499
+luêng	lueng5	699
+luẽng	lueng6	99
 lui	lui1	599
 lúi	lui2	7499
 lûi	lui5	2599
@@ -4350,9 +4350,9 @@ nguãn	nguan6	99
 nguáng	nguang2	1499
 nguâng	nguang5	5999
 nguãng	nguang6	999
-ngúeng	ngueng2	299
-ngûeng	ngueng5	1199
-ngũeng	ngueng6	199
+nguéng	ngueng2	299
+nguêng	ngueng5	1199
+nguẽng	ngueng6	199
 ngûi	ngui5	2599
 ngûi-phûe	ngui5 phue5	99
 ngũi	ngui6	599
@@ -4880,8 +4880,8 @@ phue̍h-uē	phueh8 ue7	99
 phuéh-uē	phueh8 ue7	98
 phuek	phuek4	99
 phueng	phueng1	699
-phùeng	phueng3	699
-phûeng	phueng5	599
+phuèng	phueng3	699
+phuêng	phueng5	599
 phuh	phuh4	599
 phúi	phui2	599
 phùi	phui3	1299
@@ -5087,7 +5087,7 @@ pûe-hôiⁿ	pue5 hoinn5	99
 pũe	pue6	8999
 pūe	pue7	699
 pue̍k	puek8	1499
-pũeng	pueng6	99
+puẽng	pueng6	99
 pui	pui1	2399
 pùi	pui3	1799
 pûi	pui5	2099
@@ -5671,10 +5671,10 @@ sùe-bũ-si	sue3 bu6 si1	99
 sueh	sueh4	2699
 sueh-hue-tsúi	sueh4 hue1 chui2	99
 sueng	sueng1	99
-súeng	sueng2	99
-sùeng	sueng3	99
-sûeng	sueng5	299
-sūeng	sueng7	399
+suéng	sueng2	99
+suèng	sueng3	99
+suêng	sueng5	299
+suēng	sueng7	399
 suh	suh4	99
 sui	sui1	4299
 sui-jiên	sui1 jien5	99
@@ -6189,7 +6189,7 @@ thuâng	thuang5	2999
 thuaⁿ	thuann1	1799
 thùaⁿ	thuann3	1899
 thue	thue1	599
-thûeng	thueng5	599
+thuêng	thueng5	599
 thuh	thuh4	599
 thui	thui1	899
 thúi	thui2	699
@@ -6590,8 +6590,8 @@ tūaⁿ	tuann7	99
 tùe	tue3	1499
 tũe	tue6	599
 tueng	tueng1	199
-tùeng	tueng3	299
-tũeng	tueng6	499
+tuèng	tueng3	299
+tuẽng	tueng6	499
 tui	tui1	799
 túi	tui2	899
 túi-huang	tui2 huang1	99
@@ -6829,10 +6829,10 @@ uéh-hue-hō	ueh8 hue1 ho7	98
 uek	uek4	199
 ue̍k	uek8	1599
 ueng	ueng1	599
-úeng	ueng2	1899
-ùeng	ueng3	699
-ûeng	ueng5	4299
-ũeng	ueng6	399
+uéng	ueng2	1899
+uèng	ueng3	699
+uêng	ueng5	4299
+uẽng	ueng6	399
 ui	ui1	3099
 ui bõi-hó	ui1 boi6 ho2	149
 ui oh-hó	ui1 oh4 ho2	149
