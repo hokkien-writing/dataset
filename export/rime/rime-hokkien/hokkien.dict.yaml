@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien
-version: "20260428.231302"
+version: "20260428.232214"
 sort: by_weight
 ...
 
@@ -6603,7 +6603,7 @@ sort: by_weight
 供述	kiong1  sut8	100
 供銷	kiong1  siau1	100
 供需	keng3  su1	100
-供養	kṳ́inn1  iunn7[泉]	100
+供養	kṳ́inn1  iunn7	100
 供體	keng1  the2	300
 供體	keng1  thue2	300
 供鼠	kiong2  chhi2	100
@@ -20473,7 +20473,7 @@ sort: by_weight
 嘻譁	hi1  hua7	100
 噌鼻	chhngh8  phinn7	100
 噍吧哖	ta1  pa1  ni5	300
-噎仔	u1  a2[漳]	100
+噎仔	u1  a2	100
 噎奶	eh4  leng1	200
 噎奶	eh4  lin1	100
 噎水	eh4  chui2	100
@@ -99953,7 +99953,7 @@ sort: by_weight
 釘地蜈蚣	teng3  tue7  gia5  kang1	200
 釘孤枝	teng3  kou1  ki1	400
 釘干祿	teng3  kan1  lok8	100
-釘床	tan1  chhng5[泉]	100
+釘床	tan1  chhng5	100
 釘床	teng1  chhng5	100
 釘挽	teng1  ban2	100
 釘書機	teng3  su1  ki1	200

@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_bp
-version: "20260428.231302"
+version: "20260428.232214"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -32638,7 +32638,7 @@ dān-ciu-pīt-bbě	tan1 chhiu1 phit4 be2	99
 dān-ciā	tan1 chhia1	198
 dān-ciū-pīt-bbě	tan1 chhiu1 phit4 be2	98
 dān-cēng	tan1 chheng1	199
-dān-cńg[泉]	tan1 chhng5[泉]	99
+dān-cńg	tan1 chhng5	99
 dān-cū	tan1 chhu1	99
 dān-cǎu zít góo	tan1 chhau2 chit8 kou5	99
 dān-dián	tan1 tian5	299
@@ -42457,8 +42457,8 @@ gnǔi lé-ǎ hōng	kuinn2 le5 a2 hong1	99
 gnǔi sīm béh ǎ	kuinn2 sim1 peh8 a2	99
 gnǔi-lé-ǎ-znûi	kuinn2 le5 a2 chuinn7	99
 gnǔi-sāi	kuinn2 sai1	99
-gnṳ́i-niû[泉]	kṳ́inn1 iunn7[泉]	99
-gnṳ́ī-niû[泉]	kṳ́inn1 iunn7[泉]	98
+gnṳ́i-niû	kṳ́inn1 iunn7	99
+gnṳ́ī-niû	kṳ́inn1 iunn7	98
 goai-goai	koai1 koai1	199
 goai-ióh-ióh	koai1 ioh8 ioh8	99
 goai-iô-iô	koai1 io7 io7	99
@@ -123394,7 +123394,7 @@ zṳ̄1-zôo-cān	chṳ̄1 chou7 chhan1	99
 ū-zziǎm	u1 jiam2	299
 ū-zút	u1 chut8	99
 ū-zǔi	u1 chui2	99
-ū-ǎ[漳]	u1 a2[漳]	99
+ū-ǎ	u1 a2	99
 ūi sīm-gnua	ui1 sim1 kuann1	99
 ūi sīm-gnuā	ui1 sim1 kuann1	98
 ūi-bbông	ui1 bong7	199

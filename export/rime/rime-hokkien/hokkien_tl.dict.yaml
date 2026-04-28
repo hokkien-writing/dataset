@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_tl
-version: "20260428.231302"
+version: "20260428.232214"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -39468,7 +39468,7 @@ kǹg-tuaⁿ	kng3 tuann1	99
 kǹg-tué-tsî	kng3 tue2 chi5	99
 kǹg-tē	kng3 te7	99
 kǹg-á	kng3 a2	199
-kṳ́iⁿ-iūⁿ[泉]	kṳ́inn1 iunn7[泉]	99
+kṳ́iⁿ-iūⁿ	kṳ́inn1 iunn7	99
 kṳ̄1-hō̤e-tsō	kṳ̄1 hō̤e1 cho7	99
 la-hi	la1 hi1	99
 la-hi-la-hi	la1 hi1 la1 hi1	299
@@ -70941,7 +70941,7 @@ tan-to̍k	tan1 tok8	599
 tan-tsheng	tan1 chheng1	199
 tan-tshia	tan1 chhia1	199
 tan-tshiu-phit-bé	tan1 chhiu1 phit4 be2	99
-tan-tshn̂g[泉]	tan1 chhng5[泉]	99
+tan-tshn̂g	tan1 chhng5	99
 tan-tshu	tan1 chhu1	99
 tan-tsháu tsi̍t kôu	tan1 chhau2 chit8 kou5	99
 tan-tsio-tshiū	tan1 chio1 chhiu7	99
@@ -103833,7 +103833,7 @@ u-tshú	u1 chhu2	99
 u-tsuan	u1 chuan4	99
 u-tsu̍t	u1 chut8	99
 u-tsúi	u1 chui2	99
-u-á[漳]	u1 a2[漳]	99
+u-á	u1 a2	99
 ua-ke	ua1 ke1	99
 ua-kue	ua1 kue1	99
 ua-tsú	ua1 chu2	99

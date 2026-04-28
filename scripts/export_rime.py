@@ -285,7 +285,7 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
 def _strip_brackets(s: str) -> str:
     import re
 
-    s = re.sub(r"\[(?:替|音|訓|文|白)\]", "", s)
+    s = re.sub(r"\[(?:替|音|訓|文|白|俗|漳|泉)\]", "", s)
     s = re.sub(r"^\[([^\]]+)\]$", r"\1", s)
     return s
 
