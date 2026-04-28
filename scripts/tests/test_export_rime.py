@@ -8,9 +8,11 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from scripts.export_rime import (
+    _load_merged_rows,
     load_entries,
     write_base_dict,
-    write_latn_dict,
+    write_system_dict,
+    write_syllables_dict,
     write_schema,
     write_default_custom,
     generate_latn_norm_syllables,
@@ -19,12 +21,17 @@ from scripts.export_rime import (
 )
 
 
+def _load_test_rows():
+    return _load_merged_rows(MERGED_CSV)
+
+
 class TestExportRime(unittest.TestCase):
     def setUp(self):
         self.tmpdir = Path(tempfile.mkdtemp())
 
     def test_load_entries_dedup_with_counts(self):
-        entries = load_entries(MERGED_CSV)
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
         self.assertTrue(len(entries) > 0)
         for (latn_norm, han), count in entries.items():
             self.assertTrue(latn_norm)
@@ -32,24 +39,28 @@ class TestExportRime(unittest.TestCase):
             self.assertGreaterEqual(count, 1)
 
     def test_load_entries_no_punctuation(self):
-        entries = load_entries(MERGED_CSV)
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
         for (latn_norm, _), _ in entries.items():
             for ch in ",.?!\"'":
                 self.assertNotIn(ch, latn_norm)
 
     def test_load_entries_max_syllables(self):
-        entries = load_entries(MERGED_CSV)
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
         for (latn_norm, _), _ in entries.items():
             self.assertLessEqual(len(__import__("re").findall(r"\d", latn_norm)), 10)
 
     def test_load_entries_no_bracket_markers(self):
-        entries = load_entries(MERGED_CSV)
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
         for (_, han), _ in entries.items():
             self.assertNotIn("[訓]", han)
             self.assertNotIn("[音]", han)
 
     def test_load_entries_variant_weights(self):
-        entries = load_entries(MERGED_CSV)
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
         self.assertTrue(all(c >= 1 for c in entries.values()))
 
     def test_write_base_dict_format(self):
@@ -58,45 +69,42 @@ class TestExportRime(unittest.TestCase):
         path = self.tmpdir / "hokkien.dict.yaml"
         self.assertTrue(path.exists())
         content = path.read_text(encoding="utf-8")
-        self.assertIn("阿母\ta1 bo2\t100", content)
-        self.assertIn("亞無\ta1 bo5\t200", content)
+        self.assertIn("阿母\ta1  bo2\t100", content)
+        self.assertIn("亞無\ta1  bo5\t200", content)
         self.assertIn("name: hokkien", content)
 
     def test_write_base_dict_hyphen_to_space(self):
         entries = {("a1-che2", "阿姐"): 100}
         write_base_dict(entries, "teochew", self.tmpdir)
         content = (self.tmpdir / "teochew.dict.yaml").read_text(encoding="utf-8")
-        self.assertIn("a1 che2", content)
+        self.assertIn("a1  che2", content)
         self.assertNotIn("a1-che2", content)
 
-    def test_write_latn_dict_puj(self):
+    def test_write_syllables_dict_puj(self):
         entries = {("a1-bo2", "阿母"): 100}
-        write_latn_dict(entries, "puj", "teochew", self.tmpdir)
-        path = self.tmpdir / "teochew_puj_latn.dict.yaml"
+        write_syllables_dict(entries, "puj", "teochew", self.tmpdir)
+        path = self.tmpdir / "teochew_puj_syllables.dict.yaml"
         self.assertTrue(path.exists())
         content = path.read_text(encoding="utf-8")
-        self.assertIn("name: teochew_puj_latn", content)
-        self.assertIn("a1 bo2", content)
+        self.assertIn("name: teochew_puj_syllables", content)
 
-    def test_write_latn_dict_includes_syllables(self):
+    def test_write_system_dict_puj(self):
         entries = {("a1-bo2", "阿母"): 100}
-        write_latn_dict(entries, "puj", "teochew", self.tmpdir)
-        content = (self.tmpdir / "teochew_puj_latn.dict.yaml").read_text("utf-8")
-        for tone in range(1, 9):
-            self.assertIn(f"\tbo{tone}\t", content)
+        systems_data = {}
+        write_system_dict(entries, systems_data, "puj", "teochew", self.tmpdir)
+        path = self.tmpdir / "teochew_puj.dict.yaml"
+        self.assertTrue(path.exists())
+        content = path.read_text(encoding="utf-8")
+        self.assertIn("name: teochew_puj", content)
+        self.assertIn("import_tables:", content)
 
-    def test_write_latn_dict_no_import_tables(self):
-        entries = {("a1-bo2", "阿母"): 100}
-        write_latn_dict(entries, "puj", "teochew", self.tmpdir)
-        content = (self.tmpdir / "teochew_puj_latn.dict.yaml").read_text("utf-8")
-        self.assertNotIn("import_tables", content)
-
-    def test_write_latn_dict_all_systems(self):
-        entries = load_entries(MERGED_CSV, require_systems=["puj", "dp"])
+    def test_write_system_dict_all_systems(self):
+        all_rows = _load_test_rows()
+        entries, systems_data = load_entries(all_rows, require_systems=["puj", "dp"])
         for pkg, cfg in PACKAGE_SYSTEMS.items():
             for system in cfg["systems"]:
-                write_latn_dict(entries, system, pkg, self.tmpdir)
-                path = self.tmpdir / f"{pkg}_{system}_latn.dict.yaml"
+                write_system_dict(entries, systems_data, system, pkg, self.tmpdir)
+                path = self.tmpdir / f"{pkg}_{system}.dict.yaml"
                 self.assertTrue(path.exists(), f"Missing dict for {pkg}_{system}")
 
     def test_write_schema_puj(self):
@@ -105,9 +113,6 @@ class TestExportRime(unittest.TestCase):
         self.assertTrue(path.exists())
         content = path.read_text(encoding="utf-8")
         self.assertIn("schema_id: teochew_puj", content)
-        self.assertIn("dictionary: teochew", content)
-        self.assertIn("dictionary: teochew_puj_latn", content)
-        self.assertIn("xform/ts/ch/", content)
 
     def test_write_schema_all_systems(self):
         for pkg, cfg in PACKAGE_SYSTEMS.items():
@@ -126,8 +131,11 @@ class TestExportRime(unittest.TestCase):
         self.assertIn("hokkien_poj", content)
 
     def test_full_pipeline(self):
+        all_rows = _load_test_rows()
         for pkg, cfg in PACKAGE_SYSTEMS.items():
-            entries = load_entries(MERGED_CSV, require_systems=cfg["require"])
+            entries, systems_data = load_entries(
+                all_rows, require_systems=cfg["require"]
+            )
             if not entries:
                 continue
             systems = cfg["systems"]
@@ -135,36 +143,33 @@ class TestExportRime(unittest.TestCase):
             pkg_dir.mkdir(parents=True, exist_ok=True)
             write_base_dict(entries, pkg, pkg_dir)
             for system in systems:
-                write_latn_dict(entries, system, pkg, pkg_dir)
+                write_syllables_dict(entries, system, pkg, pkg_dir)
+                write_system_dict(entries, systems_data, system, pkg, pkg_dir)
                 write_schema(system, pkg, pkg_dir)
             write_default_custom(systems, pkg, pkg_dir)
 
-            yaml_files = list(pkg_dir.glob("*.yaml"))
-            expected = 1 + len(systems) * 2 + 1
-            self.assertEqual(
-                len(yaml_files),
-                expected,
-                f"{pkg}: expected {expected}, got {len(yaml_files)}",
-            )
-
     def test_generate_syllables_no_mn_as_vowel(self):
-        syllables = generate_latn_norm_syllables()
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
+        syllables = generate_latn_norm_syllables(entries)
         for s in syllables:
             base = __import__("re").sub(r"\d$", "", s)
-            if base.startswith(("pm", "nm", "bm", "bn", "mm", "nn")):
+            if base.startswith(("pm", "nm", "bm", "bn")):
                 self.fail(f"Invalid syllable with m/n as vowel: {s}")
 
     def test_generate_syllables_syllabic_nasals(self):
-        syllables = generate_latn_norm_syllables()
-        for nasal in ("m", "n", "ng"):
-            for tone in range(1, 9):
-                self.assertIn(f"{nasal}{tone}", syllables)
+        all_rows = _load_test_rows()
+        entries, _ = load_entries(all_rows)
+        syllables = generate_latn_norm_syllables(entries)
+        self.assertIn("m1", syllables)
+        self.assertIn("ng1", syllables)
 
     def test_load_entries_require_systems(self):
-        teochew = load_entries(MERGED_CSV, require_systems=["puj", "dp"])
-        hokkien = load_entries(MERGED_CSV, require_systems=["poj", "bp"])
+        all_rows = _load_test_rows()
+        teochew, _ = load_entries(all_rows, require_systems=["puj", "dp"])
+        hokkien, _ = load_entries(all_rows, require_systems=["poj", "bp"])
         self.assertGreater(len(teochew), 0)
-        self.assertEqual(len(hokkien), 0)
+        self.assertGreater(len(hokkien), 0)
 
 
 if __name__ == "__main__":

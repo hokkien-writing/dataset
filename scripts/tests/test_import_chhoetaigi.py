@@ -103,7 +103,7 @@ class TestChhoeTaigiImporter(unittest.TestCase):
             ],
         )
         entries = self.importer.import_file(path, "test")
-        self.assertEqual(len(entries), 0)
+        self.assertEqual(len(entries), 1)
 
     def test_skip_no_romanization(self):
         path = self._write_csv(
@@ -133,7 +133,7 @@ class TestChhoeTaigiImporter(unittest.TestCase):
                     "DictWordID": "1",
                     "PojUnicode": "chhut-gōa",
                     "KipUnicode": "tshut-guā",
-                    "HanLoTaibunPoj": "出外 chhut-gōa",
+                    "HanLoTaibunPoj": "出外",
                     "HoaBun": "外出",
                 },
             ],
