@@ -3535,7 +3535,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **~~太~~(較)~~値~~(值)錢我~~不~~(毋)敢買** Khah-tát-chîⁿ, uá m̃-káⁿ-bói ... ... ... They are too costly, I dare not buy.
 - **~~誰人~~(底誰)是財主** Tî-tiâng sĩ tshâi-tsú? ... ... ... Who is the proprietor (of the shop)?
 - **財主在~~此~~(彼)內** Tshâi-tsú tõ hṳ́-lãi ... ... ... The proprietor is inside.
-- **火船到來。~~要~~(愛)~~呌~~(叫)伊去起貨** Húe-tsṳ̂n kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe ... ... ... The steamer has arrived, I want to ask him to go and unload his cargo.
+- **火船到來。~~要~~(愛)~~呌~~(叫)伊去起貨** Húe-~~tsṳ̂n~~(tsûn) kâu--lâi, àiⁿ-kiè i khṳ̀ khí-hùe ... ... ... The steamer has arrived, I want to ask him to go and unload his cargo.
 - **我~~與~~(佮)此間雜港行~~交易~~(交關)~~多~~(㩼)** Uá kah chí-koiⁿ Tsáp-káng-háng kau-kuan tsōi ... ... ... I have a large transaction with this German firm.
 - **~~與~~(佮)荷蘭西行。有~~交易~~(交關)~~或無~~(亞無)** Kah Hô-lân-se hâng nē, ũ kau-kuan a-bô? ... ... ... And with the French firms, do you have any transaction?
 - **有零些亞。我識[訓]寄去法國++塊++買物** Ũ--lân-ló ā, uá pat kià-khṳ̀ Huap-kok--kò bói-muéh ... ... ... Well, a little, I have ordered something from France.
