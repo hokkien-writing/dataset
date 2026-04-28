@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_tl
   name: 台羅
-  version: "20260428.143111"
+  version: "20260428.145127"
   author:
     - Hokkien Writing Project
   dependencies:

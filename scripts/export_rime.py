@@ -253,15 +253,33 @@ def write_base_dict(entries: dict, pkg: str, output_dir: Path):
         "...",
         "",
     ]
+    skipped = 0
+    deduped = 0
+    best = {}
     for (latn_norm, han), count in sorted(entries.items()):
         code = _strip_brackets(latn_norm).replace("--", "   ").replace("-", "  ")
         han = _strip_brackets(han)
         if not han or not code:
             continue
+        if len(han) == 1:
+            skipped += 1
+            continue
+        key = (han, code)
+        if key in best:
+            if count > best[key]:
+                best[key] = count
+            deduped += 1
+        else:
+            best[key] = count
+    for (han, code), count in sorted(best.items()):
         lines.append(f"{han}\t{code}\t{count}")
     path = output_dir / f"{pkg}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {len(entries)} entries to {path}")
+    written = len(best)
+    print(
+        f"Wrote {written} entries to {path} (skipped {skipped} single-char, deduped {deduped})"
+    )
+    return skipped, deduped
 
 
 def _strip_brackets(s: str) -> str:
@@ -998,7 +1016,14 @@ def write_system_dict(
         "",
     ]
 
+    skipped = 0
+    deduped = 0
+    best = {}
     for latn_norm, weight in sorted(latn_weights.items()):
+        syllable_count = len(_DIGIT_RE.findall(latn_norm))
+        if syllable_count <= 1:
+            skipped += 1
+            continue
         spaced_code = _strip_brackets(latn_norm).replace("-", " ")
         rom_weight = weight - 1
         csv_handwriting = preferred_handwriting.get(latn_norm)
@@ -1016,23 +1041,41 @@ def write_system_dict(
             )
         )
         if system in ["dp"]:
+            candidates = []
             if standard_handwriting and standard_handwriting.strip():
-                lines.append(
-                    f"{standard_handwriting.replace('-', '')}\t{spaced_code}\t{rom_weight}"
+                candidates.append(
+                    (standard_handwriting.replace("-", ""), spaced_code, rom_weight)
                 )
             if csv_handwriting and csv_handwriting != standard_handwriting:
-                lines.append(
-                    f"{csv_handwriting.replace('-', '')}\t{spaced_code}\t{rom_weight - 1}"
+                candidates.append(
+                    (csv_handwriting.replace("-", ""), spaced_code, rom_weight - 1)
                 )
         else:
+            candidates = []
             if standard_handwriting and standard_handwriting.strip():
-                lines.append(f"{standard_handwriting}\t{spaced_code}\t{rom_weight}")
+                candidates.append((standard_handwriting, spaced_code, rom_weight))
             if csv_handwriting and csv_handwriting != standard_handwriting:
-                lines.append(f"{csv_handwriting}\t{spaced_code}\t{rom_weight - 1}")
+                candidates.append((csv_handwriting, spaced_code, rom_weight - 1))
+
+        for hw, code, w in candidates:
+            key = (hw, code)
+            if key in best:
+                if w > best[key]:
+                    best[key] = w
+                deduped += 1
+            else:
+                best[key] = w
+
+    for (hw, code), w in sorted(best.items()):
+        lines.append(f"{hw}\t{code}\t{w}")
 
     path = output_dir / f"{pkg}_{system}.dict.yaml"
     path.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {path}")
+    written = len(best)
+    print(
+        f"Wrote {path}: {written} entries (skipped {skipped} single-syllable, deduped {deduped})"
+    )
+    return skipped, deduped
 
 
 def format_algebra(rules: list) -> str:
