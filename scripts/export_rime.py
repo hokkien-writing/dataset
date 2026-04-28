@@ -475,8 +475,9 @@ SYSTEM_ALGEBRA = {
     "puj": [
         "derive/ /-/",
         "derive/[1-8]//",
-        "derive/ch/ts/",
-        "derive/chh/tsh/",
+        "derive/^ch/ts/",
+        "derive/^chh/tsh/",
+        "derive/^j/z/",
         "derive/oinn/ainn/",
         "derive/nn//",
     ]
@@ -490,6 +491,7 @@ SYSTEM_ALGEBRA = {
         "xform/ou/oo/",
         "xform/ua/oa/",
         "xform/ue/oe/",
+        "derive/nn//",
     ]
     + CASE_FOLD
     + [

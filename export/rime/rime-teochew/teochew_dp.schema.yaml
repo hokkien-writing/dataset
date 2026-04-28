@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州話拼音
-  version: "20260427.211159"
+  version: "20260428.121733"
   author:
     - Hokkien Writing Project
   dependencies:

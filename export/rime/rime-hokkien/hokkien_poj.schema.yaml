@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_poj
   name: 白話字
-  version: "20260427.211159"
+  version: "20260428.121733"
   author:
     - Hokkien Writing Project
   dependencies:
@@ -61,6 +61,7 @@ speller:
     - xform/ou/oo/
     - xform/ua/oa/
     - xform/ue/oe/
+    - derive/nn//
     - derive/a/A/
     - derive/b/B/
     - derive/c/C/
