@@ -32,11 +32,11 @@ PACKAGE_SYSTEMS = {
 }
 
 SYSTEM_NAMES = {
-    "poj": "白話字",
-    "puj": "潮州白話字",
-    "tl": "台羅",
-    "dp": "潮州話拼音",
-    "bp": "閩南話拼音",
+    "poj": "福建話·白話字",
+    "puj": "潮州話·白話字",
+    "tl": "福建話·台羅",
+    "dp": "潮州話·拼音",
+    "bp": "福建話·拼音",
 }
 
 
@@ -588,7 +588,7 @@ schema:
   name: {name}
   version: "{version}"
   author:
-    - Hokkien Writing Project
+    - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
     - {schema_id_en}
 {zh_dependency}
@@ -712,7 +712,7 @@ schema:
   name: {name_en}
   version: "{version}"
   author:
-    - Hokkien Writing Project
+    - Hokkien Writing Project(https://github.com/hokkien-writing)
 
 engine:
   processors:
@@ -756,7 +756,7 @@ schema:
   name: {name_zh}
   version: "{version}"
   author:
-    - Hokkien Writing Project
+    - Hokkien Writing Project(https://github.com/hokkien-writing)
 
 engine:
   processors:
@@ -1359,7 +1359,7 @@ def write_en_schema(system: str, pkg: str, output_dir: Path):
     schema_id = f"{pkg}_{system}"
     content = EN_SCHEMA_TEMPLATE.format(
         schema_id_en=f"{schema_id}_en",
-        name_en=f"{SYSTEM_NAMES[system]}-English",
+        name_en=f"English☞{SYSTEM_NAMES[system]}",
         version=BUILD_VERSION,
     )
     path = output_dir / f"{schema_id}_en.schema.yaml"
@@ -1371,7 +1371,7 @@ def write_zh_schema(system: str, pkg: str, output_dir: Path):
     schema_id = f"{pkg}_{system}"
     content = ZH_SCHEMA_TEMPLATE.format(
         schema_id_zh=f"{schema_id}_zh",
-        name_zh=f"{SYSTEM_NAMES[system]}-普通話",
+        name_zh=f"普通話☞{SYSTEM_NAMES[system]}",
         version=BUILD_VERSION,
     )
     path = output_dir / f"{schema_id}_zh.schema.yaml"

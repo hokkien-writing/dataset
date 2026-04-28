@@ -10,6 +10,7 @@ _HAN_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff]+")
 
 
 _HAN_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff]+")
+_BRACKET_CONTENT_RE = re.compile(r"\[[^\]]*\]|\([^)]*\)")
 _BRACKET_WRAP_RE = re.compile(r"^\[([^\]]+)\]$")
 _ANNOTATION_RE = re.compile(r"\(([^)]+)\)")
 
@@ -32,7 +33,11 @@ class ChhoeTaigiImporter(ExternalImporter):
         with open(csv_path, encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
-                poj_raw = _normalize_annotations((row.get("PojUnicode") or "").strip())
+                poj_raw = (row.get("PojUnicode") or "").strip()
+                if _HAN_RE.search(_BRACKET_CONTENT_RE.sub("", poj_raw)):
+                    print(f"Skipping row with Han in PojUnicode: {poj_raw}")
+                    continue
+                poj_raw = _normalize_annotations(poj_raw)
                 kip_raw = _normalize_annotations((row.get("KipUnicode") or "").strip())
                 hanlo_poj = (row.get("HanLoTaibunPoj") or "").strip()
                 hanlo_kip = (row.get("HanLoTaibunKip") or "").strip()

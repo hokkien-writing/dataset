@@ -1,7 +1,7 @@
 -- Rime Lua module: tl_filter (contains both processor and filter)
 -- Generated from scripts/export_rime.py - do not edit manually
 
--- Comprehensive mapping of syllable codes to 台羅 handwriting
+-- Comprehensive mapping of syllable codes to 福建話·台羅 handwriting
 local SYLLABLE_MAP = {
     ["a"] = "a",
     ["a1"] = "a",

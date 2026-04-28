@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: hokkien_chars
-version: "20260428.145127"
+version: "20260428.231302"
 sort: by_weight
 ...
 
@@ -11846,7 +11846,6 @@ sort: by_weight
 鵠	khok4	100
 嘓	khok8	300
 拆	khok8	100
-摳	khok8	100
 枯	khok8	400
 柝	khok8	2700
 梏	khok8	100
@@ -21752,7 +21751,7 @@ sort: by_weight
 嗽	suh4	400
 士	suh4	300
 斯	suh4	1200
-欶	suh4	2900
+欶	suh4	2800
 笥	suh4	100
 速	suh4	1500
 斯	suh4	100
@@ -24003,7 +24002,7 @@ sort: by_weight
 蜔	tian7	100
 躔	tian7	100
 鈿	tian7	500
-電	tian7	50800
+電	tian7	50700
 靛	tian7	600
 何	tiang1	100
 噹	tiang1	300
@@ -25574,6 +25573,4 @@ sort: by_weight
 引	ĕng1	100
 浴	ı̍k4	100
 院	ǐnn1	100
-仔	仔	100
-門	仔頭	100
 筊	�kiau2	100

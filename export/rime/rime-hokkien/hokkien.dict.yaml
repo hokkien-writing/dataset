@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien
-version: "20260428.145127"
+version: "20260428.231302"
 sort: by_weight
 ...
 
@@ -43972,7 +43972,6 @@ sort: by_weight
 摩薩德	mou5  sat4  tek4	100
 摩西	mou5  se1	100
 摳皮	khau1  phue5	200
-摳門	khok8  仔頭	100
 摵一下	chhek8   chit8  e7	100
 摵仔	chhek8  a2	100
 摵仔茶	chhek8  a2  te5	200
@@ -104903,7 +104902,6 @@ sort: by_weight
 電機工程	tian7  ki1 kang1  teng5	100
 電機系	tian7  ki1  he7	100
 電欶仔	tian7  suh4  a2	100
-電欶仔	tian7  suh4  仔	100
 電死	tian7  si2	100
 電母	tian7  bu2	100
 電毯	tian7  than2	100

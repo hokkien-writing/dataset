@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_bp
-version: "20260428.145127"
+version: "20260428.231302"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -23752,7 +23752,6 @@ diân-sî-gī	tian7 si7 ki1	99
 diân-sām	tian7 sam1	99
 diân-sēk	tian7 sek4	99
 diân-sūh-ǎ	tian7 suh4 a2	99
-diân-sūh-仔	tian7 suh4 仔	99
 diân-sǐ	tian7 si2	99
 diân-sǒ-táu	tian7 so2 thau5	99
 diân-sǹg-bnuá	tian7 sng3 puann5	199

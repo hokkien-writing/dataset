@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_tl
-version: "20260428.145127"
+version: "20260428.231302"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -79071,7 +79071,6 @@ tiān-sio-hong	tian7 sio1 hong1	99
 tiān-siú	tian7 siu2	99
 tiān-siú-kuán	tian7 siu2 kuan2	99
 tiān-suh-á	tian7 suh4 a2	99
-tiān-suh-仔	tian7 suh4 仔	99
 tiān-suàⁿ	tian7 suann3	299
 tiān-suàⁿ phue	tian7 suann3 phue1	99
 tiān-suàⁿ-phue	tian7 suann3 phue1	99

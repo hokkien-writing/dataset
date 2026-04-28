@@ -1,7 +1,7 @@
 -- Rime Lua module: bp_filter (contains both processor and filter)
 -- Generated from scripts/export_rime.py - do not edit manually
 
--- Comprehensive mapping of syllable codes to 閩南話拼音 handwriting
+-- Comprehensive mapping of syllable codes to 福建話·拼音 handwriting
 local SYLLABLE_MAP = {
     ["a"] = "ā",
     ["a1"] = "ā",
