@@ -4291,7 +4291,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Dangerous** Hong-hiám; lĩ-hāi; lî-keng ... ... ... 風險  利害  利更
 - **Daughter** Tsáu-kiáⁿ; tsṳ-niêⁿ-kiáⁿ ... ... ... 女子  姿娘仔
 - **Dawn** Thiⁿ-kng; thiⁿ lâ-lân-kng ... ... ... 天光  天初光
-- **Dazzle** In-n̄g; iàng-mák; chhiēⁿ-mák ... ... ... In-n̄g  映目  
+- **Dazzle** In-n̄g; iàng-mák; chhiēⁿ-mák ... ... ...   映目  
 - **Dead** Sí; kùe--khṳ̀; kùe-sì ... ... ... 死  過去  過世
 - **Deaf** Hĩⁿ--lâng; hĩⁿ lâng ... ... ... 耳聾  耳聾
 - **Debt, in** Khiàm-nâng-kâi-chîⁿ; khiàm-nâng-kâi-chè ... ... ... 欠人[訓]個錢  欠人[訓]個債

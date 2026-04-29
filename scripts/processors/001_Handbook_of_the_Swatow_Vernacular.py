@@ -9,7 +9,7 @@ from scripts.processors.base import (
     generate_original,
 )
 
-CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff]")
+CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff\u3000-\u303f\U00020000-\U0002a6df]")
 LINE_RE = re.compile(r"^\s*- \*\*(.+?)\*\*\s*(.*)")
 SEP_RE = re.compile(r"\s*\.\.\.\s*\.\.\.\s*\.\.\.\s*")
 ANNOTATION_RE = re.compile(r"~~[^~]*~~\([^)]*\)")
