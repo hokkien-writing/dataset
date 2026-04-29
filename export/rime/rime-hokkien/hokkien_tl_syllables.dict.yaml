@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_tl_syllables
-version: "20260428.232214"
+version: "20260429.160403"
 sort: by_weight
 ...
 
@@ -178,6 +178,12 @@ bìn	bin3	1
 bîn	bin5	1
 bǐn	bin6	1
 bīn	bin7	1
+bing	bing1	1
+bíng	bing2	1
+bìng	bing3	1
+bîng	bing5	1
+bǐng	bing6	1
+bīng	bing7	1
 bio	bio1	1
 bió	bio2	1
 biò	bio3	1
@@ -714,6 +720,12 @@ tsìn	chin3	1
 tsîn	chin5	1
 tsǐn	chin6	1
 tsīn	chin7	1
+tsing	ching1	1
+tsíng	ching2	1
+tsìng	ching3	1
+tsîng	ching5	1
+tsǐng	ching6	1
+tsīng	ching7	1
 tsiⁿ	chinn1	1
 tsíⁿ	chinn2	1
 tsìⁿ	chinn3	1
@@ -744,6 +756,12 @@ tsiǒⁿ	chionn6	1
 tsiōⁿ	chionn7	1
 tsip	chip4	1
 tsi̍p	chip8	1
+tsir	chir1	1
+tsír	chir2	1
+tsìr	chir3	1
+tsîr	chir5	1
+tsǐr	chir6	1
+tsīr	chir7	1
 tsit	chit4	1
 tsi̍t	chit8	1
 tsiu	chiu1	1
@@ -1302,6 +1320,12 @@ hìn	hin3	1
 hîn	hin5	1
 hǐn	hin6	1
 hīn	hin7	1
+hing	hing1	1
+híng	hing2	1
+hìng	hing3	1
+hîng	hing5	1
+hǐng	hing6	1
+hīng	hing7	1
 hiⁿ	hinn1	1
 híⁿ	hinn2	1
 hìⁿ	hinn3	1
@@ -2032,6 +2056,12 @@ khiǒng	khiong6	1
 khiōng	khiong7	1
 khip	khip4	1
 khi̍p	khip8	1
+khir	khir1	1
+khír	khir2	1
+khìr	khir3	1
+khîr	khir5	1
+khǐr	khir6	1
+khīr	khir7	1
 khit	khit4	1
 khi̍t	khit8	1
 khiu	khiu1	1
@@ -2224,6 +2254,12 @@ kìn	kin3	1
 kîn	kin5	1
 kǐn	kin6	1
 kīn	kin7	1
+king	king1	1
+kíng	king2	1
+kìng	king3	1
+kîng	king5	1
+kǐng	king6	1
+kīng	king7	1
 kiⁿ	kinn1	1
 kíⁿ	kinn2	1
 kìⁿ	kinn3	1
@@ -2518,6 +2554,12 @@ lìn	lin3	1
 lîn	lin5	1
 lǐn	lin6	1
 līn	lin7	1
+ling	ling1	1
+líng	ling2	1
+lìng	ling3	1
+lîng	ling5	1
+lǐng	ling6	1
+līng	ling7	1
 liⁿ	linn1	1
 líⁿ	linn2	1
 lìⁿ	linn3	1
@@ -3698,6 +3740,12 @@ sìn	sin3	1
 sîn	sin5	1
 sǐn	sin6	1
 sīn	sin7	1
+sing	sing1	1
+síng	sing2	1
+sìng	sing3	1
+sîng	sing5	1
+sǐng	sing6	1
+sīng	sing7	1
 siⁿ	sinn1	1
 síⁿ	sinn2	1
 sìⁿ	sinn3	1
@@ -4320,6 +4368,12 @@ tìn	tin3	1
 tîn	tin5	1
 tǐn	tin6	1
 tīn	tin7	1
+ting	ting1	1
+tíng	ting2	1
+tìng	ting3	1
+tîng	ting5	1
+tǐng	ting6	1
+tīng	ting7	1
 tiⁿ	tinn1	1
 tíⁿ	tinn2	1
 tìⁿ	tinn3	1

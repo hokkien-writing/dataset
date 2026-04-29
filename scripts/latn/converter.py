@@ -104,6 +104,8 @@ class LatnConverter(ABC):
         if not syllable:
             return ""
 
+        syllable = unicodedata.normalize("NFC", syllable)
+
         if any(c.isdigit() for c in syllable):
             for marked, keyboard in self.config.syllable_mappings.items():
                 if marked in syllable:
