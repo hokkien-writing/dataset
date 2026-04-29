@@ -106,12 +106,30 @@ class LatnConverter(ABC):
 
         syllable = unicodedata.normalize("NFC", syllable)
 
+        if self.config.superscript_tones:
+            syllable = syllable.translate(_NORMAL_DIGITS)
+
         if any(c.isdigit() for c in syllable):
+            tone_match = re.search(r"(\d)$", syllable)
+            tone_num = tone_match.group(1) if tone_match else None
+            if tone_num:
+                syllable = syllable[:-1]
+
             for marked, keyboard in self.config.syllable_mappings.items():
                 if marked in syllable:
                     syllable = syllable.replace(marked, keyboard)
-            syllable = syllable.translate(_NORMAL_DIGITS)
-            return syllable
+
+            if tone_num:
+                syllable = syllable + tone_num
+
+            if tone_num:
+                syllable = syllable.translate(_NORMAL_DIGITS)
+
+            has_diacritics = any(
+                unicodedata.category(c).startswith("M") for c in syllable
+            )
+            if not has_diacritics:
+                return syllable
 
         original_syllable = syllable
         tone_num = None
@@ -225,7 +243,7 @@ class LatnConverter(ABC):
             else:
                 converted_tokens.append(token)
 
-        result = "".join(converted_tokens)
+        result = unicodedata.normalize("NFC", "".join(converted_tokens))
         self._handwriting_cache[text] = result
         return result
 

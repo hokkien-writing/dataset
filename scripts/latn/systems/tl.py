@@ -12,8 +12,8 @@ def create_config() -> LatnSystemConfig:
         "o": "o ó ò o ô ǒ ō o̍",
         "oo": "oo óo òo oo ôo ǒo ōo o̍o",
         "u": "u ú ù u û ǔ ū u̍",
-        "n": "n ń ǹ n n̂ ñ n̄ n̍",
-        "m": "m ḿ m̀ m m̂ m̃ m̄ m̍",
+        "n": "n ń ǹ n n̂ ň n̄ n̍",
+        "m": "m ḿ m̀ m m̂ m̌ m̄ m̍",
     }
 
     return LatnSystemConfig.from_simple_vowels(

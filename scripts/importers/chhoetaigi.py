@@ -2,9 +2,33 @@ from __future__ import annotations
 
 import csv
 import re
+import unicodedata
 from pathlib import Path
 
 from scripts.importers.base import ExternalEntry, ExternalImporter
+
+_REPLACE_MAP = {
+    "ⁿ̌g": "nňg",
+    "cho̤̍̍e": "cho̤̍eh",
+}
+
+_SYLLABLE_SPLIT_RE = re.compile(r"([ \-+/]+)")
+
+
+def _nfc(text: str) -> str:
+    return unicodedata.normalize("NFC", text)
+
+
+def _replace_syllables(text: str) -> str:
+    parts = _SYLLABLE_SPLIT_RE.split(text)
+    result = ""
+    for i, part in enumerate(parts):
+        if i % 2 == 0:
+            result += _REPLACE_MAP.get(part, part)
+        else:
+            result += part
+    return result
+
 
 _HAN_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff]+")
 
@@ -34,11 +58,16 @@ class ChhoeTaigiImporter(ExternalImporter):
             reader = csv.DictReader(f)
             for row in reader:
                 poj_raw = (row.get("PojUnicode") or "").strip()
+                kip_raw = (row.get("KipUnicode") or "").strip()
                 if _HAN_RE.search(_BRACKET_CONTENT_RE.sub("", poj_raw)):
                     print(f"Skipping row with Han in PojUnicode: {poj_raw}")
                     continue
-                poj_raw = _normalize_annotations(poj_raw)
-                kip_raw = _normalize_annotations((row.get("KipUnicode") or "").strip())
+                poj_raw = _replace_syllables(poj_raw)
+                poj_raw = _nfc(_normalize_annotations(poj_raw))
+
+                kip_raw = _replace_syllables(kip_raw)
+                kip_raw = _nfc(_normalize_annotations(kip_raw))
+
                 hanlo_poj = (row.get("HanLoTaibunPoj") or "").strip()
                 hanlo_kip = (row.get("HanLoTaibunKip") or "").strip()
                 hoa = (row.get("HoaBun") or "").strip()

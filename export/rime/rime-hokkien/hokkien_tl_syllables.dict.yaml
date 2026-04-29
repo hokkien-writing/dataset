@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_tl_syllables
-version: "20260429.160403"
+version: "20260429.173027"
 sort: by_weight
 ...
 
@@ -218,6 +218,12 @@ bǒng	bong6	1
 bōng	bong7	1
 bongt	bongt4	1
 bo̍ngt	bongt8	1
+bor	bor1	1
+bór	bor2	1
+bòr	bor3	1
+bôr	bor5	1
+bǒr	bor6	1
+bōr	bor7	1
 bou	bou1	1
 bóu	bou2	1
 bòu	bou3	1
@@ -556,7 +562,7 @@ tshng	chhng1	1
 tshńg	chhng2	1
 tshǹg	chhng3	1
 tshn̂g	chhng5	1
-tshñg	chhng6	1
+tshňg	chhng6	1
 tshn̄g	chhng7	1
 tshngh	chhngh4	1
 tshn̍gh	chhngh8	1
@@ -578,6 +584,12 @@ tshǒng	chhong6	1
 tshōng	chhong7	1
 tshop	chhop4	1
 tsho̍p	chhop8	1
+tshor	chhor1	1
+tshór	chhor2	1
+tshòr	chhor3	1
+tshôr	chhor5	1
+tshǒr	chhor6	1
+tshōr	chhor7	1
 tshou	chhou1	1
 tshóu	chhou2	1
 tshòu	chhou3	1
@@ -650,6 +662,12 @@ tshùn	chhun3	1
 tshûn	chhun5	1
 tshǔn	chhun6	1
 tshūn	chhun7	1
+tshur	chhur1	1
+tshúr	chhur2	1
+tshùr	chhur3	1
+tshûr	chhur5	1
+tshǔr	chhur6	1
+tshūr	chhur7	1
 tshut	chhut4	1
 tshu̍t	chhut8	1
 tsi	chi1	1
@@ -788,7 +806,7 @@ tsng	chng1	1
 tsńg	chng2	1
 tsǹg	chng3	1
 tsn̂g	chng5	1
-tsñg	chng6	1
+tsňg	chng6	1
 tsn̄g	chng7	1
 tso	cho1	1
 tsó	cho2	1
@@ -818,6 +836,14 @@ tsòng	chong3	1
 tsông	chong5	1
 tsǒng	chong6	1
 tsōng	chong7	1
+tsor	chor1	1
+tsór	chor2	1
+tsòr	chor3	1
+tsôr	chor5	1
+tsǒr	chor6	1
+tsōr	chor7	1
+tsoreh	choreh4	1
+tsore̍h	choreh8	1
 tsou	chou1	1
 tsóu	chou2	1
 tsòu	chou3	1
@@ -886,6 +912,12 @@ tsùn	chun3	1
 tsûn	chun5	1
 tsǔn	chun6	1
 tsūn	chun7	1
+tsur	chur1	1
+tsúr	chur2	1
+tsùr	chur3	1
+tsûr	chur5	1
+tsǔr	chur6	1
+tsūr	chur7	1
 tsut	chut4	1
 tsu̍t	chut8	1
 e	e1	1
@@ -1140,6 +1172,18 @@ gùn	gun3	1
 gûn	gun5	1
 gǔn	gun6	1
 gūn	gun7	1
+gur	gur1	1
+gúr	gur2	1
+gùr	gur3	1
+gûr	gur5	1
+gǔr	gur6	1
+gūr	gur7	1
+gurn	gurn1	1
+gúrn	gurn2	1
+gùrn	gurn3	1
+gûrn	gurn5	1
+gǔrn	gurn6	1
+gūrn	gurn7	1
 gut	gut4	1
 gu̍t	gut8	1
 ha	ha1	1
@@ -1378,7 +1422,7 @@ hm	hm1	1
 hḿ	hm2	1
 hm̀	hm3	1
 hm̂	hm5	1
-hm̃	hm6	1
+hm̌	hm6	1
 hm̄	hm7	1
 hmh	hmh4	1
 hm̍h	hmh8	1
@@ -1386,7 +1430,7 @@ hng	hng1	1
 hńg	hng2	1
 hǹg	hng3	1
 hn̂g	hng5	1
-hñg	hng6	1
+hňg	hng6	1
 hn̄g	hng7	1
 hnog	hnog1	1
 hnóg	hnog2	1
@@ -1446,6 +1490,18 @@ hoǒo	hooo6	1
 hoōo	hooo7	1
 hop	hop4	1
 ho̍p	hop8	1
+hor	hor1	1
+hór	hor2	1
+hòr	hor3	1
+hôr	hor5	1
+hǒr	hor6	1
+hōr	hor7	1
+hore	hore1	1
+horé	hore2	1
+horè	hore3	1
+horê	hore5	1
+horě	hore6	1
+horē	hore7	1
 hou	hou1	1
 hóu	hou2	1
 hòu	hou3	1
@@ -1516,6 +1572,12 @@ hùn	hun3	1
 hûn	hun5	1
 hǔn	hun6	1
 hūn	hun7	1
+hur	hur1	1
+húr	hur2	1
+hùr	hur3	1
+hûr	hur5	1
+hǔr	hur6	1
+hūr	hur7	1
 hut	hut4	1
 hu̍t	hut8	1
 i	i1	1
@@ -1632,6 +1694,12 @@ iǒⁿ	ionn6	1
 iōⁿ	ionn7	1
 iooh	iooh4	1
 io̍oh	iooh8	1
+ior	ior1	1
+iór	ior2	1
+iòr	ior3	1
+iôr	ior5	1
+iǒr	ior6	1
+iōr	ior7	1
 ip	ip4	1
 i̍p	ip8	1
 it	it4	1
@@ -2080,7 +2148,7 @@ khng	khng1	1
 khńg	khng2	1
 khǹg	khng3	1
 khn̂g	khng5	1
-khñg	khng6	1
+khňg	khng6	1
 khn̄g	khng7	1
 khngh	khngh4	1
 khn̍gh	khngh8	1
@@ -2126,6 +2194,12 @@ khǒⁿ	khonn6	1
 khōⁿ	khonn7	1
 khop	khop4	1
 kho̍p	khop8	1
+khor	khor1	1
+khór	khor2	1
+khòr	khor3	1
+khôr	khor5	1
+khǒr	khor6	1
+khōr	khor7	1
 khou	khou1	1
 khóu	khou2	1
 khòu	khou3	1
@@ -2186,6 +2260,12 @@ khùn	khun3	1
 khûn	khun5	1
 khǔn	khun6	1
 khūn	khun7	1
+khur	khur1	1
+khúr	khur2	1
+khùr	khur3	1
+khûr	khur5	1
+khǔr	khur6	1
+khūr	khur7	1
 khut	khut4	1
 khu̍t	khut8	1
 ki	ki1	1
@@ -2306,7 +2386,7 @@ kng	kng1	1
 kńg	kng2	1
 kǹg	kng3	1
 kn̂g	kng5	1
-kñg	kng6	1
+kňg	kng6	1
 kn̄g	kng7	1
 ko	ko1	1
 kó	ko2	1
@@ -2342,6 +2422,18 @@ kòⁿ	konn3	1
 kôⁿ	konn5	1
 kǒⁿ	konn6	1
 kōⁿ	konn7	1
+kor	kor1	1
+kór	kor2	1
+kòr	kor3	1
+kôr	kor5	1
+kǒr	kor6	1
+kōr	kor7	1
+kore	kore1	1
+koré	kore2	1
+korè	kore3	1
+korê	kore5	1
+korě	kore6	1
+korē	kore7	1
 kou	kou1	1
 kóu	kou2	1
 kòu	kou3	1
@@ -2412,6 +2504,24 @@ kùn	kun3	1
 kûn	kun5	1
 kǔn	kun6	1
 kūn	kun7	1
+kur	kur1	1
+kúr	kur2	1
+kùr	kur3	1
+kûr	kur5	1
+kǔr	kur6	1
+kūr	kur7	1
+kuriⁿ	kurinn1	1
+kúriⁿ	kurinn2	1
+kùriⁿ	kurinn3	1
+kûriⁿ	kurinn5	1
+kǔriⁿ	kurinn6	1
+kūriⁿ	kurinn7	1
+kurn	kurn1	1
+kúrn	kurn2	1
+kùrn	kurn3	1
+kûrn	kurn5	1
+kǔrn	kurn6	1
+kūrn	kurn7	1
 kut	kut4	1
 ku̍t	kut8	1
 la	la1	1
@@ -2624,6 +2734,12 @@ lookiǎⁿ	lookiann6	1
 lookiāⁿ	lookiann7	1
 lop	lop4	1
 lo̍p	lop8	1
+lore	lore1	1
+loré	lore2	1
+lorè	lore3	1
+lorê	lore5	1
+lorě	lore6	1
+lorē	lore7	1
 lou	lou1	1
 lóu	lou2	1
 lòu	lou3	1
@@ -2674,13 +2790,19 @@ lùn	lun3	1
 lûn	lun5	1
 lǔn	lun6	1
 lūn	lun7	1
+lur	lur1	1
+lúr	lur2	1
+lùr	lur3	1
+lûr	lur5	1
+lǔr	lur6	1
+lūr	lur7	1
 lut	lut4	1
 lu̍t	lut8	1
 m	m1	1
 ḿ	m2	1
 m̀	m3	1
 m̂	m5	1
-m̃	m6	1
+m̌	m6	1
 m̄	m7	1
 ma	ma1	1
 má	ma2	1
@@ -2758,7 +2880,7 @@ mng	mng1	1
 mńg	mng2	1
 mǹg	mng3	1
 mn̂g	mng5	1
-mñg	mng6	1
+mňg	mng6	1
 mn̄g	mng7	1
 mngh	mngh4	1
 mn̍gh	mngh8	1
@@ -2868,7 +2990,7 @@ ng	ng1	1
 ńg	ng2	1
 ǹg	ng3	1
 n̂g	ng5	1
-ñg	ng6	1
+ňg	ng6	1
 n̄g	ng7	1
 nga	nga1	1
 ngá	nga2	1
@@ -2994,7 +3116,7 @@ nng	nng1	1
 nńg	nng2	1
 nǹg	nng3	1
 nn̂g	nng5	1
-nñg	nng6	1
+nňg	nng6	1
 nn̄g	nng7	1
 no	no1	1
 nó	no2	1
@@ -3102,6 +3224,12 @@ oⁿ	onn1	1
 ōⁿ	onn7	1
 op	op4	1
 o̍p	op8	1
+or	or1	1
+ór	or2	1
+òr	or3	1
+ôr	or5	1
+ǒr	or6	1
+ōr	or7	1
 ou	ou1	1
 óu	ou2	1
 òu	ou3	1
@@ -3328,7 +3456,7 @@ phng	phng1	1
 phńg	phng2	1
 phǹg	phng3	1
 phn̂g	phng5	1
-phñg	phng6	1
+phňg	phng6	1
 phn̄g	phng7	1
 phngh	phngh4	1
 phn̍gh	phngh8	1
@@ -3354,6 +3482,12 @@ phòng	phong3	1
 phông	phong5	1
 phǒng	phong6	1
 phōng	phong7	1
+phor	phor1	1
+phór	phor2	1
+phòr	phor3	1
+phôr	phor5	1
+phǒr	phor6	1
+phōr	phor7	1
 phou	phou1	1
 phóu	phou2	1
 phòu	phou3	1
@@ -3478,7 +3612,7 @@ png	png1	1
 pńg	png2	1
 pǹg	png3	1
 pn̂g	png5	1
-pñg	png6	1
+pňg	png6	1
 pn̄g	png7	1
 po	po1	1
 pó	po2	1
@@ -3810,7 +3944,7 @@ sng	sng1	1
 sńg	sng2	1
 sǹg	sng3	1
 sn̂g	sng5	1
-sñg	sng6	1
+sňg	sng6	1
 sn̄g	sng7	1
 sngh	sngh4	1
 sn̍gh	sngh8	1
@@ -3850,6 +3984,12 @@ sǒng	song6	1
 sōng	song7	1
 sop	sop4	1
 so̍p	sop8	1
+sore	sore1	1
+soré	sore2	1
+sorè	sore3	1
+sorê	sore5	1
+sorě	sore6	1
+sorē	sore7	1
 sou	sou1	1
 sóu	sou2	1
 sòu	sou3	1
@@ -3912,6 +4052,12 @@ sùn	sun3	1
 sûn	sun5	1
 sǔn	sun6	1
 sūn	sun7	1
+sur	sur1	1
+súr	sur2	1
+sùr	sur3	1
+sûr	sur5	1
+sǔr	sur6	1
+sūr	sur7	1
 sut	sut4	1
 su̍t	sut8	1
 ta	ta1	1
@@ -4216,7 +4362,7 @@ thng	thng1	1
 thńg	thng2	1
 thǹg	thng3	1
 thn̂g	thng5	1
-thñg	thng6	1
+thňg	thng6	1
 thn̄g	thng7	1
 tho	tho1	1
 thó	tho2	1
@@ -4430,7 +4576,7 @@ tng	tng1	1
 tńg	tng2	1
 tǹg	tng3	1
 tn̂g	tng5	1
-tñg	tng6	1
+tňg	tng6	1
 tn̄g	tng7	1
 to	to1	1
 tó	to2	1
@@ -4454,6 +4600,12 @@ tòng	tong3	1
 tông	tong5	1
 tǒng	tong6	1
 tōng	tong7	1
+tor	tor1	1
+tór	tor2	1
+tòr	tor3	1
+tôr	tor5	1
+tǒr	tor6	1
+tōr	tor7	1
 tosat	tosat4	1
 tosa̍t	tosat8	1
 tou	tou1	1
@@ -4534,6 +4686,12 @@ tùn	tun3	1
 tûn	tun5	1
 tǔn	tun6	1
 tūn	tun7	1
+tur	tur1	1
+túr	tur2	1
+tùr	tur3	1
+tûr	tur5	1
+tǔr	tur6	1
+tūr	tur7	1
 tut	tut4	1
 tu̍t	tut8	1
 u	u1	1

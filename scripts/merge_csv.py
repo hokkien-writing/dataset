@@ -17,6 +17,7 @@ Columns: latn_norm, puj, dp, poj, tl, bp, han, han_variants, en, zh_CN, zh_TW, s
 import csv
 import re
 import sys
+import unicodedata
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -243,6 +244,17 @@ def main():
     if ext_files:
         # 如果中括號中沒有漢字，則連同中括號一起移除
         pattern = r"\[[^\[\]\u4e00-\u9fff]*\]"
+
+        # Fix: ⁿ̌ → nň (nasalization + tone 6 should be n + caron, not superscript n + caron)
+        _NNAI_G = re.compile(r"ⁿ̌([gm])")
+
+        def _fix_nasal_tone6(val: str) -> str:
+            if not val:
+                return val
+            # ⁿ̌g → nňg, ⁿ̌m → nňm
+            val = _NNAI_G.sub(r"nň\1", val)
+            return val
+
         for csv_file in ext_files:
             print(f"Reading external/{csv_file.name}...")
             with open(csv_file, encoding="utf-8") as f:
@@ -252,6 +264,8 @@ def main():
                     puj_val = (row.get("puj") or "").strip(":#-.")
                     poj_val = (row.get("poj") or "").strip(":#-.")
                     tl_val = (row.get("tl") or "").strip(":#-.")
+                    poj_val = _fix_nasal_tone6(poj_val)
+                    tl_val = _fix_nasal_tone6(tl_val)
                     dp_val = (row.get("dp") or "").strip(":#-.")
                     bp_val = (row.get("bp") or "").strip(":#-.")
                     han = (row.get("han") or "").strip(":#-")
@@ -308,6 +322,13 @@ def main():
         print(f"Loaded {sum(1 for r in rows)} total entries (incl. external)")
 
     rows.sort(key=lambda r: r["latn_norm"])
+
+    latn_fields = {"latn_norm", "puj", "dp", "poj", "tl", "bp"}
+    for row in rows:
+        for k in latn_fields:
+            v = row.get(k, "")
+            if v:
+                row[k] = unicodedata.normalize("NFC", v)
 
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)

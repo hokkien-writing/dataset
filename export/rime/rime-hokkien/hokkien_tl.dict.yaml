@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_tl
-version: "20260429.160403"
+version: "20260429.173027"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -1357,7 +1357,7 @@ bih-luh	bih4 luh4	99
 bih-luh-tóu	bih4 luh4 tou2	99
 bih-miâ	bih4 mia5	99
 bih-saⁿ-tshē	bih4 sann1 chhe7	99
-bih-saⁿ-tshō̤1	bih4 sann1 chhō̤1	99
+bih-saⁿ-tshōr	bih4 sann1 chhor7	99
 bih-sio-tshuē	bih4 sio1 chhue7	199
 bih-sio-tshē	bih4 sio1 chhe7	99
 bih-si̍t-hiā	bih4 sit8 hia7	99
@@ -3306,6 +3306,7 @@ bóng-tōu-tsia̍h	bong2 tou7 chiah8	99
 bóng-ua̍h	bong2 uah8	99
 bóng-ue bóng-kè	bong2 ue1 bong2 ke3	99
 bóng-ó	bong2 o2	99
+bór-kháu	bor2 khau2	99
 bóu-bóu	bou2 bou2	99
 bóu-bóu-lâng	bou2 bou2 lang5	99
 bóu-eng-tan-hue	bou2 eng1 tan1 hue1	99
@@ -3335,7 +3336,6 @@ bóu-thâu-tshin	bou2 thau5 chhin1	299
 bóu-tuā-tsí	bou2 tua7 chi2	99
 bóu-tuā-î	bou2 tua7 i5	99
 bóu-á	bou2 a2	99
-bó̤1-kháu	bó̤1 khau2	99
 bô -uan-bô-ke  put sêng hu-tshe	bo5  uan1 bo5 ke1  put4 seng5 hu1 chhe1	99
 bô bí kiam jūn-ge̍h	bo5 bi2 kiam1 jun7 geh8	99
 bô bí kiam jūn-gue̍h	bo5 bi2 kiam1 jun7 gueh8	99
@@ -4110,6 +4110,8 @@ bông-tséng-hōu	bong5 cheng2 hou7	299
 bông-tsêng	bong5 cheng5	99
 bông-tsông-úi-uân-huē	bong5 chong5 ui2 uan5 hue7	99
 bông-un	bong5 un1	99
+bôr-kuan-hē	bor5 kuan1 he7	99
+bôr-á-kín	bor5 a2 kin2	99
 bôu-bôu	bou5 bou5	99
 bôu-bīn	bou5 bin7	99
 bôu-ge̍k	bou5 gek8	99
@@ -4143,8 +4145,6 @@ bôu-tsou	bou5 chou1	199
 bôu-tsâi hāi-bēng	bou5 chai5 hai7 beng7	99
 bôu-tsâi-hāi-bēng	bou5 chai5 hai7 beng7	99
 bôu-á	bou5 a2	99
-bô̤1-kuan-hē	bô̤1 kuan1 he7	99
-bô̤1-á-kín	bô̤1 a2 kin2	99
 bùn-bùn	bun3 bun3	99
 bùn-pho	bun3 pho1	99
 bùn-pōng-khang	bun3 pong7 khang1	199
@@ -4606,7 +4606,7 @@ bā-hio̍h phi sian	ba7 hioh8 phi1 sian1	99
 bā-hio̍h-si̍t	ba7 hioh8 sit8	199
 bā-hio̍h-tshì	ba7 hioh8 chhi3	99
 bā-khang	ba7 khang1	99
-bā-ko̤e-á	ba7 ko̤e1 a2	99
+bā-kore-á	ba7 kore1 a2	99
 bā-sngh-sngh	ba7 sngh4 sngh4	199
 bā-tah bā-tah	ba7 tah4 ba7 tah4	99
 bā-thâu-lōu	ba7 thau5 lou7	499
@@ -5222,6 +5222,7 @@ bīn-tshàu-tshàu	bin7 chhau3 chhau3	199
 bīn-tshì	bin7 chhi3	99
 bīn-tsiūⁿ	bin7 chiunn7	99
 bīn-tsu	bin7 chu1	99
+bīn-tsur	bin7 chur1	99
 bīn-tsuá	bin7 chua2	199
 bīn-tsêng	bin7 cheng5	399
 bīn-tsêng-khiā	bin7 cheng5 khia7	299
@@ -5231,7 +5232,6 @@ bīn-tsô	bin7 cho5	99
 bīn-tsú	bin7 chu2	199
 bīn-tsúi	bin7 chui2	799
 bīn-tsúi bái	bin7 chui2 bai2	99
-bīn-tsṳ1	bin7 chṳ1	99
 bīn-tà	bin7 ta3	299
 bīn-té-phuê	bin7 te2 phue5	99
 bīn-téng	bin7 teng2	499
@@ -6254,7 +6254,7 @@ giân-gí	gian5 gi2	499
 giân-gú	gian5 gu2	299
 giân-gú-ha̍k	gian5 gu2 hak8	99
 giân-gú-thong	gian5 gu2 thong1	99
-giân-gṳ́1	gian5 gṳ́1	99
+giân-gúr	gian5 gur2	99
 giân-hêng	gian5 heng5	299
 giân-hêng-lio̍k	gian5 heng5 liok8	99
 giân-hêng-tuān	gian5 heng5 tuan7	99
@@ -6349,11 +6349,11 @@ giām-tsèng	giam7 cheng3	199
 giām-tuaⁿ	giam7 tuann1	99
 gi̍p-bī	gip8 bi7	99
 gi̍p-gi̍p-khó-gûi	gip8 gip8 kho2 gui5	99
+gor̍̍h-kiû	gor̍̍h4 kiu5	99
 gou-kia̍t-thâu	gou1 kiat8 thau5	99
 go̍k-bé	gok8 be2	99
 go̍k-hî	gok8 hi5	99
 go̍k-hî-teng	gok8 hi5 teng1	99
-go̤̍̍h-kiû	go̤̍̍h4 kiu5	99
 gua̍n-biáu	guan8 biau2	99
 gua̍n-bêng	guan8 beng5	99
 gua̍n-bí	guan8 bi2	99
@@ -7450,6 +7450,7 @@ gún ē-hiáu liām	gun2 e7 hiau2 liam7	99
 gún-tau	gun2 tau1	399
 gún-tshù	gun2 chhu3	99
 gún-tāi-ke	gun2 tai7 ke1	99
+gúr-giân	gur2 gian5	99
 gû siaⁿ bé háu	gu5 siann1 be2 hau2	99
 gû siaⁿ bé âu	gu5 siann1 be2 au5	99
 gû--tsiá tsian-lū pit-iú it-tek	gu5  chia2 chian1 lu7 pit4 iu2 it4 tek4	99
@@ -7838,6 +7839,7 @@ gûn-tī	gun5 ti7	99
 gûn-á	gun5 a2	99
 gûn-á-thâu	gun5 a2 thau5	99
 gûn-âng	gun5 ang5	99
+gûrn-hô	gurn5 ho5	99
 gāi-ba̍k	gai7 bak8	499
 gāi-ge̍k	gai7 gek8	299
 gāi-gio̍h	gai7 gioh8	1199
@@ -8292,8 +8294,6 @@ gūi-tiâu	gui7 tiau5	99
 gūi-tsong	gui7 chong1	99
 gūi-tsèng	gui7 cheng3	199
 gūi-tsō	gui7 cho7	299
-gṳ́1-giân	gṳ́1 gian5	99
-gṳ̂n-hô	gṳ̂n1 ho5	99
 ha--louh	ha1  louh4	99
 ha-ha	ha1 ha1	99
 ha-ha-kiàⁿ	ha1 ha1 kiann3	99
@@ -10322,14 +10322,14 @@ hok-ín	hok4 in2	99
 hok-ín-kuàn	hok4 in2 kuan3	99
 hong huê-huê	hong1 hue5 hue5	99
 hong hê-hê	hong1 he5 he5	99
-hong hô̤1-hô̤1	hong1 hô̤1 hô̤1	99
+hong hôr-hôr	hong1 hor5 hor5	99
 hong khah bô hiah thàu	hong1 khah4 bo5 hiah4 thau3	99
 hong khah huê	hong1 khah4 hue5	99
 hong khah hê	hong1 khah4 he5	99
-hong khah hô̤1	hong1 khah4 hô̤1	99
+hong khah hôr	hong1 khah4 hor5	99
+hong khah sorè-káng	hong1 khah4 sore3 kang2	99
 hong khah suè-káng	hong1 khah4 sue3 kang2	99
 hong khah sè-káng	hong1 khah4 se3 kang2	99
-hong khah sò̤e-káng	hong1 khah4 sò̤e1 kang2	99
 hong khah tiām	hong1 khah4 tiam7	99
 hong piàn núi	hong1 pian3 nui2	99
 hong piàn nńg	hong1 pian3 nng2	99
@@ -11277,7 +11277,7 @@ huan-kéng	huan4 keng2	199
 huan-kí	huan4 ki2	99
 huan-kó	huan4 ko2	99
 huan-kó-á	huan1 ko2 a2	99
-huan-kó̤1	huan4 kó̤1	99
+huan-kór	huan4 kor2	99
 huan-kông	huan4 kong5	399
 huan-kū-tshâ-tsau	huan1 ku7 chha5 chau1	99
 huan-la̍t	huan4 lat8	99
@@ -11579,9 +11579,9 @@ huan-ôu-tia̍p	huan1 ou5 tiap8	199
 huan-ûi	huan4 ui5	99
 huan-īⁿ	huan4 inn7	299
 huan-ōu	huan1 ou7	199
-huang hô̤1-hô̤1	huang1 hô̤1 hô̤1	99
+huang hôr-hôr	huang1 hor5 hor5	99
 huang khah bô hiah thàu	huang1 khah4 bo5 hiah4 thau3	99
-huang khah hô̤1	huang1 khah4 hô̤1	99
+huang khah hôr	huang1 khah4 hor5	99
 huang khah suè-káng	huang1 khah4 sue3 kang2	99
 huang khah tiām	huang1 khah4 tiam7	99
 huang piàn nńg	huang1 pian3 nng2	99
@@ -12292,6 +12292,7 @@ hun-ûi	hun1 ui5	199
 hun-āu	hun1 au7	99
 hun-īⁿ	hun1 inn7	99
 hun-ūi	hun1 ui7	99
+hur-tsêng-ké-ì	hur1 cheng5 ke2 i3	99
 hut saⁿ uáⁿ-kong	hut4 sann1 uann2 kong1	99
 hut--lo̍h-khì	hut4  loh8 khi3	99
 hut--tó	hut4  to2	99
@@ -17597,10 +17598,8 @@ hūn-tsú	hun7 chu2	99
 hūn-tó	hun7 to2	399
 hūn-tūn	hun7 tun7	399
 hūn-ûi-it-tâm	hun7 ui5 it4 tam5	99
-hǎu-hiǎ	hǎu1 hǐa1	99
-hǎu-hǐa	hǎu1 hǐa1	98
+hǎu-hiǎ	hau6 hia6	99
 hḿ-hḿ	hm2 hm2	99
-hṳ1-tsêng-ké-ì	hṳ1 cheng5 ke2 i3	99
 i bô-kiù--ah	i1 bo5 kiu3  ah4	99
 i ê	i1 e5	99
 i-a	i1 a1	99
@@ -17910,9 +17909,9 @@ iau-kuâⁿ-gō	iau1 kuann5 go7	199
 iau-kuè-ki	iau1 kue3 ki1	99
 iau-káu	iau1 kau2	99
 iau-kúi	iau1 kui2	299
+iau-kúi ké sorè-lī	iau1 kui2 ke2 sore3 li7	99
 iau-kúi ké suè-lī	iau1 kui2 ke2 sue3 li7	99
 iau-kúi ké sè-jī	iau1 kui2 ke2 se3 ji7	199
-iau-kúi ké sò̤e-lī	iau1 kui2 ke2 sò̤e1 li7	99
 iau-kúi-kúi	iau1 kui2 kui2	99
 iau-kúi-thih	iau1 kui2 thih4	99
 iau-kúi-tshùi	iau1 kui2 chhui3	99
@@ -21938,9 +21937,9 @@ jīn-tông	jin7 tong5	99
 jīn-tēng	jin7 teng7	99
 jīn-ûi	jin7 ui5	99
 jĭn-jín	jĭn1 jin2	99
-jı̍t4-sin-gua̍n-ī	jı̍t4 sin1 guan8 i7	99
-jı̍t4-sòu	jı̍t4 sou3	99
-jı̍t4-thâu-ko	jı̍t4 thau5 ko1	99
+jı̍t1-sin-gua̍n-ī	jı̍t4 sin1 guan8 i7	99
+jı̍t1-sòu	jı̍t4 sou3	99
+jı̍t1-thâu-ko	jı̍t4 thau5 ko1	99
 jū-miâ	ju7 mia5	99
 jū-sī	ju7 si7	99
 jū-tsat	ju7 chat4	99
@@ -22183,7 +22182,7 @@ ka-lāi bô niau  niáu-tshí ē khiau-kha	ka1 lai7 bo5 niau1  niau2 chhi2 e7 kh
 ka-lē	ka1 le7	99
 ka-lēng	ka1 leng7	499
 ka-lēng sūn piān khang	ka1 leng7 sun7 pian7 khang1	99
-ka-lǐng	ka1 lǐng1	99
+ka-lǐng	ka1 ling6	99
 ka-mn̂g	ka1 mng5	99
 ka-ngâu	ka1 ngau5	199
 ka-ngóu	ka1 ngou2	99
@@ -22594,7 +22593,7 @@ kak-thn̂g	kak4 thng5	199
 kak-thâu	kak4 thau5	999
 kak-thâu-tsio̍h	kak4 thau5 chioh8	99
 kak-tiⁿ	kak4 tinn1	99
-kak-to̤̍̍h	kak4 to̤̍̍h4	99
+kak-tor̍̍h	kak4 tor̍̍h4	99
 kak-tsang	kak4 chang1	299
 kak-tshia	kak4 chhia1	199
 kak-tshài	kak4 chhai3	299
@@ -22833,7 +22832,7 @@ kan-ta-kàu	kan1 ta1 kau3	99
 kan-ta-sī	kan1 ta1 si7	99
 kan-ta-tshun	kan1 ta1 chhun1	99
 kan-ta-ū	kan1 ta1 u7	99
-kan-tan-tsṳ̂1	kan1 tan1 chṳ̂1	99
+kan-tan-tsûr	kan1 tan1 chur5	99
 kan-taⁿ ē-tàng	kan1 tann1 e7 tang3	99
 kan-taⁿ-ū	kan1 tann1 u7	99
 kan-thai	kan1 thai1	199
@@ -23764,7 +23763,7 @@ keh-á	keh4 a2	899
 keh-á-hî	keh4 a2 hi5	99
 keh-á-kué	keh4 a2 kue2	99
 keh-á-ké	keh4 a2 ke2	99
-keh-á-kó̤1	keh4 a2 kó̤1	99
+keh-á-kór	keh4 a2 kor2	99
 keh-á-phòng-piáⁿ	keh4 a2 phong3 piann2	99
 keh-á-piáⁿ	keh4 a2 piann2	199
 keh-á-tsuá	keh4 a2 chua2	299
@@ -26434,6 +26433,7 @@ khong-tāi	khong1 tai7	99
 khong-á-liâu	khong1 a2 liau5	99
 khong-ūn	khong1 un7	199
 khop-pih	khop4 pih4	99
+khor-tshiú	khor1 chhiu2	99
 khou tshùi-am	khou1 chhui3 am1	99
 khou îⁿ-khou-á	khou1 inn5 khou1 a2	99
 khou--khí-lâi	khou1  khi2 lai5	99
@@ -26554,7 +26554,6 @@ kho̍k-á-hî	khok8 a2 hi5	99
 kho̍k-á-pán	khok8 a2 pan2	99
 kho̍k-á-thâu	khok8 a2 thau5	99
 kho̍k-á-thûi	khok8 a2 thui5	99
-kho̤-tshiú	kho̤1 chhiu2	99
 khu hián-tì	khu1 hian2 ti3	99
 khu-ah	khu1 ah4	199
 khu-báng	khu1 bang2	99
@@ -28966,9 +28965,9 @@ khô-tè-tè	kho5 te3 te3	99
 không-không	khong5 khong5	99
 không-kuh-lih	khong5 kuh4 lih4	99
 không-á-liâu	khong5 a2 liau5	99
+khôr-kha	khor5 kha1	99
 khôu--lâng	khou5  lang5	99
 khôu-khôu	khou5 khou5	99
-khô̤1-kha	khô̤1 kha1	99
 khù-khù	khu3 khu3	99
 khù-khù-sàu	khu3 khu3 sau3	199
 khù-liáu-liáu	khu3 liau2 liau2	99
@@ -32834,6 +32833,11 @@ kong-î	kong1 i5	99
 kong-ú	kong1 u2	99
 kong-ún	kong1 un2	99
 kong-ēng	kong1 eng7	99
+kore-he̍k	kore1 hek8	99
+kore-iû-ku	kore1 iu5 ku1	99
+kore-lang-phang	kore1 lang1 phang1	99
+kore-nňg	kore1 nng6	99
+kore-sái-phang	kore1 sai2 phang1	99
 kou hâng to̍k tshī	kou1 hang5 tok8 chhi7	199
 kou tsín-hú	kou1 chin2 hu2	99
 kou-ai-tsú	kou1 ai1 chu2	99
@@ -32911,7 +32915,7 @@ kou-môu-tse̍h-tséng	kou1 mou5 cheh8 cheng2	99
 kou-niû	kou1 niu5	399
 kou-niû-hue	kou1 niu5 hue1	99
 kou-nóu	kou1 nou2	99
-kou-nóu-sṳ̂1	kou1 nou2 sṳ̂1	99
+kou-nóu-sûr	kou1 nou2 sur5	99
 kou-n̂g	kou1 ng5	399
 kou-n̂g-niau	kou1 ng5 niau1	99
 kou-ok-tsiáu	kou1 ok4 chiau2	99
@@ -33143,11 +33147,6 @@ koāiⁿ-tio̍h	koainn7 tioh8	99
 koāiⁿ-tsn̄g	koainn7 chng7	99
 koāiⁿ-tsì	koainn7 chi3	99
 ko̍k-huan	kok8 huan4	99
-ko̤e-he̍k	ko̤e1 hek8	99
-ko̤e-iû-ku	ko̤e1 iu5 ku1	99
-ko̤e-lang-phang	ko̤e1 lang1 phang1	99
-ko̤e-nňg	ko̤e1 nňg1	99
-ko̤e-sái-phang	ko̤e1 sai2 phang1	99
 ku tshiò pih bô bué	ku1 chhio3 pih4 bo5 bue2	199
 ku tsài-tsuâ	ku1 chai3 chua5	99
 ku-bé-phàu	ku1 be2 phau3	99
@@ -33189,7 +33188,7 @@ ku-kué	ku1 kue2	99
 ku-kàm	ku1 kam3	99
 ku-ké	ku1 ke2	199
 ku-kòu	ku1 kou3	99
-ku-kó̤1	ku1 kó̤1	99
+ku-kór	ku1 kor2	99
 ku-liû-tuē	ku1 liu5 tue7	99
 ku-li̍h	ku1 lih8	99
 ku-lo-pih-sô	ku1 lo1 pih4 so5	299
@@ -33880,7 +33879,7 @@ kue-nn̄g-peng	kue1 nng7 peng1	99
 kue-nn̄g-tê	kue1 nng7 te5	99
 kue-nuā	kue1 nua7	99
 kue-nuā-á	kue1 nua7 a2	99
-kue-nňg	kue1 nňg1	99
+kue-nňg	kue1 nng6	99
 kue-nūi	kue1 nui7	99
 kue-pa	kue1 pa1	99
 kue-pak	kue1 pak4	199
@@ -37762,6 +37761,7 @@ kòng-uân	kong3 uan5	199
 kòng-á	kong3 a2	199
 kòng-ông	kong3 ong5	99
 kòng-īⁿ	kong3 inn7	99
+kòr-tsiâⁿ	kor3 chiann5	99
 kòu bōng	kou3 bong7	99
 kòu--tit	kou3  tit4	99
 kòu-biō	kou3 bio7	99
@@ -37862,7 +37862,6 @@ kòu-uân	kou3 uan5	399
 kòu-ài	kou3 ai3	299
 kòu-ì	kou3 i3	399
 kòu-āu	kou3 au7	99
-kò̤1-tsiâⁿ	kò̤1 chiann5	99
 kó-gī-āu-pó	ko2 gi7 au7 po2	99
 kó-huāⁿ	ko2 huann7	99
 kó-hùi	ko2 hui3	199
@@ -38053,6 +38052,18 @@ kóng-á-tsí	kong2 a2 chi2	99
 kóng-á-tāu	kong2 a2 tau7	199
 kóng-êng-á-uē	kong2 eng5 a2 ue7	99
 kóng-ē-lâi	kong2 e7 lai5	99
+kór-hn̂g	kor2 hng5	99
+kór-lōu	kor2 lou7	299
+kór-tsap	kor2 chap4	99
+kór-tsí-bah	kor2 chi2 bah4	99
+kór-tsí-hn̂g	kor2 chi2 hng5	99
+kór-tsí-ko	kor2 chi2 ko1	99
+kór-tsí-phôr	kor2 chi2 phor5	99
+kór-tsí-the̍h	kor2 chi2 theh8	99
+kór-tsí-tsap	kor2 chi2 chap4	99
+kór-tsí-tshiū	kor2 chi2 chhiu7	99
+kór-tsí-tsiùⁿ	kor2 chi2 chiunn3	99
+kór-tsí-tsâng	kor2 chi2 chang5	99
 kóu tiān-uē	kou2 tian7 ue7	99
 kóu-biō	kou2 bio7	99
 kóu-bo̍k	kou2 bok8	99
@@ -38268,18 +38279,6 @@ kóu-ì-lâng	kou2 i3 lang5	99
 kóu-í	kou2 i2	199
 kóu-í-á	kou2 i2 a2	99
 kóu-ūi	kou2 ui7	99
-kó̤1-hn̂g	kó̤1 hng5	99
-kó̤1-lōu	kó̤1 lou7	299
-kó̤1-tsap	kó̤1 chap4	99
-kó̤1-tsí-bah	kó̤1 chi2 bah4	99
-kó̤1-tsí-hn̂g	kó̤1 chi2 hng5	99
-kó̤1-tsí-ko	kó̤1 chi2 ko1	99
-kó̤1-tsí-phô̤1	kó̤1 chi2 phô̤1	99
-kó̤1-tsí-the̍h	kó̤1 chi2 theh8	99
-kó̤1-tsí-tsap	kó̤1 chi2 chap4	99
-kó̤1-tsí-tshiū	kó̤1 chi2 chhiu7	99
-kó̤1-tsí-tsiùⁿ	kó̤1 chi2 chiunn3	99
-kó̤1-tsí-tsâng	kó̤1 chi2 chang5	99
 kô-gâi	ko5 gai5	99
 kô-hî	ko5 hi5	99
 kô-khia̍t	ko5 khiat8	99
@@ -38695,6 +38694,7 @@ kún-tsúi-suaⁿ	kun2 chui2 suann1	99
 kún-tsūn	kun2 chun7	199
 kún-tuē-lêng	kun2 tue7 leng5	99
 kún-á	kun2 a2	299
+kúriⁿ-iūⁿ	kurinn2 iunn7	99
 kû-be̍h	ku5 beh8	99
 kû-kang	ku5 kang1	99
 kû-tsiu	ku5 chiu1	99
@@ -39401,6 +39401,7 @@ kūn-uá	kun7 ua2	199
 kūn-uē-peng	kun7 ue7 peng1	99
 kūn-uē-su-thuân	kun7 ue7 su1 thuan5	99
 kūn-ông	kun7 ong5	99
+kūr-horē-tsō	kur7 hore7 cho7	99
 kǹg--kuè	kng3  kue3	99
 kǹg-bah-kiû	kng3 bah4 kiu5	99
 kǹg-bāng	kng3 bang7	99
@@ -39450,8 +39451,6 @@ kǹg-tuaⁿ	kng3 tuann1	99
 kǹg-tué-tsî	kng3 tue2 chi5	99
 kǹg-tē	kng3 te7	99
 kǹg-á	kng3 a2	199
-kṳ́iⁿ-iūⁿ	kṳ́inn1 iunn7	99
-kṳ̄1-hō̤e-tsō	kṳ̄1 hō̤e1 cho7	99
 la-hi	la1 hi1	99
 la-hi-la-hi	la1 hi1 la1 hi1	299
 la-huê	la1 hue5	99
@@ -40610,7 +40609,7 @@ liâm-tāu	liam5 tau7	99
 liâm-uá	liam5 ua2	199
 liâm-á	liam5 a2	199
 liâm-á-hî	liam5 a2 hi5	199
-liâm-á-hṳ̂1	liam5 a2 hṳ̂1	99
+liâm-á-hûr	liam5 a2 hur5	99
 liân tsiong	lian5 chiong1	99
 liân tsiàn	lian5 chian3	99
 liân-bua̍n	lian5 buan8	99
@@ -41601,7 +41600,7 @@ li̍t-gua̍n-ham	lit8 guan8 ham1	99
 li̍t-gua̍n-than	lit8 guan8 than1	99
 li̍t-gua̍n-thâm	lit8 guan8 tham5	199
 li̍t-gú	lit8 gu2	99
-li̍t-gṳ́1	lit8 gṳ́1	99
+li̍t-gúr	lit8 gur2	99
 li̍t-huè	lit8 hue3	99
 li̍t-iáⁿ	lit8 iann2	99
 li̍t-iā	lit8 ia7	199
@@ -44005,7 +44004,7 @@ lî-í	li5 i2	99
 lîm an-thài kóu-tshù bîn-sio̍k bûn-bu̍t-kuán	lim5 an1 thai3 kou2 chhu3 bin5 siok8 bun5 but8 kuan2	99
 lîm be̍k-liông kong-hn̂g	lim5 bek8 liong5 kong1 hng5	99
 lîm bān-ek	lim5 ban7 ek4	99
-lîm bı̍k4-niû	lim5 bı̍k4 niu5	99
+lîm bı̍k1-niû	lim5 bı̍k4 niu5	99
 lîm gú-tông kì-liām-kuán	lim5 gu2 tong5 ki3 liam7 kuan2	99
 lîm gī-hiông	lim5 gi7 hiong5	99
 lîm hiàn-tông	lim5 hian3 tong5	99
@@ -44305,7 +44304,7 @@ lóu-lue̍h-eng	lou2 lueh8 eng1	99
 lóu-lue̍h-eng-bō	lou2 lueh8 eng1 bo7	99
 lóu-mī	lou2 mi7	299
 lóu-nn̄g	lou2 nng7	299
-lóu-nňg	lou2 nňg1	99
+lóu-nňg	lou2 nng6	99
 lóu-nūi	lou2 nui7	99
 lóu-pan	lou2 pan1	99
 lóu-pan-kong	lou2 pan1 kong1	99
@@ -44913,8 +44912,8 @@ lā-ti-sái	la7 ti1 sai2	299
 lā-tshài	la7 chhai3	99
 lā-tsi̍h	la7 chih8	299
 lā-tu-sái	la7 tu1 sai2	99
+lā-tur-sái	la7 tur1 sai2	99
 lā-táu	la7 tau2	99
-lā-tṳ1-sái	la7 tṳ1 sai2	99
 lā-uē-thâu	la7 ue7 thau5	599
 lāi-bông-kóu	lai7 bong5 kou2	99
 lāi-bông-kóu tsū-tī-khu	lai7 bong5 kou2 chu7 ti7 khu1	99
@@ -46611,7 +46610,7 @@ má-lêng-tsî-tiâu	ma2 leng5 chi5 tiau5	99
 má-lêng-tsû	ma2 leng5 chu5	199
 má-lêng-tsû-se	ma2 leng5 chu5 se1	99
 má-lêng-tsû-te	ma2 leng5 chu5 te1	99
-má-lêng-tsṳ̂1	ma2 leng5 chṳ̂1	99
+má-lêng-tsûr	ma2 leng5 chur5	99
 má-lí-bu̍t	ma2 li2 but8	199
 má-lîng-tsî-piáⁿ	ma2 ling5 chi5 piann2	99
 má-lîng-tsî-te	ma2 ling5 chi5 te1	99
@@ -47013,8 +47012,8 @@ mī-hún-kué	mi7 hun2 kue2	99
 mī-hún-kué-á	mi7 hun2 kue2 a2	99
 mī-hún-ké	mi7 hun2 ke2	99
 mī-hún-ké-á	mi7 hun2 ke2 a2	99
-mī-hún-kó̤1	mi7 hun2 kó̤1	99
-mī-hún-kó̤1-á	mi7 hun2 kó̤1 a2	99
+mī-hún-kór	mi7 hun2 kor2	99
+mī-hún-kór-á	mi7 hun2 kor2 a2	99
 mī-hún-lōu	mi7 hun2 lou7	99
 mī-hún-pang	mi7 hun2 pang1	99
 mī-hún-thûi	mi7 hun2 thui5	99
@@ -47030,7 +47029,7 @@ mī-kuaⁿ	mi7 kuann1	199
 mī-kué	mi7 kue2	99
 mī-kâu	mi7 kau5	99
 mī-ké	mi7 ke2	199
-mī-kó̤1	mi7 kó̤1	99
+mī-kór	mi7 kor2	99
 mī-kôu	mi7 kou5	99
 mī-mī	mi7 mi7	99
 mī-pau	mi7 pau1	299
@@ -48977,7 +48976,7 @@ nōu-sì	nou7 si3	99
 nōu-tsheng	nou7 chheng1	99
 nūi-jîn	nui7 jin5	99
 nūi-piáⁿ	nui7 piann2	99
-nǎi-tsi-kak	nǎi1 chi1 kak4	99
+nǎi-tsi-kak	nai6 chi1 kak4	99
 nǹg kiō-kha	nng3 kio7 kha1	99
 nǹg phōng-khang--ê	nng3 phong7 khang1  e5	99
 nǹg-huan-lu̍t-phāng	nng3 huan4 lut8 phang7	99
@@ -49034,7 +49033,7 @@ n̂g-hî-kui	ng5 hi5 kui1	99
 n̂g-hû	ng5 hu5	99
 n̂g-io	ng5 io1	99
 n̂g-io-phang	ng5 io1 phang1	399
-n̂g-io̤-phang	ng5 io̤1 phang1	99
+n̂g-ior-phang	ng5 ior1 phang1	99
 n̂g-iông	ng5 iong5	99
 n̂g-iûⁿ	ng5 iunn5	199
 n̂g-kam	ng5 kam1	199
@@ -49365,6 +49364,7 @@ ong-su	ong1 su1	99
 ong-tiōng	ong1 tiong7	99
 oná-gua̍n-huē	ona2 guan8 hue7	99
 op-op	op4 op4	99
+or-kuà	or1 kua3	99
 ou hōu	ou1 hou7	99
 ou tsí-á tsháu	ou1 chi2 a2 chhau2	99
 ou-a	ou1 a1	599
@@ -49398,7 +49398,7 @@ ou-bé-tang	ou1 be2 tang1	199
 ou-bé-á	ou1 be2 a2	99
 ou-bí	ou1 bi2	99
 ou-bí-tāu	ou1 bi2 tau7	99
-ou-bó̤1-á	ou1 bó̤1 a2	99
+ou-bór-á	ou1 bor2 a2	99
 ou-bû-siông	ou1 bu5 siong5	99
 ou-bīn	ou1 bin7	99
 ou-bīn-bé	ou1 bin7 be2	299
@@ -49980,7 +49980,6 @@ o̍h-táu	oh8 tau2	99
 o̍h-uē	oh8 ue7	599
 o̍h-á	oh8 a2	499
 o̍h-á-sian	oh8 a2 sian1	99
-o̤-kuà	o̤1 kua3	99
 oⁿ-káu	onn1 kau2	199
 oⁿ-káu-á	onn1 kau2 a2	99
 oⁿ-oⁿ	onn1 onn1	99
@@ -51646,8 +51645,8 @@ phah-hêng	phah4 heng5	299
 phah-hì	phah4 hi3	99
 phah-hî-lân	phah4 hi5 lan5	99
 phah-hî-tsûn	phah4 hi5 chun5	99
+phah-hór-khì	phah4 hor2 khi3	99
 phah-hóu	phah4 hou2	99
-phah-hó̤1-khì	phah4 hó̤1 khi3	99
 phah-hôu-sîn	phah4 hou5 sin5	99
 phah-hù	phah4 hu3	99
 phah-hún	phah4 hun2	99
@@ -59238,7 +59237,7 @@ pūn-tshui-pūn-tsi̍h	pun7 chhui1 pun7 chih8	99
 pūn-téng	pun7 teng2	199
 pūn-á	pun7 a2	99
 pūn-á-ko	pun7 a2 ko1	99
-pǐⁿ1-ǐⁿ1	pǐnn1 ǐnn1	99
+pǐⁿ-ǐⁿ	pinn6 inn6	99
 re-gon-kiu	re1 gon1 kiu1	199
 sa bô tsáng	sa1 bo5 chang2	99
 sa-bi	sa1 bi1	99
@@ -59833,13 +59832,13 @@ sap-bûn-hì	sap4 bun5 hi3	99
 sap-bûn-hún	sap4 bun5 hun2	99
 sap-bûn-ko	sap4 bun5 ko1	99
 sap-bûn-pho	sap4 bun5 pho1	299
-sap-bûn-pho̤	sap4 bun5 pho̤1	299
+sap-bûn-phor	sap4 bun5 phor1	299
 sap-bûn-phue̍h	sap4 bun5 phueh8	299
 sap-bûn-tseng	sap4 bun5 cheng1	99
 sap-kián	sap4 kian2	99
 sap-mûi-phe̍h	sap4 mui5 pheh8	299
 sap-mûi-pho	sap4 mui5 pho1	299
-sap-mûi-pho̤̍̍h	sap4 mui5 pho̤̍̍h4	299
+sap-mûi-phor̍̍h	sap4 mui5 phor̍̍h4	299
 sap-pìn	sap4 pin3	99
 sap-sap	sap4 sap4	99
 sap-sap-á	sap4 sap4 a2	199
@@ -65151,13 +65150,13 @@ siōng-siâⁿ	siong7 siann5	99
 siōng-siōng	siong7 siong7	99
 siōng-siū	siong7 siu7	99
 siōng-su	siong7 su1	299
+siōng-sur	siong7 sur1	99
 siōng-sè	siong7 se3	99
 siōng-sòu	siong7 sou3	99
 siōng-súi	siong7 sui2	99
 siōng-sûn	siong7 sun5	99
 siōng-sīn	siong7 sin7	99
 siōng-sū	siong7 su7	99
-siōng-sṳ1	siong7 sṳ1	99
 siōng-ta̍t	siong7 tat8	99
 siōng-teng	siong7 teng1	99
 siōng-thian	siong7 thian1	99
@@ -65405,7 +65404,7 @@ si̍h-tshìn	sih8 chhin3	99
 si̍h-tshìn-thâu	sih8 chhin3 thau5	99
 si̍h-tsúi	sih8 chui2	299
 si̍h-tāng	sih8 tang7	199
-si̍h-tǎng	sih8 tǎng1	99
+si̍h-tǎng	sih8 tang6	99
 si̍p ku-pat-kiú	sip8 ku1 pat4 kiu2	99
 si̍p kīn-pêng	sip8 kin7 peng5	99
 si̍p tiōng-hun	sip8 tiong7 hun1	99
@@ -67071,6 +67070,7 @@ sun-tiong-san	sun1 tiong1 san1	99
 sun-tsin-jîn	sun1 chin1 jin5	99
 sun-á	sun1 a2	599
 sun-á-lê	sun1 a2 le5	99
+sur-keng	sur1 keng1	99
 sut thóu-tē	sut4 thou2 te7	99
 sut--tse	sut4  che1	99
 sut-ba̍k	sut4 bak8	499
@@ -68430,7 +68430,7 @@ sé-tsîⁿ	se2 chinn5	99
 sé-tsēng	se2 cheng7	199
 sé-uáⁿ	se2 uann2	99
 sé-á	se2 a2	299
-sé-ı̍k4-tseng	se2 ı̍k4 cheng1	99
+sé-ı̍k1-tseng	se2 ı̍k4 cheng1	99
 séng-gī-huē	seng2 gi7 hue7	99
 séng-gī-uân	seng2 gi7 uan5	99
 séng-gōu	seng2 gou7	99
@@ -69068,8 +69068,8 @@ sí-tshùi	si2 chhui3	399
 sí-tsiat	si2 chiat4	99
 sí-tsiong	si2 chiong1	199
 sí-tsiá	si2 chia2	199
+sí-tsor̍̍h hó-tsia̍h	si2 chor̍̍h4 ho2 chiah8	99
 sí-tsou	si2 chou1	99
-sí-tso̤̍̍h hó-tsia̍h	si2 cho̤̍̍h4 ho2 chiah8	99
 sí-tsu	si2 chu1	99
 sí-tsuáⁿ	si2 chuann2	199
 sí-tsuâ	si2 chua5	99
@@ -69847,6 +69847,7 @@ sùn-tso̍h-ji̍t	sun3 choh8 jit8	199
 sùn-tsûn-nî	sun3 chun5 ni5	99
 sùn-tè	sun3 te3	199
 sùn-ūi	sun3 ui7	99
+sùr-sur ngóu-keng	sur3 sur1 ngou2 keng1	99
 sú tiat	su2 tiat4	99
 sú-bi̍t-su	su2 bit8 su1	99
 sú-bí	su2 bi2	399
@@ -69962,6 +69963,7 @@ sún-thâu	sun2 thau5	299
 sún-tshài	sun2 chhai3	99
 sún-á	sun2 a2	199
 sún-ūi	sun2 ui7	99
+súr-kì	sur2 ki3	99
 sû-biō	su5 bio7	99
 sû-gôu	su5 gou5	99
 sû-jī-pêng	su5 ji7 peng5	99
@@ -70338,7 +70340,7 @@ sīⁿ-tsau	sinn7 chau1	99
 sīⁿ-tshài	sinn7 chhai3	199
 sīⁿ-tshài-thâu	sinn7 chhai3 thau5	99
 sīⁿ-tāu-iû	sinn7 tau7 iu5	99
-sı̍t4-sòu	sı̍t4 sou3	99
+sı̍t1-sòu	sı̍t4 sou3	99
 sńg po-lê-tsu-á	sng2 po1 le5 chu1 a2	99
 sńg tshiú-ki-á	sng2 chhiu2 ki1 a2	99
 sńg éng	sng2 eng2	99
@@ -70596,9 +70598,6 @@ sǹg-á-hue	sng3 a2 hue1	199
 sǹg-ân	sng3 an5	99
 sǹg-ām	sng3 am7	299
 sǹg-ē-hô	sng3 e7 ho5	199
-sṳ1-keng	sṳ1 keng1	99
-sṳ̀1-sṳ1 ngóu-keng	sṳ̀1 sṳ1 ngou2 keng1	99
-sṳ́1-kì	sṳ́1 ki3	99
 ta--khì	ta1  khi3	99
 ta--sí	ta1  si2	99
 ta-bué	ta1 bue2	99
@@ -74907,7 +74906,7 @@ thàn-tsia̍h-té	than3 chiah8 te2	99
 thàn-tsia̍h-ê	than3 chiah8 e5	99
 thàn-tsit-tsūn	than3 chit4 chun7	99
 thàn-tsá	than3 cha2	499
-thàn-tsí-tso̤eh	than3 chi2 cho̤eh4	99
+thàn-tsí-tsoreh	than3 chi2 choreh4	99
 thàn-tsîⁿ	than3 chinn5	299
 thàn-tsîⁿ hōu guá khai	than3 chinn5 hou7 gua2 khai1	99
 thàn-tsúi-tsia̍h to-bô	than3 chui2 chiah8 to1 bo5	99
@@ -75214,9 +75213,9 @@ thâu gông-gông	thau5 gong5 gong5	99
 thâu hun-hun náu tùn-tùn	thau5 hun1 hun1 nau2 tun3 tun3	99
 thâu it-téng lâng	thau5 it4 teng2 lang5	99
 thâu iô bué iô	thau5 io5 bue2 io5	99
+thâu lorê-lorê	thau5 lore5 lore5	99
 thâu luê-luê	thau5 lue5 lue5	99
 thâu lê-lê	thau5 le5 le5	199
-thâu lô̤e-lô̤e	thau5 lô̤e1 lô̤e1	99
 thâu sio hīⁿ jua̍h	thau5 sio1 hinn7 juah8	99
 thâu tsi̍t kang	thau5 chit8 kang1	99
 thâu--ko	thau5  ko1	199
@@ -78934,9 +78933,9 @@ tiān-hé-thiāu	tian7 he2 thiau7	99
 tiān-hé-thiāu-á	tian7 he2 thiau7 a2	99
 tiān-hì	tian7 hi3	99
 tiān-hî	tian7 hi5	99
+tiān-hór	tian7 hor2	99
+tiān-hór-hue	tian7 hor2 hue1	99
 tiān-hóu-iâ	tian7 hou2 ia5	199
-tiān-hó̤1	tian7 hó̤1	99
-tiān-hó̤1-hue	tian7 hó̤1 hue1	99
 tiān-hôu	tian7 hou5	99
 tiān-hùi	tian7 hui3	99
 tiān-hún	tian7 hun2	299
@@ -79110,6 +79109,8 @@ tiān-tsú-sóu	tian7 chu2 sou2	99
 tiān-tsú-tshìn	tian7 chu2 chhin3	99
 tiān-tsú-tsìⁿ-ko	tian7 chu2 chinn3 ko1	99
 tiān-tsúi-lôu	tian7 chui2 lou5	99
+tiān-tsúr-hun	tian7 chur2 hun1	99
+tiān-tsúr-khîm	tian7 chur2 khim5	99
 tiān-tsû	tian7 chu5	99
 tiān-tsû-ha̍k	tian7 chu5 hak8	99
 tiān-tsû-koài	tian7 chu5 koai3	199
@@ -79119,8 +79120,6 @@ tiān-tsû-tiûⁿ	tian7 chu5 tiunn5	99
 tiān-tsû-tsio̍h	tian7 chu5 chioh8	99
 tiān-tsûn	tian7 chun5	99
 tiān-tsǹg	tian7 chng3	99
-tiān-tsṳ́1-hun	tian7 chṳ́1 hun1	99
-tiān-tsṳ́1-khîm	tian7 chṳ́1 khim5	99
 tiān-tâi	tian7 tai5	199
 tiān-tâng	tian7 tang5	199
 tiān-tî	tian7 ti5	499
@@ -79464,7 +79463,7 @@ tiⁿ-kue	tinn1 kue1	399
 tiⁿ-kué	tinn1 kue2	199
 tiⁿ-ké	tinn1 ke2	299
 tiⁿ-ké-ku	tinn1 ke2 ku1	99
-tiⁿ-kó̤1	tinn1 kó̤1	99
+tiⁿ-kór	tinn1 kor2	99
 tiⁿ-kùi	tinn1 kui3	99
 tiⁿ-la̍t-tsí-nî	tinn1 lat8 chi2 ni5	99
 tiⁿ-liân-tsí-nî	tinn1 lian5 chi2 ni5	99
@@ -82374,10 +82373,10 @@ tshia-tshiú	chhia1 chhiu2	599
 tshia-tshiúⁿ	chhia1 chhiunn2	199
 tshia-tshn̂g	chhia1 chhng5	199
 tshia-tshu	chhia1 chhu1	499
+tshia-tshur	chhia1 chhur1	399
 tshia-tshâ	chhia1 chha5	99
 tshia-tshí	chhia1 chhi2	299
 tshia-tshí-phín	chhia1 chhi2 phin2	99
-tshia-tshṳ1	chhia1 chhṳ1	399
 tshia-tsiah	chhia1 chiah4	99
 tshia-tsiam	chhia1 chiam1	99
 tshia-tsiàn-pîⁿ	chhia1 chian3 pinn5	99
@@ -82541,7 +82540,7 @@ tshiah-theh-theh	chhiah4 theh4 theh4	99
 tshiah-thih	chhiah4 thih4	99
 tshiah-thio	chhiah4 thio1	99
 tshiah-thiāu	chhiah4 thiau7	99
-tshiah-thiǎu	chhiah4 thiǎu1	99
+tshiah-thiǎu	chhiah4 thiau6	99
 tshiah-thn̂g	chhiah4 thng5	299
 tshiah-thé	chhiah4 the2	99
 tshiah-thòu	chhiah4 thou3	199
@@ -87850,6 +87849,7 @@ tshúi-tshúi	chhui2 chhui2	99
 tshúi-tuān	chhui2 tuan7	99
 tshún-pūn	chhun2 pun7	299
 tshún-to̍k	chhun2 tok8	99
+tshúr-lúr-tsō	chhur2 lur2 cho7	99
 tshú‑khak‑ké	chhu2‑khak4‑ke2	99
 tshû-tshû	chhu5 chhu5	99
 tshûn pháiⁿ-sim	chhun5 phainn2 sim1	399
@@ -88018,7 +88018,7 @@ tshńg-kue-tsí	chhng2 kue1 chi2	199
 tshńg-uē-phāng	chhng2 ue7 phang7	99
 tshńg-á	chhng2 a2	199
 tshńg-á-hî	chhng2 a2 hi5	99
-tshō̤1-tsîⁿ	chhō̤1 chinn5	99
+tshōr-tsîⁿ	chhor7 chinn5	99
 tshū jiō	chhu7 jio7	99
 tshū liō	chhu7 lio7	99
 tshū phang-tsúi	chhu7 phang1 chui2	99
@@ -88051,7 +88051,6 @@ tshǹg-tshǹg	chhng3 chhng3	99
 tshǹg-á	chhng3 a2	199
 tshǹg-á-hî	chhng3 a2 hi5	199
 tshǹg-á-hî-kuaⁿ	chhng3 a2 hi5 kuann1	99
-tshṳ́1-lṳ́1-tsō	chhṳ́1 lṳ́1 cho7	99
 tsi-bai	chi1 bai1	499
 tsi-bai-mn̂g	chi1 bai1 mng5	99
 tsi-bai-tsúi	chi1 bai1 chui2	99
@@ -92166,6 +92165,7 @@ tsong-tsú	chong1 chu2	99
 tsong-tsû	chong1 chu5	99
 tsong-tì	chong1 ti3	199
 tsong-tē	chong1 te7	99
+tsore̍h-tôu	choreh8 tou5	99
 tsou--khí-lâi	chou1  khi2 lai5	99
 tsou-gia̍h	chou1 giah8	99
 tsou-gia̍p	chou1 giap8	99
@@ -92243,7 +92243,6 @@ tso̍k-tiúⁿ	chok8 tiunn2	199
 tso̍k-ti̍t	chok8 tit8	199
 tso̍k-tshin	chok8 chhin1	299
 tso̍k-è	chok8 e3	99
-tso̤̍̍e-tôu	cho̤̍̍e1 tou5	99
 tsu guân-tsiong	chu1 guan5 chiong1	99
 tsu it-kùi	chu1 it4 kui3	99
 tsu li̍p-lûn	chu1 lip8 lun5	99
@@ -96462,6 +96461,7 @@ tsún-tú-hó	chun2 tu2 ho2	199
 tsún-tú-suah	chun2 tu2 suah4	299
 tsún-tǹg	chun2 tng3	599
 tsún-û	chun2 u5	99
+tsúr-iû	chur2 iu5	99
 tsû-bó	chu5 bo2	99
 tsû-bóu	chu5 bou2	99
 tsû-bú	chu5 bu2	99
@@ -97012,7 +97012,7 @@ tsīⁿ-kiōng	chinn7 kiong7	99
 tsīⁿ-tshùi tsīⁿ-tsi̍h	chinn7 chhui3 chinn7 chih8	99
 tsīⁿ-tshùi-khou	chinn7 chhui3 khou1	99
 tsīⁿ-tsīⁿ	chinn7 chinn7	199
-tsı̍t4-bué-hî	chı̍t4 bue2 hi5	99
+tsı̍t1-bué-hî	chı̍t4 bue2 hi5	99
 tsńg-kah	chng2 kah4	199
 tsńg-kah-bâi	chng2 kah4 bai5	99
 tsńg-kah-hue	chng2 kah4 hue1	399
@@ -97414,6 +97414,9 @@ tsūn-tsang	chun7 chang1	99
 tsūn-tsi̍h	chun7 chih8	99
 tsūn-tsūn	chun7 chun7	99
 tsūn-á	chun7 a2	99
+tsūr-iû-kóng-tiûⁿ	chur7 iu5 kong2 tiunn5	99
+tsūr-sin lân pó	chur7 sin1 lan5 po2	99
+tsūr-tsōu-tshan	chur7 chou7 chhan1	99
 tsǹg hī	chng3 hi7	99
 tsǹg hīⁿ	chng3 hinn7	99
 tsǹg--tshut-lâi	chng3  chhut4 lai5	99
@@ -97437,10 +97440,6 @@ tsǹg-tsúi-théng	chng3 chui2 theng2	199
 tsǹg-tsǹg	chng3 chng3	99
 tsǹg-tuē-hong	chng3 tue7 hong1	99
 tsǹg-á	chng3 a2	399
-tsṳ́1-iû	chṳ́1 iu5	99
-tsṳ̄1-iû-kóng-tiûⁿ	chṳ̄1 iu5 kong2 tiunn5	99
-tsṳ̄1-sin lân pó	chṳ̄1 sin1 lan5 po2	99
-tsṳ̄1-tsōu-tshan	chṳ̄1 chou7 chhan1	99
 tthian-têng	tthian1 teng5	99
 ttoā-hio̍h kàu la̍t	ttoa7 hioh8 kau3 lat8	99
 ttò-tshiú-á-oaiⁿ	tto3 chhiu2 a2 oainn1	99
@@ -97606,7 +97605,7 @@ tuaⁿ-ūi	tuann1 ui7	99
 tuh-bîn	tuh4 bin5	99
 tuh-ka-tsuē	tuh4 ka1 chue7	99
 tuh-ka-tsē	tuh4 ka1 che7	199
-tuh-ka-tsō̤1	tuh4 ka1 chō̤1	99
+tuh-ka-tsōr	tuh4 ka1 chor7	99
 tuh-koáiⁿ-á	tuh4 koainn2 a2	99
 tuh-ku	tuh4 ku1	199
 tuh-thâu	tuh4 thau5	99
@@ -98501,7 +98500,7 @@ tuā-sek-piáu	tua7 sek4 piau2	99
 tuā-seng-lí-lâng	tua7 seng1 li2 lang5	99
 tuā-seng-seng	tua7 seng1 seng1	99
 tuā-seⁿ	tua7 senn1	99
-tuā-siak-kò̤e	tua7 siak4 kò̤e1	99
+tuā-siak-korè	tua7 siak4 kore3	99
 tuā-sian	tua7 sian1	499
 tuā-sian-ang	tua7 sian1 ang1	199
 tuā-sian-pu̍t	tua7 sian1 put8	99
@@ -99215,7 +99214,7 @@ tàm-sê	tam3 se5	99
 tàm-sîn	tam3 sin5	199
 tàm-thâu	tam3 thau5	499
 tàm-tàm	tam3 tam3	99
-tàn--khṳ̀1	tan3  khṳ̀1	99
+tàn--khùr	tan3  khur3	99
 tàn-bōu	tan3 bou7	99
 tàn-guān	tan3 guan7	99
 tàn-hiat-ka̍k	tan3 hiat4 kak8	299
@@ -99624,8 +99623,8 @@ tâi-gí-lô-má-jī	tai5 gi2 lo5 ma2 ji7	199
 tâi-gí-tâi	tai5 gi2 tai5	99
 tâi-gîn	tai5 gin5	99
 tâi-gú	tai5 gu2	299
-tâi-gṳ́1	tai5 gṳ́1	99
-tâi-gṳ́1 lô-má-lī	tai5 gṳ́1 lo5 ma2 li7	99
+tâi-gúr	tai5 gur2	99
+tâi-gúr lô-má-lī	tai5 gur2 lo5 ma2 li7	99
 tâi-hái	tai5 hai2	99
 tâi-hú	tai5 hu2	99
 tâi-hā	tai5 ha7	99
@@ -101428,6 +101427,9 @@ tòng-tòng	tong3 tong3	99
 tòng-àn	tong3 an3	99
 tòng-á	tong3 a2	99
 tòng-á-phuê	tong3 a2 phue5	99
+tòr-bú-kè	tor3 bu2 ke3	99
+tòr-kiō-āu	tor3 kio7 au7	99
+tòr-kiō-āu--ê	tor3 kio7 au7  e5	99
 tòu-ba̍k-sek	tou3 bak8 sek4	99
 tòu-gû	tou3 gu5	199
 tòu-gû-tiûⁿ	tou3 gu5 tiunn5	99
@@ -101454,9 +101456,6 @@ tòu-tì	tou3 ti3	99
 tòu-tôu	tou3 tou5	99
 tòu-tīn-te̍k-kong	tou3 tin7 tek8 kong1	99
 tòu-uē	tou3 ue7	99
-tò̤1-bú-kè	tò̤1 bu2 ke3	99
-tò̤1-kiō-āu	tò̤1 kio7 au7	99
-tò̤1-kiō-āu--ê	tò̤1 kio7 au7  e5	99
 tó leh hōu lí thua	to2 leh4 hou7 li2 thua1	99
 tó tsi̍t kang	to2 chit8 kang1	99
 tó tsi̍t ê	to2 chit8 e5	99
@@ -102269,6 +102268,7 @@ tûn-hông-tshí-pe̍k	tun5 hong5 chhi2 pek8	99
 tûn-im	tun5 im1	99
 tûn-khí	tun5 khi2	99
 tûn-tiân	tun5 tian5	99
+tûr-tsháu	tur5 chhau2	99
 tā-ke-kuaⁿ	ta7 ke1 kuann1	99
 tā-lí-buh	ta7 li2 buh4	199
 tā-uâ	ta7 ua5	99
@@ -103428,10 +103428,10 @@ tō-kong	to7 kong1	99
 tō-kong-eng	to7 kong1 eng1	99
 tō-kou	to7 kou1	99
 tō-kun	to7 kun1	199
+tō-kurn	to7 kurn1	99
 tō-kuán	to7 kuan2	99
 tō-kàu	to7 kau3	199
 tō-káu	to7 kau2	99
-tō-kṳn	to7 kṳn1	99
 tō-liông-siok-be̍k-sú-tshek	to7 liong5 siok4 bek8 su2 chhek4	99
 tō-lám	to7 lam2	99
 tō-lí	to7 li2	399
@@ -103773,7 +103773,6 @@ tǹg-ìn	tng3 in3	299
 tǹg-ìn-á	tng3 in3 a2	99
 tǹg-í tǹg-toh	tng3 i2 tng3 toh4	99
 tǹg-í-tǹg-toh	tng3 i2 tng3 toh4	99
-tṳ̂1-tsháu	tṳ̂1 chhau2	99
 u tiong tshú lī	u1 tiong1 chhu2 li7	99
 u--ko liu--ko	u1  ko1 liu1  ko1	99
 u-bia̍t	u1 biat8	99
@@ -103968,7 +103967,7 @@ ua̍h-ēng	uah8 eng7	99
 ua̍n-bīn	uan8 bin7	99
 ua̍n-gí	uan8 gi2	99
 ua̍n-gú	uan8 gu2	99
-ua̍n-gṳ́1	uan8 gṳ́1	99
+ua̍n-gúr	uan8 gur2	99
 ua̍n-hūn	uan8 hun7	99
 ua̍n-im	uan8 im1	99
 ua̍n-iûⁿ	uan8 iunn5	99
@@ -104431,7 +104430,3 @@ u̍t-lâi-u̍t-khì	ut8 lai5 ut8 khi3	99
 u̍t-pāng	ut8 pang7	99
 u̍t-tio̍h	ut8 tioh8	99
 u̍t-u̍t	ut8 ut8	99
-án-tsuáⁿ-kóng	an2 chuann2 kong2	99
-î-kang	i5 kang1	99
-āu-puàⁿ‑sì‑lâng	au7 puann3‑si3‑lang5	99
-ī-hông-siā	i7 hong5 sia7	99

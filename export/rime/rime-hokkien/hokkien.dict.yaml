@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien
-version: "20260429.160403"
+version: "20260429.173027"
 sort: by_weight
 ...
 
@@ -6601,7 +6601,7 @@ sort: by_weight
 供述	kiong1  sut8	100
 供銷	kiong1  siau1	100
 供需	keng3  su1	100
-供養	kṳ́inn1  iunn7	100
+供養	kurinn2  iunn7	100
 供體	keng1  the2	300
 供體	keng1  thue2	300
 供鼠	kiong2  chhi2	100
@@ -17220,12 +17220,12 @@ sort: by_weight
 台話文	tai5  ue7  bun5	100
 台語	tai5  gi2	300
 台語	tai5  gu2	200
-台語	tai5  gṳ́1	100
+台語	tai5  gur2	100
 台語台	tai5  gi2  tai5	100
 台語按怎唸	tai5  gi2 an2  chuann2 liam7	100
 台語羅馬字	tai5  gi2  lo5  ma2  ji7	200
 台語羅馬字	tai5  gi2 lo5  ma2  ji7	100
-台語羅馬字	tai5  gṳ́1 lo5  ma2  li7	100
+台語羅馬字	tai5  gur2 lo5  ma2  li7	100
 台賬	tai5  tiong3	100
 台車	tai5  chhia1	100
 台銀	tai5  gin5	100
@@ -17248,7 +17248,7 @@ sort: by_weight
 史略	su2  liok8	100
 史策	su2  chhek4	100
 史記	su2  ki3	200
-史記	sṳ́1  ki3	100
+史記	sur2  ki3	100
 史蹟	su2  chek4	100
 史達林	su2  tat8  lim5	100
 史館	su2  kuan2	100
@@ -20847,7 +20847,7 @@ sort: by_weight
 四更	si3  kinn1	100
 四書	su3  su1	100
 四書五經	su3  su1 ngou2  keng1	100
-四書五經	sṳ̀1  sṳ1 ngou2  keng1	100
+四書五經	sur3  sur1 ngou2  keng1	100
 四月	si3  geh8	100
 四月	si3  gueh8	100
 四月日	si3  geh8  jit8	100
@@ -24493,7 +24493,7 @@ sort: by_weight
 大四公界	tua7  si3  kong1  kue3	100
 大四界	tua7  si3  ke3	200
 大四界	tua7  si3  kue3	200
-大四界	tua7  siak4  kò̤e1	100
+大四界	tua7  siak4  kore3	100
 大四肢	tau7  su3  ki1	100
 大囝	tua7  kiann2	500
 大回魂	tua7  hue5  hun5	300
@@ -28237,7 +28237,7 @@ sort: by_weight
 子母線	chu2  bou2  suann3	100
 子民	chu2  bin5	300
 子游	chu2  iu5	100
-子游	chṳ́1  iu5	100
+子游	chur2  iu5	100
 子爵	chu2  chiok4	100
 子父仔	kiann2  pe7  a2	100
 子發的	chi2 huan4   e5	100
@@ -28645,7 +28645,7 @@ sort: by_weight
 孤老	kou1  lo2	100
 孤老	kou1  nou2	100
 孤老牌	kou1  lo2  pai5	100
-孤老祠	kou1  nou2  sṳ̂1	100
+孤老祠	kou1  nou2  sur5	100
 孤老院	kou1  lo2  inn7	100
 孤腳戲	kou1  kioh4  hi3	100
 孤腳蹌	kou1  kha1  chhiang3	100
@@ -31543,7 +31543,7 @@ sort: by_weight
 尚更較	ia2  koh4  khah4	100
 尚更較	iau2  koh4  khah4	100
 尚書	siong7  su1	100
-尚書	siong7  sṳ1	100
+尚書	siong7  sur1	100
 尚書	siunn7  su1	100
 尚有	ia2  u7	100
 尚武	siong7  bu2	100
@@ -31733,8 +31733,8 @@ sort: by_weight
 尾冬肉	be2  tang1  bah4	100
 尾冬骨	be2  tang1  kut4	100
 尾口	be2  khau2	100
+尾口	bor2  khau2	100
 尾口	bue2  khau2	200
-尾口	bó̤1  khau2	100
 尾口鐵	be2  khau2  thih4	100
 尾口頭	be2  khau2  thau5	100
 尾句	be2  ku3	100
@@ -33124,7 +33124,7 @@ sort: by_weight
 巨蟹	ki7  he7	100
 巨蟹座	ki7  he7  cho7	100
 巨蟹座	ku7  hue7  cho7	100
-巨蟹座	kṳ̄1  hō̤e1  cho7	100
+巨蟹座	kur7  hore7  cho7	100
 巨財巨富	ku7  chai5 ku7  hu3	100
 巨資	ki7  chu1	100
 巨量	ki7  liang7	100
@@ -35608,7 +35608,6 @@ sort: by_weight
 後任	hou7  jim7	100
 後來	hou7  lai5	100
 後備軍	hou7  pi7  kun1	100
-後半世人	au7  puann3‑si3‑lang5	100
 後哨	hou7  sau3	100
 後嗣	hio7  su7	100
 後嗣	hou7  su5	200
@@ -38188,7 +38187,7 @@ sort: by_weight
 截句	chueh8  ku3	100
 截圖	cheh8  tou5	100
 截圖	chiat8  tou5	100
-截圖	cho̤̍̍e1  tou5	100
+截圖	choreh8  tou5	100
 截圖	chueh8  tou5	100
 截尾	chah8  be2	100
 截幼幼	chueh8  iu3  iu3	100
@@ -39808,7 +39807,7 @@ sort: by_weight
 抐舌	la7  chih8	300
 抐豬屎	la7  ti1  sai2	300
 抐豬屎	la7  tu1  sai2	100
-抐豬屎	la7  tṳ1  sai2	100
+抐豬屎	la7  tur1  sai2	100
 抑低	ah4  ke7	100
 抑勒	ek4  lek8	100
 抑屈	ah4  khut4	100
@@ -40654,8 +40653,8 @@ sort: by_weight
 拍火	phah4  hue2	200
 拍火兄弟	phah4  hue2 hiann1  ti7	100
 拍火器	phah4  he2  khi3	100
+拍火器	phah4  hor2  khi3	100
 拍火器	phah4  hue2  khi3	100
-拍火器	phah4  hó̤1  khi3	100
 拍火機	phah4  hue2  ki1	100
 拍火水頭	phah4  hue2 chui2  thau5	100
 拍火燒	phah4  hue2  sio1	100
@@ -41546,7 +41545,6 @@ sort: by_weight
 挈腳	khueh8  kha1	100
 按定	huann7  tiann7	100
 按家	huann7  ke1	100
-按怎講	an2  chuann2  kong2	100
 按息	huann5  suah4	100
 按拍	huann7  phek4	100
 按按	hua5  hua5	100
@@ -41973,7 +41971,7 @@ sort: by_weight
 捙盤	chhia1  puann5	100
 捙蛆	chhia1  chhi1	400
 捙蛆	chhia1  chhu1	400
-捙蛆	chhia1  chhṳ1	400
+捙蛆	chhia1  chhur1	400
 捙跋反	chhia1  puah8  peng2	200
 捙輾斗	chhia1  lian3  tau2	100
 捧場	phang5  tiunn5	100
@@ -43292,8 +43290,8 @@ sort: by_weight
 揣轉來	chhue7 tng2   lai5	100
 揣量	chhui2  liong7	100
 揣錢	chhe7  chinn5	100
+揣錢	chhor7  chinn5	100
 揣錢	chhue7  chinn5	100
-揣錢	chhō̤1  chinn5	100
 揣頭路	chhe7 thau5  lou7	100
 揣頭路	chhue7 thau5  lou7	100
 揤倚來	chhih8 ua2  lai5	100
@@ -44650,7 +44648,7 @@ sort: by_weight
 擲仔	hit8  a2	100
 擲凹坐	tng3  lap4  che7	100
 擲印	tng3  in3	100
-擲去	tan3   khṳ̀1	100
+擲去	tan3   khur3	100
 擲字	tng3  ji7	100
 擲完	tng3  uan5	100
 擲戳	tng3  chhok8	100
@@ -47493,7 +47491,7 @@ sort: by_weight
 日誌	lit8  chi3	200
 日語	jit8  gi2	200
 日語	lit8  gu2	100
-日語	lit8  gṳ́1	100
+日語	lit8  gur2	100
 日課	jit8  kho3	100
 日貨	jit8  hue3	100
 日貨	lit8  hue3	100
@@ -48697,7 +48695,7 @@ sort: by_weight
 書籍	su1  chek8	100
 書籠	chu1  lang2	100
 書經	su1  keng1	300
-書經	sṳ1  keng1	100
+書經	sur1  keng1	100
 書肆	su1  su3	100
 書號	chu1  ho7	100
 書記	su1  ki3	200
@@ -49028,7 +49026,7 @@ sort: by_weight
 月煞	geh8  suah4	100
 月熄	gueh8  sit4	100
 月爿	gueh8  peng5	100
-月球	go̤̍̍h4  kiu5	100
+月球	gor̍̍h4  kiu5	100
 月球	guan8  kiu5	100
 月球	gueh8  kiu5	100
 月琴	geh8  khim5	200
@@ -50200,45 +50198,45 @@ sort: by_weight
 果品	ke2  phin2	100
 果品	ko2  phin2	100
 果園	ke2  hng5	100
+果園	kor2  hng5	100
 果園	kue2  hng5	100
 果園	kue2  huinn5	100
-果園	kó̤1  hng5	100
 果報	ko2  po3	100
 果子	ke2  chi2	200
 果子	kue2  chi2	300
 果子乾	kue2  chi2  kuann1	100
 果子仁	kue2  chi2  jin5	100
 果子園	ke2  chi2  hng5	200
+果子園	kor2  chi2  hng5	100
 果子園	kue2  chi2  hng5	300
-果子園	kó̤1  chi2  hng5	100
 果子宅	ke2  chi2  theh8	100
+果子宅	kor2  chi2  theh8	100
 果子宅	kue2  chi2  theh8	100
-果子宅	kó̤1  chi2  theh8	100
 果子尾	ke2  chi2  be2	100
 果子探	ke2  chi2  tham3	100
 果子探	kue2  chi2  tham3	100
 果子架仔	ke2  chi2 ke3  a2	100
 果子栽	ke2  chi2  chai1	100
 果子栽	kue2  chi2  chai1	100
+果子樹	kor2  chi2  chhiu7	100
 果子樹	kue2  chi2  chhiu7	100
-果子樹	kó̤1  chi2  chhiu7	100
+果子欉	kor2  chi2  chang5	100
 果子欉	kue2  chi2  chang5	100
-果子欉	kó̤1  chi2  chang5	100
 果子殼	kue2  chi2  khak4	100
+果子汁	kor2  chi2  chap4	100
 果子汁	kue2  chi2  chiap4	100
-果子汁	kó̤1  chi2  chap4	100
 果子狸	kue2  chi2  ba5	100
 果子猫	ke2  chi2  ba5	100
 果子猫	kue2  chi2  ba5	200
+果子皮	kor2  chi2  phor5	100
 果子皮	kue2  chi2  phue5	200
-果子皮	kó̤1  chi2  phô̤1	100
 果子盤	kue2  chi2  puann5	100
 果子粿	kue2  chi2  kue2	100
+果子肉	kor2  chi2  bah4	100
 果子肉	kue2  chi2  bah4	100
-果子肉	kó̤1  chi2  bah4	100
 果子膏	ke2  chi2  ko1	100
+果子膏	kor2  chi2  ko1	100
 果子膏	kue2  chi2  ko1	200
-果子膏	kó̤1  chi2  ko1	100
 果子菜燕	kue2  chi2  chhai3  ian3	100
 果子蠅	kue2  chi2  sin5	100
 果子行	ke2  chi2  hang5	100
@@ -50247,9 +50245,9 @@ sort: by_weight
 果子酒	kue2  chi2  chiu2	200
 果子酸	ke2  chi2  sng1	100
 果子酸	kue2  chi2  sng1	100
+果子醬	kor2  chi2  chiunn3	100
 果子醬	kue2  chi2  chionn3	100
 果子醬	kue2  chi2  chiunn3	100
-果子醬	kó̤1  chi2  chiunn3	100
 果子頭	ke2  chi2  thau5	100
 果子頭	kue2  chi2  thau5	100
 果子鹽	kue1  chi2 iam5	100
@@ -50263,8 +50261,8 @@ sort: by_weight
 果毅後堡	ko2  gi7  au7  po2	100
 果汁	ke2  chiap4	100
 果汁	ko2  chiap4	200
+果汁	kor2  chap4	100
 果汁	kue2  chiap4	100
-果汁	kó̤1  chap4	100
 果汁機	ko2  chiap4 ki1	100
 果然	ko2  jian5	300
 果然	ko2  lian5	100
@@ -50341,8 +50339,8 @@ sort: by_weight
 枵饞	iau1  sai5	300
 枵鬼	iau1  kui2	200
 枵鬼假細膩	iau1  kui2 ke2 se3  ji7	200
+枵鬼假細膩	iau1  kui2 ke2 sore3  li7	100
 枵鬼假細膩	iau1  kui2 ke2 sue3  li7	100
-枵鬼假細膩	iau1  kui2 ke2 sò̤e1  li7	100
 枵鬼喙	iau1  kui2  chhui3	100
 枵鬼蛇	iau1  khi2  chua5	100
 枵鬼鐵	iau1  kui2  thih4	100
@@ -51051,8 +51049,8 @@ sort: by_weight
 格仔	kek4  a2	100
 格仔子	keh4  a2  chi2	100
 格仔粿	keh4  a2  ke2	100
+格仔粿	keh4  a2  kor2	100
 格仔粿	keh4  a2  kue2	100
-格仔粿	keh4  a2  kó̤1	100
 格仔紙	keh4  a2  chua2	300
 格仔膨餅	keh4  a2  phong3  piann2	100
 格仔餅	keh4  a2  piann2	200
@@ -54277,7 +54275,7 @@ sort: by_weight
 死結	si2  kat4	300
 死絕	si2  cheh8	600
 死絕冷	si2  cheh8  leng2	100
-死絕好食	si2  cho̤̍̍h4 ho2  chiah8	100
+死絕好食	si2  chor̍̍h4 ho2  chiah8	100
 死絕步	si2  cheh8  pou7	100
 死絕詛	si2  cheh8  chua7	100
 死綿	si2  mi5	100
@@ -59196,9 +59194,9 @@ sort: by_weight
 滴落來	tih4   loh8  lai5	100
 滴血	tih4  hueh4	100
 滴雨	tih4  hou7	200
+滷卵	lou2  nng6	100
 滷卵	lou2  nng7	100
 滷卵	lou2  nui7	100
-滷卵	lou2  nňg1	100
 滷味	lou2  bi7	100
 滷料	lou2  liau7	200
 滷湯	lou2  thng1	100
@@ -61029,8 +61027,8 @@ sort: by_weight
 烏小豆	ou1  sio2  tau7	100
 烏尖	ou1  chiam1	100
 烏尾仔	ou1  be2  a2	100
+烏尾仔	ou1  bor2  a2	100
 烏尾仔	ou1  bue2  a2	100
-烏尾仔	ou1  bó̤1  a2	100
 烏尾冬	ou1  be2  tang1	200
 烏尾冬	ou1  bue2  tang1	500
 烏尾雞	ou1  bue2  ke1	100
@@ -62330,7 +62328,7 @@ sort: by_weight
 無要無緊	bo5  iau3  bo5  kin2	300
 無要緊	bo5  iau3  kin2	500
 無要緊	bo5 iau3  kin2	100
-無要緊	bô̤1  a2  kin2	100
+無要緊	bor5  a2  kin2	100
 無要領	bo5  iau3  leng2	100
 無親像款	bo5 chhin1  chhiunn7 khuan2	100
 無親無戚	bo5  chhin1  bo5  chhek4	100
@@ -62430,7 +62428,7 @@ sort: by_weight
 無閒工	bo5  eng5  kang1	100
 無閣	bo5  koh4	200
 無關係	bo5  kuan1  he7	400
-無關係	bô̤1  kuan1  he7	100
+無關係	bor5  kuan1  he7	100
 無限	bu5  han7	300
 無限定	bo5 han7  tiann7	100
 無陸水錢	bo5  lek8  sui2  chinn5	100
@@ -65967,8 +65965,8 @@ sort: by_weight
 甜箍麭	tinn1  khou1  phang2	100
 甜粅粅	tinn1  but4  but4	300
 甜粿	tinn1  ke2	300
+甜粿	tinn1  kor2	100
 甜粿	tinn1  kue2	200
-甜粿	tinn1  kó̤1	100
 甜粿龜	tinn1  ke2  ku1	100
 甜糖	tinn1  thng5	200
 甜糜	tinn1  be5	100
@@ -67612,8 +67610,8 @@ sort: by_weight
 病過頭	penn7  kue3  thau5	100
 病重	penn7  tang7	100
 病院	penn7  inn7	300
+病院	pinn6  inn6	100
 病院	pinn7  inn7	300
-病院	pǐnn1  ǐnn1	100
 病難	pinn7  lan7	100
 病風	penn7  hong1	400
 病體	penn7  the2	400
@@ -67864,15 +67862,15 @@ sort: by_weight
 瘴氣	chiong3  khi3	200
 瘴瘧	chiong3  giok8	100
 瘸手	khe5  chhiu2	200
-瘸手	kho̤1  chhiu2	100
+瘸手	khor1  chhiu2	100
 瘸手	khue5  chhiu2	100
 瘸瘸	khe5  khe5	200
 瘸腳	khe5  kha1	400
 瘸腳	khue5  kha1	200
 瘸腳柝	khe5  kha1  khok8	100
 瘸跤	khe5  kha1	100
+瘸跤	khor5  kha1	100
 瘸跤	khue5  kha1	100
-瘸跤	khô̤1  kha1	100
 癀發氣脫	hong5 huan4 khi3 thuan4	100
 療傷	liau5  siong1	100
 療勢	liau5  se3	100
@@ -68121,8 +68119,8 @@ sort: by_weight
 發粉	huan4  hun2	600
 發粒	huan4  liap8	100
 發粿	huan4  ke2	300
+發粿	huan4  kor2	100
 發粿	huan4  kue2	200
-發粿	huan4  kó̤1	100
 發紅	huan4  ang5	100
 發給	huan4  kip4	100
 發聲	huan4  siann1	200
@@ -70194,8 +70192,8 @@ sort: by_weight
 相黏蒂帶	sio1  liam5  ti3  tua3	100
 相點相摔	sann1  tiam2 sann1  sut4	100
 盹瞌睡	tuh4  ka1  che7	100
+盹瞌睡	tuh4  ka1  chor7	100
 盹瞌睡	tuh4  ka1  chue7	100
-盹瞌睡	tuh4  ka1  chō̤1	100
 盹龜	tuh4  ku1	100
 盻洗	ge2  se2	200
 盻盻	he1  he1	100
@@ -73276,7 +73274,6 @@ sort: by_weight
 秮仔米	tai1  a2  bi2	100
 秮仔粽	tai1  a2  chang3	100
 移倚	chhiau5  ua2	100
-移工	i5  kang1	100
 移徙	chhiau5  sua2	100
 移撥	chhiau5  puah4	100
 移移	chhiau5  chhiau5	100
@@ -75661,7 +75658,7 @@ sort: by_weight
 粵西	uan8  se1	100
 粵語	uan8  gi2	100
 粵語	uan8  gu2	100
-粵語	uan8  gṳ́1	100
+粵語	uan8  gur2	100
 粽箬	chang3  hah8	100
 粽葉	chang3  hioh8	100
 精債	cheng1  che3	100
@@ -75777,8 +75774,8 @@ sort: by_weight
 粿袋	ke2  te7	100
 粿袋仔	kue2  te7  a2	200
 粿路	ke2  lou7	500
+粿路	kor2  lou7	300
 粿路	kue2  lou7	400
-粿路	kó̤1  lou7	300
 粿酵	ke2  kann3	100
 粿酺	ke2  pou5	100
 粿酺	kue2  pou5	100
@@ -77398,8 +77395,8 @@ sort: by_weight
 綴會著	tue3  e7  tioh8	200
 綴查某	tue3  cha5  bou2	100
 綴樣	tue3  iunn7	100
+綴母嫁	tor3  bu2  ke3	100
 綴母嫁	tue3  bo2  ke3	100
-綴母嫁	tò̤1  bu2  ke3	100
 綴流行	tue3  liu5  heng5	200
 綴海湧上落	te3 hai2  eng2 chiunn7  loh8	100
 綴海湧上落	tue3	100
@@ -77412,11 +77409,11 @@ sort: by_weight
 綴路	te3  lou7	100
 綴路	tue3  lou7	300
 綴蹌	tue3  song7	200
+綴轎後	tor3  kio7  au7	100
 綴轎後	tue3  kio7  au7	100
-綴轎後	tò̤1  kio7  au7	100
 綴轎後的	te3  kio7  au7   e5	100
+綴轎後的	tor3  kio7  au7   e5	100
 綴轎後的	tue3  kio7  au7   e5	100
-綴轎後的	tò̤1  kio7  au7   e5	100
 綴退	tue3  the3	100
 綴進	tue3  chin3	100
 綵尺	chhai2  chhioh4	100
@@ -80106,7 +80103,7 @@ sort: by_weight
 肉筋	bah4  kin1	100
 肉筋	bah4  kun1	100
 肉筋	kun1	100
-肉筋	kṳn1	100
+肉筋	kurn1	100
 肉筍	bah4  sun2	200
 肉箍	bah4  khou1	100
 肉箭	bah4  chinn3	100
@@ -81519,7 +81516,7 @@ sort: by_weight
 自力	chu7  lek8	100
 自助	chu7  chou7	200
 自助餐	chu7  chou7  chhan1	100
-自助餐	chṳ̄1  chou7  chhan1	100
+自助餐	chur7  chou7  chhan1	100
 自動	chu7  tong7	300
 自動化	chu7  tong7  hua3	100
 自動櫃台機	chu7  tong7  kui7  tai5  ki1	100
@@ -81639,7 +81636,7 @@ sort: by_weight
 自由單字元	chu7  iu5 tan1  ji7  guan5	100
 自由座	chu7  iu5  cho7	100
 自由廣場	chu7  iu5  kong2  tiunn5	100
-自由廣場	chṳ̄1  iu5  kong2  tiunn5	100
+自由廣場	chur7  iu5  kong2  tiunn5	100
 自由式	chu7  iu5  sek4	100
 自由日	chu7  iu5  jit8	100
 自由時報	chu7  iu5  si5  po3	100
@@ -81707,7 +81704,7 @@ sort: by_weight
 自足	chu7  chiok4	100
 自身	chu7  sin1	200
 自身難保	chu7  sin1 lan5 po2	100
-自身難保	chṳ̄1  sin1 lan5 po2	100
+自身難保	chur7  sin1 lan5 po2	100
 自輦車	chu7  lian2  chhia1	200
 自輪車	chu7  lian2  chhia1	100
 自轉	chu7  chuan2	100
@@ -84129,8 +84126,8 @@ sort: by_weight
 荔月	nai7  guan8	100
 荔枝	nai7  chi1	400
 荔枝角	lai7  chi1  kak4	100
+荔枝角	nai6  chi1  kak4	100
 荔枝角	nai7  chi1  kak4	100
-荔枝角	nǎi1  chi1  kak4	100
 荔草	nai7  chho2	100
 荔菲	le7  hui1	100
 荔鏡記	nai7  keng3  ki3	100
@@ -85825,7 +85822,7 @@ sort: by_weight
 蕭邦	siau1  pang1	100
 蕭颯	siau1  sap4	100
 蕳砃	kan2  tan1	100
-蕳砃薯	kan1  tan1  chṳ̂1	100
+蕳砃薯	kan1  tan1  chur5	100
 薄仔冰	pok8  a2  peng1	200
 薄俸	pok8  hong7	100
 薄倖	pok8  heng7	200
@@ -86515,7 +86512,7 @@ sort: by_weight
 處女地	chhu2  li2  te7	100
 處女座	chhi2  li2  cho7	100
 處女座	chhu2  lu2  cho7	100
-處女座	chhṳ́1  lṳ́1  cho7	100
+處女座	chhur2  lur2  cho7	100
 處折	chhu2  chiat4	200
 處斬	chhu2  cham2	100
 處斷	chhu2  tuan3	100
@@ -86564,7 +86561,7 @@ sort: by_weight
 虛心	hi1  sim1	100
 虛心	hu1  sim1	200
 虛情假意	hi1  cheng5  ke2  i3	100
-虛情假意	hṳ1  cheng5  ke2  i3	100
+虛情假意	hur1  cheng5  ke2  i3	100
 虛損	hu1  sun2	100
 虛擬	hi1  gi2	100
 虛擬實像	hi1  gi2  sit8  siong7	100
@@ -87011,8 +87008,8 @@ sort: by_weight
 蝕秤	sih8  chhin3	100
 蝕秤頭	sih8  chhin3  thau5	100
 蝕紋	sih8  sun5	100
+蝕重	sih8  tang6	100
 蝕重	sih8  tang7	200
-蝕重	sih8  tǎng1	100
 蝗蟲	hong5  thiong5	100
 蝘蜓	ian2  theng5	200
 蝙章	pian2  chiong1	100
@@ -89102,7 +89099,7 @@ sort: by_weight
 覓覓	ba7  ba7	100
 覓覓	bai7  bai7	100
 覓錢	ba7  chinn5	200
-覓雞仔	ba7  ko̤e1  a2	100
+覓雞仔	ba7  kore1  a2	100
 覓頭路	ba7  thau5  lou7	500
 覓食	ba7  chiah8	100
 覓鴞刺	ba7  hioh8  chhi3	100
@@ -89113,7 +89110,7 @@ sort: by_weight
 覕咯雞	bih4  kok8  kue1	100
 覕喙	bih4  chhui3	300
 覕洞空	bih4  tong7  khang1	100
-覕相揣	bih4  sann1  chhō̤1	100
+覕相揣	bih4  sann1  chhor7	100
 覕相揣	bih4  sio1  chhe7	100
 覕相揣	bih4  sio1  chhue7	200
 覕秋	bih4  chhiu1	100
@@ -89333,7 +89330,7 @@ sort: by_weight
 角巾	kak4  kun1	100
 角帶	kak4  tua3	100
 角度	kak4  tou7	200
-角提	kak4  to̤̍̍h4	100
+角提	kak4  tor̍̍h4	100
 角木蛟	kak4  bok8  kau1	100
 角板山	kak4  pan2  suann1	200
 角梳	kak4  sue1	100
@@ -89566,7 +89563,7 @@ sort: by_weight
 言詞	gian5  su5	300
 言語	gian5  gi2	500
 言語	gian5  gu2	300
-言語	gian5  gṳ́1	100
+言語	gian5  gur2	100
 言語學	gian5  gu2  hak8	100
 言語通	gian5  gu2  thong1	100
 言談	gian5  tam5	200
@@ -90257,7 +90254,7 @@ sort: by_weight
 語義	gu2  gi7	100
 語言	gi2  gian5	200
 語言	gu2  gian5	100
-語言	gṳ́1  gian5	100
+語言	gur2  gian5	100
 語言學	gi2  gian5  hak8	100
 語言治療	gi2  gian5 ti7  liau5	100
 語詞	gi2  su5	100
@@ -93043,8 +93040,8 @@ sort: by_weight
 赤柯	chhiah4  kho1	200
 赤柯	chhiah4  ko1	100
 赤柯	chhiah4  kua1	100
+赤柱	chhiah4  thiau6	100
 赤柱	chhiah4  thiau7	100
-赤柱	chhiah4  thiǎu1	100
 赤校	chhiah4  kau2	200
 赤校	chhiah4  kau3	200
 赤根菜	chhiah4  kin1  chhai3	100
@@ -93754,7 +93751,7 @@ sort: by_weight
 趁賭食	than3  kiau2  chiah8	100
 趁趁	than3  than3	100
 趁蹌	than3  song7	200
-趁這節	than3  chi2  cho̤eh4	100
+趁這節	than3  chi2  choreh4	100
 趁這陣	than3  chit4  chun7	100
 趁錢	than3  chinn5	300
 趁錢予我開	than1  chinn5 hou7 gua2 khai1	100
@@ -97606,8 +97603,8 @@ sort: by_weight
 過慮	ko3  lu7	100
 過慮	kue3  li7	100
 過成	ke3  chiann5	200
+過成	kor3  chiann5	100
 過成	kue3  chiann5	100
-過成	kò̤1  chiann5	100
 過戶	ke3  hou7	100
 過戶	kue3  hou7	200
 過房	ke3  pang5	200
@@ -97920,7 +97917,7 @@ sort: by_weight
 道瓊工業指數	to7  kheng5 kang1  giap8  chi2  sou3	100
 道筋	to7  kin1	100
 道筋	to7  kun1	100
-道筋	to7  kṳn1	100
+道筋	to7  kurn1	100
 道義	to7  gi7	200
 道聽塗說	to7  thiann1  thou5  sueh4	100
 道臺	to7  tai5	100
@@ -100279,7 +100276,7 @@ sort: by_weight
 銀水	gun5  chui2	100
 銀河	gin5  ho5	200
 銀河	gun5  ho5	200
-銀河	gṳ̂n1  ho5	100
+銀河	gurn5  ho5	100
 銀漢	gun5  han3	100
 銀灰色	gun5  he1  sek4	100
 銀燭	gun5  chiok4	100
@@ -100879,7 +100876,7 @@ sort: by_weight
 鍋燒羊肉	o1  sio1 iunn5  bah4	100
 鍋爐	e1  lou5	100
 鍋蓋	e1  kua3	100
-鍋蓋	o̤1  kua3	100
+鍋蓋	or1  kua3	100
 鍋蓋	ue1  kua3	200
 鍋蓋魚	e1  kua3  hi5	100
 鍋蓋魚	ue1  kua3  hi5	100
@@ -103079,7 +103076,7 @@ sort: by_weight
 除罪	ti5  chue7	100
 除臭劑	ti5  chhau3  che1	100
 除草	ti5  chhau2	100
-除草	tṳ̂1  chhau2	100
+除草	tur5  chhau2	100
 除號	ti5  ho7	100
 除起	tu5  khi2	100
 除起來	tu5   khi2   lai5	100
@@ -104055,9 +104052,9 @@ sort: by_weight
 雞冠菜	ke1  kuan1  chhai3	100
 雞卵	ke1  nng7	200
 雞卵	ke1  nui7	100
-雞卵	ko̤e1  nňg1	100
+雞卵	kore1  nng6	100
+雞卵	kue1  nng6	100
 雞卵	kue1  nng7	200
-雞卵	kue1  nňg1	100
 雞卵	kue1  nui7	100
 雞卵仁	ke1  nng7  jin5	100
 雞卵冰	ke1  nng7  peng1	100
@@ -104129,7 +104126,7 @@ sort: by_weight
 雞屎藤	ke1  sai2  tin5	100
 雞屎藤毋敢拋桂花樹	ke1  sai2  tin5 m7 kann2 pha1 kui3  hue1 chhiu7	100
 雞屎蜂	ke1  sai2  phang1	200
-雞屎蜂	ko̤e1  sai2  phang1	100
+雞屎蜂	kore1  sai2  phang1	100
 雞屎蜂	kue1  sai2  phang1	200
 雞屎運	ke1  sai2  un7	100
 雞屎運	kue1  sai2  un7	100
@@ -104202,7 +104199,7 @@ sort: by_weight
 雞油	ke1  iu5	200
 雞油	kue1  iu5	100
 雞油龜	ke1  iu5  ku1	100
-雞油龜	ko̤e1  iu5  ku1	100
+雞油龜	kore1  iu5  ku1	100
 雞油龜	kue1  iu5  ku1	100
 雞液	kue1  ek8	100
 雞湯	ke1  thng1	100
@@ -104245,7 +104242,7 @@ sort: by_weight
 雞籠	kue1  lam1	200
 雞籠	kue1  lang5	100
 雞籠蜂	ke1  lang1  phang1	200
-雞籠蜂	ko̤e1  lang1  phang1	100
+雞籠蜂	kore1  lang1  phang1	100
 雞籠蜂	kue1  lang1  phang1	100
 雞精	ke1  cheng1	200
 雞精	kue1  cheng1	100
@@ -104271,7 +104268,7 @@ sort: by_weight
 雞翼仔	kue1  sit8  a2	100
 雞翼股	kue1  sit8  kou2	100
 雞肉	ke1  bah4	200
-雞肉	ko̤e1  hek8	100
+雞肉	kore1  hek8	100
 雞肉	kue1  bah4	200
 雞肉塊仔	ke1  bah4  te3  a2	100
 雞肉塊仔	kue1  bah4  te3  a2	100
@@ -104607,9 +104604,9 @@ sort: by_weight
 雪文戲	sap4  bun5  hi3	100
 雪文沫	sap4  bun5  phueh8	300
 雪文沫	sap4  mui5  pheh8	300
-雪文沫	sap4  mui5  pho̤̍̍h4	300
+雪文沫	sap4  mui5  phor̍̍h4	300
 雪文波	sap4  bun5  pho1	300
-雪文波	sap4  bun5  pho̤1	300
+雪文波	sap4  bun5  phor1	300
 雪文波	sap4  mui5  pho1	300
 雪文液	ssap4  bun5  ek8	100
 雪文粉	sap4  bun5  hun2	100
@@ -104826,13 +104823,13 @@ sort: by_weight
 電子業	tian7  chir2  giap8	100
 電子業	tian7  chu2  giap8	100
 電子琴	tian7  chu2  khim5	100
-電子琴	tian7  chṳ́1  khim5	100
+電子琴	tian7  chur2  khim5	100
 電子發票	tian7  chu2  huan4  phio3	100
 電子秤	tian7  chu2  chhin3	100
 電子糋鍋	tian7  chu2  chinn3  ko1	100
 電子花車	tian7  chu2  hue1  chhia1	100
 電子薰	tian7  chu2  hun1	100
-電子薰	tian7  chṳ́1  hun1	100
+電子薰	tian7  chur2  hun1	100
 電子郵件	tian7  chu2 iu5  kiann7	100
 電子雲	tian7  chi2  hun5	100
 電子音樂	tian7  chu2 im1  gak8	100
@@ -104887,9 +104884,9 @@ sort: by_weight
 電流表	tian7  liu5  pio2	100
 電源	tian7  guan5	200
 電火	tian7  he2	200
+電火	tian7  hor2	100
 電火	tian7  hue2	300
 電火	tian7  hue3	100
-電火	tian7  hó̤1	100
 電火寐	tian7  hue2  bai2	100
 電火布	tian7  he2  pou3	100
 電火布	tian7  hue2  pou3	200
@@ -104907,8 +104904,8 @@ sort: by_weight
 電火線	tian7  he2  suann3	100
 電火線	tian7  hue2  suann3	100
 電火花	tian7  he2  hue1	100
+電火花	tian7  hor2  hue1	100
 電火花	tian7  hue2  hue1	200
-電火花	tian7  hó̤1  hue1	100
 電火藥	tian7  hue2  iok8	100
 電烘爐	tian7  hang1  lou5	300
 電烘箱	tian7  hang1  siunn1	200
@@ -105597,7 +105594,7 @@ sort: by_weight
 面挽挽	bin7  ban2  ban2	100
 面攏慄色	bin7 long2 lek4  sek4	100
 面書	bin7  chu1	100
-面書	bin7  chṳ1	100
+面書	bin7  chur1	100
 面會	bian7  he7	100
 面會	bian7  hue7	300
 面枋	bin7  pang1	100
@@ -106088,7 +106085,6 @@ sort: by_weight
 須臾	su1  ju5	100
 須著	su1  tioh8	100
 頌讚	siong7  chan3	100
-預防射	i7  hong5  sia7	100
 頑固	guan5  kou3	100
 頑愚	guan5  gu5	100
 頑柴頭	ban5  chha5  thau5	100
@@ -106478,8 +106474,8 @@ sort: by_weight
 頭牲	thau5  senn1	500
 頭牲仔	thau5  senn1  a2	300
 頭犁犁	thau5 le5  le5	200
+頭犁犁	thau5 lore5  lore5	100
 頭犁犁	thau5 lue5  lue5	100
-頭犁犁	thau5 lô̤e1  lô̤e1	100
 頭獅	thau5  sai1	100
 頭獎	thau5  chiong2	300
 頭王	thau5  ong5	100
@@ -106874,9 +106870,9 @@ sort: by_weight
 風嘴口	hong1  chhui3  khau2	100
 風回回	hong1  he5  he5	100
 風回回	hong1 he5  he5	100
+風回回	hong1 hor5  hor5	100
 風回回	hong1 hue5  hue5	100
-風回回	hong1 hô̤1  hô̤1	100
-風回回	huang1 hô̤1  hô̤1	100
+風回回	huang1 hor5  hor5	100
 風圍	hong1  ui5	100
 風土	hong1  thou2	200
 風土人情	hong1  thou2  jin5  cheng5	100
@@ -107018,16 +107014,16 @@ sort: by_weight
 風車神	hong1  ki1  sin5	100
 風車花	hong1  chhia1  hue1	200
 風較回	hong1 khah4 he5	100
+風較回	hong1 khah4 hor5	100
 風較回	hong1 khah4 hue5	100
-風較回	hong1 khah4 hô̤1	100
-風較回	huang1 khah4 hô̤1	100
+風較回	huang1 khah4 hor5	100
 風較恬	hong1 khah4 tiam7	100
 風較恬	huang1 khah4 tiam7	100
 風較無遐透	hong1 khah4 bo5 hiah4 thau3	100
 風較無遐透	huang1 khah4 bo5 hiah4 thau3	100
 風較細港	hong1 khah4 se3  kang2	100
+風較細港	hong1 khah4 sore3  kang2	100
 風較細港	hong1 khah4 sue3  kang2	100
-風較細港	hong1 khah4 sò̤e1  kang2	100
 風較細港	huang1 khah4 sue3  kang2	100
 風轉弱	hong1 tng2 jiok8	100
 風轉弱	hong1 tuinn2 jiok8	100
@@ -108385,7 +108381,7 @@ sort: by_weight
 馬鈴薯	be2  leng5  chi5	200
 馬鈴薯	ma2  leng5  chi5	300
 馬鈴薯	ma2  leng5  chu5	200
-馬鈴薯	ma2  leng5  chṳ̂1	100
+馬鈴薯	ma2  leng5  chur5	100
 馬鈴薯條	ma2  leng5  chi5  tiau5	100
 馬鈴薯沙	ma2  leng5  chi5  se1	100
 馬鈴薯沙	ma2  leng5  chu5  se1	100
@@ -109893,7 +109889,7 @@ sort: by_weight
 鯪鯉鼠	la5  li2  chhi2	200
 鯰仔	liam5  a2	100
 鯰仔魚	liam5  a2  hi5	200
-鯰仔魚	liam5  a2  hṳ̂1	100
+鯰仔魚	liam5  a2  hur5	100
 鯰魚	liam5  hi5	200
 鯰魚	liam5  hu5	100
 鯽仔	chit4  a2	200
@@ -109985,8 +109981,8 @@ sort: by_weight
 鱟扒冊	hau7  peh4  chheh4	100
 鱟杓	hau7  siah8	100
 鱟杓仔	hau7  siah8  a2	100
+鱟桸	hau6  hia6	100
 鱟桸	hau7  hia1	200
-鱟桸	hǎu1  hǐa1	100
 鱟殼	hau7  khak4	100
 鱟殼仔	hau7  khak4  a2	100
 鱟殼仔扇	hau7  khak4  a2  sinn3	100
@@ -110392,7 +110388,7 @@ sort: by_weight
 鵁閵	ka1  leng7	100
 鵁隹	ka1  chui1	100
 鵁鴒	ka1  leng7	300
-鵁鴒	ka1  lǐng1	100
+鵁鴒	ka1  ling6	100
 鵁鴒順便空	ka1  leng7 sun7 pian7 khang1	100
 鵁鵻	ka1  chui1	300
 鵁鵻仔	ka1  chui1  a2	100
@@ -110914,11 +110910,11 @@ sort: by_weight
 麵粉槌	mi7  hun2  thui5	100
 麵粉渣	mi7  hun2  che1	100
 麵粉粿	mi7  hun2  ke2	100
+麵粉粿	mi7  hun2  kor2	100
 麵粉粿	mi7  hun2  kue2	100
-麵粉粿	mi7  hun2  kó̤1	100
 麵粉粿仔	mi7  hun2  ke2  a2	100
+麵粉粿仔	mi7  hun2  kor2  a2	100
 麵粉粿仔	mi7  hun2  kue2  a2	100
-麵粉粿仔	mi7  hun2  kó̤1  a2	100
 麵粉耳	mi7  hun2  hinn7	100
 麵粉藻	mi7  hun2  cho2	200
 麵粉袋	mi7  hun2  te7	100
@@ -110927,8 +110923,8 @@ sort: by_weight
 麵粉路	mi7  pun2  lou7	100
 麵粞	mi7  chhe3	100
 麵粿	mi7  ke2	200
+麵粿	mi7  kor2	100
 麵粿	mi7  kue2	100
-麵粿	mi7  kó̤1	100
 麵糊	mi7  kou5	100
 麵線	mi7  suann3	500
 麵線屈	mi7  suann3  ut4	100
@@ -111209,7 +111205,7 @@ sort: by_weight
 黃腫	ng5  cheng2	200
 黃腫顑	ng5  cheng2  ham3	100
 黃腰蜂	ng5  io1  phang1	400
-黃腰蜂	ng5  io̤1  phang1	100
+黃腰蜂	ng5  ior1  phang1	100
 黃膽	ng5  tann2	100
 黃色	ng5  sek4	400
 黃芩	ng5  khim5	100
@@ -112149,8 +112145,8 @@ sort: by_weight
 龜精	ku1  chiann1	600
 龜精	ku1  chinn1	300
 龜粿	ku1  ke2	200
+龜粿	ku1  kor2	100
 龜粿	ku1  kue2	100
-龜粿	ku1  kó̤1	100
 龜結	ku1  kiat4	100
 龜綏	ku1  sui1	100
 龜背	ku1  pue3	200
