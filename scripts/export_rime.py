@@ -1025,13 +1025,17 @@ def write_system_dict(
         if hw and latn_norm not in preferred_handwriting:
             preferred_handwriting[latn_norm] = hw
 
-    lines = [
+    header = [
         f"# Rime dictionary: {pkg}_{system}",
         "# Generated from merged.csv - do not edit manually",
         "---",
         f"name: {pkg}_{system}",
         f'version: "{BUILD_VERSION}"',
         "sort: by_weight",
+    ]
+    if pkg == "teochew":
+        header.append("use_preset_vocabulary: true")
+    header += [
         "import_tables:",
         f"  - {pkg}_chars",
         f"  - {pkg}",
@@ -1039,6 +1043,7 @@ def write_system_dict(
         "...",
         "",
     ]
+    lines = header
 
     skipped = 0
     deduped = 0
