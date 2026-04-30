@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: teochew_chars
-version: "20260430.154516"
+version: "20260430.220133"
 sort: by_weight
 ...
 
@@ -12287,13 +12287,12 @@ s	sur7	150
 蛋	tang3	600
 蜑	tang3	600
 誕	tang3	600
-銅	tang3	100
 仝	tang5	700
 同	tang5	1500
 童	tang5	500
 筒	tang5	1800
 茼	tang5	600
-銅	tang5	2000
+銅	tang5	2100
 陳	tang5	600
 但	tang6	600
 凼	tang6	600

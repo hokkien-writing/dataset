@@ -737,7 +737,7 @@ engine:
     - uniquifier
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ-"
   initials: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
   delimiter: " '"
   use_space: false
@@ -1125,20 +1125,25 @@ def format_comment_format(rules: list) -> str:
 
 
 def _clean_en(en_text: str) -> str:
-    if en_text.startswith("#") or en_text.startswith("-") or en_text.startswith(":"):
+    if en_text.startswith("#") or en_text.startswith(":"):
         return ""
     text = en_text
+    text = text.lstrip("-")
     text = re.sub(r"\s*[─—–]\s*.*", "", text)
     text = re.sub(r"\[[^\]]*\]", "", text)
     text = re.sub(r'"[^"]*"', "", text)
     text = re.sub(r"means.*", "", text)
-    text = re.sub(r"[^a-zA-Z ]", "", text)
-    text = re.sub(r" +", " ", text).strip()
+    text = re.sub(r"[^a-zA-Z -]", "", text)
+    text = text.strip()
     words = text.split()
-    if len(words) > 1 and words[0].lower() in ("a", "an", "the"):
+    strip_front = {"a", "an", "the"}
+    strip_back = {"a", "an", "the", "then"}
+    while len(words) > 1 and words[0].lower() in strip_front:
         words = words[1:]
-        text = " ".join(words)
-    return text if len(text.split()) <= 5 else ""
+    while len(words) > 1 and words[-1].lower() in strip_back:
+        words = words[:-1]
+    text = "-".join(words)
+    return text if len(text.split("-")) <= 5 else ""
 
 
 def write_en_dict(
@@ -1179,6 +1184,8 @@ def write_en_dict(
         if not en_clean:
             continue
         han = (row.get("han") or "").strip()
+        if re.search(r"[。.!?！？]", han):
+            continue
         han = _BRACKET_RE.sub("", han)
         has_han = han and not (
             han.startswith("-") or han.startswith(":") or han.startswith("#")

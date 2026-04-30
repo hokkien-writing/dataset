@@ -4228,7 +4228,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ to** Lā-liâng; lā-chhìn ... ... ... ~~吹涼~~(納凉)  ~~吹冷~~(納凊)
 - **Coolie** Taⁿ-tàⁿ; ngẽ-kioh ... ... ... ~~担~~(擔)擔  ++硬腳++
 - **Cooper** Khou-tháng ... ... ... ~~篐~~(箍)桶
-- **Copper** Tàng ... ... ... 銅
+- **Copper** Tâng ... ... ... 銅
 - **Coppersmith** Phah-tâng sai-pẽ ... ... ... ~~打~~(拍)銅司阜
 - **Copy** Tshau ... ... ... 抄
 - **Cork** That ... ... ... 塞

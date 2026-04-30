@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_tl
   name: 福建話·台羅
-  version: "20260430.154516"
+  version: "20260430.220133"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
