@@ -1128,13 +1128,14 @@ def _clean_en(en_text: str) -> str:
     if en_text.startswith("#") or en_text.startswith("-") or en_text.startswith(":"):
         return ""
     text = en_text
+    text = re.sub(r"\s*[─—–]\s*.*", "", text)
     text = re.sub(r"\[[^\]]*\]", "", text)
     text = re.sub(r'"[^"]*"', "", text)
     text = re.sub(r"means.*", "", text)
     text = re.sub(r"[^a-zA-Z ]", "", text)
     text = re.sub(r" +", " ", text).strip()
     words = text.split()
-    if len(words) > 1 and words[0].lower() in ("a", "an"):
+    if len(words) > 1 and words[0].lower() in ("a", "an", "the"):
         words = words[1:]
         text = " ".join(words)
     return text if len(text.split()) <= 5 else ""

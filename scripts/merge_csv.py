@@ -75,7 +75,7 @@ def lower_first_en(text: str) -> str:
     if not text or not text[0].isupper():
         return text
     m = _WORD_RE.match(text)
-    if m and m.group(0) in CAPITALIZED_EN:
+    if m and (m.group(0) in CAPITALIZED_EN or m.group(0).isupper()):
         return text
     return text[0].lower() + text[1:]
 

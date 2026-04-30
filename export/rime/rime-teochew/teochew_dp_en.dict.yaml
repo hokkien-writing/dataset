@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_dp_en
-version: "20260430.081810"
+version: "20260430.154516"
 sort: by_weight
 ...
 
@@ -129,6 +129,7 @@ lim²lim²	almost	50
 終久 (zong¹gu²)	always	100
 欽差 (kim¹cê¹)	ambassador	100
 補 (bou²)	amend to make up	100
+花旗行倒賬了 (huê¹gi⁵hang⁵ do²diêⁿ³lo⁷)	American firm is bankrupt	100
 銃子火藥 (cêng³zi² huê²iêh⁸)	ammunition	100
 計共 (goi³gang⁷)	amount	100
 佚佗 (tid⁴to⁵)	amusement	100
@@ -390,6 +391,7 @@ kang⁵kia⁵	attend on sick person	50
 知觀 (zai¹guan¹)	beware	100
 戇去 (gong⁵ke³)	bewildered	100
 過 (guê³)	beyond to go	100
+聖書 (siaⁿ³ze¹)	Bible	100
 單 (duaⁿ¹)	bill	100
 攬儎字 (nam²zai⁷ri⁷)	bill of lading	100
 收數 (siu¹siou³)	billcollector	100
@@ -517,6 +519,8 @@ tau⁵ diêⁿ³loh⁸lai⁵	bow to	50
 匣 (ab⁸)	box little	100
 阿孥 (a¹nouⁿ⁵)	boy	100
 孥囝 (nouⁿ⁵giaⁿ²)	boy	100
+四指呾無 (si³zoiⁿ² daⁿ³bho⁵)	boy says	100
+小兒在耍 (nouⁿ¹giaⁿ² do⁶ sng²)	boys are playing	100
 手環 (ciu²huan⁵)	bracelet	100
 褲吊 (kou³diou³)	braces	100
 頭殼髓 (tau⁵kag⁴cuê²)	brain	100
@@ -737,6 +741,7 @@ biouh⁴sun²	bud to	50
 醃雞 (iam¹goi¹)	capon	100
 船主 (zun⁵zu²)	captain	100
 伙長 (huê²diêⁿ²)	captain	100
+火長起去 (huê²diêⁿ² ki²ke³)	captain has gone on shore	100
 船主 (zun⁵zu²)	captain of foreign vessel	100
 舵工 (dai⁶gong¹)	captain of native vessel	100
 火長 (huê²diêⁿ²)	captain of steamer	100
@@ -863,6 +868,7 @@ biouh⁴sun²	bud to	50
 大伙 (dua⁷huê²)	chief mate	100
 阿孥 (a¹nouⁿ⁵)	child	100
 囝 (giaⁿ²)	child	100
+阿孥在哭 (a¹nouⁿ⁵ do⁶ kau³)	child is crying	100
 孥囝款 (nouⁿ⁵giaⁿ²kuan²)	childish manner	100
 無囝無兒 (bho⁵giaⁿ² bho⁵ri¹)	childless	100
 薟椒 (hiam¹ziê¹)	chillies	100
@@ -880,6 +886,7 @@ biouh⁴sun²	bud to	50
 炕床 (kang³cng⁵)	Chinese couch	100
 燉鉢 (dun⁶buah⁴)	Chinese earthen cooking vessel	100
 鍋囝 (uê¹giaⁿ²)	Chinese earthen kettle	100
+菜豆唐人炒 (cai³dau⁷ dng⁵nang⁵ ca²)	Chinese fry long beans	100
 酒鍾 (ziu²zêng¹)	Chinese liquor cups	100
 白竹紙 (bêh⁸dêg⁴zua²)	Chinese note paper	100
 虱箆 (sad⁴bin³)	Chinese smalltooth comb	100
@@ -924,6 +931,7 @@ biouh⁴sun²	bud to	50
 箍 (kou¹)	circle	100
 圈 (kuang¹)	circle	100
 城 (siaⁿ⁵)	city	100
+城是大在 (siaⁿ⁵ si⁶ dua⁷zai⁶)	city is very large	100
 曉情理 (hiou²cêng⁵li²)	civil not barbarous	100
 君子 (gun¹ze²)	civil not barbarous	100
 討 (to²)	claim	100
@@ -1630,6 +1638,7 @@ dou⁶giang³gui²	echo	50
 叫 (giê³)	engage servants	100
 藥機 (iêh⁸gui²)	engine	100
 管藥機个人 (guan²iêh⁸gui²gai⁵nang⁵)	engineer	100
+英國人就曉 (êng¹gog⁴nang⁵ ziu⁶hiou²)	English understand	100
 刻 (kêg⁴)	engrave	100
 割 (guah⁴)	engrave	100
 夠 (gau³)	enough	100
@@ -1843,6 +1852,7 @@ ngaih⁸	firm steady	50
 魚春 (he⁵cun¹)	fishroe	100
 魚子 (he⁵zi²)	fishroe	100
 拳頭 (kun⁵tau⁵)	fist	100
+五牲 (ngou²sêⁿ¹)	five kinds of offerings	100
 定 (diaⁿ⁷)	fix as date	100
 旗 (gi⁵)	flag	100
 旗杆 (gi⁵guaⁿ¹)	flagstaff	100
@@ -1861,6 +1871,7 @@ so⁶	fling	50
 大水 (dua⁷zui²)	flood	100
 流漲 (lau⁵ diⁿ⁶)	floodtide	100
 塗骹 (tou⁵ka¹)	floor earth of tile	100
+樓頂樓枋亦是此樣生 (lau⁵dêng² lau⁵bang¹ ia⁷ si⁶ ziêⁿ³sêⁿ¹)	floor upstairs the same	100
 鯧魚 (ciêⁿ¹he⁵)	flounder	100
 麵 (miⁿ⁷)	flour	100
 流 (lau⁵)	flow	100
@@ -1916,6 +1927,7 @@ rih⁴	fold clothes	50
 地骹 (di⁷ka¹)	foundation	100
 泉 (zuaⁿ⁵)	fountain	100
 水泉 (zui²zuaⁿ⁵)	fountain	100
+四季 (si³kui³)	four seasons	100
 四更 (si³gêⁿ¹)	fourth watch from to am	100
 雞 (goi¹)	fowl	100
 狐狸 (hou⁵lai⁵)	fox	100
@@ -2016,6 +2028,7 @@ kong¹	gong with a boss	50
 朝廷 (ciou⁵têng⁵)	government	100
 漸漸 (ziam⁶ziam⁶)	gradually	100
 寬寬 (kuaⁿ¹kuaⁿ¹)	gradually	100
+秀才就跪落去 (siu³zai⁵ ziu⁶ gui⁶loh⁸ke³)	graduate knelt down	100
 五穀 (ngou⁶gag⁴)	grain	100
 表伯 (biê³bêh⁴)	grandaunts child elder paternal	100
 表叔 (biê³zêg⁴)	grandaunts child younger paternal	100
@@ -2255,6 +2268,7 @@ zêg⁸uê⁵	half	50
 點鐘 (diam²zêng¹)	hour	100
 時辰 (si⁵sin⁵)	hour Chinese	100
 厝 (cu³)	house	100
+厝漏 (cu³ lau⁷)	house leaks	100
 厝稅 (cu³suê³)	house rent	100
 怎呢 (zo³niⁿ⁵)	how	100
 若 (riêh⁸)	how	100
@@ -2525,6 +2539,7 @@ zêg⁸uê⁵	half	50
 拐骹 (guai²ka¹)	lame	100
 燈 (dêng¹)	lamp	100
 燈心 (dêng¹sim¹)	lamp wick	100
+燈拭毋清潔 (dêng¹ cid⁴ m⁶cêng¹ki¹)	lamps are not wiped clean	100
 槍 (ciêⁿ¹)	lance	100
 地 (di⁷)	land	100
 田園 (can⁵hng⁵)	land property	100
@@ -2619,6 +2634,7 @@ huê¹niouⁿ¹	lie to tell an untruth	50
 四肢 (si³ziⁿ¹)	limbs the four	100
 灰 (huê¹)	lime	100
 灰埕 (huê¹diaⁿ⁵)	lime floor	100
+灰埕亦着洗 (huê¹diaⁿ⁵ ia⁷ diêh⁸ soi²)	lime floor must be washed	100
 酸柑 (sng¹gaⁿ¹)	lime sour	100
 限 (han⁶)	limit	100
 度 (dou⁷)	limit	100
@@ -2842,8 +2858,10 @@ huê¹niouⁿ¹	lie to tell an untruth	50
 碑 (bi¹)	monument	100
 石亭 (ziêh⁸dêng⁵)	monument high like a pagoda	100
 月 (ghuêh⁸)	moon	100
+月在浮 (ghuêh⁸ do⁶ pu⁵)	moon is rising	100
 月 (ghuêh⁸)	moon or month	100
 加 (gê¹)	more	100
+愈㩼愈好 (ru²zoi⁷ ru²ho²)	more the better	100
 眠起 (mêng⁵ki²)	morning	100
 灰塗 (huê¹tou⁵)	mortar	100
 臼 (ku⁶)	mortar	100
@@ -3140,6 +3158,7 @@ huê¹niouⁿ¹	lie to tell an untruth	50
 百姓 (bêh⁴sêⁿ³)	people	100
 眾人 (zêng³nang⁵)	people all the	100
 大家 (dai⁶gê¹)	people all the	100
+百姓呵咾此個官府 (bêh⁴sêⁿ³ o¹lo² zi²gai⁵ guaⁿ¹hu²)	people praise this mandarin	100
 胡椒 (hou⁵ziê¹)	pepper	100
 薄荷油 (bo⁵ho³iu⁵)	peppermint	100
 全 (cuan⁵)	perfect	100
@@ -3188,6 +3207,7 @@ tiab⁸	pile to	50
 柱 (tiou⁶)	pillar a post	100
 枕頭 (zim²tau⁵)	pillow	100
 枕頭囊 (zim²tau⁵long⁵)	pillowcase	100
+枕頭亦着曝 (zim²tau⁵ ia⁷ diêh⁸ pag⁸)	pillows must be aired too	100
 藥丸 (iêh⁸iⁿ²)	pills	100
 𤆬水 (cua⁷zui²)	pilot	100
 鮡 (tiou⁵)	pimples	100
@@ -3220,6 +3240,7 @@ tiab⁸	pile to	50
 伍星 (ngou²cêⁿ¹)	planet	100
 枋 (bang¹)	planks	100
 種 (zêng³)	plant to	100
+花攏總皺皺 (huê¹ long²zong² riou⁵riou⁵)	plants are all dried up	100
 花 (huê¹)	plants or flowers	100
 鎏銀器 (liu⁷ngen⁵ki³)	plated ware silver	100
 盤 (buaⁿ⁵)	plates	100
@@ -3268,6 +3289,7 @@ tiab⁸	pile to	50
 囝孫 (giaⁿ²sun¹)	posterity	100
 批館 (poi¹guan²)	postoffice	100
 信關 (sin³guan¹)	postoffice	100
+信關在礐石 (sin³guan¹ do⁶ gag⁴ziêh⁸)	postoffice is at Kakchieh	100
 按 (an³)	postpone	100
 當 (dong³)	postpone	100
 鉢 (buah⁴)	pot	100
@@ -3368,6 +3390,7 @@ bui³	prickly heat	50
 家業 (gê¹ngiab⁸)	property	100
 家事 (gê¹se⁷)	property	100
 物業 (muêh⁸ngiab⁸)	property	100
+財主在彼內 (cai⁵zu² do⁶ he²lai⁶)	proprietor is inside	100
 告 (go³)	prosecute to	100
 原告 (nguan⁵go³)	prosecutor	100
 興盛 (hêng¹sêng⁶)	prosper	100
@@ -3440,7 +3463,9 @@ giuh⁴	pump to	50
 火車 (huê²cia¹)	railway	100
 雨 (hou⁶)	rain	100
 棕蓑 (zang¹sui¹)	rain coat made of husk	100
+雨愛來 (hou⁶ aiⁿ³lai⁵)	rain is coming	100
 虹 (kêng⁶)	rainbow	100
+虹有加加色 (kêng⁶ u⁶ gê¹gê¹ sêg⁴)	rainbow has many colours	100
 葡萄干 (pu⁵to⁵guaⁿ¹)	raisins	100
 職銜 (zêh⁴ham⁵)	rank	100
 少有 (ziê²u⁶)	rare	100
@@ -3755,6 +3780,7 @@ nag⁸	scoop with one hand	50
 初二 (ciu¹ri⁶)	second day of the moon	100
 二伙 (ri⁶huê²)	second mate	100
 二月 (ri⁶ghuêh⁸)	second moon	100
+二月還了是凊 (ri⁶ghuêh⁸ huan⁵liou² si⁶ cin³)	second moon is still cold	100
 二更 (ri⁶gêⁿ¹)	second watch from to pm	100
 暗靜 (am³zêⁿ⁶)	secret	100
 保領 (bo²niaⁿ²)	security to stand	100
@@ -4007,6 +4033,7 @@ him³si²	smother	50
 入會 (rib⁸huê⁶)	society to join	100
 軟 (nng²)	soft	100
 塗 (tou⁵)	soil	100
+塗袂肥 (tou⁵ bhoi⁷bui⁵)	soil is not fertile	100
 鑲 (un²)	solder to	100
 勇將 (iong²ziang³)	soldier	100
 老將 (lau²ziang³)	soldier	100
@@ -4150,6 +4177,7 @@ dêⁿ⁶	squeeze with the hand	50
 漿 (ziêⁿ¹)	starch	100
 過漿 (guê³ziêⁿ¹)	starch to	100
 星 (cêⁿ¹)	stars	100
+星灼灼熠 (cêⁿ¹ iab⁸iab⁸sih⁴)	stars are twinkling	100
 起行 (ki²giaⁿ⁵)	start on a journey	100
 起身 (ki²sin¹)	start on a journey	100
 嚇一下叫 (hehⁿ¹zê⁷giê³)	startled	100
@@ -4376,6 +4404,8 @@ so⁶	swing	50
 床 (cng⁵)	table	100
 桌 (doh⁴)	table	100
 床布 (cng⁵bou³)	table cloth	100
+床擺未好 (cng⁵ bai² bhuê⁷ho²)	table is not ready	100
+燈盞个火熄去 (lêng¹zuaⁿ² gai⁵ huê² guê³ke³)	table lamp has gone out	100
 床落凍石 (cng⁵ loh⁸ dang³ziêh⁸)	tables with marbletop	100
 兩 (niêⁿ²)	tael	100
 尾 (bhuê²)	tail	100
@@ -4476,39 +4506,6 @@ de⁵	tease annoy	50
 好了 (ho²lo⁷)	that will do	100
 袂使 (bhoi⁶sai²)	that wont do	100
 就是此樣生 (ziu⁶si⁶ ziêⁿ³sêⁿ¹)	thats all	100
-花旗行倒賬了 (huê¹gi⁵hang⁵ do²diêⁿ³lo⁷)	the American firm is bankrupt	100
-聖書 (siaⁿ³ze¹)	the Bible	100
-四指呾無 (si³zoiⁿ² daⁿ³bho⁵)	the boy says	100
-小兒在耍 (nouⁿ¹giaⁿ² do⁶ sng²)	the boys are playing	100
-阿孥在哭 (a¹nouⁿ⁵ do⁶ kau³)	the child is crying	100
-菜豆唐人炒 (cai³dau⁷ dng⁵nang⁵ ca²)	the Chinese fry long beans	100
-城是大在 (siaⁿ⁵ si⁶ dua⁷zai⁶)	the city is very large	100
-英國人就曉 (êng¹gog⁴nang⁵ ziu⁶hiou²)	the English understand	100
-五牲 (ngou²sêⁿ¹)	the five kinds of offerings	100
-樓頂樓枋亦是此樣生 (lau⁵dêng² lau⁵bang¹ ia⁷ si⁶ ziêⁿ³sêⁿ¹)	the floor upstairs the same	100
-四季 (si³kui³)	the four seasons	100
-秀才就跪落去 (siu³zai⁵ ziu⁶ gui⁶loh⁸ke³)	the graduate knelt down	100
-厝漏 (cu³ lau⁷)	the house leaks	100
-月在浮 (ghuêh⁸ do⁶ pu⁵)	the moon is rising	100
-愈㩼愈好 (ru²zoi⁷ ru²ho²)	the more the better	100
-百姓呵咾此個官府 (bêh⁴sêⁿ³ o¹lo² zi²gai⁵ guaⁿ¹hu²)	the people praise this mandarin	100
-信關在礐石 (sin³guan¹ do⁶ gag⁴ziêh⁸)	the postoffice is at Kakchieh	100
-財主在彼內 (cai⁵zu² do⁶ he²lai⁶)	the proprietor is inside	100
-雨愛來 (hou⁶ aiⁿ³lai⁵)	the rain is coming	100
-虹有加加色 (kêng⁶ u⁶ gê¹gê¹ sêg⁴)	the rainbow has many colours	100
-塗袂肥 (tou⁵ bhoi⁷bui⁵)	the soil is not fertile	100
-星灼灼熠 (cêⁿ¹ iab⁸iab⁸sih⁴)	the stars are twinkling	100
-床擺未好 (cng⁵ bai² bhuê⁷ho²)	the table is not ready	100
-三牲 (saⁿ¹sêⁿ¹)	the three kinds of offerings	100
-雷公响 (lui⁵gong¹ dan²)	the thunder roars	100
-樹袂發 (ciu⁷ bhoi⁶huad⁴)	the trees do not grow	100
-風颱時風險 (huang¹tai¹ si⁶ hong¹hiam²)	the typhoon is dangerous	100
-天時好了 (tiⁿ¹si⁵ ho²lo⁷)	the weather is fine	100
-燈心了囉 (dêng¹sim¹ liou²lo⁷)	the wick is burnt down	100
-風大 (huang¹ dua⁷)	the wind is blowing hard	100
-世間 (si³gan¹)	the world	100
-天下 (tiⁿ¹ê⁶)	the world	100
-天下是闊 (tiⁿ¹ê⁶ si⁶ kuah⁴)	the world is broad	100
 戲 (hi³)	theatre	100
 戲 (hi³)	theatre a	100
 做賊 (zo³cad⁸)	theft	100
@@ -4574,6 +4571,7 @@ sah⁴zo³	think erroneously	50
 線 (suaⁿ³)	thread	100
 嚇 (hêh⁴)	threaten	100
 嚇驚 (hêh⁴giaⁿ¹)	threaten	100
+三牲 (saⁿ¹sêⁿ¹)	three kinds of offerings	100
 喉 (au⁵)	throat	100
 喉嚨 (au⁵lêng⁵)	throat	100
 金鑾殿 (gim¹luan⁵doiⁿ⁷)	throne imperial	100
@@ -4596,6 +4594,7 @@ sêg⁴	throw to	50
 指頭公 (zng²tau⁵gong¹)	thumb	100
 雷 (lui⁵)	thunder lightning	100
 雷公 (lui⁵gong¹)	thunder lightning	100
+雷公响 (lui⁵gong¹ dan²)	thunder roars	100
 拜四 (bai³si³)	Thursday	100
 單 (duaⁿ¹)	ticket	100
 hui¹	ticket pawn	50
@@ -4791,6 +4790,7 @@ diaⁿ¹diêh⁸	touch come into contact	50
 款待 (kuan²tai⁶)	treat to	100
 待 (tai⁶)	treat to	100
 樹 (ciu⁷)	trees	100
+樹袂發 (ciu⁷ bhoi⁶huad⁴)	trees do not grow	100
 kiu⁷	tremble	50
 凍 (dong³)	tremble	100
 三角 (saⁿ¹gag⁴)	triangle	100
@@ -4852,6 +4852,7 @@ kiu⁷	tremble	50
 印板 (in³boiⁿ²)	type printing	100
 字板 (ri⁷boiⁿ²)	type printing	100
 風颱 (huang¹tai¹)	typhoon	100
+風颱時風險 (huang¹tai¹ si⁶ hong¹hiam²)	typhoon is dangerous	100
 野樣 (ia²iêⁿ⁷)	ugly	100
 糜骹 (miⁿ⁵ka¹)	ulcerated leg	100
 綁骹臁 (bang²ka¹liam⁵)	ulcerated leg	100
@@ -4982,6 +4983,7 @@ ciêⁿ⁶siê¹	warm of weather mild	50
 dag⁴nng⁷	waste to	50
 時鏢 (si⁵biê¹)	watch	100
 掌 (ziêⁿ²)	watch to	100
+巡更个人昨夜無掌 (ziêⁿ²gêⁿ¹gai⁵nang⁵ za¹mêⁿ⁵ bho⁵ ziêⁿ²)	watchman didnt watch last night	100
 水 (zui²)	water	100
 水缸 (zui²gng¹)	water jar	100
 沃 (ag⁴)	water to	100
@@ -5011,6 +5013,7 @@ puh⁸	weak in power influence	50
 天時 (tiⁿ¹si⁵)	weather	100
 天 (tiⁿ⁵)	weather	100
 天時烏暗 (tiⁿ¹si⁵ ou¹am³)	weather black and dark	100
+天時好了 (tiⁿ¹si⁵ ho²lo⁷)	weather is fine	100
 經布 (gêⁿ¹bou³)	weave	100
 蜘蛛絲 (di¹du¹si¹)	web spiders	100
 錢 (ziⁿ¹)	wedge	100
@@ -5091,6 +5094,7 @@ puh⁸	weak in power influence	50
 伊怎呢無來 (i¹ zo³niⁿ⁵ bho⁵lai⁵?)	why did he not come	100
 汝怎呢毋信我 (le² zo³niⁿ⁵ m⁶sin³ ua²?)	why dont you believe me	100
 怎呢無呢 (zo³niⁿ⁵ bho⁵nê⁷?)	why not	100
+燈心了囉 (dêng¹sim¹ liou²lo⁷)	wick is burnt down	100
 惡 (ag⁴)	wicked	100
 痞 (pai²)	wicked	100
 闊 (kuah⁴)	wide	100
@@ -5115,6 +5119,7 @@ puh⁸	weak in power influence	50
 愿 (nguan⁶)	willing	100
 風 (huang¹)	wind	100
 絞 (ga²)	wind as a clock	100
+風大 (huang¹ dua⁷)	wind is blowing hard	100
 窗 (têng¹)	window	100
 翼 (sid⁸)	wing	100
 攝目 (nih⁴mag⁸)	wink	100
@@ -5149,6 +5154,7 @@ puh⁸	weak in power influence	50
 天下 (tiⁿ¹ê⁶)	world	100
 普天下 (pou²tiⁿ¹ê⁶)	world all the	100
 普天骹下 (pou²tiⁿ¹ka¹ê⁶)	world all the	100
+天下是闊 (tiⁿ¹ê⁶ si⁶ kuah⁴)	world is broad	100
 蟲 (tang⁵)	worm	100
 冊魚 (cêh⁴he⁵)	worm in books	100
 愈毋孬 (ru²m⁶moⁿ²)	worse	100
