@@ -39,6 +39,10 @@ SYSTEM_NAMES = {
     "bp": "福建話·拼音",
 }
 
+SOURCE_WEIGHT = {
+    "dieghv": 0.5,
+}
+
 
 _puj_converter = create_converter("PUJ")
 
@@ -89,16 +93,21 @@ def load_entries(all_rows: list[dict], require_systems: Optional[list] = None):
             if not any((row.get(s) or "").strip() for s in require_systems):
                 continue
         clean_han = _BRACKET_RE.sub("", han)
+        source = (row.get("source") or "").strip()
+        base_weight = int(100 * SOURCE_WEIGHT.get(source, 1))
         if clean_han:
             key = (latn_norm, clean_han)
-            counts[key] += 100
+            if key in counts:
+                counts[key] += 1
+            else:
+                counts[key] = base_weight
             if key not in systems_data:
                 systems_data[key] = {
                     "puj": (row.get("puj") or "").strip(),
                     "dp": (row.get("dp") or "").strip(),
                 }
         if han_variants:
-            w = 100
+            w = base_weight
             for variant in han_variants.split("|"):
                 v = variant.strip()
                 if v:
@@ -106,7 +115,11 @@ def load_entries(all_rows: list[dict], require_systems: Optional[list] = None):
                     if clean_v:
                         w = w // 2
                         if w > 0:
-                            counts[(latn_norm, clean_v)] += w
+                            var_key = (latn_norm, clean_v)
+                            if var_key in counts:
+                                counts[var_key] += 1
+                            else:
+                                counts[var_key] = w
     return counts, systems_data
 
 
@@ -179,12 +192,13 @@ def load_all_entries_for_chars(
         if len(all_syllables) != len(chars_list):
             continue
 
-        base_weight = 100
+        source = (row.get("source") or "").strip()
+        base_weight = int(100 * SOURCE_WEIGHT.get(source, 1))
         for syl, ch in zip(all_syllables, chars_list):
             if (syl, ch) not in char_counts:
                 char_counts[(syl, ch)] = base_weight
             else:
-                char_counts[(syl, ch)] += base_weight
+                char_counts[(syl, ch)] += 1
 
         if han_variants:
             last_weight = base_weight
@@ -212,7 +226,7 @@ def load_all_entries_for_chars(
                             if (syl, ch) not in char_counts:
                                 char_counts[(syl, ch)] = last_weight
                             else:
-                                char_counts[(syl, ch)] += last_weight
+                                char_counts[(syl, ch)] += 1
     return char_counts
 
 
