@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_tl_syllables
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 ...
 
@@ -250,6 +250,8 @@ buàn	buan3	1
 buân	buan5	1
 buǎn	buan6	1
 buān	buan7	1
+buat	buat4	1
+bua̍t	buat8	1
 bue	bue1	1
 bué	bue2	1
 buè	bue3	1
@@ -628,6 +630,8 @@ tshuàⁿ	chhuann3	1
 tshuâⁿ	chhuann5	1
 tshuǎⁿ	chhuann6	1
 tshuāⁿ	chhuann7	1
+tshuat	chhuat4	1
+tshua̍t	chhuat8	1
 tshue	chhue1	1
 tshué	chhue2	1
 tshuè	chhue3	1
@@ -1150,6 +1154,8 @@ guàn	guan3	1
 guân	guan5	1
 guǎn	guan6	1
 guān	guan7	1
+guat	guat4	1
+gua̍t	guat8	1
 gue	gue1	1
 gué	gue2	1
 guè	gue3	1
@@ -1542,6 +1548,8 @@ huàⁿ	huann3	1
 huâⁿ	huann5	1
 huǎⁿ	huann6	1
 huāⁿ	huann7	1
+huat	huat4	1
+hua̍t	huat8	1
 hue	hue1	1
 hué	hue2	1
 huè	hue3	1
@@ -1846,6 +1854,8 @@ juàn	juan3	1
 juân	juan5	1
 juǎn	juan6	1
 juān	juan7	1
+juat	juat4	1
+jua̍t	juat8	1
 jue	jue1	1
 jué	jue2	1
 juè	jue3	1
@@ -2232,6 +2242,8 @@ khuàⁿ	khuann3	1
 khuâⁿ	khuann5	1
 khuǎⁿ	khuann6	1
 khuāⁿ	khuann7	1
+khuat	khuat4	1
+khua̍t	khuat8	1
 khue	khue1	1
 khué	khue2	1
 khuè	khue3	1
@@ -2468,6 +2480,8 @@ kuàⁿ	kuann3	1
 kuâⁿ	kuann5	1
 kuǎⁿ	kuann6	1
 kuāⁿ	kuann7	1
+kuat	kuat4	1
+kua̍t	kuat8	1
 kue	kue1	1
 kué	kue2	1
 kuè	kue3	1
@@ -2768,6 +2782,8 @@ luàn	luan3	1
 luân	luan5	1
 luǎn	luan6	1
 luān	luan7	1
+luat	luat4	1
+lua̍t	luat8	1
 lue	lue1	1
 lué	lue2	1
 luè	lue3	1
@@ -3520,6 +3536,8 @@ phuàⁿ	phuann3	1
 phuâⁿ	phuann5	1
 phuǎⁿ	phuann6	1
 phuāⁿ	phuann7	1
+phuat	phuat4	1
+phua̍t	phuat8	1
 phue	phue1	1
 phué	phue2	1
 phuè	phue3	1
@@ -3664,6 +3682,8 @@ puàⁿ	puann3	1
 puâⁿ	puann5	1
 puǎⁿ	puann6	1
 puāⁿ	puann7	1
+puat	puat4	1
+pua̍t	puat8	1
 pue	pue1	1
 pué	pue2	1
 puè	pue3	1
@@ -4024,6 +4044,8 @@ suàⁿ	suann3	1
 suâⁿ	suann5	1
 suǎⁿ	suann6	1
 suāⁿ	suann7	1
+suat	suat4	1
+sua̍t	suat8	1
 sue	sue1	1
 sué	sue2	1
 suè	sue3	1
@@ -4412,6 +4434,8 @@ thuàⁿ	thuann3	1
 thuâⁿ	thuann5	1
 thuǎⁿ	thuann6	1
 thuāⁿ	thuann7	1
+thuat	thuat4	1
+thua̍t	thuat8	1
 thue	thue1	1
 thué	thue2	1
 thuè	thue3	1
@@ -4658,6 +4682,8 @@ tuàⁿ	tuann3	1
 tuâⁿ	tuann5	1
 tuǎⁿ	tuann6	1
 tuāⁿ	tuann7	1
+tuat	tuat4	1
+tua̍t	tuat8	1
 tue	tue1	1
 tué	tue2	1
 tuè	tue3	1
@@ -4726,6 +4752,8 @@ uàⁿ	uann3	1
 uâⁿ	uann5	1
 uǎⁿ	uann6	1
 uāⁿ	uann7	1
+uat	uat4	1
+ua̍t	uat8	1
 uatoa	uatoa1	1
 uatoá	uatoa2	1
 uatoà	uatoa3	1

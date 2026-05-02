@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_bp_syllables
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 ...
 
@@ -250,6 +250,8 @@ bbuàn	buan3	1
 bbuán	buan5	1
 bbuan	buan6	1
 bbuân	buan7	1
+bbuāt	buat4	1
+bbuát	buat8	1
 bbuē	bue1	1
 bbuě	bue2	1
 bbuè	bue3	1
@@ -628,6 +630,8 @@ cnuà	chhuann3	1
 cnuá	chhuann5	1
 cnua	chhuann6	1
 cnuâ	chhuann7	1
+cuāt	chhuat4	1
+cuát	chhuat8	1
 cuē	chhue1	1
 cuě	chhue2	1
 cuè	chhue3	1
@@ -1150,6 +1154,8 @@ gguàn	guan3	1
 gguán	guan5	1
 gguan	guan6	1
 gguân	guan7	1
+gguāt	guat4	1
+gguát	guat8	1
 gguē	gue1	1
 gguě	gue2	1
 gguè	gue3	1
@@ -1542,6 +1548,8 @@ hnuà	huann3	1
 hnuá	huann5	1
 hnua	huann6	1
 hnuâ	huann7	1
+huāt	huat4	1
+huát	huat8	1
 huē	hue1	1
 huě	hue2	1
 huè	hue3	1
@@ -1846,6 +1854,8 @@ zzuàn	juan3	1
 zzuán	juan5	1
 zzuan	juan6	1
 zzuân	juan7	1
+zzuāt	juat4	1
+zzuát	juat8	1
 zzuē	jue1	1
 zzuě	jue2	1
 zzuè	jue3	1
@@ -2232,6 +2242,8 @@ knuà	khuann3	1
 knuá	khuann5	1
 knua	khuann6	1
 knuâ	khuann7	1
+kuāt	khuat4	1
+kuát	khuat8	1
 kuē	khue1	1
 kuě	khue2	1
 kuè	khue3	1
@@ -2468,6 +2480,8 @@ gnuà	kuann3	1
 gnuá	kuann5	1
 gnua	kuann6	1
 gnuâ	kuann7	1
+guāt	kuat4	1
+guát	kuat8	1
 guē	kue1	1
 guě	kue2	1
 guè	kue3	1
@@ -2768,6 +2782,8 @@ luàn	luan3	1
 luán	luan5	1
 luan	luan6	1
 luân	luan7	1
+luāt	luat4	1
+luát	luat8	1
 luē	lue1	1
 luě	lue2	1
 luè	lue3	1
@@ -3520,6 +3536,8 @@ pnuà	phuann3	1
 pnuá	phuann5	1
 pnua	phuann6	1
 pnuâ	phuann7	1
+puāt	phuat4	1
+puát	phuat8	1
 puē	phue1	1
 puě	phue2	1
 puè	phue3	1
@@ -3664,6 +3682,8 @@ bnuà	puann3	1
 bnuá	puann5	1
 bnua	puann6	1
 bnuâ	puann7	1
+buāt	puat4	1
+buát	puat8	1
 buē	pue1	1
 buě	pue2	1
 buè	pue3	1
@@ -4024,6 +4044,8 @@ snuà	suann3	1
 snuá	suann5	1
 snua	suann6	1
 snuâ	suann7	1
+suāt	suat4	1
+suát	suat8	1
 suē	sue1	1
 suě	sue2	1
 suè	sue3	1
@@ -4412,6 +4434,8 @@ tnuà	thuann3	1
 tnuá	thuann5	1
 tnua	thuann6	1
 tnuâ	thuann7	1
+tuāt	thuat4	1
+tuát	thuat8	1
 tuē	thue1	1
 tuě	thue2	1
 tuè	thue3	1
@@ -4658,6 +4682,8 @@ dnuà	tuann3	1
 dnuá	tuann5	1
 dnua	tuann6	1
 dnuâ	tuann7	1
+duāt	tuat4	1
+duát	tuat8	1
 duē	tue1	1
 duě	tue2	1
 duè	tue3	1
@@ -4726,6 +4752,8 @@ nuà	uann3	1
 nuá	uann5	1
 nua	uann6	1
 nuâ	uann7	1
+uāt	uat4	1
+uát	uat8	1
 uatoā	uatoa1	1
 uatoǎ	uatoa2	1
 uatoà	uatoa3	1

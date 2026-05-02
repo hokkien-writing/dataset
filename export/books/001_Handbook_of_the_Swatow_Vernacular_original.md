@@ -1566,7 +1566,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **燈拭不清潔** Teng chhit m̃-chheng-khi ... ... ... The lamps are not wiped clean.
 - **共四指呾，呌伊另外栻** Kah sì-tsóiⁿ tàⁿ, hàm i lêng-ngūa chhit ... ... ... Tell the boy to wipe the lamps again.
 - **爾此內有許多奇物** Lṳ́ chí-lãi ũ chék-tshoh khî-khá-muéh ... ... ... You have a quantity of curiosities in your house.
-- **是趣味在** Sĩ tshù-bi̍ tsãi ... ... ... They are very funny indeed.
+- **是趣味在** Sĩ tshù-bī tsãi ... ... ... They are very funny indeed.
 - **火爐有起火或未** Húe-lôu ũ khí-húe a-būe? ... ... ... Have you made a fire in the grate?
 - **未。我此時正要來起** Būe, uá chí-tsûn chiàⁿ-àiⁿ lâi-khí ... ... ... Not yet, I am just going to make one.
 - **猛猛冷在。火起熱熱** Méⁿ méⁿ chhìn-tsãi, húe-khí jiét-jiét ... ... ... Look sharp, it is very cold, and make the fire very fierce.

@@ -330,12 +330,41 @@ def main():
             if v:
                 row[k] = unicodedata.normalize("NFC", v)
 
+    _ENTERING_ENDINGS = frozenset("ptkh")
+    _SYL_RE = re.compile(r"^([a-z]+)(\d+)(\[.*\])?$")
+    bad_rows = []
+    good_rows = []
+    for row in rows:
+        latn = row["latn_norm"]
+        ok = True
+        for syl in re.split(r"[-\s,]+", latn):
+            m = _SYL_RE.match(syl)
+            if not m:
+                continue
+            body, tone = m.group(1), m.group(2)
+            if tone in ("4", "8"):
+                if body.endswith("hnn"):
+                    continue
+                if body[-1:] not in _ENTERING_ENDINGS:
+                    ok = False
+                    break
+        if ok:
+            good_rows.append(row)
+        else:
+            bad_rows.append(row)
+
+    if bad_rows:
+        print(f"\n⚠ Skipped {len(bad_rows)} entries with invalid entering tone (no p/t/k/h ending):")
+        for row in bad_rows:
+            print(f"  latn={row['latn_norm']!r} poj={row['poj']!r} tl={row['tl']!r}"
+                  f" han={row['han']!r} zh_TW={row['zh_TW']!r} source={row['source']!r}")
+
     with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
         writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)
         writer.writeheader()
-        writer.writerows(rows)
+        writer.writerows(good_rows)
 
-    print(f"Wrote {len(rows)} entries to {OUTPUT_CSV}")
+    print(f"Wrote {len(good_rows)} entries to {OUTPUT_CSV}")
 
 
 if __name__ == "__main__":

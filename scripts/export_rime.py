@@ -513,6 +513,8 @@ SYSTEM_ALGEBRA = {
         "derive/^chh/tsh/",
         "derive/^j/z/",
         "derive/oinn/ainn/",
+        "derive/ien/ian/",
+        "derive/iet/iat/",
         "derive/nn//",
     ]
     + CASE_FOLD

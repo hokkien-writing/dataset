@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 ...
 
@@ -43,7 +43,7 @@ sort: by_weight
 䆀手仔	bai2  chhiu2  a2	100
 䆀手仔枴	bai2  chhiu2  a2  koai2	100
 䆀才	bai2  chai5	104
-䆀抉	bai2  kuan4	100
+䆀抉	bai2  kuat4	100
 䆀指	bai2  chainn2	100
 䆀料	bai2  liau7	100
 䆀樣	bai2  iunn7	100
@@ -403,7 +403,7 @@ sort: by_weight
 一搣仔	chit8  mi1  a2	100
 一搦米	chit8  lak8  bi2	100
 一搭	chit8  tah4	100
-一撇	chit8  phuan4	102
+一撇	chit8  phuat4	102
 一撈一臭	chit8  la7 chit8  chhau3	100
 一撮	chit8  chhok4	101
 一撮仔	chit4  chheh4  a2	100
@@ -517,16 +517,16 @@ sort: by_weight
 一步登天	it4 pou7 teng1  thian1	100
 一歸	it4  kui1	100
 一死百了	it4 su2 pah4 liau2	100
-一毛不拔	it4  mou5  put4  puan8	100
-一毛不拔	it4  mou5 put4  puan8	100
+一毛不拔	it4  mou5  put4  puat8	100
+一毛不拔	it4  mou5 put4  puat8	100
 一毫	it4  ho5	100
 一氣	chit8  khui3	104
 一氣仔	chit8  khui3  a2	100
 一氧化碳	it4  iong5  hua3  thuann3	100
 一水	chit8  chui2	100
 一水仔	chit8  chui2  a2	100
-一決	it4  kuan4	100
-一決雌雄	it4  kuan4 chhu1  hiong5	100
+一決	it4  kuat4	100
+一決雌雄	it4  kuat4 chhu1  hiong5	100
 一波三折	it4  pho1  sam1  chiat4	100
 一注錢	chit8 tu3 chinn5	100
 一派胡言	it4  phai3  hou5  gian5	100
@@ -712,7 +712,7 @@ sort: by_weight
 一角剝	chit8  kak4  pak4	100
 一觴一詠	it4  siong1 it4  eng7	100
 一觸久仔	chit8  tak4  ku2  a2	100
-一觸即發	it4  chhiok4  chek4  huan4	100
+一觸即發	it4  chhiok4  chek4  huat4	100
 一言	it4  gian5	100
 一言不合	it4  gian5  put4  hap8	100
 一言堂	it4  gian5  tong5	100
@@ -734,7 +734,7 @@ sort: by_weight
 一路取	chit8  lou7  chhu2	101
 一路尾	it4  lou7  be2	100
 一路順風	chit8  lou7 sun7  hong1	100
-一蹶不振	it4  kuan4  put4  chin2	100
+一蹶不振	it4  kuat4  put4  chin2	100
 一身	chit8  sin1	101
 一身	it4  sin1	100
 一身頭尾	chit8  sin1 thau5  bue2	100
@@ -851,7 +851,7 @@ sort: by_weight
 丁巳	teng1  su7	100
 丁年	teng1  ni5	100
 丁憂	teng1  iu1	100
-丁抹國	teng1  buan4  kok4	101
+丁抹國	teng1  buat4  kok4	101
 丁挽舅	teng1  ban2  ku7	100
 丁挽舊旗魚	teng1 ban2 ku7 ki5  hi5	100
 丁斑	teng1  pan1	100
@@ -979,7 +979,7 @@ sort: by_weight
 七旬	chhit4  sun5	100
 七星	chhit4  chhenn1	101
 七星	chhit4  chhinn1	101
-七星伴月	chhit4  seng1 phuan7  guan8	100
+七星伴月	chhit4  seng1 phuan7  guat8	100
 七星尺	chhit4  chhenn1  chhioh4	100
 七星山	chhit4  chhenn1  suann1	100
 七星山	chhit4  chhinn1  suann1	100
@@ -1057,8 +1057,8 @@ sort: by_weight
 七覆八笑	chhit4  phak4  peh4  chhio3	100
 七覆八笑	chhit4  phak4 pueh4  chhio3	100
 七言	chhit4  gian5	100
-七訣八訣	chhit4  kuan4  peh4  kuan4	100
-七訣八訣	chhit4  kuan4 pueh4  kuan4	100
+七訣八訣	chhit4  kuat4  peh4  kuat4	100
+七訣八訣	chhit4  kuat4 pueh4  kuat4	100
 七講八講	chhit4  kong2  peh4  kong2	101
 七講八講	chhit4  kong2 pueh4  kong2	100
 七變八變	chhit4  pian3 pueh4  pian3	100
@@ -1146,7 +1146,7 @@ sort: by_weight
 三五一十五	sann1  gou7 it4  chap8  gou7	100
 三五六	sann1  gou7  lak8	100
 三五成群	sam1  ngou2 seng5  kun5	100
-三五月	sam1  ngou2  guan8	100
+三五月	sam1  ngou2  guat8	100
 三交破	sann1  kau1  phua3	100
 三人	sann1  lang5	100
 三人二面	sann1  lang5 ji7  bin7	100
@@ -1285,7 +1285,7 @@ sort: by_weight
 三多	sam1  to1	100
 三多商圈	sam1  to1 siong1  khuan1	100
 三夥	sann1  he2	100
-三大法人	sann1  tua7  huan4  jin5	100
+三大法人	sann1  tua7  huat4  jin5	100
 三大節	sam1  tai7  chiat4	100
 三天外	sam1  thian1  gua7	100
 三太子	sam1  thai3  chu2	100
@@ -1344,7 +1344,7 @@ sort: by_weight
 三年服	sam1  lian5  hok8	100
 三府	sam1  hu2	100
 三弦	sam1  hian5	100
-三彎兩斡	sann1 uan1 nng7 uan4	100
+三彎兩斡	sann1 uan1 nng7 uat4	100
 三彎兩轉	sann1  uan1 nng7  tng2	100
 三彎兩轉	sann1 uan1 nng7 chuan2	100
 三從	sam1  chiong5	100
@@ -1589,7 +1589,7 @@ sort: by_weight
 三角梅	sann1  kak4  mui5	100
 三角梅	sann1  kak4 mue5	100
 三角楓	sann1  kak4  png1	100
-三角法	sann1  kak4  huan4	101
+三角法	sann1  kak4  huat4	101
 三角湧	sann1  kak4  eng2	100
 三角目	sann1  kak4  bak8	102
 三角破	sann1  kha1  pua3	100
@@ -2253,7 +2253,7 @@ sort: by_weight
 不了然	m7  liau2  jian5	100
 不二價	put4  ji7  ka3	100
 不二價	put4  ji7  ke3	100
-不二法門	put4  ji7  huan4  mng5	100
+不二法門	put4  ji7  huat4  mng5	100
 不亞	put4  a3	100
 不亦樂乎	put4  ek8  lok8  hou3	100
 不仁	put4  jin5	101
@@ -2495,7 +2495,7 @@ sort: by_weight
 不求人	put4  kiu5  jin5	101
 不求人	put4  kiu5  lin5	100
 不治	put4  ti7	101
-不法	put4  huan4	102
+不法	put4  huat4	102
 不涼暢	m7  liong3  thin3	100
 不淺	put4  chhian2	100
 不渡	put4  tou7	100
@@ -2568,8 +2568,8 @@ sort: by_weight
 不約而同	put4  iok4  li5  tong5	100
 不約而同	put4  iok4 ji5  tong5	100
 不結	put4  kiat4	101
-不絕	put4  chuan8	100
-不絕於耳	put4  chuan8  u5  ni2	100
+不絕	put4  chuat8	100
+不絕於耳	put4  chuat8  u5  ni2	100
 不義	put4  gi7	102
 不老	put4  lo2	100
 不老丹	put4  lo2  tan1	100
@@ -2628,7 +2628,7 @@ sort: by_weight
 不負眾望	put4  hu7  chiong3  bong7	100
 不貪不取	put4  tham1  put4  chhu2	101
 不賢	put4  hian5	100
-不越	put4  uan8	100
+不越	put4  uat8	100
 不足	put4  chiok4	104
 不足為外人道	put4  chiok4 ui5 gua7  jin5 to7	100
 不足為奇	put4  chiok4  ui5  ki5	100
@@ -3029,7 +3029,7 @@ sort: by_weight
 中碟	tiong1  tih8	100
 中票	tiong1  phio3	100
 中秋	tiong1  chhiu1	102
-中秋月	tiong1  chhiu1  guan8	100
+中秋月	tiong1  chhiu1  guat8	100
 中秋節	tiong1  chhiu1  cheh4	100
 中秋節	tiong1  chhiu1  chueh4	100
 中秋餅	tiong1  chhiu1  piann2	101
@@ -3040,7 +3040,7 @@ sort: by_weight
 中立國	tiong1  lip8  kok4	100
 中立地帶	tiong1  lip8  te7  tai3	100
 中立政府	tiong1  lip8  cheng3  hu1	100
-中立法	tiong1  lip8  huan4	100
+中立法	tiong1  lip8  huat4	100
 中立派	tiong1  lip8  phai3	100
 中站	tiong1  cham7	102
 中笨	tiong1  pun7	100
@@ -3055,7 +3055,7 @@ sort: by_weight
 中範	tiong1  pan7	102
 中紅柿	chhian1  ang5  khi7	100
 中級	tiong1  kip4	100
-中絕	tiong1  chuan8	100
+中絕	tiong1  chuat8	100
 中線	tiong1  suann3	100
 中縣	tiong1  kuan7	100
 中縫	tiong1  phang1	100
@@ -3107,7 +3107,7 @@ sort: by_weight
 中醫學	tiong1  i1  hak8	100
 中里	tiong1  li2	100
 中金	tiong1  kim1	100
-中鈸	tiong1  puan8	100
+中鈸	tiong1  puat8	100
 中銀	tiong1  gun5	100
 中鋒	tiong1  hong1	101
 中鋼	tiong1  kng3	100
@@ -3265,7 +3265,7 @@ sort: by_weight
 主權	chu2  kuan5	101
 主權爭議	chu2  kuan5 cheng1  gi7	100
 主母	chu2  bo2	100
-主決	chu2  kuan4	101
+主決	chu2  kuat4	101
 主治	chu2  ti7	101
 主治醫	chu2  ti7  i1	100
 主治醫師	chu2  ti7  i1  su1	100
@@ -3390,7 +3390,7 @@ sort: by_weight
 之龜溜	chi1  ku1  liu3	100
 之龜脫	chi1  ku1  liu3	100
 乏乏	hat8  hat8	101
-乏人問津	huan8  jin5  bun7  chin1	100
+乏人問津	huat8  jin5  bun7  chin1	100
 乏值	hat8  tat8	100
 乏制	hat8  che3	100
 乏善可陳	hat8  sian7  kho2  tin5	100
@@ -3441,8 +3441,8 @@ sort: by_weight
 乘暗烏	seng7  am3  ou1	102
 乘機	seng7  ki1	100
 乘歹	seng7  phainn2	100
-乘法	seng5  huan4	100
-乘法	seng7  huan4	100
+乘法	seng5  huat4	100
+乘法	seng7  huat4	100
 乘波	seng5  pho1	100
 乘紲	seng7  sua3	100
 乘續	seng7  sua3	100
@@ -3519,8 +3519,8 @@ sort: by_weight
 九層塔	kau2  chan3  thah8	100
 九州	kiu2  chiu1	101
 九年一貫	kau2  ni5 it4  kuan3	100
-九彎十八挖	kau2  uan1 chap8  peh4  uan4	100
-九彎十八斡	kau2 uan1 chap8  peh4 uan4	100
+九彎十八挖	kau2  uan1 chap8  peh4  uat4	100
+九彎十八斡	kau2 uan1 chap8  peh4 uat4	100
 九成金	kau2  siann5  kim1	100
 九搔搔	kau2  la1  sa1	100
 九支十	kau2  ki1  chap8	100
@@ -3543,11 +3543,11 @@ sort: by_weight
 九朝	kau2  tiau5	100
 九槽	kau2  cho5	101
 九歸	kiu2  kui1	101
-九歸乘法	kiu2  kui1  seng5  huan4	100
-九歸乘法	kiu2  kui1 seng5  huan4	100
+九歸乘法	kiu2  kui1  seng5  huat4	100
+九歸乘法	kiu2  kui1 seng5  huat4	100
 九歸殼	kiu2  kui1  khak4	101
-九歸算法	kiu2  kui1  suan3  huan4	100
-九歸算法	kiu2  kui1 suan3  huan4	100
+九歸算法	kiu2  kui1  suan3  huat4	100
+九歸算法	kiu2  kui1 suan3  huat4	100
 九死一生	kiu2  su2 it4  seng1	100
 九江	kau2  kang1	100
 九泉	kiu2  chuan5	101
@@ -4407,7 +4407,7 @@ sort: by_weight
 五絃琴	ngou2  hian5  khim5	100
 五結	gou7  kiat4	100
 五結鄉	gou7  kiat4  hiong1	100
-五絕	ngou2  chuan8	100
+五絕	ngou2  chuat8	100
 五經	ngou2  keng1	101
 五總頭	gou7  chang2  thau5	103
 五聲	ngou2  seng1	100
@@ -4466,7 +4466,7 @@ sort: by_weight
 五角大樓	ngou2  kak4 tua7  lau5	100
 五言	ngou2  gian5	100
 五言律	ngou2  gian5  lut8	100
-五言絕	ngou2  gian5  chuan8	100
+五言絕	ngou2  gian5  chuat8	100
 五言詩	ngou2  gian5  si1	101
 五豐館租	ngou2  hong1 kuan2  chou1	100
 五賽	gou7  sai3	100
@@ -4512,7 +4512,7 @@ sort: by_weight
 五馬分屍	ngou2  ma2 hun1  si1	100
 五體	ngou2  the2	100
 五鬼	ngou2  kui2	100
-五鬼絕命个所在	ngou2  kui2 chuan8 beng7 e5 sou2  chai7	100
+五鬼絕命个所在	ngou2  kui2 chuat8 beng7 e5 sou2  chai7	100
 五鳴雞	ngou2  beng5  ke1	100
 五鹿	ngou2  lok8	100
 五龍官	ngou2  leng5  kuan1	100
@@ -5150,7 +5150,7 @@ sort: by_weight
 人酺	lang5  pou5	100
 人間	jin5  kan1	102
 人間	lin5  kan1	101
-人間蒸發	jin5  kan1  cheng1  huan4	100
+人間蒸發	jin5  kan1  cheng1  huat4	100
 人際	jin5  che3	101
 人際	lin5  che3	100
 人際網路	jin5  che3  bang7  lou7	100
@@ -5373,7 +5373,7 @@ sort: by_weight
 仙桃	sian1  tho5	104
 仙桃樹	sian1  tho5  chhiu7	100
 仙毋通	sian1 m7  thang1	100
-仙法	sian1  huan4	100
+仙法	sian1  huat4	100
 仙洞	sian1  tong7	101
 仙界	sian1  kai3	100
 仙祖	sian1  chou2	100
@@ -5617,7 +5617,7 @@ sort: by_weight
 任滿	jim7  mua2	100
 任用	jim7  eng7	100
 任用	jim7  iong7	100
-任缺	jim7  khuan4	100
+任缺	jim7  khuat4	100
 任職	jim7  chit4	102
 任職	lim7  chit4	100
 份份	hun7  hun7	100
@@ -5685,7 +5685,7 @@ sort: by_weight
 伏覆虎	phih4  phak4  hou2	100
 伏面	hok8  bin7	100
 伐大步	huah8  tua7  pou7	100
-伐木	huan8  bok8	100
+伐木	huat8  bok8	100
 伐過	huah8  kue3	101
 休休	hiu1  hiu1	100
 休假	hiu1  ka3	100
@@ -6102,7 +6102,7 @@ sort: by_weight
 佛桑花	hut8  song1  hue1	101
 佛殿	hut8  tian7	100
 佛殿	put8  tian7	100
-佛法	hut8  huan4	101
+佛法	hut8  huat4	101
 佛洛伊德	hut8  lok8  i1  tek8	100
 佛珠	hut8  chu1	102
 佛生	put8  sinn1	100
@@ -6177,7 +6177,7 @@ sort: by_weight
 作樂	choh4  lok8	100
 作樂	chok4  gak8	101
 作樂	chok4  lok8	100
-作法	chok4  huan4	103
+作法	chok4  huat4	103
 作為	chok4  ui5	101
 作物	chok4  but8	100
 作用	cho3  iong7	100
@@ -6365,7 +6365,7 @@ sort: by_weight
 併合	peng3  hap8	100
 併吞	peng3  thun1	100
 併案	peng3  an3	100
-併發症	peng3  huan4  cheng3	100
+併發症	peng3  huat4  cheng3	100
 併科	peng3  kho1	100
 佻佻	tiau2  tiau2	100
 佻弄	thiau1  lang7	100
@@ -6438,13 +6438,13 @@ sort: by_weight
 使歹譜	sai2  phai2  phou2	100
 使歹譜	sai2  phainn2  phou2	100
 使毒步	sai2  tok8  pou7	100
-使法	sai2  huan4	100
+使法	sai2  huat4	100
 使活鬼	sai2  uah8  kui2	100
 使派	sai2  phai3	103
 使漆	sai2  chhat4	100
 使漆師傅	sai2  chhat4 sai1  hu7	100
 使激條	sai2  kek4  tiau5	100
-使激法	sai2  kek4  huan4	100
+使激法	sai2  kek4  huat4	100
 使烏暗下	sai2  ou1  am3  he7	100
 使然	su2  jian5	100
 使犁	sai2  lue5	100
@@ -6471,7 +6471,7 @@ sort: by_weight
 使直喉	sai2  tit8  au5	102
 使破爛	sai2  phua3  nua7	102
 使硬掙	sai2  ngi7  chi1	100
-使硬法	sai2  ngi7  huan4	100
+使硬法	sai2  ngi7  huat4	100
 使硬鼻	sai2  nge7  phinn7	101
 使翸用	sai2  phun2  iong7	100
 使者	su2  chia2	100
@@ -6609,7 +6609,7 @@ sort: by_weight
 依依	i1  i1	100
 依依不捨	i1  i1  put4  sia3	100
 依依巡巡	ih8  ih8 ut8  ut8	100
-依依曰曰	i1  i1  uan8  uan8	100
+依依曰曰	i1  i1  uat8  uat8	100
 依倚	i1  ua2	108
 依原	i1  guan5	101
 依原	i1  uan5	100
@@ -6623,7 +6623,7 @@ sort: by_weight
 依期	i1  ki5	100
 依次	i1  chhu3	100
 依歸	i1  kui1	100
-依法	i1  huan4	101
+依法	i1  huat4	101
 依然	i1  jian5	100
 依照	i1  chiau3	102
 依約	i1  iok4	100
@@ -6654,7 +6654,7 @@ sort: by_weight
 侯硐	kau5  tong7	101
 侯莫陳	hou5  bok8  tin5	100
 侵人錢	chhim1  lang5  chinn5	100
-侵伐	chhim1  huan8	100
+侵伐	chhim1  huat8	100
 侵佔	chhim1  chiam3	100
 侵侵	chhim1  chhim1	100
 侵債	chhim1  che3	100
@@ -6972,7 +6972,7 @@ sort: by_weight
 保險套	po2  hiam2  tho3	101
 保險柱	po2  hiam2  thiau7	100
 保險櫃	po2  hiam2  kui7	100
-保險法	po2  hiam2  huan4	100
+保險法	po2  hiam2  huat4	100
 保險箱	po2  hiam2  siunn1	100
 保險絲	po2  hiam2  si1	100
 保險費	po2  hiam2  hui3	100
@@ -7084,7 +7084,7 @@ sort: by_weight
 修正	siu1  chiann3	100
 修正案	siu1  cheng3  an3	100
 修正液	siu1  cheng3  ek8	100
-修法	siu1  huan4	100
+修法	siu1  huat4	100
 修煉	siu1  lian7	100
 修理	siu1  li2	103
 修理紗窗	siu1  li2 se1  thang1	100
@@ -7259,7 +7259,7 @@ sort: by_weight
 倒手仔枴	to3  chhiu2  a2  koai2	100
 倒手仔歪	tto3  chhiu2  a2  oainn1	100
 倒手仔猴	to3  chhiu2  a2  kau5	100
-倒手抉	to3  chhiu2  kuan4	100
+倒手抉	to3  chhiu2  kuat4	100
 倒手旁	to3  chhiu2  peng5	100
 倒手枴	to3  chhiu2  koai2	100
 倒手枴	to3  chhiu2  koai7	100
@@ -7293,7 +7293,7 @@ sort: by_weight
 倒攤	to3  thuann5	100
 倒數	to2  siau3	102
 倒文	to2  bun5	100
-倒斡	to3  uan4	100
+倒斡	to3  uat4	100
 倒旁	to3  peng5	100
 倒會	to2  hue7	100
 倒會仔	to2  he7  a2	100
@@ -7587,7 +7587,7 @@ sort: by_weight
 偃坦覆	ian2  than1  pha1	100
 偃徛	ian2  khia7	100
 偃旗息鼓	ian2  ki5 sit4  kou2	100
-偃月刀	ian2  guan8  to1	100
+偃月刀	ian2  guat8  to1	100
 偃桌	ian2  toh4	101
 偃落	ian2  loh8	100
 偃覆	ian2  phak4	101
@@ -7646,7 +7646,7 @@ sort: by_weight
 假孔	ke2  khang1	100
 假字	ke2  ji7	100
 假定	ka2  teng7	102
-假定法	ka2  teng7  huan4	100
+假定法	ka2  teng7  huat4	100
 假山	ke2  suann1	101
 假山水	ke2  san1  sui2	100
 假差押	ka2  chhe1  ah4	100
@@ -7741,7 +7741,7 @@ sort: by_weight
 假託	ka2  thok4	100
 假設	ka2  siat4	101
 假詞	ka2  su5	100
-假說	ka2  suan4	101
+假說	ka2  suat4	101
 假證	ke2  cheng3	101
 假識	ke2  bat4	100
 假象	ke2  siong7	101
@@ -8151,8 +8151,8 @@ sort: by_weight
 做沒到	chue3  bue7  kau3	100
 做沒去	chue3  bue7  khi3	100
 做沒起	chue3  bue7  khi2	100
-做法	cho3  huan4	101
-做法	chue3  huan4	101
+做法	cho3  huat4	101
+做法	chue3  huat4	101
 做活戲	cho3  uah8  hi3	100
 做活戲	chue3  uah8  hi3	100
 做涌	cho3  eng2	100
@@ -8377,7 +8377,7 @@ sort: by_weight
 停碇	theng5  tiann7	100
 停碇	theng5 tiann7	100
 停站	theng5  cham7	100
-停等倒斡	theng5  tan2 to3  uan4	100
+停等倒斡	theng5  tan2 to3  uat4	100
 停經	theng5  keng1	100
 停職	theng5  chit4	101
 停腳	theng5  kha1	107
@@ -8399,7 +8399,7 @@ sort: by_weight
 停飯	theng5  png7	100
 偝巾	iang7  kun1	100
 健丟	kian7  tiu1	106
-健丟閣發喙鬚	kian7  tiu1 koh4 huan4 chhui3  chhiu1	101
+健丟閣發喙鬚	kian7  tiu1 koh4 huat4 chhui3  chhiu1	101
 健乖	kian7  koai1	102
 健保	kian7  po2	100
 健保卡	kian7  po2  kha2	100
@@ -8446,7 +8446,7 @@ sort: by_weight
 偶抵然	ngou2  tu2  jian5	100
 偶數	ngou2  sou3	101
 偶然	ngou2  jian5	101
-偶發	ngou2  huan4	100
+偶發	ngou2  huat4	100
 偶遇	ngou2  gu7	100
 偷伏	thau1  hok8	101
 偷來暗去	thau1  lai5  am3  khi3	100
@@ -8728,8 +8728,8 @@ sort: by_weight
 傳記	tuan7  ki3	102
 傳話	thuan5  ue7	100
 傳話筒	thuan5  ue7  tang5	100
-傳說	thuan5  suan4	102
-傳說對決	thuan5  suan4  tui3  kuan4	100
+傳說	thuan5  suat4	102
+傳說對決	thuan5  suat4  tui3  kuat4	100
 傳起去	thuan5   khi2  khi3	100
 傳起去	thuan5   khi2  lih4	100
 傳輸	thuan5  su1	101
@@ -8746,7 +8746,7 @@ sort: by_weight
 傳遞	thuan5  tue7	100
 傳鑼	thuan5  lo5	103
 傳開	thuan5  khui1	100
-傳閱	thuan5  uan8	100
+傳閱	thuan5  uat8	100
 傳香火	thng5  hiunn1  hue2	100
 傳香煙	thng5  hiunn1  ian1	101
 債主	che3  chu2	103
@@ -8971,7 +8971,7 @@ sort: by_weight
 僭稱	chhiam3  chheng1	100
 僭號	chhiam3  ho7	100
 僭話	chiam3  ue7	102
-僭越	chhiam3  uan8	101
+僭越	chhiam3  uat8	101
 僭踰	chhiam3  ju5	100
 僭開	chiam3  khui1	100
 僭隊	chhiam3  tui7	100
@@ -9115,9 +9115,9 @@ sort: by_weight
 優先權	iu1  sian1  kuan5	100
 優克蘭	iu1  khek4  lan5	100
 優劣	iu1  liat8	100
-優劣	iu1  luan4	100
+優劣	iu1  luat4	100
 優勝	iu1  seng3	101
-優勝劣敗	iu1  seng3 luan4  pai7	100
+優勝劣敗	iu1  seng3 luat4  pai7	100
 優勝旗	iu1  seng3  ki5	100
 優勢	iu1  se3	100
 優勢	iu1  si3	100
@@ -9134,7 +9134,7 @@ sort: by_weight
 優異	iu1  i7	100
 優秀	iu1  siu3	101
 優等	iu1  teng2	101
-優缺點	iu1  khuan4  tiam2	100
+優缺點	iu1  khuat4  tiam2	100
 優缽曇花	iu1  puah4  tham5  hua1	100
 優美	iu1  bi2	102
 優良	iu1  liang5	100
@@ -9142,8 +9142,8 @@ sort: by_weight
 優裕	iu1  ju7	100
 優貢	iu1  kong3	100
 優質	iu1  chit4	100
-優越	iu1  uan8	101
-優越性	iu1  uan8  seng3	100
+優越	iu1  uat8	101
+優越性	iu1  uat8  seng3	100
 優遇	iu1  gu7	100
 優選	iu1  suan2	100
 優酪乳	iu1  lok8  leng1	100
@@ -9189,7 +9189,7 @@ sort: by_weight
 元日	guan5  jit8	100
 元旦	guan5  tan3	101
 元曲	guan5  khek4	100
-元月	guan5  guan8	100
+元月	guan5  guat8	100
 元朝	guan5  tiau5	100
 元氣	guan5  khi3	102
 元祖	guan5  chou2	100
@@ -9324,7 +9324,7 @@ sort: by_weight
 先機	sian1  ki1	100
 先母	sian1  bou2	100
 先民	sian1  bin5	101
-先決	sian1  kuan4	100
+先決	sian1  kuat4	100
 先烈	sian1  liat8	100
 先燃予燒	seng1 hiann5 hou7 sio1	100
 先父	sian1  hu7	100
@@ -9343,7 +9343,7 @@ sort: by_weight
 先生無佇館學生起海反	sian1  sinn1 bo5 ti7 kuan2  hak8  seng1 khi2 hai2  huan2	100
 先生禮	sian1  senn1  le2	100
 先生禮	sian1  sinn1  le2	100
-先發	sian1  huan4	101
+先發	sian1  huat4	101
 先的	sian1   e5	100
 先知	sian1  ti1	102
 先祖	sian1  chou2	102
@@ -9591,7 +9591,7 @@ sort: by_weight
 兔絲	thou3  si1	100
 兔耳草	thou3  hi7  chhau2	101
 兔耳草	thou3  hinn7  chhau2	100
-兔脫	thou3  thuan4	100
+兔脫	thou3  thuat4	100
 兔角龜毛	thou3  kak4 ku1  mou1	100
 兔角龜毛	thou3  kak4 ku1  mou5	100
 兔頭蛇眼	thou3  thau5 sia5  gan2	100
@@ -9663,7 +9663,7 @@ sort: by_weight
 入夏	jip8  he7	101
 入子	jip8  chi2	102
 入孔子門	jip8 khong2  chu2  mng5	100
-入字法	jip8  ji7  huan4	100
+入字法	jip8  ji7  huat4	100
 入學	jip8  hak8	101
 入學	jip8  oh8	102
 入學	lip8  hak8	100
@@ -9957,7 +9957,7 @@ sort: by_weight
 內胎	lai7  thai1	100
 內腎	lai7  sin7	101
 內腎收縮病	lai7  sin7 siu1  siok4  pinn7	100
-內腎發炎	lai7  sin7 huan4  iam7	100
+內腎發炎	lai7  sin7 huat4  iam7	100
 內腳目骨	lai7  kha1  bak8  kut4	100
 內腹	lai7  pak4	100
 內臟	lue7  chong7	100
@@ -10120,7 +10120,7 @@ sort: by_weight
 全額	chuan5  giah8	100
 全願	chng5  guan7	100
 全體	chuan5  the2	102
-全髮	chuan5  huan4	101
+全髮	chuan5  huat4	101
 全鴨	chuan5  ah4	100
 兩三輾手	nng7 sann1 lian2 chhiu2	100
 兩三輾轉	nng7 sann1 lian2  tng2	100
@@ -10173,7 +10173,7 @@ sort: by_weight
 兩樣心	nng7  iunn7  sim1	100
 兩步七仔	nng7 pou7 chhit4  a2	100
 兩步半	nng7  pou7  puann3	101
-兩段倒斡	nng7  tuann7 to3  uan4	100
+兩段倒斡	nng7  tuann7 to3  uat4	100
 兩爿	nng7  peng5	103
 兩爿喙䫌	nng7  peng5 chhui3  phe2	100
 兩爿喙䫌	nng7  peng5 chhui3  phue2	100
@@ -10413,7 +10413,7 @@ sort: by_weight
 公口糧租	kong1  khau2 niu5  chou1	100
 公司	kong1  si1	103
 公司債	kong1  si1  che3	100
-公司法	kong1  si1  huan4	100
+公司法	kong1  si1  huat4	100
 公同	kong1  tong5	100
 公吏	kong1  li7	100
 公呈	kong1  tiann5	100
@@ -10528,8 +10528,8 @@ sort: by_weight
 公母套	kang1  bo2  tho3	100
 公民	kong1  bin5	101
 公民投票	kong1  bin5  tau5  phio3	100
-公決	kong1  kuan4	101
-公法	kong1  huan4	100
+公決	kong1  kuat4	101
+公法	kong1  huat4	100
 公海	kong1  hai2	100
 公演	kong1  ian2	101
 公然	kong1  jian5	102
@@ -10709,8 +10709,8 @@ sort: by_weight
 六棯仔	lak8  liam3  a2	100
 六檢仔	lak8  kiam2  a2	100
 六歸	lak8  kui1	100
-六法	liok8  huan4	100
-六法全書	liok8  huan4  chuan5  su1	100
+六法	liok8  huat4	100
+六法全書	liok8  huat4  chuan5  su1	100
 六無	liok8  bu5	102
 六猴	lak8  kau5	100
 六甲	lak8  kah4	100
@@ -10871,7 +10871,7 @@ sort: by_weight
 兵書	peng1  chu1	100
 兵書	peng1  su1	100
 兵權	peng1  kuan5	101
-兵法	peng1  huan4	101
+兵法	peng1  huat4	101
 兵營	peng1  iann5	102
 兵眾	peng1  chiong3	100
 兵種	peng1  chiong2	100
@@ -11100,7 +11100,7 @@ sort: by_weight
 再犯罪	chai3  huan7  chue7	100
 再生	chai3  seng1	101
 再生橘	chai3  seng1  kiat4	101
-再發	chai3  huan4	100
+再發	chai3  huat4	100
 再相會	chai3  siong1  hue7	100
 再者	chai3   chia2	100
 再聽	chai3  thiann1	100
@@ -11313,7 +11313,7 @@ sort: by_weight
 冰解	peng1  kai2	101
 冰車	peng1  chhia1	100
 冰雪	peng1  seh4	100
-冰雪奇緣	peng1  suan4  ki5  ian5	100
+冰雪奇緣	peng1  suat4  ki5  ian5	100
 冰雹	peng1  phauh8	100
 冰霜	peng1  sng1	101
 冰鞋	peng1  e5	100
@@ -11914,8 +11914,8 @@ sort: by_weight
 出痲仔	chhut4  mua5  a2	101
 出癖	chhut4  phiah8	100
 出癖仔	chhut4  phiah8  a2	100
-出發	chhut4  huan4	102
-出發點	chhut4  huan4  tiam2	100
+出發	chhut4  huat4	102
+出發點	chhut4  huat4  tiam2	100
 出盡心血	chhut4  chin7  sim1  huih4	100
 出監	chhut4  kann1	100
 出眾	chhut4  cheng3	106
@@ -11947,12 +11947,12 @@ sort: by_weight
 出經入典	chhut4  keng1  jip8  tian2	100
 出經入典	chhut4  keng1 jip8  tian2	100
 出縛	chhut4  pak8	100
-出缺	chhut4  khuan4	100
+出缺	chhut4  khuat4	100
 出缺	chhut4  khueh4	100
 出罪	chhut4  chue7	102
 出考	chhut4  kho2	100
 出聲	chhut4  siann1	106
-出脫	chhut4  thuan4	105
+出脫	chhut4  thuat4	105
 出脹	chhut4  tiong3	101
 出腳	chhut4  kioh4	108
 出腳手	chhut4  kha1  chhiu2	100
@@ -12280,7 +12280,7 @@ sort: by_weight
 分理	hun1  li2	100
 分田土	pun1  chhan5  thou2	100
 分界	hun1  kai3	101
-分發	hun1  huan4	102
+分發	hun1  huat4	102
 分的	pun1   e5	100
 分的	pun1  e5	102
 分的較贏買的	pun1   e5 khah4 iann5 be2   e5	100
@@ -12428,8 +12428,8 @@ sort: by_weight
 刑案	heng5  an3	101
 刑條	heng5  tiau5	100
 刑求	heng5  kiu5	100
-刑法	heng5  huan4	102
-刑罰	heng5  huan8	102
+刑法	heng5  huat4	102
+刑罰	heng5  huat8	102
 刑警	heng5  keng2	101
 刑責	heng5  chek4	100
 刑部	heng5  pou7	100
@@ -12538,7 +12538,7 @@ sort: by_weight
 刣君	chiong1  kun1	100
 刣打剉	thai5  phah4  chho3	100
 刣文	thai5  bun5	100
-刣旱魃	thai5  han7  puan8	100
+刣旱魃	thai5  han7  puat8	100
 刣曲柴	thai5  khiau1  chha5	100
 刣椅仔煠木屐	thai5  i2  a2 sah8  bak8  kiah8	100
 刣死	thai5   si2	101
@@ -12579,8 +12579,8 @@ sort: by_weight
 判文	phuann3  bun5	100
 判斷	phuann3  tuan3	102
 判案	phuann3  an3	103
-判決	phuann3  kuan4	102
-判決書	phuann3  kuan4  su1	100
+判決	phuann3  kuat4	102
+判決書	phuann3  kuat4  su1	100
 判罪	phuann3  chue7	100
 判開	phuann3  khui1	100
 別世	piat8  se3	101
@@ -12736,7 +12736,7 @@ sort: by_weight
 刮刮	khue1  khue1	100
 刮洗	khue1  sue2	100
 刮皮	kueh4  phue5	100
-刮舌	kuan4  siat8	100
+刮舌	kuat4  siat8	100
 刮起來	khue1   khi1  lai5	100
 到今	kau3  tann1	103
 到今	kau3 tann1	100
@@ -12814,8 +12814,8 @@ sort: by_weight
 到站	kau3  cham7	101
 到篤	kau3  tok4	100
 到籬顛倒	to3 li5 tian1 tau2	100
-到絕峰嶺	kau3  chuan8  hong1  nia2	100
-到絕風嶺	kau3  chuan8  hong1  nia2	100
+到絕峰嶺	kau3  chuat8  hong1  nia2	100
+到絕風嶺	kau3  chuat8  hong1  nia2	100
 到繼草	kau3  ke3  chhau2	101
 到繼草	to3  ke3  chhau2	100
 到職	kau3  chit4	100
@@ -13290,7 +13290,7 @@ sort: by_weight
 剝喙罨	pak4 chhui3  am1	100
 剝地皮	pak4  te7  phe5	100
 剝地皮	pak4  te7  phue5	101
-剝奪	pak4  tuan4	100
+剝奪	pak4  tuat4	100
 剝殼	hauh4  khak4	100
 剝殼	hiauh4  khak4	100
 剝殼	pak4  khak4	100
@@ -13370,7 +13370,7 @@ sort: by_weight
 剪頭毛	chian2  thau5  mng5	100
 剪頭鬃	chian2  thau5  chang1	100
 剪頭鬃	chian2 thau5  chang1	100
-剪髮	chian2  huan4	100
+剪髮	chian2  huat4	100
 剪魚	chian2  hi5	100
 剪齊	chian2  chue5	100
 剪齊眉	chian2  che5  bi5	100
@@ -13463,7 +13463,7 @@ sort: by_weight
 割稻仔尾	kuah4  tiu7  a2  bue2	100
 割稻尾	kuah4  tiu7  bue2	100
 割稻尾	kuah4 tiu7  bue2	102
-割絕	kat4  chuan8	101
+割絕	kat4  chuat8	101
 割耙	kuah4  pe7	101
 割肉	kuah4  bah4	101
 割腸割肚	kuah4  tng5 kuah4  tou7	100
@@ -13532,7 +13532,7 @@ sort: by_weight
 創死	chhong3  si2	100
 創治	chhong3  ti7	109
 創治	thong3  ti7	100
-創法	chhong3  huan4	100
+創法	chhong3  huat4	100
 創清楚	chhong2  chheng1  chho2	100
 創無好	chhong3  bo5  ho2	100
 創空	chhong3  khang1	109
@@ -13583,14 +13583,14 @@ sort: by_weight
 剾皮	khau1 phe5	100
 剾皮	khau1 phue5	100
 剾菝仔	khau1  pat8  a2	100
-剾菝仔	khau1  puan8  a2	100
+剾菝仔	khau1  puat8  a2	100
 剾風	khau1  hong1	100
 剿三族	chhiau1 sam1  chok8	100
 剿家滅族	chhau1  ka1 biat8  chok8	100
 剿滅	chau5  biat8	103
 剿襲	chau5  sip8	100
 劃劃	uih8  uih8	100
-劃撥	ek8  puan4	100
+劃撥	ek8  puat4	100
 劃撥	ueh8  puah4	100
 劃撥	uih8	100
 劃界	uih8  kai3	100
@@ -13640,7 +13640,7 @@ sort: by_weight
 劍槍	kiam3  chhiunn1	100
 劍槍仔門	kiam3  chhiunn1  a2  mng5	100
 劍橋	kiam3  kio5	100
-劍法	kiam3  huan4	100
+劍法	kiam3  huat4	100
 劍潭	kiam3  tham5	101
 劍眉	kiam3  bai5	100
 劍竹	kiam3  tek4	100
@@ -13807,7 +13807,7 @@ sort: by_weight
 加油	ka1  iu5	101
 加油添醋	ka1  iu5 thiam1  chhou3	100
 加油站	ka1  iu5  cham7	101
-加法	ka1  huan4	101
+加法	ka1  huat4	101
 加波離酸	ka1  pho1  li5  sng1	100
 加派	ka1  phai3	100
 加深	ke1  chhim1	100
@@ -13907,11 +13907,11 @@ sort: by_weight
 加魶	ka1  lah8	100
 加鵻	ka1  chui1	102
 加齊	ka1  chi5	100
-劣勢	luan8  si3	100
-劣等	luan4  teng2	100
-劣蹟	luan4  chek4	100
-劣馬	luan4  ma2	100
-劣點	luan4  tiam2	100
+劣勢	luat8  si3	100
+劣等	luat4  teng2	100
+劣蹟	luat4  chek4	100
+劣馬	luat4  ma2	100
+劣點	luat4  tiam2	100
 助力	chou7  lat8	100
 助力	chou7  lek8	101
 助助	chou7  chou7	100
@@ -14082,7 +14082,7 @@ sort: by_weight
 動筆	tang7  pit4	101
 動箸	tang7  ti7	101
 動箸	tang7  tu7	100
-動粗法	tang7  chhou1  huan4	102
+動粗法	tang7  chhou1  huat4	102
 動胎神	tang7  thai1  sin5	100
 動能	tong7  leng5	100
 動脈	tong7  meh8	102
@@ -14145,12 +14145,12 @@ sort: by_weight
 勞力士	lo5  lek8  su7	101
 勞動	lo5  tong7	102
 勞動力	lo5  tong7  lek8	100
-勞動基準法	lo5  tong7  ki1  chun2  huan4	100
+勞動基準法	lo5  tong7  ki1  chun2  huat4	100
 勞動檢查	lo5  tong7  kiam2  cha1	100
 勞動者	lo5  tong7  chia2	100
 勞務	lo5  bu7	100
 勞勞落落	lo5  lo5 lok8  lok8	100
-勞基法	lo5  ki1  huan4	101
+勞基法	lo5  ki1  huat4	101
 勞委會	lo5  ui2  hue7	100
 勞工	lo5  kang1	101
 勞役	lo5  iah8	100
@@ -14326,7 +14326,7 @@ sort: by_weight
 包心白仔	pau1  sim1 peh8 a2	100
 包房	pau1  pang5	100
 包抄	pau1  chhau1	100
-包括	pau1  kuan4	102
+包括	pau1  kuat4	102
 包換	pau1  uann7	100
 包攬	pau1  lam2	101
 包攬尾	pau1  lam2  bue2	100
@@ -14337,7 +14337,7 @@ sort: by_weight
 包死	pau1  si2	100
 包水餃	pau1 chhui2  kiau2	100
 包水餃	pau1 chui2  kiau2	100
-包決	pau1  kuan4	100
+包決	pau1  kuat4	100
 包涵	pau1  ham5	102
 包用	pau1  iong7	100
 包療	pau1  liau5	100
@@ -14587,7 +14587,7 @@ sort: by_weight
 匙仔	si5  a2	100
 匙仔簪	si5  a2  chiam1	100
 匙仔糖	si5  a2  thng5	100
-匝月	chat4  guan8	100
+匝月	chat4  guat8	100
 匠心	chhiunn7  sim1	100
 匠麗	chhiong7  le7	100
 匡列	khong1  liat8	100
@@ -14875,7 +14875,7 @@ sort: by_weight
 千斤力	chhian1  kin1  lat8	100
 千斤力	chhian1  kun1  lat8	100
 千斤抵十	chhian1  kun1  tu2  chap8	100
-千斤拔	chhian1  kin1  puan8	101
+千斤拔	chhian1  kin1  puat8	101
 千斤拔	chhian1  kun1  puih4	100
 千斤秤	chhian1  kin1  chhin3	102
 千斤秤	chhian1  kun1  chhin3	100
@@ -15105,7 +15105,7 @@ sort: by_weight
 半整	puann3  chann2	100
 半數	puann3  sou3	101
 半文	puann3  bun5	100
-半斜月	puann3  chhia5  guan8	100
+半斜月	puann3  chhia5  guat8	100
 半斤	puann3  kun1	100
 半斤八兩	puann3  kin1  peh4   niu2	100
 半斤八兩	puann3  kin1  peh4  niu2	100
@@ -15130,7 +15130,7 @@ sort: by_weight
 半暝後	puann3  me5  au7	100
 半暝月	puann3  me5  gueh8	100
 半暝糜	puann3  mi5  be5	100
-半月形	puan3  guan8  heng5	100
+半月形	puan3  guat8  heng5	100
 半月日	puann3  geh8  jit8	100
 半月日	puann3  gueh8  lit8	100
 半月日	puann3 geh8  lit8	100
@@ -15267,7 +15267,7 @@ sort: by_weight
 半醒半睏	puann3  chhenn2  puann3  khun3	100
 半醒眠	puann3  chhenn2  bin5	100
 半金銅	puann3  kim1  tang5	100
-半鈸	puann3  puan8	100
+半鈸	puann3  puat8	100
 半長短	puann3  tng5  te2	101
 半門仔	puann3  mng5  a2	100
 半開	puann3  khui1	100
@@ -15613,7 +15613,7 @@ sort: by_weight
 危子	gui5  chu2	100
 危害	gui5  hai7	101
 危急	gui5  kip4	102
-危月燕	gui5  guan8  ian3	100
+危月燕	gui5  guat8  ian3	100
 危樓	gui5  lau5	100
 危機	gui5  ki1	102
 危篤	gui5  tok4	100
@@ -16168,7 +16168,7 @@ sort: by_weight
 去除	khi3  ti5	101
 去除	khi3  tu5	100
 去骨生炒雞	khi3  kut4 chhinn1  chha2  kue1	100
-去髮	khi3  huan4	101
+去髮	khi3  huat4	101
 去鬱	khi3  ut4	100
 去魯	khi3  lou2	101
 參一腳	chham1  chit8  kha1	100
@@ -16395,7 +16395,7 @@ sort: by_weight
 反抗	han5  khou2	100
 反抗	huan2  khong3	102
 反抗期	huan2  khong3  ki5	100
-反拙	huan2  chuan4	100
+反拙	huan2  chuat4	100
 反拾笑	peng2  khioh4  chhio3	100
 反擊	huan2  kek4	100
 反攻	huan2  kong1	101
@@ -16409,7 +16409,7 @@ sort: by_weight
 反正	huan2  cheng3	101
 反死	huan2  si2	103
 反流	huan2  lau5	100
-反湠澹法	huan2 thuann3  tam5 huan4	100
+反湠澹法	huan2 thuann3  tam5 huat4	100
 反濁	huan2  lo5	100
 反濕	huan2  sip4	100
 反烏	huan2  ou1	101
@@ -16554,8 +16554,8 @@ sort: by_weight
 取樣	chhu2  iunn7	100
 取次所	chhu2  chhu3  sou2	100
 取款	chhu2  khuan2	100
-取決	chhu2  kuan4	100
-取法	chhu2  huan4	100
+取決	chhu2  kuat4	100
+取法	chhu2  huat4	100
 取消	chhu2  siau1	102
 取用	chhu2  iong7	100
 取直	chhu2  tit8	100
@@ -16583,7 +16583,7 @@ sort: by_weight
 受刑	siu7  heng5	101
 受刑人	siu7  heng5  jin5	100
 受刑人	siu7  heng5  lin5	100
-受刑罰	siu7  heng5  huan8	100
+受刑罰	siu7  heng5  huat8	100
 受制	siu7  che3	100
 受勞	siu7  lo5	100
 受命	siu7  beng7	100
@@ -16625,7 +16625,7 @@ sort: by_weight
 受精	siu7  cheng1	100
 受累	siu7  lui7	100
 受罪	siu7  chue7	102
-受罰	siu7  huan8	100
+受罰	siu7  huat8	100
 受聘	siu7  pheng3	100
 受胎	siu7  thai1	100
 受苦	siu7  khou2	102
@@ -16729,12 +16729,12 @@ sort: by_weight
 口角	khau2  kak4	100
 口角	khio2  kak4	100
 口角	khou2  kak4	100
-口訣	khau2  kuan4	100
-口訣	khou2  kuan4	100
+口訣	khau2  kuat4	100
+口訣	khou2  kuat4	100
 口試	khau2  chhi3	101
 口語	khau2  gi2	101
 口語	khau2  gu2	100
-口說	khou2  suan4	100
+口說	khou2  suat4	100
 口譯	khau2  ek8	101
 口蹄疫	khau2  te5  ek8	100
 口身	khau2  sin1	101
@@ -16816,9 +16816,9 @@ sort: by_weight
 古曆	kou2  lek8	100
 古書	kou2  chu1	101
 古書	kou2  su1	100
-古月	kou2  guan8	100
-古月根	kou2  guan8  kin1	100
-古月根	kou2  guan8  kun1	101
+古月	kou2  guat8	100
+古月根	kou2  guat8  kin1	100
+古月根	kou2  guat8  kun1	101
 古朋友	kou2  peng5  iu2	101
 古木	kou2  bok8	100
 古板	kou2  pan2	103
@@ -16829,7 +16829,7 @@ sort: by_weight
 古樹	kou2  chhiu7	100
 古款	kou2  khuan2	102
 古歌	kou2  ko1	100
-古法	kou2  huan4	100
+古法	kou2  huat4	100
 古洞	kou2  tong7	100
 古派	kou2  phai3	101
 古清明	kou2  chheng1  beng5	100
@@ -16895,7 +16895,7 @@ sort: by_weight
 古鼓	kou2  kou2	101
 句囝	ku3  kiann2	100
 句型	ku3  heng5	100
-句法	ku3  huan4	100
+句法	ku3  huat4	100
 句號	ku3  ho7	100
 句調	ku3  tiau7	100
 句讀	ku3  tau7	103
@@ -17095,7 +17095,7 @@ sort: by_weight
 可比	kho2  pi2	104
 可比講	kho2  pi2 kong2	100
 可永續性	kho2  eng2  siok8  seng3	100
-可決	kho2  kuan4	100
+可決	kho2  kuat4	100
 可溶性	kho2  iong5  seng3	100
 可燃性	kho2  jian5  seng3	100
 可畏	kho2  ui3	100
@@ -17319,17 +17319,17 @@ sort: by_weight
 司捕車	su1  pou2  chhia1	100
 司會者	su1  hue7  chia2	100
 司機	su1  ki1	101
-司法	su1  huan4	102
-司法主任	su1  huan4 chu2  jim7	100
-司法係	su1  huan4  he7	100
-司法博物館	su1  huan4 phok4  but8  kuan2	100
-司法大臣	su1  huan4  tai7  sin5	100
-司法官	su1  huan4  kuann1	101
-司法權	su1  huan4  kuan5	101
-司法界	su1  huan4  kai3	100
-司法省	su1  huan4  seng2	100
-司法部	su1  huan4  pou7	100
-司法院	su1  huan4  inn7	100
+司法	su1  huat4	102
+司法主任	su1  huat4 chu2  jim7	100
+司法係	su1  huat4  he7	100
+司法博物館	su1  huat4 phok4  but8  kuan2	100
+司法大臣	su1  huat4  tai7  sin5	100
+司法官	su1  huat4  kuann1	101
+司法權	su1  huat4  kuan5	101
+司法界	su1  huat4  kai3	100
+司法省	su1  huat4  seng2	100
+司法部	su1  huat4  pou7	100
+司法院	su1  huat4  inn7	100
 司秤	si1  pheng5	100
 司空	su1  khong1	100
 司褐	su1  hat4	100
@@ -17548,9 +17548,9 @@ sort: by_weight
 合氣	hah8  khui3	100
 合水	kap4  chui2	103
 合水土	hah8  chui2  thou2	100
-合法	hap8  huan4	102
-合法化	hap8  huan4  hua3	100
-合法性	hap8  huan4  seng3	100
+合法	hap8  huat4	102
+合法化	hap8  huat4  hua3	100
+合法性	hap8  huat4  seng3	100
 合流	kap4  lau5	103
 合港	kap4  kang2	103
 合照	hap8  chiau3	100
@@ -18276,7 +18276,7 @@ sort: by_weight
 吞吞	thun1  thun1	100
 吞嘴瀾	thun1 chhui3  nua7	100
 吞噬	thun1  se7	100
-吞奪	thun1  tuan8	100
+吞奪	thun1  tuat8	100
 吞忍	thun1  lun2	106
 吞瀾	thun1  nua7	100
 吞獨睡丸	thun1 tok8  sui7  uan5	100
@@ -18305,10 +18305,10 @@ sort: by_weight
 否定	honn2  teng7	100
 否定	hou2  teng7	100
 否極泰來	phi2 kek8 thai3  lai5	100
-否決	hio2  kuan4	100
-否決	honn2  kuan4	101
-否決	hou2  kuan4	100
-否決權	hou2  kuan4  kuan5	100
+否決	hio2  kuat4	100
+否決	honn2  kuat4	101
+否決	hou2  kuat4	100
+否決權	hou2  kuat4  kuan5	100
 否認	honn2  jin7	100
 否認	honn2  lin7	100
 否認	hou2  jim7	100
@@ -18595,7 +18595,7 @@ sort: by_weight
 告成	ko3  seng5	100
 告狀	ko3  chng7	101
 告病	ko3  pinn7	100
-告發	ko3  huan4	101
+告發	ko3  huat4	101
 告白	ko3  peh8	101
 告白	ko3  pek8	100
 告知	ko3  ti1	101
@@ -19424,7 +19424,7 @@ sort: by_weight
 唱曲	chhiunn3  khek4	101
 唱機	chhiunn3  ki1	101
 唱歌	chhiunn3  kua1	103
-唱法	chhiunn3  huan4	100
+唱法	chhiunn3  huat4	100
 唱注	chhiang3  tu3	100
 唱片	chhionn3  phinn3	100
 唱片	chhiunn3  phinn3	102
@@ -19446,10 +19446,10 @@ sort: by_weight
 唸套頭	liam7  tho3  thau5	100
 唸書	liam7  chu1	100
 唸歌	liam7  kua1	100
-唸歌訣	liam7  ko1  kuan4	101
+唸歌訣	liam7  ko1  kuat4	101
 唸經	liam7  keng1	100
 唸茹	liam7  ju5	100
-唸訣	liam7  kuan4	100
+唸訣	liam7  kuat4	100
 唸誆	liam7  kong7	100
 唸謠	liam7  iau5	100
 唼一嘴	chip4  chit8  chhui3	100
@@ -19509,7 +19509,7 @@ sort: by_weight
 商標權	siong1  phiau1  kuan5	100
 商標權	siong1  piau1  kuan5	100
 商機	siong1  ki1	100
-商法	siong1  huan4	101
+商法	siong1  huat4	101
 商港	siong1  kang2	101
 商用	siong1  iong7	101
 商界	siong1  kai3	101
@@ -19606,7 +19606,7 @@ sort: by_weight
 啟明星	khe2  beng5  chhinn1	100
 啟智	khe2  ti3	100
 啟用	khe2  iong7	100
-啟發	khe2  huan4	102
+啟發	khe2  huat4	102
 啟示	khe2  si7	103
 啟者	khe2  chia2	100
 啟航	khe2  hang5	100
@@ -20221,7 +20221,7 @@ sort: by_weight
 嘉年華	ka1  lian5  hua5	100
 嘉惠	ka1  hui7	101
 嘉慶	ka1  kheng3	101
-嘉月	ka1  guan8	100
+嘉月	ka1  guat8	100
 嘉獎	ka1  chiong2	101
 嘉瑞	ka1  sui7	100
 嘉禮	ka1  le2	102
@@ -20625,7 +20625,7 @@ sort: by_weight
 嚴令	giam5  leng7	100
 嚴冬	giam5  tong1	101
 嚴刑	giam5  heng5	101
-嚴刑峻法	giam5  heng5  chun3  huan4	100
+嚴刑峻法	giam5  heng5  chun3  huat4	100
 嚴厲	giam5  le7	101
 嚴厲	giam5  li7	100
 嚴命	giam5  beng7	100
@@ -20646,7 +20646,7 @@ sort: by_weight
 嚴正	giam5  cheng3	101
 嚴父	giam5  hu7	101
 嚴禁	giam5  kim3	101
-嚴罰	giam5  huan8	101
+嚴罰	giam5  huat8	101
 嚴肅	giam5  siok4	102
 嚴苛	giam5  kho1	100
 嚴親	giam5  chhin1	100
@@ -20689,14 +20689,14 @@ sort: by_weight
 囉囉啼	lo5  lo5  thi1	100
 囉囉啼啼	lo1  lo1 thi1  thi1	100
 囉囉喋	lo5  lo5  thi1	100
-囉囉撅	lo5  lo5  kuan4	100
+囉囉撅	lo5  lo5  kuat4	100
 囊中	long5  tiong1	100
 囊仔	long1  a2	100
 囊入	long5  lip8	100
 囊手束	long5  chhiu2  sok4	100
 囊批	long5  phe1	100
 囊箍仔	long1 khou1  a2	100
-囊螢映雪	long5  eng5 iong3  suan4	100
+囊螢映雪	long5  eng5 iong3  suat4	100
 囊衫	long5  sann1	100
 囑咐	chiok4  hu3	101
 囑咐鬮書合約字	chiok4  hu3 khau1  su1 hap8  iok4  ji7	100
@@ -20789,7 +20789,7 @@ sort: by_weight
 四字頭	su3  ji7  thau5	100
 四季	si3  kui3	100
 四季	su3  kui3	102
-四季拔	su3  kui3  puan8	100
+四季拔	su3  kui3  puat8	100
 四季春	su3  kui3  chhun1	103
 四季橘	su3  kui3  kiat4	101
 四季花	su3  kui3  hue1	101
@@ -20842,7 +20842,7 @@ sort: by_weight
 四時	su3  si5	100
 四時八節	su3  si5 pat4  chiat4	100
 四時春	su3  si5  chhun1	103
-四時發彩	su3  si5 huan4  chhai2	100
+四時發彩	su3  si5 huat4  chhai2	100
 四時花	su3  si5  hue1	100
 四更	si3  kinn1	100
 四書	su3  su1	100
@@ -21147,7 +21147,7 @@ sort: by_weight
 回答	he5  tap4	102
 回答	hue5  tap4	101
 回籠	he5  lang2	100
-回絕	hue5  chuan8	100
+回絕	hue5  chuat8	100
 回罪	he5  chue7	100
 回聲	he5  siann1	100
 回舊	hue5  ku7	100
@@ -21277,7 +21277,7 @@ sort: by_weight
 囥話	khng3  ue7	100
 囪號	sin3  ho7	100
 囫三碗公	hut4 sann1 uann2  kong1	100
-困乏	khun3  huan8	100
+困乏	khun3  huat8	100
 困倦	khun3  kuan7	100
 困境	khun3  keng2	101
 困局	khun3  kiok8	100
@@ -21384,7 +21384,7 @@ sort: by_weight
 國宅	kok4  theh8	100
 國安局	kok4  an1  kiok8	100
 國安會	kok4  an1  hue7	100
-國安法	kok4  an1  huan4	100
+國安法	kok4  an1  huat4	100
 國家	kok4  ka1	102
 國家主義	kok4  ka1  chu2  gi7	100
 國家公園	kok4  ka1 kong1  hng5	100
@@ -21434,8 +21434,8 @@ sort: by_weight
 國民兵	kok4  bin5  peng1	100
 國民軍	kok4  bin5  kun1	100
 國民黨	kok4  bin5  tong2	101
-國法	kok4  huan4	101
-國法	kok8  huan4	100
+國法	kok4  huat4	101
+國法	kok8  huat4	100
 國泰	kok4  thai3	100
 國泰人壽	kok4  thai3  lang5  siu7	100
 國泰民安	kok4  thai3 bin5  an1	100
@@ -21456,7 +21456,7 @@ sort: by_weight
 國產車	kok4  san2  chhia1	100
 國界	kok4  kai3	102
 國畫	kok4  ue7	100
-國發會	kok4  huan4  hue7	100
+國發會	kok4  huat4  hue7	100
 國破家亡	kok4  pho3  ka1  bong5	100
 國禁	kok4  kim3	100
 國科會	kok4  kho1  hue7	101
@@ -21512,8 +21512,8 @@ sort: by_weight
 國際商專	kok4  che3  siong1  chuan1	100
 國際性	kok4  che3  seng3	100
 國際期刊	kok4  che3 ki5  khan1	100
-國際法	kok4  che3  huan4	100
-國際法庭	kok4  che3  huan4  teng5	100
+國際法	kok4  che3  huat4	100
+國際法庭	kok4  che3  huat4  teng5	100
 國際特赦組織	kok4  che3  tek8  sia3  chou1  chit4	100
 國際觀	kok4  che3  kuan1	100
 國難	kok4  lan7	100
@@ -21830,7 +21830,7 @@ sort: by_weight
 土沙	thou5  sua1	103
 土沙粉	thou5  sua1  hun2	102
 土油	thou5  iu5	106
-土法	thou2  huan4	100
+土法	thou2  huat4	100
 土流民	thou2  liu5  bin5	100
 土溜	thou5  liu1	100
 土溝糜	thou5  kau1  be5	100
@@ -21955,7 +21955,7 @@ sort: by_weight
 土茯苓	thou2  hok8  leng5	101
 土茯苓	thou5  hok8  leng5	100
 土荊芥	thou2  keng1  kai3	102
-土菝仔	thou2  puan8  a2	100
+土菝仔	thou2  puat8  a2	100
 土著	thou2  tu3	100
 土葬	thou5  chong3	101
 土蒸芛	thou5  chheng3  sun2	100
@@ -22267,7 +22267,7 @@ sort: by_weight
 地方廳	te7  hng1  thiann1	100
 地方廳	tue7  hng1  thiann1	100
 地方性	te7  hong1  seng3	100
-地方法院	te7  hng1  huan4  inn7	100
+地方法院	te7  hng1  huat4  inn7	100
 地方稅	te7  hng1  se3	100
 地方稅	tue7  hng1  se3	100
 地方腔	te7  hng1  khiunn1	100
@@ -22764,7 +22764,7 @@ sort: by_weight
 埋案底	tai5  an3  te2	101
 埋案底	tai5  an3  tue2	100
 埋死人	tai5  si2  lang5	100
-埋沒	bai5  buan8	100
+埋沒	bai5  buat8	100
 埋沒	bai5  but8	101
 埋滅	bai5  biat8	100
 埋葬	bai5  chong3	100
@@ -22880,8 +22880,8 @@ sort: by_weight
 執業	chip4  giap8	101
 執死息	chip4  si2  suah4	100
 執死板	chip4  si2  pan2	101
-執死訣	chip4  si2  kuan4	103
-執法	chip4  huan4	102
+執死訣	chip4  si2  kuat4	103
+執法	chip4  huat4	102
 執照	chip4  chiau3	102
 執癖	chip4  phiah4	103
 執矢	chip4  si2	100
@@ -22891,7 +22891,7 @@ sort: by_weight
 執紼	chip4  hut4	100
 執行	chip4  heng5	102
 執行長	chip4  heng5  tiunn2	100
-執訣	chip4  kuan4	105
+執訣	chip4  kuat4	105
 執迷	chip4  be5	100
 執迷不悟	chip4  be5  put4  ngou7	100
 執迷不悟	chip4  be5 put4  ngou7	100
@@ -23011,7 +23011,7 @@ sort: by_weight
 堅拒	kian1  ki7	100
 堅持	kian1  chhi5	102
 堅果	kian1  ko2	100
-堅決	kian1  kuan4	101
+堅決	kian1  kuat4	101
 堅疕	kian1  phi2	102
 堅疕仔	kian1  phi2  a2	100
 堅疤	kian1  pa1	101
@@ -23419,7 +23419,7 @@ sort: by_weight
 填海	thiam7  hai2	100
 填海造地	thun7  hai2  cho7  te7	100
 填滿	thian5  buan2	100
-填發	thian5  huan4	100
+填發	thian5  huat4	100
 填腹肚	thun7  pak4  tou2	100
 填表	thian5  pio2	100
 填補	thian5  pou2	100
@@ -24657,7 +24657,7 @@ sort: by_weight
 大小姐	tua7  sio2  chia2	100
 大小旁	tua7  sio2  peng5	100
 大小月	tua7  sio2  geh8	100
-大小腸發炎	tua7  sio2  tng5 huan4  iam7	100
+大小腸發炎	tua7  sio2  tng5 huat4  iam7	100
 大少爺	tua7  siau3  ia5	100
 大尖山	tua7  chiam1  suann1	100
 大尻川	tua7  kha1  chhng1	100
@@ -24682,7 +24682,7 @@ sort: by_weight
 大工	tua7  kang1	100
 大工事	tua7  kang1  su7	101
 大工程	tua7  kang1  teng5	100
-大巧若拙	tai7  khau2 jiok8  chuan4	100
+大巧若拙	tai7  khau2 jiok8  chuat4	100
 大巨蛋	tai7  ki7  tan3	100
 大巨蛋	tai7  ku7  tan3	100
 大巨蛋	tua7  ki3  tan3	100
@@ -24809,7 +24809,7 @@ sort: by_weight
 大斗柚	tua7  tau2  iu7	101
 大斗碗	tua7  tau2  uann2	102
 大料	tua7  liau7	100
-大斡彎	tua7  uan4  uan1	101
+大斡彎	tua7  uat4  uan1	101
 大斧	tua7  pou2	100
 大新婦	tua7 sin1  pu7	100
 大方	tai7  hong1	103
@@ -24988,7 +24988,7 @@ sort: by_weight
 大沉	tua7  tim5	100
 大沙鵻	tua7  sua1  chui1	100
 大油	tua7  iu5	100
-大法國	tai7  huan4  kok4	100
+大法國	tai7  huat4  kok4	100
 大波浪	tua7  pho1  long7	100
 大注	tua7  tu3	101
 大注賭	tua7  tu3  kiau2	100
@@ -25037,7 +25037,7 @@ sort: by_weight
 大漢食細漢	tua7  han3 tchiah8 se3  han3	100
 大漭漭	tua7  bong3  bong3	100
 大漲	tua7  tiong3	100
-大潤發	tai7  jun7  huan4	100
+大潤發	tai7  jun7  huat4	100
 大潭	tua7  tham5	100
 大澳	tua7  o3	100
 大澳斯馬加國	tai7  o3  su1  ma2  ka1  kok4	100
@@ -25112,10 +25112,10 @@ sort: by_weight
 大病	tua7  pinn7	100
 大病院	tua7  penn7  inn7	100
 大症頭	tua7  cheng3  thau5	101
-大發	tua7  huan4	100
-大發家	tua7  huan4  ke1	101
-大發彩	tua7  huan4  chhai2	102
-大發雷霆	tai7  huan4  lui5  teng5	100
+大發	tua7  huat4	100
+大發家	tua7  huat4  ke1	101
+大發彩	tua7  huat4  chhai2	102
+大發雷霆	tai7  huat4  lui5  teng5	100
 大白	tua7  peh8	100
 大白花	tua7  peh8  hue1	101
 大白葉仔	tua7  peh8  hioh8  a2	101
@@ -25612,10 +25612,10 @@ sort: by_weight
 大雜字	tua7  chap8  ji7	100
 大難	tai7  lan7	100
 大雨	tua7  hou7	101
-大雪	tai7  suan4	102
+大雪	tai7  suat4	102
 大雪	tua7  seh4	101
 大雪山	tua7  seh4  suann1	100
-大雪山	tua7  suan4  suann1	100
+大雪山	tua7  suat4  suann1	100
 大雷	tua7  lui5	100
 大雺	tua7  bong5	100
 大雺霧	tua7 bong5  bu7	100
@@ -25752,7 +25752,7 @@ sort: by_weight
 天下萬物	thian1  ha7  ban7  but8	100
 天不容	thian1  put4  iong5	100
 天不從人願	thinn1 put4  chiong5 lang5  guan7	100
-天不絕	thian1  put4  chuan8	100
+天不絕	thian1  put4  chuat8	100
 天中	thinn1  tiong1	100
 天中節	thian1  tiong1  chiat4	100
 天主	thian1  chu2	101
@@ -25976,7 +25976,7 @@ sort: by_weight
 天暗	thinn1  am3	100
 天暗啊	thinn1  am3 ah4	100
 天書	thian1  su1	100
-天月德方	thian1  guan8  tek4  hng1	100
+天月德方	thian1  guat8  tek4  hng1	100
 天有目	thinn1  u7  bak8	101
 天朝	thian1  tiau5	100
 天未光	thinn1  be7  kng1	100
@@ -26025,7 +26025,7 @@ sort: by_weight
 天烏陰	thinn1  ou1  im1	100
 天無照甲子人無照情理	thinn1 bo5 chiau3 kah4  chi2  lang5 bo5 chiau3 cheng5  li2	101
 天無目	thinn1  bo5  bak8	100
-天無絕人之路	thinn1 bo5 chuan8  lang5 chi1 lou7	100
+天無絕人之路	thinn1 bo5 chuat8  lang5 chi1 lou7	100
 天無錯對	thinn1 bo5  chho3  tui3	100
 天焦燥	thinn1 ta1  so3	100
 天然	thian1  jian5	103
@@ -26075,7 +26075,7 @@ sort: by_weight
 天皇陛下	thian1  hong5  pe7  ha7	100
 天相	thian1  siong7	100
 天真	thian1  chin1	101
-天真活潑	thian1  chin1 uah8  phuan4	100
+天真活潑	thian1  chin1 uah8  phuat4	100
 天知地知	thinn1  chai1  te7  chai1	100
 天知地知	thinn1  chai1 tue7  chai1	100
 天知地見	thian1  ti1 te7  kian3	100
@@ -26110,7 +26110,7 @@ sort: by_weight
 天罡星	thian1  kong1  chhenn1	100
 天罡星	thian1  kong1  chhinn1	101
 天罡神	thian1  kong1  sin5	101
-天罰	thian1  huan8	101
+天罰	thian1  huat8	101
 天署	thian1  su7	100
 天羅地網	thian1  lo5  te7  bong2	100
 天羅地網	thian1  lo5 te7  bong2	100
@@ -26140,7 +26140,7 @@ sort: by_weight
 天草	thian1  chho2	100
 天落甘露	thinn1  loh8  kam1  lou7	100
 天落紅雨	thinn1 loh8 ang5  hou7	100
-天落紅雨馬發角	thinn1 loh8 ang5  hou7 be2 huan4  kak4	100
+天落紅雨馬發角	thinn1 loh8 ang5  hou7 be2 huat4  kak4	100
 天葵子	thian1  khue5  chi2	100
 天蔓菁	thian1  ban7  chheng1	101
 天藍	thian1  lam5	100
@@ -26685,7 +26685,7 @@ sort: by_weight
 奉侍	hong7  si7	100
 奉公	hong7  kong1	100
 奉公事	hong7  kong1  su7	100
-奉公守法	hong7  kong1  siu2  huan4	100
+奉公守法	hong7  kong1  siu2  huat4	100
 奉勸	hong7  khng3	101
 奉化	hong7  hua3	100
 奉呈	hong7  theng5	100
@@ -26772,7 +26772,7 @@ sort: by_weight
 契後	khue3  au7	100
 契據	khue3  ku3	100
 契明價足	khue3  beng5 ke3  chiok4	100
-契月	khe3  guan8	100
+契月	khe3  guat8	100
 契查某囝	khe3  cha1  bou2  kiann2	101
 契查某囝	khue3 cha1  bou2  kiann2	100
 契機	khue3  ki1	100
@@ -26871,20 +26871,20 @@ sort: by_weight
 奢颺	chhia1  iann7	102
 奩敬	liam5  keng3	100
 奪人	teh8   lang5	100
-奪利	tuan8  li7	100
+奪利	tuat8  li7	100
 奪去	teh8   khi3	100
-奪取	tuan8  chhu2	101
-奪回	tuan8  hue5	100
+奪取	tuat8  chhu2	101
+奪回	tuat8  hue5	100
 奪奪	teh8  teh8	100
-奪得	tuan8  tit4	100
+奪得	tuat8  tit4	100
 奪枝	teh8  ki1	100
 奪樹絡	teh8  chhiu7  le1	100
-奪權	tuan8  kuan5	101
-奪理	tuan8  li2	100
-奪目	tuan8  bak8	100
-奪目	tuan8  bok8	100
-奪錦標	tuan8  kim2  phiau1	100
-奪門	tuan8  mng5	100
+奪權	tuat8  kuan5	101
+奪理	tuat8  li2	100
+奪目	tuat8  bak8	100
+奪目	tuat8  bok8	100
+奪錦標	tuat8  kim2  phiau1	100
+奪門	tuat8  mng5	100
 奮不顧身	hun3  put4  kou3  sin1	100
 奮力	hun3  lek8	100
 奮勇	hun3  iong2	101
@@ -26892,7 +26892,7 @@ sort: by_weight
 奮志	hun3  chi3	103
 奮戰	hun3  chian3	102
 奮激	hun3  kek4	100
-奮發	hun3  huan4	101
+奮發	hun3  huat4	101
 奮起	hun3  khi2	101
 奮起湖	pun3  ki1  ou5	100
 奮鬥	hun3  tau3	101
@@ -27562,7 +27562,7 @@ sort: by_weight
 如數	ju5  sou3	100
 如日中天	ji5  jit8  tiong1  thinn1	100
 如是我聞	ju5  si7  ngou2  bun5	100
-如月	ju5  guan8	100
+如月	ju5  guat8	100
 如期	ji5  ki5	100
 如期	lu5  ki5	100
 如果	ji5  ko2	100
@@ -27577,7 +27577,7 @@ sort: by_weight
 如此如此	ju5  chhu2  ju5  chhu2	102
 如此如此	lu5  chhu2  lu5  chhu2	100
 如此這般	ju5  chhu2 chit4  pan1	100
-如法炮製	ji5  huan4  phau3  che3	100
+如法炮製	ji5  huat4  phau3  che3	100
 如流	ju5  liu5	100
 如膠如漆	ju5  ka1 ju5  chhat4	100
 如虎添翼	ji5  hou2  thiam1  ek8	100
@@ -27618,7 +27618,7 @@ sort: by_weight
 妖怪邪鬼	iau1  koai3  sia5  kui2	100
 妖星	iau1  chhenn1	100
 妖星	iau1  chhinn1	100
-妖法	iau1  huan4	101
+妖法	iau1  huat4	101
 妖精	iau1  chiann1	104
 妖精四洗	iau1  chiann1  si3  sue2	100
 妖艷	iau1  iam7	100
@@ -27634,7 +27634,7 @@ sort: by_weight
 妙方	biau7  hong1	100
 妙方	miau7  hng1	100
 妙步	miau7  pou7	100
-妙法	biau7  huan4	100
+妙法	biau7  huat4	100
 妙理	biau7  li2	100
 妙用	biau7  iong7	100
 妙藥	biau7  ioh8	100
@@ -27710,7 +27710,7 @@ sort: by_weight
 姊母	chia2  bo2	101
 始政	si2  cheng3	100
 始料未及	si2  liau7  bi7  kip8	100
-始末	si2  buan8	101
+始末	si2  buat8	101
 始祖	si2  chou2	101
 始終	si2  chiong1	101
 姐夫	chia2  hu1	100
@@ -27776,7 +27776,7 @@ sort: by_weight
 姜女	khiong1  lu2	100
 姜子牙	khiong1  chu2  ga5	100
 姜子牙	kiong1  chu2  ga5	100
-姜活	khiong1  huan8	100
+姜活	khiong1  huat8	100
 姜詩	kiong1  si1	100
 姦古	kan3  kou2	100
 姦夫	kan1  hu1	101
@@ -28240,7 +28240,7 @@ sort: by_weight
 子游	chur2  iu5	100
 子爵	chu2  chiok4	100
 子父仔	kiann2  pe7  a2	100
-子發的	chi2 huan4   e5	100
+子發的	chi2 huat4   e5	100
 子線	chu2  suann3	100
 子葉	chu2  hioh8	100
 子規	chu2  kui1	100
@@ -28346,7 +28346,7 @@ sort: by_weight
 字母	ji7  bo2	100
 字母	ji7  bu2	101
 字母	li7  bu2	100
-字法	ji7  huan4	100
+字法	ji7  huat4	100
 字派	ji7  phai3	100
 字源	ji7  guan5	100
 字爿	ji7  peng5	102
@@ -28776,7 +28776,7 @@ sort: by_weight
 學款	oh8  khuan2	100
 學歷	hak8  lek8	101
 學歹	oh8  phainn2	100
-學法	hak8  huan4	100
+學法	hak8  huat4	100
 學派	hak8  phai3	100
 學淺	hak8  chhian2	100
 學測	hak8  chhek4	100
@@ -28814,7 +28814,7 @@ sort: by_weight
 學術界	hak8  sut8  kai3	100
 學規	oh8  kui1	100
 學話	oh8  ue7	105
-學說	hak8  suan4	102
+學說	hak8  suat4	102
 學課	hak8  kho3	100
 學識	hak8  sek4	101
 學費	hak8  hui3	102
@@ -28822,7 +28822,7 @@ sort: by_weight
 學運	hak8  un7	100
 學長	hak8  tiunn2	101
 學門	hak8  mng5	100
-學閥	hak8  huan8	100
+學閥	hak8  huat8	100
 學院	hak8  inn7	102
 學霸	hak8  pa3	100
 學風	hak8  hong1	100
@@ -28890,7 +28890,7 @@ sort: by_weight
 守本分	siu2  pun2  hun7	100
 守株待兔	siu2  chu1  thai7  thou3	100
 守株待兔	siu2  tu1 thai7  thou3	100
-守法	siu2  huan4	102
+守法	siu2  huat4	102
 守生寡	chiu2  senn1  kuann2	100
 守生寡	chiu2  sinn1  kuann2	100
 守禦	siu2  gu7	100
@@ -29212,7 +29212,7 @@ sort: by_weight
 官權	kuann1  kuan5	100
 官民	kuann1  bin5	100
 官氣	kuann1  khui3	100
-官法	kuann1  huan4	100
+官法	kuann1  huat4	100
 官派	kuann1  phai3	100
 官渡	kuann1  tou7	100
 官燕	kuann1  ian3	100
@@ -29295,7 +29295,7 @@ sort: by_weight
 定去	tiann7  khi3	101
 定向	teng7  hiong3	101
 定型	tiann7  heng5	100
-定奪	teng7  tuan8	100
+定奪	teng7  tuat8	100
 定婚	teng7  hun1	101
 定存	teng7  chun5	101
 定定	teng7  teng7	100
@@ -29326,7 +29326,7 @@ sort: by_weight
 定業	teng7  giap8	100
 定榫	teng7  sng2	100
 定款	teng7  khuan2	100
-定法	teng7  huan4	100
+定法	teng7  huat4	100
 定洗手	tiann7 se2  chhiu2	100
 定海	tī͘ng1  hai2	100
 定準	teng7  chun2	102
@@ -29364,7 +29364,7 @@ sort: by_weight
 定銀	tiann7  gun5	101
 定錢	tiann7  chinn5	101
 定閱	teng7  iat8	100
-定閱	teng7  uan8	100
+定閱	teng7  uat8	100
 定限	teng7  han7	100
 定頭	tiann7  thau5	101
 定額	teng7  giah8	102
@@ -29421,7 +29421,7 @@ sort: by_weight
 客情	kheh4  cheng5	101
 客戶	kheh4  hou7	101
 客房	kheh4  pang5	100
-客月	khek4  guan8	100
+客月	khek4  guat8	100
 客服	kheh4  hok8	100
 客棧	kheh4  chan3	107
 客機	kheh4  ki1	101
@@ -29528,7 +29528,7 @@ sort: by_weight
 宮硝	kiong1  sau1	100
 宮粉	kiong1  hun2	100
 宮門	kiong1  bun5	100
-宮闕	kiong1  khuan4	100
+宮闕	kiong1  khuat4	100
 宮餅	keng1  piann2	100
 宰制	chainn2  che3	100
 宰我	chainn2 ngou2	100
@@ -29719,7 +29719,7 @@ sort: by_weight
 家母妗	ka1  bu2  kim7	100
 家母舅	ka1  bu2  ku7	100
 家治	ka1  ti7	100
-家法	ka1  huan4	100
+家法	ka1  huat4	100
 家父	ka1  hu7	101
 家產	ka1  san2	102
 家用	ka1  iong7	100
@@ -30105,7 +30105,7 @@ sort: by_weight
 寓所	gu7  sou2	100
 寓教於樂	gu7  kau3  u5  lok8	100
 寓言	gu7  gian5	101
-察奪	chhat4  tuan8	101
+察奪	chhat4  tuat8	101
 察察其明	chhat4  chhat4 ki5  beng5	100
 察理	chhat4  li2	101
 察覺	chhat4  kak4	100
@@ -30251,7 +30251,7 @@ sort: by_weight
 審計部	sim2  ke3  pou7	100
 審訊	sim2  sin3	100
 審議	sim2  gi7	102
-審閱	sim2  uan8	100
+審閱	sim2  uat8	100
 寫作	sia2  chok4	101
 寫作班	sia2  chok4  pan1	100
 寫出	sia2  chhut4	100
@@ -30273,7 +30273,7 @@ sort: by_weight
 寫批	sia2  phe1	101
 寫批	sia2  phue1	100
 寫正	sia2  chiann3	100
-寫法	sia2  huan4	101
+寫法	sia2  huat4	101
 寫照	sia2  chiau3	101
 寫生	sia2  seng1	101
 寫真	sia2  chin1	102
@@ -30488,7 +30488,7 @@ sort: by_weight
 射歪	sia7  oai1	100
 射死	sia7  si2	100
 射殺	sia7  sat4	100
-射法	sia7  huan4	100
+射法	sia7  huat4	100
 射石	sia7  chioh8	100
 射程	sia7  teng5	100
 射窟仔	choh8  khut4  a2	100
@@ -30568,7 +30568,7 @@ sort: by_weight
 專刊	chuan1  khan1	100
 專利	chuan1  li7	101
 專利權	chuan1  li7  kuan5	100
-專利法	chuan1  li7  huan4	100
+專利法	chuan1  li7  huat4	100
 專制	chuan1  che3	102
 專務	chuan1  bu7	100
 專務理事	chuan1  bu7  li2  su7	100
@@ -30822,7 +30822,7 @@ sort: by_weight
 對歲	tui3  hue3	100
 對段	tui3  tng5	100
 對比	tui3  pi2	102
-對決	tui3  kuan4	100
+對決	tui3  kuat4	100
 對沒過	tui3  bue7  ke3	100
 對沖	tui3  chhiong1	102
 對流	tui3  liu5	100
@@ -31194,7 +31194,7 @@ sort: by_weight
 小沃	sio2  ak4	100
 小沙彌	sio2  sa1  bi1	100
 小油坑	sio2  iu5  khenn1	100
-小法	sio2  huan4	100
+小法	sio2  huat4	100
 小注	sio2  tu3	100
 小洋	sio2  iunn5	100
 小流	sio2  lau5	102
@@ -31322,9 +31322,9 @@ sort: by_weight
 小許	sio2  khua2	100
 小試	siau2  si3	100
 小試	sio2  si3	100
-小說	siau2  suan4	101
-小說	sio2  suan4	100
-小說家	sio2  suan4  ka1	100
+小說	siau2  suat4	101
+小說	sio2  suat4	100
+小說家	sio2  suat4  ka1	100
 小調	sio2  tiau7	100
 小諸侯	sio2  chu1  hou5	100
 小貪	siau2  tham1	100
@@ -31361,7 +31361,7 @@ sort: by_weight
 小金英	sio2  kim1  eng1	104
 小金面	sio2  kim1  bin7	100
 小鈔	sio2  chhau1	100
-小鈸	sio2  puan8	100
+小鈸	sio2  puat8	100
 小銀	sio2  gin5	100
 小銀	sio2  gun5	101
 小鋸	sio2  ku3	100
@@ -31372,8 +31372,8 @@ sort: by_weight
 小陽春	sio2  iong5  chhun1	100
 小隊	sio2  tui7	100
 小雨	sio2  hou7	101
-小雪	siau2  suan4	102
-小雪	sio2  suan4	100
+小雪	siau2  suat4	102
+小雪	sio2  suat4	100
 小面神	sio2  bin7  sin5	104
 小題大作	sio2  te5  tai7  chok4	100
 小題大做	sio2  tue5 tua7  chue3	100
@@ -31435,7 +31435,7 @@ sort: by_weight
 少年年	siau3  lian5  lian5	100
 少年毋拍拚食老老歹命	siau3  lian5 m7 phah4  piann3  chiah8  lau7 lau7  phainn2  mia7	100
 少年毋捌代誌	siau3  lian5 m7 bat4 tai7  chi3	100
-少年法庭	siau3  lian5  huan4  teng5	100
+少年法庭	siau3  lian5  huat4  teng5	100
 少年熟骨	siau3  lian5 sek8  kut4	100
 少年犯	siau3  lian5  huan7	100
 少年翁某	siau3  lian5 ang1  bou2	100
@@ -31604,7 +31604,7 @@ sort: by_weight
 就地	chiu7  te7	100
 就地取材	chiu7  te7  chhu2  chai5	100
 就地取糧	chiu7  tue7 chhu2  niu5	100
-就地正法	chiu7  tue7 cheng3  huan4	100
+就地正法	chiu7  tue7 cheng3  huat4	100
 就坐	chiu7  cho7	100
 就如此	chiu7  an1  ni1	100
 就孝娶	chiu7  ha3  chhua7	100
@@ -32455,8 +32455,8 @@ sort: by_weight
 山產物	suann1  san2  but8	100
 山田	suann1  chhan5	100
 山番仔薰	suann1  huan1  a2  hun1	100
-山發	suann1  huan4	100
-山發的	suann1  huan4   e5	100
+山發	suann1  huat4	100
+山發的	suann1  huat4   e5	100
 山白菜	suann1  peh8  chhai3	102
 山盟海誓	san1  beng5  hai2  se3	100
 山相思	suann1  siunn1  si1	100
@@ -33070,8 +33070,8 @@ sort: by_weight
 巧怪	kha2  koai3	102
 巧所	khau2  sou2	101
 巧手機仔	khiau2  chhiu2  ki1  a2	100
-巧拙	khau2  chuan4	100
-巧月	khau2  guan8	100
+巧拙	khau2  chuat4	100
+巧月	khau2  guat8	100
 巧樣	kha2  iunn7	100
 巧機仔	khiau2  ki1  a2	100
 巧款	kha2  khuan2	100
@@ -33084,7 +33084,7 @@ sort: by_weight
 巧物	kha2  mih8	100
 巧神	khiau2  sin5	105
 巧精	kha2  siau5	100
-巧者拙之奴	khau2  chia2 chuan4  chi1  lou5	100
+巧者拙之奴	khau2  chia2 chuat4  chi1  lou5	100
 巧聖先師	khau2  seng3 sian1  su1	100
 巧虎	khiau2  hou2	100
 巧行	kha1  kiann5	100
@@ -33548,7 +33548,7 @@ sort: by_weight
 師母	su1  bio2	100
 師母	su1  bo2	100
 師母	su1  bu2	100
-師法	su1  huan4	100
+師法	su1  huat4	100
 師父	sai1  pe7	100
 師父	su1  hu7	101
 師父工	sai1  hu7  kang1	101
@@ -34110,9 +34110,9 @@ sort: by_weight
 年暝	ni5  me5	100
 年暝兜	ni5  me5  tau1	100
 年會	ni5  hue7	101
-年月	lian5  guan8	100
+年月	lian5  guat8	100
 年月	ni5  geh8	100
-年末	lian5  buan8	100
+年末	lian5  buat8	100
 年柑	lian5  kam1	100
 年柑	ni5  kam1	102
 年次	lian5  chhu3	100
@@ -34928,7 +34928,7 @@ sort: by_weight
 弄囡仔	lang7  gin2  a2	101
 弄大刀	lang7  tua7  to1	100
 弄家散宅	long7  ke1  suann2  theh8	100
-弄巧反拙	long7  khau2 huan2  chuan4	100
+弄巧反拙	long7  khau2 huan2  chuat4	100
 弄幫	long7  pang1	102
 弄弄	chian7  chian7	100
 弄弄	thang7  thang7	100
@@ -35023,7 +35023,7 @@ sort: by_weight
 弓箭	kiong1  chinn3	100
 弓箭堵	keng1  chinn3  tou2	100
 弓箭士	keng1  chinn3  su7	100
-弓箭法	keng1  chinn3  huan4	100
+弓箭法	keng1  chinn3  huat4	100
 弓箭絃	keng1  chinn3  hian5	100
 弓絃	keng1  hian5	100
 弓羓	keng1  pa1	100
@@ -35059,7 +35059,7 @@ sort: by_weight
 弗石	hut4  chioh8	100
 弗素	hut4  sou3	100
 弘毅	hong5  ge7	100
-弘法	hong5  huan4	101
+弘法	hong5  huat4	101
 弟妹	te7  be7	100
 弟婦	te7  hu7	101
 弟婦仔	te7  hu7  a2	102
@@ -35119,7 +35119,7 @@ sort: by_weight
 張持無蝕本	tiunn1  ti5 bo5 sih8  pun2	101
 張掇	tiunn1  chhuah4	100
 張掇	tiunn1  tuah4	102
-張月鹿	tiunn1  guan8  lok8	100
+張月鹿	tiunn1  guat8  lok8	100
 張李	tiunn1  li2	100
 張格	tiunn1  keh4	101
 張樣	tiunn1  iunn7	102
@@ -35180,7 +35180,7 @@ sort: by_weight
 強壓	kiong5  ap4	101
 強壯	kiong5  chong3	102
 強大	kiong5  tai7	101
-強奪	kiong5  tuan8	102
+強奪	kiong5  tuat8	102
 強姦	kiang5  kan1	101
 強姦	kiong5  kan1	103
 強子	kiong5  chu2	100
@@ -35224,7 +35224,7 @@ sort: by_weight
 強欲	kiong7  beh4	100
 強欲	kiong7  bueh4	100
 強求	kiong5  kiu5	101
-強法	kiong5  huan4	101
+強法	kiong5  huat4	101
 強烈	kiong5  liat8	101
 強牚	kiong5  thinn3	100
 強癖	kiunn7  phiah4	100
@@ -35303,7 +35303,7 @@ sort: by_weight
 彌勒爺	ni5  lek8  ia5	100
 彌姐	bi5  chia2	100
 彌撒	mi5  sat4	100
-彌月	bi2  guan8	100
+彌月	bi2  guat8	100
 彌滿	bi2  mua2	100
 彌滿	mi5  buan2	100
 彌濃	bi5  long1	100
@@ -35320,7 +35320,7 @@ sort: by_weight
 彌陀經	mi2  to5  keng1	100
 彎乖	oainn1  koainn7	100
 彎人	oainn1   lang5	100
-彎來斡去	uan1  lai5  uan4  khi3	101
+彎來斡去	uan1  lai5  uat4  khi3	101
 彎借	oainn1  chioh4	100
 彎光仔	uan1  kong1  a2	100
 彎光楣	uan1  kong1  bai5	100
@@ -35330,11 +35330,11 @@ sort: by_weight
 彎弓橋	uan1  kiong1  kio5	101
 彎弓門	uan1  kiong1  mng5	100
 彎彎	uan1  uan1	101
-彎彎斡斡	uan1  uan1  uan4  uan4	105
+彎彎斡斡	uan1  uan1  uat4  uat4	105
 彎挖	uan1  iah4	100
-彎斡	uan1  uan4	106
-彎斡走廊	uan1  uan4  chau2  long5	100
-彎斡路	uan1  uan4  lou7	101
+彎斡	uan1  uat4	106
+彎斡走廊	uan1  uat4  chau2  long5	100
+彎斡路	uan1  uat4  lou7	101
 彎曲	uan1  khiau1	103
 彎曲	uan1  khiok4	100
 彎線	uan1  suann3	100
@@ -35342,7 +35342,7 @@ sort: by_weight
 彎背椅	uan1  pue3  i2	100
 彎蜷	uan1  khun5	100
 彎街僻巷	uan1  kue1 phiah4  hang7	100
-彎街斡角	uan1 ke1 uan4 kak4	100
+彎街斡角	uan1 ke1 uat4 kak4	100
 彎蹺	uan1  khiau1	103
 彔空	lak4  khang1	100
 彗星	hui7  chhenn1	100
@@ -35579,7 +35579,7 @@ sort: by_weight
 彼頭	hit4  thau5	101
 彼頭	hit4 thau5	100
 彼點仔	hit4  tiam2  a2	100
-征伐	cheng1  huan8	100
+征伐	cheng1  huat8	100
 征南走北	cheng1  lam5 chau2  pak4	100
 征戰	cheng1  chian3	100
 征摒	cheng1  piang3	100
@@ -35598,7 +35598,7 @@ sort: by_weight
 律例	lut8  le7	100
 律呂	lut8  lu7	100
 律師	lut8  su1	102
-律法	lut8  huan4	102
+律法	lut8  huat4	102
 律詩	lut8  si1	101
 後下	hou7  e7	100
 後世	hou7  se3	100
@@ -35721,7 +35721,7 @@ sort: by_weight
 得欲晝	tit4  beh4  tau3	100
 得民心	tek4  bin5  sim1	101
 得民心	tit4  bin5  sim1	100
-得法	tek4  huan4	100
+得法	tek4  huat4	100
 得獎	tit8  chiong2	100
 得獎人	tit8  chiong2  jin5	100
 得票	tek4  phio3	100
@@ -35735,7 +35735,7 @@ sort: by_weight
 得著	tit4  tioh8	101
 得解	tek4  kai2	100
 得計	tek4  ke3	100
-得訣	tek4  kuan4	102
+得訣	tek4  kuat4	102
 得財	tek4  chai5	100
 得財	tit4  chai5	100
 得道	tek4  to7	100
@@ -35913,7 +35913,7 @@ sort: by_weight
 從細漢甲大漢	cheng5 se3  han3 kah4 tua7  han3	101
 從良	chiong5  liong5	100
 從軍	chiong5  kun1	101
-從輕發落	chiong5  khin1  huan4  loh8	100
+從輕發落	chiong5  khin1  huat4  loh8	100
 從開始	cheng7  khai1  si2	102
 從頭	cheng5  thau5	100
 從頭	chng5  thau5	100
@@ -35963,11 +35963,11 @@ sort: by_weight
 復旨	hok8  chi2	100
 復書	hok8  su1	100
 復業	hok8  giap8	100
-復活	hok8  huan8	100
+復活	hok8  huat8	100
 復活	koh4  uah8	100
-復活節	hok8  huan8  chiat4	100
+復活節	hok8  huat8  chiat4	100
 復甦	hok8  sou1	101
-復發	hok8  huan4	101
+復發	hok8  huat4	101
 復籍	hok8  chek8	100
 復習	hok8  sip8	102
 復聖	hok8  seng3	100
@@ -36005,7 +36005,7 @@ sort: by_weight
 微微微	bi1  bi1  bi1	100
 微微笑	bi5  bi5  chhio3	100
 微微風	bi5  bi5  hong1	100
-微末	bi5  buan8	100
+微末	bi5  buat8	100
 微波	bi5  pho1	101
 微波爐	bi5  pho1  lou5	101
 微渺	bi5  biau2	101
@@ -36154,7 +36154,7 @@ sort: by_weight
 心智	sim1  ti3	101
 心智圖	sim1  ti3  tou5	100
 心曠神怡	sim1  khong3  sin5  i5	100
-心月狐	sim1  guan8  hou5	100
+心月狐	sim1  guat8  hou5	100
 心服	sim1  hok8	101
 心服口服	sim1  hok8  khau2  hok8	100
 心朦	sim1 bang5	100
@@ -36266,7 +36266,7 @@ sort: by_weight
 心肝頭知知	sim1  kuann1  thau5 chai1  chai1	100
 心肝頭膽膽	sim1  kuann1  thau5 tam2  tam2	100
 心胞膜炎	sim1  pau1  mouh8  iam7	101
-心胞膜發炎	sim1  pau1  mouh8 huan4  iam7	100
+心胞膜發炎	sim1  pau1  mouh8 huat4  iam7	100
 心胸	sim1  heng1	101
 心胸	sim1  hiong1	101
 心胸大	sim1  hiong1  tua7	100
@@ -36320,7 +36320,7 @@ sort: by_weight
 心驚膽嚇	sim1  kiann1  tann2  hiannh4	100
 心驚膽戰	sim1 keng1 tam2 chian3	100
 心驚膽跳	sim1  kiann1  tann2  thiau3	100
-心體發炎	sim1  the2 huan4  iam7	100
+心體發炎	sim1  the2 huat4  iam7	100
 必修	pit4  siu1	100
 必修科	pit4  siu1  kho1	100
 必備	pit4  pi7	100
@@ -36537,7 +36537,7 @@ sort: by_weight
 念日	liam7  jit8	100
 念書	liam7  chu1	100
 念歌	liam7  kua1	100
-念歌訣	liam7  ko1  kuan4	100
+念歌訣	liam7  ko1  kuat4	100
 念熟	liam7  sek8	100
 念父母	liam7  pe7  bo2	100
 念珠	liam7  chu1	102
@@ -36548,7 +36548,7 @@ sort: by_weight
 念茹	liam7  ju5	100
 念菇	liam7  lu5	103
 念著	liam7   tioh8	100
-念訣	liam7  kuan4	100
+念訣	liam7  kuat4	100
 念詩	liam7  si1	102
 念誆	liam7  khong7	100
 念譜	liam7  phou2	100
@@ -36761,7 +36761,7 @@ sort: by_weight
 怪罪	koai3  chue7	101
 怪羶	koai3  hian3	100
 怪術	koai3  sut8	100
-怪說	koai3  suan4	100
+怪說	koai3  suat4	100
 怪談	koai3  tam5	100
 怪跤	koai3  kha1	100
 怪風	koai3  hong1	103
@@ -36915,7 +36915,7 @@ sort: by_weight
 恭候	kiong1  hou7	100
 恭儉	kiong1  khiam7	100
 恭喜	kiong1  hi2	103
-恭喜發財	kiong1  hi2  huan4  chai5	100
+恭喜發財	kiong1  hi2  huat4  chai5	100
 恭敬	kiong1  keng3	101
 恭請	kiong1  chheng2	100
 恭賀	kiong1  ho7	101
@@ -37258,7 +37258,7 @@ sort: by_weight
 想歪	siunn7  oai1	100
 想歹	siunn7  phainn2	100
 想死卡閒	siunn7  si2  khah4  eng5	100
-想法	siunn7  huan4	101
+想法	siunn7  huat4	101
 想無	siunn7  bo5	100
 想無到	siunn7  bo5  kau3	100
 想無計	siunn7  bo5  ke3	100
@@ -37284,7 +37284,7 @@ sort: by_weight
 想起來	siunn7  khi2  lai5	100
 想路	siunn7  lou7	102
 想轉	siunn7  tng2	102
-想辦法	siunn7  pan7  huan4	100
+想辦法	siunn7  pan7  huat4	100
 想退悔	siunn7  the3  hue2	102
 想進想退	siunn7  chin3 siunn7  the3	100
 想錯	siunn7  chho3	102
@@ -37344,7 +37344,7 @@ sort: by_weight
 愚意	gu5  i3	100
 愚愚	thuh8  thuh8	100
 愚戇	gu5  gong7	103
-愚拙	gu5  chuan4	100
+愚拙	gu5  chuat4	100
 愚民	gu5  bin5	101
 愚直	gu5  tit8	100
 愚策	gu5  chhek4	100
@@ -37682,7 +37682,7 @@ sort: by_weight
 憲司	hian3  si1	100
 憲宗	hian3  chong1	100
 憲政	hian3  cheng3	102
-憲法	hian3  huan4	102
+憲法	hian3  huat4	102
 憲章	hian3  chiong1	100
 憲諭	hian3  ju7	100
 憲轎	hian3  kio7	100
@@ -37727,7 +37727,7 @@ sort: by_weight
 懲惡	teng5  ok4	100
 懲戒	teng5  kai3	100
 懲戒免	teng5  kai3  bian2	100
-懲罰	teng5  huan8	101
+懲罰	teng5  huat8	101
 懵仙	bong3  sian1	100
 懵懂	bong2  tong2	100
 懵懂懵懂	bong2  bong2  tong2  tong2	100
@@ -37793,7 +37793,7 @@ sort: by_weight
 懸牆	kuan1  chhiong5	100
 懸瑯瑯	koainn5  long1  long1	100
 懸瑯瑯	kuan5  long1  long1	100
-懸而未決	hian5   ji5  be7  kuan4	100
+懸而未決	hian5   ji5  be7  kuat4	100
 懸賞	hian5  siong2	101
 懸踏	kuan5  tah8	100
 懸踏仔	kuan5  tah8  a2	100
@@ -38154,7 +38154,7 @@ sort: by_weight
 戕戕	chhiang5  chhiang5	100
 戕賊	chhong5  chek8	100
 或是	hek8  si7	101
-或曰	hek8  uan8	100
+或曰	hek8  uat8	100
 或者	hek8  chia2	102
 戛一下	khiat4   chit8  e7	100
 戛仔	khat4  a2	100
@@ -38261,7 +38261,7 @@ sort: by_weight
 戰機	chian3  ki1	101
 戰死	chian3  si2	101
 戰況	chian3  hong2	101
-戰法	chian3  huan4	100
+戰法	chian3  huat4	100
 戰湧	chian3  eng2	100
 戰溝	chian3  kau1	100
 戰火	chian3  he2	100
@@ -38517,7 +38517,7 @@ sort: by_weight
 所為	sou2  ui5	100
 所由來	sou2  iu5  lai5	100
 所當然	sou2  tong1  jian5	100
-所發	sou2  huan4	101
+所發	sou2  huat4	101
 所益	sou2  ek4	100
 所知	sou2  chai1	100
 所羅門	sou2  lo5  bun5	100
@@ -38678,7 +38678,7 @@ sort: by_weight
 手技	chhiu2  ki1	100
 手技	chhiu2  ki7	100
 手抄	chhiu2  chhau1	100
-手抉仔	chhiu2  kuan4  a2	100
+手抉仔	chhiu2  kuat4  a2	100
 手抱孩兒	chhiu2  pho7  hai5  ji5	100
 手指	chhiu1  chainn1	100
 手指	chhiu2  chainn2	102
@@ -38712,7 +38712,7 @@ sort: by_weight
 手攑孝杖才知哀	chhiu2 giah8 ha3  tng7 chiah4  chai1 ai1	100
 手數料	chhiu2  sou3  liau7	102
 手料錢	chhiu2  liau7  chinn5	100
-手斡彎	chhiu2  uan4  uan1	100
+手斡彎	chhiu2  uat4  uan1	100
 手斧	chhiu2  pou2	100
 手斬斷	chhiu2  cham7  tng7	100
 手斷	chhiu2  thng7	100
@@ -38741,7 +38741,7 @@ sort: by_weight
 手比	chhiu2  pi2	100
 手氣	chhiu2  khi3	100
 手汗	chhiu2  kuann7	100
-手法	chhiu2  huan4	102
+手法	chhiu2  huat4	102
 手液	chhiu2  sioh8	101
 手淫	chhiu2  im5	100
 手燈	chhiu2  teng1	100
@@ -38830,7 +38830,7 @@ sort: by_weight
 手貫	chhiu2  kng3	100
 手賤	chhiu2  chian7	102
 手賤	chhiu2 chian7	100
-手越彎	chhiu2  uan4  uan1	100
+手越彎	chhiu2  uat4  uan1	100
 手足	chhiu2  chiok4	100
 手足	siu2  chiok4	100
 手路	chhiu2  lou7	109
@@ -39130,7 +39130,7 @@ sort: by_weight
 打沒開	phah4  bue7  khui1	100
 打油	phah4  iu5	100
 打泏	phah4  chuah4	100
-打法	tann2  huan4	100
+打法	tann2  huat4	100
 打泙泅	phah4  phong5  siu5	100
 打洗	phah4  sue2	100
 打洞	tann2  tong7	100
@@ -39174,7 +39174,7 @@ sort: by_weight
 打生理	phah4  seng1  li2	100
 打生驚	phah4  chhinn1  kiann1	100
 打疊	tann2  tiap8	105
-打發	tann2  huan4	101
+打發	tann2  huat4	101
 打皺	phah4  jiau5	100
 打盆	phah4  phun5	100
 打盡	tann2  chin7	100
@@ -39403,7 +39403,7 @@ sort: by_weight
 托秧片	thuh4  ng1  phiann2	100
 托窗	thuh4  thang1	100
 托精神	thuh4  cheng1  sin5	100
-托缽	thok4  puan4	100
+托缽	thok4  puat4	100
 托臭	thuh4  chhau3	103
 托落去	thuh4   loh8  khi3	100
 托話骨	thuh4  ue7  kut4	100
@@ -39609,10 +39609,10 @@ sort: by_weight
 批水披	phue1  chui2  phi1	100
 批消	phue1  siau1	100
 批狀	phue1  chng7	100
-批發	phe1  huan4	100
-批發	phi1  huan4	100
-批發價	phe1  huan4  ke3	100
-批發價	phi1  huan4  ke3	100
+批發	phe1  huat4	100
+批發	phi1  huat4	100
+批發價	phe1  huat4  ke3	100
+批發價	phi1  huat4  ke3	100
 批皮	phe1  phue5	100
 批皮	phue1  phe5	100
 批盒	phue1  ah8	100
@@ -39638,7 +39638,7 @@ sort: by_weight
 批車	phe1  chhia1	100
 批銀	phe1  gin5	101
 批錢	phue1  chinn5	100
-批閱	phe1  uan8	100
+批閱	phe1  uat8	100
 批館	phe1  kuan2	100
 批館	phue1  kuan2	100
 批首	phue1  siu2	100
@@ -39689,8 +39689,8 @@ sort: by_weight
 承業	sin5  giap8	100
 承水	sin5  chui2	104
 承球	sin5  kiu5	100
-承發	seng5  huan4	100
-承發房	seng5  huan4  pang5	100
+承發	seng5  huat4	100
+承發房	seng5  huat4  pang5	100
 承盤	seng5  puann5	100
 承祖業	seng5  chou2  giap8	100
 承租	seng5  chou1	100
@@ -39766,16 +39766,16 @@ sort: by_weight
 抈壁廚	mouh4  piah4  tu5	100
 抈壁鬼	mouh4  piah4  kui2	102
 抈鼻仔	mouh4  phinn7  a2	101
-抉喙䫌	kuan4  chhui3  phe2	100
-抉喙䫌	kuan4  chhui3  phue2	100
-抉子弟	kuan4  chu2  te7	100
-抉手	kuan4  chhiu2	100
-抉抉	kuan4  kuan4	100
-抉擇	kuan4  tek8	100
-抉灰	kuan4  he1	100
-抉灰龜	kuan4  he1  ku1	100
-抉粉	kuan4  hun2	100
-抉豬胚	kuan4  ti1  phue1	100
+抉喙䫌	kuat4  chhui3  phe2	100
+抉喙䫌	kuat4  chhui3  phue2	100
+抉子弟	kuat4  chu2  te7	100
+抉手	kuat4  chhiu2	100
+抉抉	kuat4  kuat4	100
+抉擇	kuat4  tek8	100
+抉灰	kuat4  he1	100
+抉灰龜	kuat4  he1  ku1	100
+抉粉	kuat4  hun2	100
+抉豬胚	kuat4  ti1  phue1	100
 把半	pe2  puann3	100
 把城	pe2  siann5	100
 把場	pe2  tiunn5	100
@@ -39821,7 +39821,7 @@ sort: by_weight
 抑若無	ia2  na7  bo5	100
 抑鬱	ek4  ut4	100
 抒情詩	su1  cheng5  si1	100
-抒發	su1  huan4	100
+抒發	su1  huat4	100
 抓仔	jiau3  a2	101
 抓布	jiau3  pou3	100
 抓布	niau3  pou3	100
@@ -40046,7 +40046,7 @@ sort: by_weight
 抱樹蕨	pho7  chhiu7  kueh4	100
 抱歉	pho7  khiam3	100
 抱歉	pho7  khiam7	100
-抱決心	phau7  kuan4  sim1	100
+抱決心	phau7  kuat4  sim1	100
 抱生	pho7  senn1	100
 抱當	pho7  tng1	100
 抱的	pho7   e5	100
@@ -40152,7 +40152,7 @@ sort: by_weight
 抹筆	buah4  pit4	100
 抹粉	buah4  hun2	102
 抹糊	buah4  kou5	100
-抹茶	buan4  te5	100
+抹茶	buat4  te5	100
 抹草	buah4  chhau2	100
 抹藥	buah4  ioh8	100
 抹面	buah4  bin7	100
@@ -40268,7 +40268,7 @@ sort: by_weight
 抽考	thiu1  kho2	100
 抽脂	thiu1  chi1	100
 抽脫	thiu1  thuah4	102
-抽脫	thiu1  thuan4	100
+抽脫	thiu1  thuat4	100
 抽腸	thiu1  tng5	100
 抽虎鬚	liu1  hou2  chhiu1	101
 抽血	thiu1  hueh4	101
@@ -40577,7 +40577,7 @@ sort: by_weight
 拍字	phah4  li7	100
 拍字機	phah4  ji7  ki1	100
 拍字機	phah4  li7  ki1	101
-拍字法	phah4  ji7  huan4	100
+拍字法	phah4  ji7  huat4	100
 拍字盤	phah4  ji7  puann5	100
 拍字行	phah4  ji7  hang5	100
 拍官司	phah4  kuann1  si1	102
@@ -40707,7 +40707,7 @@ sort: by_weight
 拍胸坎	phah4  heng1  kham2	100
 拍脈	liah8  meh8	100
 拍脈	phah4  meh8	100
-拍脫身	phah4  thuan4  sin1	100
+拍脫身	phah4  thuat4  sin1	100
 拍腳倉	phah4  kha1  chhng1	100
 拍膭	phah4  kui7	101
 拍茹	phah4  lu5	101
@@ -40806,8 +40806,8 @@ sort: by_weight
 拒付	ki7  hu3	100
 拒捕	ki7  pou2	100
 拒敵	ku7  tek8	100
-拒絕	ki7  chuan8	101
-拒絕	ku7  chuan8	102
+拒絕	ki7  chuat8	101
+拒絕	ku7  chuat8	102
 拒繳	ki7  kiau2	100
 拒霜花	ku7  sng1  hue1	100
 拒食症	ku7  sit8  cheng3	100
@@ -40815,11 +40815,11 @@ sort: by_weight
 拓展	thok4  tian2	101
 拓張	thok4  tiong1	100
 拓荒	thok4  hong1	100
-拓跋	thok4  puan8	100
-拔仔	puan8  a2	101
+拓跋	thok4  puat8	100
+拔仔	puat8  a2	101
 拔仔票	pat8  a2  phio3	100
-拔仔雞油	puan8  a2  kue1  iu5	100
-拔元	puan8  guan5	100
+拔仔雞油	puat8  a2  kue1  iu5	100
+拔元	puat8  guan5	100
 拔出	pueh8  chhut4	100
 拔出	puih8  chhut4	100
 拔刀	puih8  to1	100
@@ -40829,7 +40829,7 @@ sort: by_weight
 拔大索	pueh8  tua7  soh4	100
 拔封	puih8  hong1	100
 拔封栱	puih8  hong1  kong2	100
-拔度	puan8  tou7	100
+拔度	puat8  tou7	100
 拔拔	phuah8  phuah8	100
 拔拔	puih8  puih8	100
 拔掉	puih8  tiau7	100
@@ -40837,7 +40837,7 @@ sort: by_weight
 拔桶	puah8  thang2	100
 拔桶	pueh8  thang2	100
 拔毒膏	puih8  tok8  ko1	100
-拔河	puan8  ho5	100
+拔河	puat8  ho5	100
 拔猴尾	puih8  kau5  be2	100
 拔猴頭	pueh8  kau5  thau5	100
 拔猴頭	puih8  kau5  thau5	101
@@ -40855,11 +40855,11 @@ sort: by_weight
 拔蔗鬚	puih8  chia3  chhiu1	100
 拔虎鬚	pueh8  hou2  chhiu1	104
 拔虎鬚	puih8  hou2  chhiu1	100
-拔貢	puan8  kong3	100
+拔貢	puat8  kong3	100
 拔起來	puih8   khi2  lai5	100
 拔鏈	phuah8  lian7	100
 拔長	puih8  tng5	100
-拔除	puan8  ti5	100
+拔除	puat8  ti5	100
 拔風	phuah8  hong1	100
 拔馬社	puah8  be2  sia7	101
 拔骨	pueh8  kut4	101
@@ -40992,13 +40992,13 @@ sort: by_weight
 拘謹	khu1  kin2	100
 拘那花	khu1  na2  hue1	101
 拘鵝	khu1  go5	101
-拙作	chuan4  chok4	100
-拙內	chuan4  lue7	100
-拙妻	chuan4  chhe1	100
-拙者	chuan4  chia2	100
-拙荊	chuan4  keng1	101
-拙見	chuan4  kian3	100
-拙計	chuan4  ke3	100
+拙作	chuat4  chok4	100
+拙內	chuat4  lue7	100
+拙妻	chuat4  chhe1	100
+拙者	chuat4  chia2	100
+拙荊	chuat4  keng1	101
+拙見	chuat4  kian3	100
+拙計	chuat4  ke3	100
 拚一下厚薄	piann3  chit8  e7  kau7  poh8	100
 拚一下厚薄	piann3 chit8  e7 kau7  poh8	102
 拚一个公母	piann3 chit8  e5 kang1  bo2	100
@@ -41239,10 +41239,10 @@ sort: by_weight
 拜靈	pai3  leng5	100
 拜領	pai3  leng2	100
 拜領	pai3  nia2	100
-括弧	kuan4  hou5	101
+括弧	kuat4  hou5	101
 括斷	khue1  tng7	100
 括流	kuah4  lau5	101
-括號	kuan4  ho7	100
+括號	kuat4  ho7	100
 拭仔	chhit4  a2	103
 拭仔帶	chhit4  a2  tua3	100
 拭仔條	chhit4  a2  tiau5	100
@@ -41273,7 +41273,7 @@ sort: by_weight
 拳擊	kun5  kek4	100
 拳母猴	kun5  bo2  kau5	101
 拳母石	kun5  bo2  chioh8	101
-拳法	kun5  huan4	100
+拳法	kun5  huat4	100
 拳王	kun5  ong5	100
 拳術	kun5  sut8	100
 拳賽	kun5  sai3	100
@@ -41314,7 +41314,7 @@ sort: by_weight
 拼拔	pinn1  puih8	102
 拼拼	penn1  penn1	100
 拼拼	pinn1  pinn1	100
-拼法	peng1  huan4	100
+拼法	peng1  huat4	100
 拼皮	pinn1  phe5	100
 拼盤	pheng3  puann5	100
 拼音	peng1  im1	100
@@ -41991,7 +41991,7 @@ sort: by_weight
 捨心	sia2  sim1	102
 捨施	sia2  si3	102
 捨施	sia3  si3	100
-捨本逐末	sia2  pun2 tiok8  buan8	100
+捨本逐末	sia2  pun2 tiok8  buat8	100
 捨藥施茶	sia2  ioh8 si1  te5	100
 捨身	sia2  sin1	100
 捲丹	kng2  tan1	100
@@ -42033,7 +42033,7 @@ sort: by_weight
 捷捷	chiap8  chiap8	104
 捷捷	chiat8  chiat8	100
 捷捷出	chiap8  chiap8  chhut4	100
-捷法	chiat8  huan4	100
+捷法	chiat8  huat4	100
 捷洗手	chiap8 se2  chhiu2	101
 捷用	chiap8  iong7	100
 捷甪甪	chiap8  lut4  lut4	100
@@ -42467,7 +42467,7 @@ sort: by_weight
 掠數	liah8  siau3	100
 掠斜	liah8  chhuah8	100
 掠有意思	liah8  u7  i3  su3	101
-掠死訣	liah8  si2  kuan4	100
+掠死訣	liah8  si2  kuat4	100
 掠水鬼	liah8  chui2  kui2	100
 掠沙筋	liah8  sua1  kin1	100
 掠沙筋	liah8  sua1  kun1	100
@@ -42952,7 +42952,7 @@ sort: by_weight
 掩死鯉魚	om1  si2  li2  hi5	100
 掩水魚	am1  sui2  gu5	100
 掩水魚	im1  sui2  gu5	100
-掩法	iam2  huan4	100
+掩法	iam2  huat4	100
 掩湖	am1  ou5	100
 掩熄	iam2  sit4	100
 掩目雞	om1  bak8  ke1	100
@@ -42971,7 +42971,7 @@ sort: by_weight
 掩起來	om1   khi2  lai5	100
 掩身	iam2  sin1	103
 掩身幡	iam2  sin1  huan1	100
-掩身法	iam2  sin1  huan4	101
+掩身法	iam2  sin1  huat4	101
 掩身符	iam2  sin1  hu5	100
 掩身花	iam2  sin1  hue1	100
 掩身草	iam2  sin1  chhau2	100
@@ -43061,7 +43061,7 @@ sort: by_weight
 描寫	bio5  sia2	101
 描描	bio5  bio5	100
 描繪	biau5  hue7	101
-描說	biau5  suan4	100
+描說	biau5  suat4	100
 描述	biau5  sut8	101
 提交	the5  kau1	101
 提供	the5  kiong1	101
@@ -43098,7 +43098,7 @@ sort: by_weight
 提批仔	theh8  phe1  a2	100
 提批的	theh8 phe1   e5	100
 提折	theh8  chiat4	100
-提拔	the5  puan8	104
+提拔	the5  puat8	104
 提掉	theh8   tiau7	100
 提提	the5  the5	100
 提提	theh8  theh8	100
@@ -43328,7 +43328,7 @@ sort: by_weight
 揭揭抓	khiat8  khiat8  jiau3	100
 揭斑	giah4  pan1	100
 揭曉	khiat4  hiau2	100
-揭發	kiat4  huan4	100
+揭發	kiat4  huat4	100
 揭破	giah4  phua3	100
 揭示	khiat4  si7	101
 揭示	kiat4  si7	100
@@ -43340,8 +43340,8 @@ sort: by_weight
 揮揮去	hui1  hui1  khi3	100
 揮揮就去	hui1  hui1  chiu7  khi3	100
 揮毫	hui1  ho5	101
-揮發	hui1  huan4	100
-揮發油	hui1  huan4  iu5	101
+揮發	hui1  huat4	100
+揮發油	hui1  huat4  iu5	101
 揮舞	hui1  bu2	100
 揮軍	hui1  kun1	100
 揳後手	sueh4  au7  chhiu2	100
@@ -43759,7 +43759,7 @@ sort: by_weight
 搶剝賊	chhiunn2  pak4  chhat8	101
 搶功	chhiunn2  kong1	100
 搶劫	chhiunn2  kiap4	103
-搶奪	chhiunn2  tuan8	102
+搶奪	chhiunn2  tuat8	102
 搶嫌	chhiunn2  hiam5	100
 搶孤	chhiunn2  kou1	102
 搶市	chhiunn2  chhi7	103
@@ -44043,18 +44043,18 @@ sort: by_weight
 撇仔	phiat4  a2	101
 撇仔	phiat8 a2	100
 撇仔餅	phiat4  a2  piann2	100
-撇去	phuan4   khi3	100
+撇去	phuat4   khi3	100
 撇叉	phiat4  chhe1	103
-撇叉	phuan4  chhe1	100
+撇叉	phuat4  chhe1	100
 撇尾	phiat8  bue2	101
 撇撇	phiat4  phiat4	100
-撇撇	phuan4  phuan4	100
+撇撇	phuat4  phuat4	100
 撇桑	phiat4  sang3	100
 撇步	phiat4  pou7	108
 撇清	phiat4  chheng1	100
 撇翼	phiat8  sit8	102
 撇腳	phiat4  kha1	100
-撇腳	phuan4  kha1	101
+撇腳	phuat4  kha1	101
 撈倒	la7  tau2	100
 撈孔	la7  khang1	100
 撈筋絡	la7  kun1  le1	100
@@ -44114,7 +44114,7 @@ sort: by_weight
 撒旦	sat4  tan3	100
 撒水播田	suah4  chui2 pou3  chhan5	100
 撒滷魚翅	suah4  lou2 hi5  chhi3	100
-撒潑	sai7  phuan4	102
+撒潑	sai7  phuat4	102
 撒潑爛	sai7  phua3  nua7	100
 撒白糖	suah4  peh8  thng5	100
 撒破爛	sai7  phua3  nua7	101
@@ -44285,8 +44285,8 @@ sort: by_weight
 撥款	puah4  khuan2	101
 撥活鳥	chhuah4  uah8  chiau2	100
 撥用	puah4  iong7	100
-撥發	puah4  huan4	100
-撥腳	puan4  kha1	101
+撥發	puah4  huat4	100
+撥腳	puat4  kha1	101
 撥號	puah4  ho7	100
 撥邊	puah4  pinn1	101
 撥錢	puah4  chinn5	102
@@ -44343,16 +44343,16 @@ sort: by_weight
 播音	pou3  im1	101
 撮仔	chhe3  a2	100
 撮傷	chhe3  siong1	100
-撮合	chhuan4  hap8	100
-撮影	chhuan4  iann2	100
+撮合	chhuat4  hap8	100
+撮影	chhuat4  iann2	100
 撮撮	cheh4  cheh4	100
 撮撮	chua1  chua1	100
 撮汰	cheh4  thuah4	100
 撮治	cheh4  ti7	101
 撮牌	chua1  pai5	100
 撮籤	chua1  chhiam1	100
-撮要	chhuan4  iau3	100
-撮要	chuan4  iau3	100
+撮要	chhuat4  iau3	100
+撮要	chuat4  iau3	100
 撰寫	chuan7  sia2	101
 撰撰	chuan7  chuan7	100
 撰文	chuan7  bun5	100
@@ -44719,7 +44719,7 @@ sort: by_weight
 擺明	pai2  beng5	100
 擺替	pai2  the3	101
 擺聲	pai2  siann1	101
-擺脫	pai2  thuan4	101
+擺脫	pai2  thuat4	101
 擺腳	pai2  kha1	101
 擺腳擺手	pai2  kha1 pai2  chhiu2	100
 擺錢	pai2  chinn5	100
@@ -44777,7 +44777,7 @@ sort: by_weight
 攏總	long2  chong2	103
 攏褲	lang2 khou3	100
 攏頭	long2  thau5	100
-攏髮	long2  huan4	101
+攏髮	long2  huat4	101
 攑刀探牛病	giah8  to1 tham3 gu5  penn7	100
 攑刀探病牛	giah8  to1 tham3 penn7  gu5	100
 攑刀探病牛	giah8  to1 tham3 pinn7  gu5	100
@@ -45028,7 +45028,7 @@ sort: by_weight
 收據	siu1  ku3	101
 收支	siu1  chi1	101
 收支平衡	siu1  chi1  peng5  heng5	100
-收支決算	siu1  chi1 kuan4  suan3	100
+收支決算	siu1  chi1 kuat4  suan3	100
 收收	siu1  siu1	100
 收效	siu1  hau7	100
 收數	siu1  siau3	100
@@ -45056,7 +45056,7 @@ sort: by_weight
 收獲	siu1  hek8	100
 收留	siu1  liu5	102
 收疕	siu1  phi2	101
-收發	siu1  huan4	101
+收發	siu1  huat4	101
 收皮	siu1  phue5	101
 收益	siu1  ek4	101
 收監	siu1  kann1	101
@@ -45211,7 +45211,7 @@ sort: by_weight
 攻勢	kong1  si3	100
 攻占	kong1  chiam3	100
 攻城	kong1  siann5	101
-攻奪	kong1  tuan8	100
+攻奪	kong1  tuat8	100
 攻守	kong1  siu2	101
 攻家	kong1  ka1	100
 攻戰	kong1  chian3	100
@@ -45586,7 +45586,7 @@ sort: by_weight
 效忠	hau7  tiong1	101
 效應	hau7  eng3	100
 效果	hau7  ko2	103
-效法	hau7  huan4	102
+效法	hau7  huat4	102
 效率	hau7  lut8	101
 效用	hau7  iong7	101
 效益	hau7  ek4	101
@@ -45745,7 +45745,7 @@ sort: by_weight
 教學	ka3  oh8	100
 教學	kau3  hak8	101
 教學先生	ka3  oh8 sian1  sinn1	100
-教學法	kau3  hak8  huan4	100
+教學法	kau3  hak8  huat4	100
 教學的	ka3  oh8   e5	100
 教宗	kau3  chong1	101
 教官	kau3  kuann1	102
@@ -45769,8 +45769,8 @@ sort: by_weight
 教歹	ka3  phainn2	100
 教歹囡仔大細	ka3  phainn2 gin2  a2 tua7  se3	100
 教歹囡仔大細	ka3 phainn2 gin2  a2 tua7  se3	100
-教法	ka3  huan4	100
-教法	kau3  huan4	100
+教法	ka3  huat4	100
+教法	kau3  huat4	100
 教派	kau3  phai3	101
 教父	kau3  hu7	100
 教牛	ka3  gu5	100
@@ -45887,7 +45887,7 @@ sort: by_weight
 敢有	kam2 u7	102
 敢有	kann2  su7	100
 敢有影	kam2 u7  iann2	100
-敢有法度	kam2 u7 huan4  tou7	100
+敢有法度	kam2 u7 huat4  tou7	100
 敢有閒	kam2 u7  eng5	100
 敢死	kann2  si2	104
 敢死敢活	kann2  si2 kann2  uah8	100
@@ -46007,9 +46007,9 @@ sort: by_weight
 散甲無半項	san3 kah4 bo5  puann3  hang7	100
 散甲鬼欲掠去	san3 kah4 kui2 beh4 liah8  khi3	101
 散疕疕	san3  phi2  phi2	100
-散發	san3  huan4	101
-散發	suann2  huan4	100
-散發	suann3  huan4	101
+散發	san3  huat4	101
+散發	suann2  huat4	100
+散發	suann3  huat4	101
 散盛	suann3  siann7	100
 散票	suann3  phio3	102
 散種	suann2  cheng2	101
@@ -46065,7 +46065,7 @@ sort: by_weight
 散食	san3  chiah8	101
 散食人	san3  chiah8  lang5	101
 散館	suann3  kuan2	102
-散髮	san3  huan4	100
+散髮	san3  huat4	100
 散鬱解愁	suann3  ut4 kai2  chhiu5	100
 散鬼	san3  kui2	102
 散鬼鬼	san3  kui2  kui2	101
@@ -46271,7 +46271,7 @@ sort: by_weight
 數碼怪獸	sou3  be2  koai3  siu3	100
 數碼批	sou3  ma2  phue1	100
 數碼獸	sou3  ma2  siu3	100
-數碼發票	sou3  ma2 huan4  phio3	100
+數碼發票	sou3  ma2 huat4  phio3	100
 數碼納數	sou3  be2  lap8  siau3	100
 數碼納數	sou3  be2 lap8  siau3	100
 數碼納數	sou3  ma2 lap8  siau3	102
@@ -46399,7 +46399,7 @@ sort: by_weight
 文武雙才	bun5  bu2 siang1  chai5	100
 文殊菩薩	bun5  su5  phou5  sat4	100
 文毋成童生武毋成銃兵	bun5 m7  chiann5 tong5  seng1  bu2 m7  chiann5 chheng3  peng1	100
-文法	bun5  huan4	102
+文法	bun5  huat4	102
 文火	bun5  hue2	101
 文牌	bun5  pai5	100
 文物	bun5  but8	101
@@ -46605,24 +46605,24 @@ sort: by_weight
 斟酌	chim1  chiok4	108
 斟酒	thin5  chiu2	102
 斟酒	thin5 chiu2	100
-斡倒爿	uan4  to3  peng5	100
-斡倒轉	uan4  to2  tng2	100
-斡倒轉	uan4  to3  tng2	102
-斡彎	tua7  uan4  uan1	100
-斡彎	uan4  uan1	101
-斡彎栱	uan4  uan1  kong2	100
-斡手	uan4  chhiu2	100
-斡旋	uan4  suan5	100
-斡正手	uan4  chiann3 chhiu2	100
-斡正爿	uan4  chiann3  peng5	101
-斡角	uan4  kak4	103
-斡輾轉	uan4  lin3  tng2	102
-斡轉	uan4  tng2	100
-斡轉腳	uan4  tng2  kha1	100
-斡轉身	uan4  tng2  sin1	100
-斡這平	uan4  chit4  peng5	100
-斡頭	uan4  thau5	103
-斡頭	uan8  thau5	102
+斡倒爿	uat4  to3  peng5	100
+斡倒轉	uat4  to2  tng2	100
+斡倒轉	uat4  to3  tng2	102
+斡彎	tua7  uat4  uan1	100
+斡彎	uat4  uan1	101
+斡彎栱	uat4  uan1  kong2	100
+斡手	uat4  chhiu2	100
+斡旋	uat4  suan5	100
+斡正手	uat4  chiann3 chhiu2	100
+斡正爿	uat4  chiann3  peng5	101
+斡角	uat4  kak4	103
+斡輾轉	uat4  lin3  tng2	102
+斡轉	uat4  tng2	100
+斡轉腳	uat4  tng2  kha1	100
+斡轉身	uat4  tng2  sin1	100
+斡這平	uat4  chit4  peng5	100
+斡頭	uat4  thau5	103
+斡頭	uat8  thau5	102
 斤二稱	kun1  ji7  chhin3	100
 斤兩	kin1  niu2	101
 斤兩	kun1  niu2	100
@@ -46639,7 +46639,7 @@ sort: by_weight
 斥資	thek4  chu1	100
 斧削	hu2  siah4	100
 斧正	hu2  cheng3	100
-斧鉞	hu2  uan8	100
+斧鉞	hu2  uat8	100
 斧頭	pou2  thau5	103
 斧頭	pu2  thau5	100
 斧頭掙	pou2  thau5  chinn1	100
@@ -46823,7 +46823,7 @@ sort: by_weight
 新正年頭	sin1  chiann1  ni5  thau5	100
 新正年頭	sin1  chiann1 ni5  thau5	100
 新氣象	sin1  khi3  siong7	100
-新法	sin1  huan4	101
+新法	sin1  huat4	101
 新派	sin1  phai3	103
 新港	sin1  kang2	107
 新港糖仔	sin1  kang2 thng5  a2	100
@@ -46943,7 +46943,7 @@ sort: by_weight
 斷層	tng7  chan3	100
 斷層	tng7  chan5	100
 斷崖	tuan7  gai5	101
-斷崖絕壁	tuan7  gai5  chuan8  piah4	100
+斷崖絕壁	tuan7  gai5  chuat8  piah4	100
 斷嶄	tng7  cham2	100
 斷捨離	tuan7  sia2  li5	100
 斷捨離	tuan7  sia2  li7	100
@@ -46981,10 +46981,10 @@ sort: by_weight
 斷紗行	tng7  se1  chua7	100
 斷紗逝	tng7  se1  chua7	100
 斷絃	tuan7  hian5	100
-斷絕	tuan7  chuan8	103
-斷絕來往	tuan7  chuan8  lai5  ong2	100
-斷絕邦交	tuan7  chuan8  pang1  kau1	100
-斷絕關係	tuan7  chuan8  kuan1  he7	100
+斷絕	tuan7  chuat8	103
+斷絕來往	tuan7  chuat8  lai5  ong2	100
+斷絕邦交	tuan7  chuat8  pang1  kau1	100
+斷絕關係	tuan7  chuat8  kuan1  he7	100
 斷絲	tng7  si1	100
 斷線坐	tng7  suann3  che7	100
 斷線綴	tng7  suann3  chue7	100
@@ -47021,7 +47021,7 @@ sort: by_weight
 斷首	tuan7  siu2	100
 斷香火	tng7  hiunn1  hue2	101
 斷骨熱	tng7  kut4  jiat8	100
-斷髮	tuan7  huan4	100
+斷髮	tuan7  huat4	100
 斷魂	tuan7  hun5	100
 斷點塵	tng7  tiam2  tin5	101
 斷點聲	tng7  tiam2  siann1	100
@@ -47050,7 +47050,7 @@ sort: by_weight
 方格	hong1  keh4	100
 方案	hong1  an3	101
 方步	hong1  pou7	100
-方法	hong1  huan4	102
+方法	hong1  huat4	102
 方眼紙	hong1  gan2  chua2	101
 方纔	hong1  chhai5	100
 方興未艾	hong1  heng1  bi7  ngai7	100
@@ -47334,7 +47334,7 @@ sort: by_weight
 日斜西	jit8 chhia5 sai1	100
 日斜西	lit8  chhia5  sai1	100
 日新	jit8  sin1	100
-日新月異	jı̍t4  sin1  guan8  i7	100
+日新月異	jı̍t4  sin1  guat8  i7	100
 日日	jit8  jit8	101
 日日	lit8  lit8	100
 日日春	jit8  jit8  chhun1	103
@@ -47369,18 +47369,18 @@ sort: by_weight
 日曝	jit8  phak8	100
 日曝	lit8  phak8	100
 日月	jit8  geh8	100
-日月	jit8  guan8	100
+日月	jit8  guat8	100
 日月	jit8  gueh8	100
-日月潭	jit4  guan8  tham5	100
-日月潭	jit8  guan8  tham5	100
-日月潭	lit8  guan8  tham5	101
+日月潭	jit4  guat8  tham5	100
+日月潭	jit8  guat8  tham5	100
+日月潭	lit8  guat8  tham5	101
 日月眼	jit8  geh8  gan2	100
-日月眼	jit8  guan8  gan2	100
-日月精華	jit8  guan8  cheng1  hua5	100
-日月蚶	jit8  guan8  ham1	100
-日月蚶	lit8  guan8  ham1	100
-日月蟶	jit8  guan8  than1	100
-日月蟶	lit8  guan8  than1	100
+日月眼	jit8  guat8  gan2	100
+日月精華	jit8  guat8  cheng1  hua5	100
+日月蚶	jit8  guat8  ham1	100
+日月蚶	lit8  guat8  ham1	100
+日月蟶	jit8  guat8  than1	100
+日月蟶	lit8  guat8  than1	100
 日期	jit8  ki5	102
 日期	lit8  ki5	101
 日本	jit8  pun2	101
@@ -47451,8 +47451,8 @@ sort: by_weight
 日程	jit8  teng5	100
 日程	lit8  teng5	100
 日程表	jit8  teng5  pio2	100
-日積月累	jit8  chek4  guan8  lui7	100
-日積月累	jit8  chek4 guan8  lui2	100
+日積月累	jit8  chek4  guat8  lui7	100
+日積月累	jit8  chek4 guat8  lui2	100
 日章旗	jit8  chiong1  ki5	101
 日箍	jit8  khou1	101
 日簽	lit8  chhiam1	100
@@ -47640,7 +47640,7 @@ sort: by_weight
 旱蓮草	han7  lian5  chho2	100
 旱象	han7  siong7	100
 旱路	han7  lou7	100
-旱魃嘴	han7  puan8  chhui3	100
+旱魃嘴	han7  puat8  chhui3	100
 旻天	bun5  thian1	100
 昂愕	gong5  giah8	105
 昂愕	gong5  ngiah8	100
@@ -47736,7 +47736,7 @@ sort: by_weight
 明晚	beng5  buan2	100
 明智	beng5  ti3	102
 明暗	miah4  am3	100
-明月	beng5  guan8	101
+明月	beng5  guat8	101
 明朗	beng5  lang2	101
 明朗	beng5  long2	101
 明朗化	beng5  long2  hua3	100
@@ -48076,7 +48076,7 @@ sort: by_weight
 時樣	si5  iunn7	101
 時機	si5  ki1	102
 時機成熟	si5  ki1  seng5  sek8	100
-時機末	si5  ki1  buan8	101
+時機末	si5  ki1  buat8	101
 時機竭	si5  ki1  kiat8	100
 時款	si5  khuan2	100
 時段	si5  tuann7	101
@@ -48371,7 +48371,7 @@ sort: by_weight
 暢尿	thiong3  jio7	100
 暢快	thiong3  khoai3	101
 暢暢	thiong3  thiong3	101
-暢月	thiong3  guan8	100
+暢月	thiong3  guat8	100
 暢板	thiong3  pan2	101
 暢樂	thiong3  lok8	105
 暢甲毋知人	thiong3  kah4  m7  chai1  lang5	100
@@ -48429,8 +48429,8 @@ sort: by_weight
 暴漲	po7  tiong3	100
 暴牙	pauh4  ge5	102
 暴牙	pok4  ge5	101
-暴發	po7  huan4	100
-暴發	pok8  huan4	100
+暴發	po7  huat4	100
+暴發	pok8  huat4	100
 暴穎	pok4  inn2	100
 暴粒仔	pauh4  liap8  a2	100
 暴落	po7  lok8	100
@@ -48675,8 +48675,8 @@ sort: by_weight
 書桌仔	chu1  toh4  a2	100
 書櫃	chu1  kui7	100
 書櫥	chu1  tu5	101
-書法	su1  huan4	102
-書法家	su1  huan4  ka1	100
+書法	su1  huat4	102
+書法家	su1  huat4  ka1	100
 書牘	su1  tok8	100
 書生	su1  seng1	101
 書田	su1  tian5	100
@@ -48797,7 +48797,7 @@ sort: by_weight
 最近	chue3  kun7	100
 最近好無	chue3  kin7 ho2   bo5	100
 最高峰	chue3  ko1  hong1	100
-最高法院	chue3  ko1 huan4  inn7	100
+最高法院	chue3  ko1 huat4  inn7	100
 最高潮	chue3  ko1  tiau5	100
 最高點	chue3  ko1  tiam2	100
 會不是	he7  put4  si7	100
@@ -48891,12 +48891,12 @@ sort: by_weight
 會齊	hue7  chue5	100
 月上	geh8  chiunn7	100
 月下	geh8  e7	100
-月下老	guan8  ha7  lo2	100
-月下老人	guan8  ha7  lo2  jin5	100
-月下老人	guan8  ha7  nou2  jin5	100
-月下老人	guan8  ha7  nou2  lin5	100
+月下老	guat8  ha7  lo2	100
+月下老人	guat8  ha7  lo2  jin5	100
+月下老人	guat8  ha7  nou2  jin5	100
+月下老人	guat8  ha7  nou2  lin5	100
 月下香	geh8  e7  hiong1	100
-月下香	guan8  ha7  hiong1	100
+月下香	guat8  ha7  hiong1	100
 月下香	gueh8  e7  hiong1	100
 月下香	gueh8  ha7  hiong1	100
 月世界	gueh8  se3  kai3	100
@@ -48909,7 +48909,7 @@ sort: by_weight
 月仔	geh8  a2	100
 月仔利	geh8  a2  li7	100
 月仔利	gueh8  a2  lai7	100
-月仔旁	guan8  a2  peng5	100
+月仔旁	guat8  a2  peng5	100
 月仔錢	geh8  a2  chinn5	100
 月令	geh8  leng7	100
 月份	geh8  hun7	100
@@ -48917,13 +48917,13 @@ sort: by_weight
 月來香	geh8  lai5  hiong1	102
 月來香	gueh8  lai5  hiong1	101
 月信	geh8  sin3	100
-月信	guan8  sin3	100
+月信	guat8  sin3	100
 月信	gueh8  sin3	101
 月俸	geh8  hong7	101
-月俸	guan8  hong7	100
+月俸	guat8  hong7	100
 月俸	gueh8  hong7	101
 月光	geh8  kng1	101
-月光	guan8  kong1	100
+月光	guat8  kong1	100
 月光	gueh8  kng1	101
 月光	gueh8  kuinn1	100
 月光暝	geh8  kng1  mi5	101
@@ -48949,7 +48949,7 @@ sort: by_weight
 月半	geh8  puann3	101
 月半	gueh8  puann3	100
 月半日	geh8  puann3  jit8	100
-月台	guan8  tai5	100
+月台	guat8  tai5	100
 月台	gueh8  tai5	100
 月圍箍	geh8 ui5  khou1	100
 月圍箍	gueh8  ui5  khou1	100
@@ -48961,7 +48961,7 @@ sort: by_weight
 月外日	geh8  gua7  jit8	100
 月外日	geh8  gua7  lit8	100
 月外日	gueh8  gua7  jit8	101
-月夜	guan8  ia7	100
+月夜	guat8  ia7	100
 月大	geh8  tua7	100
 月大	gueh8  tua7	100
 月娘	geh8  niu5	102
@@ -48970,10 +48970,10 @@ sort: by_weight
 月娘箍	gueh8  niu5 khou1	100
 月娘草	gueh8  niu5  chhau2	101
 月字旁	geh8  ji7  peng5	100
-月字旁	guan8  ji7  peng5	100
-月宮	guan8  kiong1	100
+月字旁	guat8  ji7  peng5	100
+月宮	guat8  kiong1	100
 月宮	gueh8  kiong1	100
-月宮玉杵	guan8  kiong1 giok8  thu2	100
+月宮玉杵	guat8  kiong1 giok8  thu2	100
 月小	geh8  sio2	100
 月小	gueh8  sio2	100
 月尾	geh8  be2	101
@@ -48982,7 +48982,7 @@ sort: by_weight
 月幻	geh8  huann2	100
 月幻幻	geh8  huann2  huann2	100
 月底	gueh8  te2	100
-月弓	guan8  kiong1	100
+月弓	guat8  kiong1	100
 月弦	geh8  hian5	100
 月影	geh8  iann2	100
 月戴笠	geh8  ti3  lueh8	100
@@ -48998,18 +48998,18 @@ sort: by_weight
 月日	geh8  lit8	100
 月日	gueh8  jit8	100
 月明	geh8  beng5	100
-月明	guan8  beng5	100
+月明	guat8  beng5	100
 月暈	geh8  ng7	100
 月暈	gueh8  ng7	100
 月暗暝	geh8  am3  mi5	101
 月暗暝	gueh8  am3  me5	101
 月曆	gueh8  lek8	100
-月曜日	guan8  iau7  jit8	100
+月曜日	guat8  iau7  jit8	100
 月月	geh8  geh8	100
 月月光	geh8  geh8  kng1	100
 月月紅	geh8  geh8  ang5	100
 月桂	geh8  kui3	100
-月桂花	guan8  kui3  hue1	100
+月桂花	guat8  kui3  hue1	100
 月桃	geh8  tho5	102
 月桃	gueh8  tho5	100
 月桃花	geh8  tho5  hue1	100
@@ -49019,7 +49019,7 @@ sort: by_weight
 月桌	gueh8  toh4	100
 月橘	geh8  kiat4	100
 月橘	gueh8  kiat4	100
-月津港	guan8  tin1  kang2	101
+月津港	guat8  tin1  kang2	101
 月清	geh8  chheng1	100
 月清	gueh8  chheng1	100
 月潲	geh8  siau5	100
@@ -49027,7 +49027,7 @@ sort: by_weight
 月熄	gueh8  sit4	100
 月爿	gueh8  peng5	100
 月球	gor̍̍h4  kiu5	100
-月球	guan8  kiu5	100
+月球	guat8  kiu5	100
 月球	gueh8  kiu5	100
 月琴	geh8  khim5	101
 月琴	gueh8  khim5	101
@@ -49042,7 +49042,7 @@ sort: by_weight
 月眉形	geh8  bai5  heng5	100
 月眉斧	geh8  bai5  pou2	100
 月票	gueh8  phio3	100
-月秒	guan8  biau2	100
+月秒	guat8  biau2	100
 月租費	geh8  chou1  hui3	100
 月租費	gueh8  chou1  hui3	100
 月窗	geh8  thang1	100
@@ -49059,11 +49059,11 @@ sort: by_weight
 月經	gueh8  keng1	102
 月經文	gueh8  keng1  bun5	100
 月缺	geh8  khih4	100
-月缺	geh8  khuan4	100
-月美	guan8  bi2	100
-月老	guan8  lo2	101
-月老	guan8  nou2	100
-月老公	guan8  lo2  kong1	100
+月缺	geh8  khuat4	100
+月美	guat8  bi2	100
+月老	guat8  lo2	101
+月老	guat8  nou2	100
+月老公	guat8  lo2  kong1	100
 月考	gueh8  kho2	100
 月色	geh8  sek4	101
 月色	gueh8  sek4	100
@@ -49130,7 +49130,7 @@ sort: by_weight
 有志者	iu2  chi3  chia2	101
 有恩	iu2  un1	100
 有意	iu2  i3	102
-有感而發	iu2  kam2  li5  huan4	100
+有感而發	iu2  kam2  li5  huat4	100
 有愧	iu2  khui3	101
 有應	iu2  eng3	100
 有應公	iu2  eng3  kong1	103
@@ -49148,7 +49148,7 @@ sort: by_weight
 有朝一日	iu2  tiau1  chit8  jit8	100
 有期	iu2  ki5	100
 有期徒刑	iu2  ki5  tou5  heng5	100
-有本說來	iu2  pun2 suan4  lai5	100
+有本說來	iu2  pun2 suat4  lai5	100
 有染	iu2  jiam2	100
 有條有段	iu2  tiau5  iu2  tuann7	100
 有條有段	iu2  tiau5 iu2  tuann7	100
@@ -49247,7 +49247,7 @@ sort: by_weight
 望日	bong7  jit8	100
 望春風	bang7 chhun1  hong1	100
 望月	bang7  geh8	100
-望月	bong7  guan8	100
+望月	bong7  guat8	100
 望月占星	bang7  gueh8  chiam1  chhenn1	100
 望眼鏡	bong7  gan2  kiann3	100
 望財貓	bong7  chai5  niau1	101
@@ -49284,7 +49284,7 @@ sort: by_weight
 朝日	tiau5  jit8	100
 朝日新聞	tiau5  jit8  sin1  bun5	100
 朝會	tiau1  hue7	100
-朝末	tiau5  buan8	100
+朝末	tiau5  buat8	100
 朝東	tiau5  tang1	100
 朝板	tiau5  pan2	101
 朝珠	tiau5  chu1	100
@@ -49325,7 +49325,7 @@ sort: by_weight
 期服	ki5  hok8	100
 期望	ki5  bang7	100
 期望	ki5  bong7	101
-期末考	ki5  buan8  kho2	100
+期末考	ki5  buat8  kho2	100
 期滿	ki5  mua2	101
 期盼	ki5  phan3	100
 期稟	ki5  phin2	100
@@ -49504,7 +49504,7 @@ sort: by_weight
 未滿	bi7  mua2	100
 未滿	bue7  mua2	100
 未熟手	be7  sek8  chhiu2	100
-未發	bi7  huan4	100
+未發	bi7  huat4	100
 未知	bi7  ti1	102
 未知數	bi7  ti1  sou3	100
 未肥假喘	be7  pui5 ke2  chhuan2	100
@@ -49514,22 +49514,22 @@ sort: by_weight
 未開化	be7  khai1  hua3	100
 未雨	bi7  u2	100
 未雨綢繆	bi7  u2  tiu5  biu5	100
-末世	buan8  se3	101
-末代	buan8  tai7	100
-末俗	buan8  siok8	100
-末劫	buan8  kiap4	100
-末國	buan8  kok4	100
-末學	buan8  hak8	100
-末將	buan8  chiong3	100
-末尾	buan8  be2	100
-末尾囝	buan8  be2  kiann2	100
-末尾囝	buan8  bue2  kiann2	100
-末席	buan8  sek8	101
-末年	buan8  ni5	101
-末日	buan8  jit8	101
-末朝	buan8  tiau5	100
+末世	buat8  se3	101
+末代	buat8  tai7	100
+末俗	buat8  siok8	100
+末劫	buat8  kiap4	100
+末國	buat8  kok4	100
+末學	buat8  hak8	100
+末將	buat8  chiong3	100
+末尾	buat8  be2	100
+末尾囝	buat8  be2  kiann2	100
+末尾囝	buat8  bue2  kiann2	100
+末席	buat8  sek8	101
+末年	buat8  ni5	101
+末日	buat8  jit8	101
+末朝	buat8  tiau5	100
 末末	buah8  buah8	102
-末路	buan8  lou7	102
+末路	buat8  lou7	102
 末魚	buah8  hi5	100
 本主	pun2  chu2	100
 本了	pun2  liau2	100
@@ -49589,7 +49589,7 @@ sort: by_weight
 本月	pun2  geh8	100
 本有	pun2  u7	100
 本朝	pun2  tiau5	100
-本末	pun2  buan8	100
+本末	pun2  buat8	100
 本校	pun2  hau7	100
 本案	pun2  an3	101
 本棧	pun2  chan3	100
@@ -49761,7 +49761,7 @@ sort: by_weight
 杏仁露	heng7  jin5  lou7	101
 杏壇	heng7  tan5	100
 杏壇	heng7  tuann5	100
-杏月	heng7  guan8	100
+杏月	heng7  guat8	100
 杏梅	heng7  mui5	100
 杏紅	heng7  hong5	101
 杏花	heng7  hue1	100
@@ -49811,7 +49811,7 @@ sort: by_weight
 杜根英	tou7  kun1  eng1	100
 杜狗仔	tou7  kau2  a2	100
 杜猴	tou7  kau5	102
-杜絕	tou7  chuan8	101
+杜絕	tou7  chuat8	101
 杜英	tou7  eng1	101
 杜蓖	tou7  pi1	102
 杜蓖子	tou7  pi1  chi2	101
@@ -49862,7 +49862,7 @@ sort: by_weight
 束金	sok4  kim1	100
 束頷頸	sok4 am7  kun2	100
 束頷頸仔	sok4 am7  kun2  a2	100
-束髮	sok4  huan4	101
+束髮	sok4  huat4	101
 杭州	hang5  chiu1	101
 杭州府	hang5  chiu1  hu2	100
 杭紗	hang5  se1	100
@@ -49875,7 +49875,7 @@ sort: by_weight
 杯水車薪	pue1  chui2  chhia1  sin1	100
 杯盤	pue1  puan5	100
 杯葛	pue1  kat4	100
-杯葛	pue1  kuan4	100
+杯葛	pue1  kuat4	100
 東三省	tang1  sann1  seng2	100
 東三省	tong1  sam1  seng2	100
 東亞	tang1  a1	101
@@ -50156,7 +50156,7 @@ sort: by_weight
 林投菰	na5  tau5  kou1	100
 林投雞	na5  tau5  ke1	101
 林投雞	na5  tau5  kue1	100
-林拔	na5  puan8	100
+林拔	na5  puat8	100
 林拔	na5  put8	100
 林政則	lim5 cheng3  chek4	100
 林昶佐	lim5 chhiong2  cho3	100
@@ -50177,13 +50177,13 @@ sort: by_weight
 林肯	lim5  kheng2	100
 林腳鳥	na5  kha1  chiau2	100
 林苞	na5  pou5	102
-林菝	na5 puan8	100
-林菝	nia5  puan8	100
-林菝仔	na2  puan8  a2	100
-林菝仔	nia1  puan8  a2	100
+林菝	na5 puat8	100
+林菝	nia5  puat8	100
+林菝仔	na2  puat8  a2	100
+林菝仔	nia1  puat8  a2	100
 林菝仔	nia2  put8  a2	100
 林菝仔汁	na2  pat8  a2  chiap4	100
-林菝仔汁	na2  puan8  a2  chiap4	100
+林菝仔汁	na2  puat8  a2  chiap4	100
 林萬億	lim5 ban7  ek4	100
 林語堂紀念館	lim5 gu2  tong5 ki3  liam7  kuan2	100
 林邊	na5  pinn1	101
@@ -50313,7 +50313,6 @@ sort: by_weight
 枯硬	kua1  ngi7	100
 枯礬	kou1  huan5	101
 枯篾篾	kua1  big1  bih4	100
-枯篾篾	kua1  big8  bih8	100
 枯脆	kua1  sau1	100
 枯里珍	kou1  li2  tin1	103
 枯骨	kou1  kut4	100
@@ -50480,7 +50479,7 @@ sort: by_weight
 柔情	liu5  cheng5	101
 柔槳	jiu5  chiunn2	100
 柔毛	jiu5  mou5	100
-柔法	jiu5  huan4	100
+柔法	jiu5  huat4	100
 柔美	jiu5  bi2	101
 柔美	liu5  bi2	100
 柔能勝剛	jiu5 leng5  seng3  kong1	100
@@ -50654,7 +50653,7 @@ sort: by_weight
 查賬	chha5  siau3	100
 查辦	chha5  pan7	100
 查閱	cha1  iat4	100
-查閱	chha5  uan8	100
+查閱	chha5  uat8	100
 查驗	cha1  giam7	101
 查驗官	cha1  giam7  kuann1	100
 柬埔寨	kan2  pou1  che7	100
@@ -50959,7 +50958,7 @@ sort: by_weight
 校長室	hau7  tiunn2  sek4	100
 校門	hau7  mng5	100
 校閱	kau3  iat4	100
-校閱	kau3  uan8	100
+校閱	kau3  uat8	100
 校風	hau7  hong1	101
 株主	tu1  chu2	100
 株券	tu1  kng3	100
@@ -50979,7 +50978,7 @@ sort: by_weight
 核子彈	hek8  chu2  tan5	100
 核子彈	hut8  chi2  tuann7	100
 核子武器	hek8  chu2 bu2  khi3	100
-核子爆發	hut8  chu2  pok8  huan4	100
+核子爆發	hut8  chu2  pok8  huat4	100
 核定	hek8  teng7	100
 核定	hut8  teng7	100
 核對	hek8  tui3	100
@@ -50995,13 +50994,13 @@ sort: by_weight
 核武	hek8  bu2	100
 核武	hut8  bu2	100
 核爆	hut8  pok8	100
-核發	hek8  huan4	100
-核發	hut8  huan4	100
+核發	hek8  huat4	100
+核發	hut8  huat4	100
 核示	hek8  si7	100
 核算	hut8  suan3	100
 核能	hek8  leng5	100
 核能	hut8  leng5	100
-核能發電	hek8  leng5 huan4  tian7	100
+核能發電	hek8  leng5 huat4  tian7	100
 核計	hek8  ke3	100
 核辦	hek8  pan7	100
 核電	hek8  tian7	100
@@ -51032,7 +51031,7 @@ sort: by_weight
 根節	kin1  chat4	105
 根節	kun1  chat4	103
 根籐旺	kun1  tin5  ong1	100
-根絕	kin1  chuan8	100
+根絕	kin1  chuat8	100
 根菜	kin1  chhai3	100
 根菜	kun1  chhai3	100
 根蒂	kin1  ti3	101
@@ -51144,7 +51143,7 @@ sort: by_weight
 桃子鹽	tho5  a2  sinn5	100
 桃志其	tho5  chi3  ki5	100
 桃旁	tho5  peng5	100
-桃月	tho5  guan8	100
+桃月	tho5  guat8	100
 桃李	tho5  li2	102
 桃枝	tho5  ki1	100
 桃源	tho5  guan5	100
@@ -51432,7 +51431,7 @@ sort: by_weight
 梧母	gou5  bo2	100
 梨仔	lai5  a2	104
 梨仔子	lai5  a2  chi2	100
-梨仔拔	lai5  a2  puan8	100
+梨仔拔	lai5  a2  puat8	100
 梨仔瓜	lai5  a2  kue1	100
 梨仔膏	lai5  a2  ko1	101
 梨仔花	lai5  a2  hue1	101
@@ -51488,7 +51487,7 @@ sort: by_weight
 棄權	khi3  kuan5	100
 棄物	khi3  but8	100
 棄碇	khi3  tiann3	100
-棄絕	khi3  chuan8	100
+棄絕	khi3  chuat8	100
 棉仔	mi5  a2	101
 棉仔叢	mi5  a2  chang5	100
 棉仔屎	mi5  a2  sai2	101
@@ -51869,7 +51868,7 @@ sort: by_weight
 極權	kek8  kuan5	100
 極次	kek8  chhu3	100
 極步	kek8  pou7	102
-極法	kek8  huan4	100
+極法	kek8  huat4	100
 極準	kek4  chun2	100
 極濟	kek8  che7	100
 極為	kek8  ui5	100
@@ -51971,7 +51970,7 @@ sort: by_weight
 槌摃鐵	thui5  kong3  thih4	103
 槌杖	thui5  thng7	100
 槌槌	thui5  thui5	102
-槌法	thui5  huan4	100
+槌法	thui5  huat4	100
 槌球	thui5  kiu5	100
 槌的	thui5   e5	100
 槍兵	chhiunn1  peng1	100
@@ -51980,7 +51979,7 @@ sort: by_weight
 槍柄	chhiunn1  pinn3	100
 槍桿	chhiunn1  koainn2	100
 槍炮	chhiunn1  phau3	100
-槐月	hoai5  guan8	100
+槐月	hoai5  guat8	100
 槐樹	hoai5  chhiu7	100
 槐花	hoai5  hue1	100
 槐藍菜	hoai5  lam5  chhai3	100
@@ -52563,7 +52562,7 @@ sort: by_weight
 橫財	huinn5  chai5	100
 橫貫公路	heng5  kuan3 thih4  lou7	100
 橫貫公路	hoainn5  kuan3 kong1  lou7	100
-橫越	hoainn5  uan8	100
+橫越	hoainn5  uat8	100
 橫路	hoainn5  lou7	100
 橫逆	heng5  gek8	105
 橫逆	hoainn5  keh8	101
@@ -52588,7 +52587,7 @@ sort: by_weight
 檀柴	tan5  chha5	101
 檀柴	tua5  chha5	100
 檀椅	tuann5  i2	100
-檀越主	tan5  uan8  chu2	100
+檀越主	tan5  uat8  chu2	100
 檀鑢	tuann5  lue2	100
 檀香	tan5  hiong1	100
 檀香	tan5  hiunn1	100
@@ -52792,7 +52791,7 @@ sort: by_weight
 欠稅	khiam3  sue3	100
 欠繳	khiam3  kiau2	100
 欠缺	khiam3  kheh4	101
-欠缺	khiam3  khuan4	102
+欠缺	khiam3  khuat4	102
 欠缺	khiam3  khueh4	108
 欠腳債	khiam3  kha1  che3	101
 欠腳數	khiam3  kha1  siau3	100
@@ -52976,7 +52975,7 @@ sort: by_weight
 歇中台	hioh4  tiong1  tai5	100
 歇中臺	hioh4  tiong1  tai5	100
 歇倦	hioh4  sian7	100
-歇停倒斡	hioh4  theng5 to3  uan4	100
+歇停倒斡	hioh4  theng5 to3  uat4	100
 歇冬	heh4  tang1	101
 歇冬	hioh4  tang1	100
 歇喘	hioh4  chhuan2	107
@@ -53054,8 +53053,8 @@ sort: by_weight
 歌舞	ko1  bu2	100
 歌舞	kua1  bu2	101
 歌舞團	kua1  bu2  thuan5	100
-歌訣	ko1  kuan4	100
-歌訣	kua1  kuan4	100
+歌訣	ko1  kuat4	100
+歌訣	kua1  kuat4	100
 歌詞	kua1  su5	101
 歌詩	kua1  si1	101
 歌謠	kua1  iau5	101
@@ -53235,7 +53234,7 @@ sort: by_weight
 正拋	chiann3  pha1	100
 正教	cheng3  kau3	100
 正文	chiann3  bun5	100
-正斡	chiann3  uan4	101
+正斡	chiann3  uat4	101
 正方形	cheng3  hong1  heng5	100
 正方形	chiann3  hong1  heng5	100
 正旁	chiann3  peng5	101
@@ -53281,9 +53280,9 @@ sort: by_weight
 正氣	cheng3  khi3	101
 正氣歌	cheng3  khi3  kua1	100
 正沖	chiann3  chhiong1	100
-正法	cheng3  huan4	100
-正法	chiann3  huan4	100
-正法度	chiann3  huan4  tou7	100
+正法	cheng3  huat4	100
+正法	chiann3  huat4	100
+正法度	chiann3  huat4  tou7	100
 正派	cheng3  phai3	102
 正派	chiann3  phai3	100
 正港	chiann3  kang2	105
@@ -53488,7 +53487,7 @@ sort: by_weight
 步弓手	pou7  keng1  chhiu2	100
 步戰	pou7  chian3	100
 步數	pou7  sou3	111
-步月	pou7  guan8	100
+步月	pou7  guat8	100
 步步	pou7  pou7	102
 步步為營	pou7  pou7  ui5  iann5	100
 步盤	pou7  puann5	100
@@ -53551,7 +53550,7 @@ sort: by_weight
 武棋	bu2  ki5	101
 武棋子	bu2  ki5  ji2	100
 武棋盤	bu2  ki5  puann5	100
-武法	bu2  huan4	100
+武法	bu2  huat4	100
 武洛溪	bu2  lok4  khe1	100
 武溜灣	bu2  liu1  uan1	100
 武漢	bu2  han3	100
@@ -53653,9 +53652,8 @@ sort: by_weight
 歲德神	sue3  tek4  sin5	100
 歲敬	sue3  keng3	100
 歲時	sue3  si5	100
-歲暮	sue3  bou8	100
-歲月	sue3  guan8	102
-歲月如流	sue3  guan8  ju5  liu5	100
+歲月	sue3  guat8	102
+歲月如流	sue3  guat8  ju5  liu5	100
 歲次	sue3  chhu3	100
 歲考	sue3  kho2	100
 歲聲	hue3  siann1	106
@@ -53796,7 +53794,7 @@ sort: by_weight
 歸篇	kui1  phinn1	100
 歸粿	kui1  ke2	100
 歸納	kui1  lap8	101
-歸納法	kui1  lap8  huan4	100
+歸納法	kui1  lap8  huat4	100
 歸組	kui1  chou1	100
 歸綰	kui1  kuann7	100
 歸罪	kui1  chue7	101
@@ -53827,7 +53825,7 @@ sort: by_weight
 歸附	kui1  hu7	100
 歸陣	kui1  tin7	101
 歸除	kui1  tu5	100
-歸除乘法	kui1  tu5 seng5  huan4	100
+歸除乘法	kui1  tu5 seng5  huat4	100
 歸陰	kui1  im1	100
 歸隊	kui1  tui7	100
 歸隱	kui1  un2	100
@@ -54021,7 +54019,7 @@ sort: by_weight
 歹癖歹片	phainn2  phiah4  phainn2  phinn3	100
 歹癖片	phainn2  phiah4  phinn3	101
 歹癖片	phainn2  phiah4  phinn7	100
-歹發	phainn2 huan4	100
+歹發	phainn2 huat4	100
 歹皮	phainn2  phe5	100
 歹目	phainn2  bak8	101
 歹目相	phainn2  bak8  siang3	100
@@ -54216,7 +54214,7 @@ sort: by_weight
 死懨懨	si2  gian7  gian7	101
 死扣	si2  khau3	100
 死扳仔	si2  pan2  a2	100
-死斡	si2  uan4	100
+死斡	si2  uat4	100
 死日	si2  jit8	100
 死書	si2  chu1	100
 死會	si2  he7	100
@@ -54299,7 +54297,7 @@ sort: by_weight
 死袂見笑	si2 be7  kian3  siau3	100
 死規甓	si2  kui1  phiah8	100
 死角	si2  kak4	102
-死訣	si2  kuan4	105
+死訣	si2  kuat4	105
 死諍	si2  chenn3	104
 死諍	si2  chinn3	101
 死豬	si2  ti1	100
@@ -54363,7 +54361,7 @@ sort: by_weight
 殘忍	chan5  lim2	100
 殘手	chhan5  chhiu2	100
 殘暴	chan5  po7	101
-殘月	chan5  guan8	100
+殘月	chan5  guat8	100
 殘殘	chhan5  chhan5	106
 殘殺	chan5  sat4	100
 殘渣	chan5  che1	100
@@ -54375,7 +54373,7 @@ sort: by_weight
 殘酷	chan5  khok4	102
 殘金	chan5  kim1	100
 殘障	chan5  chiong3	101
-殘雪	chan5  suan4	100
+殘雪	chan5  suat4	100
 殘頭	chan5  thau5	100
 殘骸	chan5  hai5	100
 殭屍	khiong1  si1	100
@@ -54407,7 +54405,7 @@ sort: by_weight
 殺傷力	sat4  siong1  lek8	100
 殺價	sat4  ke3	100
 殺入陣	sat4  jip8  tin7	100
-殺奪	sat4  tuan8	100
+殺奪	sat4  tuat8	100
 殺害	sat4  hai7	101
 殺心	sat4  sim1	103
 殺戮	sat4  liok8	101
@@ -54670,7 +54668,7 @@ sort: by_weight
 母校	bu2  hau7	101
 母根	bu2  kun1	100
 母欉	bo2  chang5	101
-母法	bo2  huan4	100
+母法	bo2  huat4	100
 母湯	bu2  thng1	101
 母的	bo2   e5	100
 母的	bo2  e5	100
@@ -54966,13 +54964,13 @@ sort: by_weight
 毛重	mou5  tang7	100
 毛錐子	mou5  chui1  chu2	100
 毛額	mou5  giah8	100
-毛髮	mou5  huan4	100
+毛髮	mou5  huat4	100
 毫克	ho5  khek4	101
 毫升	ho5  seng1	100
 毫米	ho5  bi2	101
 毫米波	ho5  bi2  pho1	100
 毫釐	ho5  li5	100
-毫髮	ho5  huan4	100
+毫髮	ho5  huat4	100
 毬蘭	kiu5  lan5	102
 毯仔	than2  a2	103
 毽子	kian3  chi2	100
@@ -55027,7 +55025,7 @@ sort: by_weight
 民權西路	bin5  kuan5  se1  lou7	101
 民歌	bin5  kua1	101
 民治	bin5  ti7	100
-民法	bin5  huan4	102
+民法	bin5  huat4	102
 民營	bin5  eng5	101
 民營化	bin5  eng5  hua3	100
 民生	bin5  seng1	101
@@ -55132,14 +55130,14 @@ sort: by_weight
 氣糋鍋	khi3  chinn3  ko1	101
 氣糋鍋	khi3  chinn3  ue1	100
 氣結	khi3  kiat4	100
-氣絕	khi3  chuan8	100
-氣絕	khui3  chuan8	101
+氣絕	khi3  chuat8	100
+氣絕	khui3  chuat8	101
 氣絲	khui3  si1	100
 氣絲仔	khui3  si1  a2	104
 氣罩	khi3  ta3	100
 氣習	khi3  sip4	100
 氣脈	khi3  meh8	101
-氣脫	khi3  thuan4	100
+氣脫	khi3  thuat4	100
 氣腸氣肚	khi3  tng5 khi3  tou7	100
 氣腸氣肚	khi3 tng5 khi3 tou7	100
 氣色	khi3  sek4	102
@@ -55967,32 +55965,32 @@ sort: by_weight
 汲水	chhiunn7  chui2	100
 汲水	khip4  chui2	100
 汲水	kip4  chui2	100
-決勝負	kuan4  seng3  hu7	100
-決囚	kuan4  siu5	100
-決定	kuan4  teng7	103
-決心	kuan4  sim1	102
-決志	kuan4  chi3	101
-決意	kuan4  i3	101
-決戰	kuan4  chian3	101
-決斷	kuan4  tuan3	101
-決明	kuan4  beng5	101
-決明子	kuan4  beng5  chi2	100
-決標	kuan4  pio1	100
-決死	kuan4  su2	100
-決死戰	kuan4  si2  chian3	100
-決然	kuan4  jian5	100
-決犯	kuan4  huan7	100
-決策	kuan4  chhek4	101
-決算	kuan4  suan3	101
-決絕	kuan4  chuan8	101
-決行	kuan4  heng5	100
-決裂	kuan4  liat8	101
-決議	kuan4  gi7	102
-決議案	kuan4  gi7  an3	100
-決賽	kuan4  sai3	101
-決選	kuan4  suan2	100
-決雌雄	kuan4  chhu1  hiong5	100
-決鬥	kuan4  tau3	100
+決勝負	kuat4  seng3  hu7	100
+決囚	kuat4  siu5	100
+決定	kuat4  teng7	103
+決心	kuat4  sim1	102
+決志	kuat4  chi3	101
+決意	kuat4  i3	101
+決戰	kuat4  chian3	101
+決斷	kuat4  tuan3	101
+決明	kuat4  beng5	101
+決明子	kuat4  beng5  chi2	100
+決標	kuat4  pio1	100
+決死	kuat4  su2	100
+決死戰	kuat4  si2  chian3	100
+決然	kuat4  jian5	100
+決犯	kuat4  huan7	100
+決策	kuat4  chhek4	101
+決算	kuat4  suan3	101
+決絕	kuat4  chuat8	101
+決行	kuat4  heng5	100
+決裂	kuat4  liat8	101
+決議	kuat4  gi7	102
+決議案	kuat4  gi7  an3	100
+決賽	kuat4  sai3	101
+決選	kuat4  suan2	100
+決雌雄	kuat4  chhu1  hiong5	100
+決鬥	kuat4  tau3	100
 汽動車	khi3  tong7  chhia1	100
 汽水	khi3  chui2	101
 汽油	khi3  iu5	102
@@ -56113,7 +56111,7 @@ sort: by_weight
 沒堪得	bue7  kham1   tit4	100
 沒官	but8  kuan1	100
 沒官	but8  kuann1	100
-沒尾	buan8  bue2	100
+沒尾	buat8  bue2	100
 沒得	bue7  tit4	100
 沒得可	bue7  tit4  thang1	100
 沒得是	bue7  tit4  si7	100
@@ -56135,7 +56133,7 @@ sort: by_weight
 沒用得	bue7  eng7  tit4	100
 沒能	bue7  ue7	100
 沒落	bit8  loh8	101
-沒落	buan8  loh8	100
+沒落	buat8  loh8	100
 沒落	bue7  loh8	100
 沒落	but8  loh8	100
 沒著	bue7  tioh8	100
@@ -56148,7 +56146,7 @@ sort: by_weight
 沒講得	bue7  kong2   tit4	100
 沒起	bue7  khi2	100
 沒起來	bue7  khi2   lai5	100
-沒趁	buan8  than3	100
+沒趁	buat8  than3	100
 沒離	bue7  li7	100
 沒顧得	bue7  kou3   tit4	100
 沓屑	tap4  sap4	100
@@ -56619,87 +56617,87 @@ sort: by_weight
 泏出來	chuah4   chhut4  lai5	100
 泏出來	chuah4  chhut4  lai5	101
 泏振動	chuah4  tin2  tang7	100
-泏沫	chuan4  phueh8	100
+泏沫	chuat4  phueh8	100
 泏泏	chuah4  chuah4	100
-泏泏	chuan4  chuan4	100
-法主公	huan4  chu2  kong1	100
-法人	huan4  jin5	103
-法人	huan4  lin5	100
-法令	huan4  leng7	101
-法令全書	huan4  leng7  chuan5  su1	100
-法例	huan4  le7	100
-法典	huan4  tian2	100
-法制	huan4  che3	101
-法制局	huan4  che3  kiok8	100
-法則	huan4  chek4	102
-法力	huan4  lek8	102
-法務	huan4  bu7	102
-法務部	huan4  bu7  pou7	100
-法商	huan4  siong1	100
-法國	huan4  kok4	101
-法國人	huan4  kok4  lang5	100
-法國俗麭	huan4  kok4  siok8  phang2	100
-法國卵餅	huan4  kok4  nng7  piann2	100
-法國文	huan4  kok4  bun5	100
-法國糋	huan4  kok4  chinn3	100
-法國號	huan4  kok4  ho7	100
-法國話	huan4  kok4  ue7	100
-法國麭	huan4  kok4  phang2	100
-法國麵包	huan4  kok4  mi7  pau1	100
-法場	huan4  tiunn5	100
-法學	huan4  hak8	100
-法學院	huan4  hak8  inn7	100
-法官	huan4  kuann1	102
-法定	huan4  teng7	101
-法定代理人	huan4  teng7 tai7  li2  jin5	100
-法家	huan4  ka1	100
-法寶	huan4  po2	101
-法帖	huan4  thiap4	101
-法師	huan4  su1	102
-法幣	huan4  pe3	100
-法度	huan4  tou7	104
-法庭	huan4  teng5	101
-法式栗子雞卵糕	huan4  sek4 lat8  chi2 ke1  nng7  ko1	100
-法式栗子雞卵糕	huan4  sek4 lat8  chi2 kue1  nng7  ko1	100
-法律	huan4  lut8	102
-法律系	huan4  lut8  he7	100
-法律縫	huan4  lut8  phang7	101
-法戒	huan4  kai3	100
-法政	huan4  cheng3	100
-法文	huan4  bun5	101
-法旨	huan4  chi2	100
-法會	huan4  hue7	101
-法朗	huan4  long2	100
-法案	huan4  an3	101
-法條	huan4  tiau5	100
-法水	huan4  chui2	100
-法治	huan4  ti7	101
-法理	huan4  li2	100
-法界	huan4  kai3	101
-法盲	huan4  bong5	100
-法眼	huan4  gan2	100
-法紀	huan4  ki2	100
-法索	huan4  soh4	100
-法統	huan4  thong2	100
-法網	huan4  bang7	101
-法網	huan4  bong2	100
-法老	huan4  lo2	100
-法華經	huan4  hua1  keng1	100
-法蘭克福	huan4  lan5  khek4  hok4	100
-法蘭絨	huan4  lan5  jiong5	100
-法蘭西	huan4  lan5  se1	102
-法螺	huan4  le5	100
-法術	huan4  sut8	102
-法衣	huan4  i1	100
-法西斯	huan4  se1  su1	100
-法規	huan4  kui1	101
-法警	huan4  keng2	101
-法賣	huan4  be7	100
-法辦	huan4  pan7	101
-法郎	huan4  long5	100
-法醫	huan4  i1	101
-法門	huan4  mng5	100
-法院	huan4  inn7	102
+泏泏	chuat4  chuat4	100
+法主公	huat4  chu2  kong1	100
+法人	huat4  jin5	103
+法人	huat4  lin5	100
+法令	huat4  leng7	101
+法令全書	huat4  leng7  chuan5  su1	100
+法例	huat4  le7	100
+法典	huat4  tian2	100
+法制	huat4  che3	101
+法制局	huat4  che3  kiok8	100
+法則	huat4  chek4	102
+法力	huat4  lek8	102
+法務	huat4  bu7	102
+法務部	huat4  bu7  pou7	100
+法商	huat4  siong1	100
+法國	huat4  kok4	101
+法國人	huat4  kok4  lang5	100
+法國俗麭	huat4  kok4  siok8  phang2	100
+法國卵餅	huat4  kok4  nng7  piann2	100
+法國文	huat4  kok4  bun5	100
+法國糋	huat4  kok4  chinn3	100
+法國號	huat4  kok4  ho7	100
+法國話	huat4  kok4  ue7	100
+法國麭	huat4  kok4  phang2	100
+法國麵包	huat4  kok4  mi7  pau1	100
+法場	huat4  tiunn5	100
+法學	huat4  hak8	100
+法學院	huat4  hak8  inn7	100
+法官	huat4  kuann1	102
+法定	huat4  teng7	101
+法定代理人	huat4  teng7 tai7  li2  jin5	100
+法家	huat4  ka1	100
+法寶	huat4  po2	101
+法帖	huat4  thiap4	101
+法師	huat4  su1	102
+法幣	huat4  pe3	100
+法度	huat4  tou7	104
+法庭	huat4  teng5	101
+法式栗子雞卵糕	huat4  sek4 lat8  chi2 ke1  nng7  ko1	100
+法式栗子雞卵糕	huat4  sek4 lat8  chi2 kue1  nng7  ko1	100
+法律	huat4  lut8	102
+法律系	huat4  lut8  he7	100
+法律縫	huat4  lut8  phang7	101
+法戒	huat4  kai3	100
+法政	huat4  cheng3	100
+法文	huat4  bun5	101
+法旨	huat4  chi2	100
+法會	huat4  hue7	101
+法朗	huat4  long2	100
+法案	huat4  an3	101
+法條	huat4  tiau5	100
+法水	huat4  chui2	100
+法治	huat4  ti7	101
+法理	huat4  li2	100
+法界	huat4  kai3	101
+法盲	huat4  bong5	100
+法眼	huat4  gan2	100
+法紀	huat4  ki2	100
+法索	huat4  soh4	100
+法統	huat4  thong2	100
+法網	huat4  bang7	101
+法網	huat4  bong2	100
+法老	huat4  lo2	100
+法華經	huat4  hua1  keng1	100
+法蘭克福	huat4  lan5  khek4  hok4	100
+法蘭絨	huat4  lan5  jiong5	100
+法蘭西	huat4  lan5  se1	102
+法螺	huat4  le5	100
+法術	huat4  sut8	102
+法衣	huat4  i1	100
+法西斯	huat4  se1  su1	100
+法規	huat4  kui1	101
+法警	huat4  keng2	101
+法賣	huat4  be7	100
+法辦	huat4  pan7	101
+法郎	huat4  long5	100
+法醫	huat4  i1	101
+法門	huat4  mng5	100
+法院	huat4  inn7	102
 泗水	su3  sui2	100
 泗米抹	su3  bi2  buah8	100
 泚中營	chhu7  tiong1  iann5	100
@@ -56807,7 +56805,7 @@ sort: by_weight
 泰國	thai3  kok4	100
 泰國拳	thai3  kok4  kun5	100
 泰國月娘蝦餅	thai3  kok4 gueh8  niu5  he5  piann2	100
-泰國菝仔	thai3  kok4  puan8  a2	100
+泰國菝仔	thai3  kok4  puat8  a2	100
 泰國蝦	thai3  kok4  he5	100
 泰安	thai3  an1	101
 泰安鄉	thai3  an1  hiong1	100
@@ -57050,8 +57048,8 @@ sort: by_weight
 洗飯頓	sue2  png7  tng3	100
 洗骨	se2  kut4	100
 洗骨	sue2  kut4	100
-洗髮精	se2  huan4  cheng1	101
-洗髮精	sue2  huan4  cheng1	100
+洗髮精	se2  huat4  cheng1	101
+洗髮精	sue2  huat4  cheng1	100
 洘凋	kho2  ta1	101
 洘卒卒	kho2  chut4  chut4	102
 洘卒卒	kho2  chut8  chut8	100
@@ -57129,13 +57127,13 @@ sort: by_weight
 活下去	uah8   loh8  khi3	100
 活人	uah8  lang5	101
 活仔	uah8  a2	100
-活仔窟	huan8  a2  khut4	101
+活仔窟	huat8  a2  khut4	101
 活佛	uah8  hut8	100
 活佛	uah8  put8	101
 活利	uah8  lai7	100
 活到	uah8  kau3	100
 活力	uah8  lek8	101
-活動	huan8  tong7	100
+活動	huat8  tong7	100
 活動	uah8  tang7	106
 活動力	uah8  tong7  lek8	100
 活動寫真	uah8  tang7  sia2  chin1	100
@@ -57164,9 +57162,9 @@ sort: by_weight
 活期	uah8  ki5	100
 活栓	uah8  sng1	100
 活根	uah8  kin1	100
-活栽	huan8  chai1	100
+活栽	huat8  chai1	100
 活業	uah8  giap8	100
-活樂	huan8  lok8	101
+活樂	huat8  lok8	101
 活欲	uah8  beh4	101
 活欲	uah8  bueh4	100
 活歹命	uah8  phainn2  mia7	100
@@ -57175,15 +57173,15 @@ sort: by_weight
 活水	uah8  chui2	103
 活泉	uah8  chuann2	100
 活泉	uah8  chuann5	100
-活活	huan8  huan8	100
+活活	huat8  huat8	100
 活活	uah8  uah8	101
 活溜溜	uah8  liu1  liu1	103
-活潑	huan8  phuan4	102
-活潑	uah8  phuan4	100
+活潑	huat8  phuat4	102
+活潑	uah8  phuat4	100
 活火	uah8  he2	100
 活火山	uah8  hue2  suann1	100
 活版	uah8  pan2	100
-活版印刷	uah8  pan2 in3  suan4	100
+活版印刷	uah8  pan2 in3  suat4	100
 活版字	uah8  pan2  ji7	100
 活版店	uah8  pan2  tiam3	100
 活物	uah8  but8	100
@@ -57221,8 +57219,8 @@ sort: by_weight
 活體	uah8  the2	100
 活鬼	uah8  kui2	102
 活鬼仔	uah8  kui2  a2	103
-活魚栽	huan8  hi5  chai1	100
-活魚栽	huan8  hu5  chai1	100
+活魚栽	huat8  hi5  chai1	100
+活魚栽	huat8  hu5  chai1	100
 活龍龍	uah8  leng5  leng5	102
 洽詢	hap8  sun5	100
 洽談	hiap8  tam5	100
@@ -57630,7 +57628,7 @@ sort: by_weight
 海徛	hai2  khia7	102
 海徛仔	hai2  khia7  a2	100
 海戰	hai2  chian3	101
-海拔	hai2  puan8	101
+海拔	hai2  puat8	101
 海挾	hai2  ngueh8	100
 海掃	hai2  sau3	101
 海揚波	hai2  iong5  pho1	100
@@ -57660,7 +57658,7 @@ sort: by_weight
 海沙坡	hai2  sua1  pho1	100
 海沙坪	hai2  suann1  phiann5	100
 海沙埔	hai2  sua1  pou1	104
-海法	hai2  huan4	100
+海法	hai2  huat4	100
 海波	hai2  pho1	102
 海洋	hai2  iunn5	102
 海洋波	hai2  iong5  phou1	100
@@ -58038,7 +58036,7 @@ sort: by_weight
 涼台	liang5  tai5	100
 涼帽	liang5  bo7	101
 涼暢	liong3  thin3	100
-涼月	liang5  guan8	100
+涼月	liang5  guat8	100
 涼棚	liang5  penn5	100
 涼棚	liang5  pinn5	100
 涼氣	liang5  khi3	100
@@ -58231,7 +58229,7 @@ sort: by_weight
 深思	chhim1  su1	100
 深恩	chhim1  un1	100
 深情	chhim1  cheng5	101
-深惡痛絕	chhim1  onn3  thong3  chuan8	100
+深惡痛絕	chhim1  onn3  thong3  chuat8	100
 深想	chhim1  siunn7	100
 深意	chhim1  i3	100
 深感	chhim1  kam2	100
@@ -58371,7 +58369,7 @@ sort: by_weight
 淺黃	chhian2  ng5	101
 淺黃	khin2  ng5	102
 添丁	thiam1  teng1	102
-添丁發財	thiam1  teng1  huan4  chai5	100
+添丁發財	thiam1  teng1  huat4  chai5	100
 添丁進財	thiam1  teng1 chin3  chai5	100
 添價	thinn1  ke3	101
 添兵	thiam1  peng1	100
@@ -58636,7 +58634,7 @@ sort: by_weight
 減料	kiam2  liau7	100
 減歲壽	kiam2  he3  siu7	100
 減歲壽	kiam2 hue3  siu7	100
-減法	kiam2  huan4	101
+減法	kiam2  huat4	101
 減減	kiam2  kiam2	100
 減產	kiam2  san2	101
 減用	kiam2  eng7	100
@@ -58843,7 +58841,7 @@ sort: by_weight
 源本	guan5  pun2	100
 源泉	guan5  chuann5	102
 源流	guan5  liu5	100
-源源不絕	guan5  guan5  put4  chuan8	100
+源源不絕	guan5  guan5  put4  chuat8	100
 源由	guan5  iu5	100
 源自	guan5  chu7	101
 源頭	guan5  thau5	104
@@ -58864,7 +58862,7 @@ sort: by_weight
 準數	chun2  siau3	100
 準時	chun2  si5	101
 準桮	chun2  pue1	101
-準決賽	chun2  kuan4  sai3	100
+準決賽	chun2  kuat4  sai3	100
 準準	chun2  chun2	100
 準無看著	chun2  bo5  khuann3  tioh8	100
 準煞	chun2  suah4	100
@@ -59088,7 +59086,7 @@ sort: by_weight
 滅火器	biat8  hue2  khi3	100
 滅無	biat8  bo5	101
 滅盡	biat8  chin7	100
-滅絕	biat8  chuan8	101
+滅絕	biat8  chuat8	101
 滅門血案	biat8  mng5  hiat4  an3	100
 滅骸	biat8  hai5	100
 滇流流	tinn7  lau5  lau5	100
@@ -59318,7 +59316,7 @@ sort: by_weight
 滿捧	mua2  phong2	100
 滿斗	mua2  tau2	100
 滿族	buan2  chok8	100
-滿月	buan2  guan8	100
+滿月	buan2  guat8	100
 滿月	mua2  geh8	101
 滿月	mua2  gueh8	102
 滿月圓	mua2  geh8  inn5	100
@@ -59540,7 +59538,7 @@ sort: by_weight
 演武場	ian2  bu2  tiunn5	100
 演武廳	ian2  bu2  thiann1	100
 演示	ian2  si7	100
-演算法	ian2  sng3  huan4	101
+演算法	ian2  sng3  huat4	101
 演練	ian2  lian7	101
 演繹	ian2  ek8	101
 演義	ian2  gi7	101
@@ -59551,8 +59549,8 @@ sort: by_weight
 演藝師	ian2  ge7  su1	100
 演藝會	ian2  ge7  hue7	100
 演藝界	ian2  ge7  kai3	101
-演說	ian2  suan4	102
-演說會	ian2  suan4  hue7	100
+演說	ian2  suat4	102
+演說會	ian2  suat4  hue7	100
 演講	ian2  kang2	102
 演講會	ian2  kang2  hue7	100
 演變	ian2  pian3	101
@@ -59723,21 +59721,21 @@ sort: by_weight
 漿糊	chiunn1  kou5	100
 漿衫	chiunn1  sann1	101
 潑入來	phuah4   jip8  lai5	100
-潑妻	phuan4  chhe1	100
-潑婆	phuan4  po5	100
-潑婦	phuan4  hu7	103
+潑妻	phuat4  chhe1	100
+潑婆	phuat4  po5	100
+潑婦	phuat4  hu7	103
 潑扇	phuah4  sinn3	100
 潑水	phuah4  chui2	101
 潑潑	phuah4  phuah4	100
-潑猴	phuan4  kau5	103
+潑猴	phuat4  kau5	103
 潑田	phuah4  chhan5	100
 潑落	phuah4  loh8	100
-潑賤	phuan4  chian7	101
+潑賤	phuat4  chian7	101
 潑雨	phuah4  hou7	101
 潑雪	phuah4  seh4	100
 潑風	phuah4  hong1	100
 潑鹽	phuah4  iam5	100
-潔月	kiat4  guan8	100
+潔月	kiat4  guat8	100
 潔淨	kiat4  cheng7	100
 潘桶	phun1  thang2	100
 潘水	phun1  chui2	103
@@ -59970,7 +59968,7 @@ sort: by_weight
 激氣頭	kek4  khui3  thau5	100
 激水	kek4  chui2	102
 激水無流	kek4  sui2 bu5  liu5	100
-激法	kek4  huan4	102
+激法	kek4  huat4	102
 激派	kek4  phai3	101
 激派頭	kek4  phai3  thau5	105
 激淋	kek4  lim5	100
@@ -59987,7 +59985,7 @@ sort: by_weight
 激猴管	kek4  kau5  kng2	100
 激猴管	kek4  kau5  kui1	100
 激瘤	kek4  liu5	100
-激發	kek4  huan4	100
+激發	kek4  huat4	100
 激皮	kek4  phi5	100
 激皮皮	kek4  phi5  phi5	100
 激皮皮	kek4 phi5  phi5	100
@@ -60130,7 +60128,7 @@ sort: by_weight
 濟項款	chue7  hang7  khuan2	100
 濟額	chue7  giah8	100
 濫交	lam7  kau1	101
-濫伐	lam7  huan8	100
+濫伐	lam7  huat8	100
 濫使	lam7  su2	102
 濫做一下	lam7  cho3  chit8  e7	100
 濫做夥	lam7  cho3  hue2	101
@@ -60276,7 +60274,7 @@ sort: by_weight
 灌風尪仔	kuan3  hong1  ang1  a2	100
 灑掃應對	se2  so3 eng3  tui3	100
 灑流	sa2  liu3	100
-灑脫	sa1  thuan4	100
+灑脫	sa1  thuat4	100
 灘水	thuann1  chui2	100
 灣圈路	uan1  khuan5  lou7	100
 灣拱門	uan5  kong1  mng5	100
@@ -60515,8 +60513,8 @@ sort: by_weight
 火珠仔	he2  chu1  a2	100
 火珠仔	hue2  chu1  a2	101
 火璇	he2  suan7	100
-火發	he2  huan4	101
-火發	hue2  huan4	100
+火發	he2  huat4	101
+火發	hue2  huat4	100
 火盆	he2  phun5	100
 火石	he2  chioh8	100
 火石	hue2  chioh8	102
@@ -61672,7 +61670,7 @@ sort: by_weight
 無人情	bo5  jin5  cheng5	100
 無人是外人	bo5 lang5 si7 gua7  lang5	100
 無人機	bu5  jin5  ki1	100
-無人法	bo5  lang5  huan4	101
+無人法	bo5  lang5  huat4	101
 無人緣	bo5  lang5  ian5	100
 無人緣兼乞食羶	bo5  lang5  ian5 kiam1 khit4  chiah8  hian3	100
 無人緣兼乞食羶	bo5  lang5  ian5 kiam1 khit4  chiah8 hian3	100
@@ -61688,7 +61686,7 @@ sort: by_weight
 無仝款	bo5 kang7  khuan2	100
 無仝生張的	bo5  kang7 senn1  tiunn1   e5	100
 無代無誌	bo5  tai7  bo5  chi3	102
-無伊法	bo5  i1  huan4	102
+無伊法	bo5  i1  huat4	102
 無佇咧	bo5  ti7  leh4	100
 無佇咧	bo5 ti7   leh4	100
 無你个代	bo5 li2  e5 tai7	100
@@ -61735,7 +61733,7 @@ sort: by_weight
 無冤無仇	bo5  uan1  bo5  siu5	100
 無冤無家不成夫妻	bo5   uan1  bo5  ke1  put4 seng5 hu1  chhe1	100
 無出聲	bo5  chhut4  siann1	100
-無出脫	bo5  chhut4  thuan4	101
+無出脫	bo5  chhut4  thuat4	101
 無出門	bo5 chhut4  mng5	100
 無分張	bo5  pun1  tiunn1	100
 無分無會	bo5  hun1  bo5  he7	100
@@ -62133,14 +62131,14 @@ sort: by_weight
 無沓無屑	bo5  tap4  bo5  sap4	100
 無沙無圾	bo5  sua1  bo5  sap4	101
 無油杉	bo5  iu5  sam1	100
-無法	bo5  huan4	100
-無法伊	bo5  huan4   i1	100
-無法伊	bo5  huan4  i1	100
-無法度	bo5  huan4  tou7	105
-無法度袂記得	bo5  huan4  tou7 be7  ki3  tit4	100
-無法得	bo5  huan4   tit4	100
-無法無天	bu5  huan4  bu5  thian1	101
-無法無度	bu5  huan4  bu5  to7	100
+無法	bo5  huat4	100
+無法伊	bo5  huat4   i1	100
+無法伊	bo5  huat4  i1	100
+無法度	bo5  huat4  tou7	105
+無法度袂記得	bo5  huat4  tou7 be7  ki3  tit4	100
+無法得	bo5  huat4   tit4	100
+無法無天	bu5  huat4  bu5  thian1	101
+無法無度	bu5  huat4  bu5  to7	100
 無注意	bo5  chu3  i3	100
 無津	bo5  tin1	100
 無派胚	bo5  phai3  phe1	101
@@ -62265,7 +62263,7 @@ sort: by_weight
 無細膩	bo5  sue3  ji7	100
 無細膩	bo5  sue3  li7	100
 無終	bu5  chiong1	100
-無絕對	bo5  chuan8  tui3	100
+無絕對	bo5  chuat8  tui3	100
 無給職	bu5  kip4  chit4	100
 無網袋	bo5  bang7  te7	101
 無線	bo5  suann3	101
@@ -62388,7 +62386,7 @@ sort: by_weight
 無輸贏	bo5  su1  iann5	105
 無輸雙	bo5  su1  siang1	103
 無辜	bu5  kou1	102
-無辦法	bo5  pan7  huan4	101
+無辦法	bo5  pan7  huat4	101
 無辦胚	bo5  pan7  phe1	100
 無退跤个所在	bo5 the3 kha1 e5 sou2  chai7	100
 無這个人	bo5 chit4 e5 lang5	100
@@ -62546,7 +62544,7 @@ sort: by_weight
 煉金	lian7  kim1	100
 煉鋼	lian7  kng3	100
 煉鐵	lian7  thih4	100
-煉鐵法	lian7  thih4  huan4	100
+煉鐵法	lian7  thih4  huat4	100
 煉鐵爐	lian7  thih4  lou5	100
 煉靈	lian7  leng5	100
 煌煌	hiann5  hiann5	100
@@ -62752,7 +62750,7 @@ sort: by_weight
 煤角	mui5  kak4	100
 煤餅	mui5  piann2	100
 煥然一新	huan3  jian5  it4  sin1	100
-煥發	huan7  huan4	100
+煥發	huan7  huat4	100
 煦煦	hu3  hu3	100
 照三頓舂	chiau3 sann1  tng3 cheng1	100
 照亮	chio3  liang7	100
@@ -62818,7 +62816,7 @@ sort: by_weight
 照步來	chiau3  pou7  lai5	101
 照殿紅	chio3  tian7  ang5	101
 照水蛙	chhio7  chui2  kue1	100
-照法	chiau3  huan4	100
+照法	chiau3  huat4	100
 照海燈	chio3  hai2  teng1	101
 照準	chio3  chun2	100
 照準繩	chiau3  chun2  chin5	101
@@ -62895,7 +62893,7 @@ sort: by_weight
 煮暗未	chu2  am3  be7	100
 煮暗頓	chu2 am3  tng3	100
 煮油淨宅	chu2  iu5 cheng7  theh8	100
-煮法	chu2  huan4	100
+煮法	chu2  huat4	100
 煮海	thi2  hai2	100
 煮滾	chi2  kun2	100
 煮煮	chu2  chu2	100
@@ -63539,8 +63537,8 @@ sort: by_weight
 爆炸物	pok8  cha3  but8	100
 爆爆	piak4  piak4	100
 爆爆	piak8  piak8	100
-爆發	phok8  huan4	100
-爆發	pok8  huan4	101
+爆發	phok8  huat4	100
+爆發	pok8  huat4	101
 爆破	phok8  phua3	100
 爆破	piak4  phua3	101
 爆破	pok8  phua3	100
@@ -63652,10 +63650,10 @@ sort: by_weight
 爭名	cheng1  beng5	100
 爭執	cheng1  chip4	101
 爭墓壙	cheng1  bong7  khong3	100
-爭天奪國	cheng1  thian1  tuan8  kok4	100
-爭奪	cheng1  tuan8	102
-爭奪戰	cheng1  tuan8  chian3	100
-爭妻奪田	cheng1  chhe1 tuan8  tian5	100
+爭天奪國	cheng1  thian1  tuat8  kok4	100
+爭奪	cheng1  tuat8	102
+爭奪戰	cheng1  tuat8  chian3	100
+爭妻奪田	cheng1  chhe1 tuat8  tian5	100
 爭得貓兒	cheng1  tit4  niau1  ji5	100
 爭戰	cheng1  chian3	100
 爭拚	cheng1  piann3	100
@@ -64235,7 +64233,7 @@ sort: by_weight
 特出	tek8  chhut4	100
 特刊	tek8  khan1	100
 特別	tek8  piat8	103
-特別法	tek8  piat8  huan4	100
+特別法	tek8  piat8  huat4	100
 特務	tek8  bu7	102
 特區	tek8  khu1	101
 特命	tek8  beng7	101
@@ -64515,7 +64513,7 @@ sort: by_weight
 犯嬈	huan7  hiau5	100
 犯意	huan7  i3	100
 犯案	huan7  an3	102
-犯法	huan7  huan4	102
+犯法	huan7  huat4	102
 犯煞	huan7  suah4	102
 犯犯	huan7  huan7	100
 犯疑	huan7  gi5	102
@@ -64939,7 +64937,7 @@ sort: by_weight
 猶無一个加圇	iau2  bo5 chit8  e5 ka1  nng5	100
 猶的	iau2  e5	101
 猶算	iau3  sng3	100
-猶豫不決	iu5  u7  put4  kuan4	100
+猶豫不決	iu5  u7  put4  kuat4	100
 猶較	iau2  khah4	100
 猶閣	iau2  koh4	101
 猶閣	iau3  koh4	100
@@ -65040,7 +65038,7 @@ sort: by_weight
 獨木船	tok8  bok8  chun5	101
 獨樂	tok8  lok8	100
 獨步	tok8  pou7	100
-獨活	tok8  huan8	102
+獨活	tok8  huat8	102
 獨牙	tok8  ge5	100
 獨特	tok8  tek8	100
 獨狐	tok8  hou5	100
@@ -65182,7 +65180,7 @@ sort: by_weight
 玄天上帝	hian5  thian1 siong7  te3	100
 玄孫	guan5  sun1	101
 玄孫	hian5  sun1	100
-玄月	hian5  guan8	100
+玄月	hian5  guat8	100
 玄機	hian5  ki1	100
 玄武	guan5  bu2	100
 玄武	hian5  bu2	101
@@ -65297,9 +65295,9 @@ sort: by_weight
 玩弄	guan2  long7	100
 玩弄	uan2  long7	100
 玩景	guan2  keng2	100
-玩月	guan2  guan8	100
-玩月台	uan2  guan8  tai5	100
-玩月會	ona2  guan8  hue7	100
+玩月	guan2  guat8	100
+玩月台	uan2  guat8  tai5	100
+玩月會	ona2  guat8  hue7	100
 玩樂	guan2  lok8	100
 玩火	uan2  hue2	100
 玩物	guan5  but8	100
@@ -65593,7 +65591,7 @@ sort: by_weight
 理會	li2  he7	100
 理氣	li2  khi3	102
 理氣卡長	li2  khi3  khah4  tng5	100
-理法	li2  huan4	100
+理法	li2  huat4	100
 理由	li2  iu5	102
 理當	li2  tong1	100
 理監事	li2  kam3  su7	101
@@ -65614,12 +65612,12 @@ sort: by_weight
 理路	li2  lou7	106
 理路直	li2  lou7  tit8	100
 理錢財	li2  chinn5  chai5	100
-理髮	li2  huan4	100
-理髮小姐	li2  huan4  sio2  chia2	100
-理髮師	li2  huan4  su1	100
-理髮店	li2  huan4  tiam3	100
-理髮廊	li2  huan4  long5	100
-理髮廳	li2  huan4  thiann1	100
+理髮	li2  huat4	100
+理髮小姐	li2  huat4  sio2  chia2	100
+理髮師	li2  huat4  su1	100
+理髮店	li2  huat4  tiam3	100
+理髮廊	li2  huat4  long5	100
+理髮廳	li2  huat4  thiann1	100
 琉園水晶博物館	liu5  uan5 chui2  chinn1 phok4  but8  kuan2	100
 琉球	liu5  khiu5	101
 琉球	liu5  kiu5	100
@@ -66166,7 +66164,7 @@ sort: by_weight
 生札蝦餅	chhinn1  chat4  he5  piann2	100
 生枝	sinn1  ki1	100
 生枝生葉	senn1  ki1  senn1  hioh8	101
-生枝發葉	sinn1  ki1 huan4  hioh8	100
+生枝發葉	sinn1  ki1 huat4  hioh8	100
 生柴	chhinn1  chha5	100
 生柿	chhenn1  khi7	100
 生柿	chhinn1  khi7	100
@@ -66290,7 +66288,7 @@ sort: by_weight
 生理儌	seng1  li2  kiau2	100
 生理場	seng1  li2  tiunn5	102
 生理性別	seng1  li2 seng3  piat8	100
-生理沒	seng1  li2  buan8	100
+生理沒	seng1  li2  buat8	100
 生理結構	seng1  li2  kiat4  kou3	100
 生理經	seng1  li2  keng1	100
 生理興隆	seng1  li2  heng1  liong5	100
@@ -66473,7 +66471,7 @@ sort: by_weight
 生頭凊面	chhinn1  thau5 chhin3  bin7	100
 生頭毋捌份	senn1   thau5  m7  bat4  hun7	100
 生頭毋捌份	senn1  thau5 m7  bat4 hun7	100
-生頭發尾	sinn1  thau5 huan4  be2	100
+生頭發尾	sinn1  thau5 huat4  be2	100
 生頭養仔	senn1  thau5  chiunn7  a2	100
 生頷瘤	senn1  am7  liu5	100
 生風	seng1  hong1	102
@@ -66486,7 +66484,7 @@ sort: by_weight
 生驚	chhenn1  kiann1	107
 生驚	chhinn1  kiann1	101
 生驚	chinn1  kiann1	101
-生髮油	seng1  huan4  iu5	101
+生髮油	seng1  huat4  iu5	101
 生鬚	senn1  chhiu1	100
 生魚	chhenn1  hi5	100
 生魚	chhinn1  hi5	100
@@ -66563,7 +66561,7 @@ sort: by_weight
 用武	iong7  bu2	100
 用武力	iong7  bu7  lek8	100
 用水	iong7  chui2	100
-用法	iong7  huan4	101
+用法	iong7  huat4	101
 用盡	iong7  chin7	100
 用空	iong7  khang1	100
 用苦心	iong7  khou2  sim1	100
@@ -66927,7 +66925,7 @@ sort: by_weight
 畢仔草	pit4  a2  chhau2	100
 畢卡索	pit4  khah4  soh4	100
 畢命	pit4  beng7	100
-畢月烏	pit4  guan8  ou1	100
+畢月烏	pit4  guat8  ou1	100
 畢業	pit4  giap8	102
 畢業典禮	pit4  giap8 tian2  le2	100
 畢業戶橂	pit4  giap8  hou7  teng7	100
@@ -66951,7 +66949,7 @@ sort: by_weight
 番仔字	huan1  a2  ji7	100
 番仔幔	huan1  a2  mua1	100
 番仔怨	huan1  a2  uan3	100
-番仔挖	huan1  a2  uan4	101
+番仔挖	huan1  a2  uat4	101
 番仔掃帚	huan1  a2  sau3  chhiu2	100
 番仔掃帚	huan1  a2 sau3  chhiu2	100
 番仔木瓜	huan1  a2  bok8  kua1	100
@@ -67272,9 +67270,9 @@ sort: by_weight
 當當	tng3  tng3	100
 當當	tong1  tong1	101
 當當	tong3  tong3	100
-當發彩	tng1  huan4  chhai2	102
-當發花	tng1  huan4  hue1	102
-當發錢	tng1  huan4  chinn5	100
+當發彩	tng1  huat4  chhai2	102
+當發花	tng1  huat4  hue1	102
+當發錢	tng1  huat4  chinn5	100
 當皮當骨	tng3  phe5 tng3  kut4	100
 當皮賣骨	tng3  phe5 bue7  kut4	100
 當盛	tng1  seng7	100
@@ -67400,7 +67398,7 @@ sort: by_weight
 疏通	sou1  thong1	101
 疏遠	sou1  uan2	102
 疏開	sou1  khai1	103
-疏闊	sou1  khuan4	100
+疏闊	sou1  khuat4	100
 疏離	sou1  li7	100
 疏颯	sou1  sap4	100
 疏鬆	sue1  sang1	100
@@ -67463,7 +67461,7 @@ sort: by_weight
 疫痘	ek8  chu1	100
 疫苗	ek8  biau5	101
 疫鬼	ek8  kui2	100
-疲乏	phi5  huan8	100
+疲乏	phi5  huat8	100
 疲倦	phi5  kuan7	100
 疲勞	phi5  lo5	101
 疲勞駕駛	phi5  lo5  ka3  su2	101
@@ -67770,7 +67768,7 @@ sort: by_weight
 痴哥神	chhi1  ko1  sin5	100
 痴思妄想	chhi1  su1 bong7  siong2	100
 痴情	chhi1  cheng5	101
-痴拙	chhi1  chuan4	100
+痴拙	chhi1  chuat4	100
 痴漢	chhi1  han3	100
 痴迷	chhi1  be5	100
 痴頭婆	chhi1  thau5  po5	101
@@ -67871,13 +67869,13 @@ sort: by_weight
 瘸跤	khe5  kha1	100
 瘸跤	khor5  kha1	100
 瘸跤	khue5  kha1	100
-癀發氣脫	hong5 huan4 khi3 thuan4	100
+癀發氣脫	hong5 huat4 khi3 thuat4	100
 療傷	liau5  siong1	100
 療勢	liau5  se3	100
 療效	liau5  hau7	100
 療治	liau5  ti7	100
 療治	liau7  ti7	100
-療法	liau5  huan4	101
+療法	liau5  huat4	101
 療程	liau5  teng5	100
 療養	liau5  iang2	100
 療養	liau5  iong2	101
@@ -68013,192 +68011,192 @@ sort: by_weight
 登高日	teng1  ko1  jit8	100
 登高節	teng1  ko1  chiat4	100
 登龍門	teng1  liong5  bun5	100
-發交	huan4  kau1	100
-發人深省	huan4  jin5  chhim1  seng2	100
-發令	huan4  leng7	101
-發佈	huan4  pou3	100
-發作	huan4  choh4	102
-發作	huan4  chok4	101
-發倉	huan4  chhng1	100
-發倒轉	huan4  to2  tng2	100
-發光	huan4  kng1	102
-發光	huan4  kong1	100
-發光二極體	huan4  kong1 ji7  kek8  the2	100
-發兌	huan4  tue7	100
-發兌舖	huan4  tue7  phou3	100
-發兵	huan4  peng1	101
-發出	huan4  chhut4	102
-發出來	huan4   chhut4  lai5	100
-發函	huan4  ham5	101
-發刊	huan4  khan1	100
-發力	huan4  lat8	100
-發動	huan4  tong7	102
-發動機	huan4  tong7  ki1	101
-發包	huan4  pau1	101
-發售	huan4  siu7	100
-發問	huan4  bun7	100
-發喙齒	huan4 chhui3  khi2	100
-發喪	huan4  song1	101
-發嘴齒	huan4  chhui3  khi2	100
-發回	huan4  he5	100
-發回	huan4  hue5	100
-發姑	huan4  kou1	100
-發嬈	huan4  hiau5	101
-發嬲	huan4  hiau5	100
-發射	huan4  sia7	101
-發射台	huan4  sia7  tai5	100
-發射器	huan4  sia7  khi3	100
-發展	huan4  tian2	102
-發展到	huan4  tian2  kau3	100
-發展局	huan4  tian2  kiok8	100
-發展潛力	huan4  tian2  chiam5  lek8	100
-發工錢	huan4  kang1  chinn5	100
-發布	huan4  pou3	101
-發彩	huan4  chhai2	102
-發心	huan4  sim1	104
-發怒	huan4  lou7	100
-發性	huan4  seng3	102
-發性地	huan4  seng3  te7	108
-發性地	huan4  seng3  tue7	100
-發惱	huan4  nau2	100
-發憤	huan4  hun2	100
-發批	huan4  phe1	100
-發抖	huan4  tio7	100
-發掘	huan4  kut8	100
-發揚	huan4  iong5	101
-發揚光大	huan4  iong5  kong1  tai7	100
-發揮	huan4  hui1	102
-發放	huan4  hong3	101
-發散	huan4  san3	101
-發明	huan4  beng5	102
-發明家	huan4  beng5  ka1	101
-發暗西	huan4  am3  sai1	100
-發根	huan4  kun1	100
-發條	huan4  tiau5	102
-發樣	huan4  iunn7	102
-發毒	huan4  tok8	101
-發毛	huan4  mng5	100
-發毛水	huan8  mou5  chui2	100
-發水	huan4  chui2	102
-發汗	huan4  kuann7	102
+發交	huat4  kau1	100
+發人深省	huat4  jin5  chhim1  seng2	100
+發令	huat4  leng7	101
+發佈	huat4  pou3	100
+發作	huat4  choh4	102
+發作	huat4  chok4	101
+發倉	huat4  chhng1	100
+發倒轉	huat4  to2  tng2	100
+發光	huat4  kng1	102
+發光	huat4  kong1	100
+發光二極體	huat4  kong1 ji7  kek8  the2	100
+發兌	huat4  tue7	100
+發兌舖	huat4  tue7  phou3	100
+發兵	huat4  peng1	101
+發出	huat4  chhut4	102
+發出來	huat4   chhut4  lai5	100
+發函	huat4  ham5	101
+發刊	huat4  khan1	100
+發力	huat4  lat8	100
+發動	huat4  tong7	102
+發動機	huat4  tong7  ki1	101
+發包	huat4  pau1	101
+發售	huat4  siu7	100
+發問	huat4  bun7	100
+發喙齒	huat4 chhui3  khi2	100
+發喪	huat4  song1	101
+發嘴齒	huat4  chhui3  khi2	100
+發回	huat4  he5	100
+發回	huat4  hue5	100
+發姑	huat4  kou1	100
+發嬈	huat4  hiau5	101
+發嬲	huat4  hiau5	100
+發射	huat4  sia7	101
+發射台	huat4  sia7  tai5	100
+發射器	huat4  sia7  khi3	100
+發展	huat4  tian2	102
+發展到	huat4  tian2  kau3	100
+發展局	huat4  tian2  kiok8	100
+發展潛力	huat4  tian2  chiam5  lek8	100
+發工錢	huat4  kang1  chinn5	100
+發布	huat4  pou3	101
+發彩	huat4  chhai2	102
+發心	huat4  sim1	104
+發怒	huat4  lou7	100
+發性	huat4  seng3	102
+發性地	huat4  seng3  te7	108
+發性地	huat4  seng3  tue7	100
+發惱	huat4  nau2	100
+發憤	huat4  hun2	100
+發批	huat4  phe1	100
+發抖	huat4  tio7	100
+發掘	huat4  kut8	100
+發揚	huat4  iong5	101
+發揚光大	huat4  iong5  kong1  tai7	100
+發揮	huat4  hui1	102
+發放	huat4  hong3	101
+發散	huat4  san3	101
+發明	huat4  beng5	102
+發明家	huat4  beng5  ka1	101
+發暗西	huat4  am3  sai1	100
+發根	huat4  kun1	100
+發條	huat4  tiau5	102
+發樣	huat4  iunn7	102
+發毒	huat4  tok8	101
+發毛	huat4  mng5	100
+發毛水	huat8  mou5  chui2	100
+發水	huat4  chui2	102
+發汗	huat4  kuann7	102
 發沫	puh4  pheh8	102
 發沫	puh4  phueh8	102
 發波	puh4  pho1	100
 發波仔	puh4  phok4  a2	100
-發洩	huan4  siap8	100
-發源地	huan4  guan5  te7	101
-發源地	huan4  guan5  tue7	100
-發瀉	huan4  sia3	100
-發火	huan4  he2	100
-發火	huan4  hue2	104
-發灰	huan4  he1	100
-發炎	huan4  iam7	102
-發為	huan4  ui5	100
-發烘	huan4  hong7	100
-發熱	huan4  jiat8	102
-發燒	huan4  sio1	103
-發爐	huan4  lou5	101
-發牙	huan4  ge5	100
-發狂	huan4  kong5	103
-發現	huan4  hian7	102
-發生	huan4  seng1	102
-發生	huan4  senn1	101
-發生	huan4  sinn1	101
-發病	huan4  penn7	101
-發病	huan4  pinn7	101
-發症	huan4  cheng3	101
-發癀	huan4  hong5	100
-發發	huan4  huan4	100
-發祖	huan4  chou2	102
-發票	huan4  phio3	101
-發福	huan4  hok4	101
-發稿	huan4  ko2	100
-發穎	huan4  inn2	100
-發穎典	huan4  inn2  tian2	100
-發窋	huan4  puh4	101
-發粉	huan4  hun2	105
-發粒	huan4  liap8	100
-發粿	huan4  ke2	102
-發粿	huan4  kor2	100
-發粿	huan4  kue2	101
-發紅	huan4  ang5	100
-發給	huan4  kip4	100
-發聲	huan4  siann1	101
-發育	huan4  iok8	101
-發育不良	huan4  iok8 put4  liong5	100
-發背	huan4  pue7	100
-發脾氣	huan4  phi5  khi3	102
+發洩	huat4  siap8	100
+發源地	huat4  guan5  te7	101
+發源地	huat4  guan5  tue7	100
+發瀉	huat4  sia3	100
+發火	huat4  he2	100
+發火	huat4  hue2	104
+發灰	huat4  he1	100
+發炎	huat4  iam7	102
+發為	huat4  ui5	100
+發烘	huat4  hong7	100
+發熱	huat4  jiat8	102
+發燒	huat4  sio1	103
+發爐	huat4  lou5	101
+發牙	huat4  ge5	100
+發狂	huat4  kong5	103
+發現	huat4  hian7	102
+發生	huat4  seng1	102
+發生	huat4  senn1	101
+發生	huat4  sinn1	101
+發病	huat4  penn7	101
+發病	huat4  pinn7	101
+發症	huat4  cheng3	101
+發癀	huat4  hong5	100
+發發	huat4  huat4	100
+發祖	huat4  chou2	102
+發票	huat4  phio3	101
+發福	huat4  hok4	101
+發稿	huat4  ko2	100
+發穎	huat4  inn2	100
+發穎典	huat4  inn2  tian2	100
+發窋	huat4  puh4	101
+發粉	huat4  hun2	105
+發粒	huat4  liap8	100
+發粿	huat4  ke2	102
+發粿	huat4  kor2	100
+發粿	huat4  kue2	101
+發紅	huat4  ang5	100
+發給	huat4  kip4	100
+發聲	huat4  siann1	101
+發育	huat4  iok8	101
+發育不良	huat4  iok8 put4  liong5	100
+發背	huat4  pue7	100
+發脾氣	huat4  phi5  khi3	102
 發膿	puh4  lang5	100
-發興	huan4  heng3	100
-發芛	huan4  inn2	100
-發花	huan4  hue1	101
-發芽	huan4  ge5	104
+發興	huat4  heng3	100
+發芛	huat4  inn2	100
+發花	huat4  hue1	101
+發芽	huat4  ge5	104
 發芽	puh4  ge5	100
-發草	huan4  chhau2	101
-發莓	huan4  m5	101
-發菰	huan4  kou1	100
-發落	huan4  loh8	101
-發落	huan8  loh8	104
-發落來	huan4   loh8  lai5	100
-發藥	huan4  ioh8	100
-發蘖	huan4  inn2	100
-發蘡	huan4  inn2	101
-發行	huan4  heng5	102
-發行人	huan4  heng5  jin5	100
-發行所	huan4  heng5  sou2	100
-發表	huan4  piau2	101
-發表	huan4  pio2	100
-發表首	huan4  pio2  siu2	100
-發袂行	huan4 be7 kiann5	100
-發見	huan4  kian3	100
-發覺	huan4  kak4	102
-發角	huan4  kak4	101
-發言	huan4  gian5	101
-發言人	huan4  gian5  jin5	100
-發言權	huan4  gian5  kuan5	101
-發誓	huan4  se3	100
-發財	huan4  chai5	102
-發財仔	huan4  chai5  a2	100
-發財仔車	huan4  chai5  a2  chhia1	101
-發財樹	huan4  chai5  chhiu7	100
-發貨	huan4  he3	100
-發貨	huan4  hue3	100
-發賣	huan4  be7	100
-發賣	huan4  bue7	100
-發賣元	huan4  bue7  guan5	100
-發賣所	huan4  bue7  sou2	100
-發賬	huan4  siau3	100
-發起	huan4  khi2	101
-發起人	huan4  khi2  jin5	101
-發跡	huan4  chek4	101
-發身	huan4  sin1	101
-發車	huan4  chhia1	100
-發輦	huan4  lian2	101
-發送	huan4  sang3	101
-發達	huan4  tat8	103
-發遣	huan4  khian2	100
-發還	huan4  heng5	101
-發酒瘋	huan4  chiu2  hong1	100
-發酵	huan4  kann3	103
-發金	huan4  kim1	100
-發銀	huan4  gun5	100
-發錢	huan4  chinn5	100
-發錢糧單	huan4  chinn5  niu5  tuann1	100
-發開	huan4  khui1	100
-發陽	huan4  iong5	101
-發難	huan4  lan7	100
-發雷	huan4  lui5	100
-發電	huan4  tian7	101
-發電所	huan4  tian7  sou2	100
-發電機	huan4  tian1  ki1	100
-發電機	huan4  tian7  ki1	101
-發青	huan4  chhinn1	100
-發音	huan4  im1	102
-發願	huan4  guan7	105
-發餉	huan4  hiong3	100
-發養	huan4  iunn2	100
-發駕	huan4  ka3	100
-發齒	huan4  khi2	101
+發草	huat4  chhau2	101
+發莓	huat4  m5	101
+發菰	huat4  kou1	100
+發落	huat4  loh8	101
+發落	huat8  loh8	104
+發落來	huat4   loh8  lai5	100
+發藥	huat4  ioh8	100
+發蘖	huat4  inn2	100
+發蘡	huat4  inn2	101
+發行	huat4  heng5	102
+發行人	huat4  heng5  jin5	100
+發行所	huat4  heng5  sou2	100
+發表	huat4  piau2	101
+發表	huat4  pio2	100
+發表首	huat4  pio2  siu2	100
+發袂行	huat4 be7 kiann5	100
+發見	huat4  kian3	100
+發覺	huat4  kak4	102
+發角	huat4  kak4	101
+發言	huat4  gian5	101
+發言人	huat4  gian5  jin5	100
+發言權	huat4  gian5  kuan5	101
+發誓	huat4  se3	100
+發財	huat4  chai5	102
+發財仔	huat4  chai5  a2	100
+發財仔車	huat4  chai5  a2  chhia1	101
+發財樹	huat4  chai5  chhiu7	100
+發貨	huat4  he3	100
+發貨	huat4  hue3	100
+發賣	huat4  be7	100
+發賣	huat4  bue7	100
+發賣元	huat4  bue7  guan5	100
+發賣所	huat4  bue7  sou2	100
+發賬	huat4  siau3	100
+發起	huat4  khi2	101
+發起人	huat4  khi2  jin5	101
+發跡	huat4  chek4	101
+發身	huat4  sin1	101
+發車	huat4  chhia1	100
+發輦	huat4  lian2	101
+發送	huat4  sang3	101
+發達	huat4  tat8	103
+發遣	huat4  khian2	100
+發還	huat4  heng5	101
+發酒瘋	huat4  chiu2  hong1	100
+發酵	huat4  kann3	103
+發金	huat4  kim1	100
+發銀	huat4  gun5	100
+發錢	huat4  chinn5	100
+發錢糧單	huat4  chinn5  niu5  tuann1	100
+發開	huat4  khui1	100
+發陽	huat4  iong5	101
+發難	huat4  lan7	100
+發雷	huat4  lui5	100
+發電	huat4  tian7	101
+發電所	huat4  tian7  sou2	100
+發電機	huat4  tian1  ki1	100
+發電機	huat4  tian7  ki1	101
+發青	huat4  chhinn1	100
+發音	huat4  im1	102
+發願	huat4  guan7	105
+發餉	huat4  hiong3	100
+發養	huat4  iunn2	100
+發駕	huat4  ka3	100
+發齒	huat4  khi2	101
 白丁	peh8  teng1	100
 白丁豎紆	peh8  teng1  khia7  u1	100
 白乳仔	peh8  ju2  a2	100
@@ -68641,9 +68639,9 @@ sort: by_weight
 白雞油舅	peh8  kue1  iu5  ku7	100
 白雞髻	peh8  kue1  ke3	100
 白雪	peh8  seh4	100
-白雪公主	peh8  suan4  kong1  chu2	100
+白雪公主	peh8  suat4  kong1  chu2	100
 白雪雪	peh8  seh4  seh4	100
-白雪雪	peh8  suan4  suan4	102
+白雪雪	peh8  suat4  suat4	102
 白雲	peh8  hun5	102
 白露	peh8  lou7	102
 白露肥雞	peh8  lou7  pui5  kue1	100
@@ -68688,7 +68686,7 @@ sort: by_weight
 白骨珠仔草	peh8  kut4 chu1  a2  chhau2	101
 白骨郎君	peh8  kut4  long5  kun1	101
 白骨龍	peh8  kut4  liong5	101
-白髮	peh8  huan4	100
+白髮	peh8  huat4	100
 白鬚	peh8  chhiu1	100
 白鬚報	peh8  chhiu1  po3	100
 白魚	peh8  hi5	102
@@ -69059,7 +69057,7 @@ sort: by_weight
 益母艾	ek4  bu2  hiann7	100
 益母草	ah4  bu2  chhau2	101
 益生菌	ek4  seng1  khun2	100
-益發	it4  huan4	103
+益發	it4  huat4	103
 益益草	ek4  ek4  chhau2	100
 益處	ek4  chhu3	101
 益蟲	ek4  thiong5	100
@@ -69096,7 +69094,7 @@ sort: by_weight
 盛衰	seng7  sue1	101
 盛裝	seng7  chong1	100
 盛開	seng7  khui1	100
-盜伐	to7  huan8	100
+盜伐	to7  huat8	100
 盜心	to7  sim1	100
 盜案	to7  an3	100
 盜汗	to7  han7	100
@@ -69871,7 +69869,7 @@ sort: by_weight
 相捏尻川	sio1  tenn7 kha1  chhuinn1	100
 相捻手	sann1  liam3  chhiu2	100
 相捻手	sio1  liam3  chhiu2	100
-相掌法	siong3  chiunn2  huan4	100
+相掌法	siong3  chiunn2  huat4	100
 相排	sann1  pai5	100
 相掟	sann1  tinn7	100
 相探	sann1  tham3	100
@@ -69938,7 +69936,7 @@ sort: by_weight
 相比	sann1  pi2	102
 相比	sio1  pi2	102
 相比並	sann1  pi2  pheng7	100
-相法	siong3  huan4	100
+相法	siong3  huat4	100
 相添	sann1  thinn1	100
 相添	sio1  thinn1	101
 相添買	sann1  thinn1  be2	100
@@ -70354,7 +70352,7 @@ sort: by_weight
 看款式	khuann3  khuan2  sit4	100
 看水	khuann3  chui2	100
 看沒出	khuann3  be7  chhut4	100
-看法	khuann3  huan4	101
+看法	khuann3  huat4	101
 看清	khuann3  chheng1	100
 看清楚	khuann3  chheng1  chho2	100
 看湖	khuann3  ou5	100
@@ -70578,7 +70576,7 @@ sort: by_weight
 真確	chin1  khak4	100
 真神	chin1  sin5	100
 真空	chin1  khong1	101
-真空低溫烹調法	chin1  khong1  ke7  un1  pheng1  tiau7  huan4	100
+真空低溫烹調法	chin1  khong1  ke7  un1  pheng1  tiau7  huat4	100
 真童	chin1  tang5	100
 真筆	chin1  pit4	100
 真米正酵	chin1  bi2 chiann3  kann3	100
@@ -70994,8 +70992,8 @@ sort: by_weight
 知止當止	ti1  chi2 tong1  chi2	100
 知死	chai1  si2	102
 知母	ti1  bu2	100
-知法怕法	ti1  huan4 phann3  huan4	100
-知法犯法	ti1  huan4 huan7  huan4	100
+知法怕法	ti1  huat4 phann3  huat4	100
+知法犯法	ti1  huat4 huan7  huat4	100
 知理	ti1  li2	100
 知痛	chai1  thiann3	100
 知目頭重	chai1  bak8  thau5  tang7	100
@@ -71075,7 +71073,7 @@ sort: by_weight
 短篾縛柴	te2  bih8 pak8  chha5	100
 短線	te2  suann3	101
 短缺	te2  kheh4	100
-短缺	tuan2  khuan4	100
+短缺	tuan2  khuat4	100
 短胎	te2  thai1	100
 短腳	te2  kioh4	101
 短舌根	te2  chih8  kin1	101
@@ -71106,7 +71104,7 @@ sort: by_weight
 短鎗	te2  chhiunn1	100
 短鏢	te2  pio1	100
 短音階	tuan2  im1  kai1	100
-短髮	te2  huan4	100
+短髮	te2  huat4	100
 矯強	kiau2  kiong2	100
 矯強	kiau2  kiong5	100
 矯正	kiau2  cheng3	101
@@ -71197,7 +71195,7 @@ sort: by_weight
 石斧	chioh8  pou2	100
 石春特磬	chioh8  chhun1  tek8  kheng3	100
 石月	chioh8  geh8	100
-石月	chioh8  guan8	100
+石月	chioh8  guat8	100
 石朴	chioh8  phoh4	101
 石材	chioh8  chai5	100
 石松	chioh8  chheng5	100
@@ -71236,7 +71234,7 @@ sort: by_weight
 石櫧	chioh8  chu5	100
 石母奶	chioh8  bo2  leng1	100
 石汕	chioh8  suann3	100
-石決明	chioh8  kuan4  beng5	101
+石決明	chioh8  kuat4  beng5	101
 石沈大海	chioh8  tim5  tua7  hai2	100
 石油	chioh8  iu5	102
 石油業	chioh8  iu5  giap8	100
@@ -71494,7 +71492,7 @@ sort: by_weight
 研死	geng2  si2	100
 研灰	geng2  hu1	100
 研烌	geng2  hu1	100
-研發	gian2  huan4	100
+研發	gian2  huat4	100
 研石	geng2  chioh4	100
 研研	geng2  geng2	100
 研究	gian2  kiu3	102
@@ -71545,7 +71543,7 @@ sort: by_weight
 砲座	phau3  cho7	100
 砲彈	phau3  tuann5	100
 砲擊	phau3  kek4	100
-砲法	phau3  huan4	100
+砲法	phau3  huat4	100
 砲火	phau3  he2	100
 砲火	phau3  hue2	100
 砲聲	phau3  siann1	100
@@ -71873,7 +71871,7 @@ sort: by_weight
 硬水	ngi7  chui2	100
 硬求	nge7  kiu5	100
 硬泉	ngi7  chuann5	100
-硬法	ngi7  huan4	100
+硬法	ngi7  huat4	100
 硬派	ngi7  phai3	100
 硬涸涸	nge7  khok4  khok4	100
 硬涸涸	nge7  khok8  khok8	100
@@ -72423,7 +72421,7 @@ sort: by_weight
 祕書長	pi3  su1  tiunn2	100
 祕笈	pi3  kip8	100
 祕結	pi3  kiat4	101
-祕訣	pi3  kuan4	101
+祕訣	pi3  kuat4	101
 祕邦	pi3  pang1	100
 祕雕	pi3  tiau1	100
 祕魯	pi3  lou2	100
@@ -72654,7 +72652,7 @@ sort: by_weight
 票房	phio3  pang5	101
 票據	phio3  ki3	101
 票據	phio3  ku3	100
-票據法	phio3  ki3  huan4	100
+票據法	phio3  ki3  huat4	100
 票數	phio3  sou3	100
 票根	phiau3  kin1	100
 票根	phio3  kin1	100
@@ -72734,7 +72732,7 @@ sort: by_weight
 禁止牌	kim3  chi2  pai5	100
 禁毒	kim3  tok8	100
 禁氣	kim3  khui3	106
-禁法	kim3  huan4	100
+禁法	kim3  huat4	100
 禁港	kim3  kang2	101
 禁牌	kim3  pai5	100
 禁生	kim3  chhinn1	100
@@ -72745,7 +72743,7 @@ sort: by_weight
 禁監	kim3  kann1	100
 禁禁	kim3  kim3	100
 禁約	kim3  iok4	100
-禁絕	kim3  chuan8	101
+禁絕	kim3  chuat8	101
 禁腳	kim3  kha1	101
 禁落	kim3  loh8	100
 禁薰	kim3  hun1	102
@@ -72760,7 +72758,7 @@ sort: by_weight
 禁錮	kim3  kou3	101
 禁門	kim3  bun5	100
 禁閉	kim3  pi3	100
-禁闕	kim3  khuan4	100
+禁闕	kim3  khuat4	100
 禁食	kim3  chiah8	101
 禁鼓樂	kim3  kou2  gak8	100
 禍害	ho7  hai7	100
@@ -72884,7 +72882,7 @@ sort: by_weight
 禮書	le2  chu1	100
 禮服	le2  hok8	102
 禮樂	le2  gak8	100
-禮法	le2  huan4	100
+禮法	le2  huat4	100
 禮炮	le2  phau3	100
 禮爵	le2  chiok4	100
 禮物	le2  but8	102
@@ -72931,10 +72929,9 @@ sort: by_weight
 禿頭	thut4  thau5	102
 禿頭筆	thut4  thau5  pit4	100
 禿額	thuh4  hiah8	101
-禿額	thut4  hia8	100
 禿顱	thut8  lu5	100
 禿驢	thut4  lu5	100
-禿髮	thut4  huan4	102
+禿髮	thut4  huat4	102
 秀姑巒山	siu3  kou1  luan5  suann1	100
 秀姑巒溪	siu3  kou1  luan5  khe1	101
 秀峰	siu3  hong1	100
@@ -73165,8 +73162,8 @@ sort: by_weight
 秘秘	pi3  pi3	100
 秘結	pi3  kiat4	101
 秘術	pi3  sut8	100
-秘訣	pi3  kuan4	103
-秘訣方	pi3  kuan4  hng1	100
+秘訣	pi3  kuat4	103
+秘訣方	pi3  kuat4  hng1	100
 秘露國	pi3  lou7  kok4	100
 秘魯	pi3  lou2	100
 租借	chou1  chioh4	100
@@ -73319,7 +73316,7 @@ sort: by_weight
 稅收	se3  siu1	100
 稅收	sue3  siu1	101
 稅款	sue3  khuan2	100
-稅法	sue3  huan4	100
+稅法	sue3  huat4	100
 稅源	se3  guan5	100
 稅源	sue3  guan5	100
 稅率	se3  lut8	100
@@ -73340,7 +73337,7 @@ sort: by_weight
 稅額	sue3  giah8	101
 稅驗單	se3  giam7  tuann1	100
 程九金假童	thiann5  kau2  kim1 ke2  tang5	100
-程咬金擋無三下斧頭法	thiann5  ka7  kim1  tong3  bo5 sann1  e7 pou2  thau5  huan4	100
+程咬金擋無三下斧頭法	thiann5  ka7  kim1  tong3  bo5 sann1  e7 pou2  thau5  huat4	100
 程子	theng5  chu2	100
 程序	theng5  su7	100
 程序控制	teng5  su7 khong3  che3	100
@@ -73562,7 +73559,7 @@ sort: by_weight
 穴場	hiat8  tiunn5	100
 穴字頭	hiat8  ji7  thau5	100
 穴道	hiat8  to7	100
-穵角	uan4  kak4	100
+穵角	uat4  kak4	100
 究其實	kiu3  ki5  sit8	101
 究其然	kiu3  ki5  jian5	101
 究其真	kiu3  ki5  chin1	100
@@ -73694,7 +73691,7 @@ sort: by_weight
 空紙白字	khang1  chua2  peh8  ji7	100
 空縫	khang1  phang7	106
 空缺	khang1  khih4	100
-空缺	khang1  khuan4	101
+空缺	khang1  khuat4	101
 空缺	khang1  khueh4	100
 空罐仔	khang1  kuan3  a2	100
 空翕機	khong1  hip4  ki1	100
@@ -73816,7 +73813,7 @@ sort: by_weight
 突玍	tuh8  lan7	100
 突球	tuh8  kiu5	100
 突生死	tuh8  sinn1  si2	100
-突發	tut8  huan4	101
+突發	tut8  huat4	101
 突着	tuh8   tioh8	100
 突破	tuh8  phua3	100
 突破	tut8  phua3	101
@@ -74014,9 +74011,9 @@ sort: by_weight
 立會	lip8  hue7	100
 立案	lip8  an3	102
 立業	lip8  giap8	101
-立法	lip8  huan4	102
-立法權	lip8  huan4  kuan5	100
-立法院	lip8  huan4  inn7	101
+立法	lip8  huat4	102
+立法權	lip8  huat4  kuan5	100
+立法院	lip8  huat4  inn7	101
 立碑	lip8  pi1	100
 立秋	lip8  chhiu1	102
 立竿見影	lip8  kan1  kian3  iann2	100
@@ -74063,7 +74060,7 @@ sort: by_weight
 章仇	chiong1  kiu5	100
 章句	chiunn1  ku3	100
 章旨	chiunn1  chi2	100
-章法	chiong1  huan4	100
+章法	chiong1  huat4	100
 章牌	chiong1  pai5	100
 章程	chiong1  theng5	101
 章節	chiong1  chiat4	100
@@ -74118,7 +74115,7 @@ sort: by_weight
 端方	tuan1  hong1	100
 端方四正	tuan1  hong1  si3  chiann3	100
 端書	tuan1  su1	100
-端月	tuan1  guan8	100
+端月	tuan1  guat8	100
 端木	tuan1  bok8	101
 端楷	tuan1  khai2	102
 端正	tuan1  cheng3	100
@@ -74465,8 +74462,8 @@ sort: by_weight
 符合	hu5  hap8	102
 符咒	hu5  chiu3	102
 符水	hu5  chui2	100
-符法	hu5  huan4	100
-符法先	hu5  huan4  sian1	100
+符法	hu5  huat4	100
+符法先	hu5  huat4  sian1	100
 符碼	hu5  ma2	100
 符號	hu5  ho7	101
 笨仔	pun7  a2	100
@@ -74568,7 +74565,7 @@ sort: by_weight
 筆架山	pit4  ke3  suann1	100
 筆桿	pit4  koainn2	101
 筆氣	pit4  khi3	100
-筆法	pit4  huan4	102
+筆法	pit4  huat4	102
 筆盒	pit4  ah8	100
 筆筒	pit4  tang5	101
 筆筒樹	pit4  tang5  chhiu7	103
@@ -74620,7 +74617,7 @@ sort: by_weight
 等待	tan2  thai7	103
 等接	tan2  chih4	102
 等擔	tan2  tann3	100
-等斡	tan2  uan4	100
+等斡	tan2  uat4	100
 等於	teng2  i5	101
 等板	tan2  pan2	100
 等機會	tan2  ki1  hue7	100
@@ -74784,8 +74781,8 @@ sort: by_weight
 算是	sng3  si7	103
 算時算日	sng3  si5 sng3  jit8	100
 算會和	sng3  e7  ho5	101
-算法	sng3  huan4	102
-算法	suan3  huan4	100
+算法	sng3  huat4	102
+算法	suan3  huat4	100
 算無到	sng3  bo5  kau3	100
 算無盤	sng3  bo5  puann5	106
 算甲子	sng3  kah4  chi2	100
@@ -74957,7 +74954,7 @@ sort: by_weight
 節氣	chiat4  khi3	100
 節氣	chueh4  khui3	100
 節水撐篙	chat4  chui2 the1  ko1	100
-節法	chat4  huan4	100
+節法	chat4  huat4	100
 節流	chiat4  liu5	100
 節減	chiat4  kiam2	100
 節準	chat4  chun2	100
@@ -75148,7 +75145,7 @@ sort: by_weight
 簽押	chhiam1  ah4	100
 簽收	chhiam1  siu1	100
 簽條	chhiam1  tiau5	101
-簽發	chhiam1  huan4	100
+簽發	chhiam1  huat4	100
 簽礪	chhiam1  le3	100
 簽簽	chhiam1  chhiam1	100
 簽約	chhiam1  iok4	100
@@ -75380,7 +75377,7 @@ sort: by_weight
 米龜	bi2  ku1	102
 粉光參	hun2  kong1  sim1	100
 粉光蔘	hun2  kong1  sim1	100
-粉刷	hun2  suan4	100
+粉刷	hun2  suat4	100
 粉占	hun2  chiam1	100
 粉味	hun2  bi7	103
 粉味友的	hun2  bi7 iu2   e5	100
@@ -75491,7 +75488,7 @@ sort: by_weight
 粗健	chhou1  kiann7	100
 粗傢俬	chhou1  ke1  si1	100
 粗刀石	chhou1  to1  chioh4	100
-粗劣	chhou1  luan8	100
+粗劣	chhou1  luat8	100
 粗勇	chhou1  iong2	102
 粗吹	chhou1  chhe1	100
 粗呢	chhou1  ni5	100
@@ -75531,7 +75528,7 @@ sort: by_weight
 粗殘	chhou1  chhan5	108
 粗氈	chhou1  chinn1	100
 粗氣	chhou1  khi3	100
-粗法	chhou1  huan4	100
+粗法	chhou1  huat4	100
 粗淺	chhou1  chhian2	100
 粗澀	chhou1  siap4	103
 粗煏煏	chhou1  piak4  piak4	100
@@ -75652,13 +75649,13 @@ sort: by_weight
 粧貼	chng1  thiap4	100
 粧閣	chng1  koh4	100
 粳米	teng7  bi2	100
-粵族	uan8  chok8	100
-粵東	uan8  tong1	100
-粵籍	uan8  chek8	100
-粵西	uan8  se1	100
-粵語	uan8  gi2	100
-粵語	uan8  gu2	100
-粵語	uan8  gur2	100
+粵族	uat8  chok8	100
+粵東	uat8  tong1	100
+粵籍	uat8  chek8	100
+粵西	uat8  se1	100
+粵語	uat8  gi2	100
+粵語	uat8  gu2	100
+粵語	uat8  gur2	100
 粽箬	chang3  hah8	100
 粽葉	chang3  hioh8	100
 精債	cheng1  che3	100
@@ -75815,7 +75812,7 @@ sort: by_weight
 糊藥	kou5  ioh8	101
 糊藥仔	kou5  ioh8  a2	100
 糊裡糊塗	hou5  li2  hou5  tou5	100
-糊說	hou5  suan4	100
+糊說	hou5  suat4	100
 糊貼	kou5  tah4	100
 糋圈仔	chinn3  khian1  a2	100
 糋塊	chinn3  te3	100
@@ -76877,67 +76874,67 @@ sort: by_weight
 結頭	kat4  thau5	104
 結頭菜	kiat4  thau5  chhai3	101
 結首	kiat4  siu2	100
-結髮	kiat4  huan4	100
-結髮的	kiat4  huan4   e5	101
+結髮	kiat4  huat4	100
+結髮的	kiat4  huat4   e5	101
 結麻	kat4  mua5	100
 結黨	kiat4  tong2	105
 結鼎	kiat4  tiann2	100
 結龍船	kat4  leng5  chun5	100
-絕不	chuan8  put4	100
-絕世	chuan8  se3	100
-絕交	chuan8  kau1	102
-絕仔	chuan8  a2	101
-絕代	chuan8  tai7	100
-絕佳	chuan8  ka1	101
-絕倫	chuan8  lun5	100
+絕不	chuat8  put4	100
+絕世	chuat8  se3	100
+絕交	chuat8  kau1	102
+絕仔	chuat8  a2	101
+絕代	chuat8  tai7	100
+絕佳	chuat8  ka1	101
+絕倫	chuat8  lun5	100
 絕六無	cheh8  liok8  bu5	101
-絕口	chuan8  khau2	100
-絕句	chuan8  ku3	101
-絕命	chuan8  beng7	100
-絕嗣	chuan8  su5	103
-絕地	chuan8  tue7	100
-絕妙	chuan8  biau7	100
-絕家再興	chuan8  ka1 chai3  heng1	100
-絕對	chuan8  tui3	103
-絕後	chuan8  au7	100
-絕後代	chuan8 au7  tai7	100
-絕情	chuan8  cheng5	102
-絕戶	chuan8  hou7	100
-絕才	chuan8  chai5	100
-絕招	chuan8  chiau1	101
-絕斷	chuan8  tng7	100
-絕景	chuan8  keng2	100
-絕望	chuan8  bang7	101
-絕望	chuan8  bong7	101
-絕步	chuan8  pou7	103
-絕氣	chuan8  khui3	105
-絕水火	chuan8  sui2  honn2	100
-絕無	chuan8  bo5	102
+絕口	chuat8  khau2	100
+絕句	chuat8  ku3	101
+絕命	chuat8  beng7	100
+絕嗣	chuat8  su5	103
+絕地	chuat8  tue7	100
+絕妙	chuat8  biau7	100
+絕家再興	chuat8  ka1 chai3  heng1	100
+絕對	chuat8  tui3	103
+絕後	chuat8  au7	100
+絕後代	chuat8 au7  tai7	100
+絕情	chuat8  cheng5	102
+絕戶	chuat8  hou7	100
+絕才	chuat8  chai5	100
+絕招	chuat8  chiau1	101
+絕斷	chuat8  tng7	100
+絕景	chuat8  keng2	100
+絕望	chuat8  bang7	101
+絕望	chuat8  bong7	101
+絕步	chuat8  pou7	103
+絕氣	chuat8  khui3	105
+絕水火	chuat8  sui2  honn2	100
+絕無	chuat8  bo5	102
 絕無人	cheh8  bo5  lang5	100
-絕無僅有	chuan8  bo5  kin2  iu2	100
-絕煙火	chuan8  ian1  he2	100
-絕版	chuan8  pan2	100
-絕症	chuan8  cheng3	101
+絕無僅有	chuat8  bo5  kin2  iu2	100
+絕煙火	chuat8  ian1  he2	100
+絕版	chuat8  pan2	100
+絕症	chuat8  cheng3	101
 絕種	cheh8  cheng2	102
-絕筆	chuan8  pit4	101
+絕筆	chuat8  pit4	101
 絕等	chuat8  teng2	101
-絕米糧	chuan8  bi2  niu5	100
-絕糧	chuan8  niu5	100
-絕糧道	chuan8  niu5  to7	100
-絕絕	chuan8  chuan8	100
-絕緣	chuan8  ian5	100
-絕色	chuan8  sek4	100
-絕藝	chuan8  ge7	100
-絕處逢生	chuan8  chhu3 hong5  seng1	100
-絕詩	chuan8  si1	100
-絕跡	chuan8  chek4	100
-絕路	chuan8  lou7	104
-絕非	chuan8  hui1	100
-絕頂	chuan8  teng2	102
-絕頭	chuan8  thau5	100
-絕頭步	chuan8  thau5  pou7	100
-絕風嶺	chuan8  hong1  nia2	102
-絕食	chuan8  sit8	101
+絕米糧	chuat8  bi2  niu5	100
+絕糧	chuat8  niu5	100
+絕糧道	chuat8  niu5  to7	100
+絕絕	chuat8  chuat8	100
+絕緣	chuat8  ian5	100
+絕色	chuat8  sek4	100
+絕藝	chuat8  ge7	100
+絕處逢生	chuat8  chhu3 hong5  seng1	100
+絕詩	chuat8  si1	100
+絕跡	chuat8  chek4	100
+絕路	chuat8  lou7	104
+絕非	chuat8  hui1	100
+絕頂	chuat8  teng2	102
+絕頭	chuat8  thau5	100
+絕頭步	chuat8  thau5  pou7	100
+絕風嶺	chuat8  hong1  nia2	102
+絕食	chuat8  sit8	101
 絚冗線	an1  leng7  suann3	100
 絞仔	ak8  a2	100
 絞刀蟲	ka1  to1  thang5	101
@@ -76980,7 +76977,7 @@ sort: by_weight
 絞黨成群	ka2  tong2 seng5  kun5	100
 絡仔索	loh8  a2  soh4	100
 絡絡	le1  le1	100
-絡繹不絕	lok8  ek8  put4  chuan8	101
+絡繹不絕	lok8  ek8  put4  chuat8	101
 給下	kip4  ha7	100
 給仕	kip4  su7	100
 給付	kip4  hu3	101
@@ -77014,7 +77011,7 @@ sort: by_weight
 給牒畫號	kip4  thiap8 ui7  ho7	100
 給現銷單	kip4 hian7  siau1  tuann1	100
 給田批	kip4  chhan5  phue1	100
-給發	kip4  huan4	100
+給發	kip4  huat4	100
 給給	hou7  hou7	100
 給給	tng5  tng5	100
 給給叫	kiap8  kiap8  kio3	101
@@ -77057,7 +77054,7 @@ sort: by_weight
 絮薇草	su3  bi5  chhau2	100
 絮袍	su3  pou5	100
 統一	thong2  it4	101
-統一發票	thong2  it4  huan4  phio3	100
+統一發票	thong2  it4  huat4  phio3	100
 統共	thong2  kiong7	101
 統出	thong2  chhut4	100
 統制	thong2  che3	100
@@ -77947,7 +77944,7 @@ sort: by_weight
 總幹事	chong2  kan3  su7	100
 總廠	chong2  chhiunn2	100
 總扯	chong2  chhe2	102
-總括	chong2  kuan4	100
+總括	chong2  kuat4	100
 總指揮	chong2  chi2  hui1	100
 總搦	chong2  lak8	100
 總攏	chong2  lang2	100
@@ -78129,7 +78126,7 @@ sort: by_weight
 繡靴	siu3  hia1	100
 繡鞋	siu3  ue5	100
 繡領	siu3  nia2	100
-繩之以法	chin5  chi1  i2  huan4	100
+繩之以法	chin5  chi1  i2  huat4	100
 繩墨	chin5  bek8	100
 繩目	chin5  bak8	100
 繩目竹	sin5  bak8  tek4	100
@@ -78280,46 +78277,46 @@ sort: by_weight
 纜車	lam2  chhia1	100
 缸仔	kng1  a2	100
 缺之值你	kheh4  chi1  tih8   li2	100
-缺乏	khuan4  hat8	100
-缺乏	khuan4  huan8	101
+缺乏	khuat4  hat8	100
+缺乏	khuat4  huat8	101
 缺人額	kheh4  lang5  giah8	101
 缺值你	kheh4  tih8   li2	100
 缺值你	khueh4  tih8  li2	101
-缺勤	khuan4  khun5	100
+缺勤	khuat4  khun5	100
 缺喙	khih4  chhui3	101
 缺嘴	khih4  chhui3	104
 缺囝	kheh4  kiann2	100
 缺囝	khueh4  kiann2	100
 缺囝化	kheh4  kiann2  hua3	100
 缺囝化	khueh4  kiann2  hua3	100
-缺失	khuan4  sit4	102
+缺失	khuat4  sit4	102
 缺子	kheh4  kiann2	101
-缺席	khuan4  sek8	102
-缺德	khuan4  tek4	100
-缺憾	khuan4  ham7	103
-缺旱	khuan4  huann7	100
-缺服	khuan4  hok8	100
+缺席	khuat4  sek8	102
+缺德	khuat4  tek4	100
+缺憾	khuat4  ham7	103
+缺旱	khuat4  huann7	100
+缺服	khuat4  hok8	100
 缺欠	kheh4  khiam3	100
 缺欠	khueh4  khiam3	102
-缺水	khuan4  chui2	100
+缺水	khuat4  chui2	100
 缺水份	khiam3  chiu2  hun1	100
 缺用	kheh4  eng7	100
 缺痕	khih4  hun5	101
-缺糧	khuan4  niu5	100
+缺糧	khuat4  niu5	100
 缺缺	kheh4  kheh4	101
 缺缺裂裂	khih4  khih4 lih8  lih8	100
 缺罕你	kheh4  han2   li2	100
-缺考	khuan4  kho2	100
+缺考	khuat4  kho2	100
 缺裾	khih4  ku1	100
 缺角	khih4  kak4	104
-缺課	khuan4  kho3	100
-缺貨	khuan4  hue3	100
-缺限	khuan4  han7	100
-缺陷	khuan4  ham7	101
+缺課	khuat4  kho3	100
+缺貨	khuat4  hue3	100
+缺限	khuat4  han7	100
+缺陷	khuat4  ham7	101
 缺額	kheh4  giah8	100
-缺額	khuan4  giah8	101
-缺食	khuan4  sit8	100
-缺點	khuan4  tiam2	103
+缺額	khuat4  giah8	101
+缺食	khuat4  sit8	100
+缺點	khuat4  tiam2	103
 缽仔	puah4  a2	100
 罄燈	kheng3  teng1	100
 罅颼	ha3  sau1	100
@@ -78400,7 +78397,7 @@ sort: by_weight
 罩得	ta3   teh4	100
 罩濛	ta3  bong5	101
 罩濛	tau3  bong5	100
-罩睛皮發炎	ta3  cheng1  phue5 huan4  iam7	100
+罩睛皮發炎	ta3  cheng1  phue5 huat4  iam7	100
 罩矇	ta3  bong5	100
 罩罩	ta3  ta3	100
 罩罩	tau3  tau3	100
@@ -78419,7 +78416,7 @@ sort: by_weight
 罪上加罪	chue7  siong7 ka1  chue7	100
 罪人	chue7  jin5	102
 罪人	chue7  lin5	100
-罪刑法定	chue7  heng5 huan4 teng7	100
+罪刑法定	chue7  heng5 huat4 teng7	100
 罪加一等	chue7 ka1  it4  teng2	100
 罪名	chue7  mia5	102
 罪嫌	chue7  hiam5	101
@@ -78447,24 +78444,24 @@ sort: by_weight
 置身度外	ti3  sin1  tou7  gua7	100
 置身無地	ti3  sin1 bo5  te7	100
 置靈	ti3  leng5	101
-罰俸	huan8  hong7	100
-罰則	huan8  chek4	100
-罰單	huan8  tuann1	101
-罰徛	huan8  khia7	101
-罰戲桌	huan8  hi3  toh4	100
-罰戲酒	huan8  hi3  chiu2	100
-罰桌	huan8  toh4	100
-罰檳榔	huan8  pin1  nng5	100
-罰款	huan8  khuan2	103
-罰燈綵	huan8  teng1  chhai2	100
-罰球	huan8  kiu5	101
-罰罪	huan8  chue7	100
-罰罰	huan8  huan8	100
-罰酒	huan8  chiu2	100
-罰金	huan8  kim1	102
-罰銀	huan8  gun5	100
-罰錢	huan8  chinn5	101
-罰鍰	huan8  huan5	100
+罰俸	huat8  hong7	100
+罰則	huat8  chek4	100
+罰單	huat8  tuann1	101
+罰徛	huat8  khia7	101
+罰戲桌	huat8  hi3  toh4	100
+罰戲酒	huat8  hi3  chiu2	100
+罰桌	huat8  toh4	100
+罰檳榔	huat8  pin1  nng5	100
+罰款	huat8  khuan2	103
+罰燈綵	huat8  teng1  chhai2	100
+罰球	huat8  kiu5	101
+罰罪	huat8  chue7	100
+罰罰	huat8  huat8	100
+罰酒	huat8  chiu2	100
+罰金	huat8  kim1	102
+罰銀	huat8  gun5	100
+罰錢	huat8  chinn5	101
+罰鍰	huat8  huan5	100
 署名	su2  mia5	100
 署理	su7  li2	100
 署長	su2  tiunn2	101
@@ -78738,7 +78735,7 @@ sort: by_weight
 美金	bi2  kim1	102
 美鈔	bi2  chhau1	100
 美食	bi2  sit8	101
-美髮	bi2  huan4	100
+美髮	bi2  huat4	100
 美麗	bi2  le7	102
 美麗島	bi2  le7  to2	101
 美麗島事件	bi2  le7  to2 su7  kiann7	100
@@ -78905,7 +78902,7 @@ sort: by_weight
 翕倒人	hip4  to2  lang5	100
 翕像	hip4  siong7	101
 翕像機	hip4  siong7  ki1	100
-翕像法	hip4  siong7  huan4	100
+翕像法	hip4  siong7  huat4	100
 翕像館	hip4  siong7  kuan2	100
 翕卵	hip4  nng7	100
 翕合	hip4  hap8	100
@@ -79225,7 +79222,7 @@ sort: by_weight
 老手	lau2  chhiu2	102
 老手	lau7  chhiu2	101
 老把戲	lau7  pa2  hi3	100
-老拙	lo2  chuan4	100
+老拙	lo2  chuat4	100
 老指	lo2  chainn2	100
 老擋戇	lau7  tong3  gong7	100
 老旦	lau7  tuann3	100
@@ -79249,7 +79246,7 @@ sort: by_weight
 老樹	lau7  chhiu7	100
 老欉	lau7  chang5	100
 老款	lau7  khuan2	104
-老歌訣	lau7  ko1  kuan4	100
+老歌訣	lau7  ko1  kuat4	100
 老步	lau7  pou7	100
 老步在	lau7  pou7  chai7	103
 老步在	lau7  pou7  chhai7	100
@@ -80417,7 +80414,7 @@ sort: by_weight
 肺部	hi3  pou7	101
 肺體加答兒	hi3  the2 ka1  tap4  ji5	100
 肺體氣腫	hi3  the2 khi3 tiong3	100
-肺體發炎	hi3  the2 huan4  iam7	100
+肺體發炎	hi3  the2 huat4  iam7	100
 肺體積血	hi3  the2 chek4  hiat4	100
 背倫	pue7  lun5	100
 背冊	pue7  chheh4	101
@@ -80447,7 +80444,7 @@ sort: by_weight
 背條肉	phiann1  liau5  bah4	100
 背棄	pue7  khi3	100
 背水陣	pue7  sui2  tin7	100
-背法	pue7  huan4	100
+背法	pue7  huat4	100
 背祖	pue7  chou2	101
 背約	pue7  iok4	103
 背索	pe7  soh4	100
@@ -80562,7 +80559,7 @@ sort: by_weight
 胡蠅草	hou5  sin5  chhau2	101
 胡蠅虎	hou5  sin5  hou2	102
 胡蠅黐	hou5  sin5  thi1	101
-胡說	hou5  suan4	101
+胡說	hou5  suat4	101
 胡適	hou5  sek4	100
 胭脂	ian1  chi1	104
 胭脂樹	ian1  chi1  chhiu7	101
@@ -80677,7 +80674,7 @@ sort: by_weight
 脈管	meh8  kng2	100
 脈管	meh8  kong2	101
 脈股	meh8  kou2	100
-脈脫	meh8  thuan4	100
+脈脫	meh8  thuat4	100
 脈跳	meh8  thiau3	100
 脊椎	chek4  chui1	101
 脊椎骨	chek4  chui1  kut4	100
@@ -80687,71 +80684,71 @@ sort: by_weight
 脚母草	kha1  bu2  chhau2	100
 脚目草	kha1  bak4  chhau2	100
 脫一下褲	thng3  chit8  e7 khou3	100
-脫不離	thuan4  put4  li7	100
-脫五形	thuan4  ngou2  heng5	100
-脫仔	thuan4  a2	100
-脫俗	thuan4  siok8	100
+脫不離	thuat4  put4  li7	100
+脫五形	thuat4  ngou2  heng5	100
+脫仔	thuat4  a2	100
+脫俗	thuat4  siok8	100
 脫先	thut4  sian1	100
 脫光光	thng3  kng1  kng1	100
-脫免	thuan4  bian2	100
-脫凡	thuan4  huan5	100
-脫凡胎	thuan4  huan5  thai1	100
-脫出	thuan4  chhut4	100
+脫免	thuat4  bian2	100
+脫凡	thuat4  huan5	100
+脫凡胎	thuat4  huan5  thai1	100
+脫出	thuat4  chhut4	100
 脫剝裼	thng3  pak4  theh4	100
-脫化	thuan4  hua3	106
-脫售	thuan4  siu5	100
+脫化	thuat4  hua3	106
+脫售	thuat4  siu5	100
 脫嘴	thut4  chhui3	100
-脫套	thuan4  tho3	100
+脫套	thuat4  tho3	100
 脫孝	thng3  ha3	100
 脫尺	thut4  chhe7	101
 脫尻桌	thng3  kha1  toh4	100
-脫帽	thuan4  bo7	101
+脫帽	thuat4  bo7	101
 脫底	thng3  tue2	100
-脫手	thuan4  chhiu2	101
+脫手	thuat4  chhiu2	101
 脫日子	thuah4  lit8  chi2	100
-脫服	thuan4  hok8	100
+脫服	thuat4  hok8	100
 脫枷	thng3  ke5	100
 脫棍	thut4  kun3	100
 脫殼	thng3  khak4	101
-脫殼	thuan4  khak4	100
+脫殼	thuat4  khak4	100
 脫毛	thng3  mng5	100
-脫氣	thuan4  khi3	101
-脫水	thuan4  chui2	101
-脫水機	thuan4  chui2  ki1	100
-脫營	thuan4  iann5	100
-脫班	thuan4  pan1	100
-脫產	thuan4  san2	100
-脫疽	thuan4  chu1	100
-脫皮	thuan4  phue5	100
-脫種	thuan4  cheng2	102
-脫稿	thuan4  ko2	100
+脫氣	thuat4  khi3	101
+脫水	thuat4  chui2	101
+脫水機	thuat4  chui2  ki1	100
+脫營	thuat4  iann5	100
+脫班	thuat4  pan1	100
+脫產	thuat4  san2	100
+脫疽	thuat4  chu1	100
+脫皮	thuat4  phue5	100
+脫種	thuat4  cheng2	102
+脫稿	thuat4  ko2	100
 脫窗	thuah4  thang1	104
 脫站	thng3  cham7	100
 脫箠	thut4  chhe5	104
 脫箠	thut4  chhue5	106
-脫節	thuan4  chiat4	100
-脫籍	thuan4  chek8	101
-脫線	thuan4  suann3	107
-脫罪	thuan4  chue7	100
-脫肛	thuan4  kong1	100
-脫胎	thuan4  thai1	100
+脫節	thuat4  chiat4	100
+脫籍	thuat4  chek8	101
+脫線	thuat4  suann3	107
+脫罪	thuat4  chue7	100
+脫肛	thuat4  kong1	100
+脫胎	thuat4  thai1	100
 脫胎	thut8  the1	102
-脫脂牛奶	thuan4  chi1  gu5  leng1	100
-脫脂綿	thuan4  chi1  mi5	100
+脫脂牛奶	thuat4  chi1  gu5  leng1	100
+脫脂綿	thuat4  chi1  mi5	100
 脫脫	thng3  thng3	100
-脫脫	thuan4  thuan4	100
+脫脫	thuat4  thuat4	100
 脫脫	thuinn3  thuinn3	100
 脫脫	thut4  thut4	100
 脫脫	thut8  thut8	101
 脫腳	thut4  kha1	100
-脫腸	thuan4  tng5	100
+脫腸	thuat4  tng5	100
 脫腸頭	thut4  tng5  thau5	100
 脫腸頭	thut8  tng5  thau5	100
 脫臼	thut4  khu7	100
 脫臼	thut8  khu7	100
-脫色	thuan4  sek4	100
+脫色	thuat4  sek4	100
 脫苦皮	thng3  khou2  phe5	100
-脫衣舞	thuan4  i1  bu2	101
+脫衣舞	thuat4  i1  bu2	101
 脫裡	thut8  li2	100
 脫裼	thng3  theh4	100
 脫裼裼	thng3  theh4  theh4	100
@@ -80761,31 +80758,31 @@ sort: by_weight
 脫褲班	thng3  khou3  pan1	100
 脫赤腳	thng3  chhiah4  kha1	100
 脫赤裸	thng3  chhiah4  theh4	100
-脫走	thuan4  chau2	102
+脫走	thuat4  chau2	102
 脫走	thut4  chau2	100
 脫走	thut8  chau2	101
-脫走離	thuan4  chau2  li7	102
+脫走離	thuat4  chau2  li7	102
 脫路	thut4  lou7	100
-脫身	thuan4  sin1	102
+脫身	thuat4  sin1	102
 脫身	thut8  sin1	101
-脫身走	thuan4  sin1  chau2	100
-脫身離	thuan4  sin1  li7	101
-脫軌	thuan4  khui2	100
+脫身走	thuat4  sin1  chau2	100
+脫身離	thuat4  sin1  li7	101
+脫軌	thuat4  khui2	100
 脫輦	thut4  lian2	100
 脫輪	thut4  lun5	100
 脫輪	thut8  lun5	100
-脫退	thuan4  the3	100
-脫退	thuan4  thue3	100
-脫逃	thuan4  to5	101
+脫退	thuat4  the3	100
+脫退	thuat4  thue3	100
+脫逃	thuat4  to5	101
 脫過	thuah4  kue3	100
 脫門	thng3  mng5	100
-脫險	thuan4  hiam2	101
-脫離	thuan4  li7	102
-脫離束縳	thuan4  li7  sok4  pak4	100
-脫離關係	thuan4  li7  kuan1  he7	100
+脫險	thuat4  hiam2	101
+脫離	thuat4  li7	102
+脫離束縳	thuat4  li7  sok4  pak4	100
+脫離關係	thuat4  li7  kuan1  he7	100
 脫骨	thut8  kut4	100
 脫鬃	thng3  chang1	100
-脫黨	thuan4  tong2	101
+脫黨	thuat4  tong2	101
 脫齒	thng3  khi2	100
 脬囊	pha1  long5	100
 脬囊	phau1  long5	100
@@ -81056,8 +81053,8 @@ sort: by_weight
 腳數	kioh4  siau3	106
 腳數戲	kha1  siau3  hi3	100
 腳斗仔	kha1  tau2  a2	100
-腳斡入	kha1  uan4  jip8	100
-腳斡彎	kha1  uan4  uan1	100
+腳斡入	kha1  uat4  jip8	100
+腳斡彎	kha1  uat4  uan1	100
 腳斷	kha1  thng7	100
 腳曲	kha1  khiau1	101
 腳本	kha1  pun2	100
@@ -81205,7 +81202,7 @@ sort: by_weight
 腸病毒	tng5  penn7  tok8	100
 腸病毒	tng5  pinn7  tok8	100
 腸癰	tiong5  eng1	101
-腸發炎	tng5  huan4  iam7	100
+腸發炎	tng5  huat4  iam7	100
 腸窒扶斯	tiong5  chek4  hu5  su1	100
 腸肚	tng5  tou7	104
 腸胃炎	tng5  ui7  iam7	100
@@ -81409,7 +81406,7 @@ sort: by_weight
 臆測	ek4  chhek4	101
 臆測	ioh4  chhek4	100
 臆著	ioh4  tioh8	100
-臆說	ek4  suan4	100
+臆說	ek4  suat4	100
 臆謎	ioh4  bi7	100
 臆謎猜	ioh4  bi7  chhai1	100
 臆謎猜	ioh4 bi5  chhai1	100
@@ -81430,8 +81427,8 @@ sort: by_weight
 臘刺	lah8  chhi3	100
 臘日	lah8  jit8	104
 臘月	lah8  gueh8	100
-臘月	lap8  guan8	100
-臘月	liap8  guan8	100
+臘月	lap8  guat8	100
+臘月	liap8  guat8	100
 臘梅	lah8  mui5	100
 臘油	lah8  iu5	100
 臘物	lah8  but8	100
@@ -81580,7 +81577,7 @@ sort: by_weight
 自我安慰	chu7  ngou2  an1  ui3	100
 自我實現	chu7  ngou2 sit8  hian7	100
 自投羅網	chu7  tau5  lo5  bang7	101
-自拔	chu7  puan8	100
+自拔	chu7  puat8	100
 自持	chu7  chhi5	101
 自按呢	chu7  an2  ne1	103
 自按呢	chu7  an3  ne1	101
@@ -81604,11 +81601,11 @@ sort: by_weight
 自此	chu7  chia1	100
 自殺	chu7  sat4	103
 自民黨	chu7  bin5  tong2	100
-自決	chu7  kuan4	101
+自決	chu7  kuat4	101
 自治	chu7  ti7	102
 自治區	chu7  ti7  khu1	100
 自治權	chu7  ti7  kuan5	100
-自治法	chu7  ti7  huan4	100
+自治法	chu7  ti7  huat4	100
 自治縣	chu7  ti7  kuan7	100
 自治體	chu7  ti7  the2	100
 自消容	chu7  siau1  iong5	100
@@ -81650,8 +81647,8 @@ sort: by_weight
 自由車	chu7  iu5  chhia1	100
 自當	chu7  tong1	100
 自病	chu7  peng7	100
-自發	chu7  huan4	100
-自發性	chu7  huan4  seng3	100
+自發	chu7  huat4	100
+自發性	chu7  huat4  seng3	100
 自白	chu7  peh8	100
 自白	chu7  pek8	100
 自白書	chu7  pek8  su1	100
@@ -81992,7 +81989,7 @@ sort: by_weight
 臭錢	chhau3  chinn5	100
 臭鐵	chhau3  thih4	100
 臭雪文	chhau3  sap4  bun5	100
-臭雪文	chhau3  suan4  bun5	100
+臭雪文	chhau3  suat4  bun5	100
 臭青	chhau3  chhenn1	100
 臭青仔	chhau3  chhenn1  a2	100
 臭青公	chhau3  chhenn1  kong1	100
@@ -82294,7 +82291,7 @@ sort: by_weight
 舉止	ki2  chi2	100
 舉止	ku2  chi2	100
 舉用	ku2  iong7	100
-舉發	ki2  huan4	100
+舉發	ki2  huat4	100
 舉目	giah8  bak8	100
 舉目無親	kiah8  bak8 bo5  chhin1	100
 舉目無親	ku2  bok8 bu5  chhin1	100
@@ -82522,7 +82519,7 @@ sort: by_weight
 舞樂	bu2  gak8	100
 舞步	bu2  pou7	102
 舞池	bu2  ti5	101
-舞法天女	bu2  huan4  thian1  lu2	100
+舞法天女	bu2  huat4  thian1  lu2	100
 舞男	bu2  lam5	100
 舞翼	bu2  sit8	103
 舞者	bu2  chia2	100
@@ -82567,7 +82564,7 @@ sort: by_weight
 航運	hang5  un7	101
 航道	hang5  to7	100
 航點	hong5  tiam2	100
-般若	puan8  jia2	101
+般若	puat8  jia2	101
 舵仔	tua7  a2	100
 舵公	tai7  kong1	106
 舵剡	tua7  siam2	100
@@ -82904,7 +82901,7 @@ sort: by_weight
 花堵	hue1  tou2	100
 花壇	hue1  tuann5	101
 花壇鄉	hue1  tuann5  hiong1	100
-花天月地	hua1  thian1 guan8  te7	100
+花天月地	hua1  thian1 guat8  te7	100
 花天酒地	hua1  thian1 chiu2  te7	100
 花娘	hue1  niu5	101
 花婆	hue1  po5	100
@@ -82958,7 +82955,7 @@ sort: by_weight
 花旦	hue1  tuann3	101
 花會	hue1  he7	100
 花會場	hue1  hue7  tiunn5	100
-花月	hua1  guan8	100
+花月	hua1  guat8	100
 花朝	hua1  tiau1	100
 花期	hue1  ki5	100
 花木	hue1  bak8	100
@@ -83555,7 +83552,7 @@ sort: by_weight
 茄仔色	kio5  a2  sek4	101
 茄冬樹	ka1  tang1  chhiu7	100
 茄投	ka1  tau5	100
-茄拔	ka1  puan8	100
+茄拔	ka1  puat8	100
 茄朾	ka1  tiann1	100
 茄榱	ka1  sui1	100
 茄欉	kio5  chang5	100
@@ -83691,7 +83688,7 @@ sort: by_weight
 茶晶	te5  chinn1	100
 茶會	te5  hue7	101
 茶末	te5  buah8	100
-茶末	te5  buan8	101
+茶末	te5  buat8	101
 茶杯	te5  pue1	102
 茶果	te5  ko2	100
 茶枝	te5  ki1	101
@@ -83735,7 +83732,6 @@ sort: by_weight
 茶盞	te5  chuann2	100
 茶盤	te5  puann5	102
 茶碎	te5  chhui3	100
-茶碟	te5  ti8	100
 茶磨	te5  bo7	100
 茶禮	te5  le2	100
 茶箍	te5  khou1	102
@@ -83887,7 +83883,7 @@ sort: by_weight
 草地倯	chhau2  tue7  song5	101
 草地傖	chhau2  te7  song5	102
 草地氣	chhau2  tue7  khi3	100
-草地發靈芝	chhau2  te7 huan4 leng5  chi1	100
+草地發靈芝	chhau2  te7 huat4 leng5  chi1	100
 草地稅	chhau2  tue7  se3	100
 草地親情食飽著行	chhau2  te7 chhin1  chiann5  chiah8  pa2 tioh8 kiann5	100
 草坪	chhau2  pinn5	100
@@ -83945,7 +83941,7 @@ sort: by_weight
 草氈	chhau2  sinn1	100
 草氣	chhau2  khi3	101
 草沖	chhau2  chheng3	100
-草法	chho2  huan4	100
+草法	chho2  huat4	100
 草泥馬	chho2  ni5  ma2	100
 草海桐	chho2  hai2  tong5	100
 草清	chho2  chheng1	100
@@ -84123,7 +84119,7 @@ sort: by_weight
 荒野	hong1  ia2	100
 荒頭狗	hong1  thau5  kau2	101
 荔城	nai7  siann5	100
-荔月	nai7  guan8	100
+荔月	nai7  guat8	100
 荔枝	nai7  chi1	103
 荔枝角	lai7  chi1  kak4	100
 荔枝角	nai6  chi1  kak4	100
@@ -84153,7 +84149,7 @@ sort: by_weight
 荷包蟯	hau5  pau1  gio5	101
 荷包鬚	hau5  pau1  chhiu1	100
 荷包魚翅	o1  pau1 hi5  chhi3	100
-荷月	o1  guan8	100
+荷月	o1  guat8	100
 荷樹	ho3  siu7	100
 荷樹	ho5  chhiu7	100
 荷爾蒙	ho5  ni2  bong5	101
@@ -84327,7 +84323,7 @@ sort: by_weight
 菊仔	kiok4  a2	100
 菊元百貨	kiok4  guan5 pah4  hue3	100
 菊座南瓜	kiok4  cho7 lam5  kua1	100
-菊月	kiok4  guan8	100
+菊月	kiok4  guat8	100
 菊秋	kiok4  chhiu1	100
 菊花	kak4  hue1	100
 菊花	kek4  hue1	102
@@ -84491,11 +84487,11 @@ sort: by_weight
 菜鹹	chhai3  kiam5	105
 菜龜仔	chhai3  ku1  a2	100
 菝仔	pat8  a2	100
-菝仔	puan8  a2	101
+菝仔	puat8  a2	101
 菝仔屎	pat8  a2  sai2	100
 菝仔林	pat8  a2  na5	100
 菝仔汁	pat8  a2  chiap4	100
-菝仔汁	puan8  a2  chiap4	100
+菝仔汁	puat8  a2  chiap4	100
 菝仔票	pat8  a2  phio3	100
 菝仔草	pat8  a2  chhau2	100
 菟絲	thou3  si1	100
@@ -84646,7 +84642,7 @@ sort: by_weight
 萬年龜	ban7  ni5  ku1	100
 萬幸	ban7  heng7	104
 萬弩箭	ban7  lou7  chinn3	100
-萬弩箭齊發	ban7 lou2 chinn3 che5 huan4	100
+萬弩箭齊發	ban7 lou2 chinn3 che5 huat4	100
 萬惡	ban7  ok4	100
 萬惡淫為首	ban7  ok4 im5 ui5  siu2	100
 萬應膏	ban7  eng3  ko1	100
@@ -85223,7 +85219,7 @@ sort: by_weight
 著毒	tioh8  tok8	102
 著水蛆	tioh8  chui2  chhi1	100
 著水蛆	tioh8  chui2  chhu1	100
-著法	tioh8  huan4	101
+著法	tioh8  huat4	101
 著火	tioh8  hue2	100
 著火	toh8  he2	100
 著火	toh8  hue2	104
@@ -85377,7 +85373,7 @@ sort: by_weight
 葬棺	chong3  kuan1	100
 葬活穴	chong3  uah8  hiat8	100
 葬葬	chong3  chong3	100
-葭月	ka1  guan8	100
+葭月	ka1  guat8	100
 葱仔	chhang1  a2	100
 葱頭	chhang1  thau5	100
 葵扇	khe1  sinn3	101
@@ -85435,7 +85431,7 @@ sort: by_weight
 蒲去	pou5  khi3	100
 蒲團	phou5  thuan5	100
 蒲團	pou5  thuan5	100
-蒲月	pou5  guan8	100
+蒲月	pou5  guat8	100
 蒲桃	pou5  tho5	101
 蒲節	pou5  chiat4	100
 蒲英	pou5  eng1	101
@@ -85450,7 +85446,7 @@ sort: by_weight
 蒸影	chheng3  eng2	100
 蒸氣	cheng1  khi3	102
 蒸氣	chheng3  khi3	100
-蒸發	cheng1  huan4	101
+蒸發	cheng1  huat4	101
 蒸茶	chheng3  te5	100
 蒸蒸	chheng3  chheng3	100
 蒸蒸日上	cheng1  cheng1  jit8  siang7	100
@@ -85474,7 +85470,7 @@ sort: by_weight
 蒿苳	ko1  tang1	100
 蒿茼	ko1  tang5	100
 蓄傢伙	hak4  ke1  hue2	101
-蓄勢待發	thiok4  se3 tai7  huan4	100
+蓄勢待發	thiok4  se3 tai7  huat4	100
 蓄厝	hak4  chhu3	101
 蓄厝地	hak4 chhu3  te7	100
 蓄嫁妝	hak4  ke3  chng1	100
@@ -85638,7 +85634,7 @@ sort: by_weight
 蔓荊子	ban7  keng1  chi2	101
 蔓菁	ban7  chheng1	101
 蔓蔓	mua7  mua7	100
-蔓越莓	ban7  uan8  mui5	100
+蔓越莓	ban7  uat8  mui5	100
 蔗刀	chia3  to1	100
 蔗園	chia3  hng5	100
 蔗婆	chia3  po5	100
@@ -85922,7 +85918,7 @@ sort: by_weight
 薦人	chian3  lang5	100
 薦任	chian3  jim7	100
 薦引	chian3  in2	100
-薦拔	chian3  puan8	100
+薦拔	chian3  puat8	100
 薦書	chian3  su1	100
 薦盒	chian3  ap8	100
 薦盒格	chian3  ap8  keh4	100
@@ -86033,7 +86029,7 @@ sort: by_weight
 藏名化	chhang3  mia5  hua3	100
 藏怨	khng3  uan3	100
 藏意	chong5  i3	100
-藏拙	chong5  chuan4	100
+藏拙	chong5  chuat4	100
 藏書	chong5  su1	101
 藏棺	khng3  kuan1	100
 藏步	chhang3  pou7	100
@@ -86522,7 +86518,7 @@ sort: by_weight
 處暑	chhu3  si2	100
 處暑	chhu3  su2	102
 處死	chhu2  si2	100
-處決	chhu2  kuan4	101
+處決	chhu2  kuat4	101
 處治	chhu2  ti7	100
 處治	chhu3  ti7	103
 處理	chhu2  li2	102
@@ -86531,8 +86527,8 @@ sort: by_weight
 處罪	chhu2  chue7	100
 處置	chhu2  ti3	102
 處置	chhu3  ti3	101
-處罰	chhu2  huan8	103
-處罰	chhu3  huan8	100
+處罰	chhu2  huat8	103
+處罰	chhu3  huat8	100
 處處	chhu3  chhu3	100
 處長	chhu3  tiunn2	101
 虛假	hi1  ke2	100
@@ -86587,7 +86583,7 @@ sort: by_weight
 虛線	hi1  suann3	100
 虛聞	hu1  bun5	100
 虛肨	hi1  hang3	100
-虛脫	hi1  thuan4	100
+虛脫	hi1  thuat4	100
 虛腳	hu1  kha1	100
 虛花	hi1  hua1	100
 虛荏	hi1  lam2	101
@@ -86658,7 +86654,7 @@ sort: by_weight
 虧欠	khui1  khiam3	102
 虧空	khui1  khong1	101
 虧累	khui1  lui7	100
-虧缺	khui1  khuan4	100
+虧缺	khui1  khuat4	100
 虧虧	ui1  ui1	100
 虧負	khui1  hu7	100
 虫字旁	thiong5  ji7  peng5	100
@@ -86846,7 +86842,7 @@ sort: by_weight
 蛘蜅西	iunn5  pou5  sai1	100
 蛛絲馬跡	tu1  si1  ma2  jiah4	100
 蛜蝛	i1  ui1	100
-蛞蝓	khuan4  ju5	100
+蛞蝓	khuat4  ju5	100
 蛟龍	kau1  leng5	101
 蛟龍	kau1  liong5	100
 蛣蛚	kiat4  le1	101
@@ -86967,7 +86963,7 @@ sort: by_weight
 蜜房	bit8  pang5	100
 蜜房	bit8  pou5	100
 蜜料	bit8  liau7	100
-蜜月	bit8  guan8	101
+蜜月	bit8  guat8	101
 蜜柑	bit8  kam1	101
 蜜柚	bit4  iu7	100
 蜜柚	bit8  iu7	100
@@ -87502,7 +87498,7 @@ sort: by_weight
 行事曆	heng5  su7  lek8	100
 行云	kiann5  un5	100
 行人	heng5  jin5	101
-行人穿越道	heng5  jin5 chhuan1  uan4  to7	100
+行人穿越道	heng5  jin5 chhuan1  uat4  to7	100
 行伊好	kiann5  i1  ho2	100
 行伍	hang5  ngou2	102
 行使	heng5  su2	101
@@ -87575,7 +87571,7 @@ sort: by_weight
 行放	kiann5  pang3	103
 行政	heng5  cheng3	102
 行政區	heng5  cheng3  khu1	100
-行政法院	heng5  cheng3  huan4  inn7	100
+行政法院	heng5  cheng3  huat4  inn7	100
 行政院	heng5  cheng3  inn7	100
 行政院長	heng5  cheng3  inn7  tiunn2	100
 行敢若飛	kiann5  kann2  na2  pe1	100
@@ -87830,7 +87826,7 @@ sort: by_weight
 衣甕	ui1  ang3	100
 衣箱	i1  siunn1	100
 衣缽	i1  puah4	100
-衣缽	i1  puan4	100
+衣缽	i1  puat4	100
 衣裙	i1  kun5	100
 衣裳	i1  chiunn5	103
 衣裳槌	i1  chiunn5  thui5	100
@@ -87880,7 +87876,7 @@ sort: by_weight
 表樣	piau2  iunn7	100
 表氣	piau2  khi3	100
 表汗	piau2  han7	101
-表決	piau2  kuan4	101
+表決	piau2  kuat4	101
 表演	piau2  ian2	101
 表演賽	piau2  ian2  sai3	100
 表率	piau2  soai3	100
@@ -88263,7 +88259,7 @@ sort: by_weight
 裁可	chhai5  kho2	100
 裁員	chhai5  guan5	100
 裁員	chhai5  uan5	101
-裁奪	chhai5  tuan8	101
+裁奪	chhai5  tuat8	101
 裁定	chhai5  teng7	101
 裁少	chhai5  chio2	101
 裁尺	chhai5  chhioh4	100
@@ -88273,7 +88269,7 @@ sort: by_weight
 裁斷	chhai5  tuan3	100
 裁斷	chhai5  tuan7	100
 裁板	chhai5  pan2	100
-裁決	chhai5  kuan4	102
+裁決	chhai5  kuat4	102
 裁減	chhai5  kiam2	101
 裁示	chhai5  si7	101
 裁紙	chhai5  chua2	100
@@ -88284,7 +88280,7 @@ sort: by_weight
 裁縫師傅	chhai5  hong5  sai1  hu7	100
 裁縫店	chhai5  hong5  tiam3	101
 裁縫桌	chhai5  hong5  toh4	101
-裁縫法	chhai5  hong5  huan4	100
+裁縫法	chhai5  hong5  huat4	100
 裁縫車	chai5  hong5  chhia1	100
 裁縫車	chhai5  hong5  chhia1	100
 裁處	chhai5  chhu3	100
@@ -88370,7 +88366,7 @@ sort: by_weight
 補欠	pou2  khiam3	101
 補正	pou2  cheng3	101
 補水	pou2  chui2	100
-補法	pou2  huan4	100
+補法	pou2  huat4	100
 補添	pou2  thiam1	100
 補添	pou2  thinn1	104
 補漆麵	pou2  chhat4  mi7	100
@@ -88379,7 +88375,7 @@ sort: by_weight
 補物	pou2  mih8	101
 補甕	pou2  ang3	100
 補用	pou2  eng7	100
-補發	pou2  huan4	100
+補發	pou2  huat4	100
 補皮鞋	pou2  phue5  e5	100
 補眠	pou2  bin5	100
 補破網	pou2  phua3  bang7	100
@@ -88420,7 +88416,7 @@ sort: by_weight
 補運錢	pou2  un7  chinn5	101
 補選	pou2  suan2	100
 補遺	pou2  ui5	100
-補闕	pou2  khuan4	100
+補闕	pou2  khuat4	100
 補陽	pou2  iong5	100
 補雨傘	pou2  hou7  suann3	100
 補鞋	pou2  e5	100
@@ -88487,7 +88483,7 @@ sort: by_weight
 製圖	che3  tou5	100
 製成	che3  seng5	101
 製播	che3  pou3	100
-製法	che3  huan4	102
+製法	che3  huat4	102
 製炒	che3  chha2	100
 製片	che3  phinn3	101
 製版	che3  pan2	100
@@ -88519,7 +88515,7 @@ sort: by_weight
 複查	hok4  cha1	100
 複檢	hok8  kiam2	100
 複歌	hok8  kua1	100
-複決	hok8  kuan4	100
+複決	hok8  kuat4	100
 複級	hok4  kip4	100
 複習	hok8  sip8	100
 複製	hok4  che3	100
@@ -88602,7 +88598,7 @@ sort: by_weight
 褪赤跤對死穿皮鞋	thng3  chhiah4  kha1 tui3 si2 chheng7 phue5  e5	100
 褪躘	thun3  liong2	100
 褪齒	thng3  khi2	101
-褫奪	thi2  tuan8	100
+褫奪	thi2  tuat8	100
 褫開	thi2   khui1	100
 褲丈	khou3  tng7	100
 褲套	khou3  tho3	100
@@ -88871,7 +88867,7 @@ sort: by_weight
 要處	iau3  chhu3	100
 要衝	iau3  chhiong1	101
 要角	iau3  kak4	100
-要訣	iau3  kuan4	101
+要訣	iau3  kuat4	101
 要詞	iau3  su5	100
 要談	iau3  tam5	100
 要路	iau3  lou7	100
@@ -88883,7 +88879,7 @@ sort: by_weight
 覆地	phak4  te7	100
 覆地弓身	phak4  te7  keng1  sin1	100
 覆審	hok4  sim2	100
-覆審法院	hok4  sim2  huan4  inn7	100
+覆審法院	hok4  sim2  huat4  inn7	100
 覆山	phak4  suann1	100
 覆手	phak4  chhiu2	100
 覆文	hok4  bun5	100
@@ -89274,7 +89270,7 @@ sort: by_weight
 觀戰	kuan1  chian3	100
 觀摩	kuan1  mou5	101
 觀星臺	kuan1  seng1  tai5	100
-觀月會	kuan1  guan8  hue7	100
+觀月會	kuan1  guat8  hue7	100
 觀望	kuan1  bong7	102
 觀機見識	kuan1  ki1 kian3  sek4	100
 觀氣色	kuan1 khi3  sek4	100
@@ -89286,7 +89282,7 @@ sort: by_weight
 觀禮	kuan1  le2	100
 觀覽	kuan1  lam2	100
 觀覽器	kuan1  lam2  khi3	100
-觀說	kuan1  suan4	100
+觀說	kuan1  suat4	100
 觀護人	kuan1  hou7  jin5	100
 觀象臺	kuan1  siong7  tai5	100
 觀賞	kuan1  siong2	101
@@ -89368,7 +89364,7 @@ sort: by_weight
 角鷹	kak4  eng1	102
 角鼓	kak4  kou2	100
 角齒	kak4  khi2	104
-觜月猴	chu1  guan8  hou5	100
+觜月猴	chu1  guat8  hou5	100
 解僱	kai2  kou3	101
 解儌	kai2  kiau2	100
 解儌	kue2  khio3	100
@@ -89423,7 +89419,7 @@ sort: by_weight
 解氣	kai2  khui3	101
 解氣	thau2  khi3	100
 解氣	thau2  khui3	100
-解決	kai2  kuan4	102
+解決	kai2  kuat4	102
 解洗	kue2  se2	100
 解洗	kue2  sue2	100
 解溶	kai2  iunn5	100
@@ -89448,7 +89444,7 @@ sort: by_weight
 解聘	kai2  pheng3	100
 解職	kai2  chit4	101
 解股	thau2  kou2	100
-解脫	kai2  thuan4	102
+解脫	kai2  thuat4	102
 解脫	thau2  thuah4	100
 解脾藥	kue2  pi5  ioh8	100
 解薰	kai2  hun1	100
@@ -89460,7 +89456,7 @@ sort: by_weight
 解解	thau2  thau2	100
 解誓	kue2  chua7	100
 解說	kai2  seh4	100
-解說	kai2  suan4	100
+解說	kai2  suat4	100
 解說	kai2  sueh4	102
 解說	ke2  sueh4	100
 解說	kue2  seh4	100
@@ -89510,11 +89506,11 @@ sort: by_weight
 觸景	chhiok4  keng2	100
 觸景	chhok4  keng2	101
 觸椵	tak4  khe5	104
-觸法	chhiok4  huan4	100
+觸法	chhiok4  huat4	100
 觸牙	tak4  ge5	105
 觸犯	chhiok4  huan7	102
 觸現錢	tiak4  hian7  sian2	100
-觸發	chhiok4  huan4	100
+觸發	chhiok4  huat4	100
 觸看	chhok4  khuann3	100
 觸碇	tak4  tiann3	100
 觸磕	tak4  khap8	104
@@ -89603,7 +89599,7 @@ sort: by_weight
 訂貨	teng7  hue3	100
 訂金	tiann7  kim1	100
 訂閱	teng3  iat8	100
-訂閱	teng7  uan8	100
+訂閱	teng7  uat8	100
 訃聞	hu3  bun5	100
 訃音	hu3  im1	102
 訃音帖	hu3  im1  thiap4	100
@@ -89652,7 +89648,7 @@ sort: by_weight
 討人情	tho2  lin5  cheng5	100
 討仇	tho2  siu5	100
 討份	tho2  hun7	100
-討伐	tho2  huan8	100
+討伐	tho2  huat8	100
 討來	tho2   lai5	100
 討保	tho2  po2	100
 討倒轉	tho2  to3  tng2	101
@@ -89812,7 +89808,7 @@ sort: by_weight
 記數	ki3  siau3	101
 記椆	ki3  tiau5	100
 記椆椆	ki3  tiau5  tiau5	101
-記法	ki3  huan4	100
+記法	ki3  huat4	100
 記神	ki3  sin5	100
 記章	ki3  chiong1	101
 記者	ki3  chia2	102
@@ -89835,12 +89831,12 @@ sort: by_weight
 訟庭	siong7  teng5	100
 訟棍	siong7  kun3	101
 訟費	siong7  hui3	100
-訣別	kuan4  piat8	100
-訣竅	kuan4  khiau3	100
-訣絕	kuan4  chuan4	100
-訣絕	kuan4  chuan8	100
-訣說	kuan4  suan4	100
-訣頭	kuan4  thau5	100
+訣別	kuat4  piat8	100
+訣竅	kuat4  khiau3	100
+訣絕	kuat4  chuat4	100
+訣絕	kuat4  chuat8	100
+訣說	kuat4  suat4	100
+訣頭	kuat4  thau5	100
 訪友	hong2  iu2	100
 訪問	hong2  bun7	102
 訪客	hong2  kheh4	101
@@ -89870,7 +89866,7 @@ sort: by_weight
 設景	siat4  keng2	105
 設暗計	siat4  am3  ke3	100
 設有	siat4  iu2	100
-設法	siat4  huan4	102
+設法	siat4  huat4	102
 設立	siat4  lip8	102
 設筵	siat4  ian5	100
 設緣投	siat4  ian5  tau5	102
@@ -90139,7 +90135,7 @@ sort: by_weight
 誄辭	lui2  su5	100
 誅殺	tu1  sat4	100
 誅滅	tu1  biat8	100
-誅罰	tu1  huan8	100
+誅罰	tu1  huat8	100
 誅誅	tu1  tu1	100
 誇功	khua1  kong1	100
 誇口	khua1  khau2	104
@@ -90245,8 +90241,8 @@ sort: by_weight
 語根	gu2  kun1	100
 語氣	gi2  khi3	101
 語氣	gu2  khi3	100
-語法	gi2  huan4	101
-語法	gu2  huan4	101
+語法	gi2  huat4	101
+語法	gu2  huat4	101
 語源學	gi2  guan5  hak8	100
 語素	gi2  sou3	100
 語素文字	gi2  sou3  bun5  ji7	100
@@ -90332,8 +90328,8 @@ sort: by_weight
 誦經	siong7  keng1	102
 誦經禮佛	siong7  keng1 le2  hut8	100
 誦讀	siong7  thok8	100
-說唱	suan4  chhiong3	100
-說唱	suan4  chhiunn3	100
+說唱	suat4  chhiong3	100
+說唱	suat4  chhiunn3	100
 說多謝	seh4  to1  sia7	101
 說多謝	sueh4  to1  sia7	103
 說客	sue3  kheh4	100
@@ -90341,31 +90337,31 @@ sort: by_weight
 說情	seh4  cheng5	100
 說情	sueh4  cheng5	100
 說教	seh4  kau3	100
-說教	suan4  kau3	101
+說教	suat4  kau3	101
 說文解字	seh4  bun5  kai2  li7	100
 說文解字	sueh4  bun5  kai2  ji7	100
 說明	seh4  beng5	100
-說明	suan4  beng5	102
+說明	suat4  beng5	102
 說明	sueh4  beng5	100
-說明書	suan4  beng5  su1	100
-說服	suan4  hok8	100
+說明書	suat4  beng5  su1	100
+說服	suat4  hok8	100
 說服	sue3  hok8	100
 說服力	sueh4  hok8  lek8	100
-說法	suan4  huan4	100
+說法	suat4  huat4	100
 說白	seh4  peh8	100
 說破	seh4  phua3	100
 說笑	seh4  chhio3	100
-說笑	suan4  chhiau3	100
+說笑	suat4  chhiau3	100
 說精	seh4  siau5	100
 說詞	sueh4  su5	100
 說話	seh4  ue7	100
 說說	seh4  seh4	100
-說諭	suan4  ju7	100
+說諭	suat4  ju7	100
 說謝	seh4  sia7	101
 說謝	sueh4  sia7	103
 說起	seh4  khi2	100
 說起來	sueh4   khi2  lai5	100
-說辭	suan4  si5	100
+說辭	suat4  si5	100
 說透機	sueh4  thau3  ki1	100
 說透流	sueh4  thau3  lau5	101
 說錯	seh4  tann7	101
@@ -90478,7 +90474,7 @@ sort: by_weight
 談到	tam5  kau3	100
 談及	tam5  kip8	100
 談吐	tam5  thou3	100
-談天說地	tam5  thian1 suan4  te7	100
+談天說地	tam5  thian1 suat4  te7	100
 談心	tam5  sim1	101
 談情說愛	tam5  cheng5  sueh4  ai3	100
 談戀愛	tam5 luan5  ai3	100
@@ -90576,7 +90572,7 @@ sort: by_weight
 論斤算兩	lun7  kin1  sng3  niu2	100
 論斷	lun7  tuan3	101
 論歲	jun7  hue3	100
-論法	lun7  huan4	100
+論法	lun7  huat4	100
 論爭	lun7  cheng1	100
 論理	lun7  li2	101
 論真	lun7  chin1	105
@@ -90585,7 +90581,7 @@ sort: by_weight
 論者	lun7  chia2	100
 論語	lun7  gi2	100
 論語	lun7  gu2	100
-論說	lun7  suan4	100
+論說	lun7  suat4	100
 論調	lun7  tiau7	101
 論證	lun7  cheng3	100
 論辯	lun7  pian7	100
@@ -90703,7 +90699,7 @@ sort: by_weight
 謙讓	khiam1  jiong7	100
 謙遜	khiam1  sun3	101
 謙順	khiam3  sun7	100
-講一个祕訣	kong2 chit8  e5 pi3  kuan4	100
+講一个祕訣	kong2 chit8  e5 pi3  kuat4	100
 講一擺	kong2 chit8 pai2	100
 講一改	kong2 chit8 kai2	100
 講一無兩	kong2  chit8  bo5  nng7	100
@@ -90792,7 +90788,7 @@ sort: by_weight
 講會來	kong2  e7  lai5	100
 講東講西	kong2  tang1 kong2  sai1	100
 講求	kang2  kiu5	101
-講法	kong2  huan4	101
+講法	kong2  huat4	101
 講清楚	kong2  chheng1  chho2	100
 講滾笑	kong2  kun2  chhio3	100
 講演	kang2  ian2	103
@@ -90847,7 +90843,7 @@ sort: by_weight
 講話無關後尾門	kong2  ue7 bo5 koainn1 au7  bue2  mui5	100
 講話袂畏寒	kong2  ue7 be7 ui3  kuann5	100
 講誤媽花	kong2  gou7  ma2  hue1	100
-講說	kang2  suan4	100
+講說	kang2  suat4	100
 講論	kang2  lun7	100
 講謔	kong2  giak8	100
 講講	kang2  kang2	100
@@ -90915,14 +90911,14 @@ sort: by_weight
 謝神	sia7  sin5	102
 謝禮	sia7  le2	102
 謝紙仔	sia7  chua2  a2	100
-謝絕	sia7  chuan8	102
+謝絕	sia7  chuat8	102
 謝罪	sia7  chue7	102
 謝聖恩	sia7 seng3  un1	100
 謝謝	sia7  sia7	100
 謝賞	sia7  siunn2	100
 謝金	sia7  kim1	101
 謝長廷	sia7 tiong5  teng5	100
-謝雪紅	sia7 suan4  hong5	100
+謝雪紅	sia7 suat4  hong5	100
 謝願	sia7  guan7	102
 謝香	sia7  hiunn1	100
 謠傳	iau5  thuan5	101
@@ -91096,7 +91092,7 @@ sort: by_weight
 議定書	gi7  teng7  su1	100
 議會	gi7  hue7	102
 議案	gi7  an3	101
-議決	gi7  kuan4	101
+議決	gi7  kuat4	101
 議程	gi7  teng5	100
 議處	gi7  chhu2	101
 議請	gi7  chheng2	100
@@ -91123,8 +91119,8 @@ sort: by_weight
 護心鏡	hou7  sim1  kiann3	100
 護校	hou7  hau7	100
 護欄	hou7  lan5	100
-護法	hou7  huan4	102
-護法爺	hou7  huan4  ia5	100
+護法	hou7  huat4	102
+護法爺	hou7  huat4  ia5	100
 護照	hou7  chiau3	101
 護照	hou7  chio3	100
 護牆	hou7  chhiunn5	101
@@ -91172,8 +91168,8 @@ sort: by_weight
 讀會	thok8  hue7	100
 讀本	thok8  pun2	101
 讀死冊	thak8  si2  chheh4	100
-讀法	thak8  huan4	100
-讀法	thok8  huan4	100
+讀法	thak8  huat4	100
+讀法	thok8  huat4	100
 讀熟	thak8  sek8	100
 讀物	thok8  but8	101
 讀甲子	thak8  kah4  chi2	100
@@ -91351,7 +91347,7 @@ sort: by_weight
 讖語	chham3  gi2	100
 讖語	chham3  gu2	100
 讖講	chham3  kong2	100
-讚不絕口	chan3  put4  chuan8  khau2	100
+讚不絕口	chan3  put4  chuat8  khau2	100
 讚佩	chan3  phue3	100
 讚嘆	chan3  than3	100
 讚揚	chan3  iong5	101
@@ -91946,7 +91942,7 @@ sort: by_weight
 財務局	chai5  bu7  kiok8	100
 財勢力	chai5  se3  lek8	100
 財團	chai5  thuan5	101
-財團法人	chai5  thuan5  huan4  jin5	101
+財團法人	chai5  thuan5  huat4  jin5	101
 財子壽	chai5  chu2  siu7	101
 財子金	chai5  chu2  kim1	100
 財富	chai5  hu3	101
@@ -91975,7 +91971,7 @@ sort: by_weight
 財稅	chai5  sue3	101
 財經	chai5  keng1	101
 財運	chai5  un7	100
-財閥	chai5  huan8	100
+財閥	chai5  huat8	100
 貢丸	kong3  uan5	100
 貢仔	kong3  a2	101
 貢仔寮	khong1  a2  liau5	100
@@ -92175,7 +92171,7 @@ sort: by_weight
 責無旁貸	chek4  bo5  pong5  tai7	100
 責督	chek4  tok4	102
 責罪	chek4  chue7	102
-責罰	chek4  huan8	101
+責罰	chek4  huat8	101
 責罵	chek4  me7	101
 責難	chek4  lan7	100
 責頭	chek4  thau5	100
@@ -92448,7 +92444,7 @@ sort: by_weight
 賀帖	ho7  thiap4	100
 賀年	ho7  ni5	101
 賀戲	ho7  hi3	100
-賀拔	ho7  puan8	100
+賀拔	ho7  puat8	100
 賀正	ho7  chiann1	102
 賀生日	ho7  senn1  jit8	100
 賀禮	ho7  le2	102
@@ -92611,7 +92607,7 @@ sort: by_weight
 賞帖	siunn2  thiap4	100
 賞年	siunn2  ni5	100
 賞揚	siong2  iong5	100
-賞月	siong2  guan8	101
+賞月	siong2  guat8	101
 賞月	siunn2  geh8	101
 賞月	siunn2  gueh8	101
 賞格	siunn2  keh4	101
@@ -92622,8 +92618,8 @@ sort: by_weight
 賞玩	siong2  guan2	100
 賞畫	siunn2  ue7	100
 賞給	siunn2  kip4	101
-賞罰	siong2  huan8	100
-賞罰	siunn2  huan8	102
+賞罰	siong2  huat8	100
+賞罰	siunn2  huat8	102
 賞臉	siunn2  lian2	100
 賞與	siong2  u2	100
 賞與	siunn2  u2	100
@@ -92813,7 +92809,7 @@ sort: by_weight
 賬條	siau3  tiau5	100
 賬櫃	siau3  kui7	100
 賬櫥仔	siau3  tu5  a2	100
-賬法	siau3  huan4	100
+賬法	siau3  huat4	100
 賬目	siau3  bak8	100
 賬簿	siau3  phou7	100
 賬簿櫥	siau3  phou7  tu5	100
@@ -92848,7 +92844,7 @@ sort: by_weight
 賭案	kiau2  an3	100
 賭棍	kiau2  kun3	100
 賭氣	tou2  khi3	101
-賭法	tou2  huan4	100
+賭法	tou2  huat4	100
 賭目	tou2  bak8	101
 賭目色	tou2  bak8  sek4	101
 賭眼力	tou2  gan2  lek8	100
@@ -93057,7 +93053,7 @@ sort: by_weight
 赤沙糖	chhiah4  sua1  thng5	100
 赤海	chhiah4  hai2	101
 赤海雞	chhiah4  hai2  ke1	100
-赤潑	siat4  phuan4	100
+赤潑	siat4  phuat4	100
 赤潤塗	chhiah4  lun7  thou5	100
 赤焱焱	chhiah4  iann7  iann7	100
 赤熊	chhiah4  him5	100
@@ -93267,7 +93263,7 @@ sort: by_weight
 走縒	chau2  chuah8	100
 走繩	chau2  chin5	104
 走胎	chau2  thai1	102
-走脫	chau2  thuan4	101
+走脫	chau2  thuat4	101
 走腔	chau2  khiunn1	104
 走腸	chau2  tiong5	100
 走腸	chau2  tng5	100
@@ -93780,7 +93776,7 @@ sort: by_weight
 超度	chhiau1  tou7	102
 超強	chhiau1  kiong5	100
 超意工	thiau1  i3  kang1	100
-超拔	chhiau1  puan8	100
+超拔	chhiau1  puat8	100
 超摵	chhiau1  chhek8	101
 超支	chhiau1  chi1	100
 超收	chhiau1  siu1	101
@@ -93793,12 +93789,12 @@ sort: by_weight
 超紅燈	chhiau1  ang5  teng1	100
 超級	chhiau1  kip4	101
 超級市場	chhiau1  kip4  chhi7  tiunn5	100
-超絕	chhiau1  chuan8	100
+超絕	chhiau1  chuat8	100
 超群	chhiau1  kun5	101
 超能力	chhiau1  leng5  lek8	100
-超脫	chhiau1  thuan4	101
+超脫	chhiau1  thuat4	101
 超賣	chhiau1  be7	100
-超越	chhiau1  uan8	101
+超越	chhiau1  uat8	101
 超車	chhiau1  chhia1	100
 超載	chhiau1  chai7	100
 超速	chhiau1  sok4	101
@@ -93811,36 +93807,36 @@ sort: by_weight
 超音密婆	chhiau1  im1  bit8  po5	100
 超音波	chhiau1  im1  pho1	101
 越來越	lu2  lai5  lu2	100
-越倒身	uan8  to2  sin1	100
-越分	uan8  hun7	100
-越劇	uan8  kiok8	100
-越區	uan8  khu1	100
-越南	uan8  lam5	100
-越唸	uan8  liam7	102
-越城	uan8  siann5	100
-越寫	uan8  sia2	100
-越念	uan8  liam7	102
-越念冊	uan8  liam7  chheh4	100
-越惹	uan8  jia2	100
-越愈	uan8  ju2	101
-越愈	uan8  lu2	101
-越戰	uan8  chian3	101
-越權	uan8  khuan5	101
-越權	uan8  kuan5	101
-越款	uan8  khuan2	100
-越洋	uan8  iunn5	100
-越界	uan8  kai3	100
-越級	uan8  kip4	100
-越越	uan8  uan8	101
-越輪轉	uan8  lin3  tng2	100
-越轉手	uan8  tng2  chhiu2	100
-越轉身	uan8  tng2  sin1	101
-越轉頭	uan8  tng2  thau5	100
-越途	uan8  tou5	100
-越面	uan8  bin7	100
-越音	uan8  im1	100
-越頭	uan8  thau5	106
-越頭看	uan8  thau5  khuann3	100
+越倒身	uat8  to2  sin1	100
+越分	uat8  hun7	100
+越劇	uat8  kiok8	100
+越區	uat8  khu1	100
+越南	uat8  lam5	100
+越唸	uat8  liam7	102
+越城	uat8  siann5	100
+越寫	uat8  sia2	100
+越念	uat8  liam7	102
+越念冊	uat8  liam7  chheh4	100
+越惹	uat8  jia2	100
+越愈	uat8  ju2	101
+越愈	uat8  lu2	101
+越戰	uat8  chian3	101
+越權	uat8  khuan5	101
+越權	uat8  kuan5	101
+越款	uat8  khuan2	100
+越洋	uat8  iunn5	100
+越界	uat8  kai3	100
+越級	uat8  kip4	100
+越越	uat8  uat8	101
+越輪轉	uat8  lin3  tng2	100
+越轉手	uat8  tng2  chhiu2	100
+越轉身	uat8  tng2  sin1	101
+越轉頭	uat8  tng2  thau5	100
+越途	uat8  tou5	100
+越面	uat8  bin7	100
+越音	uat8  im1	100
+越頭	uat8  thau5	106
+越頭看	uat8  thau5  khuann3	100
 趒腳雞	tio5  kha1  ke1	101
 趒起來	tio5  khi2  lai5	101
 趒跤頓蹄	tio5  kha1  tng3  te5	102
@@ -94026,7 +94022,7 @@ sort: by_weight
 跋心適	puah8  sim1  sek4	100
 跋感情	puah8  kam2  cheng5	100
 跋手	puah8  chhiu2	101
-跋文	puan8  bun5	100
+跋文	puat8  bun5	100
 跋杯	puah8  pue1	100
 跋桮	puah8  pue1	101
 跋桮號	puah8  pue1  ho7	100
@@ -94035,14 +94031,14 @@ sort: by_weight
 跋歹筊	puah8  phainn2  kiau2	100
 跋死	puah8   si2	100
 跋死	puah8  si2	100
-跋涉	puan8  siap8	101
+跋涉	puat8  siap8	101
 跋準	puah8  chun2	101
 跋牌仔	puah8  pai5  a2	101
 跋碗卦	puah8  uann2  kua3	100
 跋筊	puah8  kiau2	100
 跋筶	puah8  pue1	100
 跋筶仔	puah8  pue1  a2	100
-跋腳	puan8  kha1	100
+跋腳	puat8  kha1	100
 跋臭	puah8  chhau3	101
 跋落	puah8   loh8	101
 跋落	puah8  loh8	100
@@ -94400,7 +94396,7 @@ sort: by_weight
 跳級	thiau3  kip4	103
 跳索	thiau3  soh4	101
 跳索仔	thiau3  soh4  a2	101
-跳脫	thiau3  thuan4	101
+跳脫	thiau3  thuat4	101
 跳腳	tio5  kha1	100
 跳腳雞	thiau3  kha1  ke1	100
 跳腳雞	thiau3  kha1  kue1	100
@@ -94449,7 +94445,7 @@ sort: by_weight
 踅尾螺	seh8  bue2  le5	100
 踅彎	seh8  uan1	101
 踅振動	seh8  tin2  tang7	100
-踅斡	seh8  uan4	100
+踅斡	seh8  uat4	100
 踅獅尾螺	seh8 sai1 bue2 le5	100
 踅玲瑯	seh8  lin1  long1	101
 踅玲瑯馬仔	seh8  ling5  long1  be2	100
@@ -94808,7 +94804,7 @@ sort: by_weight
 身歷其境	sin1  lek8  ki5  keng2	100
 身死	sin1  si2	100
 身段	sin1  tuann7	102
-身法	sin1  huan4	100
+身法	sin1  huat4	100
 身為	sin1  ui5	101
 身爽	sin1  song2	100
 身田	sin1  tian5	100
@@ -94855,8 +94851,8 @@ sort: by_weight
 軀幹	khu1  kan3	100
 軀殼	khu1  khak4	100
 軁山鼠	nng3  suann1  chhi2	100
-軁法律縫	nng3  huan4  lut8  phang7	100
-軁法律縫	nui3  huan4  lut8  phang7	100
+軁法律縫	nng3  huat4  lut8  phang7	100
+軁法律縫	nui3  huat4  lut8  phang7	100
 軁狗空仔	nng3  kau2  khang1  a2	100
 軁磅空的	nng3 phong7  khang1   e5	100
 軁空	nng3  khang1	100
@@ -95111,7 +95107,7 @@ sort: by_weight
 軍款	kun1  khuan2	100
 軍歌	kun1  kua1	101
 軍民	kun1  bin5	101
-軍法	kun1  huan4	102
+軍法	kun1  huat4	102
 軍港	kun1  kang2	101
 軍火	kun1  hue2	101
 軍火銃械	kun1  he2 chheng3  hai5	100
@@ -95138,7 +95134,7 @@ sort: by_weight
 軍醫	kun1  i1	101
 軍長	kun1  tiunn2	100
 軍門	kun1  bun5	100
-軍閥	kun1  huan8	101
+軍閥	kun1  huat8	101
 軍隊	kun1  tui7	102
 軍階	kun1  kai1	100
 軍需	kun1  su1	100
@@ -95212,7 +95208,7 @@ sort: by_weight
 軟水	nng2  chui2	102
 軟汁汁	nng2  chap4  chap4	100
 軟汫	nng2  chiann2	104
-軟法	nng2  huan4	100
+軟法	nng2  huat4	100
 軟派	nng2  phai3	100
 軟湆湆	nng2  am2  am2	100
 軟溢溢	nng2  ioh4  ioh4	105
@@ -95429,8 +95425,8 @@ sort: by_weight
 輕型	khin1  heng5	101
 輕墨	khin1  bak8	100
 輕孝	khin1  ha3	100
-輕小說	kheng1  sio2  suan4	100
-輕小說	khin1  sio2  suan4	100
+輕小說	kheng1  sio2  suat4	100
+輕小說	khin1  sio2  suat4	100
 輕工業	kheng1  kang1  giap8	100
 輕巧	khin1  kha2	100
 輕度	khin1  tou7	100
@@ -95579,7 +95575,7 @@ sort: by_weight
 輸人毋輸陣	su1  lang5 m7 su1  tin7	100
 輸入	su1  jip8	102
 輸入	su1  lip8	100
-輸入法	su1  jip8  huan4	100
+輸入法	su1  jip8  huat4	100
 輸出	su1  chhut4	102
 輸分賬	su1  hun1  siau3	100
 輸勢	su1  se3	100
@@ -95711,7 +95707,7 @@ sort: by_weight
 轉播站	chuan2  po3  cham7	100
 轉數	chuan2  siau3	100
 轉斗	chuan2  tau2	100
-轉斡	tng2  uan4	103
+轉斡	tng2  uat4	103
 轉旋	tng2  seh8	100
 轉柩	chuan2  kiu7	102
 轉業	chuan2  giap8	100
@@ -95733,7 +95729,7 @@ sort: by_weight
 轉用	chuan2  eng7	100
 轉當	chuan2  tng3	100
 轉瘋	tng2  hong1	100
-轉發	chuan2  huan4	100
+轉發	chuan2  huat4	100
 轉白	tng2  peh8	100
 轉目	tng2  bak8	101
 轉眼	chuan2  gan2	100
@@ -95743,7 +95739,7 @@ sort: by_weight
 轉移	chuan2  i5	102
 轉移陣地	chuan2  i5  tin7  te7	100
 轉稅	chuan2  se3	100
-轉穵	tng2  uan4	100
+轉穵	tng2  uat4	100
 轉笑	tng2  chhio3	101
 轉笑面	tng2  chhio3  bin7	100
 轉筋	tng2  kin1	100
@@ -95792,8 +95788,8 @@ sort: by_weight
 轉錢空	tng2  chinn5  khang1	102
 轉青	tng2  chhinn1	100
 轉頭	tng2  thau5	102
-轉頭斡角	tuinn2  thau5  uan4  kak4	100
-轉頭穵角	tng2  thau5  uan4  kak4	100
+轉頭斡角	tuinn2  thau5  uat4  kak4	100
+轉頭穵角	tng2  thau5  uat4  kak4	100
 轉風	tng2  hong1	100
 轉風面	tng2  hong1  bin7	102
 轉骨	tng2  kut4	102
@@ -95925,7 +95921,7 @@ sort: by_weight
 辦案	pan7  an2	100
 辦案	pan7  an3	100
 辦桌	pan7  toh4	104
-辦法	pan7  huan4	102
+辦法	pan7  huat4	102
 辦理	pan7  li2	102
 辦盤	pan7  puann5	100
 辦罪	pan7  chue7	100
@@ -96053,7 +96049,7 @@ sort: by_weight
 農莊	long5  chng1	100
 農藥	long5  ioh8	101
 迂拘	u1  khu1	101
-迂拙	u1  chuan4	100
+迂拙	u1  chuat4	100
 迂躇	u1  thu5	100
 迅速	si7  sua7	101
 迅速	sin3  sok4	102
@@ -96235,7 +96231,7 @@ sort: by_weight
 迮錢	jiok4  chinn5	101
 述情	sut8  cheng5	100
 述懷	sut8  hoai5	100
-述說	sut8  suan4	100
+述說	sut8  suat4	100
 述陳	sut8  tin5	100
 迴廊	hue5  long5	100
 迴腸	hue5  tng5	100
@@ -96273,7 +96269,7 @@ sort: by_weight
 迷霧	be5  bu7	100
 迷魂丹	be5  hun5  tan1	100
 迷魂水雞	be5  hun5  chui2  ke1	101
-迷魂法	be5  hun5  huan4	101
+迷魂法	be5  hun5  huat4	101
 迷魂肚胿	be5  hun5  tou7  kui1	101
 迷魂藥	be5  hun5  ioh8	102
 迷魂陣	be5  hun5  tin7	100
@@ -96553,7 +96549,7 @@ sort: by_weight
 逃生	to5  senn1	103
 逃生	to5  sinn1	100
 逃監	to5  kann1	101
-逃脫	to5  thuan4	102
+逃脫	to5  thuat4	102
 逃走	to5  chau2	102
 逃逃	to5  to5	100
 逃遁	to5  tun7	100
@@ -96591,7 +96587,7 @@ sort: by_weight
 逆風	gek8  hong1	101
 逆黨	gek8  tong2	101
 逍遙	siau1  iau5	101
-逍遙法外	siau1  iau5  huan4  gua7	100
+逍遙法外	siau1  iau5  huat4  gua7	100
 透世人	thau3  si3  lang5	105
 透中晝	thau3  tiong1  tau3	104
 透京城	thau3  kiann1  siann5	100
@@ -96721,7 +96717,7 @@ sort: by_weight
 逐日	tiok8  jit8	100
 逐暗	tak8  am3	101
 逐月	tak8  gueh8	100
-逐月	tiok8  guan8	100
+逐月	tiok8  guat8	100
 逐條	tak8  tiau5	100
 逐條路	tak8 tiau5 lou7	100
 逐次	tak8  chhu3	100
@@ -97019,7 +97015,7 @@ sort: by_weight
 速射炮	sok4  sia7  phau3	100
 速度	sok4  tou7	101
 速成	sok4  seng5	101
-速戰速決	sok4  chian3  sok4  kuan4	100
+速戰速決	sok4  chian3  sok4  kuat4	100
 速率	sok4  lut8	101
 速緊	sok4  kin2	100
 速記	sok4  ki3	100
@@ -97063,7 +97059,7 @@ sort: by_weight
 造業	cho7  giap8	100
 造橋	cho7  kio5	101
 造橋鄉	cho7  kio5  hiong1	100
-造法	cho7  huan4	100
+造法	cho7  huat4	100
 造牆	cho7  chhiunn5	100
 造物	cho7  but8	100
 造畜椆	cho7  thiok4  tiau5	100
@@ -97154,7 +97150,7 @@ sort: by_weight
 連疊	lian5  thah8	102
 連疊	lian5  thap8	100
 連疊來	lian5  thah8  lai5	100
-連發	lian5  huan4	100
+連發	lian5  huat4	100
 連看覓	lian5  khuann3  mai7	100
 連累	lian5  lui7	102
 連紲	lian5  sua3	103
@@ -97221,7 +97217,7 @@ sort: by_weight
 週日	chiu1  jit8	100
 週會	chiu1  hue7	100
 週期	chiu1  ki5	101
-週末	chiu1  buan8	100
+週末	chiu1  buat8	100
 週歲	chiu1  sue3	100
 週至	chiu1  chi3	103
 週詳	chiu1  siong5	100
@@ -97281,7 +97277,7 @@ sort: by_weight
 進獻	chin3  hian3	100
 進班	chin3  pan1	100
 進用	chin3  iong7	101
-進發	chin3  huan4	101
+進發	chin3  huat4	101
 進益	chin3  iah4	100
 進級	chin3  kip4	100
 進而	chin3  li5	100
@@ -97344,11 +97340,11 @@ sort: by_weight
 逼近	pek4  kun7	100
 逼開	piak4  khui1	101
 逼鼓	piak4  kou2	100
-逾越節	ju5  uan8  cheh4	100
-逾越節	ju5  uan8  chueh4	100
+逾越節	ju5  uat8  cheh4	100
+逾越節	ju5  uat8  chueh4	100
 遁世	tun7  se3	100
 遁形	tun7  heng5	100
-遁法	tun7  huan4	100
+遁法	tun7  huat4	100
 遁走	tun7  chau2	101
 遁辭	tun7  su5	100
 遁遁	tun7  tun7	100
@@ -97406,13 +97402,13 @@ sort: by_weight
 遊街	iu5  ke1	100
 遊街	iu5  kue1	100
 遊街會	iu5  kue1  hue7	100
-遊街法	iu5  kue1  huan4	100
+遊街法	iu5  kue1  huat4	100
 遊街術	iu5  kue1  sut8	100
 遊覽	iu5  lam2	102
 遊覽客	iu5  lam2  kheh4	100
 遊覽船	iu5  lam2  chun5	100
 遊覽車	iu5  lam2  chhia1	101
-遊說	iu5  suan4	100
+遊說	iu5  suat4	100
 遊說	iu5  sue3	101
 遊賞	iu5  siunn2	102
 遊走	iu5  chau2	100
@@ -97766,7 +97762,7 @@ sort: by_weight
 過繼囝	ke3  ke3  kiann2	100
 過繼囝	kue3  kue3  kiann2	100
 過繼子	ke3  ke3  chu2	100
-過罰	ke3  huan8	100
+過罰	ke3  huat8	100
 過耳空	kue3  hinn7  khang1	100
 過聊	kue3  liau5	101
 過腳	ke3  kha1	100
@@ -98090,7 +98086,7 @@ sort: by_weight
 遮勘	jia1  kham3	103
 遮密	jia1  bat8	100
 遮扇	jia1  sinn3	100
-遮挪法	chia1  na2  huan4	100
+遮挪法	chia1  na2  huat4	100
 遮掩	chia1  iam1	100
 遮掩	jia1  iam2	103
 遮攔	chia1  nua5	100
@@ -98148,14 +98144,14 @@ sort: by_weight
 遲延	ti5  ian5	101
 遲撞	ti5  tong7	100
 遲疑	ti5  gi5	100
-遲疑不決	ti5  gi5  put4  kuan4	100
+遲疑不決	ti5  gi5  put4  kuat4	100
 遲緩	ti5  uan7	100
 遲誤	ti5  gou7	100
 遲速	ti5  sok4	100
 遲遲不進	ti5  ti5  put4  chin3	100
 遲鈍	ti5  tun7	101
 遴選	lin5  suan2	101
-遵古法製	chun1  kou2  huan4  che3	100
+遵古法製	chun1  kou2  huat4  che3	100
 遵命	chun1  beng7	102
 遵奉	chun1  hong7	100
 遵守	chun1  siu2	102
@@ -98202,7 +98198,7 @@ sort: by_weight
 選情	suan2  cheng5	100
 選戰	suan2  chian3	100
 選手	suan2  chhiu2	102
-選拔	suan2  puan8	101
+選拔	suan2  puat8	101
 選擇	suan2  tek8	102
 選擇性放袂記	suan2  tek8 seng3 pang3 be7  ki3	100
 選擇權	suan2  tek8  khuan5	100
@@ -98212,7 +98208,7 @@ sort: by_weight
 選派	suan2  phai3	100
 選用	suan2  iong7	101
 選票	suan2  phio3	101
-選罷法	suan2  pa7  huan4	101
+選罷法	suan2  pa7  huat4	101
 選美	suan2  bi2	100
 選翁	suan2  ang1	100
 選股	suan2  kou2	100
@@ -98347,7 +98343,7 @@ sort: by_weight
 邏則	lo5  chek4	100
 邏輯	lo5  chip4	100
 邏輯	lo5  chip8	100
-那仔菝	na2  a2  puan8	100
+那仔菝	na2  a2  puat8	100
 那位	ta2  ui7	100
 那使	na2  sai2	101
 那使著	na2  sai2  tioh8	100
@@ -98365,7 +98361,7 @@ sort: by_weight
 那痟	na2  siau2	100
 那知	na2  chai1	101
 那石裡鏨字	na2  chioh8  nih4 cham7  ji7	100
-那菝仔	na2  puan8  a2	100
+那菝仔	na2  puat8  a2	100
 那落	ta2  loh8	100
 那著	na2  tioh8	104
 那裡	na2  li2	100
@@ -98394,7 +98390,7 @@ sort: by_weight
 邪正	sia5  cheng3	100
 邪氣	sia5  khi3	102
 邪氣	sia5  khui3	100
-邪法	sia5  huan4	101
+邪法	sia5  huat4	101
 邪淫	sia5  im5	100
 邪火	sia5  he2	100
 邪症	sia5  cheng3	100
@@ -98402,7 +98398,7 @@ sort: by_weight
 邪祟	sia5  sui7	100
 邪著	sia5  tioh8	100
 邪術	sia5  sut8	101
-邪說	sia5  suan4	100
+邪說	sia5  suat4	100
 邪路	sia5  lou7	100
 邪道	sia5  to7	100
 邪邪	sia5  sia5	100
@@ -98524,7 +98520,7 @@ sort: by_weight
 都察院	tou1  chhat4  inn7	100
 都市	tou1  chhi7	102
 都市倯	tou1  chhi7  song5	102
-都市傳說	to1  chhi7  thuan5  suan4	100
+都市傳說	to1  chhi7  thuan5  suat4	100
 都市化	tou1  chhi7  hua3	100
 都市病	tou1  chhi7  penn7	100
 都市綠化	tou1  chhi7  liok8  hua3	100
@@ -98668,8 +98664,8 @@ sort: by_weight
 配比	phue3  pi2	103
 配當	phue3  tong1	100
 配當金	phue3  tong1  kim1	100
-配發	phe3  huan4	100
-配發	phue3  huan4	101
+配發	phe3  huat4	100
+配發	phue3  huat4	101
 配納	phue3  lap8	100
 配給	phe3  kip4	100
 配給	phue3  kip4	101
@@ -99010,10 +99006,10 @@ sort: by_weight
 醫官	i1  kuann1	101
 醫家	i1  ka1	100
 醫師	i1  su1	103
-醫師法	i1  su1  huan4	100
+醫師法	i1  su1  huat4	100
 醫死	i1  si2	100
 醫治	i1  ti7	101
-醫法	i1  huan4	100
+醫法	i1  huat4	100
 醫理	i1  li2	100
 醫生	i1  seng1	102
 醫生館	i1  seng1  kuan2	103
@@ -99050,7 +99046,7 @@ sort: by_weight
 醮事	chio3  su7	100
 醮壇	chio3  tuann5	100
 醮榜	chio3  png2	100
-醱酵	huan4  kann3	100
+醱酵	huat4  kann3	100
 釀成	liong7  seng5	100
 釀蜜	jiong3  bit8	100
 采地	chhai2  te7	100
@@ -99231,7 +99227,7 @@ sort: by_weight
 重組	tiong7  chou1	100
 重組	tiong7  chou2	100
 重罪	tang7  chue7	101
-重罰	tang7  huan8	101
+重罰	tang7  huat8	101
 重義	tiong7  gi7	100
 重義氣	tiong7  gi7  khi3	100
 重翻	teng5  huan1	101
@@ -99456,7 +99452,7 @@ sort: by_weight
 釐戥	li5  teng2	100
 釐戥碗	li5  teng2  uann2	100
 釐捐局	li5  kuan1  kiok8	100
-釐末	li5  buan8	100
+釐末	li5  buat8	100
 釐止	li5  chi2	100
 釐絲	li5  si1	100
 釐訂	li5  teng3	100
@@ -99791,7 +99787,7 @@ sort: by_weight
 金針蟲	kim1  chiam1  thang5	100
 金釵	kim1  thue1	100
 金鈴子	kim1  leng5  chi2	100
-金鈸仔	kim1  puan8  a2	100
+金鈸仔	kim1  puat8  a2	100
 金鉤蝦	kim1  kau1  he5	101
 金銀	kim1  gin5	100
 金銀	kim1  gun5	100
@@ -99970,7 +99966,7 @@ sort: by_weight
 針指	chiam1  chainn2	104
 針指	chiam1  chi2	101
 針油	chiam1  iu5	100
-針法	chiam1  huan4	100
+針法	chiam1  huat4	100
 針灸	chiam1  kiu2	100
 針灸	chiam1  ku3	101
 針盒	chiam1  ah8	100
@@ -100044,7 +100040,7 @@ sort: by_weight
 鈃仔環	giang1  a2  khuan5	100
 鈃鈃	giang1  giang1	100
 鈃鈃仔	giang1  giang1  a2	100
-鈌仔	kuan4  a2	100
+鈌仔	kuat4  a2	100
 鈍刀	tun1  to1	101
 鈍刀	tun7  to1	100
 鈍去	tun1   khi3	100
@@ -100083,9 +100079,9 @@ sort: by_weight
 鈴聲	leng5  siann1	100
 鈴薯條	leng5  chi5  tiau5	100
 鈴鐺仔	leng5  liang1  a2	100
-鈸仔	puan8  a2	100
+鈸仔	puat8  a2	100
 鈸仔	put8  a2	100
-鈸仔銀	puan8  a2  gun5	101
+鈸仔銀	puat8  a2  gun5	101
 鈸桶	puah8  thang2	100
 鉀素	kah4  sou3	100
 鉅大	ku2  tua7	100
@@ -100329,7 +100325,7 @@ sort: by_weight
 銀貨	gun5  he3	100
 銀貫錢	gun5  kng3  chinn5	100
 銀針	gun5  chiam1	100
-銀鈸仔	gun5  puan8  a2	100
+銀鈸仔	gun5  puat8  a2	100
 銀鉤	gun5  kau1	100
 銀錠	gin5  tiann7	100
 銀錠	gun5  tiann7	100
@@ -100345,7 +100341,7 @@ sort: by_weight
 銀顆	gin5  kho1	100
 銀顆	gun5  kho3	100
 銀額	gun5  giah8	100
-銀髮	gin5  huan4	100
+銀髮	gin5  huat4	100
 銀鬼	gin5  kui2	100
 銀鬼	gun5  kui2	100
 銀魚	gin5  hi5	100
@@ -100391,7 +100387,7 @@ sort: by_weight
 銃樓	chheng3  lau5	100
 銃櫃	chheng3  kui7	100
 銃殺	chheng3  sat4	104
-銃決	chheng3  kuan4	100
+銃決	chheng3  kuat4	100
 銃盤	chheng3  puann5	100
 銃空	chheng3  khang1	101
 銃管	chheng3  kong2	100
@@ -100469,7 +100465,7 @@ sort: by_weight
 銅釘	tang5  teng1	100
 銅針	tang5  chiam1	100
 銅鈕	tang5  liu2	100
-銅鈸仔	tang5  puan8  a2	100
+銅鈸仔	tang5  puat8  a2	100
 銅鉎	tang5  sian1	100
 銅銀	tang5  gun5	100
 銅銑	tang5  sian1	100
@@ -101125,7 +101121,7 @@ sort: by_weight
 鐵仔	thih4  a2	102
 鐵仔塗	thih4  a2  thou5	100
 鐵仔店	thih4  a2  tiam3	100
-鐵伐	thiat4  huan8	100
+鐵伐	thiat4  huat8	100
 鐵刀利器	thih4  to1 lai7  khi3	100
 鐵刀木	thih4  to1  bok8	100
 鐵匠	thih4  chhiunn7	101
@@ -101720,7 +101716,7 @@ sort: by_weight
 長頷龜龍	tng5  am7  ku1  liong5	101
 長額	tiong2  giah8	103
 長骨	tng2  kut4	100
-長髮	tiong5  huan4	101
+長髮	tiong5  huat4	101
 長鬚狐	tng5  chhiu1  hou5	101
 長齋	tng5  chai1	101
 門下栿	mng5  e7  hok8	100
@@ -101738,7 +101734,7 @@ sort: by_weight
 門口公	mng5  khau2  kong1	102
 門口厝邊	mng5  khau2  chhu3  pinn1	100
 門口埕	mng5  khau2  tiann5	104
-門口埕發草	mui5  khau2  tiann5 huan4  chhau2	100
+門口埕發草	mui5  khau2  tiann5 huat4  chhau2	100
 門可羅雀	mng5  kho2  lo5  chhiok4	100
 門啄	mng5  tauh4	100
 門啄仔	mng5  tauh4  a2	100
@@ -101859,7 +101855,7 @@ sort: by_weight
 閃刀紙	siam2  to1  chua2	100
 閃匿	siam2  bih4	100
 閃影	siam2  ng2	100
-閃律法縫	siam2  lut8  huan4  phang7	100
+閃律法縫	siam2  lut8  huat4  phang7	100
 閃擔	siam2  tann1	100
 閃擦	chhih4  chhuah4	100
 閃擦	sih4  chhuah4	100
@@ -102123,8 +102119,8 @@ sort: by_weight
 開用	khai1  eng7	104
 開用	khai1  iong7	103
 開田	khui1  chhan5	102
-開發	khai1  huan4	102
-開發票	khui1  huan4  phio3	100
+開發	khai1  huat4	102
+開發票	khui1  huat4  phio3	100
 開盡磅	khui1  chin7  pong7	100
 開盤	khui1  puann5	102
 開目	khui1  bak8	101
@@ -102163,7 +102159,7 @@ sort: by_weight
 開粿	khui1  ke2	100
 開糧	khai1  niu5	100
 開缺	khai1  kheh4	100
-開罰單	khui1  huan8  tuann1	100
+開罰單	khui1  huat8  tuann1	100
 開老兵	khai1  lau7  peng1	100
 開聲	khui1  siann1	102
 開聲哭	khui1  siann1  khau3	103
@@ -102403,10 +102399,10 @@ sort: by_weight
 閩清	ban5  chhiann1	100
 閩省	ban5  seng2	100
 閩籍	ban5  chek8	100
-閩粵	ban5  uan8	100
+閩粵	ban5  uat8	100
 閩縣	ban5  koainn7	100
 閩語	ban5  gi2	100
-閩越	ban5  uan8	100
+閩越	ban5  uat8	100
 閬工	lang3  kang1	100
 閬月	lang3  geh8	100
 閬月	lang3  gueh8	100
@@ -102422,14 +102418,14 @@ sort: by_weight
 閭葵	lu5  kui5	100
 閱兵	iat8  peng1	101
 閱卷	iat8  kng3	100
-閱卷	uan8  kng3	100
-閱念	uan8  liam7	100
+閱卷	uat8  kng3	100
+閱念	uat8  liam7	100
 閱歷	iat4  lek8	100
 閱覽	iat4  lam2	100
 閱覽	iat8  lam2	100
-閱覽	uan8  lam2	100
-閱覽室	uan8  lam2  sek4	100
-閱讀	uan8  thok8	101
+閱覽	uat8  lam2	100
+閱覽室	uat8  lam2  sek4	100
+閱讀	uat8  thok8	101
 閹仔	iam1  a2	100
 閹官	iam1  kuann1	100
 閹宦	iam1  huan7	101
@@ -102514,8 +102510,8 @@ sort: by_weight
 闔潭	khap4  tham5	100
 闔門	khah8  mng5	100
 闔雺	khah8  bong5	100
-闕疑	khuan4  gi5	100
-闕筆	khuan4  pit4	100
+闕疑	khuat4  gi5	100
+闕筆	khuat4  pit4	100
 闖入	chhuan3  jip8	100
 闖入	chong5  jip8	100
 闖路	chhuann3  lou7	101
@@ -102601,7 +102597,7 @@ sort: by_weight
 關西	kuan1  sai1	100
 關西	kuan1  se1	100
 關西鎮	kuan1  se1  tin3	100
-關說	kuan1  suan4	100
+關說	kuan1  suat4	100
 關說	kuan1  sueh4	100
 關起來	koainn1   khi2  lai5	100
 關車	koainn1  chhia1	100
@@ -102721,14 +102717,14 @@ sort: by_weight
 防風林	hong5  hong1  lim5	100
 防風荊芥	hong5  hong1 keng1  kai3	100
 阻力	chou2  lek8	101
-阻卻違法事由	chou2  khiok4 ui5  huan4 su7  iu5	100
+阻卻違法事由	chou2  khiok4 ui5  huat4 su7  iu5	100
 阻擋	chou2  tong3	104
 阻擾	chou2  jiau2	100
 阻攔	chou2  lan5	100
 阻斷	chou2  tng7	100
 阻止	chou2  chi2	104
 阻礙	chou2  gai7	104
-阻絕	chou2  chuan8	100
+阻絕	chou2  chuat8	100
 阻隔	chou2  keh4	102
 阿丈	a1  tiunn7	100
 阿不倒	a1  put4  to2	100
@@ -103025,7 +103021,7 @@ sort: by_weight
 陣地	tin7  te7	101
 陣地	tin7  tue7	100
 陣容	tin7  iong5	101
-陣法	tin7  huan4	100
+陣法	tin7  huat4	100
 陣營	tin7  iann5	102
 陣疼	chun7  thiann3	101
 陣痛	tin7  thiann3	100
@@ -103056,14 +103052,14 @@ sort: by_weight
 除役	ti5  iah8	100
 除掉	ti5   tiau7	100
 除日	tu5  jit8	100
-除月	tu5  guan8	100
+除月	tu5  guat8	100
 除服	tu5  hok8	100
 除根	ti5  kin1	100
 除權	ti5  kuan5	100
 除權	tu5  khuan5	100
 除此之外	ti5  chhu2  chi1  gua7	100
-除法	ti5  huan4	100
-除法	tu5  huan4	100
+除法	ti5  huat4	100
+除法	tu5  huat4	100
 除清	ti5  chheng1	100
 除溼	tu5  sip4	100
 除滅	tu5  biat8	100
@@ -103179,7 +103175,7 @@ sort: by_weight
 陰積文	im1  chek4  bun5	100
 陰積痕	im1  chek4  hun5	100
 陰脣	im1  tun5	100
-陰脫	im1  thuan4	100
+陰脫	im1  thuat4	100
 陰莖	im1  keng1	100
 陰萎	im1  ui5	100
 陰虱	im1  sat4	100
@@ -103357,7 +103353,7 @@ sort: by_weight
 陽春	iong5  chhun1	102
 陽春核	iong5  chhun1  hut8	100
 陽曆	iong5  lek8	102
-陽月	iong5  guan8	100
+陽月	iong5  guat8	100
 陽極	iong5  kek8	100
 陽氣	iong5  khi3	100
 陽物	iong5  but8	100
@@ -103425,7 +103421,7 @@ sort: by_weight
 隔界	keh4  kai3	103
 隔空	keh4  khang1	100
 隔篩	keh4  thai1	100
-隔絕	keh4  chuan8	100
+隔絕	keh4  chuat8	100
 隔肌	keh4  ki1	100
 隔腹	keh4  pak4	103
 隔腹兄	keh4  pak4  hiann1	100
@@ -103981,7 +103977,7 @@ sort: by_weight
 雜號仔	chap8  ho7  a2	101
 雜誌	chap8  chi3	102
 雜誌社	chap8  chi3  sia7	100
-雜說	chap8  suan4	100
+雜說	chap8  suat4	100
 雜貨	chap8  he3	101
 雜貨	chap8  hue3	101
 雜貨	chap8  se3	100
@@ -104585,22 +104581,22 @@ sort: by_weight
 雨麼仔	hou7  mng1  a2	100
 雨點	hou7  tiam2	100
 雨點仔	hou7  tiam2  a2	101
-雪上加霜	suan4  siang7  ka1  song1	100
-雪中送炭	suan4  tiong1  sang3  thuann3	100
+雪上加霜	suat4  siang7  ka1  song1	100
+雪中送炭	suat4  tiong1  sang3  thuann3	100
 雪人	seh4  lang5	100
 雪仔	seh4  a2	100
 雪仔柑	seh4  a2  kam1	101
 雪仔花	seh4  a2  hue1	100
-雪地	suan4  te7	100
+雪地	suat4  te7	100
 雪尪仔	seh4  ang1  a2	100
 雪山	seh4  suann1	100
-雪山	suan4  suann1	100
+雪山	suat4  suann1	100
 雪帽	seh4  bo7	101
-雪幔	suan4  mua1	101
-雪恥	suan4  thi2	100
+雪幔	suat4  mua1	101
+雪恥	suat4  thi2	100
 雪文	sap4  bun5	101
 雪文	sat4  bun5	101
-雪文	suan4  bun5	103
+雪文	suat4  bun5	103
 雪文戲	sap4  bun5  hi3	100
 雪文沫	sap4  bun5  phueh8	102
 雪文沫	sap4  mui5  pheh8	102
@@ -104614,26 +104610,26 @@ sort: by_weight
 雪文膏	sap4  bun5  ko1	100
 雪景	seh4  keng2	100
 雪柑	seh4  kam1	101
-雪梅	suan4  mue5	100
+雪梅	suat4  mue5	100
 雪梨	seh4  lai5	100
-雪梨	suan4  le5	100
-雪湖	suan4  ou5	100
-雪片糕	suan4  phian3  ko1	101
-雪白官燕	suan4  pek8 kuann1  ian3	100
-雪白木耳	suan4  pek8 bok8  ni2	100
+雪梨	suat4  le5	100
+雪湖	suat4  ou5	100
+雪片糕	suat4  phian3  ko1	101
+雪白官燕	suat4  pek8 kuann1  ian3	100
+雪白木耳	suat4  pek8 bok8  ni2	100
 雪米	seh4  bi2	101
-雪糕	suan4  ko1	101
+雪糕	suat4  ko1	101
 雪花	seh4  hue1	101
-雪花	suan4  hua1	100
-雪衣	suan4  i1	100
-雪裏青	suan4  li2  chheng1	100
-雪裡梅花	suan4  li2 mui5  hua1	100
+雪花	suat4  hua1	100
+雪衣	suat4  i1	100
+雪裏青	suat4  li2  chheng1	100
+雪裡梅花	suat4  li2 mui5  hua1	100
 雪車	seh4  chhia1	102
-雪車犬	suan4  chhia1  khian2	100
+雪車犬	suat4  chhia1  khian2	100
 雪雪	seh4  seh4	100
-雪雪	suan4  suan4	100
-雪青	suan4  chhinn1	100
-雪餃	suan4  kiau2	100
+雪雪	suat4  suat4	100
+雪青	suat4  chhinn1	100
+雪餃	suat4  kiau2	100
 雪鴛鴦	seh4  uan1  iunn1	101
 雲中	hun5  tiong1	100
 雲內	hun5  lai7	100
@@ -104661,7 +104657,7 @@ sort: by_weight
 雲版	hun5  pan2	100
 雲石	hun5  chioh8	102
 雲端	hun5  tuan1	100
-雲端發票	hun5  tuan1 huan4  phio3	100
+雲端發票	hun5  tuan1 huat4  phio3	100
 雲箋	hun5  chian1	100
 雲縫	hun5  phang7	100
 雲罩密密	hun5 ta3 bat8  bat8	100
@@ -104824,7 +104820,7 @@ sort: by_weight
 電子業	tian7  chu2  giap8	100
 電子琴	tian7  chu2  khim5	100
 電子琴	tian7  chur2  khim5	100
-電子發票	tian7  chu2  huan4  phio3	100
+電子發票	tian7  chu2  huat4  phio3	100
 電子秤	tian7  chu2  chhin3	100
 電子糋鍋	tian7  chu2  chinn3  ko1	100
 電子花車	tian7  chu2  hue1  chhia1	100
@@ -105030,7 +105026,7 @@ sort: by_weight
 電風扇	tian7  hong1  sinn3	100
 電風柱仔	tian7  hong1  thiau7  a2	100
 電馭叛客	tian7  gu7  puan7  kheh4	100
-電髮	tian7  huan4	101
+電髮	tian7  huat4	101
 電魚	tian7  hi5	100
 電龜	tian7  ku1	100
 需求	su1  kiu5	101
@@ -105083,7 +105079,7 @@ sort: by_weight
 霜寒雪凍	sng1  kuann5 seh4  tang3	100
 霜寒雪凍	sng1 kuann5 seh4 tang3	100
 霜庫逝	sng1  khou3  chua7	100
-霜月	song1  guan8	100
+霜月	song1  guat8	100
 霜條	sng1  tiau5	104
 霜櫃	sng1  kui7	100
 霜櫥	sng1  tu5	100
@@ -105182,7 +105178,7 @@ sort: by_weight
 靈機一動	leng5  ki1  it4  tong7	100
 靈氣	leng5  khi3	101
 靈活	leng5  uah8	101
-靈活	leng5  uan8	100
+靈活	leng5  uat8	100
 靈潭陂	leng5  tham5  pi1	101
 靈物	leng5  but8	100
 靈穴	leng5  hiat8	100
@@ -105513,7 +105509,7 @@ sort: by_weight
 非常	hui1  siang5	100
 非常	hui1  siong5	102
 非思不可	hui1 su1 put4 kho1	100
-非法	hui1  huan4	101
+非法	hui1  huat4	101
 非洲	hui1  chiu1	101
 非洲殕鸚哥	hui1  chiu1  phu2  eng1  ko1	100
 非洲豬瘟	hui1  chiu1  ti1  un1	100
@@ -106092,10 +106088,10 @@ sort: by_weight
 頑童	guan5  tong5	100
 頑頑	ban5  ban5	100
 頒佈	pan1  pou3	101
-頒定憲法	pan1  teng7  hian3  huan4	100
+頒定憲法	pan1  teng7  hian3  huat4	100
 頒布	pan1  pou3	100
 頒獎	pan1  chiong2	100
-頒發	pan1  huan4	100
+頒發	pan1  huat4	100
 頒行	pan1  heng5	100
 頒詔	pan1  chiau3	100
 頒諭	pan1  ju7	100
@@ -106261,7 +106257,7 @@ sort: by_weight
 頭一關	thau5  chit8  kuan1	100
 頭一鞏	thau5  chit8  khong7	100
 頭七	thau5  chhit4	101
-頭三个法人	thau5  sann1   e5 huan4  jin5	100
+頭三个法人	thau5  sann1   e5 huat4  jin5	100
 頭上	thau5  chiunn7	100
 頭上仔	thau5  chiunn7  a2	101
 頭上孫	thau5  chiunn7  sun1	101
@@ -106535,7 +106531,7 @@ sort: by_weight
 頭腦	thau5  nau2	103
 頭腦	thau5  nou2	100
 頭腦內	thau5  nau2  lai7	100
-頭腦趕緊斡	thau5  nau2 kuann2  kin2 uan4	100
+頭腦趕緊斡	thau5  nau2 kuann2  kin2 uat4	100
 頭腳	thau5  kioh4	100
 頭腳師仔	thau5  kioh4 sai1  a2	100
 頭至尾	thau5  chi3  bue2	100
@@ -106909,7 +106905,7 @@ sort: by_weight
 風景區	hong1  keng2  khu1	100
 風晴雨露	hong1 cheng5 u2 lou7	100
 風暴	hong1  po7	101
-風月	hong1  guan8	100
+風月	hong1  guat8	100
 風枋	hong1  pang1	100
 風格	hong1  keh4	101
 風桶	hong1  thang2	100
@@ -106988,7 +106984,7 @@ sort: by_weight
 風草	hong1  chhau2	101
 風華	hong1  hua1	100
 風華	hong1  hua5	101
-風華絕代	hong1  hua5  chuan8  tai7	100
+風華絕代	hong1  hua5  chuat8  tai7	100
 風蔥	hong1  chhang1	102
 風藤	hong1  tin5	102
 風螺	hong1  le5	101
@@ -106997,7 +106993,7 @@ sort: by_weight
 風衣	hong1  i1	100
 風評	hong1  pheng5	102
 風說	hong1  seh4	100
-風說	hong1  suan4	101
+風說	hong1  suat4	101
 風調雨順	hong1  tiau5  u2  sun7	100
 風調雨順	hong1 tiau5 u2 sun7	100
 風謗	hong1  pong3	105
@@ -107179,7 +107175,7 @@ sort: by_weight
 飛行機	pue1  heng5  ki1	100
 飛行機埕	hue1  leng5  ki1  tiann5	100
 飛行船	hui1  heng5  chun5	101
-飛越	pue1  uan8	100
+飛越	pue1  uat8	100
 飛躍	hui1  iok8	100
 飛輪	hui1  lun5	100
 飛過	pue1  kue3	100
@@ -108528,7 +108524,7 @@ sort: by_weight
 駝鳥	to5  chiau2	100
 駱駝	lok8  to5	104
 駱駝絨	lok8  to5  jiong5	100
-駿發	chun3  huan4	100
+駿發	chun3  huat4	100
 駿馬	chun3  ma2	100
 騃錢	gai5  chinn5	100
 騎乘	khia5  seng5	100
@@ -108840,7 +108836,7 @@ sort: by_weight
 骨髓腔	kut4  chhe2  khang1	100
 骨髓腔	kut4  chhue2  khang1	100
 骨體	kut4  the2	100
-骨體發炎	kut4  the2 huan4  iam7	100
+骨體發炎	kut4  the2 huat4  iam7	100
 骨鵃	kut4  chiu1	100
 骨齴齴	kut4  giang3  giang3	101
 骰九	tau5  kau2	101
@@ -108912,13 +108908,13 @@ sort: by_weight
 體格	the2  keh4	102
 體樣	the2  iunn7	100
 體檢	the2  kiam2	101
-體法	the2  huan4	100
+體法	the2  huat4	100
 體溫	the2  un1	102
 體溫計	the2  un1  ke3	100
 體積	the2  chek4	101
 體系	the2  he7	101
 體統	the2  thong2	103
-體罰	the2  huan8	100
+體罰	the2  huat8	100
 體育	the2  iok8	102
 體育場	the2  iok8  tiunn5	100
 體育會	the2  iok8  hue7	100
@@ -109152,12 +109148,12 @@ sort: by_weight
 髡毛	khun1  mou1	100
 髡皮	khun1  phue5	100
 髡面毛	khun1  bin7  mng5	100
-髡髮	khun1  huan4	100
+髡髮	khun1  huat4	100
 髣佛	hong2  hut4	100
-髮僧	huan4  cheng1	101
-髮型	huan4  heng5	100
-髮妻	huan4  chhe1	100
-髮字頭	huan4  ji7  thau5	102
+髮僧	huat4  cheng1	101
+髮型	huat4  heng5	100
+髮妻	huat4  chhe1	100
+髮字頭	huat4  ji7  thau5	102
 髻仔	ke3  a2	100
 髻仔尾	ke3  a2  be2	100
 髻仔尾	kue3  a2  bue2	100
@@ -109225,7 +109221,7 @@ sort: by_weight
 鬥一腳	tau3  chit8  kha1	100
 鬥下	tau3  he7	100
 鬥久	tau3  ku2	100
-鬥仙法	tau3  sian1  huan4	101
+鬥仙法	tau3  sian1  huat4	101
 鬥份	tau3  hun7	100
 鬥伙	tau3  hue2	100
 鬥伙計	tau3 hue2  ki3	100
@@ -109294,7 +109290,7 @@ sort: by_weight
 鬥樑	tau3  niu5	100
 鬥氣	tou2  khi3	100
 鬥氣	tou3  khi3	100
-鬥法	tau3  huan4	100
+鬥法	tau3  huat4	100
 鬥流	tau3  lau5	100
 鬥無好勢	tau3  bo5  ho2  si3	101
 鬥無閒	tau3  bo5  eng5	103
@@ -109575,9 +109571,9 @@ sort: by_weight
 魔導士	mou5  to7  su7	101
 魔掌	mou5  chiang2	100
 魔棍仔	mou5  kun3  a2	100
-魔法	mou5  huan4	101
-魔法少女	mou5  huan4 siau3  lu2	100
-魔法瓶	mou5  huan4  pan5	100
+魔法	mou5  huat4	101
+魔法少女	mou5  huat4 siau3  lu2	100
+魔法瓶	mou5  huat4  pan5	100
 魔狂性	mou5  kong5  seng3	100
 魔獸爭霸	mou5  siu7  cheng1  pa3	100
 魔王	mou5  ong5	100
@@ -109942,9 +109938,9 @@ sort: by_weight
 鰻虱目	mua5  sat4  bak8	100
 鰻飯	mua5  png7	100
 鰻魚	mua5  hi5	103
-鱈魚	suan4  hi5	101
-鱈魚	suan4  hu5	100
-鱈魚芳絲	suan4  hi5  phang1  si1	100
+鱈魚	suat4  hi5	101
+鱈魚	suat4  hu5	100
+鱈魚芳絲	suat4  hi5  phang1  si1	100
 鱉仔草	pih4  a2  chhau2	100
 鱉公	pih4  kang1	100
 鱉卵	pih4  nng7	100
@@ -110363,7 +110359,7 @@ sort: by_weight
 鴨霸	ah4  pa3	101
 鴨鯗	ah4  siunn2	100
 鴨鵤	ah4  kak4	101
-鴨麻瓜	ap4  ma5  kuan8	100
+鴨麻瓜	ap4  ma5  kuat8	100
 鴻儒	hong5  ju5	100
 鴻基	hong5  ki1	100
 鴻志	hong5  chi3	100
@@ -110687,7 +110683,7 @@ sort: by_weight
 鹽水港堡	kiam5  chui2  kang2  po2	100
 鹽水溪	kiam5  chui2  khe1	100
 鹽水面頭菓	iam5  chui2  bin7  thau5  ke2	100
-鹽法道	iam5  huan4  to7	100
+鹽法道	iam5  huat4  to7	100
 鹽波	iam5  pho1	101
 鹽海	iam5  hai2	100
 鹽滷	iam5  lou2	102
@@ -111443,7 +111439,7 @@ sort: by_weight
 點拄	tiam2  tuh4	102
 點控筆	tiam2  khong3  pit4	100
 點控螢幕	tiam2  khong3  eng5  bou7	100
-點撇	tiam2  phuan4	101
+點撇	tiam2  phuat4	101
 點播	tiam2  pou3	100
 點攄	tiam2  lu3	100
 點攄螢幕	tiam2  lu1  eng5  bou7	100
@@ -111801,7 +111797,7 @@ sort: by_weight
 齊心	chue5  sim1	100
 齊整	chue5  cheng2	100
 齊斬	chue5  chann2	100
-齊發	chue5  huan4	100
+齊發	chue5  huat4	100
 齊眉	che5  bi5	102
 齊眉	chue5  bi5	100
 齊眉槌	chue5  bi5  thui5	100

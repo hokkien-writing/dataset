@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_dp
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2800,7 +2800,7 @@ si⁵sin⁵	si5 sin5	99
 si⁵zoih⁴ diêh⁸ bai³a¹gong¹	si5 choih4 tieh8 pai3 a1 kong1	99
 si⁵zêng¹	si5 cheng1	100
 si⁵zêng¹tui⁷	si5 cheng1 thui7	99
-si⁶ cu³bhi⁸ zai⁶	si6 chhu3 bi8 chai6	99
+si⁶ cu³bhi⁷ zai⁶	si6 chhu3 bi7 chai6	99
 si⁶ i¹	si6 i1	99
 si⁶ ngia²zai⁶	si6 ngia2 chai6	99
 si⁶ ziêⁿ³sêⁿ¹	si6 chienn3 senn1	99

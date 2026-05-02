@@ -96,12 +96,16 @@ class LatnTranslator:
             new_initial = self._map_initial(initial, vowel)
             new_vowel = self.mapping.vowel_map.get(vowel, vowel)
 
+            tone_int = int(tone_num) if tone_num else 0
+
             if self.mapping.nasal_prefix and ending in self.mapping.nasal_prefix:
                 prefix, remaining = self.mapping.nasal_prefix[ending]
                 new_vowel = prefix + new_vowel
-                new_ending = self.mapping.ending_map.get(remaining, remaining)
+                raw = self.mapping.ending_map.get(remaining, remaining)
+                new_ending = raw(remaining, tone_int) if callable(raw) else raw
             else:
-                new_ending = self.mapping.ending_map.get(ending, ending)
+                raw = self.mapping.ending_map.get(ending, ending)
+                new_ending = raw(ending, tone_int) if callable(raw) else raw
 
             return new_initial + new_vowel + new_ending + tone_num
 

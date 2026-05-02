@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew_puj
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -2983,7 +2983,7 @@ sûi-sî	sui5 si5	99
 sĩ chièⁿ-seⁿ	si6 chienn3 senn1	99
 sĩ i	si6 i1	99
 sĩ ngiá-tsãi	si6 ngia2 chai6	99
-sĩ tshù-bi̍ tsãi	si6 chhu3 bi8 chai6	99
+sĩ tshù-bī tsãi	si6 chhu3 bi7 chai6	99
 sĩ-mih	si6 mih4	99
 sĩm moh	sim6 moh4	101
 sī iû	si7 iu5	50

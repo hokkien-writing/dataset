@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: hokkien_tl_en
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 ...
 
@@ -2781,7 +2781,6 @@ kî-hiāⁿ	artemisia-vulgaris	50
 tshiⁿ-o-tshsú	artemisiacapillaris	50
 sió-tōng-be̍h	arterioles	50
 tōng-me̍h ngē-huà	arteriosclerosis-sclerosis-of-the-arteries	50
-tōng-be̍	artery	50
 tōng-me̍h	artery	50
 tsū-lâi-tsíⁿ	artesian-well	50
 tsuâⁿ-tsín	artesian-well-spring	50
@@ -3323,7 +3322,6 @@ kiap-kong	attack-from-both-sides	50
 saⁿ-kik	attack-or-provoke-one-another	50
 tshim-si̍p	attack-stealthily-invade-to-plagiarize	50
 kong-kik	attack-take-the-offensive-criticize	50
-ta̍t-tsia̍ⁿ	attain	50
 tat--tio̍h	attain-achieve	50
 tik-tō	attain-enlightenment	50
 ta̍t-tò	attain-object-reach-goal	50
@@ -3378,7 +3376,6 @@ tshiūⁿ	attract-moisture-as-salt-etc	50
 hōo lâng tsù-bo̍k	attract-notice	50
 kiau-lām	attractive-beautiful-fascinating	50
 kiau	attractive-enticing-fascinating	50
-khip-la̍y	attractive-force-magnetic-force-suction	50
 sio̍k-sìng	attribute-of-God	50
 kui-î	attribute-to-revert-to	50
 huah-kè	auction	50
@@ -3620,7 +3617,6 @@ bô-bóo-bô-kâu	bachelor	50
 ha̍k-sū	bachelor	50
 kong-kùn	bachelor	50
 lô-hàn-kha	bachelor	50
-lô-hàn-kha̍	bachelor	50
 tan-sin-hàn	bachelor	50
 to̍k-sin-tsiá	bachelor-a-celibate	50
 to̍k-sin-hàn	bachelor-a-celibate	50
@@ -5344,9 +5340,9 @@ sîng-bîng	become-famous	50
 tshut-miâ	become-famous-famous	50
 it-kí sîng-bîng	become-famous-with-one-move	50
 pûi khí-lâi	become-fat-put-on-weight	50
+huān jia̍t-pīⁿ	become-feverish	50
 huat-jia̍t	become-feverish	50
 huat-sio	become-feverish	50
-huān jia̍t-pīⁿ	become-feverish	50
 kiat-tsò pîng-iú	become-friends	50
 tio̍h tsi̍t-kiaⁿ	become-frightened	50
 kiat-sng	become-frosted-over-become-frosty	50
@@ -5937,7 +5933,6 @@ taⁿ-kńg	bile-duct	50
 táⁿ-tsiap	bile-gall	50
 tám-iâm	bile-salts	50
 taⁿ-iâm	bile-salts	50
-táⁿ-tsiap-pi̍ⁿ	biliousness	50
 tshíng-kiû-su	bill	50
 tshau	bill-cash	50
 tsúi-tsoo	bill-for-water-irrigation	50
@@ -6532,7 +6527,6 @@ pang	boards-planks-plates	50
 king-khua	boast	50
 khua-tiong	boast	50
 kue-kui	boast	50
-kue-ku̍i	boast	50
 phín	boast	50
 phín-phóng	boast	50
 pûn ke	boast	50
@@ -19985,7 +19979,6 @@ ki̍k-tuan	extreme	50
 ki̍k-ok	extreme-atrocity	50
 khîn-khóo	extreme-diligence	50
 khûn-khóo	extreme-diligence	50
-ike̍-tiám	extreme-point	50
 ki̍k-tiám	extreme-point-climax-summit	50
 tshiah-pîn	extreme-poverty	50
 tsì-ki̍k	extreme-the-limit	50
@@ -20095,7 +20088,6 @@ ba̍k-tsiu thóo-thóo	eyes-protrude	50
 ba̍k-tsiu siap	eyes-sleepy	50
 bo̍k-li̍k	eyesight-power-of-vision	50
 li̍k	eyesight-power-of-vision	50
-sī-la̍i	eyesight-power-of-vision	50
 sī-kak	eyesight-sense-of-sight	50
 ba̍k-kim	eyesight-vision	50
 bo̍k-kik-tsiá	eyewitness	50
@@ -32071,7 +32063,6 @@ kàu-lu̍t	law-of-Moses	50
 tsū-jiân-lu̍t	law-of-nature	50
 phiò-kì-huat	law-of-Negotiable-Instruments	50
 tiong-li̍p-huat	law-of-neutrality	50
-lu̍i	law-regulation	50
 tiâu-lē	law-regulation-rule	50
 ha̍p-huat	lawful-legal	50
 huat-tīng ê gī-bū	lawful-obligation	50
@@ -37064,7 +37055,6 @@ tsī-bú-tsī-tsū	murmur-against-talk-sotto-voce	50
 ngia̍uh-ngia̍uh-liām	murmur-mutter	50
 tshām	murmur-of-flowing-water	50
 uàn-siaⁿ	murmuring-expression-of-discontent	50
-ki-jio̍l	muscle	50
 kin-bah	muscle	50
 kin-jio̍k	muscle	50
 kun-bah	muscle	50
@@ -42894,7 +42884,6 @@ hū-sin	possess-by-an-evil-spirit	50
 hū-thé	possess-by-an-evil-spirit	50
 hiáng-iú	possess-have-in-possession	50
 kúi hū-sin	possessed-by-demons	50
-to̍k-ju̍ ê	possessed-by-only-N	50
 sîn-thong kóng-tāi	possessing-marvelous-abilities	50
 khó-lîng	possibility	50
 khó-lîng-sìng	possibility	50
@@ -50808,7 +50797,6 @@ thau-thâi	slaughter-secretly	50
 gû-tsàu	slaughterhouse	50
 lôo-tsâi	slave	50
 lôo-lē	slave	50
-lôo-le̍	slave	50
 lí-lôo	slave-girls	50
 tsîⁿ lôo-tsâi	slave-of-money-miser	50
 lôo	slave-servant	50
@@ -51267,8 +51255,6 @@ kim-bīn	smooth-surface	50
 ku̍t	smooth-to-slide-slippery	50
 ut hōo pêⁿ	smooth-with-an-iron	50
 ut-táu	smoothing-iron	50
-kng-ku̍i	smoothly-polished	50
-kng-ku̍i	smoothness	50
 tsáu-su	smuggle	50
 su-ūn	smuggle	50
 tsáu-su	smuggle-smuggling	50
@@ -52677,7 +52663,6 @@ khiā-pîn	standing-screen-at-doorway	50
 khiā-pîn	standing-screen-freq-ornamental	50
 pîn	standing-screen-wooden-partition	50
 li̍p-tiûⁿ	standpoint-position-situation-standing	50
-ting-ku̍i	stapes	50
 tua-huan-hûn	staphania-tetranda	50
 phô-tô kiû-khún	staphylococcus	50
 tìng-su-ki	stapler	50
@@ -53423,7 +53408,6 @@ ke	street-town	50
 po̍k-tōng	street-violence-riot	50
 hua-ke liú-hāng	streets-of-ill-fame	50
 kiông-tsòng	streng-physically	50
-khùi-la̍y	strength	50
 ióng-tsóng	strength-and-vigor	50
 tsing-li̍k	strength-energy	50
 khùi-la̍t	strength-energy-force-power-vigor	50

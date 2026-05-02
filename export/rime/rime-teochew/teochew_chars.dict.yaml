@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: teochew_chars
-version: "20260502.203228"
+version: "20260502.220352"
 sort: by_weight
 ...
 
@@ -178,10 +178,9 @@ sort: by_weight
 蜜	bek8	50
 米	bi2	122
 氼	bi3	100
-味	bi7	116
+味	bi7	117
 未	bi7	106
 氼	bi7	102
-味	bi8	100
 描	bie5	102
 瞄	bie5	102
 廟	bie7	103
@@ -2101,7 +2100,7 @@ sort: by_weight
 絕	choh8	107
 齊	choi5	102
 㩼	choi6	101
-㩼	choi7	140
+㩼	choi7	141
 節	choih4	114
 截	choih8	108
 指	choinn2	110
