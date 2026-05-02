@@ -54,6 +54,42 @@ Rime's user dictionary fuzzy matching is aggressive. When the user types explici
 - Compare the input syllables (e.g., `tai5`) with the candidate's codes (e.g., `tai6`).
 - If tones are present in input but don't match the candidate, discard the candidate to prevent noise.
 
+### Ambiguous Segmentation from `derive` Rules
+
+`derive` rules (e.g., `derive/nn//`, `derive/[1-8]//`) can cause Rime's sentence composer to **mis-segment** input. Example: input `hong5-lai5` gets segmented as `ho` + `ng5` + `lai5` (3 syllables) instead of `hong5` + `lai5` (2 syllables), because `ng5` is a valid syllable code and `ho` is a valid prefix.
+
+**Detection**: Count input syllable tokens vs comment code tokens. Mismatch → wrong segmentation.
+
+```lua
+local input_syl_count = 0
+for _ in input:gmatch("[%w]+") do input_syl_count = input_syl_count + 1 end
+-- For each candidate: if #codes ~= input_syl_count → demote to partial
+```
+
+**Synthesis fallback**: Rime's `script_translator` with `enable_sentence` may not produce low-weight Latin sentences (syllable entries weight ~1 vs Han chars weight ~100+). When no Latin full-match candidate exists, synthesize from input via SYLLABLE_MAP:
+
+```lua
+-- 1. Try ShadowCandidate on a Han full-match (preserves user dict learning)
+for _, hc in ipairs(han_items) do
+    if hc._end - hc.start >= #input then
+        local c = ShadowCandidate(hc, hc.type, synth_text, "")
+        c.quality = hc.quality + 1000
+        table.insert(latin_full, 1, c)
+        break
+    end
+end
+-- 2. Fallback: Candidate() (no user dict learning, but correct display)
+if not shadowed then
+    local c = Candidate("synth", 0, #input, synth_text, "")
+    c.quality = 1000
+    table.insert(latin_full, 1, c)
+end
+```
+
+**ShadowCandidate on sentence candidates**: Shadowing a Han sentence (e.g., `紅來`) with Latin text (e.g., `hông-lâi`) preserves the Phrase reference for user dictionary learning. The user dict then stores the code-text mapping, so typing without tones (e.g., `honglai`) can still surface `hông-lâi`. If commit produces garbled output (e.g., `hông-lâ來`), the base candidate may not truly cover the full input — always verify `hc._end - hc.start >= #input`.
+
+**Output priority when `has_digits`**: `latin_full` → `han_items` → `latin_partial` → `han_partial` (mis-segmented candidates demoted to `*_partial`).
+
 ## Debugging Checklist
 1. **YAML Indentation**: Never use tabs in the structure (only in the dict code table).
 2. **Alphabet**: Must include every character used in dictionary codes (digits, hyphens, caps).
