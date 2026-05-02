@@ -6332,7 +6332,8 @@ local function filter(translation, env)
     local has_digits = input:match("%d") ~= nil
     local latin_first = has_caps or has_digits
 
-    local latin_items = {}
+    local latin_full = {}
+    local latin_partial = {}
     local han_items = {}
 
     for cand in translation:iter() do
@@ -6399,14 +6400,22 @@ local function filter(translation, env)
             if new_text ~= cand.text then
                 local c = ShadowCandidate(cand, cand.type, new_text, "")
                 if latin_first then
-                    table.insert(latin_items, c)
+                    if cand._end - cand.start >= #input then
+                        table.insert(latin_full, c)
+                    else
+                        table.insert(latin_partial, c)
+                    end
                 else
                     yield(c)
                 end
             else
                 cand.comment = ""
                 if latin_first then
-                    table.insert(latin_items, cand)
+                    if cand._end - cand.start >= #input then
+                        table.insert(latin_full, cand)
+                    else
+                        table.insert(latin_partial, cand)
+                    end
                 else
                     yield(cand)
                 end
@@ -6415,14 +6424,12 @@ local function filter(translation, env)
     end
 
     if latin_first then
-        table.sort(latin_items, function(a, b)
-            return (a._end - a.start) > (b._end - b.start)
-        end)
-        for _, c in ipairs(latin_items) do yield(c) end
         table.sort(han_items, function(a, b)
             return (a._end - a.start) > (b._end - b.start)
         end)
+        for _, c in ipairs(latin_full) do yield(c) end
         for _, c in ipairs(han_items) do yield(c) end
+        for _, c in ipairs(latin_partial) do yield(c) end
     end
 end
 
