@@ -88,25 +88,65 @@ If `mod.filter` is nil, Rime silently skips the filter/translator — no candida
 
 ### Auto-Composed Sentence Hyphens
 
-When `script_translator` composes a sentence from individual syllable dict entries, it concatenates their texts without separators (e.g., `tiân` + `sí` → `tiânsí`). To add hyphens, reconstruct the text from `spelling_hints` comment codes via a SYLLABLE_MAP:
+When `script_translator` composes a sentence from individual syllable dict entries, it concatenates their texts without separators (e.g., `tiân` + `sí` → `tiânsí`). To restore hyphens, walk the **user's input** for separator positions and use **comment codes** (from `spelling_hints`) for SYLLABLE_MAP lookup:
 
 ```lua
-local hw_parts = {}
+-- Comment codes = LATN_NORM format (matches SYLLABLE_MAP keys)
+-- User input = schema romanization (may differ, e.g. PUJ "hoan5" vs LATN_NORM "huan5")
+local codes = {}
 for code in (cand.comment or ""):gmatch("[%w]+") do
-    local hw = SYLLABLE_MAP[code:lower()]
-    if hw then table.insert(hw_parts, hw) else hw_parts = {}; break end
+    table.insert(codes, code:lower())
 end
-if #hw_parts > 0 then
-    new_text = table.concat(hw_parts, "-")
+local new_text = ""
+local i, code_idx, valid = 1, 1, true
+while i <= #input do
+    local token = input:match("^[%w]+", i)
+    if token then
+        local hw = nil
+        local ci = code_idx
+        while ci <= #codes do
+            hw = SYLLABLE_MAP[codes[ci]]
+            if hw then code_idx = ci + 1; break end
+            ci = ci + 1
+        end
+        if not hw then hw = SYLLABLE_MAP[token:lower()] end
+        if not hw then valid = false; break end
+        new_text = new_text .. hw
+        i = i + #token
+    else
+        local sep = input:match("^[^%w]+", i)  -- preserves -, --, etc.
+        if sep then new_text = new_text .. sep; i = i + #sep
+        else new_text = new_text .. input:sub(i, i); i = i + 1 end
+    end
 end
+if not valid then new_text = cand.text end
 ```
 
-Key insight: `cand.comment` (from `spelling_hints`) contains the segmented codes even for auto-composed sentences. Use `ShadowCandidate` to apply the new text.
+Why not just use comment codes with `table.concat(parts, "-")`?
+- That only handles single `-` and can't distinguish `-` from `--`
+- User input may use different romanization than SYLLABLE_MAP keys (e.g. `hoan5` in PUJ vs `huan5` in LATN_NORM)
+
+### Tone-Number-Aware Candidate Ordering
+
+When the user types explicit tone numbers, Latin candidates should be prioritized over Han candidates. Sort by input coverage (`_end - start`) so full-input matches come before partial ones:
+
+```lua
+local has_digits = (ctx.input or ""):match("%d") ~= nil
+local latin_first = has_caps or has_digits
+-- ... collect latin_items / han_items when latin_first ...
+if latin_first then
+    table.sort(latin_items, function(a, b)
+        return (a._end - a.start) > (b._end - b.start)
+    end)
+    for _, c in ipairs(latin_items) do yield(c) end
+    -- then yield han_items
+end
+```
 
 ### Pitfalls
 - **Sandbox**: `io` and `os` libraries are restricted in many Rime builds.
 - **Memory**: Avoid creating too many tables inside the filter loop.
-- **Comment Mapping**: `cand.comment` is the only source of syllable segmentation for synthesized sentences in many schemas. Use it to reconstruct Latin handwriting with hyphens.
+- **Comment vs Input**: User input determines separators (`-`/`--`); comment codes (LATN_NORM) determine handwriting lookup. Never mix the two purposes.
 - **Silent Lua failures**: If a `lua_filter`/`lua_translator`/`lua_processor` name doesn't resolve to a callable, Rime logs nothing and shows no candidates. Always verify `rime.lua` exports match schema references.
 - **Silent `cand.text` write**: Assigning `cand.text = x` in a Lua filter does **not** produce an error but silently fails — the displayed text remains unchanged. Always use `ShadowCandidate` to change candidate text.
 
