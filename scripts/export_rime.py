@@ -39,6 +39,8 @@ SYSTEM_NAMES = {
     "bp": "福建話·拼音",
 }
 
+ALL_SYSTEMS = ["bp", "tl", "poj", "puj", "dp"]
+
 SOURCE_WEIGHT = {
     "dieghv": 0.5,
 }
@@ -1641,6 +1643,8 @@ def main():
     all_rows = _load_merged_rows(MERGED_CSV)
     print(f"Loaded {len(all_rows)} rows")
 
+    all_entries, _ = load_entries(all_rows)
+
     for pkg, cfg in PACKAGE_SYSTEMS.items():
         systems = cfg["systems"]
         entries, systems_data = load_entries(all_rows, require_systems=cfg["require"])
@@ -1681,12 +1685,11 @@ def main():
                 write_zh_schema(system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir, has_zh=has_zh)
         write_default_custom(systems, pkg, pkg_dir)
-        filter_names = []
-        for system in systems:
-            filter_names.append(write_lua_filter(entries, system, pkg_dir))
+        for system in ALL_SYSTEMS:
+            write_lua_filter(all_entries, system, pkg_dir)
         rime_lua = pkg_dir / "rime.lua"
         lines = []
-        for system in systems:
+        for system in ALL_SYSTEMS:
             fn = f"{system}_filter"
             ct = f"{system}_caps_tracker"
             lines.append(f"local {fn}_mod = require('{fn}')")

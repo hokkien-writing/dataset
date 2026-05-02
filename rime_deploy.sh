@@ -68,7 +68,6 @@ echo "Target directory: $target"
 
 mkdir -p "$target"
 
-merged_rime_lua=""
 schema_lines=""
 page_size=""
 for SOURCE_DIR in "${SOURCE_DIRS[@]}"; do
@@ -78,39 +77,36 @@ for SOURCE_DIR in "${SOURCE_DIRS[@]}"; do
     for file in "$SOURCE_DIR"/*; do
         [ -f "$file" ] || continue
         fname="$(basename "$file")"
-        if [ "$fname" = "rime.lua" ]; then
-            merged_rime_lua="$merged_rime_lua
-$(cat "$file")"
-            continue
-        fi
-        if [ "$fname" = "default.custom.yaml" ]; then
-            while IFS= read -r line; do
-                case "$line" in
-                    "    - schema:"*)
-                        schema_lines="$schema_lines
+        case "$fname" in
+            rime.lua)
+                ;;
+            default.custom.yaml)
+                while IFS= read -r line; do
+                    case "$line" in
+                        "    - schema:"*)
+                            schema_lines="$schema_lines
 $line"
-                        ;;
-                    *"menu/page_size"*)
-                        page_size="$line"
-                        ;;
-                esac
-            done < "$file"
-            continue
-        fi
-        cp -v "$file" "$target/"
+                            ;;
+                        *"menu/page_size"*)
+                            page_size="$line"
+                            ;;
+                    esac
+                done < "$file"
+                ;;
+            *)
+                cp -v "$file" "$target/"
+                ;;
+        esac
     done
-
-    if [ -d "$SOURCE_DIR/lua" ]; then
-        mkdir -p "$target/lua"
-        for file in "$SOURCE_DIR/lua"/*; do
-            [ -f "$file" ] || continue
-            cp -v "$file" "$target/lua/"
-        done
-    fi
 done
 
-printf "%s\n" "$merged_rime_lua" | sed '/^$/d' > "$target/rime.lua"
-echo "Merged rime.lua written to $target/rime.lua"
+cp -v "${SOURCE_DIRS[1]}/rime.lua" "$target/rime.lua"
+
+mkdir -p "$target/lua"
+for file in "${SOURCE_DIRS[1]}/lua"/*; do
+    [ -f "$file" ] || continue
+    cp -v "$file" "$target/lua/"
+done
 
 {
     echo "# Rime default settings customization"
