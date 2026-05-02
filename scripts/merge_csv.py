@@ -331,7 +331,21 @@ def main():
                 row[k] = unicodedata.normalize("NFC", v)
 
     _ENTERING_ENDINGS = frozenset("ptkh")
+    _ENTERING_ENDINGS_STRIP = ("nnh", "p", "t", "k", "h")
+    _SYLLABIC_NASALS = frozenset({"m", "ng", "n"})
+    _VOWEL_CHARS = frozenset("aeiou")
     _SYL_RE = re.compile(r"^([a-z]+)(\d+)(\[.*\])?$")
+
+    def _has_vowel_nucleus(body: str) -> bool:
+        if any(c in _VOWEL_CHARS for c in body):
+            return True
+        stripped = body
+        for e in _ENTERING_ENDINGS_STRIP:
+            if stripped.endswith(e) and len(stripped) > len(e):
+                stripped = stripped[: -len(e)]
+                break
+        return stripped in _SYLLABIC_NASALS or stripped.endswith(("m", "ng", "n"))
+
     bad_rows = []
     good_rows = []
     for row in rows:
@@ -342,6 +356,9 @@ def main():
             if not m:
                 continue
             body, tone = m.group(1), m.group(2)
+            if not _has_vowel_nucleus(body):
+                ok = False
+                break
             if tone in ("4", "8"):
                 if body.endswith("hnn"):
                     continue
@@ -354,7 +371,7 @@ def main():
             bad_rows.append(row)
 
     if bad_rows:
-        print(f"\n⚠ Skipped {len(bad_rows)} entries with invalid entering tone (no p/t/k/h ending):")
+        print(f"\n⚠ Skipped {len(bad_rows)} invalid entries:")
         for row in bad_rows:
             print(f"  latn={row['latn_norm']!r} poj={row['poj']!r} tl={row['tl']!r}"
                   f" han={row['han']!r} zh_TW={row['zh_TW']!r} source={row['source']!r}")

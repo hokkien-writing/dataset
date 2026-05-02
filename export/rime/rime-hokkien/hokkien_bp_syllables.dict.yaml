@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_bp_syllables
-version: "20260502.220352"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -3654,8 +3654,6 @@ bòo	pou3	1
 bóo	pou5	1
 boo	pou6	1
 bôo	pou7	1
-bp4	pp4	1
-bp8	pp8	1
 bū	pu1	1
 bǔ	pu2	1
 bù	pu3	1

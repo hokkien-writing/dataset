@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien
-version: "20260502.220352"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -221,7 +221,6 @@ sort: by_weight
 一半過仔	chit8  puann3  kue3  a2	100
 一卡通	it4  kha2  thong1	100
 一去	chit8  khi3	100
-一去不回頭	it4  khi3 p4 hue5  thau5	100
 一去不回頭	it4  khu3 put4  hue5  thau5	100
 一口兩舌	it4  khou2 liong2  siat8	100
 一口灶	chit8 khau2 chau3	100
@@ -71594,7 +71593,6 @@ sort: by_weight
 破布子	phua3  pou3  chi2	103
 破布木	phua3  pou3  bok8	100
 破布烏	phua3  pou3  ou1	100
-破布烏	phua3  pou3  pp4	100
 破帆	phua3  phang5	100
 破庀	phua3  phi2	100
 破戒	pho3  kai3	100

@@ -2,7 +2,7 @@
 # Generated - all valid syllables - do not edit manually
 ---
 name: hokkien_tl_syllables
-version: "20260502.220352"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -3654,8 +3654,6 @@ pòu	pou3	1
 pôu	pou5	1
 pǒu	pou6	1
 pōu	pou7	1
-pp4	pp4	1
-pp8	pp8	1
 pu	pu1	1
 pú	pu2	1
 pù	pu3	1

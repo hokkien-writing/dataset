@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_tl
-version: "20260502.220352"
+version: "20260502.225055"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -18537,7 +18537,6 @@ it-khián hūi-hêng	it4 khian2 hui7 heng5	99
 it-kho-seng	it4 kho1 seng1	99
 it-khài	it4 khai3	101
 it-khá-thong	it4 kha2 thong1	99
-it-khì p4 huê-thâu	it4 khi3 p4 hue5 thau5	99
 it-khî	it4 khi5	99
 it-khóu lióng-sia̍t	it4 khou2 liong2 siat8	99
 it-khù put-huê-thâu	it4 khu3 put4 hue5 thau5	99
@@ -52869,7 +52868,6 @@ phuà-pìn-sue	phua3 pin3 sue1	99
 phuà-pòu	phua3 pou3	100
 phuà-pòu-bo̍k	phua3 pou3 bok8	99
 phuà-pòu-ou	phua3 pou3 ou1	99
-phuà-pòu-pp4	phua3 pou3 pp4	99
 phuà-pòu-tsí	phua3 pou3 chi2	102
 phuà-pāi	phua3 pai7	101
 phuà-pāi-kiáⁿ	phua3 pai7 kiann2	99

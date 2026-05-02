@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: hokkien_chars
-version: "20260502.220352"
+version: "20260502.225055"
 sort: by_weight
 ...
 
@@ -8132,7 +8132,7 @@ sort: by_weight
 匯	hue5	107
 和	hue5	127
 囘	hue5	100
-回	hue5	284
+回	hue5	283
 囬	hue5	100
 廻	hue5	100
 徊	hue5	102
@@ -9313,7 +9313,7 @@ sort: by_weight
 裛	ip4	100
 邑	ip4	109
 挹	ip4	100
-一	it4	745
+一	it4	744
 乙	it4	125
 二	it4	101
 噎	it4	100
@@ -11202,7 +11202,7 @@ sort: by_weight
 亟	khi3	100
 企	khi3	117
 偈	khi3	100
-去	khi3	733
+去	khi3	732
 吱	khi3	100
 噐	khi3	100
 器	khi3	278
@@ -17336,7 +17336,6 @@ sort: by_weight
 芋	ou7	142
 喔	ouh4	105
 嘔	ouh8	100
-不	p4	100
 仔	pa1	100
 八	pa1	100
 叭	pa1	102
@@ -18490,7 +18489,7 @@ sort: by_weight
 浡	phu7	100
 剖	phua3	102
 潑	phua3	101
-破	phua3	578
+破	phua3	577
 破	phua3	100
 伴	phua7	100
 博	phuah4	100
@@ -19222,7 +19221,7 @@ sort: by_weight
 佈	pou3	142
 傅	pou3	101
 報	pou3	101
-布	pou3	512
+布	pou3	511
 怖	pou3	109
 播	pou3	145
 舖	pou3	100
@@ -19259,7 +19258,6 @@ sort: by_weight
 步	pou7	469
 部	pou7	295
 哺	pou7	100
-烏	pp4	100
 哹	pu1	100
 垺	pu1	100
 哹	pu1	100
@@ -22753,7 +22751,7 @@ sort: by_weight
 透	thau3	100
 調	thau5	102
 道	thau5	100
-頭	thau5	3936
+頭	thau5	3935
 頭	thau5	100
 毒	thau7	109
 頭	thau7	100

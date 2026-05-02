@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: hokkien_bp
-version: "20260502.220352"
+version: "20260502.225055"
 sort: by_weight
 import_tables:
   - hokkien_chars
@@ -82957,7 +82957,6 @@ puà-bìn-suē	phua3 pin3 sue1	98
 puà-bìn-sē	phua3 pin3 se1	99
 puà-bòo	phua3 pou3	100
 puà-bòo-bbók	phua3 pou3 bok8	99
-puà-bòo-bp4	phua3 pou3 pp4	99
 puà-bòo-zǐ	phua3 pou3 chi2	102
 puà-bòo-ōo	phua3 pou3 ou1	99
 puà-bāk	phua3 pak4	103
@@ -121436,7 +121435,6 @@ zǹg-ǎ	chng3 a2	102
 īt-kiōk ciān-gīm	it4 khiok4 chhian1 kim1	98
 īt-kiǎn hûi-héng	it4 khian2 hui7 heng5	99
 īt-kài	it4 khai3	101
-īt-kì b4 hué-táu	it4 khi3 p4 hue5 thau5	99
 īt-kí	it4 khi5	99
 īt-kù būt-hué-táu	it4 khu3 put4 hue5 thau5	99
 īt-kān-séng-zzî-hǒ-ûn-sna-zái-zéng	it4 khan1 seng5 ji7 ho2 un7 sann1 chai5 cheng5	99

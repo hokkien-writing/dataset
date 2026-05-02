@@ -43,6 +43,10 @@ class LatnTranslator:
         """
         base = base.lower()
 
+        for init in self._source_initials:
+            if base == init:
+                return init, "", ""
+
         ending = ""
         for e in self._source_endings:
             if base.endswith(e) and len(base) > len(e):
