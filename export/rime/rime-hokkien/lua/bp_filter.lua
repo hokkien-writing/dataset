@@ -5901,6 +5901,9 @@ local function filter(translation, env)
     local ctx = env.engine.context
     local caps = _caps_mask
     local has_caps = caps:sub(1, 1) == "U"
+    local input = ctx.input or ""
+    local has_digits = input:match("%d") ~= nil
+    local latin_first = has_caps or has_digits
 
     local latin_items = {}
     local han_items = {}
@@ -5914,40 +5917,68 @@ local function filter(translation, env)
             hw = hw:gsub("   ", "--")
             hw = hw:gsub("  ", "-")
             cand.comment = hw
-            if has_caps then
+            if latin_first then
                 table.insert(han_items, cand)
             else
                 yield(cand)
             end
         else
             local comment = cand.comment or ""
-            local hw_parts = {}
+            local codes = {}
             for code in comment:gmatch("[%w]+") do
-                local hw = SYLLABLE_MAP[code:lower()]
-                if hw then
-                    table.insert(hw_parts, hw)
+                table.insert(codes, code:lower())
+            end
+            local new_text = ""
+            local i = 1
+            local code_idx = 1
+            local valid = true
+            while i <= #input do
+                local token = input:match("^[%w]+", i)
+                if token then
+                    local hw = nil
+                    local ci = code_idx
+                    while ci <= #codes do
+                        hw = SYLLABLE_MAP[codes[ci]]
+                        if hw then
+                            code_idx = ci + 1
+                            break
+                        end
+                        ci = ci + 1
+                    end
+                    if not hw then
+                        hw = SYLLABLE_MAP[token:lower()]
+                    end
+                    if not hw then
+                        valid = false
+                        break
+                    end
+                    new_text = new_text .. hw
+                    i = i + #token
                 else
-                    hw_parts = {}
-                    break
+                    local sep = input:match("^[^%w]+", i)
+                    if sep then
+                        new_text = new_text .. sep
+                        i = i + #sep
+                    else
+                        new_text = new_text .. input:sub(i, i)
+                        i = i + 1
+                    end
                 end
             end
-            local new_text = cand.text
-            if #hw_parts > 0 then
-                new_text = table.concat(hw_parts, "-")
-            end
+            if not valid then new_text = cand.text end
             if has_caps then
                 new_text = capitalize_first(new_text)
             end
             if new_text ~= cand.text then
                 local c = ShadowCandidate(cand, cand.type, new_text, "")
-                if has_caps then
+                if latin_first then
                     table.insert(latin_items, c)
                 else
                     yield(c)
                 end
             else
                 cand.comment = ""
-                if has_caps then
+                if latin_first then
                     table.insert(latin_items, cand)
                 else
                     yield(cand)
@@ -5956,8 +5987,14 @@ local function filter(translation, env)
         end
     end
 
-    if has_caps then
+    if latin_first then
+        table.sort(latin_items, function(a, b)
+            return (a._end - a.start) > (b._end - b.start)
+        end)
         for _, c in ipairs(latin_items) do yield(c) end
+        table.sort(han_items, function(a, b)
+            return (a._end - a.start) > (b._end - b.start)
+        end)
         for _, c in ipairs(han_items) do yield(c) end
     end
 end
