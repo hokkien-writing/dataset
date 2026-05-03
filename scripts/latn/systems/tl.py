@@ -1,6 +1,6 @@
 """TL (Tâi-lô) system configuration."""
 
-from scripts.latn.config import LatnSystemConfig
+from scripts.latn.config import LatnSystemConfig, PhoneticMapping
 
 
 def create_config() -> LatnSystemConfig:
@@ -44,3 +44,23 @@ def create_config() -> LatnSystemConfig:
         tone_mark_priority=["a", "oo", "e", "o", "u", "i", "n", "m"],
         syllable_mappings={"ⁿ": "nn"},
     )
+
+
+SYSTEM_NAME = "TL"
+
+def create_latn_norm_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={"ts": "ch", "tsh": "chh"},
+    )
+
+
+def create_reverse_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={"ch": "ts", "chh": "tsh"},
+    )
+
+
+def create_rime_algebra() -> list[str]:
+    return [
+        "derive/nn//"
+    ]

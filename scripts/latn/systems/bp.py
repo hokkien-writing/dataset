@@ -1,6 +1,6 @@
 """BP (Bînpîn / Southern Min Pinyin) system configuration."""
 
-from scripts.latn.config import LatnSystemConfig
+from scripts.latn.config import LatnSystemConfig, PhoneticMapping
 
 
 def create_config() -> LatnSystemConfig:
@@ -47,3 +47,39 @@ def create_config() -> LatnSystemConfig:
         entering_endings=["p", "t", "k", "h"],
         tone_mark_priority=["a", "oo", "e", "o", "u", "i", "n", "m"],
     )
+
+
+SYSTEM_NAME = "BP"
+
+def create_latn_norm_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={
+            "b": "p", "p": "ph", "bb": "b", "bbn": "m", "ln": "n",
+            "dd": "d", "d": "t", "t": "th",
+            "g": "k", "k": "kh", "ggn": "ng", "gg": "g",
+            "z": "ch", "c": "chh", "zz": "j",
+        },
+        vowel_map={"oo": "ou", "ao": "au"},
+    )
+
+
+def create_reverse_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={
+            "p": "b", "ph": "p", "b": "bb", "m": "bbn", "n": "ln",
+            "d": "dd", "t": "d", "th": "t",
+            "k": "g", "kh": "k", "ng": "ggn", "g": "gg",
+            "ch": "z", "chh": "c", "j": "zz",
+        },
+        vowel_map={"ou": "oo", "au": "ao"},
+        nasal_prefix={"nn": ("n", ""), "nnh": ("n", "h")},
+    )
+
+
+def create_rime_algebra() -> list[str]:
+    return [
+        "xform/ou/oo/",
+        "xform/au/ao/",
+        "xform/([aeiou]+)nnh$/n$1h/",
+        "xform/([aeiou]+)nn$/n$1/",
+    ]
