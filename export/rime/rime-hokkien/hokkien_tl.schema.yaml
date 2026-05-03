@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_tl
   name: 福建話·台羅
-  version: "20260503.094828"
+  version: "20260503.103034"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
@@ -58,8 +58,9 @@ speller:
   algebra:
     - derive/ /-/
     - derive/[1-8]//
-    - xform/ch/ts/
-    - xform/chh/tsh/
+    - xform/^ch(?=[^h])/ts/
+    - xform/^chh/tsh/
+    - derive/nn//
     - derive/a/A/
     - derive/b/B/
     - derive/c/C/

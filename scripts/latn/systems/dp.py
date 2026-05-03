@@ -58,7 +58,7 @@ def create_latn_norm_mapping() -> PhoneticMapping:
             "g": "k", "k": "kh", "gh": "g",
             "z": "ch", "c": "chh", "r": "j",
         },
-        vowel_map={"e": "ur", "ê": "e", "uê": "ue", "iê": "ie"},
+        vowel_map={"e": "ur", "ê": "e", "uê": "ue", "iê": "ie", "ao": "au"},
         ending_map={"b": "p", "d": "t", "g": "k"},
     )
 
@@ -71,30 +71,19 @@ def create_reverse_mapping() -> PhoneticMapping:
             "k": "g", "kh": "k", "g": "gh",
             "ch": "z", "chh": "c", "j": "r",
         },
-        vowel_map={"ur": "e", "e": "ê", "ue": "uê", "ie": "iê"},
+        vowel_map={"ur": "e", "e": "ê", "ue": "uê", "ie": "iê", "au": "ao"},
         ending_map={"p": "b", "t": "d", "k": "g"},
     )
 
 
 def create_rime_algebra() -> list[str]:
     return [
-        "xform/^g/gh/",
-        "xform/^b/bh/",
-        "xform/^j/r/",
-        "xform/^chh/c/",
-        "xform/^ch/z/",
-        "xform/^k(?=[^h])/g/",
-        "xform/^kh/k/",
-        "xform/^p(?=[^h])/b/",
-        "xform/^ph/p/",
-        "xform/^t(?=[^h])/d/",
-        "xform/^th/t/",
         "xform/ur/v/",
-        "xform/p$/b/",
-        "xform/t$/d/",
-        "xform/k$/g/",
-        "derive/d/g/",
-        "derive/([aeiu])n$/$1ng/",
+        "xform/au/ao/",
         "derive/oinn/ainn/",
+        "derive/ien/ian/",
+        "derive/ied/iad/",
+        "derive/([aeiu])n$/$1ng/",
+        "derive/d$/g/",
         "derive/nn//",
     ]

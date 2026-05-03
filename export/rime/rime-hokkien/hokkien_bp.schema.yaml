@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_bp
   name: 福建話·拼音
-  version: "20260503.094828"
+  version: "20260503.103034"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
@@ -58,23 +58,25 @@ speller:
   algebra:
     - derive/ /-/
     - derive/[1-8]//
-    - xform/^g/gg/
     - xform/^b/bb/
+    - xform/^d/dd/
+    - xform/^g/gg/
     - xform/^j/zz/
-    - xform/^chh/c/
-    - xform/^ch/z/
     - xform/^k(?=[^h])/g/
-    - xform/^kh/k/
-    - xform/^p(?=[^h])/b/
-    - xform/^ph/p/
-    - xform/^t(?=[^h])/d/
-    - xform/^th/t/
-    - xform/ou/oo/
+    - xform/^m/bbn/
     - xform/^n(?=[^g])/ln/
+    - xform/^p(?=[^h])/b/
+    - xform/^t(?=[^h])/d/
+    - xform/^ch(?=[^h])/z/
+    - xform/^kh/k/
+    - xform/^ng/ggn/
+    - xform/^ph/p/
+    - xform/^th/t/
+    - xform/^chh/c/
+    - xform/ou/oo/
+    - xform/au/ao/
     - xform/([aeiou]+)nnh$/n$1h/
     - xform/([aeiou]+)nn$/n$1/
-    - xform/^ng/ggn/
-    - xform/^m/bbn/
     - derive/a/A/
     - derive/b/B/
     - derive/c/C/

@@ -25,7 +25,6 @@ class TestSystemModules(unittest.TestCase):
             mod = get_system_module(name)
             algebra = mod.create_rime_algebra()
             self.assertIsInstance(algebra, list)
-            self.assertTrue(len(algebra) > 0)
             for rule in algebra:
                 self.assertIsInstance(rule, str)
 

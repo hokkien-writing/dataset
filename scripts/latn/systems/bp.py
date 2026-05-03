@@ -59,7 +59,7 @@ def create_latn_norm_mapping() -> PhoneticMapping:
             "g": "k", "k": "kh", "ggn": "ng", "gg": "g",
             "z": "ch", "c": "chh", "zz": "j",
         },
-        vowel_map={"oo": "ou"},
+        vowel_map={"oo": "ou", "ao": "au"},
     )
 
 
@@ -71,28 +71,15 @@ def create_reverse_mapping() -> PhoneticMapping:
             "k": "g", "kh": "k", "ng": "ggn", "g": "gg",
             "ch": "z", "chh": "c", "j": "zz",
         },
-        vowel_map={"ou": "oo"},
+        vowel_map={"ou": "oo", "au": "ao"},
         nasal_prefix={"nn": ("n", ""), "nnh": ("n", "h")},
     )
 
 
 def create_rime_algebra() -> list[str]:
     return [
-        "xform/^g/gg/",
-        "xform/^b/bb/",
-        "xform/^j/zz/",
-        "xform/^chh/c/",
-        "xform/^ch/z/",
-        "xform/^k(?=[^h])/g/",
-        "xform/^kh/k/",
-        "xform/^p(?=[^h])/b/",
-        "xform/^ph/p/",
-        "xform/^t(?=[^h])/d/",
-        "xform/^th/t/",
         "xform/ou/oo/",
-        "xform/^n(?=[^g])/ln/",
+        "xform/au/ao/",
         "xform/([aeiou]+)nnh$/n$1h/",
         "xform/([aeiou]+)nn$/n$1/",
-        "xform/^ng/ggn/",
-        "xform/^m/bbn/",
     ]

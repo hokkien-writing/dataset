@@ -77,12 +77,14 @@ SYSTEM_NAME = "POJ"
 
 
 def create_latn_norm_mapping() -> PhoneticMapping:
-    return PhoneticMapping()
+    return PhoneticMapping(
+        vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+    )
 
 
 def create_reverse_mapping() -> PhoneticMapping:
     return PhoneticMapping(
-        vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+        vowel_map={"ou": "oo", "ua": "oa", "ue": "oe"}
     )
 
 

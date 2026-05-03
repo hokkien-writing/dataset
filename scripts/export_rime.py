@@ -461,9 +461,52 @@ _RIME_ALGEBRA_SUFFIX = _CASE_FOLD + [
 ]
 
 
+def _initial_map_to_algebra(reverse_mapping) -> list[str]:
+    initial_map = reverse_mapping.initial_map
+    if not initial_map:
+        return []
+    keys = sorted(initial_map.keys(), key=lambda k: (len(k), k))
+    longer_keys = {k for k in keys if any(
+        other != k and other.startswith(k) for other in keys
+    )}
+    prefix_chars = {}
+    for k in keys:
+        for other in keys:
+            if other != k and other.startswith(k) and len(other) > len(k):
+                prefix_chars.setdefault(k, set()).add(other[len(k)])
+    rules = []
+    for k in keys:
+        tgt = initial_map[k]
+        if callable(tgt):
+            continue
+        if k in prefix_chars:
+            chars = "".join(sorted(prefix_chars[k]))
+            rules.append(f"xform/^{k}(?=[^{chars}])/{tgt}/")
+        else:
+            rules.append(f"xform/^{k}/{tgt}/")
+    return rules
+
+
+def _ending_map_to_algebra(reverse_mapping) -> list[str]:
+    ending_map = reverse_mapping.ending_map
+    if not ending_map:
+        return []
+    rules = []
+    for src, tgt in sorted(ending_map.items(), key=lambda x: len(x[0]), reverse=True):
+        rules.append(f"xform/{src}$/{tgt}/")
+    return rules
+
+
 def _get_system_algebra(system: str) -> list[str]:
     mod = get_system_module(system)
-    return _RIME_ALGEBRA_PREFIX + mod.create_rime_algebra() + _RIME_ALGEBRA_SUFFIX
+    reverse_mapping = mod.create_reverse_mapping()
+    return (
+        _RIME_ALGEBRA_PREFIX
+        + _initial_map_to_algebra(reverse_mapping)
+        + mod.create_rime_algebra()
+        + _ending_map_to_algebra(reverse_mapping)
+        + _RIME_ALGEBRA_SUFFIX
+    )
 
 SCHEMA_TEMPLATE = """\
 # Rime schema: {schema_id}

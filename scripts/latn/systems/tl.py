@@ -62,6 +62,5 @@ def create_reverse_mapping() -> PhoneticMapping:
 
 def create_rime_algebra() -> list[str]:
     return [
-        "xform/ch/ts/",
-        "xform/chh/tsh/",
+        "derive/nn//"
     ]
