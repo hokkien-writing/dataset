@@ -456,9 +456,7 @@ _RIME_ALGEBRA_PREFIX = [
     "derive/[1-8]//",
 ]
 
-_RIME_ALGEBRA_SUFFIX = _CASE_FOLD + [
-    "abbrev/^([a-z]).+$/$1/",
-]
+_RIME_ALGEBRA_SUFFIX = _CASE_FOLD
 
 
 def _initial_map_to_algebra(reverse_mapping) -> list[str]:
@@ -1071,6 +1069,8 @@ def write_system_dict(
     ]
     if pkg == "teochew":
         header.append("use_preset_vocabulary: true")
+        header.append("min_phrase_weight: 100  # 僅導入八股文中詞頻 >= 100 个詞")
+        header.append("max_phrase_length: 4   # 僅導入 4 字以內个詞")
     header += [
         "import_tables:",
         f"  - {pkg}_chars",
