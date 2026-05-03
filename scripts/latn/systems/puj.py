@@ -24,7 +24,7 @@ Tone Mark Rules (from Handbook of the Swatow Vernacular 語料庫分析)
   ua̍h, ue̍h, ia̍h, ie̍h, aih→i, oih→i, auh→u
 """
 
-from scripts.latn.config import LatnSystemConfig
+from scripts.latn.config import LatnSystemConfig, PhoneticMapping
 
 
 def create_config() -> LatnSystemConfig:
@@ -127,6 +127,36 @@ def create_config() -> LatnSystemConfig:
         },
         syllable_mappings={"ⁿ": "nn"},
     )
+
+
+SYSTEM_NAME = "PUJ"
+
+def create_latn_norm_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={"ts": "ch", "tsh": "chh", "z": "j"},
+    )
+
+
+def create_reverse_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={
+            "ch": lambda init, vowel: "ch" if vowel and vowel[0] in ("i", "e") else "ts",
+            "chh": lambda init, vowel: "chh" if vowel and vowel[0] in ("i", "e") else "tsh",
+            "j": lambda init, vowel: "j" if vowel and vowel[0] in ("i", "e") else "z",
+        },
+    )
+
+
+def create_rime_algebra() -> list[str]:
+    return [
+        "derive/^ch/ts/",
+        "derive/^chh/tsh/",
+        "derive/^j/z/",
+        "derive/oinn/ainn/",
+        "derive/ien/ian/",
+        "derive/iet/iat/",
+        "derive/nn//",
+    ]
 
 
 def create_variant_rules():

@@ -15,6 +15,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 from scripts.latn import create_translator, create_converter
+from scripts.latn.systems import get_system_module
 
 MERGED_CSV = PROJECT_ROOT / "export" / "merged.csv"
 OUTPUT_DIR = PROJECT_ROOT / "export" / "rime"
@@ -448,154 +449,21 @@ def _build_punctuator_section() -> str:
     return "\n".join(lines)
 
 
-CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
+_CASE_FOLD = [f"derive/{c.lower()}/{c}/" for c in "ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
 
-COMMENT_FORMAT = {
-    "puj": [
-        "xform/-/ /",
-        "xform/chh/tsh/",
-        "xform/ch/ts/",
-    ],
-    "poj": [
-        "xform/-/ /",
-        "xform/ou/oo/",
-        "xform/ua/oa/",
-        "xform/ue/oe/",
-    ],
-    "tl": [
-        "xform/-/ /",
-        "xform/chh/tsh/",
-        "xform/ch/ts/",
-    ],
-    "bp": [
-        "xform/-/ /",
-        "xform/^g/gg/",
-        "xform/^b/bb/",
-        "xform/^j/zz/",
-        "xform/^chh/c/",
-        "xform/^ch/z/",
-        "xform/^k(?=[^h])/g/",
-        "xform/^kh/k/",
-        "xform/^p(?=[^h])/b/",
-        "xform/^ph/p/",
-        "xform/^t(?=[^h])/d/",
-        "xform/^th/t/",
-        "xform/ou/oo/",
-        "xform/^n(?=[^g])/ln/",
-        "xform/([aeiou]+)nnh(\\d)$/n$1h$2/",
-        "xform/([aeiou]+)nn(\\d)$/n$1$2/",
-        "xform/^ng/ggn/",
-        "xform/^m/bbn/",
-    ],
-    "dp": [
-        "xform/-/ /",
-        "xform/^g/gh/",
-        "xform/^b/bh/",
-        "xform/^j/r/",
-        "xform/^chh/c/",
-        "xform/^ch/z/",
-        "xform/^k(?=[^h])/g/",
-        "xform/^kh/k/",
-        "xform/^p(?=[^h])/b/",
-        "xform/^ph/p/",
-        "xform/^t(?=[^h])/d/",
-        "xform/^th/t/",
-        "xform/e/ei/",
-        "xform/ur/e/",
-    ],
-}
+_RIME_ALGEBRA_PREFIX = [
+    "derive/ /-/",
+    "derive/[1-8]//",
+]
 
-SYSTEM_ALGEBRA = {
-    "puj": [
-        "derive/ /-/",
-        "derive/[1-8]//",
-        "derive/^ch/ts/",
-        "derive/^chh/tsh/",
-        "derive/^j/z/",
-        "derive/oinn/ainn/",
-        "derive/ien/ian/",
-        "derive/iet/iat/",
-        "derive/nn//",
-    ]
-    + CASE_FOLD
-    + [
-        "abbrev/^([a-z]).+$/$1/",
-    ],
-    "poj": [
-        "derive/ /-/",
-        "derive/[1-8]//",
-        "xform/ou/oo/",
-        "xform/ua/oa/",
-        "xform/ue/oe/",
-        "derive/nn//",
-    ]
-    + CASE_FOLD
-    + [
-        "abbrev/^([a-z]).+$/$1/",
-    ],
-    "tl": [
-        "xform/ch/ts/",
-        "xform/chh/tsh/",
-        "derive/ /-/",
-        "derive/[1-8]//",
-    ]
-    + CASE_FOLD
-    + [
-        "abbrev/^([a-z]).+$/$1/",
-    ],
-    "bp": [
-        "xform/^g/gg/",
-        "xform/^b/bb/",
-        "xform/^j/zz/",
-        "xform/^chh/c/",
-        "xform/^ch/z/",
-        "xform/^k(?=[^h])/g/",
-        "xform/^kh/k/",
-        "xform/^p(?=[^h])/b/",
-        "xform/^ph/p/",
-        "xform/^t(?=[^h])/d/",
-        "xform/^th/t/",
-        "xform/ou/oo/",
-        "xform/^n(?=[^g])/ln/",
-        "xform/([aeiou]+)nnh(\\d)$/n$1h$2/",
-        "xform/([aeiou]+)nn(\\d)$/n$1$2/",
-        "xform/^ng/ggn/",
-        "xform/^m/bbn/",
-        "derive/ /-/",
-        "derive/[1-8]//",
-    ]
-    + CASE_FOLD
-    + [
-        "abbrev/^([a-z]).+$/$1/",
-    ],
-    "dp": [
-        "xform/^g/gh/",
-        "xform/^b/bh/",
-        "xform/^j/r/",
-        "xform/^chh/c/",
-        "xform/^ch/z/",
-        "xform/^k(?=[^h])/g/",
-        "xform/^kh/k/",
-        "xform/^p(?=[^h])/b/",
-        "xform/^ph/p/",
-        "xform/^t(?=[^h])/d/",
-        "xform/^th/t/",
-        "xform/ur/v/",
-        "xform/p(\\d)$/b$1/",
-        "xform/t(\\d)$/d$1/",
-        "xform/k(\\d)$/g$1/",
-        "derive/ /-/",
-        "derive/[1-8]//",
-        "derive/d/g/",
-        "derive/([aeiu])n$/$1ng/",
-        "derive/oinn/ainn/",
-        "derive/nn//",
-    ]
-    + CASE_FOLD
-    + [
-        "abbrev/^([a-z]).+$/$1/",
-    ],
-}
+_RIME_ALGEBRA_SUFFIX = _CASE_FOLD + [
+    "abbrev/^([a-z]).+$/$1/",
+]
+
+
+def _get_system_algebra(system: str) -> list[str]:
+    mod = get_system_module(system)
+    return _RIME_ALGEBRA_PREFIX + mod.create_rime_algebra() + _RIME_ALGEBRA_SUFFIX
 
 SCHEMA_TEMPLATE = """\
 # Rime schema: {schema_id}
@@ -1242,13 +1110,6 @@ def format_algebra(rules: list) -> str:
     return "\n".join(lines)
 
 
-def format_comment_format(rules: list) -> str:
-    lines = []
-    for r in rules:
-        lines.append(f"    - {r}")
-    return "\n".join(lines)
-
-
 def _clean_en(en_text: str) -> str:
     if en_text.startswith("#") or en_text.startswith(":"):
         return ""
@@ -1469,7 +1330,7 @@ def write_zh_dict(
 def write_schema(system: str, pkg: str, output_dir: Path, has_zh: bool = True):
     schema_id = f"{pkg}_{system}"
     name = SYSTEM_NAMES[system]
-    algebra = format_algebra(SYSTEM_ALGEBRA[system])
+    algebra = format_algebra(_get_system_algebra(system))
     filter_name = f"{system}_filter"
     caps_tracker_name = f"{system}_caps_tracker"
 

@@ -1,6 +1,6 @@
 """DP (Tiô-phêng / Teochew Pinyin) system configuration."""
 
-from scripts.latn.config import LatnSystemConfig
+from scripts.latn.config import LatnSystemConfig, PhoneticMapping
 
 
 def create_config() -> LatnSystemConfig:
@@ -46,3 +46,55 @@ def create_config() -> LatnSystemConfig:
         syllable_mappings={"ⁿ": "nn"},
         superscript_tones=True,
     )
+
+
+SYSTEM_NAME = "DP"
+
+def create_latn_norm_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={
+            "b": "p", "p": "ph", "bh": "b",
+            "d": "t", "t": "th",
+            "g": "k", "k": "kh", "gh": "g",
+            "z": "ch", "c": "chh", "r": "j",
+        },
+        vowel_map={"e": "ur", "ê": "e", "uê": "ue", "iê": "ie"},
+        ending_map={"b": "p", "d": "t", "g": "k"},
+    )
+
+
+def create_reverse_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={
+            "p": "b", "ph": "p", "b": "bh",
+            "t": "d", "th": "t",
+            "k": "g", "kh": "k", "g": "gh",
+            "ch": "z", "chh": "c", "j": "r",
+        },
+        vowel_map={"ur": "e", "e": "ê", "ue": "uê", "ie": "iê"},
+        ending_map={"p": "b", "t": "d", "k": "g"},
+    )
+
+
+def create_rime_algebra() -> list[str]:
+    return [
+        "xform/^g/gh/",
+        "xform/^b/bh/",
+        "xform/^j/r/",
+        "xform/^chh/c/",
+        "xform/^ch/z/",
+        "xform/^k(?=[^h])/g/",
+        "xform/^kh/k/",
+        "xform/^p(?=[^h])/b/",
+        "xform/^ph/p/",
+        "xform/^t(?=[^h])/d/",
+        "xform/^th/t/",
+        "xform/ur/v/",
+        "xform/p$/b/",
+        "xform/t$/d/",
+        "xform/k$/g/",
+        "derive/d/g/",
+        "derive/([aeiu])n$/$1ng/",
+        "derive/oinn/ainn/",
+        "derive/nn//",
+    ]

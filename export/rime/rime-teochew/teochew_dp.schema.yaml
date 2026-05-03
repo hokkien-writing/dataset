@@ -4,7 +4,7 @@
 schema:
   schema_id: teochew_dp
   name: 潮州話·拼音
-  version: "20260502.225055"
+  version: "20260503.094828"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:
@@ -56,6 +56,8 @@ speller:
   initials: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA
   delimiter: " -"
   algebra:
+    - derive/ /-/
+    - derive/[1-8]//
     - xform/^g/gh/
     - xform/^b/bh/
     - xform/^j/r/
@@ -68,11 +70,9 @@ speller:
     - xform/^t(?=[^h])/d/
     - xform/^th/t/
     - xform/ur/v/
-    - xform/p(\d)$/b$1/
-    - xform/t(\d)$/d$1/
-    - xform/k(\d)$/g$1/
-    - derive/ /-/
-    - derive/[1-8]//
+    - xform/p$/b/
+    - xform/t$/d/
+    - xform/k$/g/
     - derive/d/g/
     - derive/([aeiu])n$/$1ng/
     - derive/oinn/ainn/

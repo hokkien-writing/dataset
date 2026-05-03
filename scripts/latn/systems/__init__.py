@@ -18,3 +18,7 @@ def register_default_systems(registry):
             if hasattr(module, "create_config"):
                 config = module.create_config()
                 registry.register(config.name, config)
+
+
+def get_system_module(system_name: str):
+    return importlib.import_module(f"scripts.latn.systems.{system_name.lower()}")

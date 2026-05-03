@@ -1,6 +1,6 @@
 """POJ (Pe̍h-ōe-jī) system configuration based on core.py."""
 
-from scripts.latn.config import LatnSystemConfig
+from scripts.latn.config import LatnSystemConfig, PhoneticMapping
 
 
 def create_config() -> LatnSystemConfig:
@@ -71,3 +71,25 @@ def create_config() -> LatnSystemConfig:
         ],
         syllable_mappings={"ⁿ": "nn", "̤": "r", "ṳ": "ur"},
     )
+
+
+SYSTEM_NAME = "POJ"
+
+
+def create_latn_norm_mapping() -> PhoneticMapping:
+    return PhoneticMapping()
+
+
+def create_reverse_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+    )
+
+
+def create_rime_algebra() -> list[str]:
+    return [
+        "xform/ou/oo/",
+        "xform/ua/oa/",
+        "xform/ue/oe/",
+        "derive/nn//",
+    ]

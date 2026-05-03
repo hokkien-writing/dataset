@@ -2,11 +2,7 @@
 
 import re
 import itertools
-from scripts.latn.systems import puj as _puj_module
-
-_VARIANT_RULES = {
-    "PUJ": lambda: _puj_module.create_variant_rules(),
-}
+from scripts.latn.systems import get_system_module
 
 
 def _compile_rules(raw_rules):
@@ -28,14 +24,12 @@ def _split_syllables(text):
 
 
 def get_variants(text, system_name):
-    rules_fn = _VARIANT_RULES.get(system_name.upper())
-    if not rules_fn:
+    mod = get_system_module(system_name.lower())
+    if not hasattr(mod, "create_variant_rules"):
         return [text]
 
-    rules = _compile_rules(rules_fn())
-
+    rules = _compile_rules(mod.create_variant_rules())
     parts = _split_syllables(text)
-
     syl_indices = [i for i, (t, _) in enumerate(parts) if t == "syl"]
 
     if not syl_indices:
