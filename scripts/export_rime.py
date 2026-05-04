@@ -78,14 +78,16 @@ def _load_merged_rows(csv_path: Path) -> list[dict]:
     return rows
 
 
-def load_entries(all_rows: list[dict], require_systems: Optional[list] = None):
+def load_entries(all_rows: list[dict], require_systems: Optional[list] = None, require_han: bool = True):
     counts = Counter()
     systems_data = {}
     for row in all_rows:
         latn_norm = row["_latn_norm"]
         han = (row.get("han") or "").strip()
         han_variants = (row.get("han_variants") or "").strip()
-        if not latn_norm or not han:
+        if not latn_norm:
+            continue
+        if require_han and not han:
             continue
         if _PUNCT_OR_QUOTE_RE.search(latn_norm):
             continue
@@ -96,6 +98,10 @@ def load_entries(all_rows: list[dict], require_systems: Optional[list] = None):
             if not any((row.get(s) or "").strip() for s in require_systems):
                 continue
         clean_han = _BRACKET_RE.sub("", han)
+        if not clean_han:
+            puj_val = (row.get("puj") or "").strip()
+            if puj_val:
+                clean_han = _strip_brackets(puj_val)
         source = (row.get("source") or "").strip()
         base_weight = int(100 * SOURCE_WEIGHT.get(source, 1))
         if clean_han:
@@ -1162,7 +1168,7 @@ def _clean_en(en_text: str) -> str:
     text = re.sub(r"[^a-zA-Z -]", "", text)
     text = text.strip()
     words = text.split()
-    strip_front = {"a", "an", "the"}
+    strip_front = {"a", "an", "the", "to", "of"}
     strip_back = {"a", "an", "the", "then"}
     while len(words) > 1 and words[0].lower() in strip_front:
         words = words[1:]
@@ -1551,7 +1557,8 @@ def main():
     for pkg, cfg in PACKAGE_SYSTEMS.items():
         systems = cfg["systems"]
         entries, systems_data = load_entries(all_rows, require_systems=cfg["require"])
-        if not entries:
+        rom_entries, rom_systems_data = load_entries(all_rows, require_systems=cfg["require"], require_han=False)
+        if not entries and not rom_entries:
             print(f"[{pkg}] No entries, skipping.")
             continue
         char_counts = load_all_entries_for_chars(
@@ -1562,8 +1569,8 @@ def main():
         write_base_dict(entries, pkg, pkg_dir)
         write_char_dict_from_counts(char_counts, pkg, pkg_dir)
         for system in systems:
-            write_syllables_dict(entries, system, pkg, pkg_dir)
-            write_system_dict(entries, systems_data, system, pkg, pkg_dir)
+            write_syllables_dict(rom_entries, system, pkg, pkg_dir)
+            write_system_dict(rom_entries, rom_systems_data, system, pkg, pkg_dir)
             write_en_dict(
                 entries,
                 systems_data,
