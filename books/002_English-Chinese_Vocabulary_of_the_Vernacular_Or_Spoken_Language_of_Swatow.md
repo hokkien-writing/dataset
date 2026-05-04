@@ -1329,7 +1329,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bestride**, khiâ. *a horse*, khiâ-bé.
 
-**bet**, sie-su; sie-tóu. *fond of betting*, hàuⁿ-sie-su. *to make* a, lo̍h-tóu.
+**bet**, sie-su; sie-tóu. *fond of betting*, hàuⁿ-sie-su. *to make a* , lo̍h-tóu.
 
 **betel**, *leaf*, láu-hie̍h. *nut*, pin-nôⁿ.
 
@@ -1809,7 +1809,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **buoyant**, phû-tsúi; bõi-tîm. *in health*, khin-sang.
 
-**burden**, che̍k-tàⁿ. *carry* a, taⁿ-tàⁿ; taⁿ-mue̍h.
+**burden**, che̍k-tàⁿ. *carry a*, taⁿ-tàⁿ; taⁿ-mue̍h.
 
 **burdensome**, tãng; chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; lân-tng; lân-nãiⁿ; kan-khóu; teh tõ-sim-lãi; tam tõ-sim-lãi.
 
@@ -2259,7 +2259,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Charles'-wain**, *or Ursa Major*, pak-táu; pak-táu-chheⁿ.
 
-**charm**, hû; phek-siâ-hû; phêng-an-hû; pó-sin-hû. *to write* a, ūe-hû. *to put up*, tah-hû; kôu-hû. *to wear*, kùa-hû; kũaⁿ-hû. *charms and incantations*, hû-chiù. *a charm of invisibility*, siám-sin-hû.
+**charm**, hû; phek-siâ-hû; phêng-an-hû; pó-sin-hû. *to write a*, ūe-hû. *to put up*, tah-hû; kôu-hû. *to wear*, kùa-hû; kũaⁿ-hû. *charms and incantations*, hû-chiù. *a charm of invisibility*, siám-sin-hû.
 
 **chart**, tī-tôu; hái-tôu.
 
@@ -2461,7 +2461,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **clever**, lêng-lāi; tshong-mêng; gâu; miàⁿ-ke; õi; ũ-lêng-kàng; ũ-tshâi-chhêng; ũ-tshâi-lêng; mién-chia̍p; lêng-tõng; ũ-pún-sṳ̄; ũ-tì-sek; ũ-ki-tì; ua̍h-phuah.
 
-**clew**, *of thread*, che̍k-kiû-sùaⁿ. *to wind into* a, în tsò-che̍k-kiû. see **clue**.
+**clew**, *of thread*, che̍k-kiû-sùaⁿ. *to wind into a*, în tsò-che̍k-kiû. see **clue**.
 
 **click**, *with the tongue*, tok--chē-kiè.
 
@@ -2517,7 +2517,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **clumsy**, tshou-pũn; kha-chhiú tshou-tãng. *work*, tshou-kang. *badly formed*, m̄-chiâⁿ-iēⁿ.
 
-**cluster**, *of grapes*, &*c*, che̍k-kiû; che̍k-tô. *of plantains*, che̍k-keng; che̍k-pà.
+**cluster**, *of grapes, &c*, che̍k-kiû; che̍k-tô. *of plantains*, che̍k-keng; che̍k-pà.
 
 **clutch**, jiáu ngàn-kín; jiáu tah-kín. *fall into one's clutches*, chiẽⁿ nâng-kâi-tàng; lo̍h nâng khuan-thàu.
 
@@ -5737,7 +5737,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **gazette**, *Peking*, kiaⁿ-pò.
 
-**gear**, of boat, *&c*, ke-húe.
+**gear**, *of boat, &c*, ke-húe.
 
 **gelatinous**, ũ-ka-liâm; ũ-tan-tah.
 
@@ -5789,7 +5789,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **gestures**, to use, in speaking, *kha mông*, chhiú pí.
 
-**get**, tit; tit--tie̍h. *up*, tsáu-khí. *could not get it done*, tsò-m̄-sêng; tsò-m̄-chiâⁿ. *rich*, huat-tshâi; tì-pù. *ready*, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. *into office*, tit-ūi; tit-jĩm. *advancement*, kau-seng; seng-kuaⁿ; seng-khip, *one's wishes*, tit-ì; zû-ì; tit-sim kùe-ì. *out of the way*, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. *angry*, seⁿ-khì; huat-náuⁿ. *hold of*, lia̍h--tie̍h. *aground (ship)*, khùa-sua; hũam-suaⁿ. *into trouble*, lap-tie̍h-sin. *a cold*, sieⁿ-huang. 8where ever did you get this*, lṳ́ tsò-ũ chí-kâi-mue̍h.
+**get**, tit; tit--tie̍h. *up*, tsáu-khí. *could not get it done*, tsò-m̄-sêng; tsò-m̄-chiâⁿ. *rich*, huat-tshâi; tì-pù. *ready*, ṳ̃-pĩ; tsôi-pĩ; pĩ-phōiⁿ; pĩ-pīn. *into office*, tit-ūi; tit-jĩm. *advancement*, kau-seng; seng-kuaⁿ; seng-khip, *one's wishes*, tit-ì; zû-ì; tit-sim kùe-ì. *out of the way*, kiâⁿ-khui; tsáu-khui; kiâⁿ-bûa; khiã-khui. *angry*, seⁿ-khì; huat-náuⁿ. *hold of*, lia̍h--tie̍h. *aground (ship)*, khùa-sua; hũam-suaⁿ. *into trouble*, lap-tie̍h-sin. *a cold*, sieⁿ-huang. *where ever did you get this*, lṳ́ tsò-ũ chí-kâi-mue̍h.
 
 **ghost**, kúi; siàⁿ-nâng; siàⁿ-hùe-mue̍h. *Holy*, Siàⁿ-Sîn.
 
@@ -5963,13 +5963,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **grate**, *fire*, húe-lôu; lôu-theng.
 
-**grate**, to, as potatoes, nutmeg, *&c*, thuah. *grater*, thiu; thuah.
+**grate**, *to, as potatoes, nutmeg, &c*, thuah. *grater*, thiu; thuah.
 
 **grating**, *of window*, theng-chí.
 
 **grateful**, kám-ṳn; kám-hũi; niáⁿ-chhêng; niáⁿ-hũi; kám-liãm; kám-tài; kám-pũe; m̄-káⁿ-buâng; kám-ṳn tài-tek. gratitude is scarce, tsai-chhêng--chiá chié, buâng-chhêng--chiá to.
 
-**gratuitous**, mín-chîⁿ; pe̍h-pe̍h pun--nâng. distribution, as of medicine, tea, &c, si-ie̍h; si-tê.
+**gratuitous**, mín-chîⁿ; pe̍h-pe̍h pun--nâng. *distribution, as of medicine, tea, &c*, si-ie̍h; si-tê.
 
 **grave**, phûn; phûn-mõⁿ; suaⁿ-phûn; huang-tsúi; phûn-suaⁿ. *to dig a grave*, khui-khuàng. *to dig a grave (used more of opening the grave to remove the body)*, khui-phûn. *grave-stone*, phûn-pi; pi-chie̍h; mõⁿ-pi. chie̍h-pi. *worship at the*, chì-phûn; chì-mõⁿ; sàu-mõⁿ; chì-sàu. *grave-clothes*, sien-i; sien-ho̍k. *grave-yard*, phûn-tī; phûn-suaⁿ; tsa̍p-tsǹg-tī. *free*, ngĩ-thóng.
 
@@ -8555,7 +8555,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 ### N
 
-**nail**, teng, *iron*, thih-teng. *to nail*, tèng-teng. *finger*, chhiú-tsóiⁿ-kah; tsńg-kah. *toe*, kha-chí-kah.
+**nail**, teng. *iron*, thih-teng. *to nail*, tèng-teng. *finger*, chhiú-tsóiⁿ-kah; tsńg-kah. *toe*, kha-chí-kah.
 
 **naked**, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. *strip*, thn̍g-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; thong-sin bô-pùaⁿ-tiâu se-sùaⁿ. *strip (without a thread of clothing)*, tñg-tiâu se-sùaⁿ. 
 
@@ -9023,7 +9023,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pane**, *of glass*, che̍k-kò po-î.
 
-**pang**, *of pain*, che̍k-tsūn-thiàⁿ;. che̍k-khùn-kiáⁿ thiàⁿ.
+**pang**, *of pain*, che̍k-tsūn-thiàⁿ; che̍k-khùn-kiáⁿ thiàⁿ.
 
 **panic**, kiaⁿ-kàu-kông; kiaⁿ kàu hun-kông; kiaⁿ kàu ngo̍h-ngo̍h.
 
@@ -10367,7 +10367,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **renowned**, ũ hó-miâⁿ-siaⁿ; miâⁿ iâng sì-hái; tshut-miâⁿ; thuân-miâⁿ; chhî-miâⁿ.
 
-**rent**, to, a house, *&c*, sùe; tsou; pa̍k. *house rent*, tshù-tsou; tshù-sùe.
+**rent**, *to, a house, *&c*, sùe; tsou; pa̍k. *house rent*, tshù-tsou; tshù-sùe.
 
 **repair**, siu-si̍p; pa-lói; chiáⁿ-lí; siu-chiáⁿ; póu.
 
@@ -10385,7 +10385,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **repletion**, kùe-pá; khah-pá; kùe-pá sieⁿ-pî.
 
-**reply**, tap; ìn; ìn-tap; hûe-tap. *a*, hûe-im. *written*, hûe-jī; hûe-sìn. official, to petition, &c, phoi.
+**reply**, tap; ìn; ìn-tap; hûe-tap. *a*, hûe-im. *written*, hûe-jī; hûe-sìn. *official, to petition, &c*, phoi.
 
 **report**, hong-siaⁿ; hong-bũn; húang-bũn. *to*, pò; pín-tsai. *(on a subject committed to one)*, hûe-ho̍k. *to the emperor*, tsàu-pńg; tsàu-chieⁿ.
 
@@ -10989,7 +10989,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **sea**, hái; tōa-iêⁿ. *go to*, tshut-hái. *cross*, kùe-hái. *coast*, hái-kîⁿ; hái-piⁿ; hái-pien. *fight*, tsúi-chièn. *sickness*, hîn-tsûn.
 
-**seal**, ìn; ìn-sek; thû-su. *official*, kuaⁿ-ìn. *imperial*, ge̍k-zṳ́. *to*, khap-ìn; teh-ìn. *shut up the seals during holidays*, huang-ìn. to seal up, as letter, door &c, huang. *seal-characters*, tũan-jī; poih-hun-su.
+**seal**, ìn; ìn-sek; thû-su. *official*, kuaⁿ-ìn. *imperial*, ge̍k-zṳ́. *to*, khap-ìn; teh-ìn. *shut up the seals during holidays*, huang-ìn. *to seal up, as letter, door &c*, huang. *seal-characters*, tũan-jī; poih-hun-su.
 
 **seal**, *the*, hái-káu. *seal-skin*, hái-káu-phûe.
 
@@ -12335,7 +12335,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **taint**, tiam-u; jiám; jiám-u; ma̍k--tie̍h. *tainted, as fish*, ien; sie̍h-bī.
 
-**take**, khie̍h; tshú; niⁿ; lah; put; tsang. *your book*, khie̍h lṳ́-pńg-chheh. *a fort*, phah-phùa phàu-thâi. *a standard*, chhiéⁿ-kî; to̍h-kî. *away*, khie̍h-khṳ̀; siu-khí; to̍h-tiāu. along with tea, &c, phùe-tê; phùe-tê-chia̍h. *with one*, thùa-khie̍h. *the air*, lā-liâng. *an inventory*, tiám-hùe-mue̍h; kiám-tiám. *by lot*, khiah-khau. *care*, tsṳ́-sòi; kṳ́n-sín; sié-sim; kṳ́n-sim; sòi-jī. *care of*, thóiⁿ-siú; chiàu-kù; liāu-lí. *care of oneself*, tsṳ̃-kí pó-tõng. *down*, khie̍h--lo̍h-lâi; pak--lo̍h-lâi. *exercise*, khṳ̀-thit-thô; kiâⁿ-thit-thô; kiâⁿ-siau-iâu; ôiⁿ-pōu; kîn-kiâⁿ; kiâⁿ-lâi kiâⁿ-khṳ̀. *one by the hand*, khan-chhiú. *leave of*, kàu-sî; sî-pie̍t; siang-pie̍t; chiãm-pie̍t; kàu-pie̍t. *one in (cheat)*, tshuah; phièn; kuang-phièn. *medicine*, chia̍h-ie̍h. *out of the water*, liâu--tie̍h. *off, shoes or clothes*, thǹg-tiāu. *off, a hat*, pak-tiāu; hien-tiāu. *one's hat to any one*, hien-khí-bō tsò-lói-siàu. *off a cover*, iãuⁿ-khòiⁿ; iãuⁿ-khàm; iãuⁿ-khui. *out a splinter*, thie-tshuaⁿ; kiah-chhì. *take snuff*, chia̍h-phīⁿ-hun; hngh-phīⁿ-hun. *take snuff (out of bottle)*, thie-phīⁿ-hun. *up, with chopsticks*, koih. *with two fingers*, nuehⁿ; niⁿ. *under the arm*, ko̍ih tõ koh-ẽ. *the right hand path*, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀. *a disease*, tie̍h-pēⁿ; ùe-tie̍h-pēⁿ; jiám-tie̍h-pēⁿ; thûan-jiám. *upon oneself*, ka-kī tam-sêng; taⁿ-tng. *take upon oneself (without authority)*, tsṳ̃-tsuan. *fire*, to̍h-húe. *a wife*, tshūa-chhin; tshūa-bóu; tì-ke. *hold of*, chhiú lia̍h; khie̍h-kín; khîⁿ; khîⁿ-kín; mán-kín; khan-kín. *hold of one's queue*, khím-piⁿ; tsáng-piⁿ; mán-piⁿ.
+**take**, khie̍h; tshú; niⁿ; lah; put; tsang. *your book*, khie̍h lṳ́-pńg-chheh. *a fort*, phah-phùa phàu-thâi. *a standard*, chhiéⁿ-kî; to̍h-kî. *away*, khie̍h-khṳ̀; siu-khí; to̍h-tiāu. *along with tea, &c*, phùe-tê; phùe-tê-chia̍h. *with one*, thùa-khie̍h. *the air*, lā-liâng. *an inventory*, tiám-hùe-mue̍h; kiám-tiám. *by lot*, khiah-khau. *care*, tsṳ́-sòi; kṳ́n-sín; sié-sim; kṳ́n-sim; sòi-jī. *care of*, thóiⁿ-siú; chiàu-kù; liāu-lí. *care of oneself*, tsṳ̃-kí pó-tõng. *down*, khie̍h--lo̍h-lâi; pak--lo̍h-lâi. *exercise*, khṳ̀-thit-thô; kiâⁿ-thit-thô; kiâⁿ-siau-iâu; ôiⁿ-pōu; kîn-kiâⁿ; kiâⁿ-lâi kiâⁿ-khṳ̀. *one by the hand*, khan-chhiú. *leave of*, kàu-sî; sî-pie̍t; siang-pie̍t; chiãm-pie̍t; kàu-pie̍t. *one in (cheat)*, tshuah; phièn; kuang-phièn. *medicine*, chia̍h-ie̍h. *out of the water*, liâu--tie̍h. *off, shoes or clothes*, thǹg-tiāu. *off, a hat*, pak-tiāu; hien-tiāu. *one's hat to any one*, hien-khí-bō tsò-lói-siàu. *off a cover*, iãuⁿ-khòiⁿ; iãuⁿ-khàm; iãuⁿ-khui. *out a splinter*, thie-tshuaⁿ; kiah-chhì. *take snuff*, chia̍h-phīⁿ-hun; hngh-phīⁿ-hun. *take snuff (out of bottle)*, thie-phīⁿ-hun. *up, with chopsticks*, koih. *with two fingers*, nuehⁿ; niⁿ. *under the arm*, ko̍ih tõ koh-ẽ. *the right hand path*, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀. *a disease*, tie̍h-pēⁿ; ùe-tie̍h-pēⁿ; jiám-tie̍h-pēⁿ; thûan-jiám. *upon oneself*, ka-kī tam-sêng; taⁿ-tng. *take upon oneself (without authority)*, tsṳ̃-tsuan. *fire*, to̍h-húe. *a wife*, tshūa-chhin; tshūa-bóu; tì-ke. *hold of*, chhiú lia̍h; khie̍h-kín; khîⁿ; khîⁿ-kín; mán-kín; khan-kín. *hold of one's queue*, khím-piⁿ; tsáng-piⁿ; mán-piⁿ.
 
 **tale**, *a*, che̍k-tn̄g-kóu; kóu-chheh. *to tell tales*, o̍h-kóu. *tale-bearer*, puaⁿ-sĩ-hui; puaⁿ-pái; puaⁿ-so; kòiⁿ-so.
 
@@ -12555,7 +12555,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **threaten**, kiaⁿ-heh; kiaⁿ-tie̍h-nâng; heh-kiaⁿ-nâng.
 
-**three**, saⁿ. &three-ply rope*, saⁿ-kóu-soh. *three-cornered*, saⁿ-kak. *thrice*, saⁿ-hûe; saⁿ-pái; saⁿ-tshṳ̀; saⁿ-hãng; saⁿ-tńg; saⁿ-ē; saⁿ-tsau.
+**three**, saⁿ. *three-ply rope*, saⁿ-kóu-soh. *three-cornered*, saⁿ-kak. *thrice*, saⁿ-hûe; saⁿ-pái; saⁿ-tshṳ̀; saⁿ-hãng; saⁿ-tńg; saⁿ-ē; saⁿ-tsau.
 
 **thresh**, phah-tiũ; phah-chhek. *threshing tub*, sut-tháng. *ladder of ditto*, sut-tháng-thui. *mat enclosing ditto*, sut-tháng-tiãm; sut-tháng-phâng; sut-tháng-ûi; sut-tháng-chia. *threshing floor*, hue-tiâⁿ; chhek-tiâⁿ; chhek-tiêⁿ.
 
@@ -13401,7 +13401,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **verse**, *poetry*, si. *one*, che̍k-tsat.
 
-**vertebrae**, ie-kut-tsat. *(dorsal)*, pùe-kut-tsat. *(sacral)*, búe-lûn-kut. *(cervical), *ãm-kut.
+**vertebrae**, ie-kut-tsat. *(dorsal)*, pùe-kut-tsat. *(sacral)*, búe-lûn-kut. *(cervical)*, ãm-kut.
 
 **vertex**, téng.
 
@@ -13735,7 +13735,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **widow**, kúa-hũ; siú-kúa. *who refuses to marry again*, chiet-hũ; siú-chiet. *widower*, sit-ngóu.
 
-**wife**, chhi; bóu; hũ; lãi-nâng; ke-lãi; ke-ãu; ke-kùan. *take a wife*, see MARRY. *your wife*, lẽng-chiàⁿ; tsun-só; lãi-tsõ; tsun-hu-jîn; tsun-lãi; hiên-só. *my wife*, lãi-nâng; lãi-tsuat; tsuat-keng. [if she has a son fer husband will call her so-and-so's mother.] my good wife (addressing her), hiên-chhi. *wife and children*, chhi-tsṳ́; bóu-kiáⁿ. *to take a second wife*, tshūa-jī-nâng. *legal wife*, chiàⁿ-chhi; tek-chhi; tsháu-thâu. *first wife*, huat-chhi; ngûan-phùe. *wife's brother*, chhi-kũ. *wife's sister*, chhi-î.
+**wife**, chhi; bóu; hũ; lãi-nâng; ke-lãi; ke-ãu; ke-kùan. *take a wife*, see MARRY. *your wife*, lẽng-chiàⁿ; tsun-só; lãi-tsõ; tsun-hu-jîn; tsun-lãi; hiên-só. *my wife*, lãi-nâng; lãi-tsuat; tsuat-keng. *[if she has a son fer husband will call her so-and-so's mother.] my good wife (addressing her)*, hiên-chhi. *wife and children*, chhi-tsṳ́; bóu-kiáⁿ. *to take a second wife*, tshūa-jī-nâng. *legal wife*, chiàⁿ-chhi; tek-chhi; tsháu-thâu. *first wife*, huat-chhi; ngûan-phùe. *wife's brother*, chhi-kũ. *wife's sister*, chhi-î.
 
 **wig**, ké-môⁿ; ké-thâu-môⁿ.
 
@@ -13791,7 +13791,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **within**, tõ-lãi; lãi-mīn; tói-mīn; lãi--tang; lãi--teng; lãi-thâu. *within a month*, m̄-chiẽⁿ kâi-gu̍eh; put-tshut kâi-gu̍eh; tõ-che̍k-gu̍eh-lãi; tõ-chí-gu̍eh-tói. *within doors*, tõ-mn̂g-lãi; tō-ke-lãi; tõ-tshù-lãi. *within a step of death*, hiám-hiám-sí; tsu̍ah-se-su chiũ-sí.
 
-**without**, tõ-gūa; gūa-mīn; gūa-thâu. *without money*, bô-chîⁿ; khueh-chîⁿ. *without fear*, bô-só-ùi. *better without it(, put-zû-bô kèng-hó; su-kùe-bô; lêng-tsò-bô. *cannot do without it*, bô chiũ-m̄-tsò-tit; chhiet-iàu tie̍h-ũ.
+**without**, tõ-gūa; gūa-mīn; gūa-thâu. *without money*, bô-chîⁿ; khueh-chîⁿ. *without fear*, bô-só-ùi. *better without it*, put-zû-bô kèng-hó; su-kùe-bô; lêng-tsò-bô. *cannot do without it*, bô chiũ-m̄-tsò-tit; chhiet-iàu tie̍h-ũ.
 
 **withstand**, tí-tng; tang-tsũ; tng-tsũ; tùi-te̍k; khàng-kṳ̃; khàng-nge̍k; sie-káu-ke̍h.
 
@@ -13803,7 +13803,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wolf**, tshâi-lâng.
 
-**woman**, tsṳ-niêⁿ; nńg; hũ-jîn; hũ-jîn-nâng; a-má-nâng. [tsa-bóu not used in Hoo city, and vulgar.] an old woman, lãu-tsṳ-niêⁿ; lãu-ḿ; lãu-sím-pô. *woman's work*, nńg-kang; tsṳ-niêⁿ-kang; hũ-kang.
+**woman**, tsṳ-niêⁿ; nńg; hũ-jîn; hũ-jîn-nâng; a-má-nâng. *[tsa-bóu not used in Hoo city, and vulgar.] an old woman*, lãu-tsṳ-niêⁿ; lãu-ḿ; lãu-sím-pô. *woman's work*, nńg-kang; tsṳ-niêⁿ-kang; hũ-kang.
 
 **womb**, tho.
 
