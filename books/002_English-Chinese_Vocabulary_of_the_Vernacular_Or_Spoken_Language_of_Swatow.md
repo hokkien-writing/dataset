@@ -1211,7 +1211,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **becalm**, bô-huang; huang tiām; bô-huang bô-sie̍h.
 
-**because**, in-ũi; uân-in; in-tuan; in-iû; uân-khî.
+**because**, in-ũi; uân-in; in-tuan; in-iû; uân-khí.
 
 **beckon**, ia̍h-chhiú; chie-chhiú. *to come*, ia̍h-lâi. *to go*, ia̍h-khṳ̀.
 
