@@ -799,7 +799,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **arraign**, tòa-sím mn̄g-keng(帶審問經); tiàu-sím(吊審).
 
-**arrange**, an-pâi(安排); uaⁿ-pâi(灣排); pâi-pí(排比); sṳ̃-lí(伺理); liāu-lí(料理); chiáⁿ-tũn(正頓). *well arranged*, chiám-tso̍ih(準截); tsôi-chiáⁿ(齊正).
+**arrange**, an-pâi(安排); uaⁿ-pâi(灣排); pâi-pí(排比); sṳ̃-lí(伺理); liāu-lí(料理); chiáⁿ-tũn(整頓). *well arranged*, chiám-tso̍ih(準截); tsôi-chiáⁿ(齊正).
 
 **arrest**, lia̍h(掠); siu-kam(收監); khu-ah(拘押); ah-kuán(押管).
 
@@ -4741,7 +4741,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **essay**, *to*, chhì--chē(試一下); chhì-thóiⁿ--chē(試睇一下); thèng-tsãu-hùe(逞造化).
 
-**essay**, *an*, bûn-chieⁿ(文章). *write*, tsò-bûn-chieⁿ(做文章); tsò-bûn(做文). *a moral*, siẽn-tsṳ(善書). *a moral tract*, khǹg-sì-bûn(囥四文).
+**essay**, *an*, bûn-chieⁿ(文章). *write*, tsò-bûn-chieⁿ(做文章); tsò-bûn(做文). *a moral*, siẽn-tsṳ(善書). *a moral tract*, khǹg-sì-bûn(勸世文).
 
 **essence**, pńg-chie(本招); ngûan-khì(元氣).
 
@@ -6991,7 +6991,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **inflict**, *punishment*, kiâⁿ-hêng-hua̍t(行刑罰).
 
-**influence**, khuân(權); khì-la̍t(氣力); khuân-kì(勢頭); sì(勢); sì-thâu(勢頭); sì-mīn(勢頭); khuân-sì(勢頭); khuân-kùi(勢頭). *trust in others' influence*, chiã-sì(勢頭); chiã-sì-la̍t(籍勢力); sái-pa̍t-nâng kâi-sin-sì(使別儂个心勢). *to influence people*, kám-tõng(感動); kám-kek(感革); kám-hùe(感化).
+**influence**, khuân(權); khì-la̍t(氣力); khuân-kì(勢頭); sì(勢); sì-thâu(勢頭); sì-mīn(勢頭); khuân-sì(勢頭); khuân-kùi(勢頭). *trust in others' influence*, chiã-sì(勢頭); chiã-sì-la̍t(藉勢力); sái-pa̍t-nâng kâi-sin-sì(使別儂个心勢). *to influence people*, kám-tõng(感動); kám-kek(感革); kám-hùe(感化).
 
 **inform**, thong-tsai(通知); pò-tsai(報知); thuân-tsai(通知); pín(稟); tàⁿ(呾); tàⁿ-tsai(呾知); kàu-tsai(告知); hiáu-zũ(曉如意). *informer*, sùaⁿ-soh(算索).
 
@@ -8793,7 +8793,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **obvious**, mêng-pe̍h(明白).
 
-**occasion**, *no*, mién(免); mín-ēng(免用); khó-íⁿ put-pit(可以不必). *what*, ũ sĩ-mih kù-sṳ̄(有乜故何事); sĩ-mih uân-kù(是乜緣故). *this*, chí-hûe(只回); chí-pái(只擺); chí-tshṳ̀(只次); tshṳ́-tshṳ̀(此次). *on every occasion*, pâi-sî(排時); pâi-hûe(排回); sî-put-sî(時不時); sam-put-sî(三不時); múeⁿ-sî(滿時). *take*, chiã-sì(籍勢); sêng-ki(成機); sêng-ki-hũe(成機會); chiã-kù(籍故); chieh-tuan(借端); sêng-khiah(承隙); sêng-sì(成勢); sêng chí-kâi sṳ̄-kù(成只个事故); chiã-tuan(籍端). *occasionally*, ũ-tiâng-sî(有當時); ũ-sî(有時); che̍k-ē pùaⁿ-ē(一下半下).
+**occasion**, *no*, mién(免); mín-ēng(免用); khó-íⁿ put-pit(可以不必). *what*, ũ sĩ-mih kù-sṳ̄(有乜故何事); sĩ-mih uân-kù(是乜緣故). *this*, chí-hûe(只回); chí-pái(只擺); chí-tshṳ̀(只次); tshṳ́-tshṳ̀(此次). *on every occasion*, pâi-sî(排時); pâi-hûe(排回); sî-put-sî(時不時); sam-put-sî(三不時); múeⁿ-sî(滿時). *take*, chiã-sì(藉勢); sêng-ki(成機); sêng-ki-hũe(成機會); chiã-kù(藉故); chieh-tuan(借端); sêng-khiah(承隙); sêng-sì(成勢); sêng chí-kâi sṳ̄-kù(成只个事故); chiã-tuan(藉端). *occasionally*, ũ-tiâng-sî(有當時); ũ-sî(有時); che̍k-ē pùaⁿ-ē(一下半下).
 
 **occiput**, aũ-táu(後斗); chím-kut(枕骨).
 
@@ -8915,7 +8915,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **orchard**, kúeⁿ-chí-hn̂g(柑仔園).
 
-**order**, tsôiⁿ-ãu(前後); thâu-búe(頭尾); tshṳ̀-sũ(次序); tshṳ̀-tõiⁿ(次第); tsâng-tshṳ̀(層次). *put in*, an-pâi(安排); uaⁿ-pâi(鞍排); pái-hó(擺好); uaⁿ-pái-hó(安擺好); an-tùn-hó(安頓好); chèng-tũn(正頓); chiáⁿ-tũn(整頓); chiáⁿ-lí(整理); siu-si̍p(收拾); siu-chiáⁿ(修整); sṳ̃-lí(伺理); siu-si̍p iap-thiap kui-ūi(收拾壓貼規位). *in order*, tsôi-chiáⁿ(齊整).
+**order**, tsôiⁿ-ãu(前後); thâu-búe(頭尾); tshṳ̀-sũ(次序); tshṳ̀-tõiⁿ(次第); tsâng-tshṳ̀(層次). *put in*, an-pâi(安排); uaⁿ-pâi(鞍排); pái-hó(擺好); uaⁿ-pái-hó(安擺好); an-tùn-hó(安頓好); chèng-tũn(整頓); chiáⁿ-tũn(整頓); chiáⁿ-lí(整理); siu-si̍p(收拾); siu-chiáⁿ(修整); sṳ̃-lí(伺理); siu-si̍p iap-thiap kui-ūi(收拾壓貼規位). *in order*, tsôi-chiáⁿ(齊整).
 
 **order**, *to*, mẽng(命); lẽng(令); hun-hù(吩咐); hàm(喊); sái(使); kiè(叫). *an order for money*, ngṳ̂n-toaⁿ(銀單).
 
@@ -12387,9 +12387,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tassel**, *of cap*, âng-eng(紅纓); che̍k-phau-eng(一苞纓).
 
-**taste**, bī(味); bī-sòu(味素); khì-bī(氣味). *to*, siêⁿ-bī(嘗味); chhì-bī(試味). *tasteless*, bô-bī(無味); bô-bī-sòu(無味素); bô-khì-bī(無氣味); pe̍h-chiáⁿ pe̍h-chiáⁿ(白䭕白䭕); bī pi̍h(味闢); bī tãⁿ(味淡); chiáⁿ-tãⁿ(整淡); tãⁿ-po̍h(淡薄).
+**taste**, bī(味); bī-sòu(味素); khì-bī(氣味). *to*, siêⁿ-bī(嘗味); chhì-bī(試味). *tasteless*, bô-bī(無味); bô-bī-sòu(無味素); bô-khì-bī(無氣味); pe̍h-chiáⁿ pe̍h-chiáⁿ(白䭕白䭕); bī pi̍h(味闢); bī tãⁿ(味淡); chiáⁿ-tãⁿ(䭕淡); tãⁿ-po̍h(淡薄).
 
-**tattered**, phùa(破); phùa-tshùi(破碎); i-saⁿ lâm-lú(伊衫藍縷); uân-sui-saⁿ pue-lêng-khòu(完蓑衫飛龍褲).
+**tattered**, phùa(破); phùa-tshùi(破碎); i-saⁿ lâm-lú(伊衫藍縷); uân-sui-saⁿ pue-lêng-khòu(莞荽衫菠薐褲).
 
 **tattle**, tàⁿ-ôiⁿ-ūe(呾閒話); bô-siang-kan-ūe(無相干話); ūe-bî tsōi(話尾㩼).
 
@@ -12889,7 +12889,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **trunk**, sieⁿ(箱). *one*, che̍k-kha-sieⁿ(一骹箱). *leathern*, phûe-sieⁿ(皮箱). *of a tree*, chhiū-sin(樹身). *of elephant*, chhiẽⁿ-phīⁿ(像鼻).
 
-**trust**, *to*, sìn(信); siang-sìn(相信). *in*, sìn(信); kõu(靠); sìn-kõu(信靠); íⁿ-kõu(倚靠); íⁿ-nãiⁿ(倚賴); i-kõu(依靠); i-uá(依倚); uá-kõu(倚靠); chiã(籍); tit-pn̄g(得飯); khùa-pn̄g(掛飯); khàu-pn̄g(靠飯); thoh-kõu(託靠). *in wealth*, sĩ-tshâi(恃財). *a trust*, só-thoh kâi-sṳ̄(所託个事); só-hù-thoh kâi-sṳ̄(所付託个事). *trustworthy*, khó-sìn(可信); hó-siang-sìn(好相信); thó-tàng(妥當).
+**trust**, *to*, sìn(信); siang-sìn(相信). *in*, sìn(信); kõu(靠); sìn-kõu(信靠); íⁿ-kõu(倚靠); íⁿ-nãiⁿ(倚賴); i-kõu(依靠); i-uá(依倚); uá-kõu(倚靠); chiã(藉); tit-pn̄g(得飯); khùa-pn̄g(掛飯); khàu-pn̄g(靠飯); thoh-kõu(託靠). *in wealth*, sĩ-tshâi(恃財). *a trust*, só-thoh kâi-sṳ̄(所託个事); só-hù-thoh kâi-sṳ̄(所付託个事). *trustworthy*, khó-sìn(可信); hó-siang-sìn(好相信); thó-tàng(妥當).
 
 **truth**, see TRUE. *to speak the*, tàⁿ-si̍t-ūe(呾實話). *true doctrine*, chin-lí(真理); chin-tãu(真道); chiàⁿ-tãu(正道).
 
