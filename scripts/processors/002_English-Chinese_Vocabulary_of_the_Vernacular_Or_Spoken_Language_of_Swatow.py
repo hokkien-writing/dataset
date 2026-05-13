@@ -5,6 +5,7 @@ import re
 from scripts.processors.base import BookProcessor, Entry
 
 LINE_RE = re.compile(r"^\*\*(.+?)\*\*,\s*(.*)")
+HAN_ANN_RE = re.compile(r"\+\+\(([^)]*)\)\+\+")
 
 
 class Processor(BookProcessor):
@@ -90,10 +91,17 @@ class Processor(BookProcessor):
                         ).strip()
                         if not puj:
                             continue
+
+                        han_match = HAN_ANN_RE.search(puj)
+                        han = han_match.group(1) if han_match else ""
+                        puj = HAN_ANN_RE.sub("", puj).strip()
+                        if not puj:
+                            continue
+
                         entries.append(
                             Entry(
-                                han="",
-                                han_orig="",
+                                han=han,
+                                han_orig=han,
                                 puj=self.clean(puj),
                                 puj_orig="",
                                 en=self.clean(en),
