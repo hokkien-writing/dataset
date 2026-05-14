@@ -1833,7 +1833,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bushel**, táu++(斗)++.
 
-**busy**, ũ-sṳ̄++(毋閒)++; m̄-ôiⁿ++(毋閑)++. *very*, che̍k-sin chẽng-sĩ-sṳ̄++(一身淨是事)++; sṳ̄-bũ tsōi-tsãi++(事務㩼在)++. *business*, sṳ̄++(事)++; sṳ̄-bũ++(事務)++; thâu-lōu++(頭路)++. *business (mercantile)*, seng-lí++(生理)++. *business (official)*, kong-sṳ̄++(公事)++.
+**busy**, ũ-sṳ̄++(毋閒)++; m̄-ôiⁿ++(毋閒)++. *very*, che̍k-sin chẽng-sĩ-sṳ̄++(一身淨是事)++; sṳ̄-bũ tsōi-tsãi++(事務㩼在)++. *business*, sṳ̄++(事)++; sṳ̄-bũ++(事務)++; thâu-lōu++(頭路)++. *business (mercantile)*, seng-lí++(生理)++. *business (official)*, kong-sṳ̄++(公事)++.
 
 **busybody**, hàuⁿ-seⁿ-sṳ̄++(好生事)++.
 
@@ -5071,7 +5071,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fathom**, *water*, thàm-thóiⁿ tsúi jie̍h-chhim++(探水若深)++. *one fathom*, che̍k-chhíⁿ++(一齒)++; che̍k-siâm++(一尋)++. *fathomless*, m̄-hó chhek-ta̍t++(毋好測度)++; chhim-bô-tói++(深無底)++.
 
-**fatigue**, he̍k++(核)++; phî-kũan++(疲慣)++; kha sng++(骹酸)++; siên++(閑)++; khùn-siên++(睏閑)++. *fatigue oneself*, lâu-la̍t++(勞力)++; bûa-lâu++(磨勞)++.
+**fatigue**, he̍k++(核)++; phî-kũan++(疲慣)++; kha sng++(骹酸)++; siên++(閒)++; khùn-siên++(睏閒)++. *fatigue oneself*, lâu-la̍t++(勞力)++; bûa-lâu++(磨勞)++.
 
 **fault**, kùe++(過)++; kùe-sit++(過失)++; tshò++(錯)++; m̄-tie̍h++(毋着)++; tshò-gōu++(錯誤)++; put-si++(不是)++. *fault-finding*, hàuⁿ-hiâm nâng m̄-tie̍h++(好嫌人毋着)++; hàuⁿ ngí-lũn-nâng++(好議論人)++; hàuⁿ phoi-tso̍ih-nâng++(好批截人)++. *faultless*, bô-hó-hiâm++(無好嫌)++; bô-hó-hiâm--tshù++(無好嫌厝)++; bô-m̄-tie̍h++(無毋着)++; bô-kùe-sit++(無過失)++; bô-hiâ-tshṳ̂++(無瑕疵)++.
 
@@ -6673,7 +6673,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **immoderate**, kùe-hūn++(過分)++; bô-tōu++(無度)++; bô-pān-bó++(無半母)++; khah-kùe-thâu++(較過頭)++.
 
-**immodest**, m̄-ha̍h-lói++(毋合禮)++; m̄-ùi siáu-lí++(毋畏小禮)++; bô-liâm-chhí++(無廉恥)++.
+**immodest**, m̄-ha̍h-lói++(毋合禮)++; m̄-ùi siáu-lí++(毋畏少禮)++; bô-liâm-chhí++(無廉恥)++.
 
 **immoral**, m̄-chiàⁿ-keng++(毋正經)++; búang-ûi++(妄爲)++; thèng-tsò++(聽做)++; m̄-tuan-chiàⁿ++(毋端正)++; hêng-ûi put-tuan++(行為不端)++. *immorality*, m̄-chiàⁿ-keng-sṳ̄++(毋正經事)++; m̄-hó-sṳ̄++(毋好事)++; hui-ûi++(非爲)++.
 
@@ -6767,7 +6767,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **imprudent**, bô-kièn-sek++(無見識)++; bõi-phah-sǹg++(勿會打算)++; bõi-tá-sǹg++(袂打算)++; bô-tì-hũi++(無智慧)++.
 
-**impudent**, m̄-ùi siáu-lí++(毋畏小禮)++; mīn-phûe kãu++(面皮厚)++; bô-liâm-chhí++(無廉恥)++.
+**impudent**, m̄-ùi siáu-lí++(毋畏少禮)++; mīn-phûe kãu++(面皮厚)++; bô-liâm-chhí++(無廉恥)++.
 
 **impunity**, thut-hêng++(脫刑)++; mién-hua̍t++(免罰)++; lāu-mãng++(老罔)++.
 
@@ -7063,7 +7063,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **insecure**, m̄-ún-tǹg++(毋穩當)++; m̄-thó-tàng++(毋妥當)++; m̄-thêng-tǹg++(毋停當)++; m̄-tit-tǹg++(毋得當)++.
 
-**insensible**, m̄-tsai-nâng++(毋知人[訓])++. *to pain*, m̄-tsai-thiàⁿ++(毋知痛)++. *to shame*, m̄-tsai siáu-lí++(毋知小禮)++.
+**insensible**, m̄-tsai-nâng++(毋知人[訓])++. *to pain*, m̄-tsai-thiàⁿ++(毋知痛)++. *to shame*, m̄-tsai siáu-lí++(毋知少禮)++.
 
 **insert**, tshah-ji̍p++(插入)++; lōng-ji̍p++(弄入)++; lāng-ji̍p++(攪入)++; thn̄g--ji̍p-khṳ̀++(捅入去)++. *in an account book*, chiẽⁿ-siàu++(上數)++; teng-phóu++(登譜)++; kì-siàu++(記數)++. *in a book*, kì-lo̍k++(記錄)++.
 
@@ -8261,7 +8261,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mince**, tso̍ih-tshùi-tshùi++(截碎碎)++; tok-tshùi++(剁碎)++; tok-iùⁿ++(剁幼)++. *(substantive)*, ne̍k-tshò++(肉銼)++; ne̍k-nîⁿ++(肉泥)++. *(substantive) (less fine)*, ne̍k-sám++(肉糝)++.
 
-**mind**, sim++(心)++; sim-sîn++(心神)++; sim-chì++(心志)++; sim-tn̂g++(心腸)++; sim-ì++(心意)++. *intelligent*, tóu-lãi mêng-pe̍h++(肚內明白)++. *large*, tōu-liãng khuan-tōa++(度量寬大)++; tōu-liãng khuan-khuah++(度量寬闊)++; khuan-hông tãi-liãng++(寬宏大量)++; hái-liãng++(海量)++. *narrow*, bô-tōu-liãng++(無度量)++; ti̍h-kiáⁿ-liãng++(着囝量)++; koi-tn̂g múaⁿ-chiah-tóu++(雞長滿隻肚)++; sim o̍ih-sòi++(心狹細)++; sim-heng o̍ih-sòi++(心胸狹細)++; chhién-kièn++(淺見)++. *of one*, tâng-sim++(心)++. *just to my mind*, chiàⁿ-ha̍h úa-kâi-sim++(正合我个心)++; zû-ngũan++(如願)++; zû-ì++(如意)++; tèng-ì++(中意)++; ha̍h-siẽⁿ++(合想)++. *have something on the mind*, sim++(心)++-lãi ũ-sṳ̄; sim m̄-chheng++(心不清)++; sim m̄-ôiⁿ++(心不閑)++; sim++(心)++-lãi kãu-ue̍h. *mind made up*, tsú-ì íⁿ-tiāⁿ++(主意已定)++; li̍p-tiāⁿ tsú-ì++(立定主意)++; íⁿ-keng kuat-ì++(已經決意)++. *to mind*, liû-sim++(心)++; tì-ì++(在意)++. *with one's whole mind*, tsuan-sim++(心)++ tì-ì; chĩn-sim++(心)++ chĩn-ì. *never mind*, bô-siang-kan++(無相干)++; chhìn-tshái++(親采)++; màiⁿ-khṳ̀-tshái++(勿去睬)++; màiⁿ-khṳ̀ kài-ì++(勿去介意)++; màiⁿ-pàng tõ-sim++(勿放在心)++; tì-tsṳ tōu-gūa++(置之度外)++; màiⁿ-kúan++(勿管)++. *never mind him*, màiⁿ kāng-i kòi-kà++(勿共伊計較)++; màiⁿ-tshái--i++(勿睬伊)++; kṳ̀-i-khṳ̀++(鋸伊去)++. *keep in mind*, kì-tit++(記得)++; kì-liãm++(記念)++.
+**mind**, sim++(心)++; sim-sîn++(心神)++; sim-chì++(心志)++; sim-tn̂g++(心腸)++; sim-ì++(心意)++. *intelligent*, tóu-lãi mêng-pe̍h++(肚內明白)++. *large*, tōu-liãng khuan-tōa++(度量寬大)++; tōu-liãng khuan-khuah++(度量寬闊)++; khuan-hông tãi-liãng++(寬宏大量)++; hái-liãng++(海量)++. *narrow*, bô-tōu-liãng++(無度量)++; ti̍h-kiáⁿ-liãng++(着囝量)++; koi-tn̂g múaⁿ-chiah-tóu++(雞長滿隻肚)++; sim o̍ih-sòi++(心狹細)++; sim-heng o̍ih-sòi++(心胸狹細)++; chhién-kièn++(淺見)++. *of one*, tâng-sim++(心)++. *just to my mind*, chiàⁿ-ha̍h úa-kâi-sim++(正合我个心)++; zû-ngũan++(如願)++; zû-ì++(如意)++; tèng-ì++(中意)++; ha̍h-siẽⁿ++(合想)++. *have something on the mind*, sim++(心)++-lãi ũ-sṳ̄; sim m̄-chheng++(心不清)++; sim m̄-ôiⁿ++(心不閒)++; sim++(心)++-lãi kãu-ue̍h. *mind made up*, tsú-ì íⁿ-tiāⁿ++(主意已定)++; li̍p-tiāⁿ tsú-ì++(立定主意)++; íⁿ-keng kuat-ì++(已經決意)++. *to mind*, liû-sim++(心)++; tì-ì++(在意)++. *with one's whole mind*, tsuan-sim++(心)++ tì-ì; chĩn-sim++(心)++ chĩn-ì. *never mind*, bô-siang-kan++(無相干)++; chhìn-tshái++(親采)++; màiⁿ-khṳ̀-tshái++(勿去睬)++; màiⁿ-khṳ̀ kài-ì++(勿去介意)++; màiⁿ-pàng tõ-sim++(勿放在心)++; tì-tsṳ tōu-gūa++(置之度外)++; màiⁿ-kúan++(勿管)++. *never mind him*, màiⁿ kāng-i kòi-kà++(勿共伊計較)++; màiⁿ-tshái--i++(勿睬伊)++; kṳ̀-i-khṳ̀++(鋸伊去)++. *keep in mind*, kì-tit++(記得)++; kì-liãm++(記念)++.
 
 **mine**, *gold*, kim-suaⁿ++(金山)++. *miner*, liú-suaⁿ-hām++(柳山陷)++. *in war*, tī-lûi++(地雷)++; tī-lûi húe-phàu++(地雷火砲)++. *to lay*, tâi-tī-lûi++(台地雷)++. *to explode*, kún-tī-lûi++(滾地雷)++.
 
@@ -11063,7 +11063,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **sense**, *of*, ì++(意)++; ì-sṳ̀++(意思)++; ì-ngĩ++(意義)++. *the five senses*, ngóu-kuaⁿ++(五官)++. *senseless*, bô-sueh++(無說)++; hû-thû++(糊塗)++; kông-kông++(戇戇)++. *sensible*, thong-chhêng ta̍t-lí++(通情達理)++; ũ-tsai-kak++(有知覺)++; hiáu-sṳ̄ hiáu-lí++(曉事曉理)++; chhêng-lí thong-thiet++(情理通徹)++.
 
-**sensitive**, *plant*, niauⁿ-tsháu++(鳥草)++; siáu-lí-tsháu++(小李草)++.
+**sensitive**, *plant*, niauⁿ-tsháu++(鳥草)++; siáu-lí-tsháu++(少禮草)++.
 
 **sensual**, chiú-sek tsṳ-thû++(酒色之徒)++; tham-hue luãn-chiú++(貪花亂酒)++; tham-sek-io̍k++(貪色慾)++; hàuⁿ-chiú-sek++(好酒色)++.
 
@@ -11141,7 +11141,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **shambles**, *(slaughter-house)*, gû-tôu++(牛屠)++. *(meat-market)*, bōi-ne̍k-chhĩ++(賣肉市)++.
 
-**shame**, siáu-lí++(少禮)++; siu-chhíⁿ++(修恥)++. *put to*, kièn-siàu++(少禮)++. *shamefaced*, ùi-siáu-lí++(畏小李)++. *shameful*, chhiú-sṳ̄++(少禮)++; siáu-lí-sṳ̄++(小李事)++. *shameless*, m̄-ùi siáu-lí++(毋畏小李)++; mīn-phûe kãu++(面皮厚)++.
+**shame**, siáu-lí++(少禮)++; siu-chhíⁿ++(羞恥)++. *put to*, kièn-siàu++(見笑)++. *shamefaced*, ùi-siáu-lí++(畏少禮)++. *shameful*, chhiú-sṳ̄++(醜事)++; siáu-lí-sṳ̄++(少禮事)++. *shameless*, m̄-ùi siáu-lí++(毋畏少禮)++; mīn-phûe kãu++(面皮厚)++.
 
 **shampoo**, tûi++(捶)++. *the loins*, tûi-ie++(捶腰)++.
 
@@ -13237,7 +13237,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unwilling**, m̄-ngũan++(毋愿)++; m̄-hàuⁿ++(毋好)++; m̄-khéng++(毋肯)++. see WILLING.
 
-**unworthy**, m̄-kham-kai++(毋堪該)++; put-kham++(毋堪)++; put-kai++(毋堪)++; m̄-kai++(毋該)++; m̄-eng-kai++(毋應該)++; m̄-eng-tng++(毋應當)++; m̄-kham-tng++(毋堪當)++. *of notice*, put-tsok-kuan++(不足觀)++; m̄-tèng hó-thóiⁿ++(毋正好睇)++.
+**unworthy**, m̄-kham-kai++(毋堪該)++; put-kham++(毋堪)++; put-kai++(毋堪)++; m̄-kai++(毋該)++; m̄-eng-kai++(毋應該)++; m̄-eng-tng++(毋應當)++; m̄-kham-tng++(毋堪當)++. *of notice*, put-tsok-kuan++(不足觀)++; m̄-tèng hó-thóiⁿ++(毋中好睇)++.
 
 **unyielding**, ngẽ-sèⁿ++(硬性)++; chip-sèⁿ++(執性)++; m̃-ho̍k++(毋服)++; m̃-sũn++(毋順)++; kang-ngẽ++(工硬)++.
 
