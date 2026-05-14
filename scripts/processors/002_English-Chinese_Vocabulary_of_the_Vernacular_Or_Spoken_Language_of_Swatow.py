@@ -80,6 +80,11 @@ class Processor(BookProcessor):
                     if not puj_text or puj_text.startswith("see "):
                         continue
 
+                    extra_ctx = re.match(r"\*(.+?)\*\s*,\s*(.*)", puj_text)
+                    if extra_ctx:
+                        en = f"{en}, {extra_ctx.group(1).strip()}"
+                        puj_text = extra_ctx.group(2).strip()
+
                     puj_text = puj_text.replace("*", "")
 
                     for puj in puj_text.split(";"):

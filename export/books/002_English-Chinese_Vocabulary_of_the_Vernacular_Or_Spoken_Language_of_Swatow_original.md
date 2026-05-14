@@ -2041,7 +2041,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cardinal**, *points*, sì-hng; tang-sai lâm-pak.
 
-**care**, liû-sim; sié-sim; tsṳ́-sòi; ēng-sim; kṳ́n-sin; tsham-chhim; tham-chhim. *anxiety*, khùa-lṳ̃; huân-ló; khùa-sim; khùa-liãm; khùa-huâi; huân-sim. *take care of*, chiàu-kù; thóiⁿ-kù; kuan-kù. *not to care*, bô-kài-ì; bô-chhiet-iàu; bô-siang-kan; m̄-tshái. *what care I for that matter*, hṳ́-kâi-sṳ̄ kāng-uá ũ-sĩ-mih kan-sia̍p. *I do not care to go*. uá bô-mih àiⁿ-khṳ̀; uá bô-mih nguãn-khṳ̀.
+**care**, liû-sim; sié-sim; tsṳ́-sòi; ēng-sim; kṳ́n-sin; tsham-chhim; tham-chhim. *anxiety*, khùa-lṳ̃; huân-ló; khùa-sim; khùa-liãm; khùa-huâi; huân-sim. *take care of*, chiàu-kù; thóiⁿ-kù; kuan-kù. *not to care*, bô-kài-ì; bô-chhiet-iàu; bô-siang-kan; m̄-tshái. *what care I for that matter*, hṳ́-kâi-sṳ̄ kāng-uá ũ-sĩ-mih kan-sia̍p. *I do not care to go*, uá bô-mih àiⁿ-khṳ̀; uá bô-mih nguãn-khṳ̀.
 
 **careless**, ló-tshó; chhìn-tshái; bô-sié-sim; hut-lia̍k; thèng-lâi.
 
