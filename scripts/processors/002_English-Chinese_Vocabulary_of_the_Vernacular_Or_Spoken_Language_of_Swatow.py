@@ -6,6 +6,9 @@ from scripts.processors.base import BookProcessor, Entry
 
 LINE_RE = re.compile(r"^\*\*(.+?)\*\*,\s*(.*)")
 HAN_ANN_RE = re.compile(r"\+\+\(([^)]*)\)\+\+")
+PLAIN_HAN_RE = re.compile(r"\(([\u4E00-\u9FFF\u3400-\u4DBF\U00020000-\U0002EBEF]+)\)")
+COMMA_ANN_SPLIT_RE = re.compile(r",\s+(?=\S.*\+\+\()")
+COLON_SPLIT_RE = re.compile(r":\s+")
 
 
 class Processor(BookProcessor):
@@ -97,22 +100,53 @@ class Processor(BookProcessor):
                         if not puj:
                             continue
 
-                        han_match = HAN_ANN_RE.search(puj)
-                        han = han_match.group(1) if han_match else ""
-                        puj = HAN_ANN_RE.sub("", puj).strip()
-                        if not puj:
-                            continue
-
-                        entries.append(
-                            Entry(
-                                han=han,
-                                han_orig=han,
-                                puj=self.clean(puj),
-                                puj_orig="",
-                                en=self.clean(en),
-                                en_orig="",
-                                source=source_label,
-                            )
-                        )
+                        for item in self._split_annotated_items(puj):
+                            self._emit_entry(item, en, source_label, entries)
 
         return entries
+
+    @staticmethod
+    def _split_annotated_items(puj: str) -> list[str]:
+        if COLON_SPLIT_RE.search(puj) and COMMA_ANN_SPLIT_RE.search(puj):
+            parts = COLON_SPLIT_RE.split(puj, maxsplit=1)
+            items = [parts[0].rstrip(": ")]
+            if len(parts) > 1:
+                items.extend(
+                    s.strip() for s in COMMA_ANN_SPLIT_RE.split(parts[1]) if s.strip()
+                )
+            return items
+
+        if COMMA_ANN_SPLIT_RE.search(puj):
+            return [
+                s.strip() for s in COMMA_ANN_SPLIT_RE.split(puj) if s.strip()
+            ]
+
+        return [puj]
+
+    @staticmethod
+    def _emit_entry(puj: str, en: str, source_label: str, entries: list[Entry]) -> None:
+        han_match = HAN_ANN_RE.search(puj)
+        han = han_match.group(1) if han_match else ""
+
+        if not han:
+            plain = PLAIN_HAN_RE.search(puj)
+            if plain:
+                han = plain.group(1)
+
+        puj = HAN_ANN_RE.sub("", puj).strip()
+        puj = PLAIN_HAN_RE.sub("", puj).strip()
+        puj = puj.rstrip(": ")
+        if not puj:
+            return
+
+        entries.append(
+            Entry(
+                han=han,
+                han_orig=han,
+                puj=BookProcessor.clean(puj),
+                puj_orig="",
+                en=BookProcessor.clean(en),
+                en_orig="",
+                source=source_label,
+            )
+        )
