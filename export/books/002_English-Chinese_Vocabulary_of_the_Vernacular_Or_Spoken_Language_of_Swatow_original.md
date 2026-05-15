@@ -833,7 +833,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **artlessly**, tong-ti̍t; bô-nõⁿ-sim; bô-ngũi; láu-si̍t.
 
-**as**, zû; chin-chhiẽⁿ; àn; chiè. *as to*, lũn-ki̍p; lũn-kàu; tàⁿ-kàu; chì-kàu. *as before*, jiông-kū; jêng-kū; i-kū; i-ngûan; chiè-kū; zû-kū. *as you say*, chiè-lṳ́-tàⁿ. *as soon as* ......, che̍k-ē ...... chiũ. *as he grew up he gradually changed to evil*, i khuaⁿ-khuaⁿ-tōa chiũ chiãm-chiãm pièn-ak.
+**as**, zû; chin-chhiẽⁿ; àn; chiè. *as to*, lũn-ki̍p; lũn-kàu; tàⁿ-kàu; chì-kàu. *as before*, jiông-kū; jêng-kū; i-kū; i-ngûan; chiè-kū; zû-kū. *as you say*, chiè-lṳ́-tàⁿ. *as soon as*, che̍k-ē ... chiũ. *as he grew up he gradually changed to evil*, i khuaⁿ-khuaⁿ-tōa chiũ chiãm-chiãm pièn-ak.
 
 **ascend**, chiẽⁿ; khí; teng; seng.
 
@@ -3503,7 +3503,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **decrease**, húan-kiám; chiãm-chiãm-kiám; siau-si̍h; sue-mûiⁿ.
 
-**decree**, mẽng-lẽng. *Emperor's*. siãng-zũ. *heaven's*, thien-mẽng. *issue a decree*, tshut-zũ; thûan-mẽng.
+**decree**, mẽng-lẽng. *Emperor's*, siãng-zũ. *heaven's*, thien-mẽng. *issue a decree*, tshut-zũ; thûan-mẽng.
 
 **decrepit**, khì-hueh sue; kiu tsò-che̍k-tu; sok tsò-che̍k-pé.
 
@@ -4369,7 +4369,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **earnest**, *tsuan-sim; chhiet-chhiet; pek-chhiet; sim kien*, ì chhiet; tsuan-it; jie̍t-sim. *speak in*, tàⁿ-si̍t-ūe. *earnest money*, tiāⁿ-ngṳ̂n; tiāⁿ-chîⁿ; tiāⁿ-thâu; tǹg. *accept earnest money*, siu-tiāⁿ.
 
-**earth**, tī; thôu; thóu. *the earth*, tī-kiû. *heaven and earth*, thiⁿ-tī. *on the earth*, tõ-tī-mīn; tõ-thóu-ẽ. *the whole earth*. phóu-thiⁿ-ẽ; thong thiⁿ-kha-ẽ. *garden-earth*, hn̂g-thôu. *earth-nut*, tī-tāu. *earth-worm*, kãu-ún. *earth-quake*, tī chín; tī tín-tãng; tī-gû ūaⁿ-koiⁿ. *earthenware*, hûi-khì; jiâu-khì; au-úaⁿ pûaⁿ-ti̍h.
+**earth**, tī; thôu; thóu. *the earth*, tī-kiû. *heaven and earth*, thiⁿ-tī. *on the earth*, tõ-tī-mīn; tõ-thóu-ẽ. *the whole earth*, phóu-thiⁿ-ẽ; thong thiⁿ-kha-ẽ. *garden-earth*, hn̂g-thôu. *earth-nut*, tī-tāu. *earth-worm*, kãu-ún. *earth-quake*, tī chín; tī tín-tãng; tī-gû ūaⁿ-koiⁿ. *earthenware*, hûi-khì; jiâu-khì; au-úaⁿ pûaⁿ-ti̍h.
 
 **ease**, phêng-an; uaⁿ; khùaⁿ-ua̍h; tsṳ̃-tsãi; uaⁿ-jiên; uaⁿ-chẽⁿ. *pain*; chí-thiàⁿ. *as rope*, pàng-sang; pàng-lēng. *easy*, kōi; iông-kōi; iông-ĩ; bõi-oh; put-lân. *manner, not hurried*, khuaⁿ-chiâⁿ khuaⁿ-chiâⁿ; tshông-iông. *to recognize*, kōi-jīn. *to learn*, kōi-pat.
 
@@ -5213,7 +5213,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **find**, *find by search*, tshūe--tie̍h; chhîm--tie̍h; chhê--tie̍h. *find by search (in a book)*, chhê-tit-tshut. *find by search  (in a book or mixed mass)*, púe--tie̍h. *meet with*, ngõ--tie̍h; tú--tie̍h; hông--tie̍h. *to find anything by chance*, khieh--tie̍h; to̍h-tie̍h.
 
-**fine**, *in quality*, iùⁿ; iùⁿ-sòi. reasoning, tõ-lí sòi-mûiⁿ; cheng-mûiⁿ; cheng-sòi, *in fine*, tàu-tí. *weather*, hó-thiⁿ; thiⁿ-sî chêⁿ.
+**fine**, *in quality*, iùⁿ; iùⁿ-sòi. reasoning, tõ-lí sòi-mûiⁿ; cheng-mûiⁿ; cheng-sòi。 *in fine*, tàu-tí. *weather*, hó-thiⁿ; thiⁿ-sî chêⁿ.
 
 **fine**, *to*, hua̍t. *to (money)*, hua̍t-ngṳ̂n. *to (a play)* hua̍t-hì; hua̍t-tsúa-iáⁿ. *to (crackers)*, hua̍t-phòng-phiẽ.
 
@@ -5857,7 +5857,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **gloss**, *over a fault*, chia-buah; iám-sek. *commentary*, tsù-kói. *glossy*, kng-kng.
 
-**gloves**, chhiú-thàu, *put on*, lap-chhiú-thàu; kùa-chhiú-thàu.
+**gloves**, chhiú-thàu. *put on*, lap-chhiú-thàu; kùa-chhiú-thàu.
 
 **glow**, jie̍t; jie̍t-jie̍t âng-âng. *glowing coals*, âng-húe-thòaⁿ; jie̍t-thòaⁿ. *with rage*, sim jie̍t, mīn âng.
 
@@ -7985,7 +7985,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mallet**, tshâ-thûi.
 
-**mamma**, *one's*, a-bó; bó-chhin; a-âi; a-neⁿ. *in addressing*, a-neⁿ; a-bó; a-niêⁿ. Chinese often call their parents uncle and aunt when speaking of them.
+**mamma**, *one's*, a-bó; bó-chhin; a-âi; a-neⁿ. *in addressing*, a-neⁿ; a-bó; a-niêⁿ. *Chinese often call their parents uncle and aunt when speaking of them.*
 
 **mammon**, tshâi-sîn-iâ; chiáu-tshâi-iâ; tshâi-pe̍h.
 
@@ -9059,7 +9059,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **parchment**, iêⁿ-phûe-tsúa.
 
-**pardon**, sià-tsũe; khuan-iũ; khuan-sià; sià-iũ; sià-mién; khuan-mién. *pardonable*, khó-sù; khó-sià, *pardon me*, sù-tsũe; sù-tsũe sù-tsũe. *I beg your pardon*, ũ-tsũe; sù--chē; chhiáⁿ-sù--chē; sit-lói; m̄-tsai-thâu; m̄-tsai kak-tshat; sit-kak-tshat. *apologising for not having received a visitor*, sit-pûe; sit-chiap.
+**pardon**, sià-tsũe; khuan-iũ; khuan-sià; sià-iũ; sià-mién; khuan-mién. *pardonable*, khó-sù; khó-sià. *pardon me*, sù-tsũe; sù-tsũe sù-tsũe. *I beg your pardon*, ũ-tsũe; sù--chē; chhiáⁿ-sù--chē; sit-lói; m̄-tsai-thâu; m̄-tsai kak-tshat; sit-kak-tshat. *apologising for not having received a visitor*, sit-pûe; sit-chiap.
 
 **pare**, siah; phoi; kueh. *the nails*, chién-tsńg-kah; ka-tsńg-kah.
 
@@ -9363,7 +9363,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pile**, *up*, tha̍h--khí-lâi; kih--khí-lâi; lúi; tun; thah; tu. *piled-up*, têng-têng tha̍h-tha̍h.
 
-**piles**, thī; thī-tshng. *external*, gūa-thĭ, *internal*, lãi-thĭ. *to have*, seⁿ-thĭ.
+**piles**, thī; thī-tshng. *external*, gūa-thĭ. *internal*, lãi-thĭ. *to have*, seⁿ-thĭ.
 
 **pilfer**, thau-khie̍h; tshṳ́-hò; tshṳ́-chhiap. *pilferer*, tsha̍t-kiáⁿ; tshṳ́-tsha̍t-kiáⁿ.
 
@@ -9421,7 +9421,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **placard**, thiap; kò-sī. *(anonymous and abusive)*, pe̍h-thâu-thiap; bô-thâu-thiap. *offering reward*, siéⁿ-thiap.
 
-**place**, tshù; tī-hng; ūi-tshṳ̀; só-tsãi; tī-ūi; kò, *give*, jiãng-ūi; tho-ūi; tho-jiãng. *in the first*, khî-it; tõiⁿ-it-kiãⁿ; tõiⁿ-it-hãng. *go from place to place*, khuan-lâi khuan-khṳ̀; múaⁿ-kò-kiâⁿ.
+**place**, tshù; tī-hng; ūi-tshṳ̀; só-tsãi; tī-ūi; kò. *give*, jiãng-ūi; tho-ūi; tho-jiãng. *in the first*, khî-it; tõiⁿ-it-kiãⁿ; tõiⁿ-it-hãng. *go from place to place*, khuan-lâi khuan-khṳ̀; múaⁿ-kò-kiâⁿ.
 
 **placenta**, ui; tho-ui.
 
@@ -9459,7 +9459,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **play**, sńg; sie-sńg. *the flute*, tshue-te̍k. *the organ*, tôaⁿ-khîm; thân-khîm. *the fiddle*, kṳ̀-hîⁿ. *chess*, teh-kî. *cards*, phah-tsúa-pâi. *ball*, that-kiû; phah-kiû. *play day*, thit-thô-ji̍t. *plaything*, thit-thô-mue̍h.
 
-**play**, *a*, hi̍, *act a*, tsò-hi̍. *actor*, hi̍-kieh; hi̍-kiáⁿ. *an act of a*, che̍k-tshut-hi̍. *look at*, thóiⁿ-hi̍. *engage*, chhiáⁿ-hi̍. *stage for (permanent)*, hi̍-thâi. *stage for (temporary)*, hi̍-pêⁿ.
+**play**, *a*, hi̍. *act a*, tsò-hi̍. *actor*, hi̍-kieh; hi̍-kiáⁿ. *an act of a*, che̍k-tshut-hi̍. *look at*, thóiⁿ-hi̍. *engage*, chhiáⁿ-hi̍. *stage for (permanent)*, hi̍-thâi. *stage for (temporary)*, hi̍-pêⁿ.
 
 **plead**, khiû; khṳ́n-khiû; koh-lô; sueh-chhêng.
 
@@ -12761,7 +12761,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **traitor**, bōi-kok; kōi-kun; kan-chhîn; bōi-làn kun-uâng; tsò-sùaⁿ.
 
-**trample**, *on*. tshau-ta̍h; lūn-ta̍h. *to death*, ta̍h-sí; lūn-sí. *on the law*, ma̍k bô-uâng-chiang.
+**trample**, *on*, tshau-ta̍h; lūn-ta̍h. *to death*, ta̍h-sí; lūn-sí. *on the law*, ma̍k bô-uâng-chiang.
 
 **trance**, *to fall into a*, sim-sîn iû tõ-mu̍eh-siãng hṳ́-gūa.
 
@@ -13137,9 +13137,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unite**, *to*, hũe-ha̍h; ha̍h-bûa; hũe-bûa; ha̍h tsò-che̍k-ē. *in purpose or effort*, tâng-sim khòi-ha̍h; tâng-sim hia̍p-la̍t; tâng-sim tâng-la̍t. *in marriage*, phit-phùe. *many in one*, ha̍h tsò-che̍k-ē. *will not unite, as two surfaces or fluids*, m̃-sie-chia̍h. *union(concord)*, hûa-mo̍k; siang-hûa; phêng-hûa.
 
-**United**, the, *States of America*, Ha̍h-chèng-kok; Tãi-Múiⁿ-kok; Hue-kî-kok.
+**United**, *the*, *States of America*, Ha̍h-chèng-kok; Tãi-Múiⁿ-kok; Hue-kî-kok.
 
-**universal**, the, *world*, phóu-thiⁿ-ẽ; phóu-thiⁿ kha-ẽ; pìn-thiⁿ-ẽ. *knowledge*, bô-só put-hiáu; chiu-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-hiáu;chiu-tsai chĩn-hiáu; pat-thàng; pat-liáu. *peace*, thiⁿ-ẽ thài-phêng.
+**universal**, *the*, *world*, phóu-thiⁿ-ẽ; phóu-thiⁿ kha-ẽ; pìn-thiⁿ-ẽ. *knowledge*, bô-só put-hiáu; chiu-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-tsai; thiⁿ-ẽ kâi-sṳ̄ chĩn-hiáu;chiu-tsai chĩn-hiáu; pat-thàng; pat-liáu. *peace*, thiⁿ-ẽ thài-phêng.
 
 **universe**, thiⁿ-tī; būan-mue̍h. *(not quite colloquial)*, ú-tiũ.
 
