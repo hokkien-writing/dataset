@@ -2833,7 +2833,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **conjecture**, phah-sn̍g++(拍算)++; tá-sn̍g++(打算)++; tá-sùan++(打算)++; pheⁿ-phah++(斟酌)++; pān++(辦)++; iak++(鑰)++; íak-pān++(藥辦)++.
 
-**conjoin**, kap-bûa++(合磨)++; tùa-bûa++(帶磨)++; siang-liên++(湘連)++; tah-tùe++(搭綴)++. *conjointly*, sie-kāng++(相共)++.
+**conjoin**, kap-bûa++(合磨)++; tùa-bûa++(帶磨)++; siang-liên++(相連)++; tah-tùe++(搭綴)++. *conjointly*, sie-kāng++(相共)++.
 
 **conjugal**, *affection*, hu-hũ tsṳ-chhêng++(夫婦之情)++.
 
@@ -2853,11 +2853,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **consecrate**, *an idol*, khai-huang++(開封)++. *to the idols*, hõng-hìn sîn-mêng++(奉獻神明)++.
 
-**consecutive**, siang-liên++(湘連)++; liên-lo̍k++(連陸)++; chiap-so̍k++(接續)++; sie-sùa++(相紲)++; thûan--lo̍h-lâi++(傳落來)++.
+**consecutive**, siang-liên++(相連)++; liên-lo̍k++(連陸)++; chiap-so̍k++(接續)++; sie-sùa++(相紲)++; thûan--lo̍h-lâi++(傳落來)++.
 
 **consent**, tsún++(准)++; zún-na̍p++(允納)++; khéng++(肯)++; hàuⁿ++(允)++; ìn-na̍p++(應納)++; ìn-sêng++(應承)++; na̍p-ì++(納意)++.
 
-**consequences**, kuan-hĩ++(關係)++. *bad*, khan-gāi++(牽礙)++; liên-lūi++(連累)++; po-lūi++(波累)++; khan-thùa++(牽拖)++; khan-thua++(牽拖)++. *of no consequence*, bô-siang-kan++(無相干)++; bô-siang++(無湘)++; bô-hûang++(無衡)++; bô-bī++(無味)++; mùiⁿ++(免)++; bô-kàu tî-kò-khṳ̀++(無到底塊去)++; bô-chhiet-iàu++(無切要)++. *consequently*, kù-tshṳ́++(故此)++; só-íⁿ++(所以)++; i̍n-tshṳ́++(因此)++; sn̍g-lâi++(算來)++.
+**consequences**, kuan-hĩ++(關係)++. *bad*, khan-gāi++(牽礙)++; liên-lūi++(連累)++; po-lūi++(波累)++; khan-thùa++(牽拖)++; khan-thua++(牽拖)++. *of no consequence*, bô-siang-kan++(無相干)++; bô-siang++(無相)++; bô-hûang++(無衡)++; bô-bī++(無味)++; mùiⁿ++(免)++; bô-kàu tî-kò-khṳ̀++(無到底塊去)++; bô-chhiet-iàu++(無切要)++. *consequently*, kù-tshṳ́++(故此)++; só-íⁿ++(所以)++; i̍n-tshṳ́++(因此)++; sn̍g-lâi++(算來)++.
 
 **conserve**, pó-tshûan++(保全)++.
 
@@ -2947,7 +2947,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **contrary**, siang-huán++(相反)++; tò-huán++(倒反)++; nge̍k++(逆)++; m̄-ha̍h++(毋合)++. *on the*, tin-tò++(顛倒)++; huán-tn̍g++(反場)++. *to sound doctrine*, pũe-tãu++(背道)++. *wind*, nge̍k-huang++(逆風)++.
 
-**contrast**, sie-tùi++(相對)++; siang-pí++(湘比)++; tùi-chhiēⁿ++(對像)++; huán-chhiēⁿ++(返像)++; huán-chiè++(返照)++.
+**contrast**, sie-tùi++(相對)++; siang-pí++(相比)++; tùi-chhiēⁿ++(對像)++; huán-chhiēⁿ++(返像)++; huán-chiè++(返照)++.
 
 **contribute**, tôi++(題)++; tôi-chîⁿ++(題錢)++; kien-tôi++(堅題)++; phài-chîⁿ++(派錢)++; kien-chîⁿ++(捐錢)++. *to levy a contribution*, phài-chîⁿ++(派錢)++.
 
@@ -9413,7 +9413,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pitted**, *with small-pox*, mīn poiⁿ-poiⁿ++(面斑斑)++.
 
-**pity**, khó-liên++(可憐)++; liên-mién++(憐免)++; thiàⁿ-siang++(痛湘)++; khó-si̍ang++(可像)++. *pitiable*, khó-liên; khó-sieh++(可惜)++; chhi-tshám++(淒慘)++. *piteous*, tshám++(慘)++; khóu++(許)++; ai-tshám++(哀慘)++; pui-ai++(悲哀)++. *pitiless*, thih-chie̍h sim-kuaⁿ++(鐵石心肝)++. *what a pity*, khó-sieh.
+**pity**, khó-liên++(可憐)++; liên-mién++(憐免)++; thiàⁿ-siang++(痛相)++; khó-si̍ang++(可像)++. *pitiable*, khó-liên; khó-sieh++(可惜)++; chhi-tshám++(淒慘)++. *piteous*, tshám++(慘)++; khóu++(許)++; ai-tshám++(哀慘)++; pui-ai++(悲哀)++. *pitiless*, thih-chie̍h sim-kuaⁿ++(鐵石心肝)++. *what a pity*, khó-sieh.
 
 **pivot**, khũ++(臼)++. *of door*, mn̂g-khũ++(門臼)++. *of scissors*, ka-to-ngán++(家刀眼)++.
 
