@@ -1111,7 +1111,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bare**, kng++(扛)++; chhiah++(刺)++. *body*, lòu-thói++(露體)++; chhiah-sin++(赤身)++; chhiah-ka-lit++(赤骹力)++; chhiah-thói++(赤體)++. *to strip bare*, *as robbers*, pak kàu sok-sok-theh++(腹到束束裼)++; pak-kàu tñg-tiâu se-sùaⁿ++(腹到長條些紗線)++. *to strip bare*, thn̍g-tiāu-saⁿ++(褪掉衫)++. *barefoot*, pak-chhiah-kha++(剝赤骹)++.
 
-**barefaced**, tek-sún-mīn++(脫筍面)++; m̄-tsai siáu-lí++(毋知少理)++; bô-liâm-chhí++(無廉恥)++; mīn-phûe kãu++(面)++.
+**barefaced**, tek-sún-mīn++(脫筍面)++; m̄-tsai siáu-lí++(毋知少禮)++; bô-liâm-chhí++(無廉恥)++; mīn-phûe kãu++(面)++.
 
 **barely**, *enough*, khat-khat-kàu++(刻刻到)++. *doing any thing*, kṳ́n-kṳ́n++(僅僅)++; siè-siè++(些些)++.
 
@@ -1503,7 +1503,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **blurred**, *printing*, ìn-póiⁿ sie-hũn++(印板相混)++; ìn-póiⁿ kôu-kôu++(印板糊糊)++.
 
-**blush**, siẽⁿ-tie̍h siáu-lí++(想着少理)++; siáu-lí kàu mīn âng-âng++(小理到面紅紅)++.
+**blush**, siẽⁿ-tie̍h siáu-lí++(想着少禮)++; siáu-lí kàu mīn âng-âng++(小理到面紅紅)++.
 
 **boar**, tṳ-ko++(豬哥)++.
 
@@ -6761,7 +6761,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **improper**, m̄-ha̍h-sek++(毋合式)++; m̄-ha̍h-ngî++(毋合宜)++; m̄-eng-kai++(毋應該)++; m̄-sĩ-sṳ̄++(毋是事)++; bô-chhêng-lí++(無情理)++.
 
-**improve**, *in character*, chìn-tek++(進德)++. *the time*, sieh-hun-im++(惜分音)++.
+**improve**, *in character*, chìn-tek++(進德)++. *the time*, sieh-hun-im++(惜分陰)++.
 
 **improvident**, m̄-siẽⁿ-tn̂g++(毋想長)++; bô-ién-lṳ̃++(無遠慮)++; bô-ṳ̃-pĩ++(無預備)++; bô-chhiâng-kú tsṳ-kòi++(無長久知己)++; bõi-kòi-siẽⁿ++(袂計想)++; chí-kù ma̍k-tsôiⁿ++(只顧目前)++; ma̍k-tsôiⁿ liám-húe ma̍k-tsôiⁿ-kng++(目前斂火目前光)++.
 
@@ -12145,7 +12145,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **suit**, *to*, ha̍h++(合)++; ha̍h-ēng++(合用)++; kah++(合)++; kah-pān++(合辦)++. *to suit people*, chhèng-nâng-ì++(稱人意)++; ha̍h-nâng-ì++(合人意)++; sũn-nâng-sim++(順人心)++; tèng-ì++(中意)++; kùe-ì++(合意)++; *suit one, as clothes*, kah-sin++(合身)++. *suitable*, kah-kah++(合合)++; khap-chhiet++(恰切)++; kah-pān.
 
-**sullen**, mīn pãu-pek++(面抱迫)++; mīn-sek ou-àm++(面色烏暗)++; sèⁿ-chhêng m̄-hó++(性情毋好)++; kou-ta̍k-sièⁿ++(孤獨想)++; mīn pũ-àu pũ-àu++(面浮懊浮懊)++; mīn hìm-hìm++(面闇闇)++.
+**sullen**, mīn pãu-pek++(面抱迫)++; mīn-sek ou-àm++(面色烏暗)++; sèⁿ-chhêng m̄-hó++(性情毋好)++; kou-ta̍k-sièⁿ++(孤獨相)++; mīn pũ-àu pũ-àu++(面浮懊浮懊)++; mīn hìm-hìm++(面闇闇)++.
 
 **sulphur**, liû-n̂g++(硫磺)++.
 
@@ -12225,9 +12225,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **surface**, mīn++(面)++; gūa-mīn++(外面)++; gūa-phûe++(外皮)++; chiēⁿ-mīn++(上面)++; téng-mīn++(面)++; mīn++(面)++-téng. *of the sea*, hái-mīn++(面)++.
 
-**surgeon**, gūa-khue sin-seⁿ++(外科先生)++; ui-sieⁿ-kháu sin-seⁿ++(外科先生)++.
+**surgeon**, gūa-khue sin-seⁿ++(外科先生)++; ui-sieⁿ-kháu sin-seⁿ++(醫傷口先生)++.
 
-**surly**, kou-phiah++(孤僻)++; kou-ta̍k-sièⁿ++(孤獨想)++.
+**surly**, kou-phiah++(孤僻)++; kou-ta̍k-sièⁿ++(孤獨相)++.
 
 **surname**, sèⁿ++(姓)++. *what is your*, kùi-sèⁿ++(貴姓)++. *my surname is*, pĩ-sèⁿ++(被姓)++; mûiⁿ-sèⁿ++(微姓)++.
 
@@ -13073,7 +13073,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **uncomfortable**, m̄-sóng-khùai++(毋爽快)++; m̄-khùaⁿ-ua̍h++(毋寬闊)++; m̄-su-thiàng++(毋輸暢)++; kãu-ue̍h++(嘔穢)++.
 
-**uncommon**, hui-siêⁿ++(稀想)++; m̄-phêng-siêⁿ++(毋平常)++; chié-ũ++(少有)++; hán-ũ++(罕有)++; koh-iēⁿ++(各樣)++.
+**uncommon**, hui-siêⁿ++(非常)++; m̄-phêng-siêⁿ++(毋平常)++; chié-ũ++(少有)++; hán-ũ++(罕有)++; koh-iēⁿ++(各樣)++.
 
 **unconcerned**, bô-kài-ì++(無介意)++; m̄-tõ-ì++(毋在意)++; chhìn-tshái++(親彩)++; bô-chhiet-iàu++(無切要)++.
 
