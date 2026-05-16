@@ -2289,7 +2289,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cheese**, gû-nĩⁿ-piáⁿ.
 
-**cherish**, bú-iáng. *in the mind*, khn̍g tõ-sim-lãi.
+**cherish**, bú-iáng. *in the mind*, khǹg tõ-sim-lãi.
 
 **chess**, chhiẽⁿ-kî. *play*, teh-kî. *(move)*, kiâⁿ-kî. *(to consider before moving)*, keng-kî. *men*, kî-chí. *board*, kî-pûaⁿ.
 
@@ -3149,7 +3149,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cow**, gû; gû-bó. *common*, n̂g-gû; chhiah-gû. *water-buffalo*, tsúi-gû. *cowherd*, chiéⁿ-gû. *cowhouse*, gû-koiⁿ; gû-pâng.
 
-**coward**, *bó-táⁿ; táⁿ khiap; táⁿ sòi; sòi-táⁿ*, bun-táⁿ.
+**coward**, bó-táⁿ; táⁿ khiap; táⁿ sòi; sòi-táⁿ, bun-táⁿ.
 
 **coxcomb**, hàuⁿ-tsuang-hûang; hàuⁿ-iâu-pái; hùuⁿ-thì-tsò; hàuⁿ-tsuang-tsò.
 
@@ -3579,7 +3579,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **delegate**, chhe-sái; chhe-úi. *a delegate*, úi-uân; sài; sài-chiá.
 
-**deliberate**, *to*, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sn̍g-lâi sn̍g-khṳ̍; siẽⁿ-kâi siẽⁿ-khṳ̍; pí-kâi pí-khṳ̍; chiak-ngí.
+**deliberate**, *to*, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sn̍g-lâi sn̍g-khṳ̍; siẽⁿ-lâi siẽⁿ-khṳ̍; pí-lâi pí-khṳ̍; chiak-ngí.
 
 **deliberately**, *soiⁿ sṳ*, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
 
@@ -4125,7 +4125,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dizziness**, thâu-khak hîn; thâu hîn; hîn.
 
-**do**, tsò; tsak; ûi; kiâⁿ; tsãu. *do business*, tsò-seng-lí. *a favour*, si-ṳn; tsò-nâng-chhêng. *to do as we would be**done by*, thãi-nâng zû-kí. *do away with*, tṳ̂-khṳ̀; ka̍k-tiāu; kói. *how do you do*, lṳ́ khin-kiāⁿ. *do not*, màiⁿ; m̄-hó; mín. *I have nothing to do with it*, ṳ́-úa bô-kan; bó-tāi; bô-hūn. *this will never do*, m̄-tsò-tit. *it will do*, tsò-tit; õi--tsò-tit. *what shall I do*, aìⁿ-tsò-nî-mue̍h. *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. *do one's duty*, chĩn-pńg-hūn. *what is all this to do about*, kā-kā-jiáng sĩ-mih ûan-kù.
+**do**, tsò; tsak; ûi; kiâⁿ; tsãu. *do business*, tsò-seng-lí. *a favour*, si-ṳn; tsò-nâng-chhêng. *to do as we would be**done by*, thãi-nâng zû-kí. *do away with*, tṳ̂-khṳ̀; ka̍k-tiāu; kói. *how do you do*, lṳ́ khin-kiāⁿ. *do not*, màiⁿ; m̄-hó; mín. *I have nothing to do with it*, ṳ́-úa bô-kan; bô-tāi; bô-hūn. *this will never do*, m̄-tsò-tit. *it will do*, tsò-tit; õi--tsò-tit. *what shall I do*, aìⁿ-tsò-nî-mue̍h. *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. *do one's duty*, chĩn-pńg-hūn. *what is all this to do about*, kā-kā-jiáng sĩ-mih ûan-kù.
 
 **docile**, koi-kà-sī; sũn-sũn; thiaⁿ-nâng-tàⁿ.
 
