@@ -7,7 +7,7 @@ from scripts.processors.base import BookProcessor, Entry
 LINE_RE = re.compile(r"^\*\*(.+?)\*\*,\s*(.*)")
 HAN_ANN_RE = re.compile(r"\+\+\(([^)]*)\)\+\+")
 PLAIN_HAN_RE = re.compile(r"\(([\u4E00-\u9FFF\u3400-\u4DBF\U00020000-\U0002EBEF]+)\)")
-COMMA_ANN_SPLIT_RE = re.compile(r",\s+(?=\S.*\+\+\()")
+COMMA_ANN_SPLIT_RE = re.compile(r",\s+(?=\S.*\+\+(?:\(|\+\+))")
 COLON_SPLIT_RE = re.compile(r":\s+")
 
 
@@ -135,6 +135,7 @@ class Processor(BookProcessor):
 
         puj = HAN_ANN_RE.sub("", puj).strip()
         puj = PLAIN_HAN_RE.sub("", puj).strip()
+        puj = re.sub(r"\+\+\+\+", "", puj).strip()
         puj = puj.rstrip(": ")
         if not puj:
             return
