@@ -2097,7 +2097,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **castle**, phàu-thâi; sìn-tī; iâⁿ-pûaⁿ.
 
-**castor**, ngóu-bī-kè; kiâm-sng-kè. *on chair*, íⁿ-lín; íⁿ-kha-lín.*castor oil*, pi-mûaⁿ-iû; sià-iû.
+**castor**, ngóu-bī-kè; kiâm-sng-kè. *on chair*, íⁿ-lín; íⁿ-kha-lín. *castor oil*, pi-mûaⁿ-iû; sià-iû.
 
 **castrate**, iam. *pigs*, iam-tṳ. *fowls*, kuah-koi; iam-koi.
 
@@ -4433,7 +4433,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **eight**, poih. *eighteen*, tsa̍p-poih. *eighty*, poih-tsa̍p. *eighth*, tõiⁿ-poih.
 
-**either**, *you may have either you pleas*, sûi-suán; jîm-suán; sûi-lṳ́-súan; zuãn--tî-kâi hó pun-lṳ́-suán. *either way will do*, sûi-piẽn; sûi-piẽn-hó; sûi-sûi piẽn-piẽn; chièⁿ-seⁿ iā-hó. hièⁿ-seⁿ iā-hó. *any way will do*,  tou-hó. *on either side*, liáng-pôiⁿ. *either....or*, ho̍k....ho̍k.
+**either**, *you may have either you pleas*, sûi-suán; jîm-suán; sûi-lṳ́-súan; zuãn--tî-kâi hó pun-lṳ́-suán. *either way will do*, sûi-piẽn; sûi-piẽn-hó; sûi-sûi piẽn-piẽn; chièⁿ-seⁿ iā-hó; hièⁿ-seⁿ iā-hó. *any way will do*,  tou-hó. *on either side*, liáng-pôiⁿ. *either....or*, ho̍k....ho̍k.
 
 **eject**, to̍k-tshut; kek-tshut; jiāu-tshut; chhek-to̍k; khu-tshut; kúaⁿ-tshut. *from mouth*, phùi--tshut-lâi. *from stomach*, thòu--tshut-lâi.
 
@@ -5213,7 +5213,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **find**, *find by search*, tshūe--tie̍h; chhîm--tie̍h; chhê--tie̍h. *find by search (in a book)*, chhê-tit-tshut. *find by search  (in a book or mixed mass)*, púe--tie̍h. *meet with*, ngõ--tie̍h; tú--tie̍h; hông--tie̍h. *to find anything by chance*, khieh--tie̍h; to̍h-tie̍h.
 
-**fine**, *in quality*, iùⁿ; iùⁿ-sòi. reasoning, tõ-lí sòi-mûiⁿ; cheng-mûiⁿ; cheng-sòi。 *in fine*, tàu-tí. *weather*, hó-thiⁿ; thiⁿ-sî chêⁿ.
+**fine**, *in quality*, iùⁿ; iùⁿ-sòi. *reasoning*, tõ-lí sòi-mûiⁿ; cheng-mûiⁿ; cheng-sòi. *in fine*, tàu-tí. *weather*, hó-thiⁿ; thiⁿ-sî chêⁿ.
 
 **fine**, *to*, hua̍t. *to (money)*, hua̍t-ngṳ̂n. *to (a play)* hua̍t-hì; hua̍t-tsúa-iáⁿ. *to (crackers)*, hua̍t-phòng-phiẽ.
 
@@ -5671,7 +5671,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **gainsay**, poh-khùi; sie-à.
 
-**gait**, kiâⁿ-pān. *slow*, kiâⁿ-pān ûn-ûn; kiâⁿ-pān mān; kiâⁿ-pān ûn-ûn tshāi-tshāi. *quick*, kiâⁿ-pān méⁿ-méⁿ hiông-hiông. uncertain: running, jumping and slow, chhih-chhih-tshóiⁿ. *very feeble*, kiâⁿ-pān ûe-ûe jê-jê.
+**gait**, kiâⁿ-pān. *slow*, kiâⁿ-pān ûn-ûn; kiâⁿ-pān mān; kiâⁿ-pān ûn-ûn tshāi-tshāi. *quick*, kiâⁿ-pān méⁿ-méⁿ hiông-hiông. *uncertain: running, jumping and slow*, chhih-chhih-tshóiⁿ. *very feeble*, kiâⁿ-pān ûe-ûe jê-jê.
 
 **gale**, tōa-huang; khuâng-huang. *hurricane*, huang-thai. *blowing a*, thàu-tōa-huang; khuâng-huang tãi-tsak.
 
@@ -9105,7 +9105,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **passage**, *in a book*, che̍k-tsat; chieⁿ; phien; mīn.
 
-**passions**, *the*, chhit-chhêng; hí, nōⁿ, ai, kũ, ài, *ù*, io̍k. *evil passions*, sṳ-io̍k; chhêng-io̍k. *to be in a passion*, siũ-khì; náuⁿ-khì; seⁿ-khì; huat-náuⁿ. *passionate*, jím-sèⁿ; kip-sèⁿ; kín-sèⁿ; pek-sèⁿ.
+**passions**, *the*, chhit-chhêng; hí, nōⁿ, ai, kũ, ài, ù, io̍k. *evil passions*, sṳ-io̍k; chhêng-io̍k. *to be in a passion*, siũ-khì; náuⁿ-khì; seⁿ-khì; huat-náuⁿ. *passionate*, jím-sèⁿ; kip-sèⁿ; kín-sèⁿ; pek-sèⁿ.
 
 **passover**, zû-ua̍t-tsoih.
 
@@ -12545,7 +12545,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **thoroughly**, tsa̍p-hun; tshûan. *learned*, thong-thiet; thàu-thiet.
 
-**though**, sui; sui-jiên; sui-sĩ. *though....still*, sui-jiên.... huân-liáu. *even though*, tsòng; tsòng-jiên.
+**though**, sui; sui-jiên; sui-sĩ. *though...still*, sui-jiên... huân-liáu. *even though*, tsòng; tsòng-jiên.
 
 **thought**, siẽⁿ-thâu; liãm-thâu; sṳ-liãm; ì-sṳ̀. *thoughtful*, chhim-siẽⁿ; ién-lṳ̃; chhim-sṳ ién-lṳ̃. *thoughtless*, m̄-tsai-siẽⁿ; bõi-siẽⁿ; thien-thien. see THINK.
 
@@ -13343,7 +13343,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **vat**, tōa-tháng. *for indigo*, chheⁿ-tháng.
 
-**vault**, *the vault of heaven*, chheⁿ-thiⁿ. thiⁿ uan-keng uan-keng. *the vault of heaven (reading)*, khiong-tshan; tshan-khiong. *an underground*, tī-sit. *vaulted*, keng-uan-mn̂g.
+**vault**, *the vault of heaven*, chheⁿ-thiⁿ; thiⁿ uan-keng uan-keng++(天彎弓彎弓)+. *the vault of heaven (reading)*, khiong-tshan; tshan-khiong. *an underground*, tī-sit. *vaulted*, keng-uan-mn̂g.
 
 **vault**, *to*, thiàu-lêng-mn̂g.
 
@@ -13691,7 +13691,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **which**, tî-kâi; tî-che̍k-kâi. *which is it*, tî-che̍k-kiãⁿ-sĩ. *which is he*, tî-che̍k-nâng-sĩ. *the words which he spoke*, i só-tàⁿ kâi-ūe.
 
-**while**, *a*, che̍k-sî; khùn-kiáⁿ; siap-sî. *while thinking*, hṳ́-tsûn tõ-siẽⁿ. *while a cash remains he will gamble*, tshûn-kâi-chîⁿ siãng àiⁿ-khṳ̀-pua̍h; sui-sĩ tshûn-kâi-chîⁿ huân-liáu àiⁿ-khṳ̀-pua̍h. *while I was speaking he arrived*, uá chiàⁿ-tõ-tàⁿ-ūe kâi-sî-hāu, i chiũ-kàu. *while*, tng....kâi-sî-hāu.
+**while**, *a*, che̍k-sî; khùn-kiáⁿ; siap-sî. *while thinking*, hṳ́-tsûn tõ-siẽⁿ. *while a cash remains he will gamble*, tshûn-kâi-chîⁿ siãng àiⁿ-khṳ̀-pua̍h; sui-sĩ tshûn-kâi-chîⁿ huân-liáu àiⁿ-khṳ̀-pua̍h. *while I was speaking he arrived*, uá chiàⁿ-tõ-tàⁿ-ūe kâi-sî-hāu, i chiũ-kàu. *while*, tng...kâi-sî-hāu.
 
 **whimper**, hiuⁿ-hiuⁿ-kiè; hngh-hngh-kiè; hng-hng-kiè.
 
