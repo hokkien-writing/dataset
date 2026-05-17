@@ -1787,7 +1787,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bull**, gû-kóu(牛牯). *young*, gû-kóu-kiáⁿ(牛牯囝).
 
-**bullet**, în-chí(鉛子); chhèng-chí(銃子); seⁿ-tsu(銃子).
+**bullet**, în-chí(鉛子); chhèng-chí(銃子); seⁿ-tsu(生珠).
 
 **bullion**, bûn-ngṳ̂n(紋銀); uâng-pó(王寶); ngṳ̂n-piáⁿ(銀餅); ngṳ̂n-tiâu(銀條); khiau-thâu-si(蹺頭司).
 
@@ -3045,7 +3045,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **corner**, kak(角); kak-thâu(角頭). *of the eye*, ma̍k-kak(目角); ma̍k-thâu ma̍k-búe(目頭目尾).
 
-**cornice**, *of wall*, chhieⁿ-thâu-sùaⁿ(銃頭線); gē-sùaⁿ(砑線).
+**cornice**, *of wall*, chhieⁿ-thâu-sùaⁿ(牆頭線); gē-sùaⁿ(砑線).
 
 **coronation**, teng-ūi(登位); sin-kun tsõ-ūi(新君坐位); teng-ke̍k(登極); teng-ki(登基).
 
@@ -13841,7 +13841,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **worthy**, kham-kai(堪該). *he is worthy to receive it*, kham-kai hó-tit-tie̍h(堪該好得着); pńg-téng hó-tit--tie̍h(本等好得着).
 
-**wound**, *to*, sieⁿ(傷); phah-sieⁿ(拍傷); sieⁿ--tie̍h(傷着); sún-sieⁿ(損傷); sieⁿ-sún(傷損). *with a knife or sword*, to-sieⁿ(刀傷). *with shot*, chhèng-sieⁿ(銃傷). *wounded*, õi-sieⁿ(會傷); siũ-sieⁿ(受傷). *a wound*, chhieⁿ-kháu(銃口); sieⁿ-kháu(傷口).
+**wound**, *to*, sieⁿ(傷); phah-sieⁿ(拍傷); sieⁿ--tie̍h(傷着); sún-sieⁿ(損傷); sieⁿ-sún(傷損). *with a knife or sword*, to-sieⁿ(刀傷). *with shot*, chhèng-sieⁿ(銃傷). *wounded*, õi-sieⁿ(會傷); siũ-sieⁿ(受傷). *a wound*, chhieⁿ-kháu(槍口); sieⁿ-kháu(傷口).
 
 **wrangle**, sie-cheⁿ(相爭); sie-à(相詏); sie-jiáng(相嚷); jiáng kàu kî-kâ-kiè(嚷到奇佳叫); jiáng kàu kũang-kũang-kiè(嚷到逛逛叫).
 
