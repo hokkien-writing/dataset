@@ -1899,7 +1899,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cake**, piáⁿ; kúe; ko. *sponge-cake*, koi-nñg-ko. *bean*, khou.
 
-**calabash**, hôu-hôu; hôu-lôu-pû.
+**calabash**, hôu-lôu; hôu-lôu-pû.
 
 **calamity**, m̄-tsãu-hùe; seⁿ-hũa; hũa-huãm; tsai-hũa; tsai-lān; huãm-lān; tshou-khóu.
 
@@ -2955,7 +2955,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **contrive**, siet-kòi; siet-huap; siẽⁿ-sim-sṳ̄; siẽⁿ-tshut kòi-chheh. *contrivance*, kòi-chheh; kòi-mông. *(mechanical)*, ie̍h-kúi.
 
-**control**, kuán; thóng-huán; kuán-hat; khu-sok; iak-sok. *self*, siú-pn̍g-sim; tsṳ̃-kuán ka-kī.
+**control**, kuán; thóng-kuán; kuán-hat; khu-sok; iak-sok. *self*, siú-pn̍g-sim; tsṳ̃-kuán ka-kī.
 
 **controversy**, piẽn-lũn; piẽn-poh; cheⁿ-lũn; sie-à.
 
@@ -5763,7 +5763,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **genteel**, bûn-ngiá. *(accomplished)*, sṳ-bûn.
 
-**gentle**, un-bûa; hûa-sũn; un-jiû; liâng-siẽn. see GENTLY.
+**gentle**, un-hûa; hûa-sũn; un-jiû; liâng-siẽn. see GENTLY.
 
 **gentleman**, lãu-nâng-ke; lãu-iâ. *(father of graduate)*, thài-kong. *(mandarin, but also wider use)*, lãu-tia. *young  (son of mandarin)*, siàu-iâ. *this old gentleman*, chí-ūi lãu-nâng-ke.
 
@@ -10001,7 +10001,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **quell**, cheng-hua̍t; hua̍t-tsha̍t; phêng-luãn; phêng-tī-hng.
 
-**quench**, *fire*, kiù-húe. *(fire with water)*, tsâng-kùe-húe thirst, kói-khuah; chí aû ta.
+**quench**, *fire*, kiù-húe. *(fire with water)*, tsâng-kùe-húe. *thirst*, kói-khuah; chí aû ta.
 
 **question**, mn̄g; poh-mn̄g; chhê-mn̄g; kiù-mn̄g; huáng-mn̄g; thèng-mn̄g. *and answer*, mn̄g-tap.
 
