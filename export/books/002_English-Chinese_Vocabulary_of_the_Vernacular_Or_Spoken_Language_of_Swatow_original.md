@@ -4151,7 +4151,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dolt**, ngâ nâng; chhi-ko; khòng-ngōng.
 
-**domestic**, ke-lãi. *servants*, ke-jîn; kṳn-pan. *animals*, cheng-seⁿ. *affairs*, ke-bũ. *circumstances*, ke-sṳ̄; ke-chhéng.
+**domestic**, ke-lãi. *servants*, ke-jîn; kṳn-pan. *animals*, cheng-seⁿ. *affairs*, ke-bũ. *circumstances*, ke-sṳ̄; ke-chhêng.
 
 **domesticate**, chhī-se̍k; chhī-sûn-se̍k.
 
@@ -11131,7 +11131,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **shaggy**, phòng-môⁿ; phòng-môⁿ-sai; môⁿ jiàng-jiàng; thâu-môⁿ phông-song.
 
-**shake**, iê; iê-tõng; iê-lón; iâu-tõng; chín-tõng; tín-tãng; chhĩm; léng. *hands*, siang-tùn-chhiú. *off, as dust*, pũaⁿ-tiāu; hìⁿ-tiāu. *shaky, as when socket too wide*, lok-khok. *tremble*, khiū; tòng.
+**shake**, iê; iê-tõng; iê-lóu; iâu-tõng; chín-tõng; tín-tãng; chhĩm; léng. *hands*, siang-tùn-chhiú. *off, as dust*, pũaⁿ-tiāu; hìⁿ-tiāu. *shaky, as when socket too wide*, lok-khok. *tremble*, khiū; tòng.
 
 **shall**, chiang-àiⁿ; pit; àiⁿ.
 
@@ -12637,7 +12637,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tipsy**, tsùi; chia̍h-chiú-tsùi; tsùi-chiú. *slightly*, ba-bun-tsùi; mah-moh-tsùi.
 
-**tired**, *he̍k; khùn; khùn-tõaⁿ; khùn-kũan; khùn-he̍k; phî-kũan; phî-khùn; phî-tõaⁿ; kha sng*, chhiú nńg. *very tired with walking*, kiâⁿ-kàu-hẽng. *to be tired of*, iàm; ùi; lóu; màiⁿ. *tiresome*, khṳt--nâng seⁿ-iàm; tshūa-nâng-ùi.
+**tired**, he̍k; khùn; khùn-tõaⁿ; khùn-kũan; khùn-he̍k; phî-kũan; phî-khùn; phî-tõaⁿ; kha sng*, chhiú nńg. *very tired with walking*, kiâⁿ-kàu-hẽng. *to be tired of*, iàm; ùi; lóu; màiⁿ. *tiresome*, khṳt--nâng seⁿ-iàm; tshūa-nâng-ùi.
 
 **tithe**, thiu tsa̍p-hūn tsṳ-che̍k; tsa̍p-hūn thiu-che̍k; tsa̍p tshú-khî-che̍k; tsa̍p-hūn tshú-che̍k; ke-it-thiu.
 
@@ -13789,7 +13789,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wither**, *to (as flowers)*, kou-ta; ta; ta-ki; siā.
 
-**within**, tõ-lãi; lãi-mīn; tói-mīn; lãi--tang; lãi--teng; lãi-thâu. *within a month*, m̄-chiẽⁿ kâi-gu̍eh; put-tshut kâi-gu̍eh; tõ-che̍k-gu̍eh-lãi; tõ-chí-gu̍eh-tói. *within doors*, tõ-mn̂g-lãi; tō-ke-lãi; tõ-tshù-lãi. *within a step of death*, hiám-hiám-sí; tsu̍ah-se-su chiũ-sí.
+**within**, tõ-lãi; lãi-mīn; tói-mīn; lãi--tang; lãi--teng; lãi-thâu. *within a month*, m̄-chiẽⁿ kâi-gu̍eh; put-tshut kâi-gu̍eh; tõ-che̍k-gu̍eh-lãi; tõ-chí-gu̍eh-tói. *within doors*, tõ-mn̂g-lãi; tõ-ke-lãi; tõ-tshù-lãi. *within a step of death*, hiám-hiám-sí; tsu̍ah-se-su chiũ-sí.
 
 **without**, tõ-gūa; gūa-mīn; gūa-thâu. *without money*, bô-chîⁿ; khueh-chîⁿ. *without fear*, bô-só-ùi. *better without it*, put-zû-bô kèng-hó; su-kùe-bô; lêng-tsò-bô. *cannot do without it*, bô chiũ-m̄-tsò-tit; chhiet-iàu tie̍h-ũ.
 
