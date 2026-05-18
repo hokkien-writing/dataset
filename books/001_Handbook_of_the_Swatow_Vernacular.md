@@ -735,7 +735,7 @@ Singapore, February, 1886.
 - **湧** Éng ... ... ... Waves.
 - **流水** Lâu-tsúi ... ... ... Tide.
 - **流漲** Lâu tĩⁿ ... ... ... Flood-tide.
-- **~~流退~~(流涸)** Lâu khó ... ... ... Ebb-tide.
+- **~~流退~~(流洘)** Lâu khó ... ... ... Ebb-tide.
 
 ---
 
@@ -759,8 +759,8 @@ Singapore, February, 1886.
 - **還了有** Huân-lióu ũ ... ... ... It has some more.
 - **是雅在** Sĩ ngiá-tsãi ... ... ... It is very beautiful.
 - **咱~~所有個~~(所有个)色是從虹~~處~~(塊)來** Nán só-ũ kâi sek sĩ tshông khẽng--kò lâi ... ... ... The colours which we have, come from the rainbow.
-- **流漲~~或是~~(亞是)涸** Lâu tĩⁿ a-sĩ khó? ... ... ... Is it high tide or ebb tide?
-- **~~流退~~(流涸)** Lâu khó ... ... ... It is ebb tide.
+- **流漲~~或是~~(亞是)洘** Lâu tĩⁿ a-sĩ khó? ... ... ... Is it high tide or ebb tide?
+- **~~流退~~(流洘)** Lâu khó ... ... ... It is ebb tide.
 - **海有湧~~否~~(咩)** Hái ũ éng mē? ... ... ... Are there any waves in the sea?
 - **有。湧袂大** Ũ, éng bõi-tūa ... ... ... Yes, the waves are not big.
 - **風颱時~~荒險~~(風險)** Huang-thai sĩ hong-hiám ... ... ... The typhoon is dangerous.
