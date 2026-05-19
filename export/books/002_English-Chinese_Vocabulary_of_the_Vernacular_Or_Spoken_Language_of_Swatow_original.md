@@ -1995,7 +1995,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **capacious**, khuah-tōa; khuah-khn̍g; khùaⁿ-chhēng.
 
-**capacity**, *ability*, tshâi-chhêng; pún-niáⁿ. pún-sṳ̄; lêng-kàng.
+**capacity**, *ability*, tshâi-chhêng; pún-niáⁿ; pún-sṳ̄; lêng-kàng.
 
 **cape**, suaⁿ-thâu.
 
