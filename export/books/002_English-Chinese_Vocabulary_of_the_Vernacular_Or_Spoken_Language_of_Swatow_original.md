@@ -7533,7 +7533,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lassitude**, khùn-tõaⁿ; kũan-tõaⁿ; phî-kũan; bô-cheng-sîn.
 
-**last**, suah-búe; kiâu-búe; mua̍t. *night*, tsa-mêⁿ; tsa-mêⁿ-àm. *month*, chiēⁿ-kâi-gue̍h. *year*, kū-nîⁿ; khṳ̀-nîⁿ; úang-nîⁿ. *month*, chiēⁿ-kâi-gue̍h. *at last*, kiáu-búe; búe-búe. *from first to last*, tsṳ̃-sí kàu-tsong; tshông-thâu kàu-búe. *first and last the same*, sí-tsong zû-it. *the last day*, mua̍t-ji̍t. *breathe one's last*, khùi tñg.
+**last**, suah-búe; kiáu-búe; mua̍t. *night*, tsa-mêⁿ; tsa-mêⁿ-àm. *month*, chiēⁿ-kâi-gue̍h. *year*, kū-nîⁿ; khṳ̀-nîⁿ; úang-nîⁿ. *month*, chiēⁿ-kâi-gue̍h. *at last*, kiáu-búe; búe-búe. *from first to last*, tsṳ̃-sí kàu-tsong; tshông-thâu kàu-búe. *first and last the same*, sí-tsong zû-it. *the last day*, mua̍t-ji̍t. *breathe one's last*, khùi tñg.
 
 **last**, *to*, nãiⁿ; nãiⁿ-kú; tōiⁿ. *lasting well*, õi-nãiⁿ.
 
@@ -9413,7 +9413,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pitted**, *with small-pox*, mīn poiⁿ-poiⁿ.
 
-**pity**, khó-liên; liên-mién; thiàⁿ-siang; khó-si̍ang. *pitiable*, khó-liên; khó-sieh; chhi-tshám. *piteous*, tshám; khóu; ai-tshám; pui-ai. *pitiless*, thih-chie̍h sim-kuaⁿ. *what a pity*, khó-sieh.
+**pity**, khó-liên; liên-mién; thiàⁿ-siang; khó-siang. *pitiable*, khó-liên; khó-sieh; chhi-tshám. *piteous*, tshám; khóu; ai-tshám; pui-ai. *pitiless*, thih-chie̍h sim-kuaⁿ. *what a pity*, khó-sieh.
 
 **pivot**, khũ. *of door*, mn̂g-khũ. *of scissors*, ka-to-ngán.
 

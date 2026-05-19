@@ -365,7 +365,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **adjudicate**, sím-sṳ̄++(審事)++; phōiⁿ-ùaⁿ++(判斷)++; phùan-tùan++(判斷)++; tùan-ùaⁿ++(斷斷)++.
 
-**adjust**, chiám-tso̍ih++(斬截)++; tsôi-chiáⁿ++(齊整)++; siu-chiáⁿ++(收正)++. *put in order*, an-pâi++(安排)++; tsôi-pĩ++(齊備)++; siu-si̍p-hó++(收拾好)++.
+**adjust**, chiám-tso̍ih++(斬截)++; tsôi-chiáⁿ++(齊整)++; siu-chiáⁿ++(修整)++. *put in order*, an-pâi++(安排)++; tsôi-pĩ++(齊備)++; siu-si̍p-hó++(收拾好)++.
 
 **administer**, phōiⁿ-lí++(判理)++; lí-sṳ̄++(理事)++; liāu-lí++(料理)++; chiáng-kúan++(掌管)++.
 
@@ -481,9 +481,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **agriculture**, lông-sṳ̄++(種作)++; tsoh-tshân++(種作)++; tshân-kang++(種作)++.
 
-**aground**, khùa++(掛)++; khùa-chhién++(掛着)++; khùa-sua++(掛着)++.
+**aground**, khùa++(掛)++; khùa-chhién++(掛着)++; khùa-sua++(掛沙)++.
 
-**ague**, kûaⁿ-zua̍h-pēⁿ++(寒熱病)++; kiâm-siam-kûaⁿ++(鹹砧寒)++; kûaⁿ-jie̍t++(寒熱)++; huat-kûaⁿ++(發寒)++; pak-kûaⁿ++(腹寒)++; ngia̍k-pēⁿ++(瘧病)++; ùiⁿ-chhìn++(畏凊)++. *quotidian*, ji̍t-ji̍t-kûaⁿ++(日日寒)++. *tertian*, nõⁿ-ji̍t-kûaⁿ++(兩日寒)++; làng-ji̍t-kûaⁿ++(漏日寒)++. *quartan*, saⁿ-ji̍t-kûaⁿ++(三日寒)++.
+**ague**, kûaⁿ-zua̍h-pēⁿ++(寒熱病)++; kiâm-siam-kûaⁿ++(鹹參寒)++; kûaⁿ-jie̍t++(寒熱)++; huat-kûaⁿ++(發寒)++; pak-kûaⁿ++(腹寒)++; ngia̍k-pēⁿ++(瘧病)++; ùiⁿ-chhìn++(畏凊)++. *quotidian*, ji̍t-ji̍t-kûaⁿ++(日日寒)++. *tertian*, nõⁿ-ji̍t-kûaⁿ++(兩日寒)++; làng-ji̍t-kûaⁿ++(漏日寒)++. *quartan*, saⁿ-ji̍t-kûaⁿ++(三日寒)++.
 
 **ahead**, tõ-thâu-tsôiⁿ++(在頭前)++. *to go*, tùi thâu-mīn-tsôiⁿ ti̍t-kiâⁿ++(對頭面前直行)++.
 
@@ -611,13 +611,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **amount**, kāng-kòi++(共計)++; tsóng-kat++(總結)++; kāng-tsóng++(共總)++; ha̍h-kāng++(合共)++. *what*, jie̍h-tsōi++(若㩼)++.
 
-**ample**, khuah-tōa++(闊大)++; khuan-khuah++(寬闊)++; khuan-khuàⁿ++(寬寬)++; khùaⁿ-chhēng++(寬成)++. *means*, pù-tsok++(富足)++.
+**ample**, khuah-tōa++(闊大)++; khuan-khuah++(寬闊)++; khuan-khuàⁿ++(寬寬)++; khùaⁿ-chhēng++++. *means*, pù-tsok++(富足)++.
 
 **amputate**, kuah-tiāu++(割掉)++; tsám-tiāu++(斬掉)++; kṳ̀-tiāu++(鋸掉)++; tok-tiāu++(斫掉)++.
 
 **amulet**, hieⁿ-húe-lâng++(香火籠)++; hieⁿ-húe-tō++(香火袋)++. *to wear*, kùa-hieⁿ-húe++(掛香火)++.
 
-**amusement**, sie-sńg++(佚佗)++; thit-thô++(佚佗)++; iû-la̍k++(佚佗)++. *amusing*, tshù-bī++(趣味)++. *ramble about for amusement*, iû-nguán++(佚佗)++; nguán-la̍h++(佚佗)++.
+**amusement**, sie-sńg++(相耍)++; thit-thô++(佚佗)++; iû-la̍k++(遊樂)++. *amusing*, tshù-bī++(趣味)++. *ramble about for amusement*, iû-nguán++(遊玩)++; nguán-la̍h++(玩獵)++.
 
 **analyse**, tshat-si̍t++(察實)++; kháu-kiù++(考究)++.
 
@@ -799,7 +799,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **arraign**, tòa-sím mn̄g-keng++(帶審問經)++; tiàu-sím++(吊審)++.
 
-**arrange**, an-pâi++(安排)++; uaⁿ-pâi++(灣排)++; pâi-pí++(排比)++; sṳ̃-lí++(伺理)++; liāu-lí++(料理)++; chiáⁿ-tũn++(整頓)++. *well arranged*, chiám-tso̍ih++(斬截)++; tsôi-chiáⁿ++(齊正)++.
+**arrange**, an-pâi++(安排)++; uaⁿ-pâi++(安排)++; pâi-pí++(排比)++; sṳ̃-lí++(伺理)++; liāu-lí++(料理)++; chiáⁿ-tũn++(整頓)++. *well arranged*, chiám-tso̍ih++(斬截)++; tsôi-chiáⁿ++(齊整)++.
 
 **arrest**, lia̍h++(掠)++; siu-kam++(收監)++; khu-ah++(拘押)++; ah-kuán++(押管)++.
 
@@ -1141,7 +1141,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **base**, *as of pillar*, thiãu-kha-chie̍h++(柱骹石)++; thiãu-tún++(柱墩)++; ẽ-tún++(下墩)++.
 
-**bashful**, ùi-siáu-lí++(畏小理)++; ùi-nâng++(畏人)++; kiu-niuⁿ++(扭妞)++.
+**bashful**, ùi-siáu-lí++(畏少禮)++; ùi-nâng++(畏人)++; kiu-niuⁿ++(勼扭)++.
 
 **basin**, pûaⁿ++(盤)++; phûn++(墳)++; mīn-phûn++(面盆)++; mīn-tháng++(面桶)++; uáⁿ-kong++(碗公)++.
 
@@ -1191,7 +1191,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **beard**, chhiu++(鬚)++. *beard silvery white*, chhiu soh-soh-pe̍h++(鬚雪雪白)++.
 
-**bearer**, taⁿ-tàⁿ-nâng++(擔擔人)++; kieh-hu++(腳夫)++; thiau-hu++(挑夫)++; koiⁿ-thiau++(肩挑)++. *chair*, kiē-pou++(轎夫)++; kiē-ẽ++(轎下)++; kng-kiē++(扛轎)++; kiē-hu++(轎夫)++; thâi-kiē++(台轎)++. *(in addressing them)*, kong-siā++(公謝)++. *three bearers*, saⁿ-miâⁿ++(三名)++.
+**bearer**, taⁿ-tàⁿ-nâng++(擔擔人)++; kieh-hu++(腳夫)++; thiau-hu++(挑夫)++; koiⁿ-thiau++(肩挑)++. *chair*, kiē-pou++(轎夫)++; kiē-ẽ++(轎下)++; kng-kiē++(扛轎)++; kiē-hu++(轎夫)++; thâi-kiē++(抬轎)++. *(in addressing them)*, kong-siā++++. *three bearers*, saⁿ-miâⁿ++(三名)++.
 
 **beast**, khîm-siù++(禽獸)++; iá-siù++(野獸)++. *domestic*, seⁿ-kháu++(牲口)++; cheng-seⁿ++(眾牲)++.
 
@@ -1233,7 +1233,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **befoul**, bua̍h--tie̍h nah-sap++(抹着垃圾)++; mak--tie̍h nah-sap++(衊着垃圾)++; hú--tie̍h nap-sap++(糊着垃雜)++.
 
-**beg**, khiû++(求)++; khṳ́n-khiû++(懇求)++; koh-lô++(各羅)++. *for alms*, khṳt-chia̍h++(乞食)++. *beg pardon*, m̄-tsai-thâu++(毋知頭)++; sù-tsūe++(恕罪)++; tit-tsũe++(得罪)++; sù--chē++(恕些)++; sit-lói++(失禮)++; tit-tsõ--tie̍h-lṳ́++(得罪着汝)++.
+**beg**, khiû++(求)++; khṳ́n-khiû++(懇求)++; koh-lô++(閣羅)++. *for alms*, khṳt-chia̍h++(乞食)++. *beg pardon*, m̄-tsai-thâu++(毋知頭)++; sù-tsūe++(恕罪)++; tit-tsũe++(得罪)++; sù--chē++(恕些)++; sit-lói++(失禮)++; tit-tsõ--tie̍h-lṳ́++(得罪着汝)++.
 
 **beget**, seⁿ++(生)++.
 
@@ -1305,7 +1305,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bequeat**, zũi-lo̍h++(遺落)++; thûan-lo̍h++(傳落)++.
 
-**beseech**, khṳ́n-khiû++(懇求)++; koh-lô++(各羅)++; khṳ́n-chhêng++(懇情)++.
+**beseech**, khṳ́n-khiû++(懇求)++; koh-lô++(閣羅)++; khṳ́n-chhêng++(懇情)++.
 
 **beset**, ûi--tie̍h++(圍着)++; ûi-tsũ++(桅住)++; ûi-miⁿ++(圍免)++; sì-mīn ûi-tsũ++(四面桅住)++.
 
@@ -1489,7 +1489,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **blotting-paper**, sò-tsúa++(疏紙)++.
 
-**blow**, *a*, phah che̍k-ē++(拍一下)++. *up a vessel*, pàng-húe-ie̍h kún-tiāu-tsûn++(放火藥滾掉船)++. *wind*, huang tshue++(風吹)++. *high wind*, thàu-huang++(套風)++. *flute or pipe*, tshue-siau++(吹簫)++; pûn-hûeⁿ-te̍k++(歕橫笛)++; pûn-ti-tâ++(歕知嗒)++. *out (as lamp)*, pûn-kùe++(歕過)++. *the fire*, pûn-húe to̍h++(歕火着)++; hut-húe++(弗火)++. *the nose*, hnghⁿ-phīⁿ++(哼鼻)++; sàng-phīⁿ++(送鼻)++. *blow pipe*, húe-kóng++(火管)++.
+**blow**, *a*, phah che̍k-ē++(拍一下)++. *up a vessel*, pàng-húe-ie̍h kún-tiāu-tsûn++(放火藥滾掉船)++. *wind*, huang tshue++(風吹)++. *high wind*, thàu-huang++(套風)++. *flute or pipe*, tshue-siau++(吹簫)++; pûn-hûeⁿ-te̍k++(歕橫笛)++; pûn-ti-tâ++(歕嘀嗒)++. *out (as lamp)*, pûn-kùe++(歕過)++. *the fire*, pûn-húe to̍h++(歕火着)++; hut-húe++(弗火)++. *the nose*, hnghⁿ-phīⁿ++(哼鼻)++; sàng-phīⁿ++(送鼻)++. *blow pipe*, húe-kóng++(火管)++.
 
 **blubber**, *jelly-fish or medusa*, thē++(蜇)++; hái-thē++(海蜇)++; tsúi-bó++(水母)++.
 
@@ -1503,7 +1503,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **blurred**, *printing*, ìn-póiⁿ sie-hũn++(印板相混)++; ìn-póiⁿ kôu-kôu++(印板糊糊)++.
 
-**blush**, siẽⁿ-tie̍h siáu-lí++(想着少禮)++; siáu-lí kàu mīn âng-âng++(小理到面紅紅)++.
+**blush**, siẽⁿ-tie̍h siáu-lí++(想着少禮)++; siáu-lí kàu mīn âng-âng++(少禮到面紅紅)++.
 
 **boar**, tṳ-ko++(豬哥)++.
 
@@ -1617,7 +1617,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bracket**, chhiêⁿ-tû++(墻櫥)++; kè++(嫁)++. *support*, tú++(砥)++.
 
-**brackish**, kiâm++(鹹)++; se-su-kiâm++(些輸鹹)++; kiâm-chhi̍h kiâm-chhi̍h++(鹹彳鹹彳)++; kiâm-siam++(鹹參)++; pùaⁿ-kiâm-tãⁿ++(半鹹淡)++; pùaⁿ-kiâm-chiáⁿ++(半鹹正)++.
+**brackish**, kiâm++(鹹)++; se-su-kiâm++(些須鹹)++; kiâm-chhi̍h kiâm-chhi̍h++(鹹彳鹹彳)++; kiâm-siam++(鹹參)++; pùaⁿ-kiâm-tãⁿ++(半鹹淡)++; pùaⁿ-kiâm-chiáⁿ++(半鹹䭕)++.
 
 **brag**, sueh-huáng++(刷仿)++; la-kè++(啦嫁)++; tàⁿ-tōa-ūe++(呾大話)++; tsṳ̃-khua++(自誇)++.
 
@@ -1683,9 +1683,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bridegroom**, sin-nn̂g++(新郎)++; sin-niêⁿ-tia++(新娘爹)++. *ceremony of exchanging the bridal cups*, ha̍h-kńg kau-pue++(合卺交杯)++; kau-pue uāⁿ-tsúaⁿ++(交杯換盞)++.
 
-**bridge**, kiê++(橋)++. *piers of*, kiê-tún++(橋盾)++. *arches of*, kiê-chiu-mn̂g++(橋州門)++. *floating*, phû-kiê++(浮橋)++. *of nose*, phiⁿ-lêng-kut++(偏能骨)++.
+**bridge**, kiê++(橋)++. *piers of*, kiê-tún++(橋盾)++. *arches of*, kiê-chiu-mn̂g++(橋周門)++. *floating*, phû-kiê++(浮橋)++. *of nose*, phiⁿ-lêng-kut++(鼻棱骨)++.
 
-**bridle**, bé-soh++(馬索)++. *to draw*, le̍k-bé++(馬索)++. *oneself*, uaⁿ-hūn siú-kí++(安分守紀)++.
+**bridle**, bé-soh++(馬索)++. *to draw*, le̍k-bé++(勒馬)++. *oneself*, uaⁿ-hūn siú-kí++(安分守紀)++.
 
 **brief**, tó++(短)++. *synopsis*, tiah-iàu++(摘要)++; káng-lia̍k++(簡略)++. see **brevity**.
 
@@ -1717,7 +1717,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **brittle**, sou++(酥)++.
 
-**broad**, khuah++(闊)++; khuah-khn̍g++(闊坑)++; khùaⁿ++(寬)++; khùaⁿ-chhēng++(寬穿)++. *broadwise*, hûeⁿ++(橫)++; hûeⁿ--sì++(橫世)++; khuah-sì++(闊世)++.
+**broad**, khuah++(闊)++; khuah-khn̍g++(闊坑)++; khùaⁿ++(寬)++; khùaⁿ-chhēng++++. *broadwise*, hûeⁿ++(橫)++; hûeⁿ--sì++(橫勢)++; khuah-sì++(闊勢)++.
 
 **brogue**, hiang-thâm++(鄉談)++; thóu-ūe++(土話)++; gṳ́++(語)++; thóu-gṳ́++(土語)++; thóu-thâm++(土談)++.
 
@@ -1993,7 +1993,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **capable**, ũ-lêng-ûi++(有能爲)++; ũ-pún-niáⁿ++(有本領)++; ũ-tshâi-chhêng++(有才情)++; õi++(會)++; ũ-lêng-kàng++(有能降)++.
 
-**capacious**, khuah-tōa++(闊大)++; khuah-khn̍g++(闊坑)++; khùaⁿ-chhēng++(寬穿)++.
+**capacious**, khuah-tōa++(闊大)++; khuah-khn̍g++(闊曠)++; khùaⁿ-chhēng++++.
 
 **capacity**, *ability*, tshâi-chhêng++(才情)++; pún-niáⁿ. pún-sṳ̄++(本領。本事)++; lêng-kàng++(能槓)++.
 
@@ -2001,7 +2001,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **caper**, tsho̍k-tsho̍k-thiàu++(蜀蜀跳)++.
 
-**capital**, pńg-chîⁿ++(本錢)++. *lent*, bó-chîⁿ++(母錢)++. *capital and interest*, bó-thâu lāi-sek++(母頭利色)++; bó-lāi++(母利)++. *crime*, sí-tsūe++(死罪)++. *city*, kiaⁿ-siâⁿ++(京城)++; kiaⁿ-sṳ++(京司)++; kiaⁿ-tou++(京都)++.
+**capital**, pńg-chîⁿ++(本錢)++. *lent*, bó-chîⁿ++(母錢)++. *capital and interest*, bó-thâu lāi-sek++(母頭利息)++; bó-lāi++(母利)++. *crime*, sí-tsūe++(死罪)++. *city*, kiaⁿ-siâⁿ++(京城)++; kiaⁿ-sṳ++(京師)++; kiaⁿ-tou++(京都)++.
 
 **capitulate**, kàu mién-chièn-pâi++(到免戰排)++; tâu-hâng++(投降)++; hâng-ho̍k++(降服)++.
 
@@ -2063,11 +2063,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **carpet**, phou-tī-chiⁿ++(鋪地氈)++; phou-chiⁿ++(鋪氈)++.
 
-**carriage**, bé-chhia++(馬車)++. *gun*, phàu-chhia++(馬車)++; phàu-kè++(馬車)++. *'demeanour'*, iēⁿ++(樣)++; khúan++(款)++. *proud*, huàng-sṳ̀++(放肆)++; kiau-ngãu thí-thài++(嬌傲體態)++.
+**carriage**, bé-chhia++(馬車)++. *gun*, phàu-chhia++(馬車)++; phàu-kè++(馬車)++. *'demeanour'*, iēⁿ++(樣)++; khúan++(款)++. *proud*, huàng-sṳ̀++(放肆)++; kiau-ngãu thí-thài++(驕傲體態)++.
 
 **carrot**, âng-lô-po̍k++(紅蘿蔔)++; âng-tshài-thâu++(紅菜頭)++.
 
-**carry**, taⁿ++(擔)++. *with one*, tòa++(住)++; tsah++++. *between two*, kng++(扛)++. *held up on the hand above shoulder*, thêⁿ++(提)++. *on shoulder*, khiâ++(騎)++. *in hand*, khie̍h++(挈)++. *in hand (hanging down, as lantern)*, kuãⁿ++(摜)++. *on the arm*, lap-tõ-chhiú++(邋道手)++; lah++(擸)++. *in the arms*, phõ++(抱)++; lám++(攬)++. *on the back*, iã++(擎)++. *on the back with cloth*, pì++(庇)++. *on the head*, tì tõ-thâu++(置道頭)++; tì tõ-thâu-khak-téng++(置道頭殼頂)++. *carrying pole*, phoi-taⁿ++(批擔)++; pêⁿ-taⁿ++(扁擔)++; khak-taⁿ++(殼擔)++; chiam-taⁿ++(尖擔)++. *sedan chair*, kng-kiē++(扛轎)++.
+**carry**, taⁿ++(擔)++. *with one*, tòa++(帶)++; tsah++++. *between two*, kng++(扛)++. *held up on the hand above shoulder*, thêⁿ++(提)++. *on shoulder*, khiâ++(騎)++. *in hand*, khie̍h++(挈)++. *in hand (hanging down, as lantern)*, kuãⁿ++(摜)++. *on the arm*, lap-tõ-chhiú++(邋道手)++; lah++(擸)++. *in the arms*, phõ++(抱)++; lám++(攬)++. *on the back*, iã++++. *on the back with cloth*, pì++(庇)++. *on the head*, tì tõ-thâu++(置在頭)++; tì tõ-thâu-khak-téng++(置在頭殼頂)++. *carrying pole*, phoi-taⁿ++(批擔)++; pêⁿ-taⁿ++(扁擔)++; khak-taⁿ++(殼擔)++; chiam-taⁿ++(尖擔)++. *sedan chair*, kng-kiē++(扛轎)++.
 
 **cart**, chhia++(車)++. *cart-wheels*, chhia-lín++(車輪)++; chhia-lûn++(車輪)++.
 
@@ -2177,7 +2177,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **censorious**, hàuⁿ-hiâm-nâng++(好嫌人[訓])++; hàuⁿ-cheh-nâng++(好責人[訓])++; tshùi-chi̍h lô-po++(喙舌囉啵)++.
 
-**censurable**, khó-cheh++(可仄)++; hó-hiâm++(好嫌)++; eng-kai-hiâm++(煙揩嫌)++.
+**censurable**, khó-cheh++(可責)++; hó-hiâm++(好嫌)++; eng-kai-hiâm++(應該嫌)++.
 
 **census**, *to take a*, chhê-mîn-chiã++(查民籍)++; chhê-ke-kah++(查家甲)++.
 
@@ -2211,7 +2211,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **chain**, liēn++(鏈)++; soh++(索)++. *iron chain*, thih-soh++(鐵索)++; thih-liēn++(鐵鍊)++.
 
-**chair**, íⁿ++(椅)++. *arm chair*, kau-íⁿ++(交椅)++. *camp-chair*, bé-tsah-íⁿ++++. *bring a chair*, taⁿ che̍k-chiah-íⁿ--lâi++(擔一隻椅來)++. *one (ordinary) chair*, che̍k-chiah-íⁿ++(一隻椅)++. *bamboo chair*, tek-íⁿ++(竹椅)++. *sedan*, kiē++(轎)++. *carry a sedan chair*, kng-kiē++(高椅)++. *sit in*, tsõ-kiē++(高椅)++. *call*, kiè-kiē++(高椅)++; hàm-kiè++(高椅)++. *one sedan chair*, che̍k-téng-kiē++(一頂轎)++. *chair-bearer*, see **bearer**.
+**chair**, íⁿ++(椅)++. *arm chair*, kau-íⁿ++(交椅)++. *camp-chair*, bé-tsah-íⁿ++++. *bring a chair*, taⁿ che̍k-chiah-íⁿ--lâi++(擔一隻椅來)++. *one (ordinary) chair*, che̍k-chiah-íⁿ++(一隻椅)++. *bamboo chair*, tek-íⁿ++(竹椅)++. *sedan*, kiē++(轎)++. *carry a sedan chair*, kng-kiē++(扛轎)++. *sit in*, tsõ-kiē++(坐轎)++. *call*, kiè-kiē++(叫轎)++; hàm-kiè++(喊轎)++. *one sedan chair*, che̍k-téng-kiē++(一頂轎)++. *chair-bearer*, see **bearer**.
 
 **chalk**, tsúi-hún++(水粉)++; húe-chie̍h-hún++(火石粉)++. *chalk line*, hún-sùaⁿ++(粉線)++.
 
@@ -2247,7 +2247,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **charcoal**, húe-thùaⁿ++(火炭)++; thùaⁿ++(炭)++. *buy*, téng-húe-thùaⁿ++(頂火炭)++.
 
-**charge**, *order*, hun-hù++(吩咐)++. *entrust*, kià-thoh++(寄託)++; thoh++(托)++. *to an account*, chiẽⁿ-siàu++(上數)++. *price*, thó-kè-chîⁿ++(討價錢)++. *in battle*, tshong-tīn++(充陣)++; ke-húe sie-chih++(家伙相接)++; kong-khek++(公刻)++. *with an offence*, kò++(告)++.
+**charge**, *order*, hun-hù++(吩咐)++. *entrust*, kià-thoh++(寄託)++; thoh++(托)++. *to an account*, chiẽⁿ-siàu++(上數)++. *price*, thó-kè-chîⁿ++(討價錢)++. *in battle*, tshong-tīn++(衝陣)++; ke-húe sie-chih++(家伙相接)++; kong-khek++(攻擊)++. *with an offence*, kò++(告)++.
 
 **charger**, chièn-bé++(戰馬)++.
 
@@ -2369,7 +2369,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Church**, *members*, Siàⁿ-hũe++(聖會)++; Kà-hũe++(教會)++. *building*, hũe-tn̂g++(會堂)++; lói-pài-tn̂g++(禮拜堂)++. *to enter the*, ji̍p-Siàⁿ-hũe++(禮拜堂)++.
 
-**churlish**, sèⁿ-chhêng m̄-hó++(性情毋好)++; kou-ta̍k-sièⁿ++(姑毒像)++; kou-phiah++(姑僻)++.
+**churlish**, sèⁿ-chhêng m̄-hó++(性情毋好)++; kou-ta̍k-sièⁿ++(孤獨相)++; kou-phiah++(孤僻)++.
 
 **cicatrix**, hûn++(痕)++; sieⁿ-hûn++(傷痕)++; phùa-kiàⁿ++(破鏡)++; khieh-kóiⁿ++(挈襇)++.
 
@@ -2475,7 +2475,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **clinch**, *or clench*, *the fist*, lĩm-khûn-thâu-bó++(斂拳頭母)++. *a nail*, teng-búe tò-tah++(釘尾倒貼)++; tûi-kâi-lo̍ih tò-ngám-tńg++(捶个笠倒眼轉)++.
 
-**cling**, phõ-kín++(抱緊)++; lám-kín++(攬緊)++; khîⁿ++(鉗)++; khîⁿ-kín++(鉗緊)++. *to one's opinion*, chip-ì++(執意)++.
+**cling**, phõ-kín++(抱緊)++; lám-kín++(攬緊)++; khîⁿ++(纏)++; khîⁿ-kín++(纏緊)++. *to one's opinion*, chip-ì++(執意)++.
 
 **clip**, ka++(咖)++; ka-tó++(鉸刀)++; chién-tó++(剪刀)++. *clippings*, pòu-tshùi++(布碎)++.
 
@@ -2489,7 +2489,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cloister**, am++(庵)++; Hu̍t-am++(佛庵)++; hûe-siēⁿ-am++(和尚庵)++.
 
-**close**, *letter*, huang++(封)++; huang-sìn++(封信)++. *door*, kueⁿ-mn̂g++(關門)++. *without fastening*, hõiⁿ-mn̂g++(闔門)++. *the eyes*, ma̍k-chiu ha̍p-miⁿ++(目睭合眠)++; ma̍k-chiu tièⁿ-miⁿ++(目睭脹眠)++. *the market*, siu-tiêⁿ++(梳場)++. *all shops in protest against injustice*, pã-chhĩ++(罷市)++. *close or end*, tsong++(蹤)++; uân++(緣)++; hiah++(歇)++. *close-fisted*, khiãm-siap++(儉濕)++; kien-liẽn++(堅吝)++. *weather*, hip-zua̍h++(翕熱)++. *texture*, ba̍t-ba̍t++(密密)++; ba̍t-tsa̍t++(密實)++. *application*, tsuan-sim++(專心)++; ēng-kang++(用工)++; khṳ̂n++(勤)++. *close to*, siang-kṳ̃n++(相近)++. *follow closely*, tùe-kín++(綴緊)++; sûi-tie̍h-kha++(隨着骹)++.
+**close**, *letter*, huang++(封)++; huang-sìn++(封信)++. *door*, kueⁿ-mn̂g++(關門)++. *without fastening*, hõiⁿ-mn̂g++(闔門)++. *the eyes*, ma̍k-chiu ha̍p-miⁿ++(目睭合眠)++; ma̍k-chiu tièⁿ-miⁿ++(目睭脹眠)++. *the market*, siu-tiêⁿ++(梳場)++. *all shops in protest against injustice*, pã-chhĩ++(罷市)++. *close or end*, tsong++(蹤)++; uân++(緣)++; hiah++(歇)++. *close-fisted*, khiãm-siap++(儉濕)++; kien-liẽn++(慳吝)++. *weather*, hip-zua̍h++(翕熱)++. *texture*, ba̍t-ba̍t++(密密)++; ba̍t-tsa̍t++(密實)++. *application*, tsuan-sim++(專心)++; ēng-kang++(用工)++; khṳ̂n++(勤)++. *close to*, siang-kṳ̃n++(相近)++. *follow closely*, tùe-kín++(綴緊)++; sûi-tie̍h-kha++(隨着骹)++.
 
 **closet**, ba̍t-pâng++(密房)++; pâng-koiⁿ++(房間)++; pâng-kiáⁿ++(房囝)++; sòi-koiⁿ-pâng++(細間房)++.
 
@@ -2525,7 +2525,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coach**, bé-chhia++(馬車)++; chhia++(車)++.
 
-**coagulate**, kit-ngẽ++(結硬)++; kit-tōiⁿ++(結殿)++; kit-kò++(結告)++; kṳ̂n++(凝)++; tàng++(凍)++; ngêng-tsũ++(凝住)++. *blood*, hueh ngêng++(血凝)++; hueh kṳ̂n++(血凝)++.
+**coagulate**, kit-ngẽ++(結硬)++; kit-tōiⁿ++(結𠕇)++; kit-kò++(結告)++; kṳ̂n++(凝)++; tàng++(凍)++; ngêng-tsũ++(凝住)++. *blood*, hueh ngêng++(血凝)++; hueh kṳ̂n++(血凝)++.
 
 **coal**, thóu-thùaⁿ++(土炭)++. *charcoal*, húe-thùaⁿ++(火炭)++.
 
@@ -2535,11 +2535,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coast**, hái-kîⁿ++(海墘)++; hái-piⁿ++(海邊)++; hái-pien++(海邊)++.
 
-**coat**, saⁿ++(衫)++; tōa-saⁿ++(大衫)++. *of mail*, thih-kah++(鐵甲)++. *greatcoat*, hiûⁿ++(裘)++, niûⁿ++++. *to coat with gold*, sieⁿ-kim++(傷金)++; tah-kim++(搭金)++. *two coats of paint*, iû-nõⁿ-kùe++(油囊過)++.
+**coat**, saⁿ++(衫)++; tōa-saⁿ++(大衫)++. *of mail*, thih-kah++(鐵甲)++. *greatcoat*, hiûⁿ++(裘)++, niûⁿ++(裘)++. *to coat with gold*, sieⁿ-kim++(傷金)++; tah-kim++(搭金)++. *two coats of paint*, iû-nõⁿ-kùe++(油二過)++.
 
 **coax**, koh-lô++(閣羅)++; siẽn-sueh koh-lô++(善說閣羅)++.
 
-**cobbler**, póu-ôi sai-pã++(補鞋師罷)++.
+**cobbler**, póu-ôi sai-pã++(補鞋司阜)++.
 
 **cobweb**, ti-tu-si++(蜘蛛絲)++.
 
@@ -2547,7 +2547,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Cochin China**, An-lâm++(安南)++.
 
-**cock**, koi-ang++(雞翁)++. *cock-crow*, koi thî++(雞翁)++. *the second cock-crowing*, koi thî jī-lo̍h++(雞啼字落)++. *cock-fighting*, koi sie-phah++(雞相拍)++. *cockscomb (flower)*, koi-kùe-hue++(雞過花)++; koi-kuan-hue++(雞關花)++. *hanging skin under cock's neck*, koi-ãm-sê++(雞頷儕)++.
+**cock**, koi-ang++(雞翁)++. *cock-crow*, koi thî++(雞啼)++. *the second cock-crowing*, koi thî jī-lo̍h++(雞啼二落)++. *cock-fighting*, koi sie-phah++(雞相拍)++. *cockscomb (flower)*, koi-kùe-hue++(雞髻花)++; koi-kuan-hue++(雞冠花)++. *hanging skin under cock's neck*, koi-ãm-sê++(雞頷垂)++.
 
 **cockle**, ham++(蚶)++. *shell*, ham-khak++(蚶殼)++.
 
@@ -2627,7 +2627,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **comfort**, *to*, uaⁿ-ùe++(安慰)++; khn̍g-ùe++(勸慰)++; khn̍g-kòi++(勸解)++; bú-ùe++(舞慰)++.
 
-**comfortable**, khùaⁿ-ua̍h++(快活)++; tsṳ̃-tsãi++(自在)++; khin-sang++(輕鬆)++; sóng-khuài++(爽快)++.
+**comfortable**, khùaⁿ-ua̍h++(寬活)++; tsṳ̃-tsãi++(自在)++; khin-sang++(輕鬆)++; sóng-khuài++(爽快)++.
 
 **comic**, hó-chhiè++(好笑)++.
 
@@ -2655,7 +2655,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **commit**, *to one's care*, thih++++; kià-thoh++(寄託)++; hù-thoh++(付託)++. *a crime*, hũam-taúe++(犯罪)++. *to prison*, kìm-kam++(禁監)++; siu-kam++(收監)++; khu-kìm++(拘禁)++.
 
-**commodious**, piẽn++(便)++; piẽn-ēng++(便用)++; ha̍h-ēng++(合用)++; khùaⁿ-chhēng++(寬穿)++; khuan-khuah++(寬闊)++.
+**commodious**, piẽn++(便)++; piẽn-ēng++(便用)++; ha̍h-ēng++(合用)++; khùaⁿ-chhēng++++; khuan-khuah++(寬闊)++.
 
 **common**, *ordinary*, phêng-siêⁿ++(平常)++; so̍k++(俗)++. *in common*, sie-kāng++(相共)++. *public*, kong-chèng++(公眾)++. *people*, peh-sèⁿ++(百姓)++; sù-mîn++(平常)++. *commoner*, phêng-siêⁿ-nâng++(平常人)++. *interchangeable*, thong-ēng++(平常)++. *commonly*, phêng-sî++(平時)++; pâi-hûe++(排回)++; pâi-tn̍g++(排場)++; tãi-sì++(大勢)++; siêⁿ-sî++(常時)++; siêⁿ-siêⁿ++(常常)++; tãi-khài++(大概)++; tãi-hûam++(大凡)++.
 
@@ -2777,7 +2777,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **condole**, kāng-nâng huân-ló++(共人煩惱)++; tiàu-ùe++(吊慰)++.
 
-**conduct**, kiâⁿ-ûi++(行爲)++; kṳ́-tõng++(舉動)++; pín-hẽng++(品行)++; kiâⁿ-sṳ̄++(行事)++; hẽng-chí++(行止)++. *to lead*, kiau-lōu++(行爲)++; tshūa-lōu++(行爲)++; tshūa-thâu-tsôiⁿ++(𤆬頭前)++.
+**conduct**, kiâⁿ-ûi++(行爲)++; kṳ́-tõng++(舉動)++; pín-hẽng++(品行)++; kiâⁿ-sṳ̄++(行事)++; hẽng-chí++(行止)++. *to lead*, kiau-lōu++(邀路)++; tshūa-lōu++(𤆬路)++; tshūa-thâu-tsôiⁿ++(𤆬頭前)++.
 
 **conduit**, àm-kau++(暗溝)++; tsúi-kau++(水溝)++; ín-tsúi-tâng++(引水銅)++.
 
@@ -2817,9 +2817,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **confute**, piẽn-iâⁿ++(辯贏)++; poh-iâⁿ++(駁贏)++; piẽn-tó++(辯倒)++; poh-tó++(駁倒)++; à-tit-kùe++(詏得過)++.
 
-**congeal**, kit-tōiⁿ++(結凍)++; kit-ngẽ++(結凍)++; tàng++(凍)++; kit-tàng++(結凍)++.
+**congeal**, kit-tōiⁿ++(結𠕇)++; kit-ngẽ++(結硬)++; tàng++(凍)++; kit-tàng++(結凍)++.
 
-**congee**, *soft boiled rice*, mûeⁿ++(糜)++. *thick*, phõ-thâu-mûeⁿ++(抱頭糜)++. *thin*, hi-mûeⁿ++(稀糜)++; kà-mûeⁿ++(教糜)++.
+**congee**, *soft boiled rice*, mûeⁿ++(糜)++. *thick*, phõ-thâu-mûeⁿ++(抱頭糜)++. *thin*, hi-mûeⁿ++(稀糜)++; kà-mûeⁿ++(漖糜)++.
 
 **congenial**, tâng-chhêng tâng-ì++(同情同意)++; tâng-sim tâng-ì++(同心同意)++.
 
@@ -2949,7 +2949,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **contrast**, sie-tùi++(相對)++; siang-pí++(相比)++; tùi-chhiēⁿ++(對像)++; huán-chhiēⁿ++(返像)++; huán-chiè++(返照)++.
 
-**contribute**, tôi++(題)++; tôi-chîⁿ++(題錢)++; kien-tôi++(堅題)++; phài-chîⁿ++(派錢)++; kien-chîⁿ++(捐錢)++. *to levy a contribution*, phài-chîⁿ++(派錢)++.
+**contribute**, tôi++(題)++; tôi-chîⁿ++(題錢)++; kien-tôi++(捐題)++; phài-chîⁿ++(派錢)++; kien-chîⁿ++(捐錢)++. *to levy a contribution*, phài-chîⁿ++(派錢)++.
 
 **contrite**, thiàⁿ-kói++(痛改)++; thiàⁿ-kói tsôiⁿ-hui++(痛改前非)++; kói-hùe++(改悔)++; hùe-kói++(悔改)++; tsṳ̃-hṳ̃n++(自恨)++; thiàⁿ-hṳ̃n tsôiⁿ-hui++(痛恨前非)++.
 
@@ -3153,7 +3153,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coxcomb**, hàuⁿ-tsuang-hûang++(好裝皇)++; hàuⁿ-iâu-pái++(好搖擺)++; hùuⁿ-thì-tsò++(荒剃做)++; hàuⁿ-tsuang-tsò++(好裝做)++.
 
-**coy**, *modest*, ũ-liâm-chhí++(有廉恥)++. *bashful*, ùi-siáu-lí++(畏小理)++; m̄-káⁿ kìⁿ-nâng++(毋敢見人)++.
+**coy**, *modest*, ũ-liâm-chhí++(有廉恥)++. *bashful*, ùi-siáu-lí++(畏少禮)++; m̄-káⁿ kìⁿ-nâng++(毋敢見人)++.
 
 **cozen**, kuang-phièn++(誆騙)++; khi-phièn++(欺騙)++; mûaⁿ-phièn++(鰻騙)++.
 
@@ -3181,7 +3181,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **crash**, piāng--chē-kiè++(砰寨叫)++; kōng--chē-kiè++(銼寨叫)++; kūang--chē-kiè++(筐寨叫)++.
 
-**crave**, khiû++(求)++; khṳ́n-khiû++(懇求)++; koh-lô++++. *craving for food*, tóu iau++(肚枵)++. *for opium*, a-phièn-ngièn++(鴉片癮)++. *for liquor*, chiú-ngièn++(酒癮)++.
+**crave**, khiû++(求)++; khṳ́n-khiû++(懇求)++; koh-lô++(閣羅)++. *craving for food*, tóu iau++(肚枵)++. *for opium*, a-phièn-ngièn++(鴉片癮)++. *for liquor*, chiú-ngièn++(酒癮)++.
 
 **crawfish**, lêng-hê++(龍蝦)++.
 
@@ -3301,7 +3301,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cultivate**, *fields*, tsoh-tshân++(作田)++; chèng-tsoh++(種作)++; keⁿ-tsoh++(耕作)++; keⁿ-tshân++(耕田)++. *the heart*, siu-sim++(修心)++. *virtue*, siu-tek++(修德)++. *one's conduct*, siu-sin++(修身)++.
 
-**cumber**, *the ground*, tìn-tiāu tī-hng++(鎮掉地方)++; tìn-tò++(鎮倒)++.
+**cumber**, *the ground*, tìn-tiāu tī-hng++(鎮掉地方)++; tìn-tò++(鎮地)++.
 
 **cumbersome**, *chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; tãng-jĩm*, hûang-gāi++(妨礙)++; thua-lūi++(拖累)++.
 
@@ -3355,7 +3355,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **customer**, bói-kheh++(買客)++. *to be a*, kau-kuan++(交關)++; bói-bōi++(買賣)++.
 
-**cut**, kuah++(割)++; tso̍ih++(截)++; tok++(剁)++; phoh++(劈)++; tsám++(斬)++; phoi++(批)++. *off, as branch*, tsám-tiāu++(斬掉)++; siah-tiāu++(削掉)++. *to pieces*, tok tshùi-tshùi++(斫碎碎)++. *in two*, kuah-tñg++(割斷)++; tok-tñg++(斫斷)++; tok-tsò-kue̍h++(斫做橛)++; tso̍ih-tñg++(截斷)++. *(on a slant)*, phoh-tñg++(劈斷)++. *(split)*, lòi-tsò-pôiⁿ++(𠠍做爿)++. *out clothes*, ka-saⁿ++(鉸三)++. *away*, kuah--khṳ̀++(割去)++; kuah-tiāu++(割掉)++; tsám-tiāu++(斬掉)++. *the hair*, chién-môⁿ++(剪毛)++; ka-môⁿ++(鉸毛)++. *a pencil*, phoi-pit++(批筆)++. *down*, *as a tree*, tsám-tiāu++(斬掉)++; khám-tiāu++(砍掉)++. *thing across in a slanting direction*, phoi gû-tâng-tshùi++(批牛筒碎)++; phoh-sia++(劈斜)++. *cut the throat*, kṳ̀-âu++(鋸喉)++. *cut grain*, kuah-tiũ++(割晝)++. *grass*, kuah-tsháu++(割草)++. *cut a friend*, nâng-chhêng kuah-tñg++(人情割斷)++; tso̍h-kau++(絕交)++; kuah-chhie̍h++(割蓆)++; tso̍ih-tñg kau-chhêng++(截斣交情)++. *cut away a mast*, tsám-ûi++(斬圍)++. *cut a road*, khui-lōu++(開路)++. *through a hill*, tsha̍k-suaⁿ-lōu++(鑿山路)++. *cut wages*, khà-tṳ̂ kang-chîⁿ++(扣除工錢)++; tṳ̂-kiám nâng-kâi-chîⁿ++(除減人个錢)++. *cut-purse*, chién-niúⁿ++(剪紐)++, kuah nâng hō-pau++(割人荷包)++. *cut-throat*, hiong-chhiú++(兇手)++.
+**cut**, kuah++(割)++; tso̍ih++(截)++; tok++(剁)++; phoh++(劈)++; tsám++(斬)++; phoi++(批)++. *off, as branch*, tsám-tiāu++(斬掉)++; siah-tiāu++(削掉)++. *to pieces*, tok tshùi-tshùi++(斫碎碎)++. *in two*, kuah-tñg++(割斷)++; tok-tñg++(斫斷)++; tok-tsò-kue̍h++(斫做橛)++; tso̍ih-tñg++(截斷)++. *(on a slant)*, phoh-tñg++(劈斷)++. *(split)*, lòi-tsò-pôiⁿ++(𠠍做爿)++. *out clothes*, ka-saⁿ++(鉸三)++. *away*, kuah--khṳ̀++(割去)++; kuah-tiāu++(割掉)++; tsám-tiāu++(斬掉)++. *the hair*, chién-môⁿ++(剪毛)++; ka-môⁿ++(鉸毛)++. *a pencil*, phoi-pit++(批筆)++. *down*, *as a tree*, tsám-tiāu++(斬掉)++; khám-tiāu++(砍掉)++. *thing across in a slanting direction*, phoi gû-tâng-tshùi++(批牛筒碎)++; phoh-sia++(劈斜)++. *cut the throat*, kṳ̀-âu++(鋸喉)++. *cut grain*, kuah-tiũ++(割稻)++. *grass*, kuah-tsháu++(割草)++. *cut a friend*, nâng-chhêng kuah-tñg++(人情割斷)++; tso̍h-kau++(絕交)++; kuah-chhie̍h++(割蓆)++; tso̍ih-tñg kau-chhêng++(截斣交情)++. *cut away a mast*, tsám-ûi++(斬圍)++. *cut a road*, khui-lōu++(開路)++. *through a hill*, tsha̍k-suaⁿ-lōu++(鑿山路)++. *cut wages*, khà-tṳ̂ kang-chîⁿ++(扣除工錢)++; tṳ̂-kiám nâng-kâi-chîⁿ++(除減人个錢)++. *cut-purse*, chién-niúⁿ++(剪紐)++, kuah nâng hō-pau++(割人荷包)++. *cut-throat*, hiong-chhiú++(兇手)++.
 
 **cutaneous**, to++(刀)++; kiàm++(劍)++.
 
@@ -3421,7 +3421,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **daub**, *with mud*, kôu-thôu++(糊塗)++. *writing*, tôu-buah++(塗抹)++; tôu-tiāu++(塗掉)++; buah-tiāu++(抹掉)++; tiám-tiāu++(點掉)++.
 
-**daughter**, tsṳ-niêⁿ-kiáⁿ++(諸娘囝)++; tsáu-kiáⁿ++(走囝)++; nn̍g-tsṳ́++(女子)++. *your daughter (polite)*, lẽng-ài++(走囝)++; tshoiⁿ-kim++(走囝)++. *my daughter (polite)*, sié-nn̍g++(小女)++. *in law*, sim-pũ++(新婦)++. *daughter's husband*, kiáⁿ-sài++(囝婿)++. *daughter's chidren*, gūa-sun++(外孫)++. *his daughter is betrothed*, i kâi tsṳ-niêⁿ-kiáⁿ íⁿ-keng tsò-sêng--liáu++(伊个諸娘囝已經做成了)++. *marry one's d. to anyone*, tsṳ-niêⁿ-kiáⁿ kè--pun-nâng++(諸娘囹嫁分人)++.
+**daughter**, tsṳ-niêⁿ-kiáⁿ++(諸娘囝)++; tsáu-kiáⁿ++(走囝)++; nn̍g-tsṳ́++(女子)++. *your daughter (polite)*, lẽng-ài++(走囝)++; tshoiⁿ-kim++(走囝)++. *my daughter (polite)*, sié-nn̍g++(小女)++. *in law*, sim-pũ++(新婦)++. *daughter's husband*, kiáⁿ-sài++(囝婿)++. *daughter's chidren*, gūa-sun++(外孫)++. *his daughter is betrothed*, i kâi tsṳ-niêⁿ-kiáⁿ íⁿ-keng tsò-sêng--liáu++(伊个諸娘囝已經做成了)++. *marry one's d. to anyone*, tsṳ-niêⁿ-kiáⁿ kè--pun-nâng++(諸娘囝嫁分人)++.
 
 **daunt**, phièn-nâng-kiaⁿ++(騙人[訓]驚)++; heh++(嚇)++; kiaⁿ-heh++(驚嚇)++; heh-kiaⁿ++(嚇驚)++.
 
@@ -3433,7 +3433,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **deacon**, chip-sṳ̄++(執事)++.
 
-**dead**, sí++(死)++. *man*, sí-nâng++(死人)++. *body*, sin-si++(身屍)++; si-hâi++(屍骸)++; si-siú++(屍首)++. *he is dead*, kùe-sì--liáu++(過四了)++; sî-sì--liáu++(時四了)++; sí--khṳ̀++(死去)++. *dead tree*, chhiū kou-ta++(樹枯焦)++. *dead drunk*, tsùi kàu--mîⁿ-mîⁿ++(醉到糜糜)++; tsùi kàu hun-hun mîⁿ-mîⁿ++(醉到昏昏糜糜)++. *among the dead*, im--kan++(陰間)++; àm--thâu++(暗頭)++. *deadly poison*, ta̍k++(毒)++; ta̍k-sí-nâng++(毒死人)++. *deadly hatred*, put-kāng tài-thiⁿ kâi-chhiû++(不同戴天之讎)++.
+**dead**, sí++(死)++. *man*, sí-nâng++(死人)++. *body*, sin-si++(身屍)++; si-hâi++(屍骸)++; si-siú++(屍首)++. *he is dead*, kùe-sì--liáu++(過四了)++; sî-sì--liáu++(時四了)++; sí--khṳ̀++(死去)++. *dead tree*, chhiū kou-ta++(樹枯灱)++. *dead drunk*, tsùi kàu--mîⁿ-mîⁿ++(醉到糜糜)++; tsùi kàu hun-hun mîⁿ-mîⁿ++(醉到昏昏糜糜)++. *among the dead*, im--kan++(陰間)++; àm--thâu++(暗頭)++. *deadly poison*, ta̍k++(毒)++; ta̍k-sí-nâng++(毒死人)++. *deadly hatred*, put-kāng tài-thiⁿ kâi-chhiû++(不同戴天之讎)++.
 
 **deaf**, hĩⁿ lâng++(耳聾)++. *slightly*, hĩⁿ se-su-kiáⁿ-lâng++(耳些輸囝籠)++. *deafening*, hĩⁿ-khang-kúi ōng-ōng-kiè++(耳空鬼訇訇叫)++. *pretend to be deaf and dumb*, tèⁿ-lâng tèⁿ-é++(詐籠詐啞)++; tsuang-lâng tsuang-é++(裝籠裝啞)++; tèⁿ-tsò thiaⁿ-m̄-kìⁿ++(詐做聽毋見)++; tèⁿ-lâng tèⁿ-sat++(詐籠詐蝨)++.
 
@@ -3469,7 +3469,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **decanter**, *po-lî-tsun*, po-lî-kùan++(玻璃罐)++.
 
-**decapitate**, thâi-thâu++(台頭)++; tsám-thâu++(斬頭)++; tsám-siú++(斬首)++; tshú-tsám++(取斬)++.
+**decapitate**, thâi-thâu++(刣頭)++; tsám-thâu++(斬頭)++; tsám-siú++(斬首)++; tshú-tsám++(取斬)++.
 
 **decay**, sue++(衰)++; sue-mûiⁿ++(衰微)++. *rot*, àu++(懊)++; àu-tshàu++(懊臭)++. *decayed tooth*, tsù-khí++(蛀起)++.
 
@@ -3513,7 +3513,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **deduct**, khà-tṳ̂++(扣除)++; khà-kiám++(扣減)++; tṳ̂-kiám++(除減)++.
 
-**deed**, *action*, sṳ̄++(事)++; hêng-ûi++(行爲)++; kiâⁿ-sṳ̄++(行爲)++. *written*, khòi++(契)++.
+**deed**, *action*, sṳ̄++(事)++; hêng-ûi++(行爲)++; kiâⁿ-sṳ̄++(行事)++. *written*, khòi++(契)++.
 
 **deem**, siẽⁿ++(想)++. *to deem it insufficient*, thóiⁿ-tsò m̄-kàu++(睇做毋夠)++; íⁿ-ûi put-tsok++(以爲不足)++.
 
@@ -3531,7 +3531,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **defeat**, *to*, phùa-te̍k++(破敵)++; thâi-iâⁿ++(刣贏)++; chièn-iâⁿ++(戰贏)++; phah-iâⁿ++(拍贏)++; phah-pāi++(打敗)++; chièn-sèng++(戰勝)++. *to be defeated*, pāi-tīn++(敗陣)++; phah-pāi++(打敗)++; pāi-tsáu++(敗走)++; thâi-su++(刣輸)++; chièn-su++(戰輸)++. *defeat a plot*, phùa-kòi++(破計)++.
 
-**defect**, khiàm-khueh++(欠缺)++; khueh++(缺)++; tsua̍h++(絀)++; m̄-kàu++(毋夠)++. *supply a defect*, póu-khueh++(補缺)++. *defective*, m̄-kàu++(毋夠)++; m̄-tshûan++(毋全)++; m̄-ka-nn̂g++(毋加娘)++; m̄-uân-tshûan++(毋完全)++; m̄-tsâu++(毋巢)++; m̄-kàu-kâi++(毋夠個)++; khih che̍k-kó++(缺一稿)++; ũ-khueh--tshù++(有缺處)++.
+**defect**, khiàm-khueh++(欠缺)++; khueh++(缺)++; tsua̍h++(絀)++; m̄-kàu++(毋夠)++. *supply a defect*, póu-khueh++(補缺)++. *defective*, m̄-kàu++(毋夠)++; m̄-tshûan++(毋全)++; m̄-ka-nn̂g++++; m̄-uân-tshûan++(毋完全)++; m̄-tsâu++(毋巢)++; m̄-kàu-kâi++(毋夠個)++; khih che̍k-kó++(缺一稿)++; ũ-khueh--tshù++(有缺處)++.
 
 **defection**, pũe-iâⁿ++(背贏)++. *from religion*, pũe-tãu++(背道)++.
 
@@ -3583,7 +3583,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **deliberately**, *soiⁿ sṳ*, ãu kiâⁿ++(後行)++; ũ-ì++(有意)++; li̍p-ì++(立意)++; tshut-tõ ũ-ì++(出頭有意)++.
 
-**delicate**, jiû-nn̍g++(柔軟)++. *in health*, sin-hūn phàⁿ++(身分冇)++; sin-hūn lám++++; sin-thói jia̍k++(身體弱)++; khì-thói jia̍k++(氣體弱)++. *neat*, kiau-kiah++(嬌客)++. *fine*, iùⁿ-sòi++(幼細)++; cheng-mûiⁿ++(精微)++. *fastidious*, tiau-khiâu-chia̍h++(刁翹食)++. *in taste and flavour*, bī-sòu hó-tsãi++(味素好在)++; iũ-tiâm iũ-phang++(有甜有芳)++. *delicacies*, tien-bī++(珍味)++; peh-bī++(百味)++; tien-siu peh-pī++(珍饈百味)++; suaⁿ-tien hái-bī++(山珍海味)++.
+**delicate**, jiû-nn̍g++(柔軟)++. *in health*, sin-hūn phàⁿ++(身分冇)++; sin-hūn lám++++; sin-thói jia̍k++(身體弱)++; khì-thói jia̍k++(氣體弱)++. *neat*, kiau-kiah++(矯捷)++. *fine*, iùⁿ-sòi++(幼細)++; cheng-mûiⁿ++(精微)++. *fastidious*, tiau-khiâu-chia̍h++(刁翹食)++. *in taste and flavour*, bī-sòu hó-tsãi++(味素好在)++; iũ-tiâm iũ-phang++(有甜有芳)++. *delicacies*, tien-bī++(珍味)++; peh-bī++(百味)++; tien-siu peh-pī++(珍饈百味)++; suaⁿ-tien hái-bī++(山珍海味)++.
 
 **delight**, huaⁿ-hí++(歡喜)++; khùai-la̍k++(快樂)++. *delight in*, hàuⁿ++(好)++; zua̍t++(悅)++. *delightful*, khó-hí++(可喜)++; hó-zua̍t-ma̍k++(好悅目)++; hó-khai-huâi++(好開懷)++; tshù-bī++(趣味)++. *delighted*, sóng-khùai++(爽快)++; suáng-khùai++(爽快)++; khùai-thiàng++(快暢)++; thiàng-ì++(暢意)++.
 
@@ -3643,7 +3643,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **deposition**, kháu-keng++(口供)++.
 
-**depopulate**, thâi-nâng chĩn-chĩn++(台人盡盡)++. *depopulated*, phau-hng++(拋荒)++.
+**depopulate**, thâi-nâng chĩn-chĩn++(刣人盡盡)++. *depopulated*, phau-hng++(拋荒)++.
 
 **deportment**, hêng-ûi++(行爲)++; pín-hẽng++(品行)++; thí-thài++(體態)++.
 
@@ -3689,7 +3689,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **deserve**, eng-kai++(應該)++; kham-kai++(堪該)++. *death*, kai-sí++(該死)++. *deserving*, ũ-kong++(有功)++; kham-kai-tit++(堪該得)++.
 
-**desiccate**, khùa-ta++(渴乾)++; sài-ta++(灑乾)++; sài-kang++(曬乾)++. *(in the sun)*, pha̍k-ta++(曝乾)++. *(in the wind)*, lā-ta++(颱乾)++.
+**desiccate**, khùa-ta++(渴灱)++; sài-ta++(灑灱)++; sài-kang++(曬灱)++. *(in the sun)*, pha̍k-ta++(曝灱)++. *(in the wind)*, lā-ta++(颱灱)++.
 
 **design**, ì-sṳ̀++(意思)++; kòi-mông++(計謀)++. *with design*, kù-ì++(故意)++; ũ-ì++(有意)++; tsuan-àiⁿ++(專愛)++. *evil*, siâ-mông++(邪謀)++. *pattern*, thói-sek++(體色)++; iēⁿ++(樣)++; môⁿ-iēⁿ++(毛樣)++.
 
@@ -3765,7 +3765,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dewclaw**, koi-jiáu++(雞爪)++; koi-kṳ̃++(雞距)++; koi-chí++(雞指)++.
 
-**dewlap**, gû-ãm-sê++(牛頷儕)++; ãm-sê++(頷儕)++.
+**dewlap**, gû-ãm-sê++(牛頷垂)++; ãm-sê++(頷垂)++.
 
 **dexterity**, khá-gōi++(巧藝)++; khî-khá++(奇巧)++; hó-chhiú-tūan++(好手段)++; lêng-lāi++(伶俐)++; khá++(巧)++; kha-chhiú õi++(骹手能)++; ua̍h-phuah++(活潑)++.
 
@@ -3889,7 +3889,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **discoloured**, sek m̄-tsâ++(色毋巢)++u; lo̍h-sek++(落色)++; thò-sek++(退色)++; sit-sek++(失色)++; sek lut++(色脫)++; sià-sek++(褪色)++.
 
-**discomfort**, m̄-khùaⁿ-ua̍h++(毋快活)++; kãu-ue̍h++(垢穢)++; m̄-uaⁿ-sim++(毋安心)++; sim-tang khau-peh++(心胸嘔白)++.
+**discomfort**, m̄-khùaⁿ-ua̍h++(毋寬活)++; kãu-ue̍h++(垢穢)++; m̄-uaⁿ-sim++(毋安心)++; sim-tang khau-peh++(心胸嘔白)++.
 
 **discommode**, kiáu-jiáu++(攪擾)++; hũn--tie̍h++(混着)++; lâu++(勞)++; lūi++(累)++; hûan-lâu++(煩勞)++.
 
@@ -4009,9 +4009,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dispirited**, sàng-sim++(喪心)++; sàng-táⁿ++(喪膽)++; sàng-chì++(喪志)++; hûan-ló++(煩惱)++; sim ià-ià++(心厭厭)++.
 
-**displace**, puaⁿ-khui++(搬開)++; pàng m̄-kui-ūi++(放毋歸位)++; puaⁿ zṳ̂-zṳ̂++(搬挐挐)++; lóng-zṳ̂++(弄挐)++; tshâu-tshúa++(巢歪)++.
+**displace**, puaⁿ-khui++(搬開)++; pàng m̄-kui-ūi++(放毋歸位)++; puaⁿ zṳ̂-zṳ̂++(搬挐挐)++; lóng-zṳ̂++(弄挐)++; tshâu-tshúa++(移歪)++.
 
-**display**, hién-mêng++(顯明)++. *fine clothes*, tién-ho̍k-sek++(典服色)++; pù-pái ho̍k-sek++(布擺服色)++. *a display*, hûan-hua++(繁華)++.
+**display**, hién-mêng++(顯明)++. *fine clothes*, tién-ho̍k-sek++(展服飾)++; pù-pái ho̍k-sek++(布擺服飾)++. *a display*, hûan-hua++(繁華)++.
 
 **displease**, tit-tsũe-nâng++(得罪人)++; tieh-nâng-khì++(着人氣)++; tieh--nâng++(着人)++; kek-nâng-khì++(激人氣)++; tshok--tie̍h nâng-khì++(觸着人氣)++. *to look displeased*, mīn pìⁿ-pìⁿ++(面變變)++. *displeased*, m̄-huaⁿ-hí++(毋歡喜)++; m̄-hàuⁿ++(毋好)++; tóu-lãi put-zua̍t++(肚內不悅)++; m̄-tèng-ì++(毋中意)++; m̄-kùe-ì++(毋過意)++; seⁿ-khì kièn-kuài++(生氣見怪)++. *don't be displeased with me*, màiⁿ-kièn-kuài úa++(勿見怪我)++; mo̍k-kuài úa++(勿怪我)++.
 
@@ -4021,7 +4021,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **disproportion**, phùe-m̄-kùe++(配毋過)++; kah-m̄-kùe++(合毋過)++.
 
-**dispute**, cheⁿ-lũn++(爭論)++; sie-cheⁿ++(相爭)++; piẽn-poh++(辯駁)++; sie-à++(相詏)++; kau-soi++(交際)++. *loud angry disputation*, tshâu-nãuⁿ++(曹鬧)++.
+**dispute**, cheⁿ-lũn++(爭論)++; sie-cheⁿ++(相爭)++; piẽn-poh++(辯駁)++; sie-à++(相詏)++; kau-soi++(交際)++. *loud angry disputation*, tshâu-nãuⁿ++(嘈鬧)++.
 
 **disquieted**, m̄-uaⁿ-sim++(毋安心)++; sim bô-phêng-an++(心無平安)++; m̄-kùe-sim++(毋過心)++; m̄-pàng-sim++(毋放心)++; khùa-sim++(掛心)++; hûan-sim++(煩心)++.
 
@@ -4097,7 +4097,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **ditch**, tsúi-kau++(水溝)++; kau-khut++(溝窟)++. *in fields*, chhia-kau++(車溝)++.
 
-**ditty**, kua++(跨)++; sié-khek++(小曲)++.
+**ditty**, kua++(歌)++; sié-khek++(小曲)++.
 
 **diuretic**, lĩ-tsúi-ie̍h++(利水藥)++; lĩ-siáu-piẽn-ie̍h++(利小便藥)++.
 
@@ -4211,7 +4211,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **draught**, see **draft**. *of fish*, che̍k-mãng-hṳ̂++(一網魚)++. *of wind*, thong-huang++(通風)++. *in a draught*, tng-huang-lōu++(當風路)++.
 
-**draw**, thua++(拖)++; po̍ih++(拔)++; túi++(挽)++. *water*, kũaⁿ-tsúi++(摜水)++; pua̍h-tsúi++(跋水)++. *out*, po̍ih-tshut++(拔出)++; mán-tshut++(挽出)++; thua-tshut++(拖出)++. *teeth*, khieh-khí++(拔起)++. *a sliding window*, thuah++++. *a sword*, po̍ih-kiàm++(拔劍)++; po̍ih-to++(拔刀)++. *poison*, po̍ih-ta̍k++(拔毒)++. *a bow*, khui-keng++(開弓)++; mán-keng++(挽弓)++. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ++(勼勼軟軟)++. *draw up one's legs*, kha kiu--khí-lâi++(骹勼起來)++. *draw breath (also, to sigh)*, tháu-khùi++(㪗氣)++. *opium-smoke*, kuh-hun++(嗝薰)++; po̍k-hun++(曝薰)++. *lots*, khieh-khau++(挈口)++; po̍ih-chhiam++(拔簽)++; thiu-chhiam-kiáⁿ++(抽簽囝)++. *a carriage*, thua-chhia++(拖車)++. *nails*, po̍ih-teng++(拔燈)++; kiãu-teng++(撬釘)++. *a net*, po̍ih-mãng++(拔網)++; chhiû-mãng++(揪網)++. *draw near*, túi-bûa++(挽埋)++. *near (approach)*, kiâⁿ-bûa++(行埋)++; chiũ-kṳ̃n++(就近)++; kṳ̃n-bûa++(近埋)++. *attention*, ín-tõng nâng-sim++(引動人心)++; tõng nâng-sim-ma̍k++(動人心目)++. *up a line of battle*, pâi-tīn++(排陣)++. *a list*, khui-mêng kak-mue̍h++(開明角物)++; kiám-tiám++(檢點)++. *as loadstone*, hiap-bûa++++. *out of the water*, liâu++(撩)++; kou++(姑)++. *a splinter*, liàm-tshut++(捻出)++; túi-tshut++(挽出)++. *a splinter (with a needle)*, thie-tshut++(挑出)++. *blood*, lâu-hueh++(流血)++; pàng-tshut-hueh++(放出血)++. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n++(去銀行挈銀)++; tùi-ngṳ̂u++(對牛)++. *a curtain*, liâm sa-khui++(簾沙開)++; liâm kiáu-phû++(簾攪浮)++. *draw away*, ín-tshūa++(引𤆬)++. *entice*, ín-iú++(引誘)++; iú-ho̍k++(誘惑)++. *draw on stockings*, chhēng-bue̍h++(穿襪)++. *draw back*, tò-thò++(倒退)++; thò++(退)++; thò-pōu++(退步)++.
+**draw**, thua++(拖)++; po̍ih++(拔)++; túi++(挽)++. *water*, kũaⁿ-tsúi++(摜水)++; pua̍h-tsúi++(跋水)++. *out*, po̍ih-tshut++(拔出)++; mán-tshut++(挽出)++; thua-tshut++(拖出)++. *teeth*, khieh-khí++(拔起)++. *a sliding window*, thuah++++. *a sword*, po̍ih-kiàm++(拔劍)++; po̍ih-to++(拔刀)++. *poison*, po̍ih-ta̍k++(拔毒)++. *a bow*, khui-keng++(開弓)++; mán-keng++(挽弓)++. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ++(勼勼扭扭)++. *draw up one's legs*, kha kiu--khí-lâi++(骹勼起來)++. *draw breath (also, to sigh)*, tháu-khùi++(㪗氣)++. *opium-smoke*, kuh-hun++(嗝薰)++; po̍k-hun++(曝薰)++. *lots*, khieh-khau++(挈口)++; po̍ih-chhiam++(拔簽)++; thiu-chhiam-kiáⁿ++(抽簽囝)++. *a carriage*, thua-chhia++(拖車)++. *nails*, po̍ih-teng++(拔燈)++; kiãu-teng++(撬釘)++. *a net*, po̍ih-mãng++(拔網)++; chhiû-mãng++(揪網)++. *draw near*, túi-bûa++(挽埋)++. *near (approach)*, kiâⁿ-bûa++(行埋)++; chiũ-kṳ̃n++(就近)++; kṳ̃n-bûa++(近埋)++. *attention*, ín-tõng nâng-sim++(引動人心)++; tõng nâng-sim-ma̍k++(動人心目)++. *up a line of battle*, pâi-tīn++(排陣)++. *a list*, khui-mêng kak-mue̍h++(開明角物)++; kiám-tiám++(檢點)++. *as loadstone*, hiap-bûa++++. *out of the water*, liâu++(撩)++; kou++(姑)++. *a splinter*, liàm-tshut++(捻出)++; túi-tshut++(挽出)++. *a splinter (with a needle)*, thie-tshut++(挑出)++. *blood*, lâu-hueh++(流血)++; pàng-tshut-hueh++(放出血)++. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n++(去銀行挈銀)++; tùi-ngṳ̂u++(對牛)++. *a curtain*, liâm sa-khui++(簾沙開)++; liâm kiáu-phû++(簾攪浮)++. *draw away*, ín-tshūa++(引𤆬)++. *entice*, ín-iú++(引誘)++; iú-ho̍k++(誘惑)++. *draw on stockings*, chhēng-bue̍h++(穿襪)++. *draw back*, tò-thò++(倒退)++; thò++(退)++; thò-pōu++(退步)++.
 
 **draw**, *pictures*, ūe-ūe++(畫畫)++; ūe-ang-kiáⁿ++(畫尪囝)++; ūe-sièⁿ++(畫像)++. *a line*, ūe-hûn++(畫痕)++; phah-keh++(拍隔)++. *a landscape*, ūe-suaⁿ-tsúi++(畫山水)++. *a map*, ūe-tôu++(畫圖)++. *one's portrait*, ūe-sièⁿ++(畫像)++; ūe-hí-sîn++(畫喜神)++; ūe-siáu-iáⁿ++(畫小影)++.
 
@@ -4237,7 +4237,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **drenched**, pun-tsúi chìm++(分水浸)++. *with rain*, khṳt-hõu ak++(乞雨沃)++; ak kàu-lok-lok++(沃到漉漉)++; tsâng kàu-thúe-thúe++(叢到體體)++.
 
-**dress**, tá-pàn++(打扮)++; ho̍k-sek++(服色)++; chhēng-saⁿ++(穿衫)++; i-ho̍k++(衣服)++; sin-chhēng++(身穿)++. *fine dress*, tá-pàn phâi-chhiâng++(打扮排場)++. *to shew off*, tsuang-pàn iâu-pái++(裝扮搖擺)++. *a wound*, pa̍k-bûa++(縛埋)++; ūaⁿ-pòu-liâu++(換布撩)++. *the feet of women*, tîⁿ-kha++(纏骹)++; ūaⁿ-kha++(換骹)++. *the hair*, siu-thâu++(收頭)++; siu-thâu-môⁿ++(梳頭毛)++; lua̍h-thâu++(辣頭)++. *food*, tsṳ́-chia̍h++(煮食)++; pa-lói-chia̍h++(巴禮食)++; sṳ̃-lí-chia̍h++(士禮食)++. *skins*, se̍k-phûe++(熟皮)++. *stone*, phah-chie̍h++(拍石)++; chie̍h khieh-kng++(石挈光)++. *with flags, as ship or street*, kat-tshái++(結彩)++. *dressing-gown*, siu-thâu-saⁿ++(梳頭衫)++. *dress-case*, kiàⁿ-thâi++(鏡台)++; kiàⁿ-thâi-keh++(鏡台格)++. *dress-table*, siu-tsng-thâi++(收妝台)++. *dress-room*, siu-thâu-pâng++(梳頭房)++.
+**dress**, tá-pàn++(打扮)++; ho̍k-sek++(服色)++; chhēng-saⁿ++(穿衫)++; i-ho̍k++(衣服)++; sin-chhēng++(身穿)++. *fine dress*, tá-pàn phâi-chhiâng++(打扮排場)++. *to shew off*, tsuang-pàn iâu-pái++(裝扮搖擺)++. *a wound*, pa̍k-bûa++(縛埋)++; ūaⁿ-pòu-liâu++(換布撩)++. *the feet of women*, tîⁿ-kha++(纏骹)++; ūaⁿ-kha++(換骹)++. *the hair*, siu-thâu++(收頭)++; siu-thâu-môⁿ++(梳頭毛)++; lua̍h-thâu++(辣頭)++. *food*, tsṳ́-chia̍h++(煮食)++; pa-lói-chia̍h++(巴禮食)++; sṳ̃-lí-chia̍h++(伺理食)++. *skins*, se̍k-phûe++(熟皮)++. *stone*, phah-chie̍h++(拍石)++; chie̍h khieh-kng++(石挈光)++. *with flags, as ship or street*, kat-tshái++(結彩)++. *dressing-gown*, siu-thâu-saⁿ++(梳頭衫)++. *dress-case*, kiàⁿ-thâi++(鏡臺)++; kiàⁿ-thâi-keh++(鏡臺格)++. *dress-table*, siu-tsng-thâi++(收妝臺)++. *dress-room*, siu-thâu-pâng++(梳頭房)++.
 
 **dribblets**, lân-su++(零輸)++; lân-ló++(零些)++.
 
@@ -4381,7 +4381,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **eaves**, lîm-chîⁿ++(臨錢)++. *eaves-dropper*, thau-thiaⁿ++(偷聽)++; thàm-thiaⁿ++(探聽)++; àm-chẽⁿ-thiaⁿ++(暗靜聽)++; phak-hĩⁿ thiaⁿ++(趴耳聽)++.
 
-**ebb**, khó++(洘)++. *tide*, khó-lâu++(洘流)++; tsúi thò++(水退)++; lâu lo̍h++(流落)++; pak-lâu++(北流)++. *low*, khó-ta-ta++(洘焦焦)++.
+**ebb**, khó++(洘)++. *tide*, khó-lâu++(洘流)++; tsúi thò++(水退)++; lâu lo̍h++(流落)++; pak-lâu++(北流)++. *low*, khó-ta-ta++(洘灱灱)++.
 
 **ebony**, ou-tshâ-ba̍k++(烏柴墨)++.
 
@@ -4573,7 +4573,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **encumber**, thua-thūi++(拖墜)++; tsó-gāi++(阻礙)++; hûang-gāi++(妨礙)++.
 
-**end**, tsong++(終)++; búe++(尾)++; suah-búe++(煞尾)++; kiáu-búe++(攪尾)++. *of road*, lōu-búe++(路尾)++. *of year*, nîⁿ-búe++(年尾)++. *both ends*, thâu-búe++(頭尾)++; sang-thâu++(雙頭)++. *I do not know what the end of this affair will be*, m̄-tsai chí-kâi-sṳ̄ kàu-búe-ke̍k sĩ-tsò-nîⁿ++(毋知此個事到底是怎呢)++. *in the end*, kàu-búe++(到尾)++. *to end*, ûan++(完)++; tsò-chiâⁿ++(做成)++; sêng-kong++(成功)++; tsò-kàu-liáu++(做到了)++; tsò-kàu chhêng-tshó++(做到情楚)++. *a speech*, tàⁿ-ūe-hiah++(呾話歇)++. *one's life (voluntarily)*, tsṳ̃-chĩn++(自盡)++; ka-kī khṳ̀-sí++(家己去死)++. *attain one's end*, tit-ì++(得意)++. *to what end is this*, chí-kâi-sṳ̄ ũ-sĩ-mih lĩ-iah++(此個事是有乜利益)++. *what end has he in view*, i ũ sĩ-mih ì-sṳ̀++(伊有是乜意思)++. *endless*, bô-liáu++(無了)++; bõi-uân++(袂完)++; kú-kú bõi-hiah++(久久袂歇)++; bô-kat-suah++(無結煞)++. *end of the world*, sì--kan kâi mu̍at-ji̍t++(世間个末日)++. *no more of this! let the matter end!*, pã--liáu++(罷了)++.
+**end**, tsong++(終)++; búe++(尾)++; suah-búe++(煞尾)++; kiáu-búe++(繳尾)++. *of road*, lōu-búe++(路尾)++. *of year*, nîⁿ-búe++(年尾)++. *both ends*, thâu-búe++(頭尾)++; sang-thâu++(雙頭)++. *I do not know what the end of this affair will be*, m̄-tsai chí-kâi-sṳ̄ kàu-búe-ke̍k sĩ-tsò-nîⁿ++(毋知此個事到底是怎呢)++. *in the end*, kàu-búe++(到尾)++. *to end*, ûan++(完)++; tsò-chiâⁿ++(做成)++; sêng-kong++(成功)++; tsò-kàu-liáu++(做到了)++; tsò-kàu chhêng-tshó++(做到情楚)++. *a speech*, tàⁿ-ūe-hiah++(呾話歇)++. *one's life (voluntarily)*, tsṳ̃-chĩn++(自盡)++; ka-kī khṳ̀-sí++(家己去死)++. *attain one's end*, tit-ì++(得意)++. *to what end is this*, chí-kâi-sṳ̄ ũ-sĩ-mih lĩ-iah++(此個事是有乜利益)++. *what end has he in view*, i ũ sĩ-mih ì-sṳ̀++(伊有是乜意思)++. *endless*, bô-liáu++(無了)++; bõi-uân++(袂完)++; kú-kú bõi-hiah++(久久袂歇)++; bô-kat-suah++(無結煞)++. *end of the world*, sì--kan kâi mu̍at-ji̍t++(世間个末日)++. *no more of this! let the matter end!*, pã--liáu++(罷了)++.
 
 **endeavour**, chhì++(試)++. *to do any thing*, chhì-thóiⁿ++(試睇)++; thèng-tsãu-hùe++(聽造化)++. *do one's best endeavour*, chĩn-la̍t++(盡力)++; tshut-la̍t++(出力)++.
 
@@ -4661,9 +4661,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **entrap**, see ENSNARE.
 
-**entreat**, khiû++(求)++; khṳ́n-khiû++(懇求)++; khî-khiû++(祈求)++; khiû-khṳt++(求乞)++; ai-khiû++(哀求)++; khóu-khiû++(苦求)++; koh-lô++(各囉)++.
+**entreat**, khiû++(求)++; khṳ́n-khiû++(懇求)++; khî-khiû++(祈求)++; khiû-khṳt++(求乞)++; ai-khiû++(哀求)++; khóu-khiû++(苦求)++; koh-lô++(閣羅)++.
 
-**entrust**, hù-thoh++(付托)++; thoh++(托)++; kià++(寄)++; kià-thoh++(付托)++; tah++(託)++; kià-tah++(付托)++.
+**entrust**, hù-thoh++(付托)++; thoh++(托)++; kià++(寄)++; kià-thoh++(寄託)++; tah++(託)++; kià-tah++(寄託)++.
 
 **entwine**, tîⁿ++(纏)++; khûan-sùaⁿ++(圈線)++; tîⁿ-sùaⁿ++(纏線)++.
 
@@ -4719,11 +4719,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **erect**, *to*, khiã--khí-lâi++(徛起來)++; kiẽn++(建)++; khí++(起)++. *adjective*, ti̍t++(直)++; chiàⁿ++(正)++.
 
-**err**, kiâⁿ-tshò++(行錯)++; ũ-kùe-sit++(有過失)++; sit-tshò++(失錯)++; sit-gōu++(失誤)++. *miss the way*, kiâⁿ-tāⁿ++(行淡)++; kiâⁿ-tāⁿ-lōu++(行淡路)++. *errata*, tāⁿ-jī++(淡字)++. *in printing*, khek-tāⁿ++(刻淡)++; ìn-tāⁿ++(印淡)++. *in writing*, siá-tāⁿ++(寫淡)++; siá-tshò++(寫錯)++; gōu-siá++(誤寫)++.
+**err**, kiâⁿ-tshò++(行錯)++; ũ-kùe-sit++(有過失)++; sit-tshò++(失錯)++; sit-gōu++(失誤)++. *miss the way*, kiâⁿ-tāⁿ++(行賺)++; kiâⁿ-tāⁿ-lōu++(行賺路)++. *errata*, tāⁿ-jī++(賺字)++. *in printing*, khek-tāⁿ++(刻賺)++; ìn-tāⁿ++(印賺)++. *in writing*, siá-tāⁿ++(寫賺)++; siá-tshò++(寫錯)++; gōu-siá++(誤寫)++.
 
 **errand**, *send on an*, kià-thoh++(寄託)++; hù-thoh tàⁿ-ūe++(咐託呾話)++; kià-siaⁿ++(寄聲)++; sái++(駛)++.
 
-**erroneous**, tshò++(錯)++; tāⁿ++(淡)++; m̄-tie̍h++(毋着)++. *expression*, tàⁿ-tāⁿ++(呾賺)++.
+**erroneous**, tshò++(錯)++; tāⁿ++(賺)++; m̄-tie̍h++(毋着)++. *expression*, tàⁿ-tāⁿ++(呾賺)++.
 
 **error**, tshò++(錯)++; sit-tshò++(失錯)++; tsha-tshò++(差錯)++; tshò--tshù++(錯厝)++. *confess*, jīn-tshò++(認錯)++.
 
@@ -4775,7 +4775,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **evade**, mién++(免)++; tô++(逃)++; pī++(避)++; pī-bûa++(避埋)++; siám++(閃)++; siám-pī++(閃避)++. *a question, command or invitation*, tshui-úi++(推委)++; tho-sî++(推辭)++.
 
-**evaporate**, pha̍k-ta++(曝焦)++; tsáu-ta++(走焦)++; tshut-khì++(出氣)++; sùaⁿ-khì++(散氣)++; hiàⁿ-khì++++; sia̍p-khì++(洩氣)++; hia̍p-huang++(熁風)++.
+**evaporate**, pha̍k-ta++(曝灱)++; tsáu-ta++(走灱)++; tshut-khì++(出氣)++; sùaⁿ-khì++(散氣)++; hiàⁿ-khì++++; sia̍p-khì++(洩氣)++; hia̍p-huang++(熁風)++.
 
 **even**, pêⁿ++(平)++; pêⁿ-tsôi++(平齊)++; bô-tn̂g-tó++(無長短)++. *is 110 an even or an odd number*, peh-it sĩ sang a-sĩ khia++(百一是雙抑是奇)++. *even if*, tsòng++(縱)++; tsòng-jiên++(縱然)++; tsòng-sái++(縱使)++; sui-jiên++(雖然)++. *even to*, chì-kàu++(至到)++. *even his enemies do not blame him*, kũa i kâi chhiû-te̍k tou bô-hiâm--i++(伊个仇敵都無嫌伊)++. *has he 100 dollars! why, he hasn't even 100 cash*, màiⁿ-tàⁿ i bô che̍k-peh-ngṳ̂n++(勿呾伊無一百銀)++, liên-kũa che̍k-peh-chîⁿ--tou-bô. *he beats even his own parents*, kũa ka-kī kâi-pẽ-bó iā-káⁿ-phah++(貫家己个父母也敢拍)++. *even so far as to...*, sĩm chì-kàu++(甚至到)++.... *evenly arranged*, pâi-tsôi++(排齊)++; pâi-tsâu++(排齊)++; tsôi-chiáⁿ++(齊整)++.
 
@@ -4839,7 +4839,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **execrable**, khó-ù++(可惡)++; khó-hṳ̃n++(可恨)++.
 
-**execute**, tsò++(做)++; tsò-chiâⁿ++(做成)++; khîⁿ--tshut-lâi++(鉗出來)++. *put to death*, thâi++(刣)++. *execution*, sí-hêng++(死刑)++. *execution ground*, kah-tiêⁿ++(割場)++. *executioner*, khùai-tsṳ́-chhiú++(刽子手)++; khùai-tsṳ́-siú++(刽子手)++; suah-siú++(殺手)++; tng-âng-kî++(當紅旗)++.
+**execute**, tsò++(做)++; tsò-chiâⁿ++(做成)++; khîⁿ--tshut-lâi++++. *put to death*, thâi++(刣)++. *execution*, sí-hêng++(死刑)++. *execution ground*, kah-tiêⁿ++(割場)++. *executioner*, khùai-tsṳ́-chhiú++(刽子手)++; khùai-tsṳ́-siú++(刽子手)++; suah-siú++(殺手)++; tng-âng-kî++(當紅旗)++.
 
 **executor**, siũ-hù-thoh kâi-nâng++(受付託个人)++. *(guardian)*, thoh-kou kâi-nâng++(託孤个人)++.
 
@@ -4849,17 +4849,17 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **exercise**, *take*, khṳ̀-thit-thô++(去佚佗)++; kiâⁿ-tsáu ua̍h-tõng++(行走活動)++; kiâⁿ-sóng-khùai++(行爽快)++; khṳ̀-siau-iâu++(去蕭謠)++. *literary*, tsò-bûn++(做文)++; tsò-bûn-chieⁿ++(做文章)++; bûn-gōi++(文藝)++. *soldiers*, tshau-piaⁿ++(操兵)++; tshau-liēn++(操練)++. *learn military*, o̍h-bú++(學武)++. *exercise in*, liēn++(練)++; ha̍k-si̍p++(學習)++; o̍h++(學)++.
 
-**exert**, *oneself*, tshut-la̍t++(出力)++; khat-khóu++(刻苦)++; tie̍h-la̍t++(着力)++; tie̍h-khṳ̂n++(着勤)++; ēng-sim++(用心)++. *one's voice*, khui-tōa-siaⁿ++(開大聲)++. *one's influence*, sái-sì++(使四)++.
+**exert**, *oneself*, tshut-la̍t++(出力)++; khat-khóu++(刻苦)++; tie̍h-la̍t++(着力)++; tie̍h-khṳ̂n++(着勤)++; ēng-sim++(用心)++. *one's voice*, khui-tōa-siaⁿ++(開大聲)++. *one's influence*, sái-sì++(使勢)++.
 
 **exhale**, huat-khì++(發氣)++; tshut-khì++(出氣)++. *exhalation*, khì++(氣)++. *from water*, tsúi-khì++(水氣)++. *damp*, sip-khì++(濕氣)++.
 
-**exhaust**, chĩn++(盡)++; khiông++(窮)++; liáu++(了)++; hùi++(費)++; ēng-chĩn++(用盡)++; ēng-liáu++(用了)++; phùa-chĩn++(破盡)++. *strength*, la̍t hùi-chĩn++(力費盡)++. *money*, chîⁿ-sái-uân++(錢使完)++. *food*, bí-niêⁿ chia̍h-liáu++(米娘食了)++. *exhausted (wearied)*, he̍k++(乏)++; phì-kũan++(疲倦)++; khùn++(困)++; khùn-siên++(困單)++.
+**exhaust**, chĩn++(盡)++; khiông++(窮)++; liáu++(了)++; hùi++(費)++; ēng-chĩn++(用盡)++; ēng-liáu++(用了)++; phùa-chĩn++(破盡)++. *strength*, la̍t hùi-chĩn++(力費盡)++. *money*, chîⁿ-sái-uân++(錢使完)++. *food*, bí-niêⁿ chia̍h-liáu++(米糧食了)++. *exhausted (wearied)*, he̍k++(乏)++; phì-kũan++(疲倦)++; khùn++(睏)++; khùn-siên++(睏𤺪)++.
 
 **exhibit**, hién-mêng++(顯明)++; huat-hīn++(發現)++. *goods*, pái-lie̍t++(排列)++; pái-siet++(擺設)++; phou-pâi++(鋪排)++. *in competition*, sài++(賽)++.
 
 **exhilarated**, khin-sang++(輕鬆)++; thiàng-khùai++(暢快)++.
 
-**exhort**, khǹg-kòi++(勸戒)++. *to peace*, khǹg-hûa++(勸化)++. *tracts exhorting to virtue*, khǹg-sì-bûn++(勸四文)++.
+**exhort**, khǹg-kòi++(勸戒)++. *to peace*, khǹg-hûa++(勸化)++. *tracts exhorting to virtue*, khǹg-sì-bûn++(勸世文)++.
 
 **exigency**, kín-kip kâi-sṳ̄++(緊急个事)++; kín-iàu kâi-sṳ̄++(緊要个事)++. *from the exigency of the case*, bô-khó nãi-hô++(無可奈何)++.
 
@@ -4903,9 +4903,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **expiate**, so̍k-tsũe++(贖罪)++.
 
-**expire**, tñg-khùi++(斷氣)++; khùi tñg++(過去)++; nâng kùe++(過去)++. *time*, kàu-khî++(過去)++; ji̍t-khî íⁿ-múaⁿ++(日期已滿)++; kùe-khî++(過去)++.
+**expire**, tñg-khùi++(斷氣)++; khùi tñg++(氣斷)++; nâng kùe++(人過)++. *time*, kàu-khî++(到期)++; ji̍t-khî íⁿ-múaⁿ++(日期已滿)++; kùe-khî++(過期)++.
 
-**explain**, kói++(解)++; kói-mêng++(解明)++; sueh++(說)++; kói-sueh++(解說)++; káng-kói++(講解)++; tàⁿ-phùa++(呾破)++; chí-phùa++(指破)++; káng-pe̍h++(講白)++; káng-lũn++(講論)++. *explanation or commentary*, tsù-kói++(解說)++.
+**explain**, kói++(解)++; kói-mêng++(解明)++; sueh++(說)++; kói-sueh++(解說)++; káng-kói++(講解)++; tàⁿ-phùa++(呾破)++; chí-phùa++(指破)++; káng-pe̍h++(講白)++; káng-lũn++(講論)++. *explanation or commentary*, tsù-kói++(注解)++.
 
 **expletive**, hṳ-jī++(虛字)++.
 
@@ -4921,7 +4921,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **expose**, lòu-tshut++(露出)++. *one's life*, piàⁿ-miāⁿ++(拚命)++; tì-miāⁿ++(致命)++; m̄-kù sèⁿ-miāⁿ++(毋顧性命)++; put-sieh sin-miāⁿ++(不惜身命)++. *criminals' heads*, hiau-siú sī-chèng++(梟手示眾)++. *oneself to the sun*, pha̍k-ji̍t++(曝日)++. *people's motives*, sueh-phùa nâng-sim++(說破人心)++.
 
-**expostulate**, khóu-khǹg++(苦勸)++; la̍t-khǹg++(力囥)++; chhiet-khǹg++(切勸)++; hiâm++(嫌)++; cheh-khǹg++(責勸)++; khǹg-kài++(勸戒)++.
+**expostulate**, khóu-khǹg++(苦勸)++; la̍t-khǹg++(力勸)++; chhiet-khǹg++(切勸)++; hiâm++(嫌)++; cheh-khǹg++(責勸)++; khǹg-kài++(勸戒)++.
 
 **expound**, see EXPLAIN.
 
@@ -4997,7 +4997,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fagot**, *of wood*, khún-tshâ++(捆柴)++; pé-tshâ++(把柴)++; che̍k-pé ta-chhiū-ki++(一把大樹枝)++.
 
-**fagged**, khùn++(睏)++; he̍k++(乏)++; khùn-tõaⁿ++(睏惰)++; khùn-siên++++; siên++++.
+**fagged**, khùn++(睏)++; he̍k++(乏)++; khùn-tõaⁿ++(睏惰)++; khùn-siên++(睏𤺪)++; siên++(𤺪)++.
 
 **fail**, sit++(失)++; sit-sṳ̄++(失事)++; gōu-sṳ̄++(誤事)++. *of promise*, sit-sìn++(失信)++; sit-ieh++(失約)++; chia̍h-ngân++(食言)++. *in business*, tó-tièⁿ++(倒賬)++; hiah-sṳ̄++(歇事)++. *failing or fault*, kùe-sit++(過失)++.
 
@@ -5005,7 +5005,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **faint**, *exhausted*, khùn-tõaⁿ++(睏惰)++. *to*, sit-hûn++(失魂)++; m̄-tsai-nâng++(毋知人)++; m̄-hiáu-nâng++(毋曉人)++; kông-kông++(戇戇)++; ka-tsua̍h-hîn++(膠絀眩)++; hûn put-hù-thói++(魂不復體)++; hûn sùaⁿ++(魂散)++. *faint-hearted*, sàng-sim++(散心)++; sàng-táⁿ++(散膽)++. *colour*, chhién-sek++(淺色)++; tãⁿ-sek++(淡色)++.
 
-**fair**, *beautiful*, múiⁿ++(美)++; ngiá++(雅)++. *woman*, múiⁿ-jîn++(美人)++; múiⁿ-mãuⁿ++(美貌)++; kia-jîn++(佳人)++; ge̍k-jîn++(玉人)++. *complexion*, ne̍k-sek soh-soh-pe̍h++(肉色索索白)++. *weather*, chêⁿ-thiⁿ++(晴天)++; thiⁿ chêⁿ++(天晴)++. *price*, kuaⁿ-chiàⁿ bói-bōi++(官正買賣)++. *wind*, sũn-huang++(順風)++; huang-mīn hó++(風面好)++. *prospect*, hó-kuang-kéng++(好光景)++. *a fair*, hṳ++(墟)++; chhĩ++(市)++. *go to the*, tàu-hṳ++(鬥墟)++; tàu-chhĩ++(鬥市)++.
+**fair**, *beautiful*, múiⁿ++(美)++; ngiá++(雅)++. *woman*, múiⁿ-jîn++(美人)++; múiⁿ-mãuⁿ++(美貌)++; kia-jîn++(佳人)++; ge̍k-jîn++(玉人)++. *complexion*, ne̍k-sek soh-soh-pe̍h++(肉色雪雪白)++. *weather*, chêⁿ-thiⁿ++(晴天)++; thiⁿ chêⁿ++(天晴)++. *price*, kuaⁿ-chiàⁿ bói-bōi++(官正買賣)++. *wind*, sũn-huang++(順風)++; huang-mīn hó++(風面好)++. *prospect*, hó-kuang-kéng++(好光景)++. *a fair*, hṳ++(墟)++; chhĩ++(市)++. *go to the*, tàu-hṳ++(鬥墟)++; tàu-chhĩ++(鬥市)++.
 
 **fairy**, see ELF. *fairy-land*, sien-kéng++(仙境)++.
 
@@ -5013,7 +5013,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **falcon**, eng-chiáu++(鷹鳥)++.
 
-**fall**, pua̍h++(跌)++; lo̍h++(落)++; ka-la̍u++(倒落)++; kau-la̍uh++(交落)++. *fall as house*, tó++(倒)++; tó--lo̍h-lâi++(倒落來)++; pang++(崩)++. *fall in*, tha̍p++(塌)++. *fall down (as person)*, pua̍h--tie̍h++(跋着)++; pua̍h-lo̍h++(跌落)++; tie̍h-pua̍h++(着跋)++. *fall down (as thing)*, ka-la̍u++(倒落)++h. *fall into a snare*, lo̍h-khuan-thàu++(落圈套)++. *fall in with*, ngõ--tie̍h++(遇着)++. *to pieces*, sùaⁿ++(散)++; sùaⁿ-tiāu++(散掉)++. *leaves*, lo̍h-hie̍h++(落葉)++. *as landslip*, suaⁿ pang, tī hām++(地陷)++; pang-hām++(崩陷)++. *rain*, lo̍h-hõu++(落雨)++. *dew*, lo̍h-lōu-tsúi++(落露水)++. *heavy fall of dew*, lōu-tsúi tãng++(露水重)++; lōu-tsúi kãu++(露水厚)++. *empire*, kok bûang++(國亡)++. *flowers*, hue sià++(花謝)++. *at any body's feet*, phak tõ-kha-ẽ++(伏蹠骹下)++; phak-lo̍h-tī++(伏落在)++. *fall upon (as enemy)*, kong-phah++(攻拍)++; kong-khek++(攻擊)++. *fall into one's hands*, pĩ-lia̍h++(被掠)++. *price*, lo̍h-kè++(落價)++; thu̍t-kè++(脫過)++; tie̍t-kè++(跌價)++. *fall away*, lī-khui++(離開)++. *from religion*, pũe-kà++(背教)++. *on one's neck*, phõ-ãm++(抱頷)++; lám-kín-ãm++(攬緊頷)++. *tide*, khó-lâu++(可流)++; lâu khó++(流可)++. *waterfall*, pha̍k-pòu-tsûaⁿ++(曝布泉)++. *(a rapid) waterfall*, thuaⁿ++(灘)++. *falling star*, pue-chheⁿ++(飛星)++; liû-chheⁿ++(流星)++; chheng-sîn kùe-tōu++(星辰過度)++. *falling-sickness*, see EPILEPSY.
+**fall**, pua̍h++(跌)++; lo̍h++(落)++; ka-la̍u++(倒落)++; kau-la̍uh++(交落)++. *fall as house*, tó++(倒)++; tó--lo̍h-lâi++(倒落來)++; pang++(崩)++. *fall in*, tha̍p++(塌)++. *fall down (as person)*, pua̍h--tie̍h++(跋着)++; pua̍h-lo̍h++(跌落)++; tie̍h-pua̍h++(着跋)++. *fall down (as thing)*, ka-la̍u++(倒落)++h. *fall into a snare*, lo̍h-khuan-thàu++(落圈套)++. *fall in with*, ngõ--tie̍h++(遇着)++. *to pieces*, sùaⁿ++(散)++; sùaⁿ-tiāu++(散掉)++. *leaves*, lo̍h-hie̍h++(落葉)++. *as landslip*, suaⁿ pang, tī hām++(地陷)++; pang-hām++(崩陷)++. *rain*, lo̍h-hõu++(落雨)++. *dew*, lo̍h-lōu-tsúi++(落露水)++. *heavy fall of dew*, lōu-tsúi tãng++(露水重)++; lōu-tsúi kãu++(露水厚)++. *empire*, kok bûang++(國亡)++. *flowers*, hue sià++(花謝)++. *at any body's feet*, phak tõ-kha-ẽ++(伏蹠骹下)++; phak-lo̍h-tī++(伏落在)++. *fall upon (as enemy)*, kong-phah++(攻拍)++; kong-khek++(攻擊)++. *fall into one's hands*, pĩ-lia̍h++(被掠)++. *price*, lo̍h-kè++(落價)++; thu̍t-kè++(脫過)++; tie̍t-kè++(跌價)++. *fall away*, lī-khui++(離開)++. *from religion*, pũe-kà++(背教)++. *on one's neck*, phõ-ãm++(抱頷)++; lám-kín-ãm++(攬緊頷)++. *tide*, khó-lâu++(洘流)++; lâu khó++(流洘)++. *waterfall*, pha̍k-pòu-tsûaⁿ++(瀑布泉)++. *(a rapid) waterfall*, thuaⁿ++(灘)++. *falling star*, pue-chheⁿ++(飛星)++; liû-chheⁿ++(流星)++; chheng-sîn kùe-tōu++(星辰過度)++. *falling-sickness*, see EPILEPSY.
 
 **fallible**, õi-tshò++(會錯)++.
 
@@ -5067,11 +5067,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fate**, miāⁿ++(命)++; miāⁿ-ūn++(命運)++; sî-ūn++(時運)++. *murmur at*, chiù-sin mēⁿ-miāⁿ++(咒身罵命)++.
 
-**father**, pẽ++(父)++; lãu-pẽ++(老父)++; pẽ-chhin++(父親)++; a-tia++(阿爹)++; a-pa++(阿爸)++. *your father*, nín tōa--náng++(娘大人)++; lẽng-tsun++(令尊)++. *your late father*, lēng-soiⁿ-tsun++(令先尊)++; lẽng-soiⁿ-ong++(令先翁)++. *my father*, ke-hũ++(家父)++; ke-tsun++(家尊)++. *my late father*, uá soiⁿ-hũ++(我先父)++. *wife's father*, tiẽⁿ-nâng++(丈人)++; nga̍k-pẽ++(岳父)++; tiẽⁿ-nâng-kong++(丈人公)++. *husband's father*, ta-kuaⁿ++(大家)++. *one's own*, seⁿ-pẽ++(生父)++; seⁿ-sín tsṳ-pún++(生身之本)++. *sort of adoptive father*, ngĩ-pẽ++(義父)++; khòi-pẽ++(契父)++. *step-father*, iáng-pẽ++(養父)++; kì-pẽ++(繼父)++; ãu-pẽ++(後父)++. *fatherless*, bô-pẽ kâi-kiáⁿ++(無父个囝)++; kou-tsṳ́++(孤子)++.
+**father**, pẽ++(父)++; lãu-pẽ++(老父)++; pẽ-chhin++(父親)++; a-tia++(阿爹)++; a-pa++(阿爸)++. *your father*, nín tōa--náng++(恁大人)++; lẽng-tsun++(令尊)++. *your late father*, lēng-soiⁿ-tsun++(令先尊)++; lẽng-soiⁿ-ong++(令先翁)++. *my father*, ke-hũ++(家父)++; ke-tsun++(家尊)++. *my late father*, uá soiⁿ-hũ++(我先父)++. *wife's father*, tiẽⁿ-nâng++(丈人)++; nga̍k-pẽ++(岳父)++; tiẽⁿ-nâng-kong++(丈人公)++. *husband's father*, ta-kuaⁿ++(大家)++. *one's own*, seⁿ-pẽ++(生父)++; seⁿ-sín tsṳ-pún++(生身之本)++. *sort of adoptive father*, ngĩ-pẽ++(義父)++; khòi-pẽ++(契父)++. *step-father*, iáng-pẽ++(養父)++; kì-pẽ++(繼父)++; ãu-pẽ++(後父)++. *fatherless*, bô-pẽ kâi-kiáⁿ++(無父个囝)++; kou-tsṳ́++(孤子)++.
 
 **fathom**, *water*, thàm-thóiⁿ tsúi jie̍h-chhim++(探睇水若深)++. *one fathom*, che̍k-chhíⁿ++(一齒)++; che̍k-siâm++(一尋)++. *fathomless*, m̄-hó chhek-ta̍t++(毋好測度)++; chhim-bô-tói++(深無底)++.
 
-**fatigue**, he̍k++(核)++; phî-kũan++(疲慣)++; kha sng++(骹酸)++; siên++(閒)++; khùn-siên++(睏閒)++. *fatigue oneself*, lâu-la̍t++(勞力)++; bûa-lâu++(磨勞)++.
+**fatigue**, he̍k++(乏)++; phî-kũan++(疲倦)++; kha sng++(骹酸)++; siên++(𤺪)++; khùn-siên++(睏𤺪)++. *fatigue oneself*, lâu-la̍t++(勞力)++; bûa-lâu++(磨勞)++.
 
 **fault**, kùe++(過)++; kùe-sit++(過失)++; tshò++(錯)++; m̄-tie̍h++(毋着)++; tshò-gōu++(錯誤)++; put-si++(不是)++. *fault-finding*, hàuⁿ-hiâm nâng m̄-tie̍h++(好嫌人毋着)++; hàuⁿ ngí-lũn-nâng++(好議論人)++; hàuⁿ phoi-tso̍ih-nâng++(好批截人)++. *faultless*, bô-hó-hiâm++(無好嫌)++; bô-hó-hiâm--tshù++(無好嫌厝)++; bô-m̄-tie̍h++(無毋着)++; bô-kùe-sit++(無過失)++; bô-hiâ-tshṳ̂++(無瑕疵)++.
 
@@ -5101,7 +5101,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **feed**, chhī++(飼)++; iáng++(養)++; pun-i-chia̍h++(分伊食)++.
 
-**feel**, *by touch*, mông++(摸)++; thãng++(動)++. *the pulse*, phah-me̍hⁿ++(拍脈)++; hūaⁿ-me̍hⁿ++(捍脈)++; chién-me̍hⁿ++(診脈)++; àn-me̍hⁿ++(按脈)++; thóiⁿ-me̍hⁿ++(睇脈)++; mông-me̍hⁿ++(摸脈)++; tẽⁿ-me̍hⁿ++(捏脈)++; me̍hⁿ-thóiⁿ++(脈睇)++. *pain*, tsai-thiàⁿ++(知痛)++. *afraid*, tsai-kiaⁿ++(知驚)++. *ashamed*, tsai-siáu-lí++(知小理)++. *obliged*, kám-ṳn++(感恩)++; kám-ṳn tài-tek++(感恩戴德)++; tsai-chhêng++(知情)++; tsai i-kâi nâng-chhêng++(知伊个人情)++. *one's way with a stick*, tsang-ki-tshûe tõ-lã-lōu++++. *a feeling man*, ũ-nâng-chhêng++(有人情)++; ũ-tshṳ̂-sim++(有慈心)++. *hurt feelings*, sieⁿ-sim++(傷心)++; sim-thâu thiàⁿ++(心頭痛)++; sim-lãi pãu-pek++(心內暴迫)++.
+**feel**, *by touch*, mông++(摸)++; thãng++(動)++. *the pulse*, phah-me̍hⁿ++(拍脈)++; hūaⁿ-me̍hⁿ++(捍脈)++; chién-me̍hⁿ++(診脈)++; àn-me̍hⁿ++(按脈)++; thóiⁿ-me̍hⁿ++(睇脈)++; mông-me̍hⁿ++(摸脈)++; tẽⁿ-me̍hⁿ++(捏脈)++; me̍hⁿ-thóiⁿ++(脈睇)++. *pain*, tsai-thiàⁿ++(知痛)++. *afraid*, tsai-kiaⁿ++(知驚)++. *ashamed*, tsai-siáu-lí++(知少禮)++. *obliged*, kám-ṳn++(感恩)++; kám-ṳn tài-tek++(感恩戴德)++; tsai-chhêng++(知情)++; tsai i-kâi nâng-chhêng++(知伊个人情)++. *one's way with a stick*, tsang-ki-tshûe tõ-lã-lōu++++. *a feeling man*, ũ-nâng-chhêng++(有人情)++; ũ-tshṳ̂-sim++(有慈心)++. *hurt feelings*, sieⁿ-sim++(傷心)++; sim-thâu thiàⁿ++(心頭痛)++; sim-lãi pãu-pek++(心內暴迫)++.
 
 **feign**, ké-tsò++(假做)++; tsuang-tsò++(裝做)++; tèⁿ-tsò++(詐做)++. *illness*, ké-tsò ũ-pēⁿ++(假做有病)++; tsà-pēⁿ++(詐病)++; tèⁿ-pēⁿ++(詐病)++; ké-pēⁿ++(假病)++. *death*, tèⁿ-sí++(詐死)++. *madness*, tèⁿ-siáu++(詐小)++; tèⁿ-kông++(佯戇)++; tèⁿ-tien++(詡顛)++; tsuang-siáu++(裝小)++; ké-siáu++(假小)++.
 
@@ -5119,7 +5119,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fen**, làm-iêⁿ++(藍洋)++; làm-che̍k++(藍一)++; kẽ-sip++(下濕)++; làm-sip++(藍濕)++.
 
-**fence**, *a*, hn̂g-lî++(園籬)++; tek-lî++(竹籬)++; tek-ûi++(竹圍)++; tek-tsa̍h++(竹柵)++; chhì-nâⁿ++(刺籃)++; tek-nâⁿ++(竹籃)++; chhì-phè++(刺帕)++. *to, with swords*, mõng-kiàm++(舞劍)++; bú-kiàm++(舞劍)++; pí-kiàm++(比劍)++. *fencing-master*, khûn-thâu sai-pẽ++(拳頭司阜)++; khûn-thâu sṳ-hũ++(拳頭司阜)++.
+**fence**, *a*, hn̂g-lî++(園籬)++; tek-lî++(竹籬)++; tek-ûi++(竹圍)++; tek-tsa̍h++(竹柵)++; chhì-nâⁿ++(刺籃)++; tek-nâⁿ++(竹籃)++; chhì-phè++(刺帕)++. *to, with swords*, mõng-kiàm++(舞劍)++; bú-kiàm++(舞劍)++; pí-kiàm++(比劍)++. *fencing-master*, khûn-thâu sai-pẽ++(拳頭司阜)++; khûn-thâu sṳ-hũ++(拳頭師傅)++.
 
 **fend**, *off*, *with the arm striking upwards*, tháⁿ-tiāu++(坦掉)++.
 
@@ -5155,7 +5155,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **feud**, uan-ke++(冤家)++. *to have, with anyone*, kāng-nâng tsò-uan-ke++(共人做冤家)++; ũ-uan-ke++(有冤家)++.
 
-**fever**, sie-jie̍t++(燒熱)++; huat-jie̍t++(發熱)++; huat-sie++(發燒)++; jie̍t-pēⁿ++(熱病)++; jie̍t-chèng++(熱症)++; sieⁿ-huang++(傷風)++; ngia̍k-pēⁿ++(瘧病)++. *(feverish)*, la-jie̍t++(拉熱)++. *fever and ague*, kûaⁿ-jie̍t++(寒熱)++; pak-kûaⁿ++(拍寒)++; huat-sie++(發燒)++; ùiⁿ-chhìn++(畏凊)++; kûaⁿ-pēⁿ++(寒病)++. *fever and ague (slightly feverish)*, kiâm-siam-kûaⁿ++(鹹參寒)++; mahⁿ-mohⁿ mahⁿ-mohⁿ++(茫茫茫茫)++. *quotidian ague*, ji̍t-ji̍t-kûaⁿ++(日日寒)++. *tertian*, làng-ji̍t-kûaⁿ++(漏日寒)++; kòiⁿ-ji̍t-kûaⁿ++(間日寒)++. *quartan*, saⁿ-ji̍t-kûaⁿ++(三日寒)++. *to remove*, thò-jie̍t++(退熱)++. *to abate*, jie̍t thò++(熱退)++.
+**fever**, sie-jie̍t++(燒熱)++; huat-jie̍t++(發熱)++; huat-sie++(發燒)++; jie̍t-pēⁿ++(熱病)++; jie̍t-chèng++(熱症)++; sieⁿ-huang++(傷風)++; ngia̍k-pēⁿ++(瘧病)++. *(feverish)*, la-jie̍t++(拉熱)++. *fever and ague*, kûaⁿ-jie̍t++(寒熱)++; pak-kûaⁿ++(拍寒)++; huat-sie++(發燒)++; ùiⁿ-chhìn++(畏凊)++; kûaⁿ-pēⁿ++(寒病)++. *fever and ague (slightly feverish)*, kiâm-siam-kûaⁿ++(鹹參寒)++; mahⁿ-mohⁿ mahⁿ-mohⁿ++(茫茫茫茫)++. *quotidian ague*, ji̍t-ji̍t-kûaⁿ++(日日寒)++. *tertian*, làng-ji̍t-kûaⁿ++(零日寒)++; kòiⁿ-ji̍t-kûaⁿ++(間日寒)++. *quartan*, saⁿ-ji̍t-kûaⁿ++(三日寒)++. *to remove*, thò-jie̍t++(退熱)++. *to abate*, jie̍t thò++(熱退)++.
 
 **few**, chié++(少)++; lân-ló++(零些)++; kúi-kâi++(幾個)++; bô-ũa++++; bô-mih-tsōi++(無乜㩼)++; bô-hièⁿ-tsōi++(無向㩼)++; bô-jie̍h-tsōi++(無若㩼)++; bô-ki++(無幾)++. *a few people*, lân-nâng++(零人)++; kúi-nâng++(幾人)++; sù-nâng++(數人)++.
 
@@ -5179,7 +5179,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fierce**, pãu-sèⁿ++(暴性)++; pãu-pek++(暴迫)++; pãu-tshàu++(暴躁)++; méⁿ-lie̍t++(猛烈)++; pãu-lie̍t++(暴烈)++.
 
-**fife**, ti-tâ++(嘀嗒)++; siau++(簫)++; ki-kû++(飢龜)++. *to play*, pûn-ti-tâ++(歕蜘蛛)++.
+**fife**, ti-tâ++(嘀嗒)++; siau++(簫)++; ki-kû++(嘰咕)++. *to play*, pûn-ti-tâ++(歕嘀嗒)++.
 
 **fifty**, ngõu-tsa̍p++(五十)++.
 
@@ -5209,7 +5209,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fins**, hṳ̂-si̍t++(魚翼)++; hṳ̂-chhì++(魚翅)++. *sharks'*, sua-hṳ̂-si̍t++(沙魚翼)++.
 
-**final**, *a particle*, suah-kha hṳ-jī++(煞骹虛字)++. *conclusion, expressed in a word*, tsóng zṳ̂-ngân--tsṳ++(總挐顏書)++; tàu-tí++(鬥抵)++. *finally*, tsong++(終)++; suah-búe++(煞尾)++; kàu-búe++(到尾)++; kiáu-búe++(攪尾)++; pi̍t-kéng++(畢竟)++.
+**final**, *a particle*, suah-kha hṳ-jī++(煞骹虛字)++. *conclusion, expressed in a word*, tsóng zṳ̂-ngân--tsṳ++(總挐顏書)++; tàu-tí++(鬥抵)++. *finally*, tsong++(終)++; suah-búe++(煞尾)++; kàu-búe++(到尾)++; kiáu-búe++(繳尾)++; pi̍t-kéng++(畢竟)++.
 
 **find**, *find by search*, tshūe--tie̍h++(覓着)++; chhîm--tie̍h++(尋着)++; chhê--tie̍h++(查着)++. *find by search (in a book)*, chhê-tit-tshut++(查得出)++. *find by search  (in a book or mixed mass)*, púe--tie̍h++(撥着)++. *meet with*, ngõ--tie̍h++(遇着)++; tú--tie̍h++(睹着)++; hông--tie̍h++(逢着)++. *to find anything by chance*, khieh--tie̍h++(挈着)++; to̍h-tie̍h++(掇着)++.
 
@@ -5301,7 +5301,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **flesh**, ne̍k++(肉)++; bah++(肉)++. *fleshy*, ũ-ne̍k++(有肉)++; pûi++(肥)++. *colour*, chhiah-se̍k++(赤色)++. *proud*, ṳ̀-ne̍k++(淤肉)++. *putrid*, àu-ne̍k++++; hu-ne̍k++(腐肉)++. *the flesh(in moral sense)*, sṳ-io̍k++(私慾)++; ne̍k-io̍k++(肉慾)++.
 
-**flexible**, nńg++(軟)++; kōi-uan++(易彎)++; hó-á-uan++(好拗彎)++; hó-ut-uan++(好斡彎)++; hó-tshâu-uan++(好巢彎)++; hó-khut-uan++(好屈彎)++.
+**flexible**, nńg++(軟)++; kōi-uan++(易彎)++; hó-á-uan++(好拗彎)++; hó-ut-uan++(好斡彎)++; hó-tshâu-uan++(好移彎)++; hó-khut-uan++(好屈彎)++.
 
 **flight**, *of an army*, pāi-tsáu++(敗走)++. *of steps*, che̍k-tieⁿ-thui++(一張梯)++. *of arrows*, chìⁿ lũan-siā++(箭亂射)++. *flighty*, sim bô-tiāⁿ-tsú++(心無定主)++; sim-sèⁿ phû-tshàu++(心性浮躁)++.
 
@@ -5337,7 +5337,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **flout**, ki-chhiè++(譏笑)++; ki-chhiáu++(譏嘲)++; chhiáu-chhiè++(嘲笑)++.
 
-**flow**, lâu++(流)++. *ebb and*, lâu khó-tĩⁿ++(流洘漲)++. *around*, chiu-liû++(周流)++. *over-flow*, lâu--tshut++(流出)++; iah--tshut++(溢出)++; múaⁿ--tshut++(滿出)++; e̍k--tshut++(液出)++. *till dry*, lâu-kàu-ta++(流到焦)++.
+**flow**, lâu++(流)++. *ebb and*, lâu khó-tĩⁿ++(流洘漲)++. *around*, chiu-liû++(周流)++. *over-flow*, lâu--tshut++(流出)++; iah--tshut++(溢出)++; múaⁿ--tshut++(滿出)++; e̍k--tshut++(液出)++. *till dry*, lâu-kàu-ta++(流到灱)++.
 
 **flower**, hue++(花)++. *to*, khui-hue++(開花)++. *bush*, che̍k-tsâng-hue++(一叢花)++. *one sprig*, che̍k-ki-hue++(一枝花)++. *a bouquet of*, che̍k-pa̍k-hue++(一縛花)++; che̍k-pé-hue++(一把花)++. *bud*, phah-lúi++(拍蕾)++. *half-blown*, hue hâm-hâm++(花含含)++; hue-pùaⁿ-khui++(花半開)++. *full-blown*, khui-khṳ̀-phàu++(開去砲)++. *fade*, hue sià++(花謝)++. *quite faded and done*, tshâng++(藏)++. *flower-vase*, hue-pân++(花瓶)++; hue-kan++(花缸)++; chéⁿ-kan++(井缸)++. *flower-pot*, hue-puah++(花缽)++; hue-phûn++(花盆)++. *flower-garden*, hue-hn̂g++(花園)++. *flowered cloth*, hue-pòu++(花布)++. *work with needle*, see EMBROIDER.
 
@@ -5373,7 +5373,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **foliage**, chhiū-hie̍h++(樹葉)++. *dense*, chhiū-hie̍h mõng-sẽng++(樹葉茂盛)++; ba̍t-tsa̍t++(密實)++; tsa̍t-tsa̍t++(實實)++; ap-ap++++; im-im++(蔭蔭)++.
 
-**follow**, tshông++(從)++; tùe++(綴)++; kṳn-sûi++(跟隨)++. *as successor*, chiap++(接)++; chih++(接)++. *one's example*, o̍h-iēⁿ++(學樣)++; tùe-iēⁿ++(綴樣)++; chiè-iēⁿ++(照樣)++; hāu-o̍h++(效學)++. *in one's steps*, tùe i kâi-kha-pōu++(綴伊个骹步)++. *one's advice*, thiaⁿ nâng khn̍g-kòi++(聽人勸計)++; thiaⁿ-nâng-tàⁿ++(聽人呾)++. *one's own inclination*, jĩm-ì++(任意)++; jĩm ka-kī kâi-ì++(任家己个意)++. *customs*, tshông-so̍k++(從俗)++; tshông-sì-so̍k++(從世俗)++. *follower or disciple*, mn̂g-jîn++(門人)++; mn̂g-seng++(門生)++; mn̂g-thû++(門徒)++.
+**follow**, tshông++(從)++; tùe++(綴)++; kṳn-sûi++(跟隨)++. *as successor*, chiap++(接)++; chih++(接)++. *one's example*, o̍h-iēⁿ++(學樣)++; tùe-iēⁿ++(綴樣)++; chiè-iēⁿ++(照樣)++; hāu-o̍h++(效學)++. *in one's steps*, tùe i kâi-kha-pōu++(綴伊个骹步)++. *one's advice*, thiaⁿ nâng khn̍g-kòi++(聽人勸戒)++; thiaⁿ-nâng-tàⁿ++(聽人呾)++. *one's own inclination*, jĩm-ì++(任意)++; jĩm ka-kī kâi-ì++(任家己个意)++. *customs*, tshông-so̍k++(從俗)++; tshông-sì-so̍k++(從世俗)++. *follower or disciple*, mn̂g-jîn++(門人)++; mn̂g-seng++(門生)++; mn̂g-thû++(門徒)++.
 
 **folly**, ngà-sṳ̄++(㦙事)++.
 
@@ -5389,9 +5389,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fop**, bàuⁿ-phâi-chhiâng++++; hàuⁿ-pâi-chhiâng++(好排場)++.
 
-**for**, *in place of*, thòi++(代)++. *sell for ready money*, bōi-hīn-chîⁿ++(賣現錢)++. *on account of*, in-ũi++(因爲)++; ũi-tie̍h++(爲着)++; uân-khî++(完奇)++. *buy it for me*, kāng-uá-bói++(共我買)++; kiau-úa-bói++(嬌我買)++. *this is for you*, chí-kâi sĩ àiⁿ-pun-lṳ́++(只個是愛分汝)++. *repeat correctly word for word*, niām-lâi jī-jī bõi-tshò++(念來字字袂錯)++. *I bought this chair for dollars*, chí-chiah-íⁿ úa bói sì-kâi-ngṳ̂n++(此隻椅我買四個銀)++. *how much will you take for it*, lṳ́ àiⁿ sĩ-mih-kè++(汝愛是乜價)++; lṳ́ àiⁿ jie̍h-tsōi-chîⁿ++(汝愛若㩼錢)++. *set out for the Foo city*, khí-sin àiⁿ-khṳ̀ Hú-siâⁿ++(起身愛去福州)++. *as for*, lũn-ki̍p++(論及)++. *what for*, tsò-nîⁿ++(怎呢)++; sĩ-mih uân-kù++(是乜緣故)++. *for life*, che̍k-sì-nâng++(一世人[訓])++; che̍k-seⁿ++(一生)++. *for the future*, tshông-kim íⁿ-ãu++(從今以後)++; tsṳ̃-tshṳ́ íⁿ-ãu++(自此以後)++. *for ever*, ióng-ién++(永遠)++; ióng-kú++(永久)++.
+**for**, *in place of*, thòi++(代)++. *sell for ready money*, bōi-hīn-chîⁿ++(賣現錢)++. *on account of*, in-ũi++(因爲)++; ũi-tie̍h++(爲着)++; uân-khî++(緣其)++. *buy it for me*, kāng-uá-bói++(共我買)++; kiau-úa-bói++(邀我買)++. *this is for you*, chí-kâi sĩ àiⁿ-pun-lṳ́++(此個是愛分汝)++. *repeat correctly word for word*, niām-lâi jī-jī bõi-tshò++(念來字字袂錯)++. *I bought this chair for dollars*, chí-chiah-íⁿ úa bói sì-kâi-ngṳ̂n++(此隻椅我買四個銀)++. *how much will you take for it*, lṳ́ àiⁿ sĩ-mih-kè++(汝愛是乜價)++; lṳ́ àiⁿ jie̍h-tsōi-chîⁿ++(汝愛若㩼錢)++. *set out for the Foo city*, khí-sin àiⁿ-khṳ̀ Hú-siâⁿ++(起身愛去府城)++. *as for*, lũn-ki̍p++(論及)++. *what for*, tsò-nîⁿ++(怎呢)++; sĩ-mih uân-kù++(是乜緣故)++. *for life*, che̍k-sì-nâng++(一世人[訓])++; che̍k-seⁿ++(一生)++. *for the future*, tshông-kim íⁿ-ãu++(從今以後)++; tsṳ̃-tshṳ́ íⁿ-ãu++(自此以後)++. *for ever*, ióng-ién++(永遠)++; ióng-kú++(永久)++.
 
-**forage**, niêⁿ-tsháu++(糧草)++. *to*, chiũ-tī tshú-niêⁿ++(就地取娘)++. *plunder*, khiâng-to̍h++(強奪)++.
+**forage**, niêⁿ-tsháu++(糧草)++. *to*, chiũ-tī tshú-niêⁿ++(就地取糧)++. *plunder*, khiâng-to̍h++(強奪)++.
 
 **forbear**, jím-nãiⁿ++(忍耐)++; lún++(忍)++; jím++(忍)++; jím-khì++(忍氣)++; lún-khì++(忍氣)++; khuan++(寬)++; khuan-iông++(寬容)++; iông++(容)++; pàng-khuan++(放寬)++.
 
@@ -5399,7 +5399,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **force**, la̍t++(力)++; sì-la̍t++(勢力)++; khì-la̍t++(氣力)++. *to*, mién-kiáng++(勉強)++; khiâng-pek++(強迫)++; ngẽ-lia̍h++(硬掠)++. *take by*, khiâng-to̍h++(強奪)++; khiâng-chhiéⁿ++(強搶)++; khiâng-thun++(強吞)++. *a woman*, khiâng-kan++(強姦)++. *one's way in through a crowd*, chìⁿ--ji̍p-khṳ́++(擠入去)++; ngẽ-chìⁿ--ji̍p-khṳ́++(硬擠入去)++.
 
-**forceps**, thih-khîⁿ++(鐵鉗)++; thih-kîⁿ++(鐵墘)++. *small*, koih-kiáⁿ++(夾囝)++; kia̍p-kiáⁿ++(夾囝)++.
+**forceps**, thih-khîⁿ++(鐵鉗)++; thih-kîⁿ++(鐵鉗)++. *small*, koih-kiáⁿ++(夾囝)++; kia̍p-kiáⁿ++(夾囝)++.
 
 **ford**, *to*, ẽ-kùe-khoi++(下過溪)++; ẽ-khoi++(下溪)++.
 
@@ -5457,7 +5457,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **forlorn**, kou-to̍k++(孤獨)++; bô hó-uá-pn̄g++(無好我飯)++; bô hó-íⁿ-kõu++(無好椅靠)++; bô-nâng hó-kau-tshap++(無人好交插)++.
 
-**form**, iēⁿ++(樣)++; môⁿ-iēⁿ++(毛樣)++; hêng++(形)++; hêng-siãng++(形像)++; hêng-tsuãng++(形狀)++; hêng-sièⁿ++(形像)++; hêng-mãuⁿ++(形貌)++; hêng-iông++(形容)++; hêng-thói++(形體)++; khuán++(款)++; khuán-sek++(款式)++. *according to*, chiè-iēⁿ++(照樣)++; chiè-thói-sek++(照體色)++. *to form*, tsò++(做)++; tsãu++(造)++; tshàng++(創)++; sêng++(成)++. *a resolution*, li̍p-ì++(立意)++; li̍p-tiāⁿ tsú-ì++(立定主意)++. *seed*, kat-chí++(結指)++; kit-chí++(結指)++. *a friendship*, kat-iú++(結友)++; kau-iú++(交友)++; kat-kau++(結交)++. *a conspiracy*, kat-táng++(結黨)++. *a plot*, siet-kòi-mông++(設計謀)++.
+**form**, iēⁿ++(樣)++; môⁿ-iēⁿ++(毛樣)++; hêng++(形)++; hêng-siãng++(形像)++; hêng-tsuãng++(形狀)++; hêng-sièⁿ++(形像)++; hêng-mãuⁿ++(形貌)++; hêng-iông++(形容)++; hêng-thói++(形體)++; khuán++(款)++; khuán-sek++(款式)++. *according to*, chiè-iēⁿ++(照樣)++; chiè-thói-sek++(照體色)++. *to form*, tsò++(做)++; tsãu++(造)++; tshàng++(創)++; sêng++(成)++. *a resolution*, li̍p-ì++(立意)++; li̍p-tiāⁿ tsú-ì++(立定主意)++. *seed*, kat-chí++(結子)++; kit-chí++(結子)++. *a friendship*, kat-iú++(結友)++; kau-iú++(交友)++; kat-kau++(結交)++. *a conspiracy*, kat-táng++(結黨)++. *a plot*, siet-kòi-mông++(設計謀)++.
 
 **formality**, lói++(禮)++; lói-siàu++(禮數)++; lói-bûn++(禮文)++. *empty*, hṳ-lói++(虛禮)++; hṳ-bûn++(虛文)++; chip-gūa-lói++(執外禮)++.
 
@@ -5531,7 +5531,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fraternal**, zû-hiaⁿ zû-tĩ++(如兄如弟)++. *a fraternity*, hũe++(會)++. *fraternise*, pài-hũe++(拜會)++; kau-tshap++(交插)++.
 
-**fraud**, sai-chiàm++(使占)++; khi-phièn++(欺騙)++; kuang-phièn++(光騙)++; tsà++(詐)++; ngũi++(偽)++; ké++(假)++.
+**fraud**, sai-chiàm++(使占)++; khi-phièn++(欺騙)++; kuang-phièn++(誆騙)++; tsà++(詐)++; ngũi++(偽)++; ké++(假)++.
 
 **fray**, tshàu-nãuⁿ++(吵鬧)++; sie-jiáng++(相惹)++; jiáng-lāu-jie̍t++(惹鬧熱)++.
 
@@ -5549,7 +5549,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **frequently**, ke-ke-hãng++(加加項)++; tsōi-tsōi-tshṳ̀++(㩼㩼次)++; ē-ē++(下下)++; lú-lú++(屢屢)++; lú-tshṳ̀++(屢次)++; siêⁿ-siêⁿ++(常常)++; sî-sî++(時時)++; kú-kú++(久久)++; chhiâng-chhiâng++(常常)++; múeⁿ-múeⁿ++(每每)++.
 
-**fresh**, *water*, chiáⁿ-tsúi++(整水)++. *fish*, chhiⁿ-hṳ̂++(鮮魚)++; hṳ̂-chhiⁿ++(魚鮮)++. *new*, sin++(新)++. *lively*, ũ-sin-khì++(有新氣)++. *taste*, chhiⁿ-bī++(鮮味)++; chiáⁿ-bī++(整味)++.
+**fresh**, *water*, chiáⁿ-tsúi++(䭕水)++. *fish*, chhiⁿ-hṳ̂++(鮮魚)++; hṳ̂-chhiⁿ++(魚鮮)++. *new*, sin++(新)++. *lively*, ũ-sin-khì++(有新氣)++. *taste*, chhiⁿ-bī++(鮮味)++; chiáⁿ-bī++(䭕味)++.
 
 **fret**, *fret (intransitive)*, iu-ut++(憂鬱)++; tsṳ̃-thàng++(自歎)++; tshoih++(粭)++; pui-tshoih++(悲粭)++; uàn-tshoih++(怨嘈)++. *fret (child) (intransitive)*, e̍hⁿ-e̍hⁿ-kiè++(軛軛叫)++. *fret (transitive)*, kek-sèⁿ++(激性)++; kek-khì++(激氣)++.
 
@@ -5629,9 +5629,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **funnel**, *for pouring water*, khuah-tshùi-làu++(闊喙漏)++. *for liquor*, chiú-hái++(酒海)++. *of steamer*, in-tâng++(煙筒)++; húe-hun++(火薰)++; tâng++(筒)++.
 
-**fur**, môⁿ++(毛)++. *furs*, phûe++(皮)++. *coat*, phûe-niûⁿ++(皮茸)++. *long fur coat*, phûe-tn̂g-niûⁿ++(皮長茸)++.
+**fur**, môⁿ++(毛)++. *furs*, phûe++(皮)++. *coat*, phûe-niûⁿ++(皮裘)++. *long fur coat*, phûe-tn̂g-niûⁿ++(皮長裘)++.
 
-**furbish**, bûa-kng++(磨光)++. *as sword or knife*, bûa-pe̍h++(磨白)++; bûa-kàu soh-soh-pe̍h++(磨到索索白)++.
+**furbish**, bûa-kng++(磨光)++. *as sword or knife*, bûa-pe̍h++(磨白)++; bûa-kàu soh-soh-pe̍h++(磨到雪雪白)++.
 
 **furious**, hiông-méⁿ++(雄猛)++; khì kàu kuáng-kuáng-kiè++(氣到廣廣叫)++; khì kàu thuh-thuh-kiè++(氣到腯腯叫)++; khuâng-pãu++(狂暴)++.
 
@@ -5677,7 +5677,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **gall**, táⁿ++(膽)++. *of bear*, hîm-táⁿ++(熊膽)++. *nuts*, ngõu-pũe-chí++(五倍指)++.
 
-**gallery**, lâu-thâi++(樓台)++.
+**gallery**, lâu-thâi++(樓臺)++.
 
 **gallipot**, kài-au++(蓋甌)++; khàm-au++(勘甌)++; ie̍h-au++(藥甌)++; kài-puah++(蓋缽)++. *(large)*, ie̍h-puah++(藥鉢)++.
 
@@ -5875,7 +5875,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **gnaw**, kã++(鉸)++; khòi++(喫)++.
 
-**go**, khṳ̀++(去)++; kiâⁿ++(行)++; tsáu++(走)++; uáng++(往)++. *down*, kàng++(槓)++; lo̍h++(落)++; hiã++(下)++. *up*, chiẽⁿ++(上)++; seng++(生)++; teng++(盯)++; khí++(起)++. *abroad*, tshut-khṳ̀-gūa++(出去外)++; tshut-gūa++(出外)++; kùe-kok++(過國)++; kùe-huan++(過番)++; kùe-iêⁿ++(過洋)++. *out*, khṳ̀-kháu++(去口)++; tshut-khṳ̀-gūa++(出去外)++; tshut-mn̂g++(出門)++; tshut-koi++(出街)++. *out (as fire)*, húe kùe--khṳ̀++(火過去)++. *home*, hûe-ke++(回家)++; tńg-khṳ̀-tshṳ̀++(轉去次)++; kui-ke++(歸家)++. *into the house*, khṳ̀-lãi++(去內)++. *to*, khṳ̀-kàu++(去到)++. *about*, uáng-lâi++(往來)++; chiẽⁿ-lo̍h++(上落)++; kiâⁿ-lâi kiâⁿ-khṳ̀++(行來行去)++. *about (for amusement)*, thit-thô++(佚佗)++; múaⁿ-kò-la̍h++(滿塊臘)++. *about (as ship)*, kùe-phâng++(過帆)++. *and bring*, khṳ̀-khie̍h--lâi++(去挈來)++. *to stool*, kiâⁿ-tãng++(行桶)++; chiẽⁿ-chhè++(上廁)++; kiâⁿ-tãi-piẽn++(行大便)++; tshut-kiong++(出宮)++. *to bed*, khṳ̀-gu̍t++(去夗)++. *to market*, chiẽⁿ-chhĩ++(上市)++; tshut-chhĩ++(出市)++; khṳ̀-chhĩ++(去市)++; tàu-hṳ++(鬥魚)++. *on foot*, pōu-kiâⁿ++(步行)++. *on foot (of a person who would ordinarily have a conveyance)*, pōu-lién++(步臉)++. *by water*, tah-tsûn--khṳ̀++(搭船去)++. *by land*, le̍k-lōu--khṳ̀++(勒路去)++; tùi-lōu--khṳ̀++(對路去)++. *on board*, lo̍h-tsûn++(落船)++. *on shore*, chiẽⁿ-suaⁿ++(上山)++; khí-tsúi++(起水)++; chiẽⁿ-khàm++(上勘)++. *upstairs*, khṳ̀-lâu-téng++(去樓頂)++; chiẽⁿ-lâu++(上樓)++. *to a feast*, hù-sia̍h++(赴席)++; khṳ̀-chia̍h-toh++(去食桌)++; èng-sia̍h++(應席)++. *to examination*, hù-kháu++(副口)++; èng-kháu++(應口)++; hù-chhì++(副試)++; èng-chhì++(應試)++. *to heaven*, chiẽⁿ-thiⁿ++(上天)++. *quickly*, kiâⁿ-méⁿ++(行猛)++; tsáu-méⁿ++(走猛)++; kúaⁿ-méⁿ++(趕猛)++. *to visit*, khṳ̀-sie-sûn++(去相巡)++; húang-chhin húang-iú++(訪親訪友)++; khṳ̀-pài-hāu++(去拜候)++. *let him*, iû-i-khṳ̀++(由伊去)++; thèng-i-khṳ̀++(亂伊去)++; kui-i-khṳ̀++(歸伊去)++; sûi-i-khṳ̀++(隨伊去)++. *where are you going*, lṳ́ àiⁿ-khṳ̀ tî-kò++(汝愛去底塊)++. *where has he gone*, i khṳ̀-tî-kò++(伊去底塊)++. *do not know where to go (or, where he has gone)*, m̄-tsai-tùi-tî-kò khṳ̀++(毋知對底塊去)++. *with the tide*, kúaⁿ-lâu++(趕流)++; sũn-lâu++(順流)++. *all through or over*, kiâⁿ-kàu-thàu++(行到透)++. *together*, tsò-pû-kiâⁿ++(做伙行)++; tsò-pû-khṳ̀++(做伙去)++; tâng-kiâⁿ++(同行)++. *before*, soiⁿ-kiâⁿ++(先行)++; thâu-tsôiⁿ-kiâⁿ++(頭前行)++; kiâⁿ tõ-thâu-tsôiⁿ++(行在頭前)++. *behind*, kiâⁿ ka-chiah-ãu++(行家跡後)++. *go to court*, chiẽⁿ-chhiâu++(上朝)++. *to law*, phah-kuaⁿ-si++(拍官司)++. *halves*, sie-kāng++(相共)++; pêⁿ-pun++(平分)++. *and come*, lâi-lâi uáng-uáng++(來來往往)++. *and return*, lâi-hûe++(來回)++.
+**go**, khṳ̀++(去)++; kiâⁿ++(行)++; tsáu++(走)++; uáng++(往)++. *down*, kàng++(槓)++; lo̍h++(落)++; hiã++(下)++. *up*, chiẽⁿ++(上)++; seng++(生)++; teng++(盯)++; khí++(起)++. *abroad*, tshut-khṳ̀-gūa++(出去外)++; tshut-gūa++(出外)++; kùe-kok++(過國)++; kùe-huan++(過番)++; kùe-iêⁿ++(過洋)++. *out*, khṳ̀-kháu++(去口)++; tshut-khṳ̀-gūa++(出去外)++; tshut-mn̂g++(出門)++; tshut-koi++(出街)++. *out (as fire)*, húe kùe--khṳ̀++(火過去)++. *home*, hûe-ke++(回家)++; tńg-khṳ̀-tshṳ̀++(轉去次)++; kui-ke++(歸家)++. *into the house*, khṳ̀-lãi++(去內)++. *to*, khṳ̀-kàu++(去到)++. *about*, uáng-lâi++(往來)++; chiẽⁿ-lo̍h++(上落)++; kiâⁿ-lâi kiâⁿ-khṳ̀++(行來行去)++. *about (for amusement)*, thit-thô++(佚佗)++; múaⁿ-kò-la̍h++(滿塊臘)++. *about (as ship)*, kùe-phâng++(過帆)++. *and bring*, khṳ̀-khie̍h--lâi++(去挈來)++. *to stool*, kiâⁿ-tãng++(行動)++; chiẽⁿ-chhè++(上廁)++; kiâⁿ-tãi-piẽn++(行大便)++; tshut-kiong++(出恭)++. *to bed*, khṳ̀-gu̍t++(去夗)++. *to market*, chiẽⁿ-chhĩ++(上市)++; tshut-chhĩ++(出市)++; khṳ̀-chhĩ++(去市)++; tàu-hṳ++(鬥魚)++. *on foot*, pōu-kiâⁿ++(步行)++. *on foot (of a person who would ordinarily have a conveyance)*, pōu-lién++(步臉)++. *by water*, tah-tsûn--khṳ̀++(搭船去)++. *by land*, le̍k-lōu--khṳ̀++(勒路去)++; tùi-lōu--khṳ̀++(對路去)++. *on board*, lo̍h-tsûn++(落船)++. *on shore*, chiẽⁿ-suaⁿ++(上山)++; khí-tsúi++(起水)++; chiẽⁿ-khàm++(上勘)++. *upstairs*, khṳ̀-lâu-téng++(去樓頂)++; chiẽⁿ-lâu++(上樓)++. *to a feast*, hù-sia̍h++(赴席)++; khṳ̀-chia̍h-toh++(去食桌)++; èng-sia̍h++(應席)++. *to examination*, hù-kháu++(副口)++; èng-kháu++(應口)++; hù-chhì++(副試)++; èng-chhì++(應試)++. *to heaven*, chiẽⁿ-thiⁿ++(上天)++. *quickly*, kiâⁿ-méⁿ++(行猛)++; tsáu-méⁿ++(走猛)++; kúaⁿ-méⁿ++(趕猛)++. *to visit*, khṳ̀-sie-sûn++(去相巡)++; húang-chhin húang-iú++(訪親訪友)++; khṳ̀-pài-hāu++(去拜候)++. *let him*, iû-i-khṳ̀++(由伊去)++; thèng-i-khṳ̀++(亂伊去)++; kui-i-khṳ̀++(歸伊去)++; sûi-i-khṳ̀++(隨伊去)++. *where are you going*, lṳ́ àiⁿ-khṳ̀ tî-kò++(汝愛去底塊)++. *where has he gone*, i khṳ̀-tî-kò++(伊去底塊)++. *do not know where to go (or, where he has gone)*, m̄-tsai-tùi-tî-kò khṳ̀++(毋知對底塊去)++. *with the tide*, kúaⁿ-lâu++(趕流)++; sũn-lâu++(順流)++. *all through or over*, kiâⁿ-kàu-thàu++(行到透)++. *together*, tsò-pû-kiâⁿ++(做伙行)++; tsò-pû-khṳ̀++(做伙去)++; tâng-kiâⁿ++(同行)++. *before*, soiⁿ-kiâⁿ++(先行)++; thâu-tsôiⁿ-kiâⁿ++(頭前行)++; kiâⁿ tõ-thâu-tsôiⁿ++(行在頭前)++. *behind*, kiâⁿ ka-chiah-ãu++(行家跡後)++. *go to court*, chiẽⁿ-chhiâu++(上朝)++. *to law*, phah-kuaⁿ-si++(拍官司)++. *halves*, sie-kāng++(相共)++; pêⁿ-pun++(平分)++. *and come*, lâi-lâi uáng-uáng++(來來往往)++. *and return*, lâi-hûe++(來回)++.
 
 **goat**, suaⁿ-iêⁿ++(山羊)++.
 
@@ -5957,7 +5957,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **grasp**, līm-kín++(臨緊)++; khie̍h-kín++(挈緊)++; lia̍h-kín++(掠緊)++; tẽⁿ-kín++(捏緊)++; phõ-kín++(抱緊)++. *a sword, in the scabbard, to be ready*, àn-kiàm siang-huâng++(按劍相防)++. *the throat (with one hand)*, tẽⁿ-âu++(捏喉)++. *the throat (with both hands)*, liū-âu++(鎦喉)++.
 
-**grass**, tsháu++(草)++. *grass-plot*, tsháu-pou++(草埔)++. *green grass*, chheⁿ-tsháu++(青草)++. *dry*, ta-tsháu++(焦草)++. *to cut*, kuah-tsháu++(割草)++. *to burn*, hiâⁿ-tsháu++(燃草)++. *to burn on the hills*, pàng-húe sie-suaⁿ++(放火燒山)++. *to pull*, mán-tsháu++(挽草)++. *bundle of*, che̍k-pé-tsháu++(一把草)++. *tie up in small bundles for the fire*, tîⁿ-oiⁿ++(纏閒)++; tîⁿ-tsháu-oiⁿ++(纏草閒)++.
+**grass**, tsháu++(草)++. *grass-plot*, tsháu-pou++(草埔)++. *green grass*, chheⁿ-tsháu++(青草)++. *dry*, ta-tsháu++(灱草)++. *to cut*, kuah-tsháu++(割草)++. *to burn*, hiâⁿ-tsháu++(燃草)++. *to burn on the hills*, pàng-húe sie-suaⁿ++(放火燒山)++. *to pull*, mán-tsháu++(挽草)++. *bundle of*, che̍k-pé-tsháu++(一把草)++. *tie up in small bundles for the fire*, tîⁿ-oiⁿ++(纏挨)++; tîⁿ-tsháu-oiⁿ++(纏草挨)++.
 
 **grasshopper**, tsháu-mêⁿ++(草蜢)++.
 
@@ -6009,7 +6009,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **grind**, bûa++(磨)++. *grind a knife*, bûa-to++(磨刀)++. *flour*, oi-mīⁿ++(挨麵)++. *in a mortar*, lûi-iùⁿ++(雷研)++. *with wheel in trough*, ngói hu-hu++(研乎乎)++. *grind-stone*, bûa-chie̍h++(磨石)++.
 
-**grip**, khîⁿ++(鉗)++; khîm++(擒)++; lia̍h++(掠)++; tẽⁿ++(捏)++; tẽⁿ-kín++(捏緊)++.
+**grip**, khîⁿ++(擒)++; khîm++(擒)++; lia̍h++(掠)++; tẽⁿ++(捏)++; tẽⁿ-kín++(捏緊)++.
 
 **gripes**, tóu thiàⁿ++(肚痛)++; tn̂g ká-thiàⁿ++(腸絞痛)++; tn̂g mán-thiàⁿ++(腸挽痛)++; tn̂g thiu-thiàⁿ++(腸抽痛)++; tóu kek-thiàⁿ++(肚激痛)++.
 
@@ -6061,7 +6061,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **guest**, kheh++(客)++; nâng-kheh++(人[訓]客)++; pín-kheh++(賓客)++. *a Hakka, not*, kheh-nâng++(客人[訓])++. *to assist the host in entertaining guests*, pûe-kheh++(陪客)++; phũaⁿ-kheh++(伴客)++.
 
-**guide**, tshūa-lōu++(𤆬路)++; kiau-lōu++(嬌路)++; ín-tshūa++(引𤆬)++.
+**guide**, tshūa-lōu++(𤆬路)++; kiau-lōu++(邀路)++; ín-tshūa++(引𤆬)++.
 
 **guild**, hũe-kúan++(會管)++.
 
@@ -6251,7 +6251,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hawker**, sié-seng-lí++(小生理)++; koiⁿ-thiau kâi seng-lí++(肩挑个生理)++; koíⁿ-thiau lo̍h-hāng++(肩挑落巷)++; iê-kóu++(搖鼓)++.
 
-**hay**, pha̍k-ta-tsháu++(曝焦草)++. *haystack*, tsháu-khṳ̂n++(草芹)++.
+**hay**, pha̍k-ta-tsháu++(曝灱草)++. *haystack*, tsháu-khṳ̂n++(草芹)++.
 
 **hazard**, thèng-tsãu-hùe++(聽造化)++; phòng-tsãu-hùe++(碰造悔)++; kiâⁿ-hiám hiau-hẽng++(驚險僥倖)++; hiau-hẽng++(僥倖)++. *hazardous*, huang-hiám++(風險)++; ngûi-hiám++(危險)++; m̄-ún-tǹg++(毋穩當)++; m̄-thó-tàng++(毋妥當)++.
 
@@ -6367,7 +6367,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hinder**, tsó++(俎)++; tsó-chí++(阻止)++; tsó-keh++(阻隔)++; tsó-khiē++(阻起)++; khiē-tsũ++(起住)++; tam-koh++(耽擱)++; at-chì++(遏制)++; iap-chì++(壓制)++. *hindrance*, huâng-gāi++(妨礙)++; thua-thūi++(拖墜)++. *what is to*, ũ-sĩ-mih huâng-gāi++(有是乜妨礙)++. *nothing to*, bô-huâng++(無妨)++; bô-huâng bô-gāi++(無妨無礙)++.
 
-**hinder**, *part*, búe-ãu++(尾後)++; pùe-ãu++(背後)++. *hindermost*, ãu++(後)++; lo̍h-ãu++(落後)++; suah-búe++(煞尾)++; kiáu-búe++(蹺尾)++.
+**hinder**, *part*, búe-ãu++(尾後)++; pùe-ãu++(背後)++. *hindermost*, ãu++(後)++; lo̍h-ãu++(落後)++; suah-búe++(煞尾)++; kiáu-búe++(繳尾)++.
 
 **hinge**, mn̂g-khũ++(門曲)++. *(foreign)*, ia̍p-tia̍p++(燄鐵)++.
 
@@ -6397,7 +6397,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hoarse**, bô-siaⁿ++(無聲)++; âu-lêng bô-siaⁿ++(喉嚨無聲)++; sau-siaⁿ++(騷聲)++; siaⁿ m̄-liãng++(聲毋亮)++.
 
-**hoary**, *head*, thâu-môⁿ soh-soh-pe̍h++(頭毛索索白)++.
+**hoary**, *head*, thâu-môⁿ soh-soh-pe̍h++(頭毛雪雪白)++.
 
 **hobble**, kiâⁿ-lōu chhĩm-a-chhĩm++(行路深阿深)++; kũai-a-kũai++(跛阿跛)++.
 
@@ -6593,7 +6593,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **idol**, ngóu-sièⁿ++(偶像)++; phû-sat++(菩薩)++; lãu-iâ++(老爺)++; tshâ-sîn++(柴神)++. *idolatry*, pài-tshâ-sîn++(拜柴神)++; pài-ngóu-sièⁿ++(拜偶像)++.
 
-**if**, jia̍k++(若)++; zû-jia̍k++(如同)++; tháng-jia̍k++(當若)++; kiá-sái++(假使)++; kiá-lẽng++(假令)++; kóu-sek++(苟式)++; phah-tsò++(拍做)++; kiá-zû++(假若)++; zû-ho̍k++(如同)++; khó-pí++(可比)++; phì-zû++(譬若)++; pí-huang++(比方)++. *if you are going*, lṳ́ jia̍k-sĩ àiⁿ-khṳ̀++(汝若是欲去)++. *but if you won't go*, nãⁿ-sĩ lṳ́ m̃-khṳ̀++(若是汝毋去)++. *if not*, zû-m̄-sĩ++(如毋是)++; iā-sĩ-bô++(也是無)++. *as if(comparison)*, phì-zû; pí-zû++(比如)++; hāi--kùe++(害過)++; tǹg--kùe++(當過)++; chhin-chhiẽⁿ++(親像)++; khó-pí. *even if*, tsòng++(縱)++; tsòng-jiên++(縱然)++; tsòng-sái++(縱使)++.
+**if**, jia̍k++(若)++; zû-jia̍k++(如同)++; tháng-jia̍k++(當若)++; kiá-sái++(假使)++; kiá-lẽng++(假令)++; kóu-sek++(苟式)++; phah-tsò++(拍做)++; kiá-zû++(假如)++; zû-ho̍k++(如同)++; khó-pí++(可比)++; phì-zû++(譬若)++; pí-huang++(比方)++. *if you are going*, lṳ́ jia̍k-sĩ àiⁿ-khṳ̀++(汝若是欲去)++. *but if you won't go*, nãⁿ-sĩ lṳ́ m̃-khṳ̀++(若是汝毋去)++. *if not*, zû-m̄-sĩ++(如毋是)++; iā-sĩ-bô++(也是無)++. *as if(comparison)*, phì-zû++(譬如)++; pí-zû++(比如)++; hāi--kùe++(害過)++; tǹg--kùe++(當過)++; chhin-chhiẽⁿ++(親像)++; khó-pí++(可比)++. *even if*, tsòng++(縱)++; tsòng-jiên++(縱然)++; tsòng-sái++(縱使)++.
 
 **ignis fatuus**, kúi-húe++(鬼火)++.
 
@@ -6731,7 +6731,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **implicit**, *obedience*, lím-lím-tsun++(凜凜尊)++; tsun-sûn++(尊純)++; zûi-mẽng-sĩ-thèng++(惟命是聽)++.
 
-**implore**, khṳ́n-khiû++(懇求)++; koh-lô++(擱牢)++.
+**implore**, khṳ́n-khiû++(懇求)++; koh-lô++(閣羅)++.
 
 **impolite**, m̄-hiáu-lí++(毋曉禮)++; m̄-hiáu chhêng-lí++(毋曉情理)++; chhêng-lí m̄-thong++(情理毋通)++; bô-lói++(無禮)++; sit-lói++(失禮)++; m̄-ha̍h-ngî++(毋合宜)++.
 
@@ -6779,7 +6779,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **inaccessible**, bõi-tit-kàu++(袂得到)++.
 
-**inaccurate**, ũ-tshò++(有錯)++; ũ-m̄-tùi++(有毋對)++; ũ-tsha-tshak++(有差錯)++; ũ-tsáu-tsua̍h++(有走斜)++; ũ-tshò-niũⁿ++(有錯娘)++; õi-m̄-tie̍h++(會毋着)++; õi-tāⁿ++(會重)++.
+**inaccurate**, ũ-tshò++(有錯)++; ũ-m̄-tùi++(有毋對)++; ũ-tsha-tshak++(有差錯)++; ũ-tsáu-tsua̍h++(有走絀)++; ũ-tshò-niũⁿ++++; õi-m̄-tie̍h++(會毋着)++; õi-tāⁿ++(會賺)++.
 
 **inactive**, bô-tõng-chhiú++(無動手)++; m̄-tshut-sin++(毋出身)++; ôiⁿ-kṳ++(閒龜)++; ôiⁿ-khiã++(閒行)++; ôiⁿ-tsũ++(閒坐)++.
 
@@ -7081,9 +7081,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **insist**, *upon*, pit-àiⁿ++(硬愛)++; tiāⁿ-tie̍h-àiⁿ++(定着愛)++; ngẽ-hóuⁿ-àiⁿ++(硬虎愛)++.
 
-**insnare**, phièn--nâng ji̍p-ke̍k++(騙人[訓]入局)++; phièn--nâng chiẽⁿ-tāng++(騙人上洞)++; kuang--nâng lo̍h i-kâi khou-thàu++(誆人落伊个箍套)++.
+**insnare**, phièn--nâng ji̍p-ke̍k++(騙人[訓]入局)++; phièn--nâng chiẽⁿ-tāng++(騙人上當)++; kuang--nâng lo̍h i-kâi khou-thàu++(誆人落伊个箍套)++.
 
-**insolent**, kiau-ngãu++(嬌傲)++; bô-lói++(無禮)++; hùang-sṳ̀++(放肆)++. *interruptions*, tsa̍h-thâu tsa̍h-búe++(閘頭閘尾)++; tsa̍h-nâng-ūe++(閘人話)++.
+**insolent**, kiau-ngãu++(驕傲)++; bô-lói++(無禮)++; hùang-sṳ̀++(放肆)++. *interruptions*, tsa̍h-thâu tsa̍h-búe++(閘頭閘尾)++; tsa̍h-nâng-ūe++(閘人話)++.
 
 **insoluble**, bõi-iêⁿ++(袂烊)++; bõi-siau-iêⁿ++(袂消烊)++; bõi-iêⁿ-hùe++(袂烊化)++; bõi-hùe++(袂化)++. *difficulty*, kói-m̄-tshut++(改毋出)++; tháu-m̄-tshut++(透毋出)++; khat-thâu lân-kói++(刻頭零改)++.
 
@@ -7147,7 +7147,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **intent**, tsuan-sim++(專心)++; tsuan-it++(專一)++. *intent on reading a book*, tsuan-tsù tõ-tsṳ++(專注在書)++.
 
-**intention**, ì++(意)++; ì-sṳ̀++(意思)++; siẽⁿ-thâu++(想頭)++. *intentionally*, ũ-ì++(有意)++; kù-ì++(故意)++; li̍p-ì++(立意)++; tsuan-àiⁿ++(專欲)++; tshut-tõ ũ-ì++(出在有義)++. *what is his real intention*, ngûan-pńg-sim sĩ-tsò-nîⁿ++(原本身是做娘)++.
+**intention**, ì++(意)++; ì-sṳ̀++(意思)++; siẽⁿ-thâu++(想頭)++. *intentionally*, ũ-ì++(有意)++; kù-ì++(故意)++; li̍p-ì++(立意)++; tsuan-àiⁿ++(專愛)++; tshut-tõ ũ-ì++(出在有義)++. *what is his real intention*, ngûan-pńg-sim sĩ-tsò-nîⁿ++(原本身是怎呢)++.
 
 **intercalary**, *month*, zūn-gue̍h++(閏月)++.
 
@@ -7205,7 +7205,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **intrepid**, ióng-káⁿ++(勇敢)++; ũ-ióng-khì++(有勇氣)++; ũ-táⁿ-lia̍k++(有膽略)++; ũ-ióng-lia̍k++(有勇略)++; ũ-táⁿ-la̍t++(有膽力)++; káⁿ-sí++(敢死)++.
 
-**intrigue**, khúi-kòi++(軌計)++; tsà-kòi++(詐計)++; mông-ue̍h++(蒙劃)++; kòi-mông++(計謀)++; kan-mông tsà-kòi++(奸蒙詐計)++.
+**intrigue**, khúi-kòi++(詭計)++; tsà-kòi++(詐計)++; mông-ue̍h++(謀劃)++; kòi-mông++(計謀)++; kan-mông tsà-kòi++(奸謀詐計)++.
 
 **introduce**, ín-chìn++(引薦)++; ín-kìⁿ++(引見)++; chìn-kìⁿ++(晉見)++; khan-sêng++(牽成)++; kṳ́-chìn++(舉薦)++. *a subject*, thî-phû++(天浮)++; khui-tshùi++(開喙)++. *introduction to a book*, siáu-ín++(紹引)++. *letter of*, chìn-tsṳ++(薦書)++.
 
@@ -7301,7 +7301,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **jack-fruit**, po-lô-bi̍t++(菠蘿蜜)++.
 
-**jacket**, saⁿ++(衫)++; saⁿ-thâu++(衫頭)++. *one*, che̍k-kiãⁿ-saⁿ++(一件衫)++. *riding*, bé-kùa++(馬褂)++; bé-tún++(馬臀)++. *lined*, koih-niûⁿ++(莢娘)++. *quilted*, mîⁿ-niûⁿ++(棉娘)++.
+**jacket**, saⁿ++(衫)++; saⁿ-thâu++(衫頭)++. *one*, che̍k-kiãⁿ-saⁿ++(一件衫)++. *riding*, bé-kùa++(馬褂)++; bé-tún++(馬盾)++. *lined*, koih-niûⁿ++(夾裘)++. *quilted*, mîⁿ-niûⁿ++(棉裘)++.
 
 **jade**, ge̍k++(玉)++.
 
@@ -7439,7 +7439,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **kitten**, ngiau-kiáⁿ++(貓囝)++.
 
-**knave**, láu-kiáⁿ++(老囝)++; kuang-kùn++(誆棍)++; kùn-thû++(棍徒)++; tsha̍t-kiáⁿ++(賊囝)++; àu-nâng++(後人)++; nâng-tái++(人代)++.
+**knave**, láu-kiáⁿ++(老囝)++; kuang-kùn++(光棍)++; kùn-thû++(棍徒)++; tsha̍t-kiáⁿ++(賊囝)++; àu-nâng++++; nâng-tái++(人歹)++.
 
 **knead**, chhi̍p-mīⁿ++++. *kneading-trough*, chhi̍p-mīⁿ-tsô++++.
 
@@ -7501,7 +7501,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **landmark**, tī-kài++(地界)++; kài-chie̍h++(界石)++; chie̍h-pi++(石碑)++; tī-kài-pi++(地界碑)++. *to look out for landmarks when at sea*, thóiⁿ-suaⁿ-mn̂g++(睇山門)++; kam-suaⁿ-mn̂g++(監山門)++; jīn-suaⁿ-thâu++(認山頭)++.
 
-**landscape**, kuang-kéng++(山水)++. *to paint*, ūe-kéng-tī++(畫境地)++; ūe-suaⁿ-tsúi++(畫山水)++.
+**landscape**, kuang-kéng++(光景)++. *to paint*, ūe-kéng-tī++(畫景緻)++; ūe-suaⁿ-tsúi++(畫山水)++.
 
 **lane**, hāng++(巷)++. *a*, che̍k-tiâu-hāng++(一條巷)++.
 
@@ -7533,7 +7533,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lassitude**, khùn-tõaⁿ++(睏惰)++; kũan-tõaⁿ++(倦惰)++; phî-kũan++(疲倦)++; bô-cheng-sîn++(無精神)++.
 
-**last**, suah-búe++(煞尾)++; kiâu-búe++(交尾)++; mua̍t++(末)++. *night*, tsa-mêⁿ++(昨夜)++; tsa-mêⁿ-àm++(昨夜暗)++. *month*, chiēⁿ-kâi-gue̍h++(上個月)++. *year*, kū-nîⁿ++(舊年)++; khṳ̀-nîⁿ++(去年)++; úang-nîⁿ++(往年)++. *month*, chiēⁿ-kâi-gue̍h++(上個月)++. *at last*, kiáu-búe++(狡尾)++; búe-búe++(尾尾)++. *from first to last*, tsṳ̃-sí kàu-tsong++(自死到終)++; tshông-thâu kàu-búe++(從頭到尾)++. *first and last the same*, sí-tsong zû-it++(死終如一)++. *the last day*, mua̍t-ji̍t++(末日)++. *breathe one's last*, khùi tñg++(氣轉)++.
+**last**, suah-búe++(煞尾)++; kiáu-búe++(繳尾)++; mua̍t++(末)++. *night*, tsa-mêⁿ++(昨夜)++; tsa-mêⁿ-àm++(昨夜暗)++. *month*, chiēⁿ-kâi-gue̍h++(上個月)++. *year*, kū-nîⁿ++(舊年)++; khṳ̀-nîⁿ++(去年)++; úang-nîⁿ++(往年)++. *month*, chiēⁿ-kâi-gue̍h++(上個月)++. *at last*, kiáu-búe++(繳尾)++; búe-búe++(尾尾)++. *from first to last*, tsṳ̃-sí kàu-tsong++(自始到終)++; tshông-thâu kàu-búe++(從頭到尾)++. *first and last the same*, sí-tsong zû-it++(始終如一)++. *the last day*, mua̍t-ji̍t++(末日)++. *breathe one's last*, khùi tñg++(氣斷)++.
 
 **last**, *to*, nãiⁿ++(耐)++; nãiⁿ-kú++(耐久)++; tōiⁿ++(𠕆)++. *lasting well*, õi-nãiⁿ++(會耐)++.
 
@@ -7737,7 +7737,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **line**, *to draw a*, ue̍h++(劃)++. *of book*, hâng++(行)++; tsūe++(字)++; tiâu. *dividing-lines*, jī-keh++(字隔)++. *to make such*, phah-jī-keh++(拍字隔)++; ūe-jī-keh++(畫字隔)++. *you are reading the wrong line*, lṳ́ thóiⁿ-tāⁿ-hâng++(汝睇賺行)++; lṳ́ thóiⁿ-tāⁿ-tsūe++(汝睇賺襊)++. *carpenter's ink-line*, ba̍k-táu-sîn++(墨斗繩)++. *to strike it*, tōaⁿ-sîn++(彈繩)++. *lines on the palm of the hand*, chhiú-tói-hûn++(手底痕)++.
 
-**line**, *a coat*, chhiam-lí++(籤理)++. *lining*, lí++(裡)++. *lined coat*, koih-niûⁿ++(莢娘)++.
+**line**, *a coat*, chhiam-lí++(襯裡)++. *lining*, lí++(裡)++. *lined coat*, koih-niûⁿ++(夾裘)++.
 
 **lineage**, lâi-le̍h++(來歷)++. *(genealogical record)*, tso̍k-phóu++(族譜)++.
 
@@ -7767,7 +7767,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **list**, tiâu-ma̍k++(條目)++; hùe-liāu-toaⁿ++(貨料單)++; tshâi-liāu-toaⁿ++(材料單)++; tsa̍p-mue̍h-toaⁿ++(什物單)++; ma̍k-lo̍k++(目錄)++. *to check by a*, kiám-tiám++(檢點)++.
 
-**listen**, thiaⁿ++(聽)++. *secretly*, àm-chẽⁿ-thiaⁿ++(暗靜聽)++; thàm-thiaⁿ++(探聽)++; thau-thiaⁿ++(偷聽)++; tá-thèng++(打聽)++. *attentively*, ēng-sim lâi-thiaⁿ++(用心來聽)++; sié-sim-thiaⁿ++(小心聽)++; kṳ́n-sim-thiaⁿ++(謹心聽)++; tsṳ́-sòi-thiaⁿ++(子細聽)++; tsuan-sim-thiaⁿ++(專心聽)++. *to advice*, thiaⁿ--nâng khǹg-kòi++(聽人[訓]勸計)++; thiaⁿ-tshông++(聽從)++.
+**listen**, thiaⁿ++(聽)++. *secretly*, àm-chẽⁿ-thiaⁿ++(暗靜聽)++; thàm-thiaⁿ++(探聽)++; thau-thiaⁿ++(偷聽)++; tá-thèng++(打聽)++. *attentively*, ēng-sim lâi-thiaⁿ++(用心來聽)++; sié-sim-thiaⁿ++(小心聽)++; kṳ́n-sim-thiaⁿ++(謹心聽)++; tsṳ́-sòi-thiaⁿ++(子細聽)++; tsuan-sim-thiaⁿ++(專心聽)++. *to advice*, thiaⁿ--nâng khǹg-kòi++(聽人[訓]勸戒)++; thiaⁿ-tshông++(聽從)++.
 
 **listless**, bô-cheng-sîn++(無精神)++; phî++(疲)++; phî-kũan++(疲倦)++; phî-khùn++(疲睏)++; phî-tõaⁿ++(疲惰)++.
 
@@ -7855,7 +7855,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lord**, tsú++(主)++.
 
-**lose**, sit++(失)++; sit-lo̍h++(失落)++; sàng-tiāu++(送掉)++; m̄-kìⁿ++(毋見)++; zũi-sit++(危失)++. *a battle*, thâi-su++(敗輸)++; pāi-tīn++(敗陣)++; chièn-pāi++(戰敗)++. *the way*, kiâⁿ-tāⁿ-lōu++(行耽路)++; kiâⁿ-tshò-lōu++(行錯路)++; tsáu-tshò lōu-thû++(走錯路塗)++; m̄-pat-lōu++(毋識路)++. *one's pains*, uáng-hùi cheng-sîn++(枉費精神)++; uáng-hùi kang-hu++(枉費功夫)++; thû-hùi sim-la̍t++(塗費心力)++; thû-lâu bô-kong++(塗流無功)++. *time*, sit-sî++(失時)++; hṳ-iẽn nîⁿ-gue̍h++(虛延年月)++; hṳ-iẽn ji̍t-sî++(虛延日時)++. *courage*, sàng-táⁿ++(喪膽)++; táⁿ lo̍h++(膽落)++; phùa-táⁿ++(破膽)++. *heart*, lî-sim++(離心)++; sim lî++(心厘)++. *flavour*, hiàⁿ-khì++++; sia̍p-khì++(泄氣)++; tsáu-khì++(走氣)++; tsáu-bī++(走味)++. *colour*, lo̍h-sek++(落色)++; thò-sek++(褪色)++. *in gambling*, pua̍h-su++(跋輸)++. *capital*, si̍h-pńg++(蝕本)++; khui-pńg++(開本)++; khui-si̍h++(開蝕)++; khui-khòng++(開空)++; m̄-kàu-pńg++(毋夠本)++.
+**lose**, sit++(失)++; sit-lo̍h++(失落)++; sàng-tiāu++(送掉)++; m̄-kìⁿ++(毋見)++; zũi-sit++(危失)++. *a battle*, thâi-su++(敗輸)++; pāi-tīn++(敗陣)++; chièn-pāi++(戰敗)++. *the way*, kiâⁿ-tāⁿ-lōu++(行賺路)++; kiâⁿ-tshò-lōu++(行錯路)++; tsáu-tshò lōu-thû++(走錯路塗)++; m̄-pat-lōu++(毋識路)++. *one's pains*, uáng-hùi cheng-sîn++(枉費精神)++; uáng-hùi kang-hu++(枉費功夫)++; thû-hùi sim-la̍t++(徒費心力)++; thû-lâu bô-kong++(徒勞無功)++. *time*, sit-sî++(失時)++; hṳ-iẽn nîⁿ-gue̍h++(虛延年月)++; hṳ-iẽn ji̍t-sî++(虛延日時)++. *courage*, sàng-táⁿ++(喪膽)++; táⁿ lo̍h++(膽落)++; phùa-táⁿ++(破膽)++. *heart*, lî-sim++(離心)++; sim lî++(心厘)++. *flavour*, hiàⁿ-khì++++; sia̍p-khì++(泄氣)++; tsáu-khì++(走氣)++; tsáu-bī++(走味)++. *colour*, lo̍h-sek++(落色)++; thò-sek++(褪色)++. *in gambling*, pua̍h-su++(跋輸)++. *capital*, si̍h-pńg++(蝕本)++; khui-pńg++(開本)++; khui-si̍h++(開蝕)++; khui-khòng++(開空)++; m̄-kàu-pńg++(毋夠本)++.
 
 **lot**, *of ground*, che̍k-kò-tī++(冊個地)++; che̍k-phiâⁿ-tī++(一坪地)++. *of people*, ke-ke-nâng++(加加人)++. *contented with one's lot*, siú-hūn uaⁿ-mẽng++(守分安命)++; tsai-tsok++(知足)++. *cast, or draw, lots*, thiu-chhiam++(抽籤)++; khieh-khau++(挈口)++; po̍ih-chhiam++(拔籤)++; lok-chhiam++(搖籤)++; pua̍h-pue++(跋杯)++.
 
@@ -7925,7 +7925,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **macerate**, au++(嘔)++; au-kauh++(漚捲)++; lo̍h-khṳ̀-au++(落去嘔)++; ùn-àu++(醃嘔)++; chìm-kàu-àu++(浸到嘔)++.
 
-**machination**, àm-kòi++(暗計)++; khúi-kòi++(開計)++; kòi-mông++(計謀)++; ak-mông++(惡謀)++; khúi-mông-kan-kòi++(開謀間計)++.
+**machination**, àm-kòi++(暗計)++; khúi-kòi++(詭計)++; kòi-mông++(計謀)++; ak-mông++(惡謀)++; khúi-mông-kan-kòi++(詭謀奸計)++.
 
 **machine**, ki-khì++(機器)++; ie̍h-kúi++(藥鬼)++; chhia++(車)++.
 
@@ -7973,7 +7973,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **malaria**, suaⁿ-lâm chiàng-khì++(山南瘴氣)++.
 
-**male**, lâm++(男)++; nâm++(男)++; ta-pou++(丈夫)++. *(beasts)*, kóu++(牯)++. *(birds)*, kak++(角)++; hiông++(雄)++. *male and female*, nâm-nńg++(男女)++; ta-pou tsṳ-niêⁿ++(大夫書娘)++. *female and male*, im-iâng++(陰陽)++. *female and male (beasts)*, phín-móuⁿ++(品牡)++. *female and male (birds)*, thsṳ̂-hiông++(慈雄)++.
+**male**, lâm++(男)++; nâm++(男)++; ta-pou++(丈夫)++. *(beasts)*, kóu++(牯)++. *(birds)*, kak++(角)++; hiông++(雄)++. *male and female*, nâm-nńg++(男女)++; ta-pou tsṳ-niêⁿ++(丈夫諸娘)++. *female and male*, im-iâng++(陰陽)++. *female and male (beasts)*, phín-móuⁿ++(牝牡)++. *female and male (birds)*, thsṳ̂-hiông++(雌雄)++.
 
 **malediction**, chiù-tsūa++(咒誓)++; chiù-mēⁿ++(咒罵)++.
 
@@ -8167,7 +8167,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Mencius**, Mẽng-tsṳ́++(孟子)++; à-siàⁿ++(亞聖)++.
 
-**mend**, póu++(補)++; póu-tùe++(補綴)++; siu-chiáⁿ++(修整)++; chiáⁿ-lí++(整理)++; siu-si̍p++(修習)++. *clothes*, póu-saⁿ++(補衫)++. *a house*, pa-lói-tshù++(巴禮厝)++. *a pen or pencil*, phoi-pit++(批筆)++. *faults*, kói-kùe++(改過)++.
+**mend**, póu++(補)++; póu-tùe++(補綴)++; siu-chiáⁿ++(修整)++; chiáⁿ-lí++(整理)++; siu-si̍p++(收拾)++. *clothes*, póu-saⁿ++(補衫)++. *a house*, pa-lói-tshù++(巴禮厝)++. *a pen or pencil*, phoi-pit++(批筆)++. *faults*, kói-kùe++(改過)++.
 
 **mendicant**, khṳt-chia̍h++(乞食)++; kiâⁿ-bí++(行米)++; thó-chia̍h++(討食)++.
 
@@ -8263,7 +8263,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mind**, sim++(心)++; sim-sîn++(心神)++; sim-chì++(心志)++; sim-tn̂g++(心腸)++; sim-ì++(心意)++. *intelligent*, tóu-lãi mêng-pe̍h++(肚內明白)++. *large*, tōu-liãng khuan-tōa++(度量寬大)++; tōu-liãng khuan-khuah++(度量寬闊)++; khuan-hông tãi-liãng++(寬宏大量)++; hái-liãng++(海量)++. *narrow*, bô-tōu-liãng++(無度量)++; ti̍h-kiáⁿ-liãng++(滴囝量)++; koi-tn̂g múaⁿ-chiah-tóu++(雞腸滿隻肚)++; sim o̍ih-sòi++(心狹細)++; sim-heng o̍ih-sòi++(心胸狹細)++; chhién-kièn++(淺見)++. *of one*, tâng-sim++(同心)++. *just to my mind*, chiàⁿ-ha̍h úa-kâi-sim++(正合我个心)++; zû-ngũan++(如願)++; zû-ì++(如意)++; tèng-ì++(中意)++; ha̍h-siẽⁿ++(合想)++. *have something on the mind*, sim-lãi ũ-sṳ̄++(心內有事)++; sim m̄-chheng++(心不清)++; sim m̄-ôiⁿ++(心不閒)++; sim-lãi kãu-ue̍h++(心內垢穢)++. *mind made up*, tsú-ì íⁿ-tiāⁿ++(主意已定)++; li̍p-tiāⁿ tsú-ì++(立定主意)++; íⁿ-keng kuat-ì++(已經決意)++. *to mind*, liû-sim++(留心)++; tì-ì++(在意)++. *with one's whole mind*, tsuan-sim tì-ì++(專心致意)++; chĩn-sim chĩn-ì++(真心真意)++. *never mind*, bô-siang-kan++(無相干)++; chhìn-tshái++(凊彩)++; màiⁿ-khṳ̀-tshái++(勿去睬)++; màiⁿ-khṳ̀ kài-ì++(勿去介意)++; màiⁿ-pàng tõ-sim++(勿放在心)++; tì-tsṳ tōu-gūa++(置之度外)++; màiⁿ-kúan++(勿管)++. *never mind him*, màiⁿ kāng-i kòi-kà++(勿共伊計較)++; màiⁿ-tshái--i++(勿睬伊)++; kṳ̀-i-khṳ̀++++. *keep in mind*, kì-tit++(記得)++; kì-liãm++(記念)++.
 
-**mine**, *gold*, kim-suaⁿ++(金山)++. *miner*, liú-suaⁿ-hām++(柳山陷)++. *in war*, tī-lûi++(地雷)++; tī-lûi húe-phàu++(地雷火砲)++. *to lay*, tâi-tī-lûi++(台地雷)++. *to explode*, kún-tī-lûi++(滾地雷)++.
+**mine**, *gold*, kim-suaⁿ++(金山)++. *miner*, liú-suaⁿ-hām++(柳山陷)++. *in war*, tī-lûi++(地雷)++; tī-lûi húe-phàu++(地雷火砲)++. *to lay*, tâi-tī-lûi++(抬地雷)++. *to explode*, kún-tī-lûi++(滾地雷)++.
 
 **mineralogy**, chie̍h-tsóng-lũn++(石總論)++.
 
@@ -8351,7 +8351,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mites**, tâi++(臺)++. *to breed*, seⁿ-tâi++(生臺)++.
 
-**mitigate**, *punishment*, khin-séⁿ hêng-hu̍at++(輕省刑罰)++. *sickness*, ui-khin-pēⁿ++(醫輕病)++; sái-pēⁿ chiãm-khin++(使病暫輕)++. *one's wrath*, khǹg-sek++(勸釋)++. *pain*, chí-thiàⁿ++(止痛)++.
+**mitigate**, *punishment*, khin-séⁿ hêng-hu̍at++(輕省刑罰)++. *sickness*, ui-khin-pēⁿ++(醫輕病)++; sái-pēⁿ chiãm-khin++(使病暫輕)++. *one's wrath*, khǹg-sek++(勸息)++. *pain*, chí-thiàⁿ++(止痛)++.
 
 **mix**, tsham++(參)++; sie-tsham++(相參)++; sie-chhiau++(相交)++; sie-chhiau sie-liãu++(相攪相料)++. *mixed*, tsham-tsa̍p++(參雜)++; hũn-tsa̍p++(混雜)++.
 
@@ -8391,7 +8391,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **momentous**, tãng++(重)++; chhiet-iàu++(切要)++; iàu-kín++(要緊)++; kín-iàu++(緊要)++.
 
-**monarch**, uâng++(王)++; kun-uâng++(君王)++; kok-kun++(國軍)++; kok-uâng++(國王)++; huâng-tì++(皇帝)++.
+**monarch**, uâng++(王)++; kun-uâng++(君王)++; kok-kun++(國君)++; kok-uâng++(國王)++; huâng-tì++(皇帝)++.
 
 **monastery**, am++(庵)++; lâm-am++(南庵)++; hûe-siēⁿ-am++(和尚庵)++; am-jī++(庵字)++; am-īⁿ++(庵院)++; am-tn̂g++(庵堂)++.
 
@@ -8411,7 +8411,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **month**, gu̍eh++(月)++. *one*, che̍k-kâi-gu̍eh++(一個月)++. *the first*, chiaⁿ-gu̍eh++(正月)++; chiaⁿ--gu̍eh++(正月)++. *first day of*, chhiu-it++(初一)++. *intercalary*, zūn-gu̍eh++(閏月)++. *monthly*, múeⁿ-gue̍h++(滿月)++.
 
-**monument**, pi++(碑)++; pi-kì++(碑記)++; kong-tek-pi++(公德碑)++; chie̍h-têng++(石亭)++; têng-piáu++(燈表)++. *ancient*, kóu-chiah++(古蹟)++.
+**monument**, pi++(碑)++; pi-kì++(碑記)++; kong-tek-pi++(功德碑)++; chie̍h-têng++(石亭)++; têng-piáu++(亭表)++. *ancient*, kóu-chiah++(古蹟)++.
 
 **moon**, gu̍eh++(月)++. *full*, gu̍eh-îⁿ++(月圓)++. *crescent*, gu̍eh-keng++(月經)++; sin-gue̍h++(新月)++. *half*, gu̍eh-pùaⁿ++(月半)++; gu̍eh-pôiⁿ++(月枰)++; gu̍eh pùaⁿ-îⁿ++(月半圓)++; pùaⁿ-pôiⁿ-gu̍eh++(半爿月)++. *rising*, gu̍eh chiẽⁿ++(月上)++. *eclipse*, gu̍eh si̍h++(月蝕)++. *round again after eclipse(lucky to see)*, gu̍eh ho̍k-îⁿ++(月復圓)++. *halo*, gu̍eh-hûa++(月花)++; gu̍eh īn++(月暈)++. *moonless night*, gue̍h-àm-mêⁿ++(月暗夜)++. *gaze at*, siéⁿ-gu̍eh++(賞月)++.
 
@@ -8421,7 +8421,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **moral**, siẽn-tek++(善德)++; ũ-tek-hẽng++(有德行)++. *tracts*, khǹg-sì-bûn++(勸世文)++. *morality*, siẽn-tek; tãu-tek++(道德)++; mêng-tek++(明德)++; tek-hẽng++(德行)++; tek-sèⁿ++(德性)++.
 
-**more**, ke++(加)++. *a little*, ke--lân-ló++(加利老)++. *is there more*, huân-ũ a-bô++(還有亞無)++. *no more of this*, pã--liáu++(罷了)++. *more than ten*, tsa̍p-gūa++(雜外)++; tsa̍p-tshut++(雜出)++. *the more you plead the less he heeds you*, zú-koh-lô zú-m̄-tshái++(愈可囉愈毋睬)++. *more or less*, ke-kiám++(加減)++.
+**more**, ke++(加)++. *a little*, ke--lân-ló++(加利老)++. *is there more*, huân-ũ a-bô++(還有亞無)++. *no more of this*, pã--liáu++(罷了)++. *more than ten*, tsa̍p-gūa++(雜外)++; tsa̍p-tshut++(雜出)++. *the more you plead the less he heeds you*, zú-koh-lô zú-m̄-tshái++(愈閣羅愈毋睬)++. *more or less*, ke-kiám++(加減)++.
 
 **moreover**, lêng-gūa++(另外)++; siãng-chhiáⁿ++(尙且)++; huân-liáu++(還了)++; khuàng-chhiáⁿ++(況且)++; iũ-tsài++(又再)++; kèng-chhiáⁿ++(竟且)++; huân-iáu++(還要)++.
 
@@ -8487,7 +8487,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mouth**, tshùi++(喙)++; kháu++(口)++. *of river*, káng-kháu++(港口)++. *open*, khui-tshùi++(開喙)++. *shut*, tshùi kâm-miⁿ++(喙含棉)++; ha̍p-miⁿ++(合棉)++. *corners of*, tshùi-piⁿ++(喙邊)++. *mouthful*, che̍k-tshùi++(一喙)++. *of tobacco smoke*, che̍k-kháu-hun++(一口分)++.
 
-**move**, tõng++(動)++; tín-tãng++(振動)++; iê-tõng++(搖動)++; iâu-tõng++(搖動)++; iê-tãng++(搖重)++; pù-pái++(佈擺)++. *things*, puaⁿ-mu̍eh++(搬物)++. *as chair or table, backwards or forwards*, tshâu++(巢)++. *lodging*, puaⁿ-tshù++(搬厝)++; súa-the̍h++(徙宅)++; î-kṳ++(移居)++; chhien-kṳ++(遷居)++; chhien-súa++(遷徙)++; puaⁿ-súa++(搬徙)++. *a grave*, chhien-suaⁿ++(遷山)++; khí-tsàng++(起壯)++. *the heart*, kám-tõng++(感動)++. *movable*, õi-tín-tãng++(會振動)++; ua̍h++(活)++. *movables*, ke-húe++(家伙)++; ke-si mu̍eh-kiãⁿ++(家私物件)++.
+**move**, tõng++(動)++; tín-tãng++(振動)++; iê-tõng++(搖動)++; iâu-tõng++(搖動)++; iê-tãng++(搖重)++; pù-pái++(佈擺)++. *things*, puaⁿ-mu̍eh++(搬物)++. *as chair or table, backwards or forwards*, tshâu++(移)++. *lodging*, puaⁿ-tshù++(搬厝)++; súa-the̍h++(徙宅)++; î-kṳ++(移居)++; chhien-kṳ++(遷居)++; chhien-súa++(遷徙)++; puaⁿ-súa++(搬徙)++. *a grave*, chhien-suaⁿ++(遷山)++; khí-tsàng++(起壯)++. *the heart*, kám-tõng++(感動)++. *movable*, õi-tín-tãng++(會振動)++; ua̍h++(活)++. *movables*, ke-húe++(家伙)++; ke-si mu̍eh-kiãⁿ++(家私物件)++.
 
 **much**, *ke; to*, tsōi++(㩼)++. *not*, ũ-hãn++(有限)++; bô-hièⁿ-tsōi++(無向㩼)++; bô-mih-tsōi++(無乜㩼)++. *very much*, tōa-bó-mu̍eh++(大母物)++; tsōi-tsãi++(㩼在)++. *as much again*, ke-che̍k-pũe++(加一倍)++; ke-che̍k-ûe++(加一半)++.
 
@@ -8591,7 +8591,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **near**, kṳ̃n++(近)++; siang-kṳ̃n++(相近)++. *sighted*, kṳ̃n-sĩ-ma̍k++(近是目)++. *nearly*, tsha-m̄-to++(差毋多)++; tsua̍h-m̄-tsōi++(絀毋㩼)++; tsáu-tsua̍h ũ-hãn++(走絀有限)++. *come near*, kṳ̃n-bûa++(近埋)++.
 
-**neat**, tsôi-chiáⁿ++(齊整)++; chhî-chéng++(齊整)++; chiám-tso̍ih++(斬截)++; iap-thiap++++; kiau-kiah++++.
+**neat**, tsôi-chiáⁿ++(齊整)++; chhî-chéng++(齊整)++; chiám-tso̍ih++(斬截)++; iap-thiap++++; kiau-kiah++(矯捷)++.
 
 **necessary**, iàu-ēng++(要用)++; chhiet-ēng++(切用)++; chhiet-iàu++(切要)++; te̍k-àiⁿ++(的愛)++. *daily*, ji̍t-ēng++(日用)++. *a*, tang-si++(東司)++; chhè-tî++(廁池)++; chhè-koiⁿ++(廁間)++. *of necessity*, put-tit-íⁿ++(不得已)++. *necessitous*, phîn-khiông++(貧窮)++; khueh-hua̍t++(缺乏)++; phîn-kip++(貧急)++; kip-chhiú++(急手)++.
 
@@ -8641,7 +8641,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **niece**, tie̍t-nńg++(姪女)++; nńg-tie̍t++(女姪)++. *(sister's daughter)*, gūa-seng-nńg++(外甥女)++.
 
-**niggardly**, kiâm-siap++(鹹澀)++; kiâm++(鹹)++; liẽn-siap++(吝嗇)++; kien-liẽn++(堅吝)++; chhiú-thâu tōiⁿ++(手頭靛)++; siáu-khièn++(小慳)++; niauh-siauh++(貓梢)++.
+**niggardly**, kiâm-siap++(鹹澀)++; kiâm++(鹹)++; liẽn-siap++(吝嗇)++; kien-liẽn++(慳吝)++; chhiú-thâu tōiⁿ++(手頭𠕇)++; siáu-khièn++++; niauh-siauh++++.
 
 **night**, mêⁿ++(夜)++. *last*, tsà-mêⁿ++(昨夜)++. *to-night*, kim-mêⁿ++(今夜)++; mêⁿ-hng++(夜昏)++. *journey by*, kiâⁿ-mêⁿ-lōu++(行夜路)++. *time*, mêⁿ--kùa++(夜旰)++; mêⁿ--tsṳ́++(夜鼠)++. *late at*, mêⁿ-âm++(夜暗)++; keⁿ chhim++(更深)++; àm++(暗)++. *dress*, gu̍t-saⁿ++(夗衫)++. *night-mare*, māng-kìⁿ-kúi++(夢見鬼)++; chin-kìⁿ-kúi++(真見鬼)++; bái-kúi teh++(壓鬼壓)++. *nightly*, pâi-mêⁿ++(排夜)++; pâi-mêⁿ-àm++(排夜暗)++. *first half of night*, chiēⁿ-pùaⁿ-mêⁿ++(上半夜)++.
 
@@ -8771,7 +8771,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **obsequious**, hông-ngêng++(逢迎)++; hõng-sêng++(奉承)++; pui-thiám++(陪諂)++; thiám-mĩⁿ++(諂媚)++; khá-mĩⁿ++(巧謎)++.
 
-**observatory**, huan-chheⁿ-thâi++(觀星台)++.
+**observatory**, huan-chheⁿ-thâi++(觀星臺)++.
 
 **observe**, thóiⁿ++(看)++; kuan++(關)++. *law*, siú-huap++(守法)++.
 
@@ -8853,7 +8853,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **omelet**, koi-nñg luah chiâⁿ-tieⁿ++(雞卵烙成張)++; koi-nñg-piáⁿ++(雞卵餅)++.
 
-**omen**, tiãu++(兆)++; ki-tiãu++(吉兆)++. *good*, kit-tiãu++(吉兆)++. *bad*, hiong-tiãu++(凶兆)++.
+**omen**, tiãu++(兆)++; ki-tiãu++(機兆)++. *good*, kit-tiãu++(吉兆)++. *bad*, hiong-tiãu++(凶兆)++.
 
 **omit**, sit++(失)++; lāu-tiāu++(漏掉)++; làng-tiāu++(朗掉)++; kau-lau̍h-tiāu++(交落掉)++.
 
@@ -8973,7 +8973,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pace**, pōu++(步)++; hua̍h++(伐)++. *large*, tōa-hua̍h++(大步)++.
 
-**pacify**, khn̍g-nâng màiⁿ-khì++(勸人勿去)++; kiâⁿ-hûa++(行和)++; khng-hûa++(勸化)++; khǹg-tshú++(勸處)++. *Pacific ocean*, thài-phêng-iêⁿ++(太平洋)++.
+**pacify**, khn̍g-nâng màiⁿ-khì++(勸人勿去)++; kiâⁿ-hûa++(行和)++; khng-hûa++(勸和)++; khǹg-tshú++++. *Pacific ocean*, thài-phêng-iêⁿ++(太平洋)++.
 
 **pack**, pau++(包)++; phah-pau++(打包)++; tsuang++(裝)++; siu-sip-bûa++(收拾抹)++. *tea*, tsuang-tê++(裝茶)++. *in a box*, tsuang-lo̍h-sieⁿ++(裝落箱)++. *packing box*, tsuang-sieⁿ++(裝箱)++.
 
@@ -9055,7 +9055,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **parcel**, pau++(包)++.
 
-**parched**, pha̍k-ta++(曝焦)++; kan-tshàu++(乾燥)++. *rice*, tshá-bí++(炒米)++. *tea with this in it*, bí-kam-tê++(米泔茶)++.
+**parched**, pha̍k-ta++(曝灱)++; kan-tshàu++(乾燥)++. *rice*, tshá-bí++(炒米)++. *tea with this in it*, bí-kam-tê++(米泔茶)++.
 
 **parchment**, iêⁿ-phûe-tsúa++(羊皮紙)++.
 
@@ -9099,7 +9099,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **partridge**, chià-kou++(鷓姑)++.
 
-**pass**, *or barrier*, kuan++(關)++; kuan-kháu++(關口)++. *mountain*, niáⁿ++(領)++. *to*, kùe++(過)++; keng-kùe++(經過)++. *let*, pàng-kiâⁿ++(放行)++; hôiⁿ-nâng-kùe++(還人過)++; pu-nâng-kùe++(晡人過)++. *please let me pass*, chieh-kùe++(借過)++; chhiáⁿ-chieh-kùe++(請借過)++. *round*, kiâⁿ-che̍k-thuân++(行一團)++; kiâⁿ-che̍k-ûi++(行一圍)++; kiâⁿ che̍k-thûan-ûi++(行一團圍)++. *through a hole*, tshng--kùe-khṳ̀++(穿過去)++. *into*, jip++(趇)++. *passable*, õi-tit-kùe++(會得過)++; khó-íⁿ++(可椅)++; chhìn-tshái++(凊彩)++; õi-tsò-tit++(會做得)++. *this dollar will pass*, chí-kâi-ngṳ̂n hó-sái++(此個銀好使)++.
+**pass**, *or barrier*, kuan++(關)++; kuan-kháu++(關口)++. *mountain*, niáⁿ++(領)++. *to*, kùe++(過)++; keng-kùe++(經過)++. *let*, pàng-kiâⁿ++(放行)++; hôiⁿ-nâng-kùe++(還人過)++; pu-nâng-kùe++(晡人過)++. *please let me pass*, chieh-kùe++(借過)++; chhiáⁿ-chieh-kùe++(請借過)++. *round*, kiâⁿ-che̍k-thuân++(行一團)++; kiâⁿ-che̍k-ûi++(行一圍)++; kiâⁿ che̍k-thûan-ûi++(行一團圍)++. *through a hole*, tshng--kùe-khṳ̀++(穿過去)++. *into*, jip++(趇)++. *passable*, õi-tit-kùe++(會得過)++; khó-íⁿ++(可以)++; chhìn-tshái++(凊彩)++; õi-tsò-tit++(會做得)++. *this dollar will pass*, chí-kâi-ngṳ̂n hó-sái++(此個銀好使)++.
 
 **passage**, lōu++(路)++; mn̂g-lōu++(門路)++. *boat*, tōu-tsûn++(渡船)++. *to take*, tah-tōu-tsûn++(搭渡船)++. *passenger*, tah-kheh++(搭客)++.
 
@@ -9211,7 +9211,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **penitent**, tsai-tsũe++(知罪)++; tsai-tshò++(知錯)++; siẽⁿ-hùe++(想悔)++; siẽⁿ-siú-hùe++(想守悔)++; siẽⁿ-àiⁿ hùe-kói++(想愛悔改)++; hûe-thâu++(回頭)++; tsṳ̃-uàn++(自怨)++; thiàⁿ-kói tsôiⁿ-hui++(痛改前非)++.
 
-**penurious**, tham-liẽn++(貪吝)++; kien-liẽn++(堅吝)++; liẽn-siap++(吝嗇)++; kien-siap++(慳澀)++; kùe-khiãm++(過儉)++.
+**penurious**, tham-liẽn++(貪吝)++; kien-liẽn++(慳吝)++; liẽn-siap++(吝嗇)++; kien-siap++(慳澀)++; kùe-khiãm++(過儉)++.
 
 **people**, mîn++(民)++; sù-mîn++(庶民)++; peh-sèⁿ++(百姓)++. *people say*, chèng-nâng-tàⁿ++(眾人呾)++.
 
@@ -9299,7 +9299,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **petticoat**, kûn++(裙)++. *wear*, hâ-kûn++(縖裙)++. *waistband of*, kûn-tòa++(裙帶)++.
 
-**pettifogger**, sõng-kùn++(訟棍)++; kuang-kùn++(誆棍)++; láu-kiáⁿ++(漏囝)++.
+**pettifogger**, sõng-kùn++(訟棍)++; kuang-kùn++(光棍)++; láu-kiáⁿ++(漏囝)++.
 
 **petty**, sòi++(細)++; sié++(小)++. *affair*, sié-khó kâi-sṳ̄++(小可个事)++.
 
@@ -9385,7 +9385,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pin**, tsam-tsǹg++(針鑽)++. *ivory hair pin*, gê-tsam++(牙針)++. *bone*, kut-tsam++(骨針)++.
 
-**pincers**, thih-khîⁿ++(鐵鉗)++; thih-kîⁿ++(鐵墘)++; niap-kiáⁿ++(捏囝)++; nihⁿ-kiáⁿ++(捏囝)++; kiap-kiáⁿ++(夾囝)++; koíh-kiáⁿ++(挾囝)++. *crab's*, hõi-tōa-kha++(蟹大骹)++.
+**pincers**, thih-khîⁿ++(鐵鉗)++; thih-kîⁿ++(鐵鉗)++; niap-kiáⁿ++(捏囝)++; nihⁿ-kiáⁿ++(捏囝)++; kiap-kiáⁿ++(夾囝)++; koíh-kiáⁿ++(挾囝)++. *crab's*, hõi-tōa-kha++(蟹大骹)++.
 
 **pinch**, nihⁿ++(捏)++; nueh++()++; liàm++(捻)++. *(twist)*, tsũn++(捘)++. *of snuff*, che̍k-nueh phīⁿ-hun++(一捻鼻薰)++.
 
@@ -9413,7 +9413,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pitted**, *with small-pox*, mīn poiⁿ-poiⁿ++(面斑斑)++.
 
-**pity**, khó-liên++(可憐)++; liên-mién++(憐免)++; thiàⁿ-siang++(痛相)++; khó-si̍ang++(可像)++. *pitiable*, khó-liên; khó-sieh++(可惜)++; chhi-tshám++(淒慘)++. *piteous*, tshám++(慘)++; khóu++(許)++; ai-tshám++(哀慘)++; pui-ai++(悲哀)++. *pitiless*, thih-chie̍h sim-kuaⁿ++(鐵石心肝)++. *what a pity*, khó-sieh.
+**pity**, khó-liên++(可憐)++; liên-mién++(憐憫)++; thiàⁿ-siang++(痛傷)++; khó-siang++(可傷)++. *pitiable*, khó-liên; khó-sieh++(可惜)++; chhi-tshám++(淒慘)++. *piteous*, tshám++(慘)++; khóu++(苦)++; ai-tshám++(哀慘)++; pui-ai++(悲哀)++. *pitiless*, thih-chie̍h sim-kuaⁿ++(鐵石心肝)++. *what a pity*, khó-sieh++(可惜)++.
 
 **pivot**, khũ++(臼)++. *of door*, mn̂g-khũ++(門臼)++. *of scissors*, ka-to-ngán++(家刀眼)++.
 
@@ -9741,7 +9741,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **prickly**, *pear*, sien-pa-chiéⁿ++(仙巴掌)++. *heat*, pùi++(痱)++; zua̍h-pùi++(熱痱)++; pùi kã++(痱咬)++.
 
-**pride**, kiau-ngãu++(邀傲)++; tsṳ̃-tōa++(自大)++; tsṳ̃-tsun++(自尊)++.
+**pride**, kiau-ngãu++(驕傲)++; tsṳ̃-tōa++(自大)++; tsṳ̃-tsun++(自尊)++.
 
 **priest**, *Buddhist*, hûe-siēⁿ++(和尚)++. *Tauist* , tãu-sṳ̃++(道士)++; sai-kong++(師公)++. *in the Scriptures*, chì-si++(祭施)++. *R. Catholic*, sîn-hũ++(神父)++. *priestess*, hûe-siēⁿ-phûa++(和尚婆)++. *priesthood*, hu̍t-ke++(佛家)++. *to enter it*, tshut-ke++(出家)++.
 
@@ -9797,7 +9797,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **proficient**, chìn-tsôiⁿ++(進前)++; se̍k++(熟)++; liēn-se̍k++(練熟)++.
 
-**profit**, lĩ++(利)++; lĩ-sek++(利色)++; iah++(益)++; lĩ-iah++(利益)++. *obtain*, tit-lĩ++(得利)++; thàn++(趁)++; ũ-thàn++(有趁)++.
+**profit**, lĩ++(利)++; lĩ-sek++(利息)++; iah++(益)++; lĩ-iah++(利益)++. *obtain*, tit-lĩ++(得利)++; thàn++(趁)++; ũ-thàn++(有趁)++.
 
 **profligate**, hùang-tãng++(放蕩)++; hùang-tsòng++(放縱)++; bô-tsat-tōu++(無節度)++.
 
@@ -9847,11 +9847,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **propriety**, lí-ngî++(理儀)++; lói-ngî++(禮儀)++; lói-siàu++(禮數)++. *contrary to*, m̄-ha̍h lí-ngî++(毋合理儀)++; m̄-ha̍h-sek++(毋合適)++.
 
-**prosecute**, kò++(告)++; kò-sõng++(告訟)++; kò-tsñg++(告狀)++. *prosecutor*, ngûan-kò++(原告)++; ngûan-tiâⁿ++(原庭)++. *as representing another*, phõ-kò++(抱告)++.
+**prosecute**, kò++(告)++; kò-sõng++(告訟)++; kò-tsñg++(告狀)++. *prosecutor*, ngûan-kò++(原告)++; ngûan-tiâⁿ++(原呈)++. *as representing another*, phõ-kò++(抱告)++.
 
 **prospect**, kuang-kéng++(光景)++; kéng-tì++(景致)++.
 
-**prosper**, heng-uãng++(興旺)++; heng-sẽng++(興盛)++; uãng-siàng++(旺相)++. *prosperity*, būan-sṳ̄ lī-ta̍t++(萬事利益)++; kak-sṳ̄ zû-ì++(各事如意)++; ha̍h-siẽⁿ++(合想)++; sûi-ì++(隨意)++; zû-ngũan++(儒願)++.
+**prosper**, heng-uãng++(興旺)++; heng-sẽng++(興盛)++; uãng-siàng++(旺相)++. *prosperity*, būan-sṳ̄ lī-ta̍t++(萬事利益)++; kak-sṳ̄ zû-ì++(各事如意)++; ha̍h-siẽⁿ++(合想)++; sûi-ì++(隨意)++; zû-ngũan++(如願)++.
 
 **prostrate**, phak-tõ-thôu++(伏道塗)++. *ceremony of prostration*, khàu-thâu++(叩頭)++; kha̍p-thâu++(磕頭)++.
 
@@ -9861,7 +9861,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **protuberant**, thóu-tshut++(凸出)++; tsui++(椎)++; tsui-tshut++(椎出)++.
 
-**proud**, kiau-ngãu++(邀傲)++; kiau-thài++(邀太)++. *flesh*, ṳ̀-ne̍k++(淤肉)++.
+**proud**, kiau-ngãu++(驕傲)++; kiau-thài++(邀太)++. *flesh*, ṳ̀-ne̍k++(淤肉)++.
 
 **prove**, pêng-chèng++(迸證)++; chèng-sit++(證室)++; chieh-chèng++(質證)++; tùi-chèng++(對證)++.
 
@@ -9965,7 +9965,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 ### Q
 
-**quack**, *a*, uãng-lo̍k++(王錄)++; kuang-kùn++(誆棍)++.
+**quack**, *a*, uãng-lo̍k++(王錄)++; kuang-kùn++(光棍)++.
 
 **quack**, *to*, ah-siaⁿ++(鴨聲)++; ah-ah-kiè++(鴨鴨叫)++.
 
@@ -9979,7 +9979,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **quail**, *a*, lōu-thûn++(路豚)++; liãu-thûn++(鹋吞)++; ang-tshun++(翁春)++. *fight with*, phah-chiáu++(拍鳥)++; phah-ang-tshun++(拍翁春)++.
 
-**quake**, chín-tõng++(震動)++. *with fear*, kiaⁿ kàu-tõ-tòng++(驚到跺凍)++.
+**quake**, chín-tõng++(震動)++. *with fear*, kiaⁿ kàu-tõ-tòng++(驚到在凍)++.
 
 **quality**, téng++(等)++; pín++(品)++; hō++(號)++; thie++(挑)++. *best*, siãng-téng++(像等)++; thiàu-téng++(超等)++; it-pín++(一品)++. *second*, jī-téng++(二等)++; jī-hō++(二號)++.
 
@@ -10015,7 +10015,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **quill**, môⁿ-kńg++(毛管)++; gô-môⁿ-kńg++(鵝毛管)++. *pen*, gô-môⁿ-pit++(鵝毛筆)++.
 
-**quilt**, *to*, *a garment*, ji̍p-mîⁿ++(入棉)++; hâng-niûⁿ++(行娘)++.
+**quilt**, *to*, *a garment*, ji̍p-mîⁿ++(入棉)++; hâng-niûⁿ++(夯裘)++.
 
 **quinsy**, aû-lêng jie̍t-thiàⁿ++(喉嚨熱痛)++; âu thiàⁿ++(喉痛)++; âu seⁿ-sang-ngô++(喉生雙蛾)++.
 
@@ -10201,7 +10201,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **reckon**, sǹg++(算)++; sǹg-siàu++(算數)++. *anything to be so & so*, sǹg-tsò++(算做)++.
 
-**reclaim**, *from evil*, khǹg-kòi kui-chiàⁿ++(勸計規正)++.
+**reclaim**, *from evil*, khǹg-kòi kui-chiàⁿ++(勸戒規正)++.
 
 **recline**, khùa-ie++(掛腰)++; uá-ie++(倚腰)++; gu̍t--lo̍h-khṳ̀++(夗落去)++.
 
@@ -10235,7 +10235,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **redress**, sin-uan++(申冤)++; póu-hôiⁿ++(補還)++; pûe++(陪)++.
 
-**reduce**, *the price*, khà-kiám++(扣減)++; tṳ̂-kiám++(除減)++. *a dislocation*, á-lo̍h-ngám++(拗落眼)++; tshâu-lo̍h-ngám++++; tshut-khũ túi-hó++(出臼縋好)++. *a fracture*, ah-chi̍h-kut++(拗折骨)++. *to dollars*, chiet-tsò-ngṳ̂n++(節做銀)++; sīn-tsò-ngṳ̂n++(剩做銀)++.
+**reduce**, *the price*, khà-kiám++(扣減)++; tṳ̂-kiám++(除減)++. *a dislocation*, á-lo̍h-ngám++(拗落眼)++; tshâu-lo̍h-ngám++(移落眼)++; tshut-khũ túi-hó++(出臼縋好)++. *a fracture*, ah-chi̍h-kut++(拗折骨)++. *to dollars*, chiet-tsò-ngṳ̂n++(節做銀)++; sīn-tsò-ngṳ̂n++(剩做銀)++.
 
 **redundant**, tshong-tsok ũ-ṳ̂++(充足有餘)++; ũ-tshûn++(有賰)++.
 
@@ -10295,7 +10295,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **regular**, ũ-tshùn-chhieh++(有寸尺)++; ũ-tshṳ̀-tõiⁿ++(有次第)++; ũ-tshôiⁿ-ãu++(有蠶後)++; chiàⁿ++(正)++. *conduct*, tuan-chiàⁿ++(端正)++; chiàⁿ-keng++(正經)++; kuaⁿ-chiàⁿ++(官正)++.
 
-**regulate**, *a watch*, tshâu-chiàⁿ++(曹正)++; tshâu-méⁿ-mān++(曹猛慢)++.
+**regulate**, *a watch*, tshâu-chiàⁿ++(移正)++; tshâu-méⁿ-mān++(移猛慢)++.
 
 **regulations**, kui-lī++(規例)++; kui-tiâu++(規條)++; chiang-thiâⁿ++(章程)++; tiâu-kui++(條規)++; huap-tōu++(法度)++; kui-kṳ́++(規矩)++; tsún-sîn++(準神)++.
 
@@ -10347,9 +10347,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **remiss**, tũaⁿ++(怠)++; hân-hẽ++(寒稀)++; chhìn-tshái++(凊彩)++; kóu-chhiáⁿ++(苟聲)++. *(as one in authority)*, pàng-làng-sang++(放漏鬆)++.
 
-**remit**, sià++(赦)++; sià-mién++(赦免)++. *taxes*, sià-niêⁿ++(赦娘)++. *rent*, sià-tsou++(赦租)++; kien-tsou++(減租)++; mién-tsou++(免租)++.
+**remit**, sià++(赦)++; sià-mién++(赦免)++. *taxes*, sià-niêⁿ++(赦糧)++. *rent*, sià-tsou++(赦租)++; kien-tsou++(減租)++; mién-tsou++(免租)++.
 
-**remonstrate**, khǹg-kòi++(勸計)++; khǹg-kàn++(勸諫)++; cheh-lũn++(責論)++.
+**remonstrate**, khǹg-kòi++(勸戒)++; khǹg-kàn++(勸諫)++; cheh-lũn++(責論)++.
 
 **remote**, hñg++(遠)++; iâu-ién++(遙遠)++.
 
@@ -10369,7 +10369,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **rent**, *to, a house, *&c*, sùe++(稅)++; tsou++(租)++; pa̍k++(縛)++. *house rent*, tshù-tsou++(厝租)++; tshù-sùe++(厝稅)++.
 
-**repair**, siu-si̍p++(修習)++; pa-lói++(巴理)++; chiáⁿ-lí++(整理)++; siu-chiáⁿ++(修整)++; póu++(補)++.
+**repair**, siu-si̍p++(收拾)++; pa-lói++(巴禮)++; chiáⁿ-lí++(整理)++; siu-chiáⁿ++(修整)++; póu++(補)++.
 
 **repay**, hôiⁿ++(還)++; hâiⁿ++(還)++; kau-hôiⁿ++(交還)++; pûe-hôiⁿ++(陪還)++. see RECOMPENSE.
 
@@ -10391,7 +10391,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **repose**, uaⁿ-hiah++(安歇)++; khang-lêng++(空靈)++; phêng-an++(平安)++; uaⁿ-chẽⁿ++(安靜)++.
 
-**represent**, *by drawing*, ūe-tôu++(話圖)++. *a matter*, thîn-mêng++(陳明)++; piâⁿ--kùe++(平過)++. *stand for*, thòi++(代)++; àiⁿ-tsò++(愛做)++; thòi-tsò++(代做)++. *as a plaintiff*, phõ-kò++(報告)++.
+**represent**, *by drawing*, ūe-tôu++(畫圖)++. *a matter*, thîn-mêng++(陳明)++; piâⁿ--kùe++(平過)++. *stand for*, thòi++(代)++; àiⁿ-tsò++(愛做)++; thòi-tsò++(代做)++. *as a plaintiff*, phõ-kò++(抱告)++.
 
 **repress**, at-chí++(遏制)++; iap-chí++(壓止)++; kìm-chí++(禁止)++. *anger*, lún-khì++(忍氣)++. *one's feelings & keep silent*, lún-khì thun-siaⁿ++(忍氣吞聲)++.
 
@@ -10419,7 +10419,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **request**, chhiáⁿ++(請)++; khiû++(求)++; khṳ́n++(懇)++; pài-thoh++(拜託)++.
 
-**require**, ēng++(用)++; su-ēng++(需用)++; ēng--tie̍h++(用着)++; tie̍h-ũ++(着有)++; tie̍h-àiⁿ++(着愛)++; bõi-tit-mién++(袂得免)++. *do not*, mín-ēng++(免用)++; khó-íⁿ-mín++(可椅免)++; ēng-m̄-tie̍h++(用毋着)++; m̄-ēng--tie̍h++(毋用着)++.
+**require**, ēng++(用)++; su-ēng++(需用)++; ēng--tie̍h++(用着)++; tie̍h-ũ++(着有)++; tie̍h-àiⁿ++(着愛)++; bõi-tit-mién++(袂得免)++. *do not*, mín-ēng++(免用)++; khó-íⁿ-mín++(可以免)++; ēng-m̄-tie̍h++(用毋着)++; m̄-ēng--tie̍h++(毋用着)++.
 
 **requisite**, kín-iàu++(緊要)++; chhiet-iàu++(切要)++; iàu-kín++(要緊)++; chì-iàu++(至要)++.
 
@@ -10477,7 +10477,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **restrict**, kiám-sok++(減束)++; hãn-tōu++(限度)++; hãn-chí++(限制)++.
 
-**result**, kuan-hĩ++(關喜)++; kan-hĩ++(干喜)++; khan-gāi++(牽礙)++; kat-kúeⁿ++(結果)++; hāu-ngiām++(效驗)++.
+**result**, kuan-hĩ++(關係)++; kan-hĩ++(干係)++; khan-gāi++(牽礙)++; kat-kúeⁿ++(結果)++; hāu-ngiām++(效驗)++.
 
 **resume**, *one's duties*, ho̍k-cheh++(復冊)++.
 
@@ -10571,9 +10571,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **ridicule**, ki-chhiáu++(譏嘲笑)++; tshú-chhiè++(取笑)++; chhiáu-chhiè++(嘲笑)++; hì-chhiè++(戲笑)++.
 
-**ridiculous**, hó-chhiè++(好笑)++; khó-chhiè++(好笑)++; bô-tõ-lí++(無道理)++.
+**ridiculous**, hó-chhiè++(好笑)++; khó-chhiè++(可笑)++; bô-tõ-lí++(無道理)++.
 
-**right**, tie̍h++(着)++; chiàⁿ++(正)++; sĩ++(侍)++; bô-tshò++(無錯)++; *a wrong*, sin-uan++(申冤)++. *and wrong*, sĩ-hui++(是非)++; tn̂g-tó++(長短)++. *do*, tshông-chiàⁿ++(衝正)++. *hit the right method*, tie̍h-huap++(着法)++. *it is my*, sĩ uá hūn-tsôiⁿ só-eng-kai++(是我分前所應該)++; sĩ úa pńg-téng só-tit++(是我本等所得)++. *hand*, chiàⁿ-chhiú++(正手)++; iũ-chhiú++(右手)++. *put to rights*, chiáⁿ-lí++(整理)++; siu-chiáⁿ++(修整)++; tshâu-sì-chiàⁿ++(曹四正)++. *how can this be right*, khí-ũ tshṳ́-lí++(起有自理)++.
+**right**, tie̍h++(着)++; chiàⁿ++(正)++; sĩ++(侍)++; bô-tshò++(無錯)++; *a wrong*, sin-uan++(申冤)++. *and wrong*, sĩ-hui++(是非)++; tn̂g-tó++(長短)++. *do*, tshông-chiàⁿ++(衝正)++. *hit the right method*, tie̍h-huap++(着法)++. *it is my*, sĩ uá hūn-tsôiⁿ só-eng-kai++(是我分前所應該)++; sĩ úa pńg-téng só-tit++(是我本等所得)++. *hand*, chiàⁿ-chhiú++(正手)++; iũ-chhiú++(右手)++. *put to rights*, chiáⁿ-lí++(整理)++; siu-chiáⁿ++(修整)++; tshâu-sì-chiàⁿ++(移四正)++. *how can this be right*, khí-ũ tshṳ́-lí++(豈有此理)++.
 
 **righteous**, ngĩ++(義)++; kong-ngĩ++(公義)++. *to declare*, chheng-ngĩ++(稱義)++.
 
@@ -10905,7 +10905,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **sceptical**, ũ-gî-sim++(有疑心)++; m̄-sìn++(毋信)++.
 
-**sceptre**, chhiâu-póiⁿ++(朝板)++; chhiâu-hut++(朝笏)++; zû-ì++(如意)++; khûan-pèⁿ++(圈柄)++.
+**sceptre**, chhiâu-póiⁿ++(朝板)++; chhiâu-hut++(朝笏)++; zû-ì++(如意)++; khûan-pèⁿ++(權柄)++.
 
 **scheme**, kòi++(計)++; kòi-chheh++(計冊)++; kòi-mông++(計謀)++. *to*, mông-ue̍h++(謀劃)++; mông-ûi++(謀爲)++; thû-mông++(圖謀)++; siet-kòi++(設計)++; siet-mông++(設謀)++; siẽⁿ-sim-sṳ̄++(想心事)++. *scheming*, ũ-sim-sṳ̄++(有心事)++.
 
@@ -10933,7 +10933,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **scorpion**, hiet++(蝎)++; hiet-kiáⁿ++(蝎囝)++.
 
-**scoundrel**, kuang-kùn++(誆棍)++; láu-kiáⁿ++(老囝)++; kùn-thû++(棍徒)++; húiⁿ-thû++(匪徒)++; húiⁿ-lūi++(匪類)++.
+**scoundrel**, kuang-kùn++(光棍)++; láu-kiáⁿ++(老囝)++; kùn-thû++(棍徒)++; húiⁿ-thû++(匪徒)++; húiⁿ-lūi++(匪類)++.
 
 **scour**, chhiù++(漱)++; lṳ̀++(慮)++. *with sand*, sua-chhiù++(沙漱)++.
 
@@ -11049,7 +11049,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **self**, ka-kī++(家己)++; tsṳ̃-kí++(自己)++; pńg-sin++(本身)++; chhin-sin++(親身)++. *self-examination*, tsṳ̃-séng++(自省)++; tsṳ̃-sṳ++(自私)++; tsṳ̃-siẽⁿ++(自想)++; tsṳ̃-tshat++(自察)++; tsṳ̃-mn̄g++(自問)++; tsṳ̃-àn++(自按)++; séⁿ-tshat ka-kī++(省察家己)++; mn̄g-sim chẽⁿ-àn++(問心靜案)++. *self-satisfied*, tsṳ̃-tsok++(自囑)++. *self-conceit*, tsṳ̃-múaⁿ++(自滿)++; tsṳ̃-sĩ++(自是)++. *injure oneself*, tshâng-hāi ka-kī++(殘害家己)++; tsṳ̃-pãu++(自暴)++; tsṳ̃-khì++(自棄)++; tsṳ̃-tshú khî-hũa++(自取奇禍)++.
 
-**selfish**, sṳ-sim++(私心)++; tsṳ̃-sim ũi-kí++(自心謂己)++; lĩ-kí++(私心)++; kù-kí++(私心)++. *unselfish*, chì-kong bô-sṳ++(至公無私)++; thãi-nâng zû-kí++(待人儒己)++; kãu-nâng po̍h-kí++(厚人薄己)++.
+**selfish**, sṳ-sim++(私心)++; tsṳ̃-sim ũi-kí++(自心謂己)++; lĩ-kí++(私心)++; kù-kí++(私心)++. *unselfish*, chì-kong bô-sṳ++(至公無私)++; thãi-nâng zû-kí++(待人如己)++; kãu-nâng po̍h-kí++(厚人薄己)++.
 
 **sell**, bōi++(賣)++; phùaⁿ++(判)++. *rice*, thiè-chhek++(糶粟)++; thiè-bí++(糶米)++. *on credit*, chhia-bōi++(賒賣)++. *for ready money*, hīn-bōi++(現賣)++; hīn-chîⁿ kau-kuan++(現錢交關)++. *by weight*, lũn-kṳn-bōi++(論根賣)++. *by auction*, khà-lõi-lang++(扣黎郎)++; khà-lang++(扣郎)++.
 
@@ -11099,7 +11099,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **set**, *a*, che̍k-hù++(一副)++; che̍k-thàu++(一套)++; che̍k-kah++(一甲)++. *of books, a whole work*, che̍k-pang++(一方)++. *changing sets of men several times a day*, che̍k-ji̍t ūaⁿ ke-sek-nâng++(一日換家色人)++. *a mean set*, hiã-liû-pùe++(下流輩)++.
 
-**set**, *to*, *as gems*, sieⁿ-ge̍k++(傷獄)++. *as fruit*, kat-si̍t++(結實)++; kit-chí++(結指)++. *as sun*, ji̍t lo̍h++(日落)++; ji̍t-thâu lo̍h-suaⁿ++(日頭落山)++. *a watch*, sî-pie tshâu-chiàⁿ++(時標曹正)++. *to set about*, khui-chhiú++(開手)++; khí-kang++(起工)++. *at rest*, pàng-uaⁿ++(放安)++. *bones*, chiap-kut++(接骨)++. *eggs*, khṳt koi-bó pū-nñg++(乞雞母孵卵)++. *down*, pàng--tõ-kò++(放在塊)++; hẽ--lo̍h-khṳ̀++(下落去)++. *fire to*, pàng-húe++(放火)++; to̍h-húe++(着火)++. *fire to (accidentally)*, sit-húe++(失火)++. *one's heart on*, liû-sim++(留心)++; tsuan-sim++(專心)++; tsù-liãm++(注念)++; tsù-ì++(注意)++; kù-sim kù-ì++(顧心顧意)++. *out on a journey*, khí-sin++(起身)++; khí-kiâⁿ++(起行)++; khí-thêng++(起程)++; tõng-sin++(動身)++. *the teeth on edge*, khí nńg++(起軟)++. *out trees*, chèng-chhiū-tsai++(種樹栽)++. *the table*, pái-toh++(擺桌)++; pái-tshn̂g++(擺床)++; pái-siet++(擺設)++. *up*, li̍p++(立)++; siet-li̍p++(設立)++. *a shop*, sin-khui-phòu++(新開舖)++. *sail*, khí-phâng++(起帆)++. *an example*, piáu-iēⁿ++(表樣)++; tsò-iēⁿ khṳt-nâng-o̍h++(做樣乞人學)++.
+**set**, *to*, *as gems*, sieⁿ-ge̍k++(傷獄)++. *as fruit*, kat-si̍t++(結實)++; kit-chí++(結子)++. *as sun*, ji̍t lo̍h++(日落)++; ji̍t-thâu lo̍h-suaⁿ++(日頭落山)++. *a watch*, sî-pie tshâu-chiàⁿ++(時標移正)++. *to set about*, khui-chhiú++(開手)++; khí-kang++(起工)++. *at rest*, pàng-uaⁿ++(放安)++. *bones*, chiap-kut++(接骨)++. *eggs*, khṳt koi-bó pū-nñg++(乞雞母孵卵)++. *down*, pàng--tõ-kò++(放在塊)++; hẽ--lo̍h-khṳ̀++(下落去)++. *fire to*, pàng-húe++(放火)++; to̍h-húe++(着火)++. *fire to (accidentally)*, sit-húe++(失火)++. *one's heart on*, liû-sim++(留心)++; tsuan-sim++(專心)++; tsù-liãm++(注念)++; tsù-ì++(注意)++; kù-sim kù-ì++(顧心顧意)++. *out on a journey*, khí-sin++(起身)++; khí-kiâⁿ++(起行)++; khí-thêng++(起程)++; tõng-sin++(動身)++. *the teeth on edge*, khí nńg++(起軟)++. *out trees*, chèng-chhiū-tsai++(種樹栽)++. *the table*, pái-toh++(擺桌)++; pái-tshn̂g++(擺床)++; pái-siet++(擺設)++. *up*, li̍p++(立)++; siet-li̍p++(設立)++. *a shop*, sin-khui-phòu++(新開舖)++. *sail*, khí-phâng++(起帆)++. *an example*, piáu-iēⁿ++(表樣)++; tsò-iēⁿ khṳt-nâng-o̍h++(做樣乞人學)++.
 
 **settle**, *an offair*, lí-chheng-tshó++(理清草)++; lí-tiāⁿ-tie̍h++(理定着)++; tiāⁿ-tie̍h++(定着)++. *how are you going to settle this*, àiⁿ-tsò-nîⁿ huat-lo̍h++(愛做呢發落)++. *settled*, tieh-lo̍h++(着落)++; tàⁿ-theng-thó++(呾停討)++. *accounts*, ap-siàu++(押數)++; chheng-siàu++(清數)++; siàu-ba̍k chheng-tshó++(數目清草)++. *as muddy water*, tsõ-chheng++(坐清)++. *a bargain*, bói-sêng++(買成)++. *a quarrel*, hûa-sek++(和息)++.
 
@@ -11269,7 +11269,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **shuttle-cock**, ìⁿ++(燕)++; ìn++(印)++. *to play*, phah-ìⁿ++(拍燕)++; tiāu-ìn++(掉印)++; phah-ìn++(拍印)++.
 
-**shy**, ùi-siáu-lí++(毋敢見人[訓])++; m̄-káⁿ kìⁿ-nâng++(毋敢見人)++; kiu-niuⁿ++(勼妞)++; kiu-kiu niuⁿ-niuⁿ++(勼勼妞妞)++.
+**shy**, ùi-siáu-lí++(毋敢見人[訓])++; m̄-káⁿ kìⁿ-nâng++(毋敢見人)++; kiu-niuⁿ++(勼扭)++; kiu-kiu niuⁿ-niuⁿ++(勼勼扭扭)++.
 
 **Siam**, Siām-lô++(暹羅)++.
 
@@ -11453,7 +11453,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **small-pox**, tshut-tsu++(出珠)++; gâu-a-niêⁿ++(賢阿娘)++; sún-tsái++(損仔)++; thien-hue++(天花)++. see **pox**.
 
-**smart**, lêng-lāi++(伶俐)++; kha-chhiú õi++(骹手能)++; kha-chhiú khin-khùe kiau-kiah++(骹手輕快嬌揭)++.
+**smart**, lêng-lāi++(伶俐)++; kha-chhiú õi++(骹手能)++; kha-chhiú khin-khùe kiau-kiah++(骹手輕快矯捷)++.
 
 **smart**, *to*, tshǹg-thiàⁿ++(刺痛)++. *cause to, as the eyes*, soh--tie̍h++(束着)++.
 
@@ -11545,13 +11545,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **solemn**, ngiâm-sok++(嚴肅)++; ui-ngiâm++(威嚴)++.
 
-**solicit**, chhiáⁿ++(請)++; khiû++(求)++; thó++(討)++; koh-lô++++. *solicitous*, khùa-sim++(掛心)++; khùa-lṳ̃++(掛慮)++; khùa-liãm++(掛念)++.
+**solicit**, chhiáⁿ++(請)++; khiû++(求)++; thó++(討)++; koh-lô++(閣羅)++. *solicitous*, khùa-sim++(掛心)++; khùa-lṳ̃++(掛慮)++; khùa-liãm++(掛念)++.
 
 **solid**, si̍t++(實)++; tōiⁿ++(𠕇)++; tsa̍t-thâu++(實頭)++ *(opp. of khang-khak, hollow)*; ún-tǹg++(穩當)++.
 
 **soliloquy**, ka-kī-tàⁿ ka-kī-hûe++(家己呾家己回)++; tsṳ̃-ngân tsṳ̃-gṳ́++(自言自語)++.
 
-**solitary**, to̍k++(獨)++; kou-to̍k++(孤獨)++; kou-chiau++(孤巢)++; sok-mo̍k++(肅穆)++; kou-sok++(孤肅)++; bô-phũaⁿ++(無伴)++; to̍k-kṳ++(獨居)++; to̍k-tshú++(獨處)++; sok-chẽⁿ++(肅靜)++; sok-liâu++(寂寞)++.
+**solitary**, to̍k++(獨)++; kou-to̍k++(孤獨)++; kou-chiau++(孤巢)++; sok-mo̍k++(肅穆)++; kou-sok++(孤寂)++; bô-phũaⁿ++(無伴)++; to̍k-kṳ++(獨居)++; to̍k-tshú++(獨處)++; sok-chẽⁿ++(寂靜)++; sok-liâu++(寂寞)++.
 
 **solstice**, *summer*, hē-chì++(夏至)++. *winter*, tang-chì++(冬至)++.
 
@@ -11609,7 +11609,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **space**, tī-hng++(地方)++. *vacant*, khang-tī++(空地)++; khang-ūi++(空位)++. *large open*, khùaⁿ-tiêⁿ++(寬場)++; khùang-tiâⁿ++(寬埕)++. *in the space of one hour*, che̍k-tiám-cheng tsṳ-kan++(一點鐘之間)++. *leave a*, làng++(漏)++; làng-khang++(漏空)++.
 
-**spacious**, khuah++(闊)++; khuah-khǹg++(闊囥)++; khùaⁿ++(寬)++; khuan-khuah++(寬闊)++; khùaⁿ-chhēng++(寬清)++.
+**spacious**, khuah++(闊)++; khuah-khǹg++(闊曠)++; khùaⁿ++(寬)++; khuan-khuah++(寬闊)++; khùaⁿ-chhēng++++.
 
 **spade**, thih-chhiâng++(鐵鍬)++; phûe-chhiâng++(皮鍬)++.
 
@@ -11717,7 +11717,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **spoon**, sî++(匙)++; thng-sî++(湯匙)++; thiâu-keⁿ++(調羹)++. *lift with a*, ié++(舀)++.
 
-**sport**, sńg++(耍)++; sie-sńg++(相耍)++; thit-thô++(佚佗)++; sie-pa-lói++(相爸禮)++.
+**sport**, sńg++(耍)++; sie-sńg++(相耍)++; thit-thô++(佚佗)++; sie-pa-lói++(相巴禮)++.
 
 **spot**, tiám++(點)++. *indelible, on the body*, ou-kì++(烏記)++. *spotless*, bô-tiám++(無點)++; bô-hiâ++(無瑕)++. *spotted*, poiⁿ-tiám++(斑點)++; hue-tiám++(花點)++; seⁿ-tiám++(生點)++; hue-long++(花瓏)++; ũ-ìn-chiah++(有印跡)++.
 
@@ -11935,7 +11935,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **stone**, chie̍h++(石)++; chie̍h-põu++(石部)++. *of fruits*, hu̍t++(核)++. *stone-quarry*, phah-chie̍h-suaⁿ++(打石山)++. *to stone*, ka̍k-chie̍h++(捔石)++; tsang-chie̍h ka̍k++(將石捔)++.
 
-**stool**, íⁿ-thâu++(椅頭)++. *close*, tang-si-íⁿ++(當司椅)++. *go to*, kiâⁿ-tãng++(行當)++; kiâⁿ-tãi-piẽn++(行大便)++; tshut-kiong++(出宮)++. *foot-stool*, kha-ta̍h-íⁿ++(骹踏椅)++.
+**stool**, íⁿ-thâu++(椅頭)++. *close*, tang-si-íⁿ++(東司椅)++. *go to*, kiâⁿ-tãng++(行動)++; kiâⁿ-tãi-piẽn++(行大便)++; tshut-kiong++(出恭)++. *foot-stool*, kha-ta̍h-íⁿ++(骹踏椅)++.
 
 **stoop**, khut-sin++(屈身)++; phak-ku++(趴佝)++.
 
@@ -12051,7 +12051,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **stunted**, *trees*, khut-thâu-chhiū++(屈頭樹)++; ói-chhiū++(矮樹)++.
 
-**stupid**, ngà++(㦙)++; ngô-ngà++(愚㦙)++; ngô-tshún++(愚蠢)++; ngô-phak++(愚博)++; ngô-lú++(愚魯)++; lú-tũn++(魯鈍)++; ngûi-phûe++(危皮)++; m̄-hiáu++(毋曉)++; móng-tóng++(懵懂)++; chhi-ko++(痴哥)++; chhi-ngâi++(痴呆)++; chhi-ngà++(痴㦙)++; chhi-tsuat++(痴拙)++; ngōng-ngōng++(戇戇)++; khòng-ngōng++(控戇)++.
+**stupid**, ngà++(㦙)++; ngô-ngà++(愚㦙)++; ngô-tshún++(愚蠢)++; ngô-phak++++; ngô-lú++(愚魯)++; lú-tũn++(魯鈍)++; ngûi-phûe++(危皮)++; m̄-hiáu++(毋曉)++; móng-tóng++(懵懂)++; chhi-ko++(痴哥)++; chhi-ngâi++(痴呆)++; chhi-ngà++(痴㦙)++; chhi-tsuat++(痴拙)++; ngōng-ngōng++(戇戇)++; khòng-ngōng++(悾戇)++.
 
 **stupefied**, kông++(戇)++; kông-kông++(戇戇)++.
 
@@ -12083,7 +12083,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **suborn**, bói-tsok++(買囑)++.
 
-**subscribe**, chhiam-miâⁿ++(簽名)++; tsham-miâⁿ++(參名)++; lo̍h-miâⁿ++(落名)++; tôi-miâⁿ++(題名)++. *money*, tôi-chîⁿ++(題錢)++; kien-chîⁿ++(堅錢)++; kien-tôi++(堅題)++; chiam-tôi++(簽題)++. *subscription list*, âng-tsúa-chhiam++(紅紙簽)++; kien-phõu++(堅簿)++; uân-phõu++(完簿)++.
+**subscribe**, chhiam-miâⁿ++(簽名)++; tsham-miâⁿ++(參名)++; lo̍h-miâⁿ++(落名)++; tôi-miâⁿ++(題名)++. *money*, tôi-chîⁿ++(題錢)++; kien-chîⁿ++(捐錢)++; kien-tôi++(捐題)++; chiam-tôi++(簽題)++. *subscription list*, âng-tsúa-chhiam++(紅紙簽)++; kien-phõu++(捐簿)++; uân-phõu++(員簿)++.
 
 **subsequent**, ãu++(後)++; ãu-lâi++(後來)++.
 
@@ -12091,9 +12091,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **subsistence**, chia̍h-ēng++(食用)++; ji̍t-ēng++(日用)++; hùi-ēng++(費用)++; bí-niêⁿ++(米糧)++.
 
-**substance**, thói++(體)++; hêng-thói++(形體)++; si̍t-thói++(實體)++. *shadow and*, hṳ-si̍t++(虛實)++. *of*, tãi-lia̍k++(大略)++; tãi-khài++(大概)++; tãi-ì++(大意)++; tãi-iàu++(大要)++; tãi-tsut++(大卒)++; kang-niáⁿ++(工領)++. *substantial*, kien-tōiⁿ++(堅殿)++.
+**substance**, thói++(體)++; hêng-thói++(形體)++; si̍t-thói++(實體)++. *shadow and*, hṳ-si̍t++(虛實)++. *of*, tãi-lia̍k++(大略)++; tãi-khài++(大概)++; tãi-ì++(大意)++; tãi-iàu++(大要)++; tãi-tsut++(大卒)++; kang-niáⁿ++(綱領)++. *substantial*, kien-tōiⁿ++(堅𠕇)++.
 
-**substitute**, thòi++(替)++; siang-thòi++(相替)++. *(plaintiff)*, phõ-kò++(抱塊)++.
+**substitute**, thòi++(替)++; siang-thòi++(相替)++. *(plaintiff)*, phõ-kò++(抱告)++.
 
 **subterraneous**, thôu-tói++(塗底)++; tī-tói++(地底)++. *passage*, tī-ẽ àm-lōu++(地下暗路)++.
 
@@ -12219,7 +12219,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Supreme**, *The*, Chì-Siãng--chiá++(至上者)++.
 
-**sure**, ún-kù++(定着)++; kien-kù++(定着)++; thó-tàng++(妥當)++. *surely*, tiāⁿ-tie̍h++(定着)++.
+**sure**, ún-kù++(穩固)++; kien-kù++(堅固)++; thó-tàng++(妥當)++. *surely*, tiāⁿ-tie̍h++(定着)++.
 
 **surety**, tam-sêng++(擔承)++; tam-pó++(擔保)++; pó-niáⁿ++(保領)++; tam-jīn++(擔認)++; tong-pó++(中保)++.
 
@@ -12329,13 +12329,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tael**, *one*, *of silver*, che̍k-niéⁿ-ngṳ̂n++(一兩銀)++.
 
-**tail**, búe++(尾)++. *peacock's tail feather*, khóng-chhieh-lêng++(孔尺靈)++. *the peacock spreads its tail*, khóng-chhieh khui-phîn++(孔尺開摒)++. *to wear a peacock's tail feather*, tài khóng-chhieh-lêng++(戴孔尺靈)++; tì khóng-chhieh-lêng++(置孔尺靈)++. see QUEUE.
+**tail**, búe++(尾)++. *peacock's tail feather*, khóng-chhieh-lêng++(孔雀翎)++. *the peacock spreads its tail*, khóng-chhieh khui-phîn++(孔雀開屏)++. *to wear a peacock's tail feather*, tài khóng-chhieh-lêng++(戴孔雀翎)++; tì khóng-chhieh-lêng++(置孔雀翎)++. see QUEUE.
 
 **tailor**, tshâi-hông++(裁縫)++; thīⁿ-saⁿ sai-pẽ++(縫衫司阜)++.
 
 **taint**, tiam-u++(沾污)++; jiám++(染)++; jiám-u++(染污)++; ma̍k--tie̍h++(目着)++. *tainted, as fish*, ien++(蔫)++; sie̍h-bī++(餿味)++.
 
-**take**, khie̍h++(挈)++; tshú++(取)++; niⁿ++(奶)++; lah++(擸)++; put++(不)++; tsang++(棕)++. *your book*, khie̍h lṳ́-pńg-chheh++(挈汝本冊)++. *a fort*, phah-phùa phàu-thâi++(拍破炮刣)++. *a standard*, chhiéⁿ-kî++(搶旗)++; to̍h-kî++(擇旗)++. *away*, khie̍h-khṳ̀++(挈去)++; siu-khí++(收起)++; to̍h-tiāu++(擇掉)++. *along with tea, &c*, phùe-tê++(配茶)++; phùe-tê-chia̍h++(配茶食)++. *with one*, thùa-khie̍h++(退挈)++. *the air*, lā-liâng++(納凉)++. *an inventory*, tiám-hùe-mue̍h++(點貨物)++; kiám-tiám++(檢點)++. *by lot*, khiah-khau++(隙摳)++. *care*, tsṳ́-sòi++(仔細)++; kṳ́n-sín++(謹慎)++; sié-sim++(小心)++; kṳ́n-sim++(謹心)++; sòi-jī++(細字)++. *care of*, thóiⁿ-siú++(睇守)++; chiàu-kù++(照顧)++; liāu-lí++(料理)++. *care of oneself*, tsṳ̃-kí pó-tõng++(自己保重)++. *down*, khie̍h--lo̍h-lâi++(挈落來)++; pak--lo̍h-lâi++(剝落來)++. *exercise*, khṳ̀-thit-thô++(去佚佗)++; kiâⁿ-thit-thô++(行佚佗)++; kiâⁿ-siau-iâu++(行逍遙)++; ôiⁿ-pōu++(閒步)++; kîn-kiâⁿ++(巡行)++; kiâⁿ-lâi kiâⁿ-khṳ̀++(行來行去)++. *one by the hand*, khan-chhiú++(牽手)++. *leave of*, kàu-sî++(到時)++; sî-pie̍t++(時別)++; siang-pie̍t++(相别)++; chiãm-pie̍t++(暫別)++; kàu-pie̍t++(到別)++. *one in (cheat)*, tshuah++(撮)++; phièn++(騙)++; kuang-phièn++(光騙)++. *medicine*, chia̍h-ie̍h++(食藥)++. *out of the water*, liâu--tie̍h++(寮着)++. *off, shoes or clothes*, thǹg-tiāu++(褪掉)++. *off, a hat*, pak-tiāu++(剝掉)++; hien-tiāu++(掀掉)++. *one's hat to any one*, hien-khí-bō tsò-lói-siàu++(掀起帽做禮數)++. *off a cover*, iãuⁿ-khòiⁿ++++; iãuⁿ-khàm++++; iãuⁿ-khui++++. *out a splinter*, thie-tshuaⁿ++(挑閂)++; kiah-chhì++(揭試)++. *take snuff*, chia̍h-phīⁿ-hun++(食鼻薰)++; hngh-phīⁿ-hun++++. *take snuff (out of bottle)*, thie-phīⁿ-hun++(挑鼻薰)++. *up, with chopsticks*, koih++(挾)++. *with two fingers*, nuehⁿ++(捏)++; niⁿ++(奶)++. *under the arm*, ko̍ih tõ koh-ẽ++(夾在閣下)++. *the right hand path*, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀++(對正手爿去)++. *a disease*, tie̍h-pēⁿ++(着病)++; ùe-tie̍h-pēⁿ++(慰着病)++; jiám-tie̍h-pēⁿ++(染着病)++; thûan-jiám++(傳染)++. *upon oneself*, ka-kī tam-sêng++(家己擔承)++; taⁿ-tng++(擔當)++. *take upon oneself (without authority)*, tsṳ̃-tsuan++(自專)++. *fire*, to̍h-húe++(着火)++. *a wife*, tshūa-chhin++(娶親)++; tshūa-bóu++(娶婦)++; tì-ke++(置家)++. *hold of*, chhiú lia̍h++(手掠)++; khie̍h-kín++(挈緊)++; khîⁿ++(擎)++; khîⁿ-kín++(鉗緊)++; mán-kín++(挽緊)++; khan-kín++(牽緊)++. *hold of one's queue*, khím-piⁿ++(撳邊)++; tsáng-piⁿ++(總邊)++; mán-piⁿ++(挽邊)++.
+**take**, khie̍h++(挈)++; tshú++(取)++; niⁿ++(奶)++; lah++(擸)++; put++(不)++; tsang++(棕)++. *your book*, khie̍h lṳ́-pńg-chheh++(挈汝本冊)++. *a fort*, phah-phùa phàu-thâi++(拍破炮刣)++. *a standard*, chhiéⁿ-kî++(搶旗)++; to̍h-kî++(擇旗)++. *away*, khie̍h-khṳ̀++(挈去)++; siu-khí++(收起)++; to̍h-tiāu++(擇掉)++. *along with tea, &c*, phùe-tê++(配茶)++; phùe-tê-chia̍h++(配茶食)++. *with one*, thùa-khie̍h++(退挈)++. *the air*, lā-liâng++(納凉)++. *an inventory*, tiám-hùe-mue̍h++(點貨物)++; kiám-tiám++(檢點)++. *by lot*, khiah-khau++(隙摳)++. *care*, tsṳ́-sòi++(仔細)++; kṳ́n-sín++(謹慎)++; sié-sim++(小心)++; kṳ́n-sim++(謹心)++; sòi-jī++(細字)++. *care of*, thóiⁿ-siú++(睇守)++; chiàu-kù++(照顧)++; liāu-lí++(料理)++. *care of oneself*, tsṳ̃-kí pó-tõng++(自己保重)++. *down*, khie̍h--lo̍h-lâi++(挈落來)++; pak--lo̍h-lâi++(剝落來)++. *exercise*, khṳ̀-thit-thô++(去佚佗)++; kiâⁿ-thit-thô++(行佚佗)++; kiâⁿ-siau-iâu++(行逍遙)++; ôiⁿ-pōu++(閒步)++; kîn-kiâⁿ++(巡行)++; kiâⁿ-lâi kiâⁿ-khṳ̀++(行來行去)++. *one by the hand*, khan-chhiú++(牽手)++. *leave of*, kàu-sî++(到時)++; sî-pie̍t++(時別)++; siang-pie̍t++(相别)++; chiãm-pie̍t++(暫別)++; kàu-pie̍t++(到別)++. *one in (cheat)*, tshuah++(撮)++; phièn++(騙)++; kuang-phièn++(誆騙)++. *medicine*, chia̍h-ie̍h++(食藥)++. *out of the water*, liâu--tie̍h++(蹽着)++. *off, shoes or clothes*, thǹg-tiāu++(褪掉)++. *off, a hat*, pak-tiāu++(剝掉)++; hien-tiāu++(掀掉)++. *one's hat to any one*, hien-khí-bō tsò-lói-siàu++(掀起帽做禮數)++. *off a cover*, iãuⁿ-khòiⁿ++++; iãuⁿ-khàm++++; iãuⁿ-khui++++. *out a splinter*, thie-tshuaⁿ++(挑閂)++; kiah-chhì++(揭試)++. *take snuff*, chia̍h-phīⁿ-hun++(食鼻薰)++; hngh-phīⁿ-hun++++. *take snuff (out of bottle)*, thie-phīⁿ-hun++(挑鼻薰)++. *up, with chopsticks*, koih++(挾)++. *with two fingers*, nuehⁿ++(捏)++; niⁿ++(奶)++. *under the arm*, ko̍ih tõ koh-ẽ++(夾在閣下)++. *the right hand path*, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀++(對正手爿去)++. *a disease*, tie̍h-pēⁿ++(着病)++; ùe-tie̍h-pēⁿ++(慰着病)++; jiám-tie̍h-pēⁿ++(染着病)++; thûan-jiám++(傳染)++. *upon oneself*, ka-kī tam-sêng++(家己擔承)++; taⁿ-tng++(擔當)++. *take upon oneself (without authority)*, tsṳ̃-tsuan++(自專)++. *fire*, to̍h-húe++(着火)++. *a wife*, tshūa-chhin++(娶親)++; tshūa-bóu++(娶婦)++; tì-ke++(置家)++. *hold of*, chhiú lia̍h++(手掠)++; khie̍h-kín++(挈緊)++; khîⁿ++(纏)++; khîⁿ-kín++(纏緊)++; mán-kín++(挽緊)++; khan-kín++(牽緊)++. *hold of one's queue*, khím-piⁿ++(撳邊)++; tsáng-piⁿ++(總邊)++; mán-piⁿ++(挽邊)++.
 
 **tale**, *a*, che̍k-tn̄g-kóu++(一段古)++; kóu-chheh++(古冊)++. *to tell tales*, o̍h-kóu++(學古)++. *tale-bearer*, puaⁿ-sĩ-hui++(搬是非)++; puaⁿ-pái++(搬擺)++; puaⁿ-so++(搬唆)++; kòiⁿ-so++(間唆)++.
 
@@ -12357,7 +12357,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tame**, se̍k++(熟)++. *to*, chhī-kàu-se̍k++(飼到熟)++; khu-khek i-kâi-sèⁿ lo̍h++(驅刻伊个性落)++.
 
-**tamper**, *with*, sie-pa-lói++(相爸禮)++; sie-bú-lõng++(相舞弄)++; sie-pin-tǹg++(相平當)++.
+**tamper**, *with*, sie-pa-lói++(相巴禮)++; sie-bú-lõng++(相舞弄)++; sie-pin-tǹg++(相摒擋)++.
 
 **tan**, *to*, se̍k-phûe++(熟皮)++. *tanner*, se̍k-phûe sai-pẽ++(熟皮司阜)++.
 
@@ -12465,7 +12465,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **terminate**, uân++(完)++; hiah++(歇)++; liáu++(了)++; suah++(煞)++.
 
-**termination**, kiáu-búe++(攪尾)++; suah-búe++(煞尾)++; hãn++(限)++; chí++(止)++; kài-hãn++(界限)++.
+**termination**, kiáu-búe++(繳尾)++; suah-búe++(煞尾)++; hãn++(限)++; chí++(止)++; kài-hãn++(界限)++.
 
 **terrace**, *as field or garden on hillside*, suaⁿ-siâ++(山斜)++.
 
@@ -12523,7 +12523,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **thimble**, pòu-tsóiⁿ++(布指)++; phûe-tsóiⁿ++(皮指)++; tâng-tsóiⁿ++(銅指)++.
 
-**thin**, po̍h++(薄)++; so++(疏)++; so-po̍h++(疏薄)++; chhieh++(尺)++; kà++(較)++; hi++(稀)++; lang++(郎)++; sán++(㾪)++. *congee*, chhieh-mûeⁿ++(淖糜)++; kà-mûeⁿ++(教糜)++.
+**thin**, po̍h++(薄)++; so++(疏)++; so-po̍h++(疏薄)++; chhieh++(尺)++; kà++(較)++; hi++(稀)++; lang++(郎)++; sán++(㾪)++. *congee*, chhieh-mûeⁿ++(淖糜)++; kà-mûeⁿ++(漖糜)++.
 
 **thing**, mue̍h++(物)++; mue̍h-kiãⁿ++(物件)++. *no such thing*, bô-chí-kâi chhêng-lí++(無此個情理)++. *how many things*, jie̍h-tsōi kiãⁿ-mue̍h++(若㩼件物)++.
 
@@ -12679,7 +12679,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tone**, siaⁿ-im++(聲音)++. *the eight tones*, poih-im++(八音)++.
 
-**tongs**, thih-kîⁿ++(鐵鉗)++; thih-khîⁿ++(鐵釺)++; thih-tṳ̄++(鐵箸)++.
+**tongs**, thih-kîⁿ++(鐵鉗)++; thih-khîⁿ++(鐵鉗)++; thih-tṳ̄++(鐵箸)++.
 
 **tongue**, chi̍h++(舌)++. *tip of*, chi̍h-thâu++(舌頭)++. *to put out the*, chi̍h tshun--tshut-lâi++(舌伸出來)++. *to scrape the*, kueh-chi̍h++(刮舌)++. *tongue scraper*, chi̍h-kueh++(舌刮)++. *mother-tongue*, pńg-tī-ūe++(本地話)++; pńg-thôu-ūe++(本頭話)++; thôu-im++(頭音)++.
 
@@ -13007,7 +13007,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **ulcer**, tshng++(瘡)++; phùa-nūaⁿ++(破爛)++. *ulcerate*, seⁿ-tshng++(生瘡)++; seⁿ-mîⁿ++(生糜)++.
 
-**ultimately**, kiáu-búe++(攪尾)++; kàu-búe++(到尾)++; suah-búe++(煞尾)++; pi̍t-kéng++(畢竟)++; tsong++(終)++. *(sooner or later)*, khùe-mān++(快慢)++.
+**ultimately**, kiáu-búe++(繳尾)++; kàu-búe++(到尾)++; suah-búe++(煞尾)++; pi̍t-kéng++(畢竟)++; tsong++(終)++. *(sooner or later)*, khùe-mān++(快慢)++.
 
 **umbilicus**, tóu-tsâi++(肚臍)++.
 
@@ -13117,7 +13117,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unforeseen**, liāu-m̄-kàu++(料毋到)++; put-kak++(不覺)++; ngóu-jiên++(偶然)++.
 
-**unfrequented**, bô-nâng chiẽⁿ-lo̍h++(無人上落)++; sok-chẽⁿ++(束靜)++; chẽⁿ chhiáu-chhiáu++(靜悄悄)++; bô-lâi bô-khṳ̀++(無來無去)++; bô-kha-chiah kàu++(無骹跡到)++; sok-mo̍kⁿ++(叔目)++.
+**unfrequented**, bô-nâng chiẽⁿ-lo̍h++(無人上落)++; sok-chẽⁿ++(寂靜)++; chẽⁿ chhiáu-chhiáu++(靜悄悄)++; bô-lâi bô-khṳ̀++(無來無去)++; bô-kha-chiah kàu++(無骹跡到)++; sok-mo̍kⁿ++(寂寞)++.
 
 **ungovernable**, lân-kuán++(難管)++; oh-kuán++(惡管)++.
 
@@ -13215,7 +13215,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unskilled**, chhiú m̄-se̍k++(手毋熟)++; chheⁿ-chhiú++(生手)++.
 
-**unsociable**, m̄-hàuⁿ kau-tshap-nâng++(毋好交插人)++; kou-bāu++(孤傲)++; kou-ta̍k++(姑毒)++.
+**unsociable**, m̄-hàuⁿ kau-tshap-nâng++(毋好交插人)++; kou-bāu++(孤傲)++; kou-ta̍k++(孤獨)++.
 
 **unspeakable**, tàⁿ-m̄-liáu++(呾毋了)++; lân-tàⁿ++(難呾)++; tàⁿ bõi-tit--tie̍h-uân++(呾袂得着完)++; ngân só-put-chĩn++(言所不盡)++; ngân iā-lân-chĩn++(言亦難盡)++.
 
@@ -13283,7 +13283,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **usurp**, chiàm++(佔)++; âⁿ++(佔)++. *authority*, chhiàm-khûan++(僭權)++; tsuan-khûan++(專權)++. *the throne*, tshùan-ūi++(篡位)++; chiàm-ūi++(佔位)++. *a usurper*, pà-uâng++(霸王)++; chhiàm-uâng++(僭王)++.
 
-**usury**, lĩ-sek khah-tãng++(利色較重)++; tãng-lāi++(重利)++. *to lend on heavy usury*, pàng-tãng-lāi++(放重利)++.
+**usury**, lĩ-sek khah-tãng++(利息較重)++; tãng-lāi++(重利)++. *to lend on heavy usury*, pàng-tãng-lāi++(放重利)++.
 
 **utensil**, khì-kũ++(器具)++; ke-húe++(家伙)++; khì++(器)++.
 
@@ -13613,7 +13613,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wax**, la̍h++(蠟)++. *candle*, la̍h-chek++(蠟燭)++. *to wax thread*, sùaⁿ kia̍p-la̍h++(線夾蠟)++. *in the ears*, hĩⁿ-sái++(耳屎)++.
 
-**way**, lōu++(路)++; tãu++(道)++; thû++(途)++; lōu-thû++(路途)++; lōu-tãu++(路道)++; lōu-thâu++(路頭)++; lōu-kèⁿ++(路境)++. *on the*, lōu-chiēⁿ++(路上)++; lōu-téng++(路頂)++; lōu--kò++(路塊)++. *to lead the*, tshūa-lōu++(𤆬路)++; ín-lōu++(引路)++; kāng-lōu++(共路)++; kiau-lōu++(嬌路)++. *to be in one's*, hûang-gāi++(妨礙)++. *to be in the way*, tìn-tò++(鎮倒)++; tìn-tiāu tī-hng++(鎮掉地方)++. *half-way*, pùaⁿ-lōu++(半路)++; lōu-pùaⁿ-kue̍h++(路半橛)++. *do it this way*, chièⁿ-seⁿ-tsò++(此樣生做)++. *what way*, ēng sĩ-mih huang-huap++(用是乜方法)++. *which is the right*, tùi tî-tiâu-lōu kiâⁿ chiàⁿ-tie̍h++(對底條路行正着)++. *get out of the*, kiâⁿ-khui++(行開)++; kiâⁿ-bûa++(行埋)++. *to get out of one another's*, sie-pī++(相避)++. *lose one's*, kiâⁿ-tāⁿ-lōu++(行賺路)++; kiâⁿ-tshò-lōu++(行錯路)++.
+**way**, lōu++(路)++; tãu++(道)++; thû++(途)++; lōu-thû++(路途)++; lōu-tãu++(路道)++; lōu-thâu++(路頭)++; lōu-kèⁿ++(路境)++. *on the*, lōu-chiēⁿ++(路上)++; lōu-téng++(路頂)++; lōu--kò++(路塊)++. *to lead the*, tshūa-lōu++(𤆬路)++; ín-lōu++(引路)++; kāng-lōu++(共路)++; kiau-lōu++(邀路)++. *to be in one's*, hûang-gāi++(妨礙)++. *to be in the way*, tìn-tò++(鎭地)++; tìn-tiāu tī-hng++(鎮掉地方)++. *half-way*, pùaⁿ-lōu++(半路)++; lōu-pùaⁿ-kue̍h++(路半橛)++. *do it this way*, chièⁿ-seⁿ-tsò++(此樣生做)++. *what way*, ēng sĩ-mih huang-huap++(用是乜方法)++. *which is the right*, tùi tî-tiâu-lōu kiâⁿ chiàⁿ-tie̍h++(對底條路行正着)++. *get out of the*, kiâⁿ-khui++(行開)++; kiâⁿ-bûa++(行埋)++. *to get out of one another's*, sie-pī++(相避)++. *lose one's*, kiâⁿ-tāⁿ-lōu++(行賺路)++; kiâⁿ-tshò-lōu++(行錯路)++.
 
 **we**, *(excludingthe person addressed)*, ûn++(紜)++. *(including person addressed)*, nán++(咱)++.
 
@@ -13653,7 +13653,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **welcome**, *to*, hí-chiap++(喜接)++; huan-ngêng++(歡迎)++.
 
-**well**, *in health*, nâng hó++(人好)++; sin-chiēⁿ zû-zuán++(身上如轉)++; sóng-khùai++(爽快)++; khùaⁿ-ua̍h++(快活)++; uaⁿ-jiên++(安然)++; phêng-an++(平安)++; thiâu-hûa++(調和)++. *written (as composition)*, pit-ba̍k hó++(筆墨好)++; pit-tói hó++(筆底好)++. *written (as characters)*, jī ngiáⁿ++(字雅)++; ngiáⁿ-jī++(雅字)++; õi-khiâ-pit++(會擎筆)++; õi-siá-jī++(會寫字)++; jī tuan-khái++(字端楷)++; jī siù-se̍k++(字秀熟)++. *made*, tsò-lâi kang-hu++(做來工夫)++. *cooked*, sa̍h-se̍k++(煠熟)++; pû-mîⁿ++(煲糜)++. *known*, tshut-miâⁿ++(出名)++; hién-miâⁿ++(顯名)++; tù-miâⁿ++(著名)++. *bred*, hiáu-lí++(曉理)++; ũ-ke-kà++(有家教)++; hiáu-kui-kṳ́++(曉規矩)++; ũ-lói-huap++(有禮法)++. *dressed*, chhēng-hó-saⁿ++(穿好衫)++. *are you well*, lṳ́ ũ-phêng-an, mé++(汝有平安咩)++. *well done*, hó-tsãi++(好在)++. *well, well, no more of that*, pã--liáu++(罷了)++. *quite well (after illness)*, tshûan-zú++(全愈)++.
+**well**, *in health*, nâng hó++(人好)++; sin-chiēⁿ zû-zuán++(身上如轉)++; sóng-khùai++(爽快)++; khùaⁿ-ua̍h++(寬活)++; uaⁿ-jiên++(安然)++; phêng-an++(平安)++; thiâu-hûa++(調和)++. *written (as composition)*, pit-ba̍k hó++(筆墨好)++; pit-tói hó++(筆底好)++. *written (as characters)*, jī ngiáⁿ++(字雅)++; ngiáⁿ-jī++(雅字)++; õi-khiâ-pit++(會擎筆)++; õi-siá-jī++(會寫字)++; jī tuan-khái++(字端楷)++; jī siù-se̍k++(字秀熟)++. *made*, tsò-lâi kang-hu++(做來工夫)++. *cooked*, sa̍h-se̍k++(煠熟)++; pû-mîⁿ++(煲糜)++. *known*, tshut-miâⁿ++(出名)++; hién-miâⁿ++(顯名)++; tù-miâⁿ++(著名)++. *bred*, hiáu-lí++(曉理)++; ũ-ke-kà++(有家教)++; hiáu-kui-kṳ́++(曉規矩)++; ũ-lói-huap++(有禮法)++. *dressed*, chhēng-hó-saⁿ++(穿好衫)++. *are you well*, lṳ́ ũ-phêng-an, mé++(汝有平安咩)++. *well done*, hó-tsãi++(好在)++. *well, well, no more of that*, pã--liáu++(罷了)++. *quite well (after illness)*, tshûan-zú++(全愈)++.
 
 **well**, *a*, chéⁿ++(井)++. *well-curb*, chéⁿ-nûaⁿ++(井欄)++; chéⁿ-khuan++(井圈)++. *to sink a*, khui-chéⁿ++(開井)++; liú-chéⁿ++(㧕井)++; tshuan-chéⁿ++(穿井)++; ku̍t-chéⁿ++(掘井)++. *well-rope*, pua̍h-tháng-soh++(跋桶索)++. *mouth of well*, chéⁿ-tshùi++(穿水)++; chéⁿ-mīn++(井面)++. *well-sweep*, tiàu-o++++.
 
@@ -13691,7 +13691,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **which**, tî-kâi++(底個)++; tî-che̍k-kâi++(底一個)++. *which is it*, tî-che̍k-kiãⁿ-sĩ++(底一件是)++. *which is he*, tî-che̍k-nâng-sĩ++(底一人是)++. *the words which he spoke*, i só-tàⁿ kâi-ūe++(伊所呾个話)++.
 
-**while**, *a*, che̍k-sî++(一時)++; khùn-kiáⁿ++(睏驚)++; siap-sî++(霎時)++. *while thinking*, hṳ́-tsûn tõ-siẽⁿ++(彼陣在想)++. *while a cash remains he will gamble*, tshûn-kâi-chîⁿ siãng àiⁿ-khṳ̀-pua̍h++(尚愛去跋)++; sui-sĩ tshûn-kâi-chîⁿ huân-liáu àiⁿ-khṳ̀-pua̍h++(雖是賰个錢還了愛去跋)++. *while I was speaking he arrived*, uá chiàⁿ-tõ-tàⁿ-ūe kâi-sî-hāu, i chiũ-kàu++(我正在呾話个時候伊就到)++. *while*, tng...kâi-sî-hāu++(當...个時候)++.
+**while**, *a*, che̍k-sî++(一時)++; khùn-kiáⁿ++(頃囝)++; siap-sî++(霎時)++. *while thinking*, hṳ́-tsûn tõ-siẽⁿ++(彼陣在想)++. *while a cash remains he will gamble*, tshûn-kâi-chîⁿ siãng àiⁿ-khṳ̀-pua̍h++(尚愛去跋)++; sui-sĩ tshûn-kâi-chîⁿ huân-liáu àiⁿ-khṳ̀-pua̍h++(雖是賰个錢還了愛去跋)++. *while I was speaking he arrived*, uá chiàⁿ-tõ-tàⁿ-ūe kâi-sî-hāu, i chiũ-kàu++(我正在呾話个時候伊就到)++. *while*, tng...kâi-sî-hāu++(當...个時候)++.
 
 **whimper**, hiuⁿ-hiuⁿ-kiè++(香香叫)++; hngh-hngh-kiè++(哼哼叫)++; hng-hng-kiè++(哼哼叫)++.
 
@@ -13705,7 +13705,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **whisper**, *to*, phak tõ-hĩⁿ-khang-kháu tàⁿ-ūe++(趴在耳空口呾話)++; tàⁿ àm-chẽⁿ-ūe++(呾暗靜話)++; sî-so-kiè++(時索叫)++.
 
-**whistle**, *to*, tshùi pûn ki-kû++(吹機龜)++. *a*, ki-kû++(機龜)++. *to blow a*, pûn ki-kû++(吹機龜)++.
+**whistle**, *to*, tshùi pûn ki-kû++(吹嘰咕)++. *a*, ki-kû++(嘰咕)++. *to blow a*, pûn ki-kû++(吹嘰咕)++.
 
 **white**, pe̍h++(白)++. *of an egg*, nñg-chhêng++(卵清)++; nñg-pe̍h++(卵白)++; nñg-phûe++(卵皮)++. *of the eye*, ma̍k-chiu pe̍h-jîn++(目睭白仁)++. *ants*, pe̍h-hiã++(白蟻)++. *to whitewash*, sueh-pe̍h++(雪白)++; hún-pe̍h++(粉白)++; sueh-hún-tsúi++(雪粉水)++; sói-hue-tsúi++(洗花水)++.
 
@@ -13731,7 +13731,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wicker**, *basket*, tîn-nâⁿ++(藤籃)++. *basket (with divisions)*, tîn-siāⁿ++(藤盛)++.
 
-**wide**, khuah++(闊)++; khuah-tōa++(闊大)++; khuah-khǹg++(闊囥)++; kuang-khuah++(光闊)++; khuan-khuah++(寬闊)++; khùaⁿ++(寬)++; khuan-khùaⁿ++(寬寬)++. *to widen*, liú-khuah++(柳闊)++; tsha̍k-khuah++(鑿闊)++; khui-khuah++(開闊)++; chhiâⁿ-khuah++(情闊)++; mue̍h-khuah++(物闊)++.
+**wide**, khuah++(闊)++; khuah-tōa++(闊大)++; khuah-khǹg++(闊曠)++; kuang-khuah++(光闊)++; khuan-khuah++(寬闊)++; khùaⁿ++(寬)++; khuan-khùaⁿ++(寬寬)++. *to widen*, liú-khuah++(柳闊)++; tsha̍k-khuah++(鑿闊)++; khui-khuah++(開闊)++; chhiâⁿ-khuah++(情闊)++; mue̍h-khuah++(物闊)++.
 
 **widow**, kúa-hũ++(寡婦)++; siú-kúa++(守寡)++. *who refuses to marry again*, chiet-hũ++(寡婦)++; siú-chiet++(寡婦)++. *widower*, sit-ngóu++(寡婦)++.
 
@@ -13787,7 +13787,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **withdraw**, *to*, thò++(退)++; thò-sî++(退時)++; sî-siā++(時謝)++; sià-sṳ̄++(瀉事)++; thò-cheh++(退職)++.
 
-**wither**, *to (as flowers)*, kou-ta++(枯焦)++; ta++(焦)++; ta-ki++(焦枝)++; siā++(謝)++.
+**wither**, *to (as flowers)*, kou-ta++(枯灱)++; ta++(灱)++; ta-ki++(灱枝)++; siā++(謝)++.
 
 **within**, tõ-lãi++(在內)++; lãi-mīn++(內面)++; tói-mīn++(底面)++; lãi--tang++(內冬)++; lãi--teng++(內燈)++; lãi-thâu++(內頭)++. *within a month*, m̄-chiẽⁿ kâi-gu̍eh++(毋上個月)++; put-tshut kâi-gu̍eh++(不出個月)++; tõ-che̍k-gu̍eh-lãi++(在一月內)++; tõ-chí-gu̍eh-tói++(在此月底)++. *within doors*, tõ-mn̂g-lãi++(在門內)++; tõ-ke-lãi++(在家內)++; tõ-tshù-lãi++(在厝內)++. *within a step of death*, hiám-hiám-sí++(險險死)++; tsu̍ah-se-su chiũ-sí++(蚻些輸就死)++.
 
@@ -13859,11 +13859,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wrestle**, sie-khím sie-mán++(相撳相挽)++; tòu-la̍t++(鬥力)++; tòu-la̍t pí-bú++(鬥力比武)++; lám-kau-pua̍h++(攬交跋)++; pua̍h-kau++(跋交)++.
 
-**wretched**, khóu-miāⁿ++(苦命)++; chhi-tshám++(淒慘)++; khiông-khóu++(窮苦)++; sin-chiēⁿ kan-khóu++(身成艱苦)++.
+**wretched**, khóu-miāⁿ++(苦命)++; chhi-tshám++(淒慘)++; khiông-khóu++(窮苦)++; sin-chiēⁿ kan-khóu++(身上艱苦)++.
 
 **wriggle**, tsũn-a-tsũn++(捘阿捘)++; kũan-a-kũan++(倦阿倦)++. *(as worm)*, thâu-hìⁿ búe-hìⁿ++(頭搖尾搖)++.
 
-**wring**, *to*, tsũn++(捘)++. *dry*, tsũn-ta++(捘焦)++.
+**wring**, *to*, tsũn++(捘)++. *dry*, tsũn-ta++(捘灱)++.
 
 **wrinkled**, jiâu++(縐)++. *face*, mīn-phûe kâu-jiâu++(面皮猴縐)++; mīn jiâu-jiâu++(面縐縐)++. *wrinkles*, niàuⁿ-hûn++(縐痕)++; chhi̍p-niàuⁿ++++; chhi̍p-jiâu++++.
 
