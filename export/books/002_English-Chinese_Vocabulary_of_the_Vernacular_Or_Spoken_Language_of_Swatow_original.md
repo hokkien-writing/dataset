@@ -2447,7 +2447,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **clay**, nîⁿ; thôu-nîⁿ; liâm-nîⁿ. *for pottery*, hûi-thôu.
 
-**clean**, chheng; kng; mêng; pe̍h; mêng-pe̍h; thêng-chheng. *water*, tsúi chheng-chheng. *weather*, thiⁿ chêⁿ; thiⁿ-sî chêⁿ. *(cloudless)*, liâu-liãng. *clear up after rain*, hõu chêⁿ. *clear up doubts*, kói-gî. *an account*, chheng-siàu; siàu-ba̍k chheng-tshó. *sighted*, ma̍k-chiu hng.
+**clean**, chheng; kng; mêng; pe̍h; mêng-pe̍h; thêng-chheng. *water*, tsúi chheng-chheng. *weather*, thiⁿ chêⁿ; thiⁿ-sî chêⁿ. *(cloudless)*, liâu-liãng. *clear up after rain*, hõu chêⁿ. *clear up doubts*, kói-gî. *an account*, chheng-siàu; siàu-ba̍k chheng-tshó. *sighted*, ma̍k-chiu kng.
 
 **clearance**, *ship's*, tsûn-pâi.
 
@@ -11165,7 +11165,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **sheaf**, pé; tẽⁿ; pa̍k; tsáng; sok; hâ.
 
-**shear**, *to*, chién-môⁿ; ka-môⁿ. *shears*, tōa-ke-to; chién-to. *(kind of guillotine)*, hóuⁿ-thâu-tso̍ih.
+**shear**, *to*, chién-môⁿ; ka-môⁿ. *shears*, tōa-ka-to; chién-to. *(kind of guillotine)*, hóuⁿ-thâu-tso̍ih.
 
 **sheath**, khak; sièⁿ. *of grass*, tsháu-khòu.
 

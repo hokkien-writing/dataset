@@ -3354,7 +3354,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Dragon** Lêng ... ... ... 龍
 - **Bird** Chióu ... ... ... 鳥
 - **Parrot** Eng-ko ... ... ... 鸚歌
-- **Hawk** Eng-pô ... ... ... 鸚婆
+- **Hawk** Eng-pô ... ... ... 鷹婆
 - **Stork** Hóh; péh-liōu-si ... ... ... 鶴  白鷺絲
 - **Rabbit** Chiéh-tshṳ́ ... ... ... 石鼠
 - **Sparrow** MÛaⁿ-chiah-chióu ... ... ... 麻雀鳥
