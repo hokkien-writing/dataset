@@ -7,8 +7,10 @@ from scripts.processors.base import BookProcessor, Entry
 LINE_RE = re.compile(r"^\*\*(.+?)\*\*,\s*(.*)")
 HAN_ANN_RE = re.compile(r"\+\+\(([^)]*)\)\+\+")
 PLAIN_HAN_RE = re.compile(r"\(([\u4E00-\u9FFF\u3400-\u4DBF\U00020000-\U0002EBEF]+)\)")
-COMMA_ANN_SPLIT_RE = re.compile(r",\s+(?=\S.*\+\+(?:\(|\+\+))")
+COMMA_ANN_SPLIT_RE = re.compile(r"(?<=\)\+\+),\s+(?=\S.*\+\+(?:\(|\+\+))")
 COLON_SPLIT_RE = re.compile(r":\s+")
+_VARIANT_FIX_RE = re.compile(r"~~([^~(]+?)~~\(([^()]+)\)")
+_VARIANT_NOTE_RE = re.compile(r"\s*~~\([^~]+?\)~~\(.+?\)\)\s*")
 
 
 class Processor(BookProcessor):
@@ -83,8 +85,10 @@ class Processor(BookProcessor):
                     if not puj_text or puj_text.startswith("see "):
                         continue
 
-                    extra_ctx = re.match(r"\*(.+?)\*\s*,\s*(.*)", puj_text)
-                    if extra_ctx:
+                    while True:
+                        extra_ctx = re.match(r"\*(.+?)\*\s*,\s*(.*)", puj_text)
+                        if not extra_ctx:
+                            break
                         en = f"{en}, {extra_ctx.group(1).strip()}"
                         puj_text = extra_ctx.group(2).strip()
 
@@ -97,6 +101,11 @@ class Processor(BookProcessor):
                         puj = re.sub(
                             r"\.\s+(?:and\s+)?see\s+\w[\w\s]*", "", puj, flags=re.IGNORECASE
                         ).strip()
+                        if not puj:
+                            continue
+
+                        puj = _VARIANT_FIX_RE.sub(r"\2", puj)
+                        puj = _VARIANT_NOTE_RE.sub("", puj).strip()
                         if not puj:
                             continue
 

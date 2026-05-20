@@ -4823,7 +4823,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **excise**, hiàng-sùe; hiàng-ngṳ̂n.
 
-**excite**, *people*, tõng-nâng-sim; kám-tõng. *excite and**draw upon oneself, as trouble*, jiá; ín-jiá. *instigate*, kòiⁿ-so; kà-so; kà-lā. *an enemy to battle*, jiá-chièn. *cause excitement*, seⁿ-sṳ̄. *public excitement*, nâng-sim iâu-tõng.
+**excite**, *people*, tõng-nâng-sim; kám-tõng. *excite and draw upon oneself, as trouble*, jiá; ín-jiá. *instigate*, kòiⁿ-so; kà-so; kà-lā. *an enemy to battle*, jiá-chièn. *cause excitement*, seⁿ-sṳ̄. *public excitement*, nâng-sim iâu-tõng.
 
 **exclaim**, hàm; kiè; khui-siaⁿ; tōa-siaⁿ-tàⁿ; jiáng.
 
@@ -13473,7 +13473,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **viper**, ta̍k-tsûa; pn̄g-sî-thâu.
 
-**virago**, mân-hũ; iá-hũ; nńg-chiàng; phuat-hũ; phuat-tsūaⁿ.
+**virago**, mân-hũ; iá-hũ; nńg-chiàng; phuat-hũ; phuat-tsūaⁿ++(潑賤)+.
 
 **virgin**, kui-nńg; tshù-nńg; chhim-kui nńg-tsṳ́. *(remaining a virgin for life)*, cheng-nńg. *(remaining a virgin for life, man or woman)*, cheng-thông.
 
