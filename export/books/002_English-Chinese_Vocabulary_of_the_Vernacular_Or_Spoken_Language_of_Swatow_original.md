@@ -1593,7 +1593,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **boundless**, bô-hãn; sǹg m̄-pat tò-khṳ̀; bô-pān; bô-liáu.
 
-**bounty**, ṳn-hũ. *bountiful*, si-hũi; sṳ̀-ṳn; tōa-pù-si.
+**bounty**, ṳn-hũi. *bountiful*, si-hũi; sṳ̀-ṳn; tōa-pù-si.
 
 **bouquet**, *of flowers*, che̍k-pé-hue; che̍k-tẽⁿ-hue.
 
@@ -4199,7 +4199,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **drag**, thua; thua-túi; khan. *cart*, thua-chhia. *for shells*, tah-sap; pê-sap.
 
-**dragon**, lêng; kau-lêng. *to paddle d.-boat*, phẽ-lêng-tsûn.
+**dragon**, lêng; kau-lêng. *to paddle dragon-boat*, phẽ-lêng-tsûn.
 
 **dragonfly**, sua-meⁿ; chheng-thêng. *(small)*, sua-meⁿ-niêⁿ.
 
@@ -9685,7 +9685,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pregnant**, ũ-sin-hūn; ũ-tho; ũ-ẽng; ũ-a-nôuⁿ; huâi-tho; ũ-la̍k-kah; ũ-hí-sṳ̄.
 
-**prejudice**, ì-kièn phien-sṳ; chip-it; chip-thì. *to my prejudice*, u´¯chia̍h-khui; uá siũ-khui.
+**prejudice**, ì-kièn phien-sṳ; chip-it; chip-thì. *to my prejudice*, uá chia̍h-khui; uá siũ-khui.
 
 **premature**, būe-se̍k; sî-hāu būe-kàu; khah-soiⁿ; khah-tsá. *birth*, chíⁿ-gue̍h seⁿ; būe-tsok-gue̍h seⁿ. *(abortion)*, pùaⁿ-súaⁿ.
 
