@@ -5557,7 +5557,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Friday**, lói-pài-ngõu; pài-ngõu.
 
-**friend**, *(only used of men, never of women, except in bad sense)*, phêng-iú. *an old*, kū-iú; kū-jîn. *very close*, bhì-iú; ba̍t-iú; hó-iú. *bosom-friend*, sim-pak phêng-iú; ti-sim phêng-iú; ti-kí. *acquaintance (but not intimate)*, kháu-thâu-iú. *school or college friend*, tâng-theng phêng-iú; theng-iú. *companion*, tâng-phũaⁿ. *on friendly terms*, siang-hó. *friendly treatment*, kãu-thãi. *break off friendship*, tso̍h-kau.
+**friend**, *(only used of men, never of women, except in bad sense)*, phêng-iú. *an old*, kū-iú; kū-jîn. *very close*, chì-iú; ba̍t-iú; hó-iú. *bosom-friend*, sim-pak phêng-iú; ti-sim phêng-iú; ti-kí. *acquaintance (but not intimate)*, kháu-thâu-iú. *school or college friend*, tâng-theng phêng-iú; theng-iú. *companion*, tâng-phũaⁿ. *on friendly terms*, siang-hó. *friendly treatment*, kãu-thãi. *break off friendship*, tso̍h-kau.
 
 **frighten**, phièn-nâng-kiaⁿ; kiaⁿ-tie̍h-nâng. *by threats*, kiaⁿ-heh. *frightened*, kiaⁿ. *to death*, kiaⁿ-kàu-sí. *to death (also means very much frightened)*, kiaⁿ-sí. *frightful*, tshūa-nâng-kiaⁿ; kiaⁿ-sí-nâng.
 
@@ -9867,7 +9867,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **proverb**, so̍k-gṳ́; pīn-chiâⁿ-kù. *Book of Proverbs*, chim-ngân.
 
-**provide**, ṳ̃-pĩ; pĩ-pĩn; pĩ-phōiⁿ; ṳ̃-pĩn; kũ-pĩ. *with*, keng-kip; kip-pun. *against*, thî-huâng; huâng-ṳ̃; ṳ̃-huàng.
+**provide**, ṳ̃-pĩ; pĩ-pīn; pĩ-phōiⁿ; ṳ̃-pīn; kũ-pĩ. *with*, keng-kip; kip-pun. *against*, thî-huâng; huâng-ṳ̃; ṳ̃-huâng++(預防)+.
 
 **provident**, sié-sim; soiⁿ-siẽⁿ.
 
