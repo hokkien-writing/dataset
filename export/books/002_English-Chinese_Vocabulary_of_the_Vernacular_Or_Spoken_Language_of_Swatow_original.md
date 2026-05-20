@@ -9425,7 +9425,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **placenta**, ui; tho-ui.
 
-**placid**, *sim phêng*, khi hûa; tshông-iông.
+**placid**, sim phêng, khi hûa; tshông-iông.
 
 **plagiarism**, thau-siá pa̍t-nâng-bûn.
 
@@ -10169,7 +10169,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **rear**, *fowls*, chhī-koi. *up*, khiã--khí-lâi. *the*, ãu-mīn.
 
-**reason**, tãu; lí. *a*, uân-kù; uân-in; sṳ̄-kù. *to*, káng-kiù; tshiu-lũn; lũn-lí; tshui-lí. *reasonable*, ũ-lí; ũ-tõ-lí; ũ-chhêng-lí.
+**reason**, tãu; lí. *a*, uân-kù; uân-in; sṳ̄-kù. *to*, káng-kiù; tshui-lũn; lũn-lí; tshui-lí. *reasonable*, ũ-lí; ũ-tõ-lí; ũ-chhêng-lí.
 
 **rebel**, *a*, huán-tsha̍t; kok-tsha̍t. *to*, huán; tsak-luãn. *rebellious*, puãn-luãn; pũe-nge̍k; m̃-sũn-ho̍k.
 
