@@ -4147,7 +4147,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **doll**, ang-kiáⁿ.
 
-**dollar**, ngṳ̂n. *Spanish*, hu̍t-thâu; hu̍t-ngṳ̂n. *Mexican*, chiáu ngṳ̂n; chhì-kiû-chiáu. *one*, che̍k-kâi-ngṳ̂n; che̍k-khou ngṳ̂n. *$10,000*, che̍k-būan-ngṳ̂n; che̍k-tsháu-ngṳ̂n. *$̃0*, che̍k-huang-ngṳ̂n.
+**dollar**, ngṳ̂n. *Spanish*, hu̍t-thâu; hu̍t-ngṳ̂n. *Mexican*, chiáu ngṳ̂n; chhì-kiû-chiáu. *one*, che̍k-kâi-ngṳ̂n; che̍k-khou ngṳ̂n. *$10,000*, che̍k-būan-ngṳ̂n; che̍k-tsháu-ngṳ̂n. *$0*, che̍k-huang-ngṳ̂n.
 
 **dolt**, ngâ nâng; chhi-ko; khòng-ngōng.
 
@@ -4325,7 +4325,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **during**, *the night*, mêⁿ--kùa. *the year*, nîⁿ--kan. *the hot weather*, zua̍h-gue̍h tiâng-sî. *dinner*, tõ-chia̍h-pn̄g kâi-sî-hāu.
 
-**dusk**, mêⁿ-hng; háⁿ-hun; siè-siè-àm; siè-siè thóiⁿ-m̄-kìⁿ nâng-mīn; háⁿ-hun-kiáⁿ; háⁿ-bu.
+**dusk**, mêⁿ-hng; háⁿ-hun; siè-siè-àm; siè-siè thóiⁿ-m̄-kìⁿ nâng-mīn; háⁿ-hun-kiáⁿ; háⁿ-bū.
 
 **dust**, thôu-êng; thôu-hún; tîn-êng; sua-êng; sua-thôu. *dusty*, seⁿ-thôu-hún. *raise*, eng; kiauh-sua; iauh-sua. *beat off*, pũaⁿ-tiāu sua-êng. *shake off*, hĩⁿ-tiāu thôu-hún. *to**dust*, tshóiⁿ-tiāu tîn-ai. *duster (of feathers)*, koi-môⁿ-tshóiⁿ. *dust-pan*, pùn-táu. *dust-basket*, pùn-ki.
 
@@ -6569,7 +6569,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hyperbole**, tàⁿ-kùe-ke; kùe-tsōi; tàⁿ khah-thài-kùe; tàⁿ khah-kùe-sĩm.
 
-**hypocrite**, ké-hó; ngũi-siẽn; ngũi-kun-tsṳ́; kháu sĩ; sim hui.
+**hypocrite**, ké-hó; ngũi-siẽn; ngũi-kun-tsṳ́; kháu sĩ, sim hui.
 
 **hypothesis**, pí-huang kâi-ūe; kiá-zû kâi-ūe.
 
