@@ -823,7 +823,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **articles**, mue̍h-kiãⁿ++(物件)++. *three*, saⁿ-kiãⁿ++(三件)++. *of commerce*, hùe-mue̍h++(貨物)++.
 
-**articulate**, *well*, tàⁿ-ūe liáu-liãng++(呾話嘹亮)++; tàⁿ-ūe hiáng-liãng++(呾話響亮)++; jī-ngán chheng-tshó++(字眼清楚)++; tàⁿ-ūe hīn-hīn++(呾顯)++. *badly*, tàⁿ-ūe hâm-hû++(呾話含糊)++; jī-ngán kâm-kôu++(字眼含糊)++.
+**articulate**, *well*, tàⁿ-ūe liáu-liãng++(呾話嘹亮)++; tàⁿ-ūe hiáng-liãng++(呾話響亮)++; jī-ngán chheng-tshó++(字眼清楚)++; tàⁿ-ūe hīn-hīn++(呾話顯顯)++. *badly*, tàⁿ-ūe hâm-hû++(呾話含糊)++; jī-ngán kâm-kôu++(字眼含糊)++.
 
 **artificial**, m̄-sĩ seⁿ-jiên++(毋是生然)++; seⁿ-tsõ++(生做)++; tsãu-tsak++(造作)++; nâng-chhiú só-tsõ++(人手所造)++.
 
@@ -5013,7 +5013,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **falcon**, eng-chiáu++(鷹鳥)++.
 
-**fall**, pua̍h++(跌)++; lo̍h++(落)++; ka-la̍u++(倒落)++; kau-la̍uh++(交落)++. *fall as house*, tó++(倒)++; tó--lo̍h-lâi++(倒落來)++; pang++(崩)++. *fall in*, tha̍p++(塌)++. *fall down (as person)*, pua̍h--tie̍h++(跋着)++; pua̍h-lo̍h++(跌落)++; tie̍h-pua̍h++(着跋)++. *fall down (as thing)*, ka-la̍u++(倒落)++h. *fall into a snare*, lo̍h-khuan-thàu++(落圈套)++. *fall in with*, ngõ--tie̍h++(遇着)++. *to pieces*, sùaⁿ++(散)++; sùaⁿ-tiāu++(散掉)++. *leaves*, lo̍h-hie̍h++(落葉)++. *as landslip*, suaⁿ pang, tī hām++(地陷)++; pang-hām++(崩陷)++. *rain*, lo̍h-hõu++(落雨)++. *dew*, lo̍h-lōu-tsúi++(落露水)++. *heavy fall of dew*, lōu-tsúi tãng++(露水重)++; lōu-tsúi kãu++(露水厚)++. *empire*, kok bûang++(國亡)++. *flowers*, hue sià++(花謝)++. *at any body's feet*, phak tõ-kha-ẽ++(伏蹠骹下)++; phak-lo̍h-tī++(伏落在)++. *fall upon (as enemy)*, kong-phah++(攻拍)++; kong-khek++(攻擊)++. *fall into one's hands*, pĩ-lia̍h++(被掠)++. *price*, lo̍h-kè++(落價)++; thu̍t-kè++(脫過)++; tie̍t-kè++(跌價)++. *fall away*, lī-khui++(離開)++. *from religion*, pũe-kà++(背教)++. *on one's neck*, phõ-ãm++(抱頷)++; lám-kín-ãm++(攬緊頷)++. *tide*, khó-lâu++(洘流)++; lâu khó++(流洘)++. *waterfall*, pha̍k-pòu-tsûaⁿ++(瀑布泉)++. *(a rapid) waterfall*, thuaⁿ++(灘)++. *falling star*, pue-chheⁿ++(飛星)++; liû-chheⁿ++(流星)++; chheng-sîn kùe-tōu++(星辰過度)++. *falling-sickness*, see EPILEPSY.
+**fall**, pua̍h++(跌)++; lo̍h++(落)++; ka-la̍u++(倒落)++; kau-la̍uh++(交落)++. *fall as house*, tó++(倒)++; tó--lo̍h-lâi++(倒落來)++; pang++(崩)++. *fall in*, tha̍p++(塌)++. *fall down (as person)*, pua̍h--tie̍h++(跋着)++; pua̍h-lo̍h++(跌落)++; tie̍h-pua̍h++(着跋)++. *fall down (as thing)*, ka-la̍u++(倒落)++h. *fall into a snare*, lo̍h-khuan-thàu++(落圈套)++. *fall in with*, ngõ--tie̍h++(遇着)++. *to pieces*, sùaⁿ++(散)++; sùaⁿ-tiāu++(散掉)++. *leaves*, lo̍h-hie̍h++(落葉)++. *as landslip*, suaⁿ pang, tī hām++(山崩，地陷)++; pang-hām++(崩陷)++. *rain*, lo̍h-hõu++(落雨)++. *dew*, lo̍h-lōu-tsúi++(落露水)++. *heavy fall of dew*, lōu-tsúi tãng++(露水重)++; lōu-tsúi kãu++(露水厚)++. *empire*, kok bûang++(國亡)++. *flowers*, hue sià++(花謝)++. *at any body's feet*, phak tõ-kha-ẽ++(伏在骹下)++; phak-lo̍h-tī++(伏落在)++. *fall upon (as enemy)*, kong-phah++(攻拍)++; kong-khek++(攻擊)++. *fall into one's hands*, pĩ-lia̍h++(被掠)++. *price*, lo̍h-kè++(落價)++; thu̍t-kè++(脫過)++; tie̍t-kè++(跌價)++. *fall away*, lī-khui++(離開)++. *from religion*, pũe-kà++(背教)++. *on one's neck*, phõ-ãm++(抱頷)++; lám-kín-ãm++(攬緊頷)++. *tide*, khó-lâu++(洘流)++; lâu khó++(流洘)++. *waterfall*, pha̍k-pòu-tsûaⁿ++(瀑布泉)++. *(a rapid) waterfall*, thuaⁿ++(灘)++. *falling star*, pue-chheⁿ++(飛星)++; liû-chheⁿ++(流星)++; chheng-sîn kùe-tōu++(星辰過渡)++. *falling-sickness*, see EPILEPSY.
 
 **fallible**, õi-tshò++(會錯)++.
 
@@ -11655,7 +11655,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **speculate**, kòi-sǹg++(計算)++. *a good speculation*, hó-siẽⁿ-thâu++(好想頭)++.
 
-**speech**, ūe++(話)++; tàⁿ-ūe++(呾話)++. *fluent*, tàⁿ-ūe liù-liù-ku̍t++(呾話)++. *speechless*, bô-ūe hó-tàⁿ++(無話好呾)++.
+**speech**, ūe++(話)++; tàⁿ-ūe++(呾話)++. *fluent*, tàⁿ-ūe liù-liù-ku̍t++(呾話溜溜滑)++. *speechless*, bô-ūe hó-tàⁿ++(無話好呾)++.
 
 **speed**, khùe++(快)++; méⁿ++(猛)++.
 
