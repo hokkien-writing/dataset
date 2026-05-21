@@ -6003,7 +6003,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **grievance**, *to state*, sù-uan-chhêng; sù-uan-uáng.
 
-**grimace**, tièⁿ-tshúa; mīn; tsò-kúi-sièⁿ.
+**grimace**, tièⁿ-tshúa-mīn; tsò-kúi-sièⁿ.
 
 **grin**, miⁿ-ma̍k lòu-gê.
 
