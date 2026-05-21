@@ -1317,7 +1317,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **besmear**, kôu; buah; tôu; hú; zṳ́; phia̍k; hún; kài.
 
-**besom**, sàu; sàu-siú; sàu-chiú; sàu-soi. *soft one*, mâng-hue-sàu; nn̍g-sàu-siú.
+**besom**, sàu; sàu-siú; sàu-chiú; sàu-soi. *soft one*, mâng-hue-sàu; nńg-sàu-siú.
 
 **bespeak**, tsham-siàng; tàⁿ-tiāⁿ-tie̍h; soiⁿ-tàⁿ.
 
@@ -2071,7 +2071,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cart**, chhia. *cart-wheels*, chhia-lín; chhia-lûn.
 
-**cartilage**, nn̍g-kut; chíⁿ-kut.
+**cartilage**, nńg-kut; chíⁿ-kut.
 
 **carve**, tiau; tiau-khek; tiau-kuah; kuah-hue; kuah-ang-kiáⁿ. *carver*, kuah-hue sai-pẽ.
 
@@ -2891,7 +2891,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **constitute**, *appoint*, li̍p; siet-li̍p; tshàng-li̍p.
 
-**constitution**, *good*, sin-hūn tsàng; tsàng-kiẽn; khiàng; kiāⁿ-tsàng; khin-kiāⁿ. *weak*, sin-hūn phàⁿ; sin-hūn lám; jia̍k; nn̍g-jia̍k.
+**constitution**, *good*, sin-hūn tsàng; tsàng-kiẽn; khiàng; kiāⁿ-tsàng; khin-kiāⁿ. *weak*, sin-hūn phàⁿ; sin-hūn lám; jia̍k; nńg-jia̍k.
 
 **constrain**, mién-kiáng; ngẽ-lia̍h. *oneself*, tsṳ̃-mién. *to stay*, khiâng-lâu.
 
@@ -3127,7 +3127,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **course**, lōu; tãu; thû; lōu-thû; tãu-thû; tãu-lōu. *of course*, tsṳ̃-jiên; thien-jiên; thien-seⁿ; thiⁿ-seⁿ tsṳ̃-jiên.
 
-**court**, *royal*, chhiâu-thêng. *go to*, chiẽⁿ-chhiâu; chhiâu-kun. *hold*, tsõ-chhiâu. *dress*, chhiâu-ho̍k. *courtiers*, gṳ̄-tsôiⁿ tãi-chhîn. *ladies*, keng-nn̍g. *court of justice*, gê-mn̂g. *to hold*, lãu-tia tsõ-tn̂g. *yard*, thim-chéⁿ; thien-chéⁿ; tiâⁿ.
+**court**, *royal*, chhiâu-thêng. *go to*, chiẽⁿ-chhiâu; chhiâu-kun. *hold*, tsõ-chhiâu. *dress*, chhiâu-ho̍k. *courtiers*, gṳ̄-tsôiⁿ tãi-chhîn. *ladies*, keng-nńg. *court of justice*, gê-mn̂g. *to hold*, lãu-tia tsõ-tn̂g. *yard*, thim-chéⁿ; thien-chéⁿ; tiâⁿ.
 
 **courteous**, ũ-lói-mãuⁿ; ũ-lí-mãuⁿ; hiáu-lí; lói-siàu kàu-kak; hiáu-lói-ngî.
 
@@ -3205,7 +3205,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **creek**, káng; sié-khoi; sòi-khoi; thong-kà.
 
-**creep**, *pê*, so. *creep up*, pê--khí-lâi. *through a hole*, bùn-khang; nn̍g-khang. *under the bedclothes*, nn̍g--ji̍p phũe-tói. *stealthily along*, níhⁿ-kha-kiâⁿ.
+**creep**, *pê*, so. *creep up*, pê--khí-lâi. *through a hole*, bùn-khang; nǹg-khang. *under the bedclothes*, nǹg--ji̍p phũe-tói. *stealthily along*, níhⁿ-kha-kiâⁿ.
 
 **crescent**, *moon*, gue̍h-bâi; sin-gue̍h; ngô-bâi-gue̍h.
 
@@ -3391,7 +3391,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **damp**, ip-chi̍p; tâm; tâm-sip; lùn-lùn; tâm-lùn. *dampness*, sip-khì.
 
-**damsel**, kui-nn̍g; tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; chhim-kui nn̍g-tsṳ́.
+**damsel**, kui-nńg; tsṳ-niêⁿ-kiáⁿ; a-niêⁿ-kiáⁿ; chhim-kui nńg-tsṳ́.
 
 **dance**, *(and gesticulate)*, thiàu-bú.
 
@@ -3421,7 +3421,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **daub**, *with mud*, kôu-thôu. *writing*, tôu-buah; tôu-tiāu; buah-tiāu; tiám-tiāu.
 
-**daughter**, tsṳ-niêⁿ-kiáⁿ; tsáu-kiáⁿ; nn̍g-tsṳ́. *your daughter (polite)*, lẽng-ài; tshoiⁿ-kim. *my daughter (polite)*, sié-nn̍g. *in law*, sim-pũ. *daughter's husband*, kiáⁿ-sài. *daughter's chidren*, gūa-sun. *his daughter is betrothed*, i kâi tsṳ-niêⁿ-kiáⁿ íⁿ-keng tsò-sêng--liáu. *marry one's d. to anyone*, tsṳ-niêⁿ-kiáⁿ kè--pun-nâng.
+**daughter**, tsṳ-niêⁿ-kiáⁿ; tsáu-kiáⁿ; nńg-tsṳ́. *your daughter (polite)*, lẽng-ài; tshoiⁿ-kim. *my daughter (polite)*, sié-nńg. *in law*, sim-pũ. *daughter's husband*, kiáⁿ-sài. *daughter's chidren*, gūa-sun. *his daughter is betrothed*, i kâi tsṳ-niêⁿ-kiáⁿ íⁿ-keng tsò-sêng--liáu. *marry one's d. to anyone*, tsṳ-niêⁿ-kiáⁿ kè--pun-nâng.
 
 **daunt**, phièn-nâng-kiaⁿ; heh; kiaⁿ-heh; heh-kiaⁿ.
 
@@ -3453,11 +3453,11 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **debate**, ngí-lũn; piẽn-lũn; piẽn-poh. *in one's own mind*, pheⁿ-phah; chim-chiak; tsham-siâng.
 
-**debauch**, tiam-u; îm nâng chhi-nn̍g; îm nâng bóu-kiáⁿ.
+**debauch**, tiam-u; îm nâng chhi-nńg; îm nâng bóu-kiáⁿ.
 
 **debauchee**, chiú-sek tsṳ-thû. *debauchery*, chia̍h-pua̍h-phiâu.
 
-**debility**, hṳ-jia̍k; nn̍g-jia̍k; khùn-jia̍k; hṳ-khùn; sin-hūn phàⁿ; hueh-khì put-tsok; hueh-khì sue-jia̍k.
+**debility**, hṳ-jia̍k; nńg-jia̍k; khùn-jia̍k; hṳ-khùn; sin-hūn phàⁿ; hueh-khì put-tsok; hueh-khì sue-jia̍k.
 
 **debt**, chè; chîⁿ-chè. *to be in debt*, khiàm-chîⁿ; khiàm-chè; khiàm-siàu. *to pay debts*, hôiⁿ-chè; hôiⁿ--nâng. *debtor and creditor*, chè-kiáⁿ chè-tsú. *collect debts*, thó-siàu. *absconding debtor*, tô-chè; pī-chè; tsáu-chè. *bad debts*, phàⁿ-siàu.
 
@@ -3581,9 +3581,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **deliberate**, *to*, siang-liâng; kàu-niêⁿ; chim-chiak; ngí-lũn; siang-ngí; kà-lũn; tsham-siâng; hũe-ngí; sn̍g-lâi sn̍g-khṳ̍; siẽⁿ-lâi siẽⁿ-khṳ̍; pí-lâi pí-khṳ̍; chiak-ngí.
 
-**deliberately**, *soiⁿ sṳ*, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
+**deliberately**, soiⁿ sṳ, ãu kiâⁿ; ũ-ì; li̍p-ì; tshut-tõ ũ-ì.
 
-**delicate**, jiû-nn̍g. *in health*, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. *neat*, kiau-kiah. *fine*, iùⁿ-sòi; cheng-mûiⁿ. *fastidious*, tiau-khiâu-chia̍h. *in taste and flavour*, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. *delicacies*, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
+**delicate**, jiû-nńg. *in health*, sin-hūn phàⁿ; sin-hūn lám; sin-thói jia̍k; khì-thói jia̍k. *neat*, kiau-kiah. *fine*, iùⁿ-sòi; cheng-mûiⁿ. *fastidious*, tiau-khiâu-chia̍h. *in taste and flavour*, bī-sòu hó-tsãi; iũ-tiâm iũ-phang. *delicacies*, tien-bī; peh-bī; tien-siu peh-pī; suaⁿ-tien hái-bī.
 
 **delight**, huaⁿ-hí; khùai-la̍k. *delight in*, hàuⁿ; zua̍t. *delightful*, khó-hí; hó-zua̍t-ma̍k; hó-khai-huâi; tshù-bī. *delighted*, sóng-khùai; suáng-khùai; khùai-thiàng; thiàng-ì.
 
@@ -5183,7 +5183,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fifty**, ngõu-tsa̍p.
 
-**fig**, ngõu-tsa̍p.
+**fig**, bô-hue-kúeⁿ.
 
 **fight**, sie-thâi; kau-chièn; hãi-tòu; sie-phah.
 
@@ -8557,7 +8557,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **nail**, teng. *iron*, thih-teng. *to nail*, tèng-teng. *finger*, chhiú-tsóiⁿ-kah; tsńg-kah. *toe*, kha-chí-kah.
 
-**naked**, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. *strip*, thn̍g-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói; thong-sin bô-pùaⁿ-tiâu se-sùaⁿ. *strip (without a thread of clothing)*, tñg-tiâu se-sùaⁿ. 
+**naked**, chhiah-sin; lòu-thói; chhiah-tiâu-tiâu. *strip*, thǹg-chhiah-sin; pak-chhiah ka-lit; tshut-sin lòu-thói. *strip (without a thread of clothing)*, tñg-tiâu se-sùaⁿ; thong-sin bô-pùaⁿ-tiâu se-sùaⁿ.
 
 **name**, *family*, sèⁿ. *own*, miâⁿ; zú-miâⁿ; hãu; tso̍k-hãu; tsṳ-miâⁿ; pie̍t-hãu. *what is your name*, kùi-sèⁿ; tōa-miâⁿ; *my*, pĩⁿ-sèⁿ; sié-miâⁿ. *a good*, hó-miâⁿ-sek; hó-miâⁿ-siaⁿ. *namely*, chiũ-sĩ; chiet-sĩ; tsu-zû.
 
@@ -9729,7 +9729,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **prevail**, iâⁿ. *prevailing*, múaⁿ-tshù-ũ.
 
-**prevaricate**, chiau-saⁿ mõⁿ-sì; tsôiⁿ saⁿ; ãu sì; tàⁿ-ūe m̄-pe̍h-ti̍t.
+**prevaricate**, chiau-saⁿ mõⁿ-sì; tsôiⁿ saⁿ, ãu sì; tàⁿ-ūe m̄-pe̍h-ti̍t.
 
 **prevent**, tsó-chí; nûaⁿ-chí; nûaⁿ-tsó; nûaⁿ-tsũ; tsó-keh; tsó-khiē. *one from speaking*, bô i khui-tshùi. *one from entering*, bô-i-ji̍p. *trouble*, mién-hũa; mién tì-kàu kan-khóu. *falling*, màiⁿ-pua̍h-lo̍h.
 
