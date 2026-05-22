@@ -1797,7 +1797,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **貯水** Tshō tsúi ... ... ... It contains water.
 - **~~携~~(摜)~~壹~~(一)桶水來** Kũaⁿ chék-tháng tsúi lâi ... ... ... Get me a bucket of water.
 - **~~脚~~(骹)桶貯水** Kha-tháng tshō-tsúi ... ... ... Put water in the bath-tub.
-- **水缸~~個~~(个)水~~傾丢~~(倒掉)** Tsúi-kng kâi tsúi tò-tiòu; ... ... ... Pour the water out of the jar;
+- **水缸~~個~~(个)水~~傾丢~~(倒掉)** Tsúi-kng kâi tsúi tò-tiòu ... ... ... Pour the water out of the jar.
 - **另外貯清潔~~個~~(个)** Lêng-ngūa tshō chheng-khih--kâi ... ... ... And put clean water in it.
 - **方刀~~琢~~(斫)着鐵釘缺去** Pang-to tok--tiéh thih-teng khih-khṳ̀ ... ... ... The chopper struck against a nail and is blunt.
 - **另外磨會利** Lêng-ngūa bûa õi-lāi ... ... ... Whet it, and it will be sharp again.

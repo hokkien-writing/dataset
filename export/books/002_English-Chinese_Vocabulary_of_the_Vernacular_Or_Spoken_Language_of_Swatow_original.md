@@ -1921,7 +1921,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **calico**, pòu.
 
-**call**, kiè; hàm; chie. *out*, khui-siaⁿ. *call to mind*, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. *call on anyone*, pài-hāu; sie-sûn. *what is he called*, i kiè-tsò sĩ-mih-miàⁿ. *to call animals*, khou.
+**call**, kiè; hàm; chie. *out*, khui-siaⁿ. *call to mind*, siẽⁿ-khí-lâi; siẽⁿ-tie̍h; liãm-tie̍h. *call on anyone*, pài-hāu; sie-sûn. *what is he called*, i kiè-tsò sĩ-mih-miâⁿ. *to call animals*, khou.
 
 **calling**, *occupation*, sṳ̄-ngia̍p.
 
@@ -2685,7 +2685,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **compel**, mién-kiáng; khiâng-pek; ngẽ-lia̍h. see **compulsion**.
 
-**compendious**, kâng-lia̍k; káng-séⁿ. *compendium*, iak-ngân; tiah-iàu; káng-iàu; tshái-iàu.
+**compendious**, káng-lia̍k; káng-séⁿ. *compendium*, iak-ngân; tiah-iàu; káng-iàu; tshái-iàu.
 
 **compensate**, póu; pûe; póu-hâiⁿ; pò-tap; póu-siéⁿ.
 
@@ -3705,7 +3705,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **despatch**, *a messenger*, sái-i-khṳ̀. *despatch a letter*, kià-tsṳ; kià-sìn; huat-tsṳ. *a despatch*, bûn-tsṳ; kong-bûn. *to send a despatch*, kiâⁿ-bûn; kiâⁿ-bún-tsṳ. *with all despatch*, méⁿ-méⁿ; chhiet-chhiet.
 
-**desperado**, mùiⁿ-siⁿ mùiⁿ-sí; m̄-kù seⁿ-sí; mùiⁿ-sí-ua̍h; mãuⁿ-miâⁿ; mãuⁿ-sí.
+**desperado**, mùiⁿ-seⁿ mùiⁿ-sí; m̄-kù seⁿ-sí; mùiⁿ-sí-ua̍h; mãuⁿ-miâⁿ; mãuⁿ-sí.
 
 **desperate**, bô-kò hó-kiù. *not afraid of infection*, *evil influence, &c*, bô-kìm bô-kĩ.
 
@@ -4605,7 +4605,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **enjoin**, hun-hù; mẽng; hàm. *strictly*, chhiet-chhiet hun-hù.
 
-**enjoy**, hiáng; hiáng-siũ; hiáng-hok; na̍p-hok. *long life*, hiáng-siū. *enjoyment*, hok-khì.
+**enjoy**, hiáng; hiáng-siũ; hiáng-hok; na̍p-hok. *long life*, hiáng-siū(福氣)++.
 
 **enlarge**, tsò-tōa; khui-khuah.
 
@@ -5013,7 +5013,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **falcon**, eng-chiáu.
 
-**fall**, pua̍h; lo̍h; ka-la̍u; kau-la̍uh. *fall as house*, tó; tó--lo̍h-lâi; pang. *fall in*, tha̍p. *fall down (as person)*, pua̍h--tie̍h; pua̍h-lo̍h; tie̍h-pua̍h. *fall down (as thing)*, ka-la̍uh. *fall into a snare*, lo̍h-khuan-thàu. *fall in with*, ngõ--tie̍h. *to pieces*, sùaⁿ; sùaⁿ-tiāu. *leaves*, lo̍h-hie̍h. *as landslip*, suaⁿ pang, tī hām; pang-hām. *rain*, lo̍h-hõu. *dew*, lo̍h-lōu-tsúi. *heavy fall of dew*, lōu-tsúi tãng; lōu-tsúi kãu. *empire*, kok bûang. *flowers*, hue sià. *at any body's feet*, phak tõ-kha-ẽ; phak-lo̍h-tī. *fall upon (as enemy)*, kong-phah; kong-khek. *fall into one's hands*, pĩ-lia̍h. *price*, lo̍h-kè; thu̍t-kè; tie̍t-kè. *fall away*, lī-khui. *from religion*, pũe-kà. *on one's neck*, phõ-ãm; lám-kín-ãm. *tide*, khó-lâu; lâu khó. *waterfall*, pha̍k-pòu-tsûaⁿ. *(a rapid) waterfall*, thuaⁿ. *falling star*, pue-chheⁿ; liû-chheⁿ; chheng-sîn kùe-tōu. *falling-sickness*, see EPILEPSY.
+**fall**, pua̍h; lo̍h; ka-la̍uh; kau-la̍uh. *fall as house*, tó; tó--lo̍h-lâi; pang. *fall in*, tha̍p. *fall down (as person)*, pua̍h--tie̍h; pua̍h-lo̍h; tie̍h-pua̍h. *fall down (as thing)*, ka-la̍uh. *fall into a snare*, lo̍h-khuan-thàu. *fall in with*, ngõ--tie̍h. *to pieces*, sùaⁿ; sùaⁿ-tiāu. *leaves*, lo̍h-hie̍h. *as landslip*, suaⁿ pang, tī hām; pang-hām. *rain*, lo̍h-hõu. *dew*, lo̍h-lōu-tsúi. *heavy fall of dew*, lōu-tsúi tãng; lōu-tsúi kãu. *empire*, kok bûang. *flowers*, hue sià. *at any body's feet*, phak tõ-kha-ẽ; phak-lo̍h-tī. *fall upon (as enemy)*, kong-phah; kong-khek. *fall into one's hands*, pĩ-lia̍h. *price*, lo̍h-kè; thu̍t-kè; tie̍t-kè. *fall away*, lī-khui. *from religion*, pũe-kà. *on one's neck*, phõ-ãm; lám-kín-ãm. *tide*, khó-lâu; lâu khó. *waterfall*, pha̍k-pòu-tsûaⁿ. *(a rapid) waterfall*, thuaⁿ. *falling star*, pue-chheⁿ; liû-chheⁿ; chheng-sîn kùe-tōu. *falling-sickness*, see EPILEPSY.
 
 **fallible**, õi-tshò.
 
@@ -5067,7 +5067,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fate**, miāⁿ; miāⁿ-ūn; sî-ūn. *murmur at*, chiù-sin mēⁿ-miāⁿ.
 
-**father**, pẽ; lãu-pẽ; pẽ-chhin; a-tia; a-pa. *your father*, nín tōa--náng; lẽng-tsun. *your late father*, lēng-soiⁿ-tsun; lẽng-soiⁿ-ong. *my father*, ke-hũ; ke-tsun. *my late father*, uá soiⁿ-hũ. *wife's father*, tiẽⁿ-nâng; nga̍k-pẽ; tiẽⁿ-nâng-kong. *husband's father*, ta-kuaⁿ. *one's own*, seⁿ-pẽ; seⁿ-sín tsṳ-pún. *sort of adoptive father*, ngĩ-pẽ; khòi-pẽ. *step-father*, iáng-pẽ; kì-pẽ; ãu-pẽ. *fatherless*, bô-pẽ kâi-kiáⁿ; kou-tsṳ́.
+**father**, pẽ; lãu-pẽ; pẽ-chhin; a-tia; a-pa. *your father*, nín tōa--náng; lẽng-tsun. *your late father*, lẽng-soiⁿ-tsun; lẽng-soiⁿ-ong. *my father*, ke-hũ; ke-tsun. *my late father*, uá soiⁿ-hũ. *wife's father*, tiẽⁿ-nâng; nga̍k-pẽ; tiẽⁿ-nâng-kong. *husband's father*, ta-kuaⁿ. *one's own*, seⁿ-pẽ; seⁿ-sín tsṳ-pún. *sort of adoptive father*, ngĩ-pẽ; khòi-pẽ. *step-father*, iáng-pẽ; kì-pẽ; ãu-pẽ. *fatherless*, bô-pẽ kâi-kiáⁿ; kou-tsṳ́.
 
 **fathom**, *water*, thàm-thóiⁿ tsúi jie̍h-chhim. *one fathom*, che̍k-chhíⁿ; che̍k-siâm. *fathomless*, m̄-hó chhek-ta̍t; chhim-bô-tói.
 
@@ -7649,7 +7649,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **less**, kiám; kèng-chié; m̄-kàu. *make*, tṳ̂-kiám. *become*, siau-si̍h.
 
-**lesson**, *say*, liām che̍k-hûe-tsṳ. *take a lesson from anything*, tsṳ̄-kéng.
+**lesson**, *say*, liām che̍k-hûe-tsṳ. *take a lesson from anything*, tsṳ̃-kéng.
 
 **lest**, mién; sái-kàu-mín; khióng-ùi; khióng-phàⁿ; kiaⁿ-ùi; ṳ̃-hûang; ṳ̃-mín.
 
@@ -7713,7 +7713,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lightning**, tiẽn-húe; lûi-húe. *it lightens*, lûi-kong nihⁿ-ma̍k; tiẽn-húe ia̍p-ia̍p-sih.
 
-**like**, chhin-chhiẽⁿ; húang-sṳ̃; siang-sṳ̃; kṳ̃n-sṳ; siãu; tâng; tshah-chhi̍h chhin-chhiẽⁿ. *it is like(simile)*, chhin-chhiẽⁿ; khó-pí; phì-zû; tǹg--kùe; hāi--kùe. *do like him*, o̍h i-kâi-iēⁿ; uàⁿ i-kâi-iēⁿ; hãu i-kâi-iēⁿ. *make, it like this*, chiè chí-kâi-iēⁿ tsò.
+**like**, chhin-chhiẽⁿ; húang-sṳ̃; siang-sṳ̃; kṳ̃n-sṳ̃; siãu; tâng; tshah-chhi̍h chhin-chhiẽⁿ. *it is like(simile)*, chhin-chhiẽⁿ; khó-pí; phì-zû; tǹg--kùe; hāi--kùe. *do like him*, o̍h i-kâi-iēⁿ; uàⁿ i-kâi-iēⁿ; hãu i-kâi-iēⁿ. *make, it like this*, chiè chí-kâi-iēⁿ tsò.
 
 **like**, *to*, hàuⁿ; ngũan; kam-ngũan; chhêng-ngũan; tèng-ì; ha̍h-ì; zûi-ì; sieh.
 
@@ -8955,7 +8955,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **oven**, húe-lôu; pek-lôu; pue-lôu.
 
-**over**, kùe; gūa; tshut; ṳ̂; tshûn; tṳ̂. *and above*, lêng-gūa; huân-liáu. *all over with mud*, che̍k-sin-thôu. *night*, kùe-mêⁿ. *ripe*, khah-se̍k; khah-kùe-se̍k; khah-kùe-lâu. *fall overboard*, pua̍h-lo̍h-tsúi. *overbearing*, kiau-ngãu; ̂khiâng-iap. *overcast sky*, thiⁿ chhiẽⁿ-hûn; thiⁿ-sek hun-àm; thiⁿ khàm-khàm; thiⁿ so-tô. *overdone*, pû khah-mîⁿ; khah-kùe-húe. *overflow*, iah--tshut; lâu--tshut; múaⁿ--tshut. *overflow (to spout up)*, chhèng--khí-lâi. *overhanging wall*, ngâm-chhiêⁿ; chhiêⁿ hiám àiⁿ-tó. *overhear*, chẽⁿ-thiaⁿ. *overshadow*, chia-ìm; pì-ìm. *overtake*, jiāu--tie̍h; tui-tie̍h; kúaⁿ--tie̍h. *overthrow*, léng-tó; tó-khap.
+**over**, kùe; gūa; tshut; ṳ̂; tshûn; tṳ̂. *and above*, lêng-gūa; huân-liáu. *all over with mud*, che̍k-sin-thôu. *night*, kùe-mêⁿ. *ripe*, khah-se̍k; khah-kùe-se̍k; khah-kùe-lâu. *fall overboard*, pua̍h-lo̍h-tsúi. *overbearing*, kiau-ngãu; khiâng-iap. *overcast sky*, thiⁿ chhiẽⁿ-hûn; thiⁿ-sek hun-àm; thiⁿ khàm-khàm; thiⁿ so-tô. *overdone*, pû khah-mîⁿ; khah-kùe-húe. *overflow*, iah--tshut; lâu--tshut; múaⁿ--tshut. *overflow (to spout up)*, chhèng--khí-lâi. *overhanging wall*, ngâm-chhiêⁿ; chhiêⁿ hiám àiⁿ-tó. *overhear*, chẽⁿ-thiaⁿ. *overshadow*, chia-ìm; pì-ìm. *overtake*, jiāu--tie̍h; tui-tie̍h; kúaⁿ--tie̍h. *overthrow*, léng-tó; tó-khap.
 
 **owe**, khiàm; khiàm-chîⁿ; khiàm-chè.
 
@@ -9933,7 +9933,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pure**, chheng; chheng-khih; chheng-kiet; chheng-chẽng; kiet-chẽng. *silver*, tsok-siâⁿ; chẽng-tsok; ngṳ̂n-tī kûiⁿ.
 
-**purgative**, sià-ie̍h; sià-tóu ie̍h; liâng-sià-ie̍h; thong-tãi-piên-ie̍h.
+**purgative**, sià-ie̍h; sià-tóu ie̍h; liâng-sià-ie̍h; thong-tãi-piẽn-ie̍h.
 
 **purloin**, thau-khie̍h.
 
@@ -12151,7 +12151,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **sultry**, hiap-zua̍h; pãu-jie̍t; pek-zua̍h. *wind*, huang nãⁿ-nãⁿ.
 
-**sum**, *to*, kāng-kòi; ha̍h-kāng; tsóng-kòi; tsóng-siàu; kat-tsóng-siàu. *the sum of this is that─*, tsóng zṳ̂-ngân--tsṳ─.
+**sum**, *to*, kāng-kòi; ha̍h-kāng; tsóng-kòi; tsóng-siàu; kat-tsóng-siàu. *the sum of this is that─*, tsóng zṳ̂-ngân--tsṳ.
 
 **summary**, tãi-ì; tãi-khài; tãi-iàu; tãi-tsóng-tsáng; tãi-lia̍k; iàu-ngân; pau-kuat.
 
@@ -13495,7 +13495,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **visionary**, phû(pũ)-huang tshok-iáⁿ; tsúi--tang lã-gue̍h; kiàⁿ-hue tsúi-gue̍h.
 
-**visit**, pài-kìⁿ; pài-hāu; mn̄g-hāu; siê-sûn. *farewell*, sàng-pie̍t; sàng-kiâⁿ. *to miss a*, sit-chiap. *I am sorry I missed your visit*, ãi! móng-ji̍t sit-chiap, sù--chē sù--chē! (Ans, õ! móng-ji̍t khṳ̀-kùe-jiáu, phòng--tie̍h lṳ́ tsun-kè gūa--tshut-khṳ̀). *to return a*, hûe-pài; hûe-pōu. *to (a prince)*, chhiâu-kìⁿ; chhiâu-kun. *to (a friend or relative)*, thàm-iú; thàm-chhim. *visiting card*, pài-thiap. *visitor*, nâng-kheh; pin-kheh. *to receive*, chiap-na̍p; ngêng-chih; khúan-thãi. *to dismiss*, sàng-kheh; sàng-pin. *to visit one and have a talk with him*, khṳ̀ kāng-i phûan-sûan--chē; khṳ̀ kāng-i chiu-sûan--chē.
+**visit**, pài-kìⁿ; pài-hāu; mn̄g-hāu; siê-sûn. *farewell*, sàng-pie̍t; sàng-kiâⁿ. *to miss a*, sit-chiap. *I am sorry I missed your visit*, ãi! móng-ji̍t sit-chiap, sù--chē sù--chē! Ans., õ! móng-ji̍t khṳ̀-kùe-jiáu, phòng--tie̍h lṳ́ tsun-kè gūa--tshut-khṳ̀. *to return a*, hûe-pài; hûe-pōu. *to (a prince)*, chhiâu-kìⁿ; chhiâu-kun. *to (a friend or relative)*, thàm-iú; thàm-chhim. *visiting card*, pài-thiap. *visitor*, nâng-kheh; pin-kheh. *to receive*, chiap-na̍p; ngêng-chih; khúan-thãi. *to dismiss*, sàng-kheh; sàng-pin. *to visit one and have a talk with him*, khṳ̀ kāng-i phûan-sûan--chē; khṳ̀ kāng-i chiu-sûan--chē.
 
 **vitriol**, *blue (sulphate of copper)*, táⁿ-huân. *green (sulphate of iron; copperas)*, tsõ-huân; chheⁿ-huân.
 
