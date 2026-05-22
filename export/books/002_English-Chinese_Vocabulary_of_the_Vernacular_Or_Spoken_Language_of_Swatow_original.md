@@ -8071,7 +8071,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mass**, *of people*, nâng-mue̍h lāu-jie̍t.
 
-**massacre**, tôu-lo̍k; suah-lo̍k; chĩn-tôu; tshám-suah; tshûng-kiâⁿ tu-lo̍k.
+**massacre**, tôu-lo̍k; suah-lo̍k; chĩn-tôu; tshám-suah; tshuûan-kiâⁿ tu-lo̍k.
 
 **mast**, tsûn-ûi. *mainmast*, tōa-ûi. *foremast*, thâu-ûi. *mizzen-mast*, búe-ûi. *cut away*, tsám-tiāu-ûi. *put up*, khiâ-ûi. *take down*, siâ-ûi; lo̍h-ûi.
 
