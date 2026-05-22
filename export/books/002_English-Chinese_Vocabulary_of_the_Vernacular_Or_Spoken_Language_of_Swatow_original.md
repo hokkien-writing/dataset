@@ -1295,7 +1295,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **benefit**, *to*, sái ũ-iah; si-ṳn; lĩ; lĩ-iah.
 
-**benevolence**, jìn-ài; jîn-tek; ṳn-hũi; jîn-tshṳ̂; jîn-ṳn; ṳn-chhêng. *to shew*, kiâⁿ-tek; si-hũi; si-ṳn.
+**benevolence**, jîn-ài; jîn-tek; ṳn-hũi; jîn-tshṳ̂; jîn-ṳn; ṳn-chhêng. *to shew*, kiâⁿ-tek; si-hũi; si-ṳn.
 
 **benignity**, tshṳ̂-ài; jîn-tshṳ̂; un-hûa.
 
@@ -1985,7 +1985,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **canthus**, *of eye*, ma̍k-thâu ma̍k-búe; ma̍k-tshṳ̂.
 
-**Canton**, *province*, Kńg-tang-séⁿ; Ua̍t-tang. *Canton and Kwang-si*, liáng-kúang; liáng-ua̍t. *city*, Kńg-tang séⁿ-siâⁿ; Iêⁿ-siâⁿ; ngõu-iêⁿ-siâⁿ; ua̍t-siàⁿ; thô-siâⁿ. *go to Canton*, lo̍h-séⁿ; chìn-séⁿ.
+**Canton**, *province*, Kńg-tang-séⁿ; Ua̍t-tang. *Canton and Kwang-si*, liáng-kúang; liáng-ua̍t. *city*, Kńg-tang séⁿ-siâⁿ; Iêⁿ-siâⁿ; ngõu-iêⁿ-siâⁿ; ua̍t-siâⁿ; thô-siâⁿ. *go to Canton*, lo̍h-séⁿ; chìn-séⁿ.
 
 **canvas**, phâng-pòu.
 
@@ -3205,7 +3205,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **creek**, káng; sié-khoi; sòi-khoi; thong-kà.
 
-**creep**, *pê*, so. *creep up*, pê--khí-lâi. *through a hole*, bùn-khang; nǹg-khang. *under the bedclothes*, nǹg--ji̍p phũe-tói. *stealthily along*, níhⁿ-kha-kiâⁿ.
+**creep**, *pê*, so. *creep up*, pê--khí-lâi. *through a hole*, bùn-khang; nǹg-khang. *under the bedclothes*, nǹg--ji̍p phũe-tói. *stealthily along*, ni̍hⁿ-kha-kiâⁿ.
 
 **crescent**, *moon*, gue̍h-bâi; sin-gue̍h; ngô-bâi-gue̍h.
 
@@ -9073,7 +9073,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **parrot**, eng-ko; eng-bú.
 
-**parry**, *tói-tiãu*, koh-tsũ.
+**parry**, tói-tiāu, koh-tsũ.
 
 **parsimonious**, *khiãm*, khieh-si̍p; kien-liẽn.
 
