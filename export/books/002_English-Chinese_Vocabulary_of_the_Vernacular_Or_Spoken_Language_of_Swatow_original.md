@@ -9507,7 +9507,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **point**, chiam; hong; búe; tshùi. *cut to a*, phoi-chiam; siah-chiam. *of a knife*, to-chiam; to-hong; to-búe. *pointed*, chiam-chiam.
 
-**point**, *to*, chí; kí; kí-thóiⁿ; chí-tiāⁿ; kí-tiāⁿ. *a book*, tiám-tsṳ. tiám-tsṳ-chheh. *out an error*, chí-mîⁿ; kí-phùa.
+**point**, *to*, chí; kí; kí-thóiⁿ; chí-tiāⁿ; kí-tiāⁿ. *a book*, tiám-tsṳ; tiám-tsṳ-chheh. *out an error*, chí-mîⁿ; kí-phùa.
 
 **poison**, ta̍k; ta̍k-ie̍h. *to*, lo̍h-ta̍k-ie̍h; ie̍h-sí-nâng. *fish*, ie̍h-hṳ̂. *calculated to prove fatal in a certain time*, hãn-ie̍h.
 
