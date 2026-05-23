@@ -1421,7 +1421,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **blame**, hiâm; cheh-hiâm; cheh-mēⁿ; cheh-pĩ. *it is my*, sĩ uá kâi-kùe-sit. *worthy of*, khó-cheh; hó-hiâm; m̄-tùi-sṳ̄; m̄-tie̍h; ũ-phāng; ũ-khiah.
 
-**blameless**, bô-hó-hiàm; bô-phāng hó-cheh; bô-ũ hó-ngí; bô m̄-tie̍h--tshù.
+**blameless**, bô-hó-hiâm; bô-phāng hó-cheh; bô-ũ hó-ngí; bô m̄-tie̍h--tshù.
 
 **bland**, un-jiû; un-hûa. *but with hatred in the heart*, kháu bi̍t pak kiàm; chhiè-lí tshâng-to.
 
@@ -1861,7 +1861,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **buzz**, ng-ng-kiè; hng-hng-kiè.
 
-**by**, *I was cheated by him*, uá pĩ-i-tshuah; pun-i-tshuah; khṳt-i-tshuah. *by (along) the shore*, în-hái-kîⁿ. *by weight*, chiè-khin-tãng; chiè-chhìn-chheⁿ; chiè-tshâ-chhìn. *by no means*, būan-put-khó; tiāⁿ-tie̍h m̄-sĩ. *by day*, ji̍t--kùa; ji̍t--tsṳ́. *by night*, meⁿ--tsṳ́; mêⁿ--kùa. *by himself*, sai-khia-ẽ; ka-kī; toaⁿ-nâng. *by chance*, tú-ngõ; ngóu-jiên. *by good luck*, tsãu-hùe; hẽng-tit. *by the way*, tõ-lōu-chiēⁿ. *by sea and land*, tsúi-le̍k. *by way of a place*, tshông; tùi. *year by year*, nîⁿ-kùe-nîⁿ; che̍k-nîⁿ kùe-che̍k-nîⁿ. *man by man*, che̍k-nâng che̍k-nâng. *little by little*, chiãm-chiãm; mān-mān; khuaⁿ-khuaⁿ. *to pay by the day*, lũn-ji̍t hôiⁿ--nâng; chiè-ji̍t--sǹg. *to lead by the hand*, khan-chhiú. *by the pattern*, chiè-iēⁿ. *by stealth*, thau. *by turns*, sie-lûn. *by and by*, khuaⁿ-khuaⁿ; tán--siap-sî; mān--chē; ke--khùn-kiáⁿ; ke--khùn; ke-bô-kú.
+**by**, *I was cheated by him*, uá pĩ-i-tshuah; pun-i-tshuah; khṳt-i-tshuah. *by (along) the shore*, în-hái-kîⁿ. *by weight*, chiè-khin-tãng; chiè-chhìn-chheⁿ; chiè-tshâ-chhìn. *by no means*, būan-put-khó; tiāⁿ-tie̍h m̄-sĩ. *by day*, ji̍t--kùa; ji̍t--tsṳ́. *by night*, mêⁿ--tsṳ́; mêⁿ--kùa. *by himself*, sai-khia-ẽ; ka-kī; toaⁿ-nâng. *by chance*, tú-ngõ; ngóu-jiên. *by good luck*, tsãu-hùe; hẽng-tit. *by the way*, tõ-lōu-chiēⁿ. *by sea and land*, tsúi-le̍k. *by way of a place*, tshông; tùi. *year by year*, nîⁿ-kùe-nîⁿ; che̍k-nîⁿ kùe-che̍k-nîⁿ. *man by man*, che̍k-nâng che̍k-nâng. *little by little*, chiãm-chiãm; mān-mān; khuaⁿ-khuaⁿ. *to pay by the day*, lũn-ji̍t hôiⁿ--nâng; chiè-ji̍t--sǹg. *to lead by the hand*, khan-chhiú. *by the pattern*, chiè-iēⁿ. *by stealth*, thau. *by turns*, sie-lûn. *by and by*, khuaⁿ-khuaⁿ; tán--siap-sî; mān--chē; ke--khùn-kiáⁿ; ke--khùn; ke-bô-kú.
 
 **bygone**, íⁿ-keng-kùe; kì-uáng; soiⁿ-ji̍t.
 
@@ -2409,7 +2409,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **citron**, hieⁿ-n̂g; hu̍t-chhiú.
 
-**city**, siâⁿ; siâⁿ-ip. *city walls*, siâⁿ-chhiêⁿ. *Capital*, Kiaⁿ-siâⁿ. *Provincial*, Séⁿ-siâⁿ. *District*, Kūiⁿ-siàⁿ.
+**city**, siâⁿ; siâⁿ-ip. *city walls*, siâⁿ-chhiêⁿ. *Capital*, Kiaⁿ-siâⁿ. *Provincial*, Séⁿ-siâⁿ. *District*, Kūiⁿ-siâⁿ.
 
 **civil**, ũ-lói; hiáu-lí; hiáu-chhêng-lí. *civility*, lói-siàu; lói-mãuⁿ; lói-ngî. *civil and military*, bûn-bú. *civil-officer*, bûn-kuaⁿ.
 
@@ -2455,7 +2455,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cleave**, phùa-khui. *wood*, phùa-tshâ. *cleave to*, liâm-tùe; tah-tùe; tùe-kín; zû-ka zû-tshat; kuah-siá m̄-khui.
 
-**clemency**, khuan-iông; tsuṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
+**clemency**, khuan-iông; tsṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
 
 **clerk**, tsṳ-phōiⁿ. *in civil court*, a-pún. *military*, kó-kong; siàng-kong.
 
@@ -3221,7 +3221,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **crimson**, tōa-âng-sek.
 
-**cringe**, tsṳ̃-khut; thiám-mīⁿ thài-kùe.
+**cringe**, tsṳ̃-khut; thiám-mĩⁿ thài-kùe.
 
 **cripple**, kuái-kha.
 
@@ -3997,7 +3997,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **disparity**, phit-phùe m̄-kùe.
 
-**dispassionate**, m̄-tõng-sim; bô-khì; bô-phien-sim.
+**dispassionate**, m̄-tõng-sim; ƒbô-khì; bô-phien-sim.
 
 **dispatch**, see **despatch**.
 
@@ -4159,7 +4159,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **done**, tso hó; hó--liáu. *exhausted*, liáu; ēng-liáu. *done with a meal*, chia̍h-pá--liáu.
 
-**doom**, tiaⁿ-tsũe; sún-tùan; ngí-tiāⁿ tsũe-miâⁿ.
+**doom**, tiāⁿ-tsũe; sím-tùan; ngí-tiāⁿ tsũe-miâⁿ.
 
 **door**, mn̂g. *bolt*, mn̂g-tshùaⁿ. *bolt the door*, tshùaⁿ-mn̂g, pi mn̂g. *shut the door*, kueⁿ-mn̂g. *not quite close*, mn̂g hoiⁿ. *door-bar*, mn̂g-chhēng. *keep a door*, chiéⁿ-mn̂g; siú-mn̂g; kuan-mn̂g; pé-mn̂g. *door-posts*, mn̂g-thiãu. *door-frame*, mn̂g-khuan. *lintel*, mn̂g-bâi. *socket*, mn̂g-khũ. *handle*, mn̂g-tsu. *threshold*, mn̂g-tõiⁿ.
 
@@ -4939,7 +4939,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **extend**, *spread widely*, iâng; pùa. *stretch out*, tshun. *extend to*, chì-kàu; phóu-ki̍p. *everywhere*, bô-só put-chì. *extensive*, khuah; kúang-khuah; khùaⁿ. *what is the extent of it*, ũ-jie̍h-tōa; ũ-jie̍h-khuah.
 
-**exterior**, gūa-mīn; gū-mãuⁿ; gūa-thâu; gūa-phûe; gūa-pôiⁿ.
+**exterior**, gūa-mīn; gūa-mãuⁿ; gūa-thâu; gūa-phûe; gūa-pôiⁿ.
 
 **exterminate**, mi̍t-tso̍h; tu-mi̍t; tshau-mi̍t; tṳ̂-mi̍t; thâi-chĩn.
 
@@ -5413,7 +5413,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **forecast**, ṳ̃-ta̍t; ṳ̃-pān; lṳ̃; mông-lṳ̃; phah-ke̍k; phah-sǹg; tá-sǹg.
 
-**forefathers**, soiⁿ-tsóu; tsóu-tshong; tsóu-kong; tsóu-pẽ; kong-má.
+**forefathers**, soiⁿ-tsóu; tsóu-tsong; tsóu-kong; tsóu-pẽ; kong-má.
 
 **forego**, put-tshú; m̃-tshú; chhìn-tshái-hiah; pàng-tiāu. *humbly one's right*, khiam-jiãng; chiãm-jiãng; siũ-khui.
 
@@ -6315,7 +6315,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hen**, koi-bó. *young*, koi-nùaⁿ; koi-nùaⁿ-kiáⁿ. *hen-house*, koi-liâu; koi-lâng. *hen-roost*, koi-tiâu; koi-chhi. *henpecked*, koi-bó-thî; koi-bó phah-si̍t-thî.
 
-**hence**, *gone*, bô-tõ; khṳ̀--liáu. *therefore*, kù-tshṳ́; só-íⁿ; sǹg-lâi; in-tshṳ́. *henceforth*, tshông-kim íⁿ-ãu; tsṳ̃-kim íⁿ-ãu; tshóng-tshṳ́ íⁿ-ãu.
+**hence**, *gone*, bô-tõ; khṳ̀--liáu. *therefore*, kù-tshṳ́; só-íⁿ; sǹg-lâi; in-tshṳ́. *henceforth*, tshông-kim íⁿ-ãu; tsṳ̃-kim íⁿ-ãu; tshông-tshṳ́ íⁿ-ãu.
 
 **herald**, sài; pò-sìn; pò-sie-sit.
 
@@ -8115,7 +8115,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **mean**, *to*, ũ-ì; ũ-sim. *meaning*, ì-sṳ̀. *of written character*, jī-ngĩ.
 
-**means**, huang-huap; huap-tsat; huap-tõu. *no*, bô-huap; bô-pōu; bô-lêng-ûi; bõi-tit ji̍p-chhiú. *capital*, tsṳ-pńg; pńg-chîⁿ.
+**means**, huang-huap; huap-tsat; huap-tōu. *no*, bô-huap; bô-pōu; bô-lêng-ûi; bõi-tit ji̍p-chhiú. *capital*, tsṳ-pńg; pńg-chîⁿ.
 
 **meantime**, tng-sî; hṳ́-sî.
 
@@ -9321,7 +9321,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **phoenix**, hõng-chiáu; hõng-huâng.
 
-**photograph**, *to take a*, hoh-sìeⁿ.
+**photograph**, *to take a*, hoh-sièⁿ.
 
 **phrase**, che̍k-kù-ūe; ūe-kù. *common*, pīn-chiâⁿ-gṳ́; kháu-thâu-gṳ́; pīn-thàu-gṳ́. *book*, tsṳ-kù.
 
@@ -9351,7 +9351,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pierce**, tshn̍g. *(with boring instrument)*, tsn̍g.
 
-**piety**, *(idolatrous)*, kèng-ùi sîn-mêng; sêng-kèng. *filial*, hàu; kiâⁿ-hàu; hàu-sũn pẽ-bó; hau-kèng pẽ-bó.
+**piety**, *(idolatrous)*, kèng-ùi sîn-mêng; sêng-kèng. *filial*, hàu; kiâⁿ-hàu; hàu-sũn pẽ-bó; hàu-kèng pẽ-bó.
 
 **pig**, tṳ. *pig-tail*, see **queue**.
 
@@ -9597,7 +9597,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **post**, *a*, thiãu; khṳ̍t.
 
-**post**, *a letter*, kià-sìn. *post-office*, bûn-tsṳ-kuán; tsṳ-sìn-kuán. *post-station* , ia̍h-ku´¯n; ia̍h-tsãm; kuan-ia̍h. *post-runner*, bé-sìn; tshoiⁿ-lí-bé; tsáu-bûn-tsṳ; tî-bûn-tsṳ.
+**post**, *a letter*, kià-sìn. *post-office*, bûn-tsṳ-kuán; tsṳ-sìn-kuán. *post-station* , ia̍h-kuán; ia̍h-tsãm; kuan-ia̍h. *post-runner*, bé-sìn; tshoiⁿ-lí-bé; tsáu-bûn-tsṳ; tî-bûn-tsṳ.
 
 **posterity**, ãu; ãu-ĩ; kiáⁿ-sun; ãu-tō. *descend to*, thuân-pun ãu-ĩ; thuân-pun ãu-pùe.
 
@@ -9951,7 +9951,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pustule**, sié-tshng.
 
-**put**, pàng; hẽ; an-tì; an-tùn. *away*, pàng-khui. *away a servant*, sî. *by* khǹg; khǹg-búa. *in mind*, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit. *in order*, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ. *into*, tshō--lo̍h-khṳ̀; ji̍p. *on clothes*, chhēng-saⁿ. *on a cap*, tì-bō. *off clothes and cap*, thǹg-saⁿ pak-bō. *out a fire*, phah-kùe-húe; ìm--khí húe. *out a lamp*, pûn-kùe-teng; lâu-kùe-teng; lâu--khí. *the hand on*, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh. *together*, tàu; tàu-bûa; ha̍h-bûa. *up with*, lún; nãiⁿ. *to shame*, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
+**put**, pàng; hẽ; an-tì; an-tùn. *away*, pàng-khui. *away a servant*, sî. *by* khǹg; khǹg-bûa. *in mind*, thî-chhéⁿ; that-chhéⁿ; sái i kì-tit. *in order*, pái-hó; siu-si̍p-hó; phou-tì-hó; an-pâi; siu-si̍p kui-ūi; siu-si̍p tsôi-chiáⁿ. *into*, tshō--lo̍h-khṳ̀; ji̍p. *on clothes*, chhēng-saⁿ. *on a cap*, tì-bō. *off clothes and cap*, thǹg-saⁿ pak-bō. *out a fire*, phah-kùe-húe; ìm--khí húe. *out a lamp*, pûn-kùe-teng; lâu-kùe-teng; lâu--khí. *the hand on*, àn-chhiú; chhiú àn--pàng-kò; hūaⁿ-chhiú; chhiú teh. *together*, tàu; tàu-bûa; ha̍h-bûa. *up with*, lún; nãiⁿ. *to shame*, khṳt-nâng sit-lién; peh-phùa mīn-phûe.
 
 **putchuk**, ba̍k-hieⁿ.
 
@@ -11049,7 +11049,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **self**, ka-kī; tsṳ̃-kí; pńg-sin; chhin-sin. *self-examination*, tsṳ̃-séng; tsṳ̃-sṳ; tsṳ̃-siẽⁿ; tsṳ̃-tshat; tsṳ̃-mn̄g; tsṳ̃-àn; séⁿ-tshat ka-kī; mn̄g-sim chẽⁿ-àn. *self-satisfied*, tsṳ̃-tsok. *self-conceit*, tsṳ̃-múaⁿ; tsṳ̃-sĩ. *injure oneself*, tshâng-hāi ka-kī; tsṳ̃-pãu; tsṳ̃-khì; tsṳ̃-tshú khî-hũa.
 
-**selfish**, sṳ-sim; tsṳ̃-sim ũi-kí; lĩ-kí; kù-kí. *unselfish*, chì-kong bô-sṳ; thãi-nâng zû-kí; kãu-nâng po̍h-kí.
+**selfish**, sṳ-sim; tsṳ̃-sim ũi-kí+(利己)(顧己)(濟公無私)(待人如己)(厚人薄己)++.
 
 **sell**, bōi; phùaⁿ. *rice*, thiè-chhek; thiè-bí. *on credit*, chhia-bōi. *for ready money*, hīn-bōi; hīn-chîⁿ kau-kuan. *by weight*, lũn-kṳn-bōi. *by auction*, khà-lõi-lang; khà-lang.
 
@@ -11199,7 +11199,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **shirt**, sin-tói-saⁿ; lãi-saⁿ; kṳ̃n-sin-i; kūaⁿ-saⁿ; tsṳ̀-kūaⁿ-saⁿ.
 
-**shiver**, *from cold*, khĩu; tòng; chhìn kàu kha̍p-kha̍p-sih.
+**shiver**, *from cold*, khiū; tòng; chhìn kàu kha̍p-kha̍p-sih.
 
 **shiver**, *to pieces*, phùa tshap-tshap-tshùi.
 
@@ -11309,7 +11309,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **silver**, ngṳ̂n. *silver-smith*, phah-ngṳ̂n sai-pẽ. *shop*, siu-sek-phòu. *pure*, tsok-siâⁿ-ngṳ̂n. *with two parts of alloy*, poih-siâⁿ-ngṳ̂n. *fragments of*, ngṳ̂n-tshùi. *ingots*, see INGOT.
 
-**similar**, *húang-sṳ̃; siang-sṳ̃; chhin-chhiẽⁿ; tãi-tâng*, siáu-ĩ; húang-hut.
+**similar**, húang-sṳ̃; siang-sṳ̃; chhin-chhiẽⁿ; tãi-tâng, siáu-ĩ; húang-hut.
 
 **simmer**, *as water*, tshang.
 
@@ -11397,7 +11397,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **slate**, chie̍h-póiⁿ; chie̍h-hiã. *(for writing)*, hún-pâi-chie̍h.
 
-**slattern**, *lah-tah tsṳ-niêⁿ; thâu-môⁿ zû-sàu-soi*, kha-tîⁿ pũaⁿ-sí-koi.
+**slattern**, lah-tah tsṳ-niêⁿ; thâu-môⁿ zû-sàu-soi, kha-tîⁿ pũaⁿ-sí-koi.
 
 **slaughter**, suah-lo̍k; tu-lo̍k ke-nâng. *an ox*, thâi-gû.
 
@@ -12485,7 +12485,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **than**, *more*, put-chí; m̄-chheng; put-to̍k; m̄-khéng; tsōi--kùe; ke--kùe; huân-liáu-ke; huân-kèng-ke; siãng-chhiáⁿ-ũ. *he is older than I*, i tōa--uá; i tōa-kùe-uá. *no more than*, put-kùe. *more than ten*, tsa̍p-gūa; tsa̍p-tshut; tsa̍p-ṳ̂; tsa̍p-tshûn.
 
-**thank**, siā; kám-siā. *many thanks*, tsōi-siā; to-siā; kám-mông. *thank you*, lâu--lṳ́; huân-lṳ́; huân-lâu--lṳ́; bûa-lūi--lṳ́; lūi--lṳ́; tōa-lãu-nâng; chhit-lãu poih-tōa; siũ-hũi; niáⁿ-hũi; niáⁿ-chhêng; kám-chhêng; hùi-sim; phièn--lṳ́ hùi-sîn; lâu-tõng--tie̍h lṳ́; lãu-tõng--tie̍h tãi-kè. *I will thank you to come*, lūi-lṳ́-lâi; chhiáⁿ-lṳ́-lâi. *no need for thanks*, tàⁿ-kàu-lūi--kâi-ūe; sĩ-pńg-téng; sĩ-pńg-hūn; khí-káⁿ; huaⁿ-hí; hó-ūe; kōi-kōi; kâi-ì-sṳ̀ tiāⁿ-tiāⁿ; mién-kám-siā. *to return thanks*, tap-siā. *letter of thanks*, siā-thiap. *thankful*, kám-ṳm put-buâng; kám-ṳn put-chhién; kám-liãm tõ-sim; mông-ṳn tài-tek; kám-ṳn tài-tek; pò-ṳn; tsai-ṳn. *thankless*, buâng-ṳn; buâng-ṳn hũ-ngĩ; hiau-chhêng tso̍h-ngĩ; bô-jîn-ngĩ; buâng-chhêng; kùe-kèⁿ thiu-kúai. *thankworthy*, kai-siā.
+**thank**, siā; kám-siā. *many thanks*, tsōi-siā; to-siā; kám-mông. *thank you*, lâu--lṳ́; huân-lṳ́; huân-lâu--lṳ́; bûa-lūi--lṳ́; lūi--lṳ́; tōa-lãu-nâng; chhit-lãu poih-tōa; siũ-hũi; niáⁿ-hũi; niáⁿ-chhêng; kám-chhêng; hùi-sim; phièn--lṳ́ hùi-sîn; lâu-tõng--tie̍h lṳ́; lãu-tõng--tie̍h tãi-kè. *I will thank you to come*, lūi-lṳ́-lâi; chhiáⁿ-lṳ́-lâi. *no need for thanks*, tàⁿ-kàu-lūi--kâi-ūe; sĩ-pńg-téng; sĩ-pńg-hūn; khí-káⁿ; huaⁿ-hí; hó-ūe; kōi-kōi; kâi-ì-sṳ̀ tiāⁿ-tiāⁿ; mién-kám-siā. *to return thanks*, tap-siā. *letter of thanks*, siā-thiap. *thankful*, kám-ṳn put-buâng; kám-ṳn put-chhién; kám-liãm tõ-sim; mông-ṳn tài-tek; kám-ṳn tài-tek; pò-ṳn; tsai-ṳn. *thankless*, buâng-ṳn; buâng-ṳn hũ-ngĩ; hiau-chhêng tso̍h-ngĩ; bô-jîn-ngĩ; buâng-chhêng; kùe-kèⁿ thiu-kúai. *thankworthy*, kai-siā.
 
 **that**, hṳ́; hṳ́--kâi. *that which he said*, i-só-tàⁿ. *that is to say*, ngân-khî. *that night*, hṳ́-che̍k-mêⁿ. *that side*, hièⁿ-pôiⁿ; hièⁿ-thâu. *at that time*, tng-sî.
 
@@ -13047,7 +13047,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unbend**, pàng-lēng; pàng-khuan. *a bow*, pak-khui keng-hîⁿ. *unbending*, ngẽ.
 
-**unbiassed**, bô-phien-sim; bô-aṳ-sim; kong-chiàⁿ bô-sṳ.
+**unbiassed**, bô-phien-sim; bô-sṳ-sim; kong-chiàⁿ bô-sṳ.
 
 **unbind**, kói; kói-khui; tháu-khui.
 
@@ -13343,7 +13343,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **vat**, tōa-tháng. *for indigo*, chheⁿ-tháng.
 
-**vault**, *the vault of heaven*, chheⁿ-thiⁿ; thiⁿ uan-keng uan-keng++(天彎弓彎弓)+. *the vault of heaven (reading)*, khiong-tshan; tshan-khiong. *an underground*, tī-sit. *vaulted*, keng-uan-mn̂g.
+**vault**, *the vault of heaven*, chheⁿ-thiⁿ; thiⁿ uan-keng uan-keng+(穹蒼)(蒼穹)(地室)(弓彎門)++.
 
 **vault**, *to*, thiàu-lêng-mn̂g.
 

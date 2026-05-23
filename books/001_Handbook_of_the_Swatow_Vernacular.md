@@ -2749,7 +2749,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **算盤** Sǹg-pûaⁿ ... ... ... Abacus.
 - **扣算盤** Khà-sǹg-pûaⁿ ... ... ... To reckon on the abacus.
 - **~~籜~~(揭)算盤** Kiah-sǹg-pûaⁿ ... ... ... To reckon on the abacus.
-- **算~~總~~(摩)** Sǹg-bûa ... ... ... To add.
+- **算~~總~~(埋)** Sǹg-bûa ... ... ... To add.
 - **除** Tṳ̂ ... ... ... To subtract.
 - **乘** Sêng ... ... ... To multiply.
 - **分** Pun ... ... ... To divide.
@@ -3734,7 +3734,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Appetite no** Bõi-chiáh; chiáh-m̃-lóh ... ... ... 袂食  食~~不~~(毋)落
 - **Appoint** Siet-líp ... ... ... 設立
 - **Appointment** Cheh-jĩm ... ... ... 職任
-- **Approach** Kiâⁿ-mûa ... ... ... 行~~近~~(摩)
+- **Approach** Kiâⁿ-mûa ... ... ... 行~~近~~(埋)
 - **Arise** Khí; khí--lâi ... ... ... 起  起來
 - **Arm** Chhiú ... ... ... 手
 - **Arm to clasp in the** Nám ... ... ... ++攬++
@@ -4128,7 +4128,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Clogs** Kiáh ... ... ... 屐
 - **Close, as door** Kueⁿ ... ... ... 關
 - **„ as letter** Huang ... ... ... 封
-- **Close, near** Buâ; kṳ̃n ... ... ... ++摩++  近
+- **Close, near** Buâ; kṳ̃n ... ... ... ++埋++  近
 - **„ as texture** Bát ... ... ... 密
 - **„ not airy** Hip ... ... ... 歙
 - **Cloth** Pòu ... ... ... 布
@@ -4180,8 +4180,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Comply** Sũn ... ... ... 順
 - **Compliment, to send** Mn̄g-hāu; chhiáⁿ-uaⁿ ... ... ... 問候  請安
 - **Composition** Bûn-chieⁿ ... ... ... 文章
-- **Conceal** Khǹg; khǹg-bûa ... ... ... ~~藏~~(囥)  ~~藏~~(囥)~~埋~~(摩)
-- **„ oneself** Tiàm; tiàm-bûa ... ... ... ~~藏~~(坫)  ~~藏~~(坫)~~埋~~(摩)
+- **Conceal** Khǹg; khǹg-bûa ... ... ... ~~藏~~(囥)  ~~藏~~(囥)埋
+- **„ oneself** Tiàm; tiàm-bûa ... ... ... ~~藏~~(坫)  ~~藏~~(坫)埋
 - **Concern, to** Ũ-kan-siáp ... ... ... 有干涉
 - **„ does not** Bô-kan-siáp ... ... ... 無干涉
 - **Conciliate** Hûa; kiâⁿ-hûa ... ... ... 和  行和
@@ -5698,7 +5698,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Ungrateful** M̃-tsai nâng-chhêng; hiou-chhêng tsóh-ngĩ; buâng-ṳn; bô-jîn-ngĩ ... ... ... ~~不~~(毋)知人[訓]~~⿰忄靑~~(情)  僥~~⿰忄靑~~(情)絕義  忘恩  無仁義
 - **Unhappy, of life** Khóu-miāⁿ ... ... ... 苦命
 - **Uniform** Kuaⁿ-hók; kuaⁿ-i ... ... ... 官服  官衣
-- **Unite, to** Háh-bûa ... ... ... ~~合總~~(合摩)
+- **Unite, to** Háh-bûa ... ... ... ~~合總~~(合埋)
 - **Unlawful** M̃-háh-huap ... ... ... ~~不~~(毋)合法
 - **Unlimited** Bô-hãn ... ... ... 無限
 - **Unload, a ship** Khí-hùe; tshut-hùe ... ... ... 起貨  出貨
