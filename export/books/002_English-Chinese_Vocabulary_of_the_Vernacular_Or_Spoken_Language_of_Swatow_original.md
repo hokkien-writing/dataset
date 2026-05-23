@@ -1683,7 +1683,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bridegroom**, sin-nn̂g; sin-niêⁿ-tia. *ceremony of exchanging the bridal cups*, ha̍h-kńg kau-pue; kau-pue uāⁿ-tsúaⁿ.
 
-**bridge**, kiê. *piers of*, kiê-tún. *arches of*, kiê-chiu-mn̂g. *floating*, phû-kiê. *of nose*, phiⁿ-lêng-kut.
+**bridge**, kiê. *piers of*, kiê-tún. *arches of*, kiê-chiu-mn̂g. *floating*, phû-kiê. *of nose*, phīⁿ-lêng-kut.
 
 **bridle**, bé-soh. *to draw*, le̍k-bé. *oneself*, uaⁿ-hūn siú-kí.
 
@@ -2281,7 +2281,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cheat**, phièn; khi-phièn; láu-phièn; kuang-láu; kuang-phièn; tshuah.
 
-**check**, tsó-chí; at-chí; at-taīm; tsó-keh; iak-sok; tsũ; at-tsũ. *oneself*, at-chí ka-kī. *pain*, chí-thiàⁿ. *diarrhoea*, chí-sià; tsũ-sià.
+**check**, tsó-chí; at-chí; at-tiām; tsó-keh; iak-sok; tsũ; at-tsũ. *oneself*, at-chí ka-kī. *pain*, chí-thiàⁿ. *diarrhoea*, chí-sià; tsũ-sià.
 
 **cheek**, kih-kau.
 
@@ -5955,7 +5955,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **grapple**, kau-tsũ; kau-tiām; kau-tîⁿ; khím-kín.
 
-**grasp**, līm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. *a sword, in the scabbard, to be ready*, àn-kiàm siang-huâng. *the throat (with one hand)*, tẽⁿ-âu. *the throat (with both hands)*, liū-âu.
+**grasp**, lĩm-kín; khie̍h-kín; lia̍h-kín; tẽⁿ-kín; phõ-kín. *a sword, in the scabbard, to be ready*, àn-kiàm siang-huâng. *the throat (with one hand)*, tẽⁿ-âu. *the throat (with both hands)*, liū-âu.
 
 **grass**, tsháu. *grass-plot*, tsháu-pou. *green grass*, chheⁿ-tsháu. *dry*, ta-tsháu. *to cut*, kuah-tsháu. *to burn*, hiâⁿ-tsháu. *to burn on the hills*, pàng-húe sie-suaⁿ. *to pull*, mán-tsháu. *bundle of*, che̍k-pé-tsháu. *tie up in small bundles for the fire*, tîⁿ-oiⁿ; tîⁿ-tsháu-oiⁿ.
 
@@ -6121,7 +6121,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Hainan**, Hái-lâm.
 
-**hair**, môⁿ. *of head*, thâu-môⁿ. *of body*, khóu-môⁿ. *of a mole*, kì-môⁿ. *lose one's*, thut-môⁿ; lut-môⁿ. *hairy*, seⁿ-môⁿ. *on end*, thâu-môⁿ kiah--khí. *hair-pin*, thoi; tshah-thoi; pang-tsam; thâu-thoh. *to comb the*, siu-thâu-môⁿ. *in disorder*, thâu-môⁿ zṳ̂-zṳ̂; thâu-zṳ̀-môⁿ; thâu-sùaⁿ. *unplait the queue*, tháu-piⁿ. *plait the queue*, pĩⁿ-piⁿ. *hair brush*, môⁿ-sueh. *haircloth*, bé-búe-chiⁿ. *a haircloth cushion*, bé-búe-tiẽn.
+**hair**, môⁿ. *of head*, thâu-môⁿ. *of body*, khóu-môⁿ. *of a mole*, kì-môⁿ. *lose one's*, thut-môⁿ; lut-môⁿ. *hairy*, seⁿ-môⁿ. *on end*, thâu-môⁿ kiah--khí. *hair-pin*, thoi; tshah-thoi; pang-tsam; thâu-thoh. *to comb the*, siu-thâu-môⁿ. *in disorder*, thâu-môⁿ zṳ̂-zṳ̂; tháu-zṳ̀-môⁿ; tháu-sùaⁿ. *unplait the queue*, tháu-piⁿ. *plait the queue*, pĩⁿ-piⁿ. *hair brush*, môⁿ-sueh. *haircloth*, bé-búe-chiⁿ. *a haircloth cushion*, bé-búe-tiẽn.
 
 **halberd**, pê-thâu; chhe. *prongs of*, gé.
 
@@ -6841,7 +6841,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **income**, só-ji̍p; só-siu. *official*, hóng-lo̍k; iáng-liâm. *from all quarters*, tsa̍p-bũ-chîⁿ.
 
-**incommode**, hûan-lâu; lâu-kè; lūi; lâu-tõng; hũn; hũn-jiáu; kiáu-jiáu; jiáu-tõng; kùe-jiãu.
+**incommode**, hûan-lâu; lâu-kè; lūi; lâu-tõng; hũn; hũn-jiáu; kiáu-jiáu; jiáu-tõng; kùe-jiáu.
 
 **incomparable**, bô-hó-pí; bô-hó pí-pẽng; lân-íⁿ siang-pí; bô-sang.
 
@@ -13493,7 +13493,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **vision**, *dream*, mîn-māng; mêⁿ-māng; māng-mũeⁿ. *to have a*, kìⁿ-mêⁿ-māng; māng--kìⁿ; ki-kuan--kìⁿ; ũ-māng-tiãu.
 
-**visionary**, phû(pũ)-huang tshok-iáⁿ; tsúi--tang lã-gue̍h; kiàⁿ-hue tsúi-gue̍h.
+**visionary**, phû-huang tshok-iáⁿ; pũ-huang tshok-iáⁿ; tsúi--tang lã-gue̍h; kiàⁿ-hue tsúi-gue̍h.
 
 **visit**, pài-kìⁿ; pài-hāu; mn̄g-hāu; siê-sûn. *farewell*, sàng-pie̍t; sàng-kiâⁿ. *to miss a*, sit-chiap. *I am sorry I missed your visit*, ãi! móng-ji̍t sit-chiap, sù--chē sù--chē! Ans., õ! móng-ji̍t khṳ̀-kùe-jiáu, phòng--tie̍h lṳ́ tsun-kè gūa--tshut-khṳ̀. *to return a*, hûe-pài; hûe-pōu. *to (a prince)*, chhiâu-kìⁿ; chhiâu-kun. *to (a friend or relative)*, thàm-iú; thàm-chhim. *visiting card*, pài-thiap. *visitor*, nâng-kheh; pin-kheh. *to receive*, chiap-na̍p; ngêng-chih; khúan-thãi. *to dismiss*, sàng-kheh; sàng-pin. *to visit one and have a talk with him*, khṳ̀ kāng-i phûan-sûan--chē; khṳ̀ kāng-i chiu-sûan--chē.
 
