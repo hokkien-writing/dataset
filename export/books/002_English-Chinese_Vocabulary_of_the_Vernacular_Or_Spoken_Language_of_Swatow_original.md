@@ -1175,7 +1175,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **beacon**, in-tun.
 
-**bead**, tsu. *one bead*, che̍k-lia̍p-tsu. *a string*, che̍k-tshùan; che̍k-pa̍k. *a string in a mass*, che̍k-kiû. *a large string*, che̍k-kũaⁿ. *a string of beads as the mandarins wear them*, sù-tsu; chhiàu-tsu. *rosary*, liãm-tsu.
+**bead**, tsu. *one bead*, che̍k-lia̍p-tsu. *a string*, che̍k-tshùan; che̍k-pa̍k. *a string in a mass*, che̍k-kiû. *a large string*, che̍k-kũaⁿ. *a string of beads as the mandarins wear them*, sù-tsu; chhiâu-tsu. *rosary*, liãm-tsu.
 
 **beak**, chiáu-tshùi.
 
@@ -1981,7 +1981,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **canopy**, tsṳ́-thâi.
 
-**contharides**, pn-ngiau; tāu-bâ.
+**cantharides**, pan-ngiau; tāu-bâ.
 
 **canthus**, *of eye*, ma̍k-thâu ma̍k-búe; ma̍k-tshṳ̂.
 
@@ -4127,7 +4127,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **do**, tsò; tsak; ûi; kiâⁿ; tsãu. *do business*, tsò-seng-lí. *a favour*, si-ṳn; tsò-nâng-chhêng. *to do as we would be**done by*, thãi-nâng zû-kí. *do away with*, tṳ̂-khṳ̀; ka̍k-tiāu; kói. *how do you do*, lṳ́ khin-kiāⁿ. *do not*, màiⁿ; m̄-hó; mín. *I have nothing to do with it*, ṳ́-úa bô-kan; bô-tāi; bô-hūn. *this will never do*, m̄-tsò-tit. *it will do*, tsò-tit; õi--tsò-tit. *what shall I do*, aìⁿ-tsò-nî-mue̍h. *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ, bô-pa̍t-lōu. *do one's duty*, chĩn-pńg-hūn. *what is all this to do about*, kā-kā-jiáng sĩ-mih ûan-kù.
 
-**docile**, koi-kà-sī; sũn-sũn; thiaⁿ-nâng-tàⁿ.
+**docile**, kōi-kà-sī; sũn-sũn; thiaⁿ-nâng-tàⁿ.
 
 **dockyard**, tsûn-chhiáng; siu-si̍p-tsûn kâi-ūi-tshṳ̀.
 
@@ -6995,7 +6995,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **inform**, thong-tsai; pò-tsai; thuân-tsai; pín; tàⁿ; tàⁿ-tsai; kàu-tsai; hiáu-zũ. *informer*, sùaⁿ-soh.
 
-**infrequent**, chié-ū; chié-tit; chié-só-ũ; hán--tit.
+**infrequent**, chié-ũ; chié-tit; chié-só-ũ; hán--tit.
 
 **infringe**, *laws*, huãm-huap.
 
@@ -9313,7 +9313,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **philanthropy**, jîn-tek; kiâⁿ-jîn-tek.
 
-**philology**, káng-kiù bún-jī.
+**philology**, káng-kiù bûn-jī.
 
 **philosophy**, tãu. *philosopher*, khiông-lí kek-mue̍h-sṳ̃.
 
@@ -12693,7 +12693,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tooth**, *toothache*, khí thiàⁿ. *toothbrush*, khí-sueh. *toothpick*, khí-thak. *toothpowder*, khí-hún. see TEETH.
 
-**top**, téng; thâu; mīn; téng-mīn; chiēⁿ-mīn; mīn-chiēⁿ. *of a hill*, suaⁿ-téng. *topmost*, téng-téng; siãng-téng. *topsy-turvy*, tin-tò-thâu; tin-tò-thâu-chèng.
+**top**, téng; thâu; mīn; téng-mīn; chiēⁿ-mīn; mīn-chiēⁿ. *of a hill*, suaⁿ-téng. *topmost*, téng-téng; siãng-téng. *topsy-turvy*, tin-tò-thâu; tin-tò-thâu-chèng++(顛倒頭種)+.
 
 **top**, *a*, hâm-lâm-su̍t. *to spin a*, phah-hâm-lâm-su̍t.
 
@@ -12759,7 +12759,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **trait**, *a good*, che̍k-tn̄g hó-sim; che̍k-kiãⁿ-sṳ̄ hó-tshú.
 
-**traitor**, bōi-kok; kōi-kun; kan-chhîn; bōi-làn kun-uâng; tsò-sùaⁿ.
+**traitor**, bōi-kok; bōi-kun; kan-chhîn; bōi-làn kun-uâng; tsò-sùaⁿ.
 
 **trample**, *on*, tshau-ta̍h; lūn-ta̍h. *to death*, ta̍h-sí; lūn-sí. *on the law*, ma̍k bô-uâng-chiang.
 
