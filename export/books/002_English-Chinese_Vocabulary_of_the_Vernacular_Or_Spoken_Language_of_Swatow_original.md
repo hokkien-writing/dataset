@@ -3333,7 +3333,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **curse**, chiù-tsūa; chiù-mēⁿ.
 
-**cursorily**, chhìn-tshái; tshó-lia̍k; khùe-pháng bô-hó-si; khùe-cheh bô-hó-tsòi.
+**cursorily**, chhìn-tshái; tshó-lia̍k; khùe-pháng bô-hó-se; khùe-cheh bô-hó-tsòi.
 
 **curtail**, tso̍ih; tok-tñg; séⁿ; káng-séⁿ.
 
@@ -4477,7 +4477,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **elysium**, sien-kéng.
 
-**emaciated**, sáu; sán-sòu; sán-kut lo̍h-ne̍k. *(skin & bone)*, têng-phûe nêⁿ-têng-kut.
+**emaciated**, sán; sán-sòu; sán-kut lo̍h-ne̍k. *(skin & bone)*, têng-phûe nêⁿ-têng-kut.
 
 **emanate**, *from*, lâu-tshut; huat-tshut; liû-thûan; tshông-tõ hṳ́-kò khí.
 
@@ -4555,7 +4555,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **enchain**, só-thih-soh; pa̍k-thih-soh.
 
-**enchant**, mîⁿ; miⁿ-ho̍k. *enchantment*, siâ-su̍t; bû-su̍t; siâ-huap; tshái-chheⁿ-huap. *enchanter*, sái-siâ-su̍t; tsò-bû-su̍t.
+**enchant**, mîⁿ; mîⁿ-ho̍k. *enchantment*, siâ-su̍t; bû-su̍t; siâ-huap; tshái-chheⁿ-huap. *enchanter*, sái-siâ-su̍t; tsò-bû-su̍t.
 
 **enchase**, *inlay with jewels*, sieⁿ-ge̍k. *adorn with figures*, tiau; kuah; khek; tiau-hue kuah-chiáu; tiau-hue khek-chiáu; tiau-kuah hue-chiáu.
 
