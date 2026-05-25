@@ -1569,7 +1569,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **border**, kéng-kài; kau-kài. *bordering*, sie-kiam-kài.
 
-**bore**, tsǹg. *a hole*, tsǹg-khang; sú-khang. *borer*, tsńg-kiáⁿ; keng-sú.
+**bore**, tsǹg. *a hole*, tsǹg-khang; sú-khang. *borer*, tsǹg-kiáⁿ; keng-sú.
 
 **born**, seⁿ; seⁿ-tshut-sì; tshut-sì. *again*, têng-seⁿ.
 
@@ -2539,7 +2539,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coax**, koh-lô; siẽn-sueh koh-lô.
 
-**cobbler**, póu-ôi sai-pã.
+**cobbler**, póu-ôi sai-pẽ.
 
 **cobweb**, ti-tu-si.
 
@@ -3211,7 +3211,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **crew**, *of ship*, tsúi-siú.
 
-**crevice**, khiah; phāng; phāng-khían; hûn-phāng; hûn-khiah.
+**crevice**, khiah; phāng; phāng-khiah; hûn-phāng; hûn-khiah.
 
 **cricket**, tek-sut. *chirping of*, tiang-tiang-kiè.
 
