@@ -11357,7 +11357,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **skein**, *of thread*, che̍k-tshâng-sùaⁿ.
 
-**skeleton**, kut-thói; koú-kut. *like a*, chek-sin tou-sĩ-kut.
+**skeleton**, kut-thói; kóu-kut. *like a*, chek-sin tou-sĩ-kut.
 
 **sketch**, *to*, ūe; ūe-kó; ngóu-pit; phah-kó. *(writing)*, phah-tshó.
 
