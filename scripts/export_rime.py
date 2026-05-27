@@ -134,7 +134,7 @@ def load_entries(all_rows: list[dict], require_systems: Optional[list] = None, r
 
 _HAN_PUNCT_SPLIT_RE = re.compile(r'[，。、！？；：「」『』""《》\s]+')
 _QUOTE_RE = re.compile(r'["\']')
-_SENT_PUNCT_RE = re.compile(r"[.?!]")
+_SENT_PUNCT_RE = re.compile(r"[.?!;,]")
 
 
 def load_all_entries_for_chars(
@@ -160,9 +160,9 @@ def load_all_entries_for_chars(
             if not any((row.get(s) or "").strip() for s in require_systems):
                 continue
 
-        clean_han = _BRACKET_RE.sub("", han)
+        clean_han = _BRACKET_RE.sub("", han).replace("…", "")
 
-        latn_parts = latn_norm.split(",")
+        latn_parts = latn_norm.replace("…", " ").split(",")
 
         all_syllables = []
 
@@ -811,7 +811,7 @@ end
 local function is_han_char(text)
     if not text or #text == 0 then return false end
     local b = string.byte(text, 1)
-    if b >= 0xE4 and b <= 0xE9 then return true end
+    if b >= 0xE3 and b <= 0xE9 then return true end
     if b >= 0xF0 then return true end
     return false
 end
