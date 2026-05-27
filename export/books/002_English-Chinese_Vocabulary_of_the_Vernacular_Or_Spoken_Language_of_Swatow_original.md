@@ -3997,7 +3997,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **disparity**, phit-phùe m̄-kùe.
 
-**dispassionate**, m̄-tõng-sim; ƒbô-khì; bô-phien-sim.
+**dispassionate**, m̄-tõng-sim; bô-khì; bô-phien-sim.
 
 **dispatch**, see **despatch**.
 
