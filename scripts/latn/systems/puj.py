@@ -151,8 +151,8 @@ def create_rime_algebra() -> list[str]:
     return [
         "derive/^ch/ts/",
         "derive/^j/z/",
-        "derive/oinn/ainn/",
-        "derive/ien/ian/",
+        "derive/oinn$/ainn/",
+        "derive/ien$/ian/",
         "derive/iet/iat/",
         "derive/([aeiu])n$/$1ng/",
         "derive/t$/k/",
