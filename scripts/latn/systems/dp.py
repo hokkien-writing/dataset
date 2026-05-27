@@ -81,7 +81,7 @@ def create_rime_algebra() -> list[str]:
         "xform/ur/v/",
         "xform/au/ao/",
         "derive/oinn/ainn/",
-        "derive/ien/ian/",
+        "derive/ien$/ian$/",
         "derive/ied/iad/",
         "derive/([aeiu])n$/$1ng/",
         "derive/d$/g/",
