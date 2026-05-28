@@ -1207,7 +1207,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **beauty**, *a beauty*, múiⁿ-jîn; thí-thài hó. see **beautiful**.
 
-**beaver**, hái-lô. *skin*, hái-lô-phûe.
+**beaver**, hái-lô(?). *skin*, hái-lô-phûe.
 
 **becalm**, bô-huang; huang tiām; bô-huang bô-sie̍h.
 
