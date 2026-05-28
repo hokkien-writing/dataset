@@ -23,7 +23,9 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
 EXPORT_DIR = PROJECT_ROOT / "export"
-MERGED_CSV = EXPORT_DIR / "merged.csv"
+TEOCHEW_CSV = EXPORT_DIR / "teochew.csv"
+HOKKIEN_CSV = EXPORT_DIR / "hokkien.csv"
+SPLIT_CSVS = [TEOCHEW_CSV, HOKKIEN_CSV]
 
 from scripts.latn import create_converter
 
@@ -175,8 +177,9 @@ def _resolve_csv_files(targets: list[Path]) -> list[Path]:
         csv_files = sorted(EXPORT_DIR.glob("external/*.csv"))
         csv_files += sorted(EXPORT_DIR.glob("clippings/*.csv"))
         csv_files += sorted(EXPORT_DIR.glob("books/*.csv"))
-        if MERGED_CSV.exists():
-            csv_files.append(MERGED_CSV)
+        for split_csv in SPLIT_CSVS:
+            if split_csv.exists():
+                csv_files.append(split_csv)
         return csv_files
 
     resolved = []

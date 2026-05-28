@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Convert external dataset CSVs to merged.csv format."""
+"""Convert external dataset CSVs to unified format for merge_csv.py."""
 
 import csv
 import sys
@@ -71,9 +71,13 @@ def main():
 
             out_path = OUTPUT_DIR / data_file.name
             if data_file.suffix == ".tsv":
-                out_path = OUTPUT_DIR / (importer.get_source_name() + "_" + data_file.stem + ".csv")
+                out_path = OUTPUT_DIR / (
+                    importer.get_source_name() + "_" + data_file.stem + ".csv"
+                )
             if data_file.suffix in (".yaml", ".dict.yaml"):
-                out_path = OUTPUT_DIR / (importer.get_source_name() + "_" + data_file.stem + ".csv")
+                out_path = OUTPUT_DIR / (
+                    importer.get_source_name() + "_" + data_file.stem + ".csv"
+                )
             with open(out_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)
                 writer.writeheader()

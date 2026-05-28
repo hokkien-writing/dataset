@@ -1,15 +1,46 @@
 ---
 name: lookup-hanzi
-description: Look up Hanzi candidates from romanized input (PUJ/DP/POJ/TL/BP). Use when user provides romanized Teochew/Hokkien text and asks for Hanzi, or says "lookup", "find hanzi", "漢字", "找字", "糾正漢字". Converts to latn_norm via helper script, queries merged.csv, then cross-validates with web search and linguistic expertise.
+description: Look up Hanzi candidates from romanized input (PUJ/DP/POJ/TL/BP). Use when user provides romanized Teochew/Hokkien text and asks for Hanzi, or says "lookup", "find hanzi", "漢字", "找字", "糾正漢字". Converts to latn_norm via helper script, queries teochew.csv/hokkien.csv with primary/secondary priority based on system, then cross-validates with web search and linguistic expertise.
 ---
 
 # Lookup Hanzi
+
+Self-contained skill — all code and data are in this directory. Copy the entire `lookup-hanzi/` folder to any agent to use.
+
+## Directory Structure
+
+```
+lookup-hanzi/
+├── SKILL.md              (this file)
+├── scripts/
+│   ├── lookup.py         (main CLI entry point)
+│   └── latn/             (self-contained romanization converter)
+│       ├── __init__.py
+│       ├── config.py
+│       ├── converter.py
+│       ├── registry.py
+│       ├── translator.py
+│       ├── mappings.py
+│       └── systems/
+│           ├── __init__.py
+│           ├── poj.py
+│           ├── puj.py
+│           ├── tl.py
+│           ├── bp.py
+│           ├── dp.py
+│           └── latn_norm.py
+└── data/
+    ├── teochew.csv        (Teochew hanzi lookup database)
+    └── hokkien.csv        (Hokkien hanzi lookup database)
+```
 
 ## Quick Start
 
 ```bash
 python3 .skills/lookup-hanzi/scripts/lookup.py <SYSTEM> <word> [<word> ...]
 ```
+
+No external dependencies — only Python stdlib is required. No need to set `PYTHONPATH` or install anything.
 
 ## System Detection
 
@@ -29,14 +60,27 @@ If user prefixes input with system name (e.g. "PUJ: kiáⁿ"), use that.
 
 1. **Detect system** from input or user hint
 2. **Run lookup.py** with detected system and all space-separated words
-3. **Evaluate and correct** — merged.csv results are **reference only** (see below)
+3. **Evaluate and correct** — lookup results are **reference only** (see below)
 4. **Present results**:
    - Single word: list candidates, pick best based on context
    - Full sentence: combine word-level matches (preferred) with syllable-level fallback, then compose full Hanzi sentence using semantics
 
-## merged.csv Is Reference Only
+## Primary vs Secondary Data
 
-merged.csv 中的漢字**僅供參考**，不可盲目採信。原因：
+Lookup results are split by language variant based on the romanization system:
+
+| System | Primary (潮州/福建) | Secondary reference |
+|--------|---------------------|---------------------|
+| PUJ, DP | `teochew.csv` | `hokkien.csv` |
+| POJ, TL, BP | `hokkien.csv` | `teochew.csv` |
+
+- **Primary** results come first — these are from the matching language variant
+- **Secondary** results are supplementary — same pronunciation but from the other variant, shown only if not already in primary results
+- When evaluating hanzi candidates, **prioritize primary results**. Secondary results may use different characters due to dialectal variation
+
+## Data Is Reference Only
+
+Data 中的漢字**僅供參考**，不可盲目採信。原因：
 
 - 許多條目來自 19 世紀傳教士文獻，使用音借字（如「頗」代「泡/肨」）
 - 外部資料集（ChhoeTaigi、dieghv）本身也有錯字或音借字
@@ -62,7 +106,8 @@ merged.csv 中的漢字**僅供參考**，不可盲目採信。原因：
 
 ## Reading Results
 
-- **詞級匹配**: exact word matches from merged.csv — starting point, verify before accepting
+- **潮州/福建詞級匹配**: primary word matches — starting point, verify before accepting
+- **福建/潮州參考匹配**: supplementary matches from the other variant — use with caution
 - **音節級**: single-syllable candidates ranked by frequency — use when no word match or for ambiguous syllables
 - **[異]**: han_variants (alternative orthography)
 
@@ -73,3 +118,13 @@ merged.csv 中的漢字**僅供參考**，不可盲目採信。原因：
 - If lookup returns nothing, try splitting the word differently or check system detection
 - For sentence translation, run all words in one call, then compose Hanzi based on semantics
 - Search web for Teochew/Hokkien dictionaries when in doubt: 教育部臺灣台語常用詞辭典、ChhoeTaigi、潮州音字典
+
+## Updating Data Files
+
+To update the bundled data, re-run the project's build pipeline and copy:
+
+```bash
+bash build.sh
+cp export/teochew.csv .skills/lookup-hanzi/data/teochew.csv
+cp export/hokkien.csv .skills/lookup-hanzi/data/hokkien.csv
+```

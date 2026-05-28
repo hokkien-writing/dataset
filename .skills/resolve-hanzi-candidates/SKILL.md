@@ -22,7 +22,7 @@ Three entry types in `han` column:
 
 ### Step 2: Lookup ??? entries
 
-Run per-syllable lookup against `export/merged.csv`:
+Run per-syllable lookup against `export/teochew.csv` and `export/hokkien.csv`:
 
 ```python
 import csv
@@ -30,16 +30,17 @@ import csv
 targets = {"latn_norm_value": "en_value"}  # only ??? entries
 
 syl_map = {}
-with open("export/merged.csv", encoding="utf-8") as f:
-    reader = csv.DictReader(f)
-    for row in reader:
-        puj = row.get("puj","").strip()
-        han = row.get("han","").strip()
-        latn = row.get("latn_norm","").strip()
-        if not puj or not han or not latn:
-            continue
-        if len(puj.split()) == 1:
-            syl_map.setdefault(latn, set()).add(han)
+for csv_path in ["export/teochew.csv", "export/hokkien.csv"]:
+    with open(csv_path, encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for row in reader:
+            puj = row.get("puj","").strip()
+            han = row.get("han","").strip()
+            latn = row.get("latn_norm","").strip()
+            if not puj or not han or not latn:
+                continue
+            if len(puj.split()) == 1:
+                syl_map.setdefault(latn, set()).add(han)
 
 for syl in targets:
     cands = sorted(syl_map.get(syl, set()))[:8]
@@ -89,7 +90,8 @@ The done CSV must have identical rows to the chunk CSV. Same `en,puj,latn_norm` 
 |------|---------|
 | `books/004_chunk_NNN.csv` | Input chunks (001–124) |
 | `books/004_chunk_NNN_done.csv` | Output done files |
-| `export/merged.csv` | Hanzi lookup data |
+| `export/teochew.csv` | Teochew hanzi lookup data |
+| `export/hokkien.csv` | Hokkien hanzi lookup data |
 | `books/004_hanzi_issues.csv` | Master issues file |
 
 ## Progress Tracking

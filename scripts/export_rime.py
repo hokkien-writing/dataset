@@ -17,7 +17,8 @@ sys.path.insert(0, str(PROJECT_ROOT))
 from scripts.latn import create_translator, create_converter
 from scripts.latn.systems import get_system_module
 
-MERGED_CSV = PROJECT_ROOT / "export" / "merged.csv"
+TEOCHEW_CSV = PROJECT_ROOT / "export" / "teochew.csv"
+HOKKIEN_CSV = PROJECT_ROOT / "export" / "hokkien.csv"
 OUTPUT_DIR = PROJECT_ROOT / "export" / "rime"
 BUILD_VERSION = datetime.now().strftime("%Y%m%d.%H%M%S")
 
@@ -78,7 +79,11 @@ def _load_merged_rows(csv_path: Path) -> list[dict]:
     return rows
 
 
-def load_entries(all_rows: list[dict], require_systems: Optional[list] = None, require_han: bool = True):
+def load_entries(
+    all_rows: list[dict],
+    require_systems: Optional[list] = None,
+    require_han: bool = True,
+):
     counts = Counter()
     systems_data = {}
     for row in all_rows:
@@ -470,9 +475,9 @@ def _initial_map_to_algebra(reverse_mapping) -> list[str]:
     if not initial_map:
         return []
     keys = sorted(initial_map.keys(), key=lambda k: (len(k), k))
-    longer_keys = {k for k in keys if any(
-        other != k and other.startswith(k) for other in keys
-    )}
+    longer_keys = {
+        k for k in keys if any(other != k and other.startswith(k) for other in keys)
+    }
     prefix_chars = {}
     for k in keys:
         for other in keys:
@@ -511,6 +516,7 @@ def _get_system_algebra(system: str) -> list[str]:
         + _ending_map_to_algebra(reverse_mapping)
         + _RIME_ALGEBRA_SUFFIX
     )
+
 
 SCHEMA_TEMPLATE = """\
 # Rime schema: {schema_id}
@@ -1547,17 +1553,32 @@ def write_lua_filter(entries: dict, system: str, output_dir: Path):
     return filter_name
 
 
-def main():
-    print(f"Loading {MERGED_CSV}...")
-    all_rows = _load_merged_rows(MERGED_CSV)
-    print(f"Loaded {len(all_rows)} rows")
+PACKAGE_CSV = {
+    "teochew": TEOCHEW_CSV,
+    "hokkien": HOKKIEN_CSV,
+}
 
-    all_entries, _ = load_entries(all_rows)
+
+def main():
+    pkg_csvs = {}
+    for pkg_name, csv_path in PACKAGE_CSV.items():
+        if not csv_path.exists():
+            print(f"WARNING: {csv_path} not found, skipping {pkg_name}")
+            continue
+        print(f"Loading {csv_path}...")
+        pkg_csvs[pkg_name] = _load_merged_rows(csv_path)
+        print(f"  {len(pkg_csvs[pkg_name])} rows")
 
     for pkg, cfg in PACKAGE_SYSTEMS.items():
+        if pkg not in pkg_csvs:
+            print(f"[{pkg}] No data file, skipping.")
+            continue
+        all_rows = pkg_csvs[pkg]
         systems = cfg["systems"]
         entries, systems_data = load_entries(all_rows, require_systems=cfg["require"])
-        rom_entries, rom_systems_data = load_entries(all_rows, require_systems=cfg["require"], require_han=False)
+        rom_entries, rom_systems_data = load_entries(
+            all_rows, require_systems=cfg["require"], require_han=False
+        )
         if not entries and not rom_entries:
             print(f"[{pkg}] No entries, skipping.")
             continue
@@ -1595,6 +1616,14 @@ def main():
                 write_zh_schema(system, pkg, pkg_dir)
             write_schema(system, pkg, pkg_dir, has_zh=has_zh)
         write_default_custom(systems, pkg, pkg_dir)
+
+        all_entries = Counter()
+        for other_csv in [TEOCHEW_CSV, HOKKIEN_CSV]:
+            if other_csv.exists():
+                other_rows = _load_merged_rows(other_csv)
+                e, _ = load_entries(other_rows)
+                all_entries += e
+
         for system in ALL_SYSTEMS:
             write_lua_filter(all_entries, system, pkg_dir)
         rime_lua = pkg_dir / "rime.lua"

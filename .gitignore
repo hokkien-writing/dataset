@@ -5,7 +5,8 @@ __pycache__/
 .venv
 .DS_Store
 tmp/
-merged.csv
+teochew.csv
+hokkien.csv
 ssmp.md
 export/books/ssmp_modified.md
 export/books/ssmp_original.md

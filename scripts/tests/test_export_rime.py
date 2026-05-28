@@ -16,13 +16,18 @@ from scripts.export_rime import (
     write_schema,
     write_default_custom,
     generate_latn_norm_syllables,
-    MERGED_CSV,
+    TEOCHEW_CSV,
+    HOKKIEN_CSV,
     PACKAGE_SYSTEMS,
 )
 
 
 def _load_test_rows():
-    return _load_merged_rows(MERGED_CSV)
+    rows = []
+    for csv_path in [TEOCHEW_CSV, HOKKIEN_CSV]:
+        if csv_path.exists():
+            rows.extend(_load_merged_rows(csv_path))
+    return rows
 
 
 class TestExportRime(unittest.TestCase):

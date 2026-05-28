@@ -28,12 +28,38 @@ CLIPPINGS_DIR = EXPORT_DIR / "clippings"
 EXTERNAL_DIR = EXPORT_DIR / "external"
 VARIANTS_CSV = EXPORT_DIR / "variants.csv"
 CAPITALIZED_CSV = EXPORT_DIR / "capitalized_en.csv"
-OUTPUT_CSV = EXPORT_DIR / "merged.csv"
+TEOCHEW_CSV = EXPORT_DIR / "teochew.csv"
+HOKKIEN_CSV = EXPORT_DIR / "hokkien.csv"
 
 WIDE_FIELDS = [
     "latn_norm",
     "puj",
     "dp",
+    "poj",
+    "tl",
+    "bp",
+    "han",
+    "han_variants",
+    "en",
+    "zh_CN",
+    "zh_TW",
+    "source",
+]
+
+TEOCHEW_FIELDS = [
+    "latn_norm",
+    "puj",
+    "dp",
+    "han",
+    "han_variants",
+    "en",
+    "zh_CN",
+    "zh_TW",
+    "source",
+]
+
+HOKKIEN_FIELDS = [
+    "latn_norm",
     "poj",
     "tl",
     "bp",
@@ -373,15 +399,35 @@ def main():
     if bad_rows:
         print(f"\n⚠ Skipped {len(bad_rows)} invalid entries:")
         for row in bad_rows:
-            print(f"  latn={row['latn_norm']!r} poj={row['poj']!r} tl={row['tl']!r}"
-                  f" han={row['han']!r} zh_TW={row['zh_TW']!r} source={row['source']!r}")
+            print(
+                f"  latn={row['latn_norm']!r} poj={row['poj']!r} tl={row['tl']!r}"
+                f" han={row['han']!r} zh_TW={row['zh_TW']!r} source={row['source']!r}"
+            )
 
-    with open(OUTPUT_CSV, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=WIDE_FIELDS)
-        writer.writeheader()
-        writer.writerows(good_rows)
+    teochew_rows = []
+    hokkien_rows = []
+    for row in good_rows:
+        has_teochew = any((row.get(s) or "").strip() for s in ("puj", "dp"))
+        has_hokkien = any((row.get(s) or "").strip() for s in ("poj", "tl", "bp"))
+        if has_teochew:
+            teochew_rows.append(row)
+        if has_hokkien:
+            hokkien_rows.append(row)
 
-    print(f"Wrote {len(good_rows)} entries to {OUTPUT_CSV}")
+    for path, subset, fields in [
+        (TEOCHEW_CSV, teochew_rows, TEOCHEW_FIELDS),
+        (HOKKIEN_CSV, hokkien_rows, HOKKIEN_FIELDS),
+    ]:
+        with open(path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.DictWriter(f, fieldnames=fields, extrasaction="ignore")
+            writer.writeheader()
+            writer.writerows(subset)
+        label = "teochew" if path == TEOCHEW_CSV else "hokkien"
+        print(f"Wrote {len(subset)} entries to {path} ({label})")
+
+    print(
+        f"Total: {len(good_rows)} good rows, {len(teochew_rows)} teochew, {len(hokkien_rows)} hokkien"
+    )
 
 
 if __name__ == "__main__":

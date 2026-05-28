@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Hokkien/Teochew writing dataset project. External datasets (ChhoeTaigi, etc.) are imported, converted to unified CSV, merged into `merged.csv`, and exported as Rime input method dictionaries. Both Hokkien (POJ/TL/BP) and Teochew (PUJ/DP) romanization systems are supported.
+Hokkien/Teochew writing dataset project. External datasets (ChhoeTaigi, etc.) are imported, converted to unified CSV, merged into `teochew.csv` and `hokkien.csv`, and exported as Rime input method dictionaries. Both Hokkien (POJ/TL/BP) and Teochew (PUJ/DP) romanization systems are supported.
 
 ## Build Commands
 
@@ -87,9 +87,9 @@ import_external.py                      export.py → export_csv.py
 export/external/*.csv ─────────────→ merge_csv.py
                                             ↑
 clippings/ (CSV) → export_csv.py → export/clippings/*.csv ──┘
-                                            ↓
-                                     export/merged.csv
-                                            ↓
+                                             ↓
+                                      export/teochew.csv + export/hokkien.csv
+                                             ↓
                                      export_rime.py
                                             ↓
                             export/rime/rime-hokkien/ + rime-teochew/
@@ -101,7 +101,8 @@ clippings/ (CSV) → export_csv.py → export/clippings/*.csv ──┘
 
 - `external/` — Raw files from external repos (no .git), tracked by `external/README.md`
 - `export/` — All generated output (gitignored where appropriate)
-- `export/merged.csv` — Wide table: `latn_norm, puj, dp, poj, tl, bp, han, han_variants, en, zh_CN, zh_TW, source`
+- `export/teochew.csv` — Teochew wide table: `latn_norm, puj, dp, han, han_variants, en, zh_CN, zh_TW, source` (rows with puj or dp)
+- `export/hokkien.csv` — Hokkien wide table: `latn_norm, poj, tl, bp, han, han_variants, en, zh_CN, zh_TW, source` (rows with poj, tl, or bp)
 - `export/rime/rime-hokkien/` — POJ, TL, BP schemas + dicts + lua filters
 - `export/rime/rime-teochew/` — PUJ, DP schemas + dicts + lua filters
 - `scripts/importers/` — One module per external dataset, inheriting `ExternalImporter`
