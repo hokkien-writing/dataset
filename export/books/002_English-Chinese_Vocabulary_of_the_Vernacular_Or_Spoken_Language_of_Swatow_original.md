@@ -3151,7 +3151,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coward**, bó-táⁿ; táⁿ khiap; táⁿ sòi; sòi-táⁿ, bun-táⁿ.
 
-**coxcomb**, hàuⁿ-tsuang-hûang; hàuⁿ-iâu-pái; hùuⁿ-thì-tsò; hàuⁿ-tsuang-tsò.
+**coxcomb**, hàuⁿ-tsuang-hûang; hàuⁿ-iâu-pái; hàuⁿ-thì-tsò; hàuⁿ-tsuang-tsò.
 
 **coy**, *modest*, ũ-liâm-chhí. *bashful*, ùi-siáu-lí; m̄-káⁿ kìⁿ-nâng.
 
@@ -3319,7 +3319,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cure**, ui; ui-tî; chhiâⁿ-tî; ui-pēⁿ. *undertake to cure*, *to be paid if successful*, pau-ui. *kill instead of curing*, ui-sí. *curable*, hó-ui. *incurable*, bô-ui. *cure fish*, lõu-hṳ̂.
 
-**curiosity**, mih-sṳ̄ àiⁿ-tsai; hàuⁿ-thiaⁿ ôiⁿ-ūe; hàuⁿ-kiú-tîⁿ; kiú-tîⁿ-mn̄g; tîⁿ-mn̄g. *curiosities*, kóu-ngúan; kóu-tóng; thih-thô-mue̍h.
+**curiosity**, mih-sṳ̄ àiⁿ-tsai; hàuⁿ-thiaⁿ ôiⁿ-ūe; hàuⁿ-kiú-tîⁿ; kiú-tîⁿ-mn̄g; tîⁿ-mn̄g. *curiosities*, kóu-ngúan; kóu-tóng; thit-thô-mue̍h.
 
 **curious**, khî; tshù-bī; koh-iēⁿ. see **curiosity**.
 
@@ -3427,7 +3427,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dawn**, thiⁿ kng; tang-pôiⁿ pe̍h; tang-pôiⁿ tsò-sek; thiⁿ lâ-lân; thiⁿ lâ-lân-kng.
 
-**day**, ji̍t; thiⁿ. *first day of month*, chhiu-it. *15th day*, tsa̍p-ngõu. *another day*, ẽ-ji̍t; ãu-ji̍t. *every*, ji̍t-ji̍t; múeⁿ-ji̍t; siêⁿ-ji̍t; pâi-ji̍t. *day and night*, ji̍t-mêⁿ. *all day*, tsong-ji̍t; thàng-ji̍t. *day before yesterday*, tso̍h--ji̍t. *one day earlier still*, tōa-tso̍h--ji̍t. *day after tomorrow*, ãu--ji̍t. *today*, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pn̍g-ji̍t. *day by day*, che̍k-ji̍t kùe-che̍k-ji̍t; liên-ji̍t. *to make progress day by day*, che̍k-ji̍t kìⁿ-ji̍t-chìn. *to wait day after day*, che̍k-ji̍t mōⁿ-che̍k-ji̍t. *day-time*, ji̍t--kan; ji̍t--kùa; pe̍h-ji̍t--kan; ji̍t--tsṳ́. *several days*, kúi-ji̍t; sù-ji̍t; kúi-uã-ji̍t. *within these few days*, chí-kṳ̃n-ji̍t; chí-kṳ̃n-ji̍t-lãi. *day-labour*, lũn-ji̍t-kang. *day-book*, ji̍t-to̍k-phõu. *day-break*, see **dawn**. *to select a lucky day*, thóiⁿ-ji̍t; to̍h-ji̍t; suán-ji̍t; pua̍h-ji̍t. *lucky day*, kit-ji̍t; siãng-ji̍t. *unlucky*, hiong-ji̍t. *good-day(at meeting)*, hó-ngõ. *good-day(at parting)*, chhiaⁿ.
+**day**, ji̍t; thiⁿ. *first day of month*, chhiu-it. *15th day*, tsa̍p-ngõu. *another day*, ẽ-ji̍t; ãu-ji̍t. *every*, ji̍t-ji̍t; múeⁿ-ji̍t; siêⁿ-ji̍t; pâi-ji̍t. *day and night*, ji̍t-mêⁿ. *all day*, tsong-ji̍t; thàng-ji̍t. *day before yesterday*, tso̍h--ji̍t. *one day earlier still*, tōa-tso̍h--ji̍t. *day after tomorrow*, ãu--ji̍t. *today*, kim-ji̍t; kiáⁿ-ji̍t; hīn-ji̍t; pn̍g-ji̍t. *day by day*, che̍k-ji̍t kùe-che̍k-ji̍t; liên-ji̍t. *to make progress day by day*, che̍k-ji̍t kìⁿ-ji̍t-chìn. *to wait day after day*, che̍k-ji̍t mōⁿ-che̍k-ji̍t. *day-time*, ji̍t--kan; ji̍t--kùa; pe̍h-ji̍t--kan; ji̍t--tsṳ́. *several days*, kúi-ji̍t; sù-ji̍t; kúi-uã-ji̍t. *within these few days*, chí-kṳ̃n-ji̍t; chí-kṳ̃n-ji̍t-lãi. *day-labour*, lũn-ji̍t-kang. *day-book*, ji̍t-to̍k-phõu. *day-break*, see **dawn**. *to select a lucky day*, thóiⁿ-ji̍t; to̍h-ji̍t; suán-ji̍t; pua̍h-ji̍t. *lucky day*, kit-ji̍t; siãng-ji̍t. *unlucky*, hiong-ji̍t. *good-day(at meeting)*, hó-ngõ. *good-day(at parting)*, chhiáⁿ.
 
 **dazzle**, ji̍t-kuang iàng-ma̍k; kng chhiēⁿ-ma̍k. *the lamp-light dazzling the eyes*, teng-kng chhiēⁿ-ma̍k. *dazzling*, tāng-tāng-kng; ia̍p-ia̍p-sih.
 
@@ -3677,7 +3677,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **derogate**, húiⁿ-pãng; tsàm-tsǹg.
 
-**descend**, kàng-hiã; kàng-lîm; lîm-lo̍h; kàmg-lo̍h; lo̍h; hiã.
+**descend**, kàng-hiã; kàng-lîm; lîm-lo̍h; kàng-lo̍h; lo̍h; hiã.
 
 **descendant**, ãu-ĩ; miâuⁿ-ĩ; tsṳ́-sun; kiáⁿ-sun; ãu-sṳ̂.
 
@@ -3795,7 +3795,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dictionary**, jī-tién; jī-lūi. *rhyming*, si-ūn; kiám-ūn.
 
-**die**, *to*, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̍; tsak-kóu. see **decease**. *by one's own hand*, tsṳ̃-shĩn. *of disease*, pēⁿ-sí. *of hunger*, gō-sí. *of cold*, kûaⁿ-sí.
+**die**, *to*, sí; kùe-sì; sī-sì; khùi tñg; lãu--khṳ̍; tsak-kóu. see **decease**. *by one's own hand*, tsṳ̃-chĩn. *of disease*, pēⁿ-sí. *of hunger*, gō-sí. *of cold*, kûaⁿ-sí.
 
 **die**, *a*, chîⁿ-bôu; jī-bôu.
 
@@ -3951,7 +3951,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dishonest**, m̄-chiàⁿ-keng; m̄-kong-tãu; m̄-chiàⁿ-ti̍t; m̄-kuaⁿ-chiàⁿ; m̄-tong-hõu; put-ngĩ; m̄-chiàⁿ; m̄-mêng-pe̍h; hàuⁿ-sie-tshuah; õi-tshuah-nâng.
 
-**dishonour**, lêng-zo̍k; sit-zo̍k; tiám-u. *dishonorable*, bô-thí-mīn sṳ̄; m̄-shiàⁿ-keng.
+**dishonour**, lêng-zo̍k; sit-zo̍k; tiám-u. *dishonorable*, bô-thí-mīn sṳ̄; m̄-chiàⁿ-keng.
 
 **disinclination**, sim hiâm; sim m̄-hiàng; m̄-ngũan; m̄-hàuⁿ; ià-ià ien-sîn ien-sîn.
 
