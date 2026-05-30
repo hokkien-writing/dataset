@@ -1651,7 +1651,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **breadth**, khuah--tshù; khuah--sì.
 
-**break**, khà-phùa. *asunder*, chi̍h-tñg; chi̍h-tsò-hue̍h. *a branch*, á-chi̍h. *break off a marriage*, thò-chhin. *break to pieces*, phùa-tshùi. *one's word*, sit-sìn; sit-ieh. *break open*, peh-khui. *break the law*, hũam-huap. *a bone*, chi̍h-kut. *wind*, pàng-phùi. *into a house*, tōng-mn̂g. *out of prison*, tsáu-kam; pũan-kam.
+**break**, khà-phùa. *asunder*, chi̍h-tñg; chi̍h-tsò-kue̍h. *a branch*, á-chi̍h. *break off a marriage*, thò-chhin. *break to pieces*, phùa-tshùi. *one's word*, sit-sìn; sit-ieh. *break open*, peh-khui. *break the law*, hũam-huap. *a bone*, chi̍h-kut. *wind*, pàng-phùi. *into a house*, tōng-mn̂g. *out of prison*, tsáu-kam; pũan-kam.
 
 **breakfast**, mn̂g-khí-pn̄g; tsá-pn̄g. *to take*, chia̍h-mn̂g-khí; chia̍h-tsá-tǹg.
 
@@ -1853,7 +1853,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **buttock**, kha-tshng; kha-tshng-póiⁿ.
 
-**button**, niúⁿ; saⁿ-niúⁿ. *made of cloth*, tsó-niuⁿ. *gold*, kim-khàu; kim-niúⁿ. *hole*, niúⁿ-phàng. *on a cap, common*, bō-tsu. *mandarin*, lia̍p-téng.
+**button**, niúⁿ; saⁿ-niúⁿ. *made of cloth*, tsó-niúⁿ. *gold*, kim-khàu; kim-niúⁿ. *hole*, niúⁿ-phàng. *on a cap, common*, bō-tsu. *mandarin*, lia̍p-téng.
 
 **buttress**, chhiêⁿ-tú; chhiêⁿ-tún. *of bridge*, kiê-tún.
 
@@ -2015,7 +2015,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **captain**, *of foreign ship (owner)*, tsûn-tsú. *of native vessel*, tãi-kong.
 
-**captious**, hàuⁿ-seⁿ-sṳ̄; sié-sṳ̄ iā-àiⁿ liú-khang; hàuⁿ-à; lãu-à; lāu-à-thâu.
+**captious**, hàuⁿ-seⁿ-sṳ̄; sié-sṳ̄ iā-àiⁿ liú-khang; hàuⁿ-à; lãu-à; lãu-à-thâu.
 
 **captivated**, *with*, tsùe-hàuⁿ; tsuan-hiàng; luàn-siẽⁿ.
 
@@ -2077,7 +2077,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **case**, a̍p. *type*, jī-pûaⁿ. *fan*, sìⁿ-tō. *instrument*, ke-húe-a̍p. *bow*, keng-chìⁿ-sieⁿ. *condition*, kuang-kéng; kéng-ngõ; chhêng-hêng. *case in law*, uàⁿ-kiãⁿ. *in case*, zû-jia̍k; khióng-ùi.
 
-**cash**, *money*, chîⁿ; chîⁿ-ngṳ̂n; ngṳ̂n-niéⁿ. *ready money*, hīn-ngṳ̂n; hīn-chîⁿ. *to buy cash*, hīn-ngṳ̂n kau-kuan; hīn-bôi. *coppercash*, tâng-chîⁿ. *without a singke cash*, bô-kâi-chîⁿ; kâi-chîⁿ tou-bô. *bad or light cash*, hāi-chîⁿ; m̄-hó-chîⁿ; tshṳ̀-chîⁿ; tshou-chîⁿ; àu-chîⁿ; chîⁿ-kiáⁿ; lâng-chîⁿ; pháiⁿ-chîⁿ; sòi-chîⁿ. *good cash*, tōa-chîⁿ; hó-chîⁿ; chẽng-chîⁿ.
+**cash**, *money*, chîⁿ; chîⁿ-ngṳ̂n; ngṳ̂n-niéⁿ. *ready money*, hīn-ngṳ̂n; hīn-chîⁿ. *to buy cash*, hīn-ngṳ̂n kau-kuan; hīn-bói. *coppercash*, tâng-chîⁿ. *without a singke cash*, bô-kâi-chîⁿ; kâi-chîⁿ tou-bô. *bad or light cash*, hāi-chîⁿ; m̄-hó-chîⁿ; tshṳ̀-chîⁿ; tshou-chîⁿ; àu-chîⁿ; chîⁿ-kiáⁿ; lâng-chîⁿ; pháiⁿ-chîⁿ; sòi-chîⁿ. *good cash*, tōa-chîⁿ; hó-chîⁿ; chẽng-chîⁿ.
 
 **cashier**, chiáng-kūiⁿ; chiáng-tièⁿ; chiáng-tièⁿ-pâng.
 
@@ -2127,7 +2127,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **caulk**, liâm-tsûn; liâm thâng-iû-hue.
 
-**cause**, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iú; ngûan-thâu; kṳn-in lâi-le̍h. *a good cause*, hó-sṳ̄. *for what cause*, sĩ-mih uân-kù; in-ũi sĩ-mih-sṳ̄. *for this cause*, kù-tshṳ́; in-tshṳ́.
+**cause**, uân-kù; uân-iû; ngûan-in; kù-sṳ̄; chhêng-iû; ngûan-thâu; kṳn-in lâi-le̍h. *a good cause*, hó-sṳ̄. *for what cause*, sĩ-mih uân-kù; in-ũi sĩ-mih-sṳ̄. *for this cause*, kù-tshṳ́; in-tshṳ́.
 
 **cause**, *to*, sái; lẽng; tì; hàm; hāi; phièn.
 
@@ -2255,7 +2255,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **charges**, *expenses*, só-hùi.
 
-**charity**, jîn-àiⁿ; jîn-tshṳ̂; jîn-tek; tshṳ̂-pui; tshṳ̂-sim; hó-sim; siu-sim. *almsgiving*, si-chì; chín-chì; kiàⁿ-tek; kiâⁿ-jîn-tek; chì-phîn; pù-si.
+**charity**, jîn-àiⁿ; jîn-tshṳ̂; jîn-tek; tshṳ̂-pui; tshṳ̂-sim; hó-sim; siu-sim. *almsgiving*, si-chì; chín-chì; kiâⁿ-tek; kiâⁿ-jîn-tek; chì-phîn; pù-si.
 
 **Charles'-wain**, *or Ursa Major*, pak-táu; pak-táu-chheⁿ.
 
@@ -2333,7 +2333,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **chloranthus**, *(chloranthus inconspicuus)*, koi-kha-lân.
 
-**choice**, *select*, chì-hó; siãng-hó; tsùe-hó; tśng-hó; it-hó; súan-hó--kâi.
+**choice**, *select*, chì-hó; siãng-hó; tsùe-hó; téng-hó; it-hó; súan-hó--kâi.
 
 **choke**, kéⁿ--tie̍h; kéⁿ-tie̍h-âu. *to death*, kéⁿ-sí.
 
@@ -2341,7 +2341,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **choleric**, kip-sèⁿ; sèⁿ kín; kōi-seⁿ-khì.
 
-**choose**, suán; suán-to̍h; kóiⁿ-to̍h; to̍h; kóiⁿ; púe-to̍k.
+**choose**, suán; suán-to̍h; kóiⁿ-to̍h; to̍h; kóiⁿ; púe-to̍h.
 
 **chop**, tso̍ih; tok. *mark*, jī-hō. *dollars*, tèng-hō. *chopping-block*, tiam. *knife*, tshài-to; tshài-iang-to; pang-to. *mutton-chop*, pâi-kut-ne̍k.
 
@@ -2351,7 +2351,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Christ**, Ki-tok. *Christianity*, Iâ-sou kà. *Christians*, Iâ-sou mn̂g-thû.
 
-**chronic**, *disease*, kú-pēⁿ; kú-tn̂g-pēⁿ; tn̂g-nîⁿ sì-tshun pẽⁿ; sì-khùi-pēⁿ; lãu-mâuⁿ; kú-chi̍t; kū-pēⁿ.
+**chronic**, *disease*, kú-pēⁿ; kú-tn̂g-pēⁿ; tn̂g-nîⁿ sì-tshun pēⁿ; sì-khùi-pēⁿ; lãu-mâuⁿ; kú-chi̍t; kū-pēⁿ.
 
 **chronicles**, kok-sṳ́; kang-kàm; sṳ́-kì.
 
@@ -2455,7 +2455,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cleave**, phùa-khui. *wood*, phùa-tshâ. *cleave to*, liâm-tùe; tah-tùe; tùe-kín; zû-ka zû-tshat; kuah-siá m̄-khui.
 
-**clemency**, khuan-iông; tsṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
+**clemency**, khuan-iông; tshṳ̂-sim; ṳn-hũi; tshṳ̂-pui.
 
 **clerk**, tsṳ-phōiⁿ. *in civil court*, a-pún. *military*, kó-kong; siàng-kong.
 
@@ -2493,7 +2493,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **closet**, ba̍t-pâng; pâng-koiⁿ; pâng-kiáⁿ; sòi-koiⁿ-pâng.
 
-**clot**, hueh kit-kàu-tu; hueh hṳ̂n; hueh-kò. *internal*, kat-hueh; sí-hueh.
+**clot**, hueh kit-kàu-tu; hueh kṳ̂n; hueh-kò. *internal*, kat-hueh; sí-hueh.
 
 **clothe**, pòu. *native cotton cloth*, ka-pùa-pòu. *grass-cloth*, tiũ-pòu. *oil-cloth*, iû-pòu. *weave*, keⁿ-pòu. *woollen*, nîⁿ. *black broad-cloth*, ou-nîⁿ. *buy*, ka-pòu.
 
