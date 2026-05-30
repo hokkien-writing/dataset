@@ -2577,7 +2577,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coincide**, siang-ha̍h; siang-tùi.
 
-**cold**, chhín; ngân; tàng; kûaⁿ. *(cool)*, liâng. *catch cold*, sieⁿ-huang; kûaⁿ--tie̍h. *die from cold*, kûaⁿ-sí. *cold and heat*, kûaⁿ-zua̍h; hàn-sú. *coldly*, chhêng-ì néⁿ; po̍h-chhêng. *cold and hunger*, ki-hân; siũ-kûaⁿ siũ-gō. *cold in the head*, chhek-tsúi.
+**cold**, chhìn; ngân; tàng; kûaⁿ. *(cool)*, liâng. *catch cold*, sieⁿ-huang; kûaⁿ--tie̍h. *die from cold*, kûaⁿ-sí. *cold and heat*, kûaⁿ-zua̍h; hàn-sú. *coldly*, chhêng-ì néⁿ; po̍h-chhêng. *cold and hunger*, ki-hân; siũ-kûaⁿ siũ-gō. *cold in the head*, chhek-tsúi.
 
 **colic**, tie̍h-sua; tóu thiàⁿ; ká-tn̂g-sua; tóu thiàⁿ húan-húan ho̍k-ho̍k; tóu iû-chhiû-thiàⁿ. *acute*, tie̍h-kín-sua.
 
@@ -2609,7 +2609,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **column**, *pillar*, thiãu. *of print*, tsūe; hâng; tiâu.
 
-**comb**, siu; tshâ-siu; kak-siu. *small-toothed*, sat-pìn. *comb**the hair*, siu-thâu; siu-thâu-môⁿ; siu-piⁿ; pìn-mop̂. *weaver's comb*, pòu-siu. *cockscomb*, koi-kùe. *honey-comb*, bi̍t-pâng.
+**comb**, siu; tshâ-siu; kak-siu. *small-toothed*, sat-pìn. *comb**the hair*, siu-thâu; siu-thâu-môⁿ; siu-piⁿ; pìn-môⁿ. *weaver's comb*, pòu-siu. *cockscomb*, koi-kùe. *honey-comb*, bi̍t-pâng.
 
 **combat**, tá-chièn; kau-chièn; sie-thâi; sie-phah.
 
@@ -2653,7 +2653,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **commissioner**, *(Imperial)*, khim-chhe. *(deputy of superior mandarin)*, úi-uân. *of customs*, sùe-bũ-si.
 
-**commit**, *to one's care*, thih; kià-thoh; hù-thoh. *a crime*, hũam-taúe. *to prison*, kìm-kam; siu-kam; khu-kìm.
+**commit**, *to one's care*, thih; kià-thoh; hù-thoh. *a crime*, hũam-tsũe. *to prison*, kìm-kam; siu-kam; khu-kìm.
 
 **commodious**, piẽn; piẽn-ēng; ha̍h-ēng; khùaⁿ-chhēng; khuan-khuah.
 
@@ -3005,7 +3005,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **coop**, koi-lam.
 
-**cooper**, khou-thâng sai-pẽ; chiáⁿ-lí-tháng.
+**cooper**, khou-tháng sai-pẽ; chiáⁿ-lí-tháng.
 
 **co-operate**, sie-hũ; siang-pang; siang-pang-tsò.
 
