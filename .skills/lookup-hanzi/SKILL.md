@@ -78,6 +78,11 @@ Lookup results are split by language variant based on the romanization system:
 - **Secondary** results are supplementary — same pronunciation but from the other variant, shown only if not already in primary results
 - When evaluating hanzi candidates, **prioritize primary results**. Secondary results may use different characters due to dialectal variation
 
+## 用戶偏好
+
+- 重視**本字考證**，不滿足於音借字 — 即使音借字在數據庫中有記錄，也應繼續追查語義上更合理的本字
+- 認可**數據庫交叉比對**，但不盲從 — 數據庫結果是起點而非終點，最終判斷基於語義+音韻+語感
+
 ## Data Is Reference Only
 
 Data 中的漢字**僅供參考**，不可盲目採信。原因：
