@@ -4133,13 +4133,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **doctor**, ui-seng; sin-seⁿ. *to call*, chhiáⁿ-ui-seng.
 
-**doctrine**, kà; kà-tãu; tãu-lí; tõ-lí. *false doctrines*, ī-tuan.
+**doctrine**, kà; kà-tãu; tãu-lí; tõ-lí. *false doctrines*, ĩ-tuan.
 
 **document**, bûn-tsṳ.
 
 **doe**, te̍k-bó.
 
-**dog**, káu. *male*, káu-kóu. *dog-cheap*, phiⁿ kàu bô-nâng-àiⁿ; tsûaⁿ-tsãi. *long-haired*, phòng-môⁿ-káu. *short-haired*, si̍t-môⁿ-káu. *dogged*, phiah-pēⁿ; chip-ì; chip-phiah.
+**dog**, káu. *male*, káu-kóu. *dog-cheap*, phiⁿ kàu bô-nâng-àiⁿ; tsūaⁿ-tsãi. *long-haired*, phòng-môⁿ-káu. *short-haired*, si̍t-môⁿ-káu. *dogged*, phiah-pēⁿ; chip-ì; chip-phiah.
 
 **dogma**, kà-tiâu.
 
@@ -4211,7 +4211,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **draught**, see **draft**. *of fish*, che̍k-mãng-hṳ̂. *of wind*, thong-huang. *in a draught*, tng-huang-lōu.
 
-**draw**, thua; po̍ih; túi. *water*, kũaⁿ-tsúi; pua̍h-tsúi. *out*, po̍ih-tshut; mán-tshut; thua-tshut. *teeth*, khieh-khí. *a sliding window*, thuah. *a sword*, po̍ih-kiàm; po̍ih-to. *poison*, po̍ih-ta̍k. *a bow*, khui-keng; mán-keng. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ. *draw up one's legs*, kha kiu--khí-lâi. *draw breath (also, to sigh)*, tháu-khùi. *opium-smoke*, kuh-hun; po̍k-hun. *lots*, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. *a carriage*, thua-chhia. *nails*, po̍ih-teng; kiãu-teng. *a net*, po̍ih-mãng; chhiû-mãng. *draw near*, túi-bûa. *near (approach)*, kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. *attention*, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. *up a line of battle*, pâi-tīn. *a list*, khui-mêng kak-mue̍h; kiám-tiám. *as loadstone*, hiap-bûa. *out of the water*, liâu; kou. *a splinter*, liàm-tshut; túi-tshut. *a splinter (with a needle)*, thie-tshut. *blood*, lâu-hueh; pàng-tshut-hueh. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂u. *a curtain*, liâm sa-khui; liâm kiáu-phû. *draw away*, ín-tshūa. *entice*, ín-iú; iú-ho̍k. *draw on stockings*, chhēng-bue̍h. *draw back*, tò-thò; thò; thò-pōu.
+**draw**, thua; po̍ih; túi. *water*, kũaⁿ-tsúi; pua̍h-tsúi. *out*, po̍ih-tshut; mán-tshut; thua-tshut. *teeth*, khieh-khí. *a sliding window*, thuah. *a sword*, po̍ih-kiàm; po̍ih-to. *poison*, po̍ih-ta̍k. *a bow*, khui-keng; mán-keng. *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ. *draw up one's legs*, kha kiu--khí-lâi. *draw breath (also, to sigh)*, tháu-khùi. *opium-smoke*, kuh-hun; po̍k-hun. *lots*, khieh-khau; po̍ih-chhiam; thiu-chhiam-kiáⁿ. *a carriage*, thua-chhia. *nails*, po̍ih-teng; kiãu-teng. *a net*, po̍ih-mãng; chhiû-mãng. *draw near*, túi-bûa. *near (approach)*, kiâⁿ-bûa; chiũ-kṳ̃n; kṳ̃n-bûa. *attention*, ín-tõng nâng-sim; tõng nâng-sim-ma̍k. *up a line of battle*, pâi-tīn. *a list*, khui-mêng kak-mue̍h; kiám-tiám. *as loadstone*, hiap-bûa. *out of the water*, liâu; kou. *a splinter*, liàm-tshut; túi-tshut. *a splinter (with a needle)*, thie-tshut. *blood*, lâu-hueh; pàng-tshut-hueh. *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n; tùi-ngṳ̂n. *a curtain*, liâm sa-khui; liâm kiáu-phû. *draw away*, ín-tshūa. *entice*, ín-iú; iú-ho̍k. *draw on stockings*, chhēng-bue̍h. *draw back*, tò-thò; thò; thò-pōu.
 
 **draw**, *pictures*, ūe-ūe; ūe-ang-kiáⁿ; ūe-sièⁿ. *a line*, ūe-hûn; phah-keh. *a landscape*, ūe-suaⁿ-tsúi. *a map*, ūe-tôu. *one's portrait*, ūe-sièⁿ; ūe-hí-sîn; ūe-siáu-iáⁿ.
 
@@ -4347,7 +4347,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dysentery**, lī; lī-chi̍t; pàng-âng; thâm-thūi; thì-khì; hueh-lī; pe̍h-lī.
 
-**dyspepsia**, m̄-siau-hùe; put-síau-hùe; chia̍h chek; ím-chia̍h chek-tsũ.
+**dyspepsia**, m̄-siau-hùe; put-siau-hùe; chia̍h chek; ím-chia̍h chek-tsũ.
 
 **dyspnoea**, tshúan; khùi tōa; khùi kip; tshúan-kip; khì tshúan; he̍hⁿ-he̍hⁿ-tshúan. *infantine*, niⁿ-he; niⁿ-tshúan.
 
@@ -4605,7 +4605,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **enjoin**, hun-hù; mẽng; hàm. *strictly*, chhiet-chhiet hun-hù.
 
-**enjoy**, hiáng; hiáng-siũ; hiáng-hok; na̍p-hok. *long life*, hiáng-siū(福氣)++.
+**enjoy**, hiáng; hiáng-siũ; hiáng-hok; na̍p-hok. *long life*, hiáng-siū. *enjoyment*, hok-khì.
 
 **enlarge**, tsò-tōa; khui-khuah.
 
@@ -4845,7 +4845,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **exemplary**, kṳ́-tõng tuan-chiàⁿ; hó-iēⁿ; hó-pun-nâng tsò-iēⁿ.
 
-**exempt**, bô-tō-lāi; tõ-gūa. *from taxation*, mién-na̍p-hiàng.
+**exempt**, bô-tō-lãi; tõ-gūa. *from taxation*, mién-na̍p-hiàng.
 
 **exercise**, *take*, khṳ̀-thit-thô; kiâⁿ-tsáu ua̍h-tõng; kiâⁿ-sóng-khùai; khṳ̀-siau-iâu. *literary*, tsò-bûn; tsò-bûn-chieⁿ; bûn-gōi. *soldiers*, tshau-piaⁿ; tshau-liēn. *learn military*, o̍h-bú. *exercise in*, liēn; ha̍k-si̍p; o̍h.
 
@@ -5173,7 +5173,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fidget**, tòng-tòng-tsáu; bô-sî-tiām.
 
-**field**, *cultivated and irrigated*, tshân; tshân-bóu. *cultivated but not irrigated*, hn̂g. *wet or dry*, tshân-hn̂g. *to cultivate*, tsoh-tshân; chèng-tsoh; keⁿ-tsok. *plough*, lôi-tshân. *to irrigate*, kùan-tshân; im-tshân. *field mouse*, tshân-tshṳ́. *boundary*, tshân-hūaⁿ. *battle-field*, chièn-tiêⁿ. *field-piece*, tōa-phàu.
+**field**, *cultivated and irrigated*, tshân; tshân-bóu. *cultivated but not irrigated*, hn̂g. *wet or dry*, tshân-hn̂g. *to cultivate*, tsoh-tshân; chèng-tsoh; keⁿ-tsoh. *plough*, lôi-tshân. *to irrigate*, kùan-tshân; im-tshân. *field mouse*, tshân-tshṳ́. *boundary*, tshân-hūaⁿ. *battle-field*, chièn-tiêⁿ. *field-piece*, tōa-phàu.
 
 **fiend**, kúi; môⁿ-kúi; siâ-kúi; ak-kúi; iau-kúi.
 
@@ -13509,7 +13509,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **volcano**, húe-suaⁿ; húe-iãm-suaⁿ.
 
-**volume**, *a*, che̍k-pńg. *several volumes making one work*, che̍h-pang; tshûan-põu.
+**volume**, *a*, che̍k-pńg. *several volumes making one work*, che̍k-pang; tshûan-põu.
 
 **voluntarily**, kam-sim; kam-ngũan; kam-sim chhêng-ngũan; chhêng-nguãn; huaⁿ-hí; kam-sim sêng-ì.
 
