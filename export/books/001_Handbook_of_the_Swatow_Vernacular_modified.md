@@ -208,8 +208,8 @@ Singapore, February, 1886.
 - **佮** Kah ... ... ... And.
 - **是** Sĩ ... ... ... But.
 - **亦** Iā ... ... ... Also.
-<!-- page:20 -->
 - **從  在** Tshông; tõ ... ... ... From.
+<!-- page:20 -->
 - **到** Kàu ... ... ... To.
 - **較** Khah ... ... ... Too.
 - **約量** Iak-liãng ... ... ... About.
@@ -229,8 +229,8 @@ Singapore, February, 1886.
 - **恁底當時去** Nín tiang-sî khṳ̀? ... ... ... When did you go?
 - **此個是底個** Chí-kâi sĩ tî-kâi? ... ... ... What is this?
 - **彼個我勿** Hṳ́-kâi uá màiⁿ ... ... ... I don't want that one.
-<!-- page:21 -->
 - **汝愛底一個** Lṳ́ àiⁿ tî-chék-kâi? ... ... ... Which do you want?
+<!-- page:21 -->
 - **汝愛底個** Lṳ́ àiⁿ tî-kâi? ... ... ... What do you want?
 - **伊怎呢無來** I tsò-nîⁿ bô-lâi? ... ... ... Why did he not come?
 - **是因爲怎呢** Sĩ in-ûi tsò-nîⁿ? ... ... ... For what reason?
@@ -253,8 +253,8 @@ Singapore, February, 1886.
 - **汝亦有** Lṳ́ iā ũ ... ... ... You have got it too.
 - **從底塊到底塊** Tshông tî-kò kàu tî-kò? ... ... ... From where to where?
 - **在此塊到彼塊** Tõ chí-kò kàu hṳ́-kò ... ... ... From here to there.
-<!-- page:22 -->
 - **或者無** Pa-lak bô ... ... ... Perhaps not.
+<!-- page:22 -->
 - **汝有亞無** Lṳ́ ũ a-bô? ... ... ... Have you or have you not? did you or did you not?
 - **我無** Uá bô ... ... ... I havn't; I did not.
 - **汝有去咩** Lṳ́ ũ-khṳ̀ mē? ... ... ... Did you go?
@@ -278,8 +278,8 @@ Singapore, February, 1886.
 - **Answer** Ìn ... ... ... 應
 - **Argue** Poh; à ... ... ... 駁  詏
 - **Arrive** Kàu ... ... ... 到
-<!-- page:23 -->
 - **Ascend** Chiẽⁿ ... ... ... 上
+<!-- page:23 -->
 - **Ask, (demand.)** Thó ... ... ... 討
 - **Ask, (enquire.)** Mn̄g ... ... ... 問
 - **Bear, (to suffer.)** Nãiⁿ ... ... ... 奈
@@ -298,8 +298,8 @@ Singapore, February, 1886.
 - **Care** Chiéⁿ; kuan-kù ... ... ... 掌  觀顧
 - **Carry, (between two equal weights.)** Taⁿ ... ... ... 擔
 - **Carry, (one weight by two persons.)** Kng ... ... ... 扛
-<!-- page:24 -->
 - **Carry, (over the shoulder.)** Pì ... ... ... 背
+<!-- page:24 -->
 - **Carry, (with the hand, as a bucket.)** Kũaⁿ ... ... ... 摜
 - **Carry (on the shoulder, as a basket,)** Khiâ ... ... ... 騎
 - **Catch** Liáh ... ... ... 掠
@@ -318,8 +318,8 @@ Singapore, February, 1886.
 - **Descend** Lóh ... ... ... 落
 - **Die** Sí ... ... ... 死
 - **Dismiss, (from service.)** Sî-tiòu; sǹg-hiah ... ... ... 辭掉  算歇
-<!-- page:25 -->
 - **Do** Tsò; muéh ... ... ... 做  物
+<!-- page:25 -->
 - **Dream** Māng-kìⁿ ... ... ... 夢見
 - **Dry, (in the sun.)** Phák ... ... ... 曝
 - **Eat** Chiáh ... ... ... 食
@@ -338,8 +338,8 @@ Singapore, February, 1886.
 - **Give** Pun; khoih ... ... ... 分  乞
 - **Grow** Huat ... ... ... 發
 - **Guess** Ieh ... ... ... 約
-<!-- page:26 -->
 - **Hang** Tiòu ... ... ... 吊
+<!-- page:26 -->
 - **Hate** Lóu ... ... ... 惱
 - **Hear** Thiaⁿ ... ... ... 聽
 - **Hold, (to take.)** Hūaⁿ; khiéh--tiāⁿ ... ... ... 捍  挈定
@@ -359,8 +359,8 @@ Singapore, February, 1886.
 - **Lie, (to tell an untruth.)** Hue-niouⁿ ... ... ... 〔〕
 - **Lie down** Tó ... ... ... 倒
 - **Light, (lamps.)** Tiám ... ... ... 點
-<!-- page:27 -->
 - **Live, (reside.)** Khiã-khí; tiū ... ... ... 徛起  住
+<!-- page:27 -->
 - **Lose** M̃-kìⁿ; sit-lóh ... ... ... 毋見  失落
 - **Love** Sieh ... ... ... 惜
 - **Make** Tsò; muéh ... ... ... 做  物
@@ -380,8 +380,8 @@ Singapore, February, 1886.
 - **Read, (mentally.)** Thóiⁿ-tsṳ ... ... ... 睇書
 - **Receive** Siu; chih ... ... ... 收  接
 - **Refuse** M̃-hàuⁿ ... ... ... 毋好
-<!-- page:28 -->
 - **Release** Pàng ... ... ... 放
+<!-- page:28 -->
 - **Remember** It-tit; kì-tit ... ... ... 憶得  記得
 - **Remove, (residence.)** Puaⁿ ... ... ... 搬
 - **Repair** Chiáⁿ-lí ... ... ... 整理
@@ -401,8 +401,8 @@ Singapore, February, 1886.
 - **Sleep** U̍t ... ... ... 夗
 - **Smell** Phīⁿ ... ... ... 鼻
 - **Speak** Tàⁿ ... ... ... 呾
-<!-- page:29 -->
 - **Spend** Só-hùi; sái ... ... ... 所費  使
+<!-- page:29 -->
 - **Spoil** Muéh-tiòu ... ... ... 物掉
 - **Stand** Khiã ... ... ... 徛
 - **Stop, (silence.)** Tiām-tiām ... ... ... 恬恬
@@ -2009,8 +2009,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Goose** Gô ... ... ... 鵝
 - **Turkey** Húe-koi ... ... ... 火雞
 - **Pigeon** Hún-chióu ... ... ... 粉鳥
-- **Beef** Gû-bah; gû-nék ... ... ... 牛肉
 <!-- page:103 -->
+- **Beef** Gû-bah; gû-nék ... ... ... 牛肉
 - **Mutton** Iêⁿ-bah; iêⁿ-nék ... ... ... 羊肉
 - **Pork** Tṳ-bah; tṳ-nék ... ... ... 豬肉
 - **Ham** Húe-thúi ... ... ... 火腿
@@ -2030,8 +2030,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ stuff** Ka-lî-buáh ... ... ... 咖喱末
 - **Mustard** Kài-luáh ... ... ... 芥辣
 - **Sauce** Sī-iû ... ... ... 豉油
-- **Vinegar** Tshòu ... ... ... 醋
 <!-- page:104 -->
+- **Vinegar** Tshòu ... ... ... 醋
 - **Pepper** Hôu-chie ... ... ... 胡椒
 - **Pickles** Sng-tshài ... ... ... 酸菜
 - **Jam** Tiâm-ko ... ... ... 甜糕
@@ -2053,8 +2053,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 
 - **咱明旦起愛出門。食有夠亞無** Nán màⁿ-khí àiⁿ tshut-mn̂g, chiáh ũ-kàu a bô? ... ... ... Tomorrow, we are going out, have we got enough provisions?
-- **着預夠** Tiéh ṳ̃-kàu ... ... ... You must prepare enough.
 <!-- page:105 -->
+- **着預夠** Tiéh ṳ̃-kàu ... ... ... You must prepare enough.
 - **勿毋夠。了在路就無食** Màiⁿ-m̃-kàu, lióu tõ lōu chiũ bô-chiáh ... ... ... For if there is not enough, then we shall get no food on the way.
 - **今咱有底個** Taⁿ nán ũ tî-kâi? ... ... ... Now, what have we got?
 - **麵包有三個。牛奶油有一盒** Mīⁿ-pau ũ saⁿ-kâi, gû-nĩⁿ iû ũ chék-áp ... ... ... We have three loaves of bread, and one tin of butter.
@@ -2070,8 +2070,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **挈一腿** Khiéh chék-thúi ... ... ... Get one ham.
 - **荷蘭薯還了有亞無** Hô-lân-tsṳ̂ huân-lióu ũ a-bô? ... ... ... Have you any more potatoes?
 - **有加零些** Ũ ke lân-ló ... ... ... I have a few more.
-- **𤰉亞毋𤰉** Lã a m̃-lã? ... ... ... Have you enough?
 <!-- page:106 -->
+- **𤰉亞毋𤰉** Lã a m̃-lã? ... ... ... Have you enough?
 - **我想𤰉亞** Uá siẽⁿ lã--a ... ... ... I think there are enough.
 - **好也。若是𤰉就免用買** Hó--nōⁿ, nāⁿ-sĩ lã chiũ mín-ēng bói ... ... ... All right, if you have enough you needn't buy any.
 - **雞卵買三十粒** Koi-nñg bói saⁿ-tsáp liáp ... ... ... Buy thirty fowl's eggs.
@@ -2089,10 +2089,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **樣樣伊煮來好在** Iēⁿ-Iēⁿ i tsṳ́-lâi hó-tsãi ... ... ... Every thing he made was very nice indeed.
 - **頭彩就食雞囝湯。佮麵包焙个** Thâu-tshái chiũ chiáh koi-kiáⁿ-thng, kah mīⁿ-pau pūe--kâi ... ... ... First of all, we had chicken soup and toasted bread.
 - **了羊肉烙。佮荷蘭薯** Lióu iêⁿ-bah luah, kah hô-lân-tsṳ̂ ... ... ... Then mutton-chop and potatoes.
+<!-- page:107 -->
 - **了火雞浮。煴芥辣。了還了㩼㩼樣** Lióu húe-koi phû, ùn kài-luáh, lióu huân-lióu tsōi-tsōi iēⁿ ... ... ... Then turkey fried in oil, and eaten with mustard, and many other kinds.
 
 #### Fish.
-<!-- page:107 -->
 - **Fish** Hṳ̂ ... ... ... 魚
 - **Mackeral** Bé-ka ... ... ... 馬鮫
 - **Flounder** Chhieⁿ-hṳ̂ ... ... ... 鯧魚
@@ -2109,8 +2109,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Shrimps** Hê ... ... ... 蝦
 - **Lobster** Lêng-hê ... ... ... 龍蝦
 - **Shell-fish** Lô ... ... ... 螺
-- **Turtle** Hang-ku ... ... ... 魴龜
 <!-- page:108 -->
+- **Turtle** Hang-ku ... ... ... 魴龜
 - **Oysters** Ô ... ... ... 蠔
 - **Cockles** Ham ... ... ... 蚶
 - **Dried salt fish** Hṳ̂-kuaⁿ; hṳ̂-póu ... ... ... 魚干  魚脯
@@ -2130,8 +2130,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **鯧魚上減一尾愛百五錢** Chhieⁿ-hṳ̂ siãng-kiám chék-búe àiⁿ peh-ngõu-chîⁿ ... ... ... At least one hundred and fifty cash for a flounder.
 - **馬鮫若是一尾無三百錢免用出** Bé-ka nãⁿ-sĩ chék-búe bô saⁿ-peh-chîⁿ, mín-ēng tshut ... ... ... As for mackeral you needn't offer for it, unless you are prepared to give three hundred cash for it.
 - **我買零些墨斗佮零些蝦** Uá bói lân-ló bák-táu, kah tshoh-hê ... ... ... I bought some cuttle-fish, and some shrimps.
-- **一條鰻。寡隻蟹** Chék tiôu mûaⁿ, kuá-chiah hõi ... ... ... One eel, several crabs.
 <!-- page:109 -->
+- **一條鰻。寡隻蟹** Chék tiôu mûaⁿ, kuá-chiah hõi ... ... ... One eel, several crabs.
 - **十粒蠔。二十粒蚶** Tsáp-liáp ô, jĩ-tsáp liáp ham ... ... ... Ten oysters, twenty cockles.
 - **魚干六兩。佮鹹魚半斤** Hṳ̂-kuaⁿ lák-niéⁿ, kah kiâm-hṳ̂ pùaⁿ-kṳn ... ... ... Dried salt fish six taels, and salt fish half a catty.
 - **蝦米一擔若㩼** Hê-bí chék-tàⁿ jiéh-tsōi? ... ... ... How much for a picul of dried prawns?
@@ -2151,8 +2151,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Brinjal, egg plant** Kiê ... ... ... 簥
 - **Cucumber** Tiòu-kue ... ... ... 吊瓜
 - **Pumpkin, red** Huan-kue ... ... ... 番瓜
-- **Pumpkin, white** Pû ... ... ... 匏
 <!-- page:110 -->
+- **Pumpkin, white** Pû ... ... ... 匏
 - **Melon, (vegetable)** Tang-kue ... ... ... 冬瓜
 - **Bamboo shoots** Tek-sún ... ... ... 竹笋
 - **Peas** Hô-lân-tāu ... ... ... 荷蘭豆
@@ -2172,8 +2172,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Garlic, fresh** Sǹg ... ... ... 蒜
 - **„ root, dried** Sǹg-thâu ... ... ... 蒜頭
 - **Cloves** Teng-hieⁿ ... ... ... 丁香
-- **Cinnamon** Nék-kùi ... ... ... 肉桂
 <!-- page:111 -->
+- **Cinnamon** Nék-kùi ... ... ... 肉桂
 - **Mushroom** Hieⁿ-kou ... ... ... 香菇
 - **Boletus** Bák-zṳ́ ... ... ... 木耳
 
@@ -2194,8 +2194,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **雞湯落點囝芹菜就芳** Koi-thng lóh tiám-kíaⁿ khṳ̂n-tshài chiũ phang ... ... ... A little celery put in the soup will make it nice.
 - **薟椒是番爿來个** Hiam-chie sĩ huan-pôiⁿ lâi--kâi ... ... ... Chillies come from foreign countries.
 - **薟過胡椒** Hiam-kùe hôu-chie ... ... ... They are hotter than pepper
-- **蒜食後口臭** Sǹg chiáh-lióu tshùi tshàu ... ... ... After eating garlic the mouth will be foul.
 <!-- page:112 -->
+- **蒜食後口臭** Sǹg chiáh-lióu tshùi tshàu ... ... ... After eating garlic the mouth will be foul.
 - **薑母好作藥** Kieⁿ-bó hó-tsò-iéh ... ... ... Dry ginger can be used as medicine.
 #### Fruit.
 
@@ -2215,8 +2215,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Guava** Pát-kiáⁿ ... ... ... 菝囝
 - **Water-melon** Si-kue ... ... ... 西瓜
 - **Jack-fruit** Māng-ka ... ... ... 芒膠
-- **Custard apple** Lîm-khîm ... ... ... 林擒
 <!-- page:113 -->
+- **Custard apple** Lîm-khîm ... ... ... 林擒
 - **Pomegranate** Siéh-liû ... ... ... 石榴
 - **Durian** Liû-liân ... ... ... 榴蓮
 - **Nutmeg** Lãu-hàu ... ... ... 栳㭳
@@ -2548,8 +2548,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **耳聾** Hĩⁿ--lâng ... ... ... Deaf.
 - **啞** É ... ... ... Dumb.
 - **缺喙** Khih-tshùi ... ... ... Hare-lip.
-- **腰龜** Ie-ku ... ... ... Humpback.
 <!-- page:128 -->
+- **腰龜** Ie-ku ... ... ... Humpback.
 - **拐骹** Kuái-kha ... ... ... Lame.
 - **綁骹臁** Páng-kha-liâm ... ... ... Ulcerated leg.
 - **糜骹** Mîⁿ-kha ... ... ... Ulcerated leg.
@@ -2569,8 +2569,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **藥** Iéh ... ... ... Medicine.
 - **藥丸** Iéh-íⁿ ... ... ... Pills.
 - **膏藥** Ko-iéh ... ... ... Ointment, plaster.
-- **藥粉** Iéh-hún ... ... ... Powder, for taking.
 <!-- page:129 -->
+- **藥粉** Iéh-hún ... ... ... Powder, for taking.
 - **藥末** Iéh-buáh ... ... ... Powder, for taking, applying.
 - **寒藥** Kûaⁿ-iéh ... ... ... Quinine.
 - **紅藥** Âng-iéh ... ... ... Pain-killer.
@@ -2589,8 +2589,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **抹** Buah ... ... ... To apply, as iodine, oinment &c.
 - **食藥** Chiáh-iéh ... ... ... To take medicine.
 - **解藥** Kói-iéh ... ... ... To act as an antidote.
-- **一帖** Chék-thiap ... ... ... A dose, (as of Chinese medicine.)
 <!-- page:130 -->
+- **一帖** Chék-thiap ... ... ... A dose, (as of Chinese medicine.)
 - **一日食三頓** Chék-jít chiáh-saⁿ-tǹg ... ... ... To be taken three times a day.
 - **空心肚食** Khang-sim-tóu chiáh ... ... ... To be taken when the stomach is empty.
 - **未食先食** Būe-chiáh soiⁿ-chiáh ... ... ... To be taken before meals.
@@ -2614,8 +2614,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **朱布** Tsu-pòu ... ... ... Gray shirting.
 - **番布** Huan-pòu ... ... ... Gray shirting.
 - **白布** Péh-pòu ... ... ... White cloth.
-- **烏布** Ou-pòu ... ... ... Black cloth.
 <!-- page:131 -->
+- **烏布** Ou-pòu ... ... ... Black cloth.
 - **青布** Chheⁿ-pòu ... ... ... Blue cloth.
 - **膠𤿤** Ka-pùa ... ... ... Cotton cloth.
 - **熱布** Zuáh-pòu ... ... ... Grass cloth.
@@ -2637,8 +2637,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 #### Mineral &c.
 
-- **鏇** Suān ... ... ... Diamond.
 <!-- page:132 -->
+- **鏇** Suān ... ... ... Diamond.
 - **金** Kim ... ... ... Gold.
 - **銀** Ngṳ̂n ... ... ... Silver.
 - **鐵** Thih ... ... ... Iron.
@@ -2657,8 +2657,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **硝** Siou ... ... ... Saltpetre.
 - **鹽硝** Iâm-siou ... ... ... Saltpetre.
 - **硫磺** Liû-n̂g ... ... ... Sulphur, brimstone.
-- **白矾** Péh-huân ... ... ... Alum.
 <!-- page:133 -->
+- **白矾** Péh-huân ... ... ... Alum.
 - **生矾** Chheⁿ-huân ... ... ... „ green.
 - **金沙** Kim-sua ... ... ... Gold-dust
 - **鐵碎** Thih-tshùi ... ... ... Iron-filings.
@@ -2679,8 +2679,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **樟柴** Chieⁿ-tshâ ... ... ... Camphor.
 - **帆布** Phâng-pòu ... ... ... Canvas.
 - **桂皮** Kùi-phûe ... ... ... Cassia.
-- **呂宋薰** Lṳ̃-sòng-hun ... ... ... Cigar, Manila.
 <!-- page:134 -->
+- **呂宋薰** Lṳ̃-sòng-hun ... ... ... Cigar, Manila.
 - **硃砂** Tsu-sa ... ... ... Cinnabar.
 - **棕** Tsang ... ... ... Coir.
 - **物食** Muéh-chiáh ... ... ... Confections.
@@ -2699,8 +2699,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **葵扇** Kûe-sìⁿ ... ... ... Fans, palm-leaf.
 - **佚佗物** Thit-thô-muéh ... ... ... Fancy articles.
 - **雞毛筅** Koi-môⁿ-tshóiⁿ ... ... ... Feather-duster.
-- **魚肚** Hṳ̂-tõu ... ... ... Fishmaws.
 <!-- page:135 -->
+- **魚肚** Hṳ̂-tõu ... ... ... Fishmaws.
 - **魚鰾** Hṳ̂-phiẽ ... ... ... Fishmaws.
 - **甘蜜** Kam-bít ... ... ... Gambier.
 - **人參** Jîn-siam ... ... ... Gin-seng.
@@ -2720,8 +2720,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **牙** Gê ... ... ... Ivory.
 - **香** Hieⁿ ... ... ... Joss-sticks.
 - **漆器** Tshat-khì ... ... ... Lacquered ware.
-- **燈籠** Teng-nâng ... ... ... Lantern, paper.
 <!-- page:136 -->
+- **燈籠** Teng-nâng ... ... ... Lantern, paper.
 - **皮** Phûe ... ... ... Leather.
 - **甘草** Kam-tsháu ... ... ... Liquorice.
 - **蠔殼鏡** Ô-khak-kiàⁿ ... ... ... Mother-of-pearl.
@@ -2741,8 +2741,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **螺** Lô ... ... ... Shells.
 - **鼻薰** Phīⁿ-hun ... ... ... Snuff.
 - **紙煤** Tsúa-bûe ... ... ... Spill.
-- **白糖** Péh-thn̂g ... ... ... Sugar, white.
 <!-- page:137 -->
+- **白糖** Péh-thn̂g ... ... ... Sugar, white.
 - **赤糖** Chhiah-thn̂g ... ... ... „ brown.
 - **烏糖** Ou-thn̂g ... ... ... „ black.
 - **油** Iû ... ... ... Tallow.
@@ -2762,8 +2762,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 - **鋸** Kṳ̀ ... ... ... A saw.
 - **抽** Thiu ... ... ... A plane.
-- **鑿囝** Tshák-kiáⁿ ... ... ... A chisel.
 <!-- page:138 -->
+- **鑿囝** Tshák-kiáⁿ ... ... ... A chisel.
 - **鑽囝** Tsǹg-kiáⁿ ... ... ... An awl.
 - **銼** Tshò ... ... ... A file.
 - **斧頭** Póu-thâu ... ... ... An axe.
@@ -2783,9 +2783,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 #### Tailoring.
 
 - **針** Tsam ... ... ... A needle.
+<!-- page:139 -->
 - **線** Sùaⁿ ... ... ... Thread.
 - **絲線** Si-sùaⁿ ... ... ... Silk thread.
-<!-- page:139 -->
 - **銅指** Tâng-tsóiⁿ ... ... ... A thimble.
 - **鉸刀** Ka-to ... ... ... Scissors.
 - **縫衫藥機** Thīⁿ-saⁿ iéh-kúi ... ... ... A sewing machine.
@@ -2806,9 +2806,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 #### Accounts.
 
+<!-- page:140 -->
 - **數** Siòu ... ... ... An account.
 - **數目** Siòu-bák ... ... ... An account.
-<!-- page:140 -->
 - **數簿** Siòu-phõu ... ... ... An account book.
 - **日逐** Jít-tók ... ... ... A rough-day book.
 - **日清** Jít-chheng ... ... ... A day-book.
@@ -2825,9 +2825,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **數還清** Siòu hôiⁿ-chheng ... ... ... Accounts paid up.
 - **計共** Kòi-kāng ... ... ... Amount.
 - **來銀** Lâi-ngṳ̂n ... ... ... Received to account.
+<!-- page:141 -->
 - **抵除後結欠** Tí-tṳ̂-aũ kat-khiàm ... ... ... Balance due.
 - **記數** Kì-siòu ... ... ... To enter in account.
-<!-- page:141 -->
 - **上數** Chiẽⁿ-siòu ... ... ... To enter in account.
 - **盤數** Pûaⁿ-siòu ... ... ... To transfer account.
 - **單** Tuaⁿ ... ... ... A bill.
@@ -2846,9 +2846,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **揭算盤** Kiah-sǹg-pûaⁿ ... ... ... To reckon on the abacus.
 - **算埋** Sǹg-bûa ... ... ... To add.
 - **除** Tṳ̂ ... ... ... To subtract.
+<!-- page:142 -->
 - **乘** Sêng ... ... ... To multiply.
 - **分** Pun ... ... ... To divide.
-<!-- page:142 -->
 - **財副** Tshâi-hù ... ... ... A clerk.
 - **大財副** Tūa-tshâi-hù ... ... ... A chief clerk.
 - **掌櫃** Chiáng-kūiⁿ ... ... ... A cashier.
@@ -2868,9 +2868,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ ready** Hiēn-chîⁿ ... ... ... 現錢
 - **Change, money** Táu ... ... ... 倒
 - **Cheap** Phiⁿ ... ... ... 便
+<!-- page:143 -->
 - **Commission** Thiu-hun ... ... ... 抽分
 - **Compensate** Pûe ... ... ... 賠
-<!-- page:143 -->
 - **Costly** Tát-chîⁿ ... ... ... 值錢
 - **Credit, give** Chhia ... ... ... 賒
 - **Creditor** Chè-tsú ... ... ... 債主
@@ -2889,9 +2889,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Expenditure** Só-hùi ... ... ... 所費
 - **Guarantee, to** Pau-niáⁿ ... ... ... 包領
 - **Instalments** Hãng; tshṳ̀ ... ... ... 項  次
+<!-- page:144 -->
 - **Insure, to** Pó-ke ... ... ... 保家
 - **Insurance policy** Pó-ke-jī ... ... ... 保家字
-<!-- page:144 -->
 - **Insurance office** Pó-ke-kuán ... ... ... 保家館
 - **Interest** Lāi-chîⁿ ... ... ... 利錢
 - **Invest, to** Lóh-pńg ... ... ... 落本
@@ -2908,9 +2908,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Owe** Khiàm ... ... ... 欠
 - **Payment, punctual** Bô-thua-khiàm ... ... ... 無拖欠
 - **Payment, non-punctual, (at time specified)** Kùe-hãn ... ... ... 過限
+<!-- page:145 -->
 - **Premium** Ngṳ̂n-tsúi ... ... ... 銀水
 - **Price** Kè-chîⁿ ... ... ... 價錢
-<!-- page:145 -->
 - **„ current** Hâng-chhêng ... ... ... 行情
 - **„ fair** Phêng-kè ... ... ... 平價
 - **„ fall in** Lóh-kè ... ... ... 落價
@@ -2930,9 +2930,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 - **Advertise, to** Tshut-jī-péh ... ... ... 出字白
 - **Agreement, an** Háp-tâng ... ... ... 合同
+<!-- page:146 -->
 - **Agreement, make an** Tsò-háp-tâng; háp-ieh ... ... ... 做合同  合約
 - **Arbitrator, an** Kong-chhin ... ... ... 公親
-<!-- page:146 -->
 - **Arbitrate, to** Tsò-kong-chhin ... ... ... 做公親
 - **Assistant, an** Jĩ-chhiú ... ... ... 二手
 - **Auction** Khà-lōi-long ... ... ... 扣黎郎(按：源自馬來語 lelong)
@@ -2951,9 +2951,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Cheat, in commerce** Tshuah ... ... ... 掇
 - **Chest, a** Sieⁿ ... ... ... 箱
 - **Chop, a** Jī-hō ... ... ... 字號
+<!-- page:147 -->
 - **Commerce** Seng-lí ... ... ... 生理
 - **Commissioner of Customs** Sùe-bũ-si ... ... ... 稅務司
-<!-- page:147 -->
 - **Commodity** Hùe ... ... ... 貨
 - **Compradore** Kàu-tshái-kuán ... ... ... 購採館
 - **Confiscate, to** Tshong-kong ... ... ... 充公
@@ -2969,9 +2969,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **„ to collect** Khieh-hiàng ... ... ... 挈餉
 - **„ to pay** Láp-hiàng ... ... ... 納餉
 - **„ to avoid** Tsáu-hiàng ... ... ... 走餉
+<!-- page:148 -->
 - **Employment** Thâu-lōu; sṳ̄ ... ... ... 頭路  事
 - **Estate, (lands and houses,)** Súaⁿ-ngiáp ... ... ... 產業
-<!-- page:148 -->
 - **„ (properties of all kinds,)** Ke-húe ... ... ... 家伙
 - **Estimate, to** Kóu-kè; pān ... ... ... 估價  酌
 - **Examine, to** Chhê-thóiⁿ ... ... ... 查睇
@@ -2989,9 +2989,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Jetty, a** Bé-thâu ... ... ... 馬頭
 - **Landlord** Tshù-tsú ... ... ... 厝主
 - **Lease, to** Tsou ... ... ... 租
+<!-- page:149 -->
 - **Leisure** Oiⁿ ... ... ... 閒
 - **Letter, a** Phoi; sìn ... ... ... 批  信
-<!-- page:149 -->
 - **Mail (from Europe,)** Tsóu-ke-sìn ... ... ... 祖家信
 - **Manage, to** Lí, phōiⁿ ... ... ... 理  辨
 - **Manager** Ke-tiéⁿ ... ... ... 家長
@@ -3010,9 +3010,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Order, to, (goods,)** Kià-khṳ̀-bói ... ... ... 寄去買
 - **„ money** Ngṳ̂n-tuaⁿ ... ... ... 銀單
 - **Package, a** Pau ... ... ... 包
+<!-- page:150 -->
 - **Partner, a** Húe-kì ... ... ... 夥記
 - **Passport, a** Lōu-phiè ... ... ... 路票
-<!-- page:150 -->
 - **Postage** Chiú-chîⁿ ... ... ... 酒錢
 - **Purchase, to** Bói; kau-kuan ... ... ... 買  交關
 - **„ stock in trade** Phah-phòu ... ... ... 拍舖
@@ -3031,9 +3031,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Shops, respectable** Phòu-thâu ... ... ... 舖頭
 - **Sign-board, a** Chie-pâi ... ... ... 招牌
 - **Telegraph, line** Tiẽn-pò-sùaⁿ ... ... ... 電報線
+<!-- page:151 -->
 - **Telegram** Tiẽn-pò ... ... ... 電報
 - **Trade, a** Seng-lí ... ... ... 生理
-<!-- page:151 -->
 - **„ brisk** Seng-lí jiét ... ... ... 生理熱
 - **„ dull** Bô-seng-lí ... ... ... 無生理
 - **Tradesman, a** Seng-lí-nâng ... ... ... 生理人[訓]
@@ -3053,9 +3053,9 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **斤** Kṳn ... ... ... Catty.
 - **擔** Tàⁿ ... ... ... Picul.
 - **寸** Tshùn ... ... ... An inch. (Chinese.)
+<!-- page:152 -->
 - **尺** Chhieh ... ... ... A foot. (Twelve English inches.)
 - **丈** Tñg ... ... ... Ten feet.
-<!-- page:152 -->
 - **步** Pōu ... ... ... A pace.
 - **伐** Huáh ... ... ... A pace.
 - **碼** Bā ... ... ... A yard.

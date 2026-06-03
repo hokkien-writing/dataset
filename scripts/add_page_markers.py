@@ -3,10 +3,14 @@
 Insert <!-- page:N --> markers into book markdown using Wikisource page data.
 
 Algorithm:
-  1. Aggregate <dt> counts per page_index across all Wikisource subpages
-  2. Count entry lines (- **...) in cleaned markdown
-  3. Walk pages in order, cumulate <dt> counts → map to entry line index
-  4. Insert markers at correct positions (bottom-up to preserve indices)
+  1. Aggregate <dt> counts and first-<dt> text per page_index across all Wikisource subpages
+  2. Count entry lines (- **...) in cleaned markdown, extract original word (stripping corrections)
+  3. Walk pages in order: for each page boundary, use edit-distance anchor matching
+     to find the actual MD entry position near the expected cumul offset
+  4. Insert markers at verified positions (bottom-up to preserve indices)
+
+This avoids drift caused by 1:1 entry mismatches between WS <dt> and MD - ** lines
+(e.g. duplicate entries, variant characters, ~~correction~~ patterns).
 
 Cache is auto-populated from Wikisource when missing or stale.
 
@@ -36,6 +40,9 @@ from collections import defaultdict
 from pathlib import Path
 
 API_BASE = "https://en.wikisource.org/w/api.php"
+
+CORRECTION_RE = re.compile(r"~~([^~]+)~~\([^)]+\)")
+IDEOGRAPHIC_SPACE = "\u3000"
 
 
 def api_get(params: dict, max_retries: int = 5) -> dict:
@@ -118,8 +125,10 @@ def fetch_and_cache(cache_path: Path, parent_title: str) -> dict[str, str]:
     return cache
 
 
-def count_dts_per_page(cache: dict[str, str]) -> dict[int, int]:
+def extract_page_data(cache: dict[str, str]) -> dict[int, tuple[int, str]]:
     page_counts: dict[int, int] = defaultdict(int)
+    page_first_dt: dict[int, str] = {}
+
     for html in cache.values():
         markers = list(re.finditer(r'data-page-index="(\d+)"', html))
         for i, m in enumerate(markers):
@@ -127,44 +136,92 @@ def count_dts_per_page(cache: dict[str, str]) -> dict[int, int]:
             chunk_start = m.end()
             chunk_end = markers[i + 1].start() if i + 1 < len(markers) else len(html)
             chunk = html[chunk_start:chunk_end]
-            dts = re.findall(r'<dt[^>]*>', chunk)
-            page_counts[pg] += len(dts)
-    return dict(page_counts)
+            dts = re.findall(r'<dt[^>]*>(.*?)</dt>', chunk, re.DOTALL)
+            for dt in dts:
+                clean = re.sub(r"<[^>]+>", "", dt).strip()
+                page_counts[pg] += 1
+                if pg not in page_first_dt:
+                    page_first_dt[pg] = clean.replace(IDEOGRAPHIC_SPACE, " ").strip()
+
+    return {pg: (page_counts[pg], page_first_dt.get(pg, "")) for pg in page_counts}
 
 
-def find_entry_lines(lines: list[str], prefix: str) -> list[int]:
-    indices = []
+def strip_corrections(text: str) -> str:
+    return CORRECTION_RE.sub(r"\1", text)
+
+
+def levenshtein(s1: str, s2: str) -> int:
+    if abs(len(s1) - len(s2)) > max(len(s1), len(s2)) // 2 + 3:
+        return max(len(s1), len(s2))
+    n, m = len(s1), len(s2)
+    if n == 0:
+        return m
+    if m == 0:
+        return n
+    prev = list(range(m + 1))
+    for i in range(1, n + 1):
+        curr = [i] + [0] * m
+        for j in range(1, m + 1):
+            cost = 0 if s1[i - 1] == s2[j - 1] else 1
+            curr[j] = min(curr[j - 1] + 1, prev[j] + 1, prev[j - 1] + cost)
+        prev = curr
+    return prev[m]
+
+
+def find_entry_lines(lines: list[str], prefix: str) -> list[tuple[int, str]]:
+    entries = []
     for i, line in enumerate(lines):
-        if line.strip().startswith(prefix):
-            indices.append(i)
-    return indices
+        stripped = line.strip()
+        if stripped.startswith(prefix):
+            m = re.match(r"- \*\*(.+?)\*\*", stripped)
+            if m:
+                orig = strip_corrections(m.group(1)).replace(IDEOGRAPHIC_SPACE, " ").strip()
+                entries.append((i, orig))
+    return entries
 
 
-def build_markers(page_counts: dict[int, int], entry_count: int) -> tuple[list[tuple[int, int]], int]:
-    sorted_pages = sorted(page_counts)
+def build_markers_anchored(
+    page_data: dict[int, tuple[int, str]],
+    md_entries: list[tuple[int, str]],
+) -> list[tuple[int, int]]:
     cumul = 0
     markers = []
-    for pg in sorted_pages:
-        count = page_counts[pg]
+
+    for pg in sorted(page_data):
+        count, ws_first_dt = page_data[pg]
         if count == 0:
             continue
-        if cumul >= entry_count:
-            print(f"  WARNING: cumul={cumul} >= {entry_count} at page {pg}", file=sys.stderr)
-            break
-        markers.append((cumul, pg))
-        cumul += count
-    return markers, cumul
+
+        best_md_idx = None
+        best_dist = float("inf")
+
+        search_lo = max(0, cumul - 5)
+        search_hi = min(len(md_entries), cumul + count + 15)
+
+        for md_i in range(search_lo, search_hi):
+            _, md_word = md_entries[md_i]
+            d = levenshtein(ws_first_dt, md_word)
+            threshold = max(2, len(ws_first_dt) // 2)
+            if d <= threshold and d < best_dist:
+                best_dist = d
+                best_md_idx = md_i
+
+        if best_md_idx is not None:
+            line_idx, _ = md_entries[best_md_idx]
+            markers.append((line_idx, pg))
+            cumul = best_md_idx + count
+        else:
+            if cumul < len(md_entries):
+                line_idx, _ = md_entries[cumul]
+                markers.append((line_idx, pg))
+            cumul += count
+
+    return markers
 
 
-def insert_markers(lines: list[str], entry_indices: list[int], markers: list[tuple[int, int]]) -> list[str]:
-    insertions = []
-    for entry_offset, pg in markers:
-        line_idx = entry_indices[entry_offset]
-        insertions.append((line_idx, pg))
-
-    for line_idx, pg in sorted(insertions, key=lambda x: x[0], reverse=True):
+def insert_markers(lines: list[str], markers: list[tuple[int, int]]) -> list[str]:
+    for line_idx, pg in sorted(markers, key=lambda x: x[0], reverse=True):
         lines.insert(line_idx, f"<!-- page:{pg} -->")
-
     return lines
 
 
@@ -191,23 +248,23 @@ def main() -> None:
         print(f"ERROR: Cache not found ({cache_path}). Use --wikisource to fetch.", file=sys.stderr)
         sys.exit(1)
 
-    page_counts = count_dts_per_page(cache)
-    total_dt = sum(page_counts.values())
-    pages_with_entries = sum(1 for c in page_counts.values() if c > 0)
+    page_data = extract_page_data(cache)
+    total_dt = sum(count for count, _ in page_data.values())
+    pages_with_entries = sum(1 for count, _ in page_data.values() if count > 0)
 
     md_text = args.md.read_text(encoding="utf-8")
     cleaned = re.sub(r"<!-- page:\d+ -->\n?", "", md_text)
     lines = cleaned.split("\n")
 
-    entry_indices = find_entry_lines(lines, args.entry_prefix)
-    print(f"Wikisource: {total_dt} <dt> across {pages_with_entries} pages ({len(page_counts)} total page indices)")
-    print(f"Markdown:   {len(entry_indices)} entry lines")
+    md_entries = find_entry_lines(lines, args.entry_prefix)
+    print(f"Wikisource: {total_dt} <dt> across {pages_with_entries} pages ({len(page_data)} total page indices)")
+    print(f"Markdown:   {len(md_entries)} entry lines")
 
-    if len(entry_indices) != total_dt:
-        print(f"WARNING: entry count mismatch ({len(entry_indices)} vs {total_dt})", file=sys.stderr)
+    if len(md_entries) != total_dt:
+        print(f"WARNING: entry count mismatch ({len(md_entries)} vs {total_dt})", file=sys.stderr)
 
-    markers, consumed = build_markers(page_counts, len(entry_indices))
-    print(f"Markers:    {len(markers)} pages (consumed {consumed} entries)")
+    markers = build_markers_anchored(page_data, md_entries)
+    print(f"Markers:    {len(markers)} pages")
 
     for _, pg in markers[:3]:
         print(f"  page {pg}")
@@ -219,7 +276,7 @@ def main() -> None:
         print("\n(dry run, not writing)")
         return
 
-    lines = insert_markers(lines, entry_indices, markers)
+    lines = insert_markers(lines, markers)
     args.md.write_text("\n".join(lines), encoding="utf-8")
     print(f"\nWrote {len(lines)} lines to {args.md.name}")
 
