@@ -1035,6 +1035,7 @@ On this admittedly difficult subject, I transcribe a few remarks from one well q
 
 “A Double Hyphen implies that the word preceding it retains its own proper tone in full force, and that the word or words following it are either enclitic or unaccented, and as far as possible deprived of distinctive tonal character,” as,
 
+<!-- page:58 -->
 入來 jíp--lâi, come in, 覔着 tshūe--tiéh, found, 來了 lái--lō, has come, 掠着了 liáh--tiéh-lō, has been caught, 站起來, khiã--khí-lâi, stand up.
 
 “The use of hyphens, though most essential, is yet difficult to regulate by any stringent law, and much must be left to discretion.”
@@ -1058,11 +1059,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 
 ##### present tense.
 
-
-<!-- page:58 -->
 - **我來** Uá lâi ... ... ... I come.
-
-
 - **爾去** Lṳ́ khṳ̀ ... ... ... You go.
 - **伊要** I àiⁿ ... ... ... He wants.
 - **阮勿** Ún màiⁿ ... ... ... We don't want.
@@ -1072,7 +1069,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 ##### past tense.
 
 The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed chiefly in asking questions and in giving answers, but seldom when a subject is simply being spoken of, viz.—
-<!-- page:59 -->
+
 - **伊分我** I pun uá ... ... ... He gave me.
 - **伊昨日來** I tsa-jít lâi ... ... ... He came yesterday.
 - **伊昨日有來或無** I tsa-jít ũ lâi a-bô? ... ... ... Did he come yesterday or not?

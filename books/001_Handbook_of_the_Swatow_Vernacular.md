@@ -304,7 +304,7 @@ Singapore, February, 1886.
 - **Carry (on the shoulder, as a basket,)** Khiâ ... ... ... 騎
 - **Catch** Liáh ... ... ... 掠
 - **Change** Uāⁿ ... ... ... 換
-- **Chase** Jiōu ... ... ... 追
+- **Chase** Jiōu ... ... ... ~~追~~(趭)
 - **Cheat** Phièn ... ... ... 騙
 - **Choose** Suán; tóh ... ... ... 選  擇
 - **Clean** Muéh-chheng-khih ... ... ... ~~修~~(物)清潔
@@ -465,9 +465,9 @@ Singapore, February, 1886.
 #### section II.
 
 - **此個我勿。我~~要~~(愛)換** Chí--kâi uá màiⁿ, uá àiⁿ-ūaⁿ ... ... ... I don't want a change.
-- **~~爾~~(汝)去追伊** Lṳ́ khṳ̀-jiōu i ... ... ... You go and chase him.
-- **追~~不~~(毋)着** Jiōu m̃-tièh ... ... ... Can't overtake him.
-- **~~爾~~(汝)走就追會着** Lṳ́ tsáu chiũ-jiōu õi-tièh ... ... ... If you run, you will overtake him.
+- **~~爾~~(汝)去~~追~~(趭)伊** Lṳ́ khṳ̀-jiōu i ... ... ... You go and chase him.
+- **~~追~~(趭)~~不~~(毋)着** Jiōu m̃-tièh ... ... ... Can't overtake him.
+- **~~爾~~(汝)走就~~追~~(趭)會着** Lṳ́ tsáu chiũ-jiōu õi-tièh ... ... ... If you run, you will overtake him.
 <!-- page:32 -->
 - **~~爾~~(汝)勿騙我** Lṳ́ màiⁿ-phièn uá ... ... ... Don't you deceive me.
 - **~~爾~~(汝)~~要~~(愛)選~~的一個~~(底一個)** Lṳ́ àiⁿ-suán tî-chék-kâi? ... ... ... Which do you wish to choose?
@@ -1035,6 +1035,7 @@ On this admittedly difficult subject, I transcribe a few remarks from one well q
 
 “A Double Hyphen implies that the word preceding it retains its own proper tone in full force, and that the word or words following it are either enclitic or unaccented, and as far as possible deprived of distinctive tonal character,” as,
 
+<!-- page:58 -->
 入來 jíp--lâi, come in, ~~覔~~(覓)着 tshūe--tiéh, found, 來了 lái--lō, has come, 掠着了 liáh--tiéh-lō, has been caught, ~~站~~(徛)起來, khiã--khí-lâi, stand up.
 
 “The use of hyphens, though most essential, is yet difficult to regulate by any stringent law, and much must be left to discretion.”
@@ -1058,11 +1059,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 
 ##### present tense.
 
-
-<!-- page:58 -->
 - **我來** Uá lâi ... ... ... I come.
-
-
 - **~~爾~~(汝)去** Lṳ́ khṳ̀ ... ... ... You go.
 - **伊~~要~~(愛)** I àiⁿ ... ... ... He wants.
 - **阮勿** Ún màiⁿ ... ... ... We don't want.
@@ -1072,7 +1069,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 ##### past tense.
 
 The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed chiefly in asking questions and in giving answers, but seldom when a subject is simply being spoken of, viz.—
-<!-- page:59 -->
+
 - **伊分我** I pun uá ... ... ... He gave me.
 - **伊昨日來** I tsa-jít lâi ... ... ... He came yesterday.
 - **伊昨日有來~~或無~~(亞無)** I tsa-jít ũ lâi a-bô? ... ... ... Did he come yesterday or not?
@@ -4219,7 +4216,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Charcoal** Thùaⁿ; húe-thùaⁿ ... ... ... 炭  火炭
 - **Charitable** Hó-sim; siu-sim ... ... ... 好心  修心
 - **Charter, a ship** Pák-tsûn; tsou-tsûn ... ... ... 縛船  租船
-- **Chase** Jiōu ... ... ... 趕
+- **Chase** Jiōu ... ... ... ~~趕~~(趭)
 - **„ in attack** Chẽng ... ... ... 追
 - **Chat** Phuéh-uē; phuéh-ôiⁿ-uē ... ... ... ++詖話++  ~~講~~(詖)~~閑~~(閒)話
 - **Cheap** Phiⁿ; pân-gî ... ... ... ~~賤~~(偏)  ~~平宜~~(便宜)
