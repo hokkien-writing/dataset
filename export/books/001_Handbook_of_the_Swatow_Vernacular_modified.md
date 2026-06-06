@@ -1,3 +1,11 @@
+<!-- page:1 -->
+<!-- page:2 -->
+<!-- page:3 -->
+<!-- page:4 -->
+<!-- page:5 -->
+<!-- page:6 -->
+<!-- page:7 -->
+<!-- page:8 -->
 # HANDBOOK OF THE SWATOW VERNACULAR
 
 此書乃彙集英潮土語專為英人學習潮語
@@ -11,7 +19,7 @@
 光緒十二年元月吉日新嘉坡古友軒承印
 
 ------
-
+<!-- page:9 -->
 
 **HANDBOOK** OF THE **SWATOW VERNACULAR**,
 
@@ -26,13 +34,15 @@ SINGAPORE.—PRINTED AT THE “KOH YEW HEAN” PRESS.
 1886 .
 
 All Rights Reserved.
+<!-- page:10 -->
+<!-- page:11 -->
 
 ## PREFACE.
 
 The present work differs in one respect from all other works on the Swatow language previously published, as it has been compiled by one to whom it is a mother tongue and who has learned English, instead of by a European who has learned Chinese, so that it has been possible to confine the sentences strictly to the colloquial form. It is almost impossible for a European to compile any such aid so as to be entirely colloquial, because he commences his first study of the language by engaging a Chinese teacher and acquires his knowledge of Chinese principally from that class. These teachers are in the habit of importing into their speech a certain number of “bookish” words, that is, words which are only used in the written language, and are never used in the colloquial, and are not therefore understood by the people in general. To acquire the pure colloquial it is better to start with the early study of the language from another class rather than from a pedant like the teacher class. Learned men indeed add a few polite or pedantic phrases, but these are only used on certain occasions and are mere excrescences.
 
 The chief disadvantage of inserting book words in phrase books is that the student after discovering that a certain number of words given therein when used are not understood by the people, is led to doubt whether some other words used would be understood. Thus the student has to enquire and ascertain those words which may seem to him doubtful before he uses them. Readers of the present work will be able to use every word occurring throughout the whole volume without having any doubt of its being understood.
-
+<!-- page:12 -->
 The following is the system of orthography employed.
 
 ------
@@ -75,6 +85,8 @@ s—as in song, never as in choose, lose.
 z—always as ds or dz; never as in zeal, zone.
 
 k, p, and t,—as final consonants are pronounced without the slightest emission of vocal breath as there usually is in pronouncing English.
+
+<!-- page:13 -->
 m and ng—will be found written without any vowel (e. g. n̂g, m̃, ḿ); often also preceded by a consonant (e. g. sng, hñg, kng) “The nature of these syllables without a distinct vowel becomes at once unmistakable in singing, as at such a word all clear vocal sound at once ceases, and nothing is heard but a dull nasal murmur.
 “The Aspirated Consonants are a very remarkable feature in all the languages of China, and require very special attention. They are kh, ph, th, chh, and tsh. The sounds are the same as those indicated by the same notation in the languages of India, being formed by a real distinct aspiration pronounced after the respective consonants………………The sounds are almost the same as those often used by Irishmen when pronouncing with a strong brogue such words as come, pig, &c.; they are also often heard in the mouths of the Scottish Highlanders.
 
@@ -88,6 +100,8 @@ m and ng—will be found written without any vowel (e. g. n̂g, m̃, ḿ); often
 tsh—is almost the same as chh, the slight difference it has is that there is not so much sound of h as in chh.
 
 ch—is not an aspirated consonant as explained above, it is always pronounced as in cheese.
+
+<!-- page:14 -->
 A small ⁿ written above the line at the end of a syllable indicates that the whole syllable becomes nasal.
 From the various dialects in the Swatow region that of the Departmental city known as Ch’ao-chow-foo, (or Tie-chiu-hu in this dialect,) has been chosen, although that of the department of Theng Hai is more extensively spoken in Singapore and perhaps in Swatow also. This work makes no pretence of being more than introductory, and the sentences are such as may be heard from the lips of the native in every day use, while the little dictionary attached to it will undoubtedly be found useful. For many English words there are several Chinese colloquial equivalents, and in the little dictionary two or more of these are frequently given. But there are, no doubt, others which have been inadvertently omitted, and in case of doubt as to any word which does not appear, the student will have no difficulty in ascertaining whether the word that is omitted is in common use, as he can enquire from any one who speaks the dialect, however uneducated he may be.
 
@@ -98,6 +112,7 @@ Singapore, February, 1886.
 
 ------
 
+<!-- page:15 -->
 ## CONTENTS.
 
 |  |  | Page |
@@ -137,6 +152,9 @@ Singapore, February, 1886.
 | A List of Animals and Birds | Lesson XXVI | 154 |
 | A List of Classifiers | Lesson XXVII | 157 |
 | Notes—Nautical | Lesson XXVIII | 159 |
+<!-- page:16 -->
+CONTENTS—Continued.
+
 | Notes—Medical | Lesson XXIX | 161 |
 | Notes—Commercial | Lesson XXX | 163 |
 | Notes—Judicial | Lesson XXXI | 165 |
@@ -145,11 +163,35 @@ Singapore, February, 1886.
 | A Dictionary of some of the more important words in the Swatow dialect. | | |
 
 ------
+
+Errata.
+
+------
+
+| For external | read internal | Page |
+|--------------|---------------|------|
+| „ chesnuts | „ chestnuts | 97 |
+| „ khí-thiàⁿ | „ take out hyphen | 110 |
+| „ léh | „ lék | 158 |
+
+Errata in the Dictionary.
+
+| For external | read internal | Page |
+|--------------|---------------|------|
+| Bawl, for jiang | read jiáng | 7 |
+| Bench, „ uàⁿ-tshǹg | „ uàⁿ-tshn̂g | 9 |
+| Congeal, „ kûn-tàng | „ kṳ̂n-tàng | 28 |
+| Coolie, „ ngẽ-kioh | „ ngẽ-kieh | 29 |
+| Relations, „ chhin-chek | „ chhin-chhek | 74 |
+| Sincere, „ sít-sim; sít-ì | „ take out semicolon | 84 |
+
+
+------
+<!-- page:17 -->
 ## Introductory
 
 ### Lesson I.
 
-<!-- page:17 -->
 - **我** Uá ... ... ... I.
 - **阮** Ún ... ... ... We (not including the person addressed.)
 - **咱** Nán ... ... ... We (including the person addressed.)
