@@ -5,6 +5,7 @@ import re
 from scripts.processors.base import BookProcessor, Entry
 
 LINE_RE = re.compile(r"^\*\*(.+?)\*\*,\s*(.*)")
+PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
 HAN_ANN_RE = re.compile(r"\+\+\(([^)]*)\)\+\+")
 PLAIN_HAN_RE = re.compile(r"\(([\u4E00-\u9FFF\u3400-\u4DBF\U00020000-\U0002EBEF]+)\)")
 COMMA_ANN_SPLIT_RE = re.compile(r"(?<=\)\+\+),\s+(?=\S.*\+\+(?:\(|\+\+))")
@@ -17,9 +18,15 @@ class Processor(BookProcessor):
     def extract_entries(self, text: str, source_name: str) -> list[Entry]:
         entries: list[Entry] = []
         current_section = ""
+        current_page = ""
 
         for line in text.split("\n"):
             stripped = line.strip().rstrip("&c.")
+
+            page_m = PAGE_RE.match(stripped)
+            if page_m:
+                current_page = page_m.group(1)
+                continue
 
             if stripped.startswith("#"):
                 current_section = stripped.lstrip("#").strip()
@@ -110,7 +117,7 @@ class Processor(BookProcessor):
                             continue
 
                         for item in self._split_annotated_items(puj):
-                            self._emit_entry(item, en, source_label, entries)
+                            self._emit_entry(item, en, source_label, current_page, entries)
 
         return entries
 
@@ -133,7 +140,7 @@ class Processor(BookProcessor):
         return [puj]
 
     @staticmethod
-    def _emit_entry(puj: str, en: str, source_label: str, entries: list[Entry]) -> None:
+    def _emit_entry(puj: str, en: str, source_label: str, page_num: str, entries: list[Entry]) -> None:
         han_match = HAN_ANN_RE.search(puj)
         han = han_match.group(1) if han_match else ""
 
@@ -158,5 +165,6 @@ class Processor(BookProcessor):
                 en=BookProcessor.clean(en),
                 en_orig="",
                 source=source_label,
+                page_num=page_num,
             )
         )
