@@ -6695,7 +6695,6 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **human**, *life*, nâng-seⁿ; nâng-miāⁿ. *human life is like a dream*, nâng-seⁿ jia̍k-māng; phû-seⁿ jia̍k-māng. *relations*, jîn-lûn. *strength*, nâng-la̍t. *affairs*, jîn-sṳ̄. *feelings*, nâng-chhêng. *kind*, nâng-lūi. *the human heart is never satisfied*, nâng-sim put-tsok.
 
-<!-- page:155 -->
 **humane**, ũ-nâng-chhêng; õi-tsò-nâng; tshṳ̂-sim; ũ-jîn-ài.
 
 **humanity**, jîn-tek; jîn-ài.
@@ -6718,7 +6717,10 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hurdle**, keh; tiãm; ôu. *(bamboo fence)*, tek-lî.
 
-**hurl**, *a spear*, pie-chhieⁿ; tong-chhieⁿ. *stones*, ka̍k-chie̍h. *hurricane*, huang-thai. *(spring gale)*, pò-thâu.
+**hurl**, *a spear*, pie-chhieⁿ; tong-chhieⁿ. *stones*, ka̍k-chie̍h. 
+
+<!-- page:155 -->
+**hurricane**, huang-thai. *(spring gale)*, pò-thâu.
 
 **hurry**, *to*, piàⁿ-méⁿ. *hurry up*, méⁿ--chē; piàⁿ-méⁿ--chē. *in a desperate*, huang-mâng; tsò-sṳ̄ hih-huh-kiè; mâng-kip; mâng-pek. *do hurriedly*, tshó-lia̍k-tsò; chhìn-tshái-tsò. *don't be in such a*, tshāi--chē; tshāi-tshāi--nē; ûn-ûn--nē.
 
@@ -14261,7 +14263,6 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 **zone**, tòa-tãu; sùaⁿ-lōu. *temperate*, un-tãu. *frigid*, hân-tãu.
 
 **zoology**, seⁿ-mue̍h tsóng-lũn.
-
 <!-- page:316 -->
 <!-- page:317 -->
 <!-- page:318 -->

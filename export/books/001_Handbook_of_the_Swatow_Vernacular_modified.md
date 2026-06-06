@@ -246,8 +246,7 @@ Errata in the Dictionary.
 - **照** Chiè ... ... ... According to.
 - **返轉** Huán-tńg ... ... ... On the contrary, on the other hand.
 - **顛倒** Tin-tò ... ... ... On the contrary, on the other hand.
-- **共** Kāng ... ... ... And.
-- **佮** Kah ... ... ... And.
+- **共  佮** Kāng ... ... ... And.
 - **是** Sĩ ... ... ... But.
 - **亦** Iā ... ... ... Also.
 - **從  在** Tshông; tõ ... ... ... From.
@@ -1033,7 +1032,7 @@ Errata in the Dictionary.
 ------
 
 
-
+<!-- page:56 -->
 ### Lesson IX.
 
 #### tones.
@@ -1060,6 +1059,7 @@ The fifth becomes the fourth.
 The seventh becomes the eighth.
 The eighth becomes the seventh.
 As:—
+<!-- page:57 -->
 1. 底當時 Tiang-sî, when, read Tiang-sî.
 2. 底塊 Tî-kò, where, „ Tī-kò.
 3. 彼塊 Hṳ́-kó, there, „ Hṳ̃-kò.
@@ -1108,6 +1108,7 @@ The distinctions of moods, tenses, numbers and persons are shown by the addition
 - **恁是我个朋友** Nín sĩ uá kâi phêng-iú ... ... ... You are my friends.
 - **𪜶是外人[訓]。伊人[訓]是外人[訓]** In sĩ gūa-nâng; I--nâng sĩ gūa-nâng ... ... ... They are outsiders.
 
+<!-- page:59 -->
 ##### past tense.
 
 The common signs of the Past Tense are 有 ũ and 曾 chêng, and are employed chiefly in asking questions and in giving answers, but seldom when a subject is simply being spoken of, viz.—
@@ -2822,8 +2823,8 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 #### Tailoring.
 
 - **針** Tsam ... ... ... A needle.
-<!-- page:139 -->
 - **線** Sùaⁿ ... ... ... Thread.
+<!-- page:139 -->
 - **絲線** Si-sùaⁿ ... ... ... Silk thread.
 - **銅指** Tâng-tsóiⁿ ... ... ... A thimble.
 - **鉸刀** Ka-to ... ... ... Scissors.
@@ -6097,4 +6098,3 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 [3] Vulga
 
 ------
-

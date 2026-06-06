@@ -6695,7 +6695,6 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **human**, *life*, nâng-seⁿ(人[訓]生); nâng-miāⁿ(人[訓]命). *human life is like a dream*, nâng-seⁿ jia̍k-māng(人[訓]生若夢); phû-seⁿ jia̍k-māng(浮生若夢). *relations*, jîn-lûn(人倫). *strength*, nâng-la̍t(人[訓]力). *affairs*, jîn-sṳ̄(人事). *feelings*, nâng-chhêng(人[訓]情). *kind*, nâng-lūi(人[訓]類). *the human heart is never satisfied*, nâng-sim put-tsok(人[訓]心不足).
 
-<!-- page:155 -->
 **humane**, ũ-nâng-chhêng(有人情); õi-tsò-nâng(會做人); tshṳ̂-sim(慈心); ũ-jîn-ài(有仁愛).
 
 **humanity**, jîn-tek(仁德); jîn-ài(仁愛).
@@ -6718,7 +6717,10 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hurdle**, keh(隔); tiãm(簟); ôu(湖). *(bamboo fence)*, tek-lî(竹籬).
 
-**hurl**, *a spear*, pie-chhieⁿ(鏢槍); tong-chhieⁿ(中槍). *stones*, ka̍k-chie̍h(捔石). *hurricane*, huang-thai(風颱). *(spring gale)*, pò-thâu(報頭).
+**hurl**, *a spear*, pie-chhieⁿ(鏢槍); tong-chhieⁿ(中槍). *stones*, ka̍k-chie̍h(捔石). 
+
+<!-- page:155 -->
+**hurricane**, huang-thai(風颱). *(spring gale)*, pò-thâu(報頭).
 
 **hurry**, *to*, piàⁿ-méⁿ(拚猛). *hurry up*, méⁿ--chē(猛些); piàⁿ-méⁿ--chē(拚猛些). *in a desperate*, huang-mâng(慌忙); tsò-sṳ̄ hih-huh-kiè〔〕; mâng-kip(忙急); mâng-pek(忙迫). *do hurriedly*, tshó-lia̍k-tsò(草略做); chhìn-tshái-tsò(凊彩做). *don't be in such a*, tshāi--chē〔〕; tshāi-tshāi--nē(在在呢); ûn-ûn--nē(勻勻呢).
 
@@ -14261,7 +14263,6 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 **zone**, tòa-tãu(帶道); sùaⁿ-lōu(線路). *temperate*, un-tãu(溫道). *frigid*, hân-tãu(寒道).
 
 **zoology**, seⁿ-mue̍h tsóng-lũn(生物總論).
-
 <!-- page:316 -->
 <!-- page:317 -->
 <!-- page:318 -->
