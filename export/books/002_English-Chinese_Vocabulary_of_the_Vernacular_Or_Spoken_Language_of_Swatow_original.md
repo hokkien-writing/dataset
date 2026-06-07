@@ -7894,7 +7894,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lie**, tàⁿ-ké-ūe; tàⁿ-ké; pe̍h-chia̍h pe̍h-tàⁿ; sueh-huáng; tàⁿ hṳ-ké kai-ūe. *a lie*, pe̍h-chiáⁿ-ūe; tōa-ūe; hṳ-ké; huang-thâng; bô-iáⁿ-ūe; bô-iáⁿ bô-chiah kâi-ūe.
 
-**lie**, *down*, tó--loo̍h-khṳ̀ gu̍t. *with*, tsò-pû-gu̍t. *in ambush*, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
+**lie**, *down*, tó--lo̍h-khṳ̀ gu̍t. *with*, tsò-pû-gu̍t. *in ambush*, mâiⁿ-ho̍k; bih-tiām; bih-bûa.
 
 **lieutenant**, *lieutenant-governor*, bú-īⁿ; bú-thâi.
 
@@ -12683,7 +12683,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tassel**, *of cap*, âng-eng; che̍k-phau-eng.
 
-**taste**, bī; bī-sòu; khì-bī. *to*, siêⁿ-bī; chhì-bī. *tasteless*, bô-bī; bô-bī-sòu; bô-khì-bī; pe̍h-chiáⁿ pe̍h-chiáⁿ; bī pi̍h; bī tãⁿ; chiáⁿ-tãⁿ; tãⁿ-po̍h.
+**taste**, bī; bī-sòu; khì-bī. *to*, siêⁿ-bī; chhì-bī. *tasteless*, bô-bī; bô-bī-sòu; bô-khì-bī; pe̍h-chiáⁿ pe̍h-chiáⁿ; bī po̍h; bī tãⁿ; chiáⁿ-tãⁿ; tãⁿ-po̍h.
 
 **tattered**, phùa; phùa-tshùi; i-saⁿ lâm-lú; uân-sui-saⁿ pue-lêng-khòu.
 
@@ -12699,7 +12699,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tax**, *(customs dues)*, hiàng. *(land-tax)*, niêⁿ; tshân-niêⁿ; chîⁿ-niêⁿ. *(likin)* lî-kim. *to pay*, uân-niêⁿ; na̍p-niêⁿ. *collectors of*, niêⁿ-chhe; tou-chhe.
 
-**tea**, tê. *leaves*, tê-hie̍h; tê-bí. *used leaves*, tê-phoh. *tea-plant*, tê-tsâng. *to make*, pû-tê; pheng-tê; phàu-tê; tshong-tê. *infuse in covered cup*, hìm-tê. *invite one to take*, chhiáⁿ-tê. *pour out*, sai-tê. *hand round*, khâng-tê; khiâ-tê. *drink*, chia̍h-tê; ím-tê. *to fire*, pūe-tê. *tea-taster*, tê-sṳ. *box of*, che̍k-sieⁿ-tê. *cup*, tê-cheng; tê-pue; tê-au; kài-au. *canister*, te-bí-kuàn; siah-kuàn. *kettle*, tê-ue. *pot*, tê-kuàn; tshong-kuàn. *tea-poy*, tê-kí. *saucer*, tê-tsûn; tê-ti̍h; tê-pûaⁿ. *strainer*, tê-thai. *tea-men*, tê-kheh. *siftings*, tê-hu; tê-ku̍eh. *wholesale tea warehouse*, tê-hâng. *shop (for selling tea to drink)*, tê-kuán; tê-kṳ. *tea-harvest*, tê-tang. *tea producing region*, tê-suaⁿ. *to gather*, tshái-tê; tiah-tê.
+**tea**, tê. *leaves*, tê-hie̍h; tê-bí. *used leaves*, tê-phoh. *tea-plant*, tê-tsâng. *to make*, pû-tê; pheng-tê; phàu-tê; tshong-tê. *infuse in covered cup*, hìm-tê. *invite one to take*, chhiáⁿ-tê. *pour out*, sai-tê. *hand round*, khâng-tê; khiâ-tê. *drink*, chia̍h-tê; ím-tê. *to fire*, pūe-tê. *tea-taster*, tê-sṳ. *box of*, che̍k-sieⁿ-tê. *cup*, tê-cheng; tê-pue; tê-au; kài-au. *canister*, tê-bí-kuàn; siah-kuàn. *kettle*, tê-ue. *pot*, tê-kuàn; tshong-kuàn. *tea-poy*, tê-kí. *saucer*, tê-tsûn; tê-ti̍h; tê-pûaⁿ. *strainer*, tê-thai. *tea-men*, tê-kheh. *siftings*, tê-hu; tê-ku̍eh. *wholesale tea warehouse*, tê-hâng. *shop (for selling tea to drink)*, tê-kuán; tê-kṳ. *tea-harvest*, tê-tang. *tea producing region*, tê-suaⁿ. *to gather*, tshái-tê; tiah-tê.
 
 **teach**, kà; kà-hùe; kà-sī; kà-hùn; chí-kà; chí-sī; kà-tsṳ; kà-tãu. *teacher*, sin-seⁿ; sṳ; láu-sṳ; kà-sṳ; kà-tsṳ sin-seⁿ.
 
@@ -12773,7 +12773,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **test**, chhì; chhì-thóiⁿ; chhì-ēng. *has been tested*, ũ-hāu-ngiām--kùe; ũ-chhì-ngiām--kùe.
 
-**testament**, zũi-tsṳ; zũi-tsok. *Old and New*, Kū-Sin-tieh.
+**testament**, zũi-tsṳ; zũi-tsok. *Old and New*, Kū-Sin-ieh.
 
 **testicles**, lãng-hu̍t; siẽn-hu̍t; gūa-siẽn.
 
@@ -12997,7 +12997,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tooth**, *toothache*, khí thiàⁿ. *toothbrush*, khí-sueh. *toothpick*, khí-thak. *toothpowder*, khí-hún. see TEETH.
 
-**top**, téng; thâu; mīn; téng-mīn; chiēⁿ-mīn; mīn-chiēⁿ. *of a hill*, suaⁿ-téng. *topmost*, téng-téng; siãng-téng. *topsy-turvy*, tin-tò-thâu; tin-tò-thâu-chèng++(顛倒頭種)+.
+**top**, téng; thâu; mīn; téng-mīn; chiēⁿ-mīn; mīn-chiēⁿ. *of a hill*, suaⁿ-téng. *topmost*, téng-téng; siãng-téng. *topsy-turvy*, tin-tò-thâu; tin-tò-thâu-chèng.
 
 **top**, *a*, hâm-lâm-su̍t. *to spin a*, phah-hâm-lâm-su̍t.
 
@@ -13582,7 +13582,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **urbanity**, lói-mãuⁿ; ũ-lói-siàu; hiáu--tit lói-ngî.
 
-**urethra**, jiẽ-kńg. *stricture of*, jiē-kńg sat.
+**urethra**, jiē-kńg. *stricture of*, jiē-kńg sat.
 
 <!-- page:298 -->
 **urge**, *to*, tshui; tshui-pek; kek; piàⁿ-kín; tshui-piàⁿ; tshui-kín. *urgent*, kín; kín-iàu; iàu-kín; pek-chhiet.
@@ -13754,7 +13754,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **vicinity**, siang-kṳ̃n; lîn-kṳ̃n; lîn-iũ; siang-liên; lîn-kṳ; tsôiⁿ-ãu.
 
-**vicious**, man; àu-nâng; pháiⁿ-nâng; nâng-tái.
+**vicious**, *man*, àu-nâng; pháiⁿ-nâng; nâng-tái.
 
 **victory**, thâi-iâⁿ; chièn-iâⁿ; chièn-sèng; ua̍k-sèng; sèng-te̍k. *report of*, pò-chia̍p.
 
@@ -13793,7 +13793,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **viper**, ta̍k-tsûa; pn̄g-sî-thâu.
 
-**virago**, mân-hũ; iá-hũ; nńg-chiàng; phuat-hũ; phuat-tsūaⁿ++(潑賤)+.
+**virago**, mân-hũ; iá-hũ; nńg-chiàng; phuat-hũ; phuat-tsūaⁿ.
 
 **virgin**, kui-nńg; tshù-nńg; chhim-kui nńg-tsṳ́. *(remaining a virgin for life)*, cheng-nńg. *(remaining a virgin for life, man or woman)*, cheng-thông.
 
@@ -14000,7 +14000,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wheeze**, he; he-siaⁿ; hm̄-hm̄-kiè; âu-thâu kō-kō-kiè.
 
-**when**, tiâng-sî; tî-sî; tî-tiâng-sî; tî-kâi sî-hāu; sĩ-mih sî-hāu. *when David was king*, Tãi-phek tsò-uâng tiâng-sî; Tãi-phek tsò-uâng kâi-sî-hāu. *when he comes we are going*, i lãi ún chiũ-àiⁿ-khṳ̀. *when....then*, sûi-sî....sûi-sî; liên-sî....liên-sî. *when you confess I will let you go*, lṳ́ che̍k-ē-jīn uá chiũ-pàng lṳ́-khṳ̀.
+**when**, tiâng-sî; tî-sî; tî-tiâng-sî; tî-kâi sî-hāu; sĩ-mih sî-hāu. *when David was king*, Tãi-phek tsò-uâng tiâng-sî; Tãi-phek tsò-uâng kâi-sî-hāu. *when he comes we are going*, i lâi ún chiũ-àiⁿ-khṳ̀. *when....then*, sûi-sî....sûi-sî; liên-sî....liên-sî. *when you confess I will let you go*, lṳ́ che̍k-ē-jīn uá chiũ-pàng lṳ́-khṳ̀.
 
 *whence*. tshông-tî-kò-lâi; iû-tî-kò-lâi; tõ-tî-kò-lâi.
 
@@ -14033,7 +14033,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **whistle**, *to*, tshùi pûn ki-kû. *a*, ki-kû. *to blow a*, pûn ki-kû.
 
-**white**, pe̍h. *of an egg*, nñg-chhêng; nñg-pe̍h; nñg-phûe. *of the eye*, ma̍k-chiu pe̍h-jîn. *ants*, pe̍h-hiã. *to whitewash*, sueh-pe̍h; hún-pe̍h; sueh-hún-tsúi; sói-hue-tsúi.
+**white**, pe̍h. *of an egg*, nñg-chheng; nñg-pe̍h; nñg-phûe. *of the eye*, ma̍k-chiu pe̍h-jîn. *ants*, pe̍h-hiã. *to whitewash*, sueh-pe̍h; hún-pe̍h; sueh-hún-tsúi; sói-hue-tsúi.
 
 **whitlow**, tsńg-kah-tsu; seⁿ tsóiⁿ-búe-tsu.
 
@@ -14109,7 +14109,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wit**, ki-khá; sim-khiàu méⁿ; ua̍h-phuah; lêng-ki èng-pièn. *frightened out of one's wits*, kiâⁿ-kàu-kông; kiaⁿ-kàu-ngo̍h.
 
-**witch**, thóiⁿ-siàⁿ-phûa; loo̍h-sîn-phûa. *(spiritualist medium)*, tshai-kou-î. *witch-craft*, siâ-su̍t; bû-su̍t; huap-su̍t; iau-su̍t.
+**witch**, thóiⁿ-siàⁿ-phûa; lo̍h-sîn-phûa. *(spiritualist medium)*, tshai-kou-î. *witch-craft*, siâ-su̍t; bû-su̍t; huap-su̍t; iau-su̍t.
 
 **with**, *to carry with one*, tòa-tõ-sin. *talk with you*, kāng-lṳ́ tàⁿ-ūe. *walk with you*, kāng-lṳ́ tsò-pû-kiâⁿ; kiau-lṳ́ tsò-pû-khṳ̀; kah-lṳ́-khṳ̀. *agrees with this*, kāng-chí-kâi siang-ha̍h. *with a pen*, ēng-pit; tsang-pit; chiang-pit; khiâ-pit. *with the hand*, tsang-chhiū. *with respect to*, lũn; lũn-ki̍p; chì-i; tàⁿ-kàu; lũn-kàu.
 
