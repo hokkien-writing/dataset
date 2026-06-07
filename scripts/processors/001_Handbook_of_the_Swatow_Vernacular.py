@@ -9,6 +9,8 @@ from scripts.processors.base import (
     generate_original,
 )
 
+PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
+
 CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf\uf000-\uf8ff\u3000-\u303f\U00020000-\U0002a6df]")
 LINE_RE = re.compile(r"^\s*- \*\*(.+?)\*\*\s*(.*)")
 SEP_RE = re.compile(r"\s*\.\.\.\s*\.\.\.\s*\.\.\.\s*")
@@ -30,11 +32,17 @@ class Processor(BookProcessor):
     def extract_entries(self, text: str, source_name: str) -> list[Entry]:
         entries: list[Entry] = []
         current_section = ""
+        current_page = ""
         last_en_base = ""
         last_en_orig_base = ""
 
         for line in text.split("\n"):
             stripped = line.strip()
+
+            page_m = PAGE_RE.search(stripped)
+            if page_m:
+                current_page = page_m.group(1)
+                continue
 
             if stripped.startswith("#"):
                 current_section = stripped.lstrip("#").strip()
@@ -135,6 +143,7 @@ class Processor(BookProcessor):
                             en=eng_mod,
                             en_orig=eng_orig,
                             source=source_label,
+                            page_num=current_page,
                         )
                     )
             elif len(puj_parts_raw) > 1 and len(chunks) == 1:
@@ -149,6 +158,7 @@ class Processor(BookProcessor):
                             en=eng_mod,
                             en_orig=eng_orig,
                             source=source_label,
+                            page_num=current_page,
                         )
                     )
             else:
@@ -162,6 +172,7 @@ class Processor(BookProcessor):
                             en=eng_mod,
                             en_orig=eng_orig,
                             source=source_label,
+                            page_num=current_page,
                         )
                     )
 

@@ -29,6 +29,7 @@ CSV_FIELDS = [
     "zh_TW",
     "zh_CN",
     "source",
+    "page_num",
 ]
 
 
@@ -108,6 +109,7 @@ def main():
                             entry.zh_TW,
                             entry.zh_CN,
                             entry.source,
+                            entry.page_num,
                         ]
                     )
 

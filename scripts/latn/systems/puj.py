@@ -134,6 +134,7 @@ SYSTEM_NAME = "PUJ"
 def create_latn_norm_mapping() -> PhoneticMapping:
     return PhoneticMapping(
         initial_map={"ts": "ch", "tsh": "chh", "z": "j"},
+        vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
     )
 
 

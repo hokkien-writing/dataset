@@ -24,6 +24,7 @@ class Entry:
     tl_orig: str = ""
     zh_CN: str = ""
     zh_TW: str = ""
+    page_num: str = ""
 
 
 def generate_original(text: str) -> str:

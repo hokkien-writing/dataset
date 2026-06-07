@@ -5,15 +5,28 @@ import re
 from scripts.processors.base import BookProcessor, Entry
 
 LINE_RE = re.compile(r"^\*\*(.+?)\*\*,\s*(.*)")
+PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
+HAN_ANN_RE = re.compile(r"\+\+\(([^)]*)\)\+\+")
+PLAIN_HAN_RE = re.compile(r"\(([\u4E00-\u9FFF\u3400-\u4DBF\U00020000-\U0002EBEF]+)\)")
+COMMA_ANN_SPLIT_RE = re.compile(r"(?<=\)\+\+),\s+(?=\S.*\+\+(?:\(|\+\+))")
+COLON_SPLIT_RE = re.compile(r":\s+")
+_VARIANT_FIX_RE = re.compile(r"~~([^~(]+?)~~\(([^()]+)\)")
+_VARIANT_NOTE_RE = re.compile(r"\s*~~\([^~]+?\)~~\(.+?\)\)\s*")
 
 
 class Processor(BookProcessor):
     def extract_entries(self, text: str, source_name: str) -> list[Entry]:
         entries: list[Entry] = []
         current_section = ""
+        current_page = ""
 
         for line in text.split("\n"):
             stripped = line.strip().rstrip("&c.")
+
+            page_m = PAGE_RE.match(stripped)
+            if page_m:
+                current_page = page_m.group(1)
+                continue
 
             if stripped.startswith("#"):
                 current_section = stripped.lstrip("#").strip()
@@ -79,6 +92,13 @@ class Processor(BookProcessor):
                     if not puj_text or puj_text.startswith("see "):
                         continue
 
+                    while True:
+                        extra_ctx = re.match(r"\*(.+?)\*\s*,\s*(.*)", puj_text)
+                        if not extra_ctx:
+                            break
+                        en = f"{en}, {extra_ctx.group(1).strip()}"
+                        puj_text = extra_ctx.group(2).strip()
+
                     puj_text = puj_text.replace("*", "")
 
                     for puj in puj_text.split(";"):
@@ -90,16 +110,61 @@ class Processor(BookProcessor):
                         ).strip()
                         if not puj:
                             continue
-                        entries.append(
-                            Entry(
-                                han="",
-                                han_orig="",
-                                puj=self.clean(puj),
-                                puj_orig="",
-                                en=self.clean(en),
-                                en_orig="",
-                                source=source_label,
-                            )
-                        )
+
+                        puj = _VARIANT_FIX_RE.sub(r"\2", puj)
+                        puj = _VARIANT_NOTE_RE.sub("", puj).strip()
+                        if not puj:
+                            continue
+
+                        for item in self._split_annotated_items(puj):
+                            self._emit_entry(item, en, source_label, current_page, entries)
 
         return entries
+
+    @staticmethod
+    def _split_annotated_items(puj: str) -> list[str]:
+        if COLON_SPLIT_RE.search(puj) and COMMA_ANN_SPLIT_RE.search(puj):
+            parts = COLON_SPLIT_RE.split(puj, maxsplit=1)
+            items = [parts[0].rstrip(": ")]
+            if len(parts) > 1:
+                items.extend(
+                    s.strip() for s in COMMA_ANN_SPLIT_RE.split(parts[1]) if s.strip()
+                )
+            return items
+
+        if COMMA_ANN_SPLIT_RE.search(puj):
+            return [
+                s.strip() for s in COMMA_ANN_SPLIT_RE.split(puj) if s.strip()
+            ]
+
+        return [puj]
+
+    @staticmethod
+    def _emit_entry(puj: str, en: str, source_label: str, page_num: str, entries: list[Entry]) -> None:
+        han_match = HAN_ANN_RE.search(puj)
+        han = han_match.group(1) if han_match else ""
+
+        if not han:
+            plain = PLAIN_HAN_RE.search(puj)
+            if plain:
+                han = plain.group(1)
+
+        puj = HAN_ANN_RE.sub("", puj).strip()
+        puj = PLAIN_HAN_RE.sub("", puj).strip()
+        puj = re.sub(r"\+\+\+\+", "", puj).strip()
+        puj = puj.rstrip(": ")
+        if not puj:
+            return
+
+        entries.append(
+            Entry(
+                han=han,
+                han_orig=han,
+                puj=BookProcessor.clean(puj),
+                puj_orig="",
+                en=BookProcessor.clean(en),
+                en_orig="",
+                source=source_label,
+                page_num=page_num,
+            )
+        )

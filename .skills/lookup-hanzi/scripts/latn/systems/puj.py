@@ -1,0 +1,126 @@
+from ..config import LatnSystemConfig, PhoneticMapping
+
+
+def create_config() -> LatnSystemConfig:
+    vowels = {
+        "a": "a á à a â ã ā a̍",
+        "e": "e é è e ê ẽ ē e̍",
+        "i": "i í ì i î ĩ ī i̍",
+        "o": "o ó ò o ô õ ō o̍",
+        "u": "u ú ù u û ũ ū u̍",
+        "ur": "ṳ ṳ́ ṳ̀ ṳ ṳ̂ ṳ̃ ṳ̄ ṳ̍",
+        "n": "n ń ǹ n n̂ ñ n̄ n̍",
+        "m": "m ḿ m̀ m m̂ m̃ m̄ m̍",
+        "ua": "ua úa ùa ua ûa ũa ūa u̍a",
+        "uaⁿ": "uaⁿ úaⁿ ùaⁿ uaⁿ ûaⁿ ũaⁿ ūaⁿ u̍aⁿ",
+        "uai": "uai uái uài uai uâi uãi uāi ua̍i",
+        "uan": "uan uán uàn uan uân uãn uān ua̍n",
+        "uang": "uang uáng uàng uang uâng uãng uāng ua̍ng",
+        "ueng": "ueng uéng uèng ueng uêng uẽng uēng ue̍ng",
+    }
+
+    return LatnSystemConfig.from_simple_vowels(
+        name="PUJ",
+        description="Tiê-chiu Pe̍h-ūe-jī romanization system",
+        vowels=vowels,
+        initials=[
+            "tsh",
+            "chh",
+            "ts",
+            "ch",
+            "ph",
+            "th",
+            "kh",
+            "ng",
+            "p",
+            "b",
+            "m",
+            "t",
+            "n",
+            "l",
+            "k",
+            "g",
+            "h",
+            "s",
+            "j",
+            "z",
+        ],
+        nasal_endings=["m", "n", "ng"],
+        entering_endings=["p", "t", "k", "h"],
+        tone_mark_priority=[
+            "uai",
+            "uan",
+            "uang",
+            "uaⁿ",
+            "ua",
+            "ueng",
+            "a",
+            "o",
+            "ur",
+            "u",
+            "e",
+            "i",
+            "n",
+            "m",
+        ],
+        entering_tone_mark_before_ending=True,
+        vowel_initial_overrides={
+            "au1": "au",
+            "au2": "aú",
+            "au3": "aù",
+            "au4": "au",
+            "au5": "aû",
+            "au6": "aũ",
+            "au7": "aū",
+            "au8": "au̍",
+            "ua1": "ua",
+            "ua2": "uá",
+            "ua3": "uà",
+            "ua4": "ua",
+            "ua5": "uâ",
+            "ua6": "uã",
+            "ua7": "uā",
+            "ua8": "ua̍",
+            "ue1": "ue",
+            "ue2": "ué",
+            "ue3": "uè",
+            "ue4": "ue",
+            "ue5": "uê",
+            "ue6": "uẽ",
+            "ue7": "uē",
+            "ue8": "ue̍",
+            "uaⁿ1": "uaⁿ",
+            "uaⁿ2": "uáⁿ",
+            "uaⁿ3": "uàⁿ",
+            "uaⁿ4": "uaⁿ",
+            "uaⁿ5": "uâⁿ",
+            "uaⁿ6": "uãⁿ",
+            "uaⁿ7": "uāⁿ",
+            "uaⁿ8": "ua̍ⁿ",
+        },
+        syllable_mappings={"ⁿ": "nn"},
+    )
+
+
+SYSTEM_NAME = "PUJ"
+
+
+def create_latn_norm_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={"ts": "ch", "tsh": "chh", "z": "j"},
+        vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+    )
+
+
+def create_reverse_mapping() -> PhoneticMapping:
+    return PhoneticMapping(
+        initial_map={
+            "ch": lambda init, vowel: "ch"
+            if vowel and vowel[0] in ("i", "e")
+            else "ts",
+            "chh": lambda init, vowel: "chh"
+            if vowel and vowel[0] in ("i", "e")
+            else "tsh",
+            "j": lambda init, vowel: "j" if vowel and vowel[0] in ("i", "e") else "z",
+        },
+    )
