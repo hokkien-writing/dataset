@@ -1,4 +1,9 @@
-<!-- page:10 -->
+<!-- page:1 -->
+<!-- page:2 -->
+<!-- page:3 -->
+<!-- page:4 -->
+<!-- page:5 -->
+<!-- page:6 -->
 
 # FIRST LESSONS IN THE TIE-CHIW DIALECT
 
@@ -10,7 +15,7 @@ BANKOK: SIAM.
 
 1841\.
 
-<!-- page:12 -->
+<!-- page:10 -->
 
 ## PREFACE.
 
@@ -32,9 +37,48 @@ W. D.
 
 *Bankok.* *Dec.* 1841.
 
-<!-- page:14 -->
+<!-- page:11 -->
+<!-- page:12 -->
 
-<!-- page:15 -->
+## CONTENTS.
+
+|  | Page |
+|----------|------:|
+| Numerals | 3 |
+| Words and Phrases | 5 |
+| The Heavens | 16 |
+| The Earth | 16 |
+| Points of the Compass | 18 |
+| Members of the Body | 18 |
+| The Mind | 22 |
+| Diseases | 26 |
+| Family Relations | 28 |
+| Classes of Men | 29 |
+| Buildings | 30 |
+| House Furniture | 31 |
+| Writing Utensils | 32 |
+| Farming Utensils | 33 |
+| Boating | „ |
+| Printing | 34 |
+| Forms of Characters | 34 |
+| Chinese Books | 34 |
+| Animals | 35 |
+| Birds | 35 |
+| Reptiles and Insects | 36 |
+| Metals | 37 |
+| Trees & Fruits | 37 |
+| Vegetables | 38 |
+| Articles of Food | „ |
+| Time | 39 |
+| Dress | 40 |
+| Numeral Affixes | 41 |
+| Days of the Month | 47 |
+| The Seasons | 47 |
+| Watches | 47 |
+| Months of the Year | 48 |
+| Days of the Week | 48 |
+
+<!-- page:13 -->
 
 ## VOWEL SOUNDS.
 
@@ -59,7 +103,7 @@ aou | as ou in plough, our, sour. |
 | gn | at the beginning of a syllable much as ng at the end. |
 | mʼ | an incomplete sound formed by closing the lips and uttering it through the nose. |
 
-<!-- page:16 -->
+<!-- page:14 -->
 
 ## NUMERALS.
 
@@ -105,7 +149,7 @@ aou | as ou in plough, our, sour. |
 | XIX | 十九 | Chap kaou |
 | XX | 二十 | Ji chap |
 
-<!-- page:17 -->
+<!-- page:15 -->
 
 ## ORDINALS.
 
@@ -151,7 +195,7 @@ aou | as ou in plough, our, sour. |
 | Eight | 捌 | Poĭ |
 | Nine | 玖 | Kaou |
 
-<!-- page:18 -->
+<!-- page:16 -->
 
 ## WORDS AND PHRASES.
 
@@ -206,7 +250,7 @@ aou | as ou in plough, our, sour. |
 | You | 爾 | Lur |
 | Year | 年 | Ni |
 
-<!-- page:19 -->
+<!-- page:17 -->
 
 |  |  |  |
 |---|---|---|
@@ -231,7 +275,7 @@ aou | as ou in plough, our, sour. |
 | Can you read | 爾識字麽 | Lur pat ji,mĕ |
 | Call the boys | 喊亞孥子 | Ham a-nou-kia |
 
-<!-- page:20 -->
+<!-- page:18 -->
 
 |  |  |  |
 |---|---|---|
@@ -256,7 +300,7 @@ aou | as ou in plough, our, sour. |
 | Don't touch that | 勿摸彼物 | Mai mong hur muĕ |
 | Don't come here again | 下日勿再來止 | E-jit mai chai lai chi |
 
-<!-- page:21 -->
+<!-- page:19 -->
 
 |  |  |  |
 |---|---|---|
@@ -281,7 +325,7 @@ aou | as ou in plough, our, sour. |
 | Feel of this | 摸只箇物 | Mong chi kai muĕ |
 | Fry some pork | 焙猪肉 | Pue tur bă |
 
-<!-- page:22 -->
+<!-- page:20 -->
 
 |  |  |  |
 |---|---|---|
@@ -306,7 +350,7 @@ aou | as ou in plough, our, sour. |
 | He did not come to-day | 今日伊無來 | Kim-jit i baw lai |
 | He cares for nobody | 伊不畏人 | I mʼui nang |
 
-<!-- page:23 -->
+<!-- page:21 -->
 
 |  |  |  |
 |---|---|---|
@@ -331,7 +375,7 @@ aou | as ou in plough, our, sour. |
 | Kneel down | 脆落去 | Kui lŏ khur |
 | Keep this safely | 此物掌好 | Chi muĕ chie haw |
 
-<!-- page:24 -->
+<!-- page:22 -->
 
 |  |  |  |
 |---|---|---|
@@ -356,7 +400,7 @@ aou | as ou in plough, our, sour. |
 | One spoon is missing | 湯匙一枝不見 | Tung-si chek ki mʼkien |
 | Only one true God | 獨一眞神 | Tok it chin sin |
 
-<!-- page:25 -->
+<!-- page:23 -->
 
 |  |  |  |
 |---|---|---|
@@ -381,7 +425,7 @@ aou | as ou in plough, our, sour. |
 | This is good for nothing | 此無用 | Chi baw eng |
 | This cloth is wet | 此布有濕 | Chi pou,u tam |
 
-<!-- page:26 -->
+<!-- page:24 -->
 
 |  |  |  |
 |---|---|---|
@@ -406,7 +450,7 @@ aou | as ou in plough, our, sour. |
 | Who can tell | 誰個能講 | Ti-tiang oi kong |
 | Where has he gone | 伊去值處 | I khur ti-taw |
 
-<!-- page:27 -->
+<!-- page:25 -->
 
 |  |  |  |
 |---|---|---|
@@ -431,7 +475,7 @@ aou | as ou in plough, our, sour. |
 | Yesterday was a feast day | 昨日做節 | Cha-jit chaw choĭ |
 | You can't trust him | 爾不可相信伊 | Lur mʼhaw siang-sin i |
 
-<!-- page:28 -->
+<!-- page:26 -->
 
 |  |  |  |
 |---|---|---|
@@ -456,7 +500,7 @@ aou | as ou in plough, our, sour. |
 | Your end is near | 爾死日將近 | Lut si-jit chiang kurn |
 | You will not repent | 爾不肯悔攺 | Lur mʼkheng huey koi |
 
-<!-- page:29 -->
+<!-- page:27 -->
 
 |  |  |  |
 |---|---|---|
@@ -499,7 +543,7 @@ aou | as ou in plough, our, sour. |
 | Canton | 州 | Chiw |
 | Village | 縣 | Kui |
 
-<!-- page:30 -->
+<!-- page:28 -->
 
 |  |  |  |
 |---|---|---|
@@ -522,7 +566,7 @@ aou | as ou in plough, our, sour. |
 | A large territory | 地方濶 | Ti-hng kuă |
 | A small village | 小縣 | Soi kui |
 
-<!-- page:31 -->
+<!-- page:29 -->
 
 ## POINTS OF THE COMPASS.
 
@@ -570,7 +614,7 @@ aou | as ou in plough, our, sour. |
 | Temple | 𩯭邊 | Pin pi |
 | Hair | 頭毛 | Taou maw |
 
-<!-- page:32 -->
+<!-- page:30 -->
 
 |  |  |  |
 |---|---|---|
@@ -592,7 +636,7 @@ aou | as ou in plough, our, sour. |
 | Shave the head | 剃頭 | Thi taou |
 | Comb the head | 梳頭 | Siw taou |
 
-<!-- page:33 -->
+<!-- page:31 -->
 
 |  |  |  |
 |---|---|---|
@@ -637,7 +681,7 @@ aou | as ou in plough, our, sour. |
 | Heel | 脚後躓 | Kha ow tey |
 | Toes | 脚指 | Kha choi |
 
-<!-- page:34 -->
+<!-- page:32 -->
 
 |  |  |  |
 |---|---|---|
@@ -662,7 +706,7 @@ aou | as ou in plough, our, sour. |
 | He is always busy | 脚手無時歇 | Kha chiw baw si hiă |
 | How long has your foot been sore | 爾脚痛若久 | Lur kha thia jiĕ ku |
 
-<!-- page:35 -->
+<!-- page:33 -->
 
 ## THE MIND &c.
 
@@ -707,7 +751,7 @@ aou | as ou in plough, our, sour. |
 | Jealousy | 疑惑 | Gi hok |
 | Compassion | 慈悲 | Chur p |
 
-<!-- page:36 -->
+<!-- page:34 -->
 
 |  |  |  |
 |---|---|---|
@@ -800,7 +844,7 @@ aou | as ou in plough, our, sour. |
 | He is constantly doing thus | 常常伊行如此 | Sie sie i kia chiĕ say |
 | Zealous in propagating the truth | 熱心傳眞道理 | Juă sim tuan chin taw li |
 
-<!-- page:39 -->
+<!-- page:37 -->
 
 ## DISEASES &c.
 
@@ -845,7 +889,7 @@ aou | as ou in plough, our, sour. |
 | Sigh | 偷氣 | Taou kui |
 | Yawn | 叱噓 | Huă hi |
 
-<!-- page:40 -->
+<!-- page:38 -->
 
 |  |  |  |
 |---|---|---|
@@ -1096,7 +1140,7 @@ aou | as ou in plough, our, sour. |
 | Clearance | 大字 | Toa ji |
 | Treaty | 𥂀約 | Meng iĕ |
 
-<!-- page:46 -->
+<!-- page:44 -->
 
 ## FARMING UTENSILS, &c.
 
@@ -1142,7 +1186,7 @@ aou | as ou in plough, our, sour. |
 | Repair the boat | 收船 | Siw chun |
 | Lock the boat | 鎖~~丨~~(船) | Saw chun |
 
-<!-- page:47 -->
+<!-- page:45 -->
 
 ## PRINTING OFFICE.
 
@@ -1196,7 +1240,7 @@ aou | as ou in plough, our, sour. |
 | Golden medium | 中庸 | Tong-yong |
 | Filial piety | 孝經 | Haou-kia |
 
-<!-- page:48 -->
+<!-- page:46 -->
 
 ## ANIMALS &c.
 
@@ -1246,7 +1290,7 @@ aou | as ou in plough, our, sour. |
 | Owl | 貓頭鳥 | Gñiou taou chiou |
 | Parrot | 鸚𤔄 | Eng kaw |
 
-<!-- page:49 -->
+<!-- page:47 -->
 
 ## REPTILES & INSECTS.
 
@@ -1291,7 +1335,7 @@ aou | as ou in plough, our, sour. |
 | Cricket | 草蟀 | Chaou sut |
 | White ant | 白蟻 | Pĕ hia |
 
-<!-- page:50 -->
+<!-- page:48 -->
 
 ## METALS.
 
@@ -1331,7 +1375,7 @@ aou | as ou in plough, our, sour. |
 | tree | 柑𣜒 | Ka chang |
 | Pomegranate | 石榴~~丨~~(𣜒) | Siĕ liw chang |
 
-<!-- page:51 -->
+<!-- page:49 -->
 
 ## VEGETABLES.
 
@@ -1381,7 +1425,7 @@ aou | as ou in plough, our, sour. |
 | Fish | 魚 | Hŭr |
 | Bread | 麵包 | Mi paou |
 
-<!-- page:52 -->
+<!-- page:50 -->
 
 ## OF TIME.
 
@@ -1427,7 +1471,7 @@ aou | as ou in plough, our, sour. |
 | Presently | 霎時 | Siĕp si |
 | Another day | 下日 | E jit |
 
-<!-- page:53 -->
+<!-- page:51 -->
 
 ## DRESS &c.
 
@@ -1473,7 +1517,7 @@ aou | as ou in plough, our, sour. |
 | Fan | 扇 | Si |
 | Purse | 銀桶 | Gnŭrn tong |
 
-<!-- page:54 -->
+<!-- page:52 -->
 
 ## NUMERAL AFFIXES.
 
@@ -1500,7 +1544,7 @@ aou | as ou in plough, our, sour. |
 | 19 Tables | 十九~~丨~~(隻)床 | chŭng |
 | 20 Boats | 二十~~丨~~(隻)船 | chun |
 
-<!-- page:55 -->
+<!-- page:53 -->
 
 |  |  |  |
 |---|---|---|
@@ -1525,7 +1569,7 @@ aou | as ou in plough, our, sour. |
 | 3 Chests of drawers | 三脚櫃 | kñui |
 | 4 Water pails | 四脚水桶 | chui tang |
 
-<!-- page:56 -->
+<!-- page:54 -->
 
 |  |  |  |
 |---|---|---|
@@ -1550,7 +1594,7 @@ aou | as ou in plough, our, sour. |
 | 5 Sticks of wood | 五~~丨~~(塊)柴 | cha |
 | 6 Biscuits | 六~~丨~~(塊)餅 | pia |
 
-<!-- page:57 -->
+<!-- page:55 -->
 
 |  |  |  |
 |---|---|---|
@@ -1575,7 +1619,7 @@ aou | as ou in plough, our, sour. |
 | 3 Bearing poles | 三~~丨~~(枝)平擔 | poi ta |
 | 4 Bamboos | 四~~丨~~(枝)竹 | tek |
 
-<!-- page:58 -->
+<!-- page:56 -->
 
 |  |  |  |
 |---|---|---|
@@ -1600,7 +1644,7 @@ aou | as ou in plough, our, sour. |
 | 7 Pumeloes | 七~~丨~~(箇)柚 | yiw |
 | 8 Plantains | 八~~丨~~(箇)芎蕉 | keng chie |
 
-<!-- page:59 -->
+<!-- page:57 -->
 
 |  |  |  |
 |---|---|---|
@@ -1624,7 +1668,7 @@ aou | as ou in plough, our, sour. |
 | 1 Sentence | 一句書 | *ku* chŭr |
 | 2 Remarks | 二句話 | wey |
 
-<!-- page:60 -->
+<!-- page:58 -->
 
 ## DAYS OF THE MONTH.
 
@@ -1669,7 +1713,7 @@ aou | as ou in plough, our, sour. |
 | 3 to 5 | 寅 | In |
 | 5 to 7 | 邜 | Baou |
 | 7 to 9 | 辰 | Sin |
-| 9 to 11 | | Chi |
+| 9 to 11 | 已 | Chi |
 | 11 to 1 P.M. | 午 | Gñou |
 | 1 to 3 | 未 | Bi |
 | 3 to 5 | 申 | Sin |
@@ -1677,7 +1721,7 @@ aou | as ou in plough, our, sour. |
 | 7 to 9 | 戌 | Sut |
 | 9 to 11 | 亥 | Hai |
 
-<!-- page:61 -->
+<!-- page:59 -->
 
 ## MONTHS OF THE YEAR.
 
@@ -1706,3 +1750,12 @@ aou | as ou in plough, our, sour. |
 | Thursday | 拜四 | Pai si |
 | Friday | 拜五 | Pai gñou |
 | Saturday | 拜六 | Pai lak |
+
+<!-- page:60 -->
+<!-- page:61 -->
+<!-- page:62 -->
+<!-- page:63 -->
+<!-- page:64 -->
+<!-- page:65 -->
+<!-- page:66 -->
+<!-- page:67 -->
