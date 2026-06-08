@@ -8,7 +8,7 @@ By W. DEAN.
 
 BANKOK: SIAM.
 
-1841.
+1841\.
 
 <!-- page:12 -->
 
@@ -38,30 +38,26 @@ W. D.
 
 ## VOWEL SOUNDS.
 
-|  |  |  |
-|---|---|---|
-| a | as in | far, father, balm, calm. |
-| ă | as in | quota, America, (pronounced abruptly.) |
-| ai | as in | aisle; or ie in tie, lie. |
-| aw | as in | law, saw, claw. |
-aou | as ou in plough, our, sour.
-|  |  |  |
-|---|---|---|
-| e | as in | they, or a in say, play. |
-| ĕ | as in | let, peck, beck, (abrupt.) |
-| i | as in | police, machine, magazine. |
-| ĭ | as in | pit, quick, tick, (abrupt.) |
-| o | as in | cone, alone, bemoan. |
-| ŏ | as in | lock, stock, (abrupt.) |
-ou | as o in no, so, (prolonged & terminating in the sound of oo half suppressed.)
-|  |  |  |
-|---|---|---|
-| u | as in | rule; or oo in school, boon, loom. |
-| ŭ | as in | urn, turn, burn. |
-u | followed by r pronounced like ŭ, with the r half suppressed.
-u | followed by ng pronounced like ŭ.
-gn | at the beginning of a syllable much as ng at the end.
-mʼ | an incomplete sound formed by closing the lips and uttering it through the nose.
+|  |  |
+|---|---|
+| a | as in far, father, balm, calm. |
+| ă | as in quota, America, (pronounced abruptly.) |
+| ai | as in aisle; or ie in tie, lie. |
+| aw | as in law, saw, claw. |
+aou | as ou in plough, our, sour. |
+| e | as in they, or a in say, play. |
+| ĕ | as in let, peck, beck, (abrupt.) |
+| i | as in police, machine, magazine. |
+| ĭ | as in pit, quick, tick, (abrupt.) |
+| o | as in cone, alone, bemoan. |
+| ŏ | as in lock, stock, (abrupt.) |
+|ou | as o in no, so, (prolonged & terminating in the sound of oo half suppressed.) |
+| u | as in rule; or oo in school, boon, loom. |
+| ŭ | as in urn, turn, burn. |
+| u | followed by r pronounced like ŭ, with the r half suppressed. |
+| u | followed by ng pronounced like ŭ. |
+| gn | at the beginning of a syllable much as ng at the end. |
+| mʼ | an incomplete sound formed by closing the lips and uttering it through the nose. |
 
 <!-- page:16 -->
 
@@ -107,7 +103,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | XVII | 十七 | Chap chĭt |
 | XVIII | 十八 | Chap poĭ |
 | XIX | 十九 | Chap kaou |
-| XX | 二十 | Ji chap
+| XX | 二十 | Ji chap |
 
 <!-- page:17 --> |
 
@@ -153,7 +149,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Six | 陸 | Lak |
 | Seven | 㭍 | Chĭt |
 | Eight | 捌 | Poĭ |
-| Nine | 玖 | Kaou
+| Nine | 玖 | Kaou |
 
 <!-- page:18 --> |
 
@@ -208,7 +204,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Whip | 鞭 | Pni |
 | Wheel | 輪 | Lun |
 | You | 爾 | Lur |
-| Year | 年 | Ni
+| Year | 年 | Ni |
 
 <!-- page:19 --> |
 
@@ -233,7 +229,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Be obedient to your teacher | 孝順先生 | Haou sun sin-sey |
 | Come here | 來止 | Lai chi |
 | Can you read | 爾識字麽 | Lur pat ji,mĕ |
-| Call the boys | 喊亞孥子 | Ham a-nou-kia
+| Call the boys | 喊亞孥子 | Ham a-nou-kia |
 
 <!-- page:20 --> |
 
@@ -1673,9 +1669,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | 3 to 5 | 寅 | In |
 | 5 to 7 | 邜 | Baou |
 | 7 to 9 | 辰 | Sin |
-9 to 11 | Chi
-|  |  |  |
-|---|---|---|
+| 9 to 11 | | Chi |
 | 11 to 1 P.M. | 午 | Gñou |
 | 1 to 3 | 未 | Bi |
 | 3 to 5 | 申 | Sin |
