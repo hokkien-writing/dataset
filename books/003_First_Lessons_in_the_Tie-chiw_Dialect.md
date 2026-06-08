@@ -61,7 +61,9 @@ ou | as o in no, so, (prolonged & terminating in the sound of oo half suppressed
 u | followed by r pronounced like ŭ, with the r half suppressed.
 u | followed by ng pronounced like ŭ.
 gn | at the beginning of a syllable much as ng at the end.
-mʼ | an incomplete sound formed by closing the lips and uttering it through the nose.<!-- page:16 -->
+mʼ | an incomplete sound formed by closing the lips and uttering it through the nose.
+
+<!-- page:16 -->
 
 ## NUMERALS.
 
@@ -105,7 +107,9 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | XVII | 十七 | Chap chĭt |
 | XVIII | 十八 | Chap poĭ |
 | XIX | 十九 | Chap kaou |
-| XX | 二十 | Ji chap<!-- page:17 --> |
+| XX | 二十 | Ji chap
+
+<!-- page:17 --> |
 
 ## ORDINALS.
 
@@ -149,7 +153,9 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Six | 陸 | Lak |
 | Seven | 㭍 | Chĭt |
 | Eight | 捌 | Poĭ |
-| Nine | 玖 | Kaou<!-- page:18 --> |
+| Nine | 玖 | Kaou
+
+<!-- page:18 --> |
 
 ## WORDS AND PHRASES.
 
@@ -202,7 +208,9 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Whip | 鞭 | Pni |
 | Wheel | 輪 | Lun |
 | You | 爾 | Lur |
-| Year | 年 | Ni<!-- page:19 --> |
+| Year | 年 | Ni
+
+<!-- page:19 --> |
 
 |  |  |  |
 |---|---|---|
@@ -225,7 +233,9 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Be obedient to your teacher | 孝順先生 | Haou sun sin-sey |
 | Come here | 來止 | Lai chi |
 | Can you read | 爾識字麽 | Lur pat ji,mĕ |
-| Call the boys | 喊亞孥子 | Ham a-nou-kia<!-- page:20 --> |
+| Call the boys | 喊亞孥子 | Ham a-nou-kia
+
+<!-- page:20 --> |
 
 |  |  |  |
 |---|---|---|
@@ -1106,7 +1116,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Boat cover | 弓蓬 | Keng pang |
 | The boat leaks | 船漏 | Chun laou |
 | Repair the boat | 收船 | Siw chun |
-| Lock the boat | 鎖丨 | Saw chun |
+| Lock the boat | 鎖~~丨~~(船) | Saw chun |
 
 <!-- page:47 -->
 
@@ -1248,8 +1258,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Iron | 鐵 | Tĭ |
 | Copper | 銅 | Tang |
 | White copper | 白銅 | Pĕ tang |
-| Brass | 黃丨 | Ng tang |
-| Copper | 紅丨 | Ang tang |
+| Brass | 黃~~丨~~(銅) | Ng tang |
+| Copper | 紅~~丨~~(銅) | Ang tang |
 | Steel | 鋼 | Kŭng |
 | Tin | 白鐵 | Pĕ tĭ |
 | Tree | 樹 | Chiw |
@@ -1267,7 +1277,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Pulp | 菓子肉 | Kuey chi nĕk |
 | Seed | 核 | Hut |
 | tree | 柑𣜒 | Ka chang |
-Pomegranate | 石榴丨
+| Pomegranate | 石榴~~丨~~(𣜒) | Siĕ liw chang |
 
 <!-- page:51 -->
 
@@ -1363,19 +1373,19 @@ Pomegranate | 石榴丨
 | Clothes | 衣服 | I hok |
 | Crown | 皇帝帽 | Hwang ti baw |
 | Hat | 㡌 | Baw |
-| Cap | 丨子 | Baw kia |
+| Cap | ~~丨~~(㡌)子 | Baw kia |
 | Turban | 頭布 | Taou pou |
 | Jacket | 衫 | Sa |
 | Pantaloons | 褲 | Khou |
 | Vest | 甲子 | Kă kia |
 | Stockings | 襪 | Boĕ |
 | Shirt | 身底衫 | Sin toi sa |
-| Gown | 大領丨 | Toa nia sa |
+| Gown | 大領~~丨~~(衫) | Toa nia sa |
 | Apron | 圍腰布 | Ui ie pou |
 | Cloak | 風𧜞 | Huang moa |
 | Girdle | 褲頭帶 | Khou taou toa |
 | Button | 鈕 | Niw |
-| Button hole | 丨𦕎 | Niw pan |
+| Button hole | ~~丨~~(鈕)𦕎 | Niw pan |
 | Comb | 梳 | Siw |
 | Hair pin | 如意 | Ju i |
 | Anklets | 脚𤨔 | Ka hwan |
@@ -1405,25 +1415,25 @@ Pomegranate | 石榴丨
 |  |  |  |
 |---|---|---|
 | 1 Thread | 一條線 | *tiou* sua |
-| 2 Braids | 三丨辮 | pi |
-| 3 Bathing cloths | 三丨浴布 | ĕk pou |
-| 4 Turbans | 四丨頭布 | taou pou |
-| 5 Cravats | 五丨封領 | huang nia |
-| 6 Bands | 六丨帶 | toa |
-| 7 Towels | 七丨面巾 | min kŭrn |
-| 8 Handkerchiefs | 八丨手巾 | chiw kŭrn |
-| 9 Hairs | 九丨頭毛 | taou maw |
-| 10 Ropes | 十丨䌇 | sŏ |
+| 2 Braids | 三~~丨~~(條)辮 | pi |
+| 3 Bathing cloths | 三~~丨~~(條)浴布 | ĕk pou |
+| 4 Turbans | 四~~丨~~(條)頭布 | taou pou |
+| 5 Cravats | 五~~丨~~(條)封領 | huang nia |
+| 6 Bands | 六~~丨~~(條)帶 | toa |
+| 7 Towels | 七~~丨~~(條)面巾 | min kŭrn |
+| 8 Handkerchiefs | 八~~丨~~(條)手巾 | chiw kŭrn |
+| 9 Hairs | 九~~丨~~(條)頭毛 | taou maw |
+| 10 Ropes | 十~~丨~~(條)䌇 | sŏ |
 | 11 Fowls | 十一隻雞 | *chiă* koi |
-| 12 Ducks | 十二丨鴨 | ăh |
-| 13 Geese | 十三丨鵝 | gaw |
-| 14 Dogs | 十四丨狗 | kaou |
-| 15 Goats | 十五丨羊 | ie |
-| 16 Pigs | 十六丨猪 | tŭr |
-| 17 Cows | 十七丨牛 | gu |
-| 18 Chairs | 十八丨𬃪 | ì |
-| 19 Tables | 十九丨床 | chŭng |
-| 20 Boats | 二十丨船 | chun |
+| 12 Ducks | 十二~~丨~~(隻)鴨 | ăh |
+| 13 Geese | 十三~~丨~~(隻)鵝 | gaw |
+| 14 Dogs | 十四~~丨~~(隻)狗 | kaou |
+| 15 Goats | 十五~~丨~~(隻)羊 | ie |
+| 16 Pigs | 十六~~丨~~(隻)猪 | tŭr |
+| 17 Cows | 十七~~丨~~(隻)牛 | gu |
+| 18 Chairs | 十八~~丨~~(隻)𬃪 | ì |
+| 19 Tables | 十九~~丨~~(隻)床 | chŭng |
+| 20 Boats | 二十~~丨~~(隻)船 | chun |
 
 <!-- page:55 -->
 
@@ -1435,16 +1445,16 @@ Pomegranate | 石榴丨
 | 24 Gowns | 二四領袍 | kaou |
 | 25 Curtains | 二五領虻帳 | mang ta |
 | 26 Mats | 二六領草蓆 | chaou chiĕ |
-| 27 Bamboo | 二七領竹丨 | tek chiĕ |
-| 28 | 二八領籐丨 | tin chiĕ |
+| 27 Bamboo | 二七領竹~~丨~~(蓆) | tek chiĕ |
+| 28 | 二八領籐~~丨~~(蓆) | tin chiĕ |
 | 29 | 二九領京捫蓆 | kia bun chiĕ |
 | 30 Rain jackets | 三十領棕蓑 | chang sui |
 | 1 Close cap | 一頂紗㡌 | *teng* sey baw |
-| 2 Satin caps | 二頂縀丨 | tŭng baw |
-| 3 Felt hats | 三頂毡丨 | chi baw |
+| 2 Satin caps | 二頂縀~~丨~~(㡌) | tŭng baw |
+| 3 Felt hats | 三頂毡~~丨~~(㡌) | chi baw |
 | 4 Tassel'd caps | 四頂纓㡌 | eng baw |
 | 5 Straw hats | 五頂草㡌 | chaou baw |
-| 6 Bamboo hats | 六丨葵笠 | kuey loĭ |
+| 6 Bamboo hats | 六~~丨~~(頂)葵笠 | kuey loĭ |
 | 1 Trunk | 一脚箱 | *kʼha* sie |
 | 2 Baskets | 二脚囊 | lang |
 | 3 Chests of drawers | 三脚櫃 | kñui |
@@ -1455,50 +1465,50 @@ Pomegranate | 石榴丨
 |  |  |  |
 |---|---|---|
 | 1  of shoes | 一䨇𩋘 | *sang* oi |
-| 2  of socks | 二丨襪 | buĕ |
-| 3  of feet | 三丨脚 | kʼha |
-| 4  of hands | 四丨手 | chiw |
-| 5  of eyes | 五丨目 | măk |
-| 6  of ears | 六丨耳 | hñi |
-| 7  of chop sticks | 七丨著 | tŭr |
+| 2  of socks | 二~~丨~~(䨇)襪 | buĕ |
+| 3  of feet | 三~~丨~~(䨇)脚 | kʼha |
+| 4  of hands | 四~~丨~~(䨇)手 | chiw |
+| 5  of eyes | 五~~丨~~(䨇)目 | măk |
+| 6  of ears | 六~~丨~~(䨇)耳 | hñi |
+| 7  of chop sticks | 七~~丨~~(䨇)著 | tŭr |
 | 1  of ornamental papers | 一對對聯 | *tui* tui lien |
 | 2  of ear rings | 二對耳𤨔 | hñi huan |
-| 3  of bracelets | 三對手丨 | chiw huan |
-| 4  of door handles | 四對門丨 | mŭng huan |
+| 3  of bracelets | 三對手~~丨~~(𤨔) | chiw huan |
+| 4  of door handles | 四對門~~丨~~(𤨔) | mŭng huan |
 | 1 Paper of tea | 一包茶米 | *paou* tey bi |
-| 2 Papers of medicine | 二丨藥 | iĕ |
-| 3 Paper of sugar | 三丨白糖 | pĕ tŭng |
+| 2 Papers of medicine | 二~~丨~~(包)藥 | iĕ |
+| 3 Paper of sugar | 三~~丨~~(包)白糖 | pĕ tŭng |
 | 1 Brick | 一塊磚 | *kaw* chŭng |
-| 2 Stones | 二丨石 | chiĕ |
-| 3 Tiles | 三丨瓦 | hia |
-| 4 Lumps of earth | 四丨塗 | tou |
-| 5 Sticks of wood | 五丨柴 | cha |
-| 6 Biscuits | 六丨餅 | pia |
+| 2 Stones | 二~~丨~~(塊)石 | chiĕ |
+| 3 Tiles | 三~~丨~~(塊)瓦 | hia |
+| 4 Lumps of earth | 四~~丨~~(塊)塗 | tou |
+| 5 Sticks of wood | 五~~丨~~(塊)柴 | cha |
+| 6 Biscuits | 六~~丨~~(塊)餅 | pia |
 
 <!-- page:57 -->
 
 |  |  |  |
 |---|---|---|
 | 7 Boards | 七塊枋 | *kaw* pang |
-| 8 Cakes | 八丨粿 | kuey |
-| 9 Pieces of pork | 九丨猪肉 | tŭr bă |
+| 8 Cakes | 八~~丨~~(塊)粿 | kuey |
+| 9 Pieces of pork | 九~~丨~~(塊)猪肉 | tŭr bă |
 | 1 Button | 一粒鈕 | *liĕp* niw |
-| 2 Grains of rice | 二丨米 | bi |
-| 3 Mangoes | 三丨榱 | sñuai |
-| 4 Beans | 四丨荳 | taou |
-| 5 Pearls | 五丨珠 | chu |
-| 6 Onions | 六丨葱頭 | chang taou |
-| 7 Chillies | 七丨辣椒 | hĭem chie |
-| 8 Peppers | 八丨楜椒 | hou chie |
-| 9 Pills | 九丨藥丸 | iĕ i |
+| 2 Grains of rice | 二~~丨~~(粒)米 | bi |
+| 3 Mangoes | 三~~丨~~(粒)榱 | sñuai |
+| 4 Beans | 四~~丨~~(粒)荳 | taou |
+| 5 Pearls | 五~~丨~~(粒)珠 | chu |
+| 6 Onions | 六~~丨~~(粒)葱頭 | chang taou |
+| 7 Chillies | 七~~丨~~(粒)辣椒 | hĭem chie |
+| 8 Peppers | 八~~丨~~(粒)楜椒 | hou chie |
+| 9 Pills | 九~~丨~~(粒)藥丸 | iĕ i |
 | 1 Bundle of chopsticks | 一把著 | *pèy* tŭr |
-| 2 Bundles of sugar cane | 二丨樜 | chia |
-| 3 Handfuls of rice | 三丨米 | bi |
+| 2 Bundles of sugar cane | 二~~丨~~(把)樜 | chia |
+| 3 Handfuls of rice | 三~~丨~~(把)米 | bi |
 | 1 Piece of cloth | 一疋布 | *pĭt* pou |
 | 1 Umbrella | 一枝雨傘 | *ki* hou sua |
-| 2 Chattas | 二丨凉傘 | ney sua |
-| 3 Bearing poles | 三丨平擔 | poi ta |
-| 4 Bamboos | 四丨竹 | tek |
+| 2 Chattas | 二~~丨~~(枝)凉傘 | ney sua |
+| 3 Bearing poles | 三~~丨~~(枝)平擔 | poi ta |
+| 4 Bamboos | 四~~丨~~(枝)竹 | tek |
 
 <!-- page:58 -->
 
@@ -1517,13 +1527,13 @@ Pomegranate | 石榴丨
 | 1 Roll of cloth | 一捆布 | *kʼhun* pou |
 | 2 Rolls of mats | 二捆草蓆 | chaou chiĕ |
 | 1 Ink stand | 一箇硯 | *kai* i |
-| 2 Pencil stands | 二丨筆架 | pĭt key |
-| 3 Writing trays | 三丨丨盤 | pĭt poa |
-| 4 Water cups | 四丨水碟 | chui tĭ |
-| 5 Pencil cases | 五丨筆套 | pĭt tap |
-| 6 Oranges | 六丨柑 | ka |
-| 7 Pumeloes | 七丨柚 | yiw |
-| 8 Plantains | 八丨芎蕉 | keng chie |
+| 2 Pencil stands | 二~~丨~~(箇)筆架 | pĭt key |
+| 3 Writing trays | 三~~丨~~(箇)~~丨~~(筆)盤 | pĭt poa |
+| 4 Water cups | 四~~丨~~(箇)水碟 | chui tĭ |
+| 5 Pencil cases | 五~~丨~~(箇)筆套 | pĭt tap |
+| 6 Oranges | 六~~丨~~(箇)柑 | ka |
+| 7 Pumeloes | 七~~丨~~(箇)柚 | yiw |
+| 8 Plantains | 八~~丨~~(箇)芎蕉 | keng chie |
 
 <!-- page:59 -->
 
