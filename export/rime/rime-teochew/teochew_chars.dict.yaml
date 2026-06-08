@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: teochew_chars
-version: "20260607.235859"
+version: "20260608.075912"
 sort: by_weight
 ...
 
@@ -4654,7 +4654,7 @@ sort: by_weight
 鉏	chur5	100
 字	chur6	100
 筯	chur6	100
-自	chur6	239
+自	chur6	240
 嗻	churh8	54
 塼	churng1	52
 指	churng1	51
@@ -11925,7 +11925,7 @@ sort: by_weight
 剞	ki2	100
 妓	ki2	100
 屺	ki2	55
-己	ki2	119
+己	ki2	120
 幾	ki2	106
 庋	ki2	55
 技	ki2	100
@@ -15552,12 +15552,12 @@ sort: by_weight
 𡚸	m2	100
 唔	m5	100
 不	m6	101
-唔	m6	295
+唔	m6	110
 嘸	m6	55
-毋	m6	381
+毋	m6	158
 不	m7	100
-唔	m7	844
-毋	m7	894
+唔	m7	1067
+毋	m7	1117
 莓	m7	100
 嗎	ma1	55
 嘛	ma1	55
@@ -21368,7 +21368,7 @@ sort: by_weight
 鰼	sik8	50
 㾕	sim1	100
 參	sim1	51
-心	sim1	674
+心	sim1	675
 忄	sim1	100
 新	sim1	104
 森	sim1	102
@@ -26321,7 +26321,7 @@ s	sur7	101
 韋	ui5	106
 䰎	ui6	100
 喟	ui6	100
-爲	ui6	111
+爲	ui6	112
 衛	ui6	100
 衞	ui6	100
 謂	ui6	112

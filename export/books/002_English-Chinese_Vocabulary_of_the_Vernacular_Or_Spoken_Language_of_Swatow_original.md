@@ -11317,7 +11317,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **self**, ka-kī; tsṳ̃-kí; pńg-sin; chhin-sin. *self-examination*, tsṳ̃-séng; tsṳ̃-sṳ; tsṳ̃-siẽⁿ; tsṳ̃-tshat; tsṳ̃-mn̄g; tsṳ̃-àn; séⁿ-tshat ka-kī; mn̄g-sim chẽⁿ-àn. *self-satisfied*, tsṳ̃-tsok. *self-conceit*, tsṳ̃-múaⁿ; tsṳ̃-sĩ. *injure oneself*, tshâng-hāi ka-kī; tsṳ̃-pãu; tsṳ̃-khì; tsṳ̃-tshú khî-hũa.
 
-**selfish**, sṳ-sim; tsṳ̃-sim ũi-kí+(利己)(顧己)(濟公無私)(待人如己)(厚人薄己)++.
+**selfish**, sṳ-sim; tsṳ̃-sim ũi-kí; lĩ-kí; kù-kí. *unselfish*, chì-kong bô-sṳ; thãi-nâng zû-kí; kãu-nâng po̍h-kí.
 
 **sell**, bōi; phùaⁿ. *rice*, thiè-chhek; thiè-bí. *on credit*, chhia-bōi. *for ready money*, hīn-bōi; hīn-chîⁿ kau-kuan. *by weight*, lũn-kṳn-bōi. *by auction*, khà-lõi-lang; khà-lang.
 
@@ -13660,7 +13660,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **vat**, tōa-tháng. *for indigo*, chheⁿ-tháng.
 
-**vault**, *the vault of heaven*, chheⁿ-thiⁿ; thiⁿ uan-keng uan-keng+(穹蒼)(蒼穹)(地室)(弓彎門)++.
+**vault**, *the vault of heaven*, chheⁿ-thiⁿ; thiⁿ uan-keng uan-keng. *the vault of heaven (reading)*, khiong-tshan; tshan-khiong. *an underground*, tī-sit. *vaulted*, keng-uan-mn̂g.
 
 **vault**, *to*, thiàu-lêng-mn̂g.
 

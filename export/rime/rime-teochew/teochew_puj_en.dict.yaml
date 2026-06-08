@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_puj_en
-version: "20260607.235859"
+version: "20260608.075912"
 sort: by_weight
 ...
 
@@ -197,7 +197,7 @@ thôu-thâu	absurd	50
 偶然 (ngóu-jiên)	accident	100
 驟然 (tsõu-jiên)	accident-accidental	100
 偶然 (ngóu-jiên)	accident-accidental	100
-毋知頭 (m̃-tsai-thâu)	accidentally	100
+毋知頭 (m̄-tsai-thâu)	accidentally	100
 陂咯斜 (pho-lo-sia)	acclivity	100
 山崎崎 (suaⁿ kiã-kiã)	acclivity	100
 從權 (tshông-khuân)	accommodate-oneself-to-others	100
@@ -800,7 +800,6 @@ ka-nn̂g	all-all-at-once	50
 無所不能 (bô-só put-lêng)	almighty	100
 全能 (tshuân-lêng)	almighty	100
 杏仁 (hẽng-jîn)	almond	100
-差毋多 (tsha-m̃-to)	almost	100
 差毋多 (tsha-m̄-to)	almost	100
 差不多 (tsha-put-to)	almost	100
 將近 (chiang-kṳ̃n)	almost	100
@@ -1261,7 +1260,6 @@ tṳ̂	annoy	50
 想食 (siẽⁿ-chia̍h)	appetite	100
 肚枵思食 (tóu iau sṳ-chia̍h)	appetite	100
 袂食 (bõi-chia̍h)	appetite-no	100
-食毋落 (chia̍h-m̃-lo̍h)	appetite-no	100
 食毋落 (chia̍h-m̄-lo̍h)	appetite-no	100
 胃口毋開 (ūi-kháu m̄-khui)	appetite-no	100
 胃口塞 (ūi-kháu sat)	appetite-no	100
@@ -1362,10 +1360,10 @@ uân-mn̂g	arch-arched-door	50
 性情緊急 (sèⁿ-chhêng kín-kip)	ardent	100
 心性迫 (sim-sèⁿ pek)	ardent	100
 彼些个是咩 (hṳ́-chùaⁿ-kâi sĩ--mē?)	are-those-them	100
-汝是傳道理个人亞毋是 (lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̃-sĩ?)	are-you-a-preacher	100
-汝是天主教亞毋是 (lṳ́ sĩ thien-tsú-kà a m̃-sĩ?)	are-you-a-Roman-Catholic	100
+汝是傳道理个人亞毋是 (lṳ́ sĩ thuân-tõ-lí--kâi-nâng a m̄-sĩ?)	are-you-a-preacher	100
+汝是天主教亞毋是 (lṳ́ sĩ thien-tsú-kà a m̄-sĩ?)	are-you-a-Roman-Catholic	100
 汝个人會稍絀亞袂 (lṳ́ kâi nâng õi ióu-tsua̍h a-bõi?)	are-you-any-better	100
-汝个人會毋孬亞袂 (lṳ́ kâi nâng õi m̃-móⁿ a-bõi?)	are-you-unwell	100
+汝个人會毋孬亞袂 (lṳ́ kâi nâng õi m̄-móⁿ a-bõi?)	are-you-unwell	100
 場 (tiêⁿ)	area	100
 埕 (tiâⁿ)	area-in-front-of-house	100
 天井 (thien-chéⁿ)	area-inner	100
@@ -1911,8 +1909,8 @@ ie hâu-hâu	backbone-more-slight	50
 熾肉 (chit-ne̍k)	bacon	100
 火肉 (húe-ne̍k)	bacon	100
 惡 (ak)	bad	100
-毋孬 (m̃-móⁿ)	bad	100
 毋好 (m̄-hó)	bad	100
+毋孬 (m̄-móⁿ)	bad	100
 痞 (phái)	bad	100
 痞 (pháiⁿ)	bad	100
 aù-nâng	bad-bad-man	50
@@ -1921,7 +1919,7 @@ hó-khiap	bad-good-and-bad	50
 善惡 (siẽn-ak)	bad-good-and-bad	100
 僥心 (hiou-sim)	bad-hearted	100
 糜骹 (mîⁿ-kha)	bad-leg	100
-天時毋孬 (thiⁿ-sî m̃-móⁿ)	bad-weather	100
+天時毋孬 (thiⁿ-sî m̄-móⁿ)	bad-weather	100
 號 (hō)	badge	100
 字號 (jī-hō)	badge	100
 暗號 (àm-hō)	badge-secret	100
@@ -2220,9 +2218,9 @@ tshun-lúi	basket	50
 熊 (hîm)	bear	100
 熊膽 (hîm-táⁿ)	bear-bears-gall	100
 熊掌 (hîm-chiéⁿ)	bear-bears-paw	100
-奈毋去 (nãiⁿ-m̃-khṳ̀)	bear-cannot	100
+奈毋去 (nãiⁿ-m̄-khṳ̀)	bear-cannot	100
 耐毋去 (nãiⁿ-m̄-khṳ̀)	bear-cannot	100
-擋毋條 (tòng-m̃-tiôu)	bear-cannot	100
+擋毋條 (tòng-m̄-tiôu)	bear-cannot	100
 擔 (taⁿ)	bear-carry	100
 降 (kàng)	bear-children	100
 邀 (kiau)	bear-children	100
@@ -2957,7 +2955,6 @@ ba̍k-káng	bludgeon	50
 青布 (chheⁿ-pòu)	blue-cloth	100
 青 (chheⁿ)	blue-sky-colour	100
 錯 (tshò)	blunder	100
-毋着 (m̃-tie̍h)	blunder	100
 毋着 (m̄-tie̍h)	blunder	100
 袂利 (bõi-lāi)	blunt-edge	100
 鈍 (tun)	blunt-edge	100
@@ -3741,7 +3738,6 @@ pit-khui	burst	50
 生理 (seng-lí)	business-mercantile	100
 公事 (kong-sṳ̄)	business-official	100
 鬧熱急迫 (lāu-jie̍t kip-pek)	bustle	100
-毋閒 (m̃-ôiⁿ)	busy	100
 毋閒 (m̄-ôiⁿ)	busy	100
 事㩼 (sṳ̄ tsōi)	busy	100
 事㩼 (sṳ̄-tsōi)	busy	100
@@ -4079,7 +4075,7 @@ pù-lũ miâⁿ-sek	calumniate	50
 封做聖人 (hong-tsò siàⁿ-nâng)	canonize	100
 剔封 (thek-hong)	canonize	100
 子臺 (tsṳ́-thâi)	canopy	100
-趭毋着 (jiōu m̃-tie̍h)	cant-overtake-him	100
+趭毋着 (jiōu m̄-tie̍h)	cant-overtake-him	100
 斑貓 (pan-ngiau)	cantharides	100
 tāu-bâ	cantharides	50
 目眥 (ma̍k-tshṳ̂)	canthus-of-eye	100
@@ -6758,7 +6754,7 @@ thīn-thâu	counterbalance	50
 假做 (ké-tsò)	counterfeit	100
 偽爲 (ngũi-ûi)	counterfeit	100
 tèⁿ-tsò	counterfeit	50
-毋孬錢 (m̃-móⁿ-chîⁿ)	counterfeit-cash	100
+毋孬錢 (m̄-móⁿ-chîⁿ)	counterfeit-cash	100
 假銀 (ké-ngṳ̂n)	counterfeit-dollar	100
 偽銀 (ngũi-ngṳ̂n)	counterfeit-dollar	100
 銅銀 (tâng-ngṳ̂n)	counterfeit-dollar	100
@@ -6969,7 +6965,7 @@ pit-piak-kiè	crackle	50
 愩 (kòng)	crazy	100
 少 (siáu)	crazy	100
 心毋定 (sim m̄-tiāⁿ)	crazy	100
-心神毋定 (sim-sîn m̃-tiàⁿ)	crazy	100
+心神毋定 (sim-sîn m̄-tiàⁿ)	crazy	100
 心神毋定 (sim-sîn m̄-tiāⁿ)	crazy	100
 i̍hⁿ-a̍ihⁿ-kiè	creak	50
 i̍hⁿ-ua̍ihⁿ-kiè	creak	50
@@ -8123,6 +8119,7 @@ pua̍h-nap-uh	dent	50
 詏 (à)	deny	100
 詏無 (à-bô)	deny	100
 毋認 (m̃-jīn)	deny	100
+毋認 (m̄-jīn)	deny	100
 呾無 (tàⁿ-bô)	deny	100
 毋準 (m̃-tsún)	deny-refuse	100
 去 (khṳ̀)	depart	100
@@ -8321,7 +8318,7 @@ tsàm-tsǹg	derogate	50
 藐視 (miáu-sĩ)	despise	100
 睇無目 (thóiⁿ-bô-ma̍k)	despise	100
 睇輕 (thóiⁿ-khin)	despise	100
-睇毋上 (thóiⁿ-m̃-chiẽⁿ)	despise	100
+睇毋上 (thóiⁿ-m̄-chiẽⁿ)	despise	100
 下賤 (hiã-tsūaⁿ)	despise-despicable	100
 下流 (hiã-liû)	despise-despicable	100
 睇毋在目 (thóiⁿ-m̄-tõ-ma̍k)	despise-despicable	100
@@ -8644,7 +8641,6 @@ chhi-gî	dirty	50
 毋順 (m̄-sũn)	disadvantage	100
 蝕本 (si̍h-pńg)	disadvantage	100
 受虧 (siũ-khui)	disadvantage	100
-毋合 (m̃-ha̍h)	disagree	100
 毋合 (m̄-ha̍h)	disagree	100
 毋和 (m̄-hûa)	disagree	100
 毋相合 (m̄-siang-ha̍h)	disagree	100
@@ -8653,9 +8649,8 @@ chhi-gî	dirty	50
 𤆬人惱 (tshūa-nâng-lóu)	disagree-disagreeable	100
 垢穢 (kãu-ue̍h)	disagree-disagreeable-sensation	100
 孤獨 (kou-ta̍k)	disagree-disagreeable-unsociable	100
-毋和 (m̃-hûa)	disagree-of-persons	100
+毋和 (m̄-hûa)	disagree-of-persons	100
 無去 (bô--khṳ̀)	disappear	100
-毋見 (m̃-kìⁿ)	disappear	100
 毋見 (m̄-kìⁿ)	disappear	100
 失落 (sit-lo̍h)	disappear	100
 誤着人所望 (gōu--tie̍h nâng-só-mōⁿ)	disappoint	100
@@ -8940,12 +8935,11 @@ ià-ià ien-sîn ien-sîn	disinclination	50
 罷職 (pã-cheh)	dismiss-to	100
 落馬 (lo̍h-bé)	dismount	100
 落車 (lo̍h-chhia)	dismount-from-carriage	100
-毋順 (m̃-sũn)	disobedient	100
-毋聽 (m̃-thiaⁿ)	disobedient	100
 毋遵命 (m̄-tsun-mẽng)	disobedient	100
 毋順 (m̄-sũn)	disobedient	100
 毋順從 (m̄-sũn-tshông)	disobedient	100
 毋順命 (m̄-sũn-mẽng)	disobedient	100
+毋聽 (m̄-thiaⁿ)	disobedient	100
 逆主 (nge̍k-tsú)	disobedient	100
 背逆 (pũe-nge̍k)	disobedient	100
 違命 (ûi-mẽng)	disobedient	100
@@ -9298,7 +9292,7 @@ pun-tsâu	divide-equally	50
 面桶 (mīn-tháng)	do-wooden	100
 袒 (thán)	do-woollen	100
 汝知咩 (lṳ́ tsai mē?)	do-you-know	100
-汝知亞毋知 (lṳ́ tsai a m̃-tsai?)	do-you-know-or-not	100
+汝知亞毋知 (lṳ́ tsai a m̄-tsai?)	do-you-know-or-not	100
 汝有記得我咩 (lṳ́ ũ kì-tit uá mē?)	do-you-remember-me	100
 信皮愛咩 (sìn-phûe àiⁿ mē?)	do-you-want-an-envelope	100
 教會熟 (kà-õi-se̍k)	docile	100
@@ -9363,11 +9357,11 @@ tso hó	done	50
 食飽了 (chia̍h-pá--liáu)	done-done-with-a-meal	100
 用了 (ēng-liáu)	done-exhausted	100
 了 (liáu)	done-exhausted	100
-毋孬做賊 (m̃-móⁿ tsǒ1-tsha̍t)	dont-be-a-thief	100
+毋孬做賊 (m̄-móⁿ tsǒ1-tsha̍t)	dont-be-a-thief	100
 骹手勿㩼 (kha-chhiú màiⁿ-tsōi)	dont-be-mischievous	100
 勿哭 (màiⁿ-khàu)	dont-cry	100
 勿食較㩼 (màiⁿ-chia̍h khah-tsōi)	dont-eat-too-much	100
-毋孬毋憶得 (m̃-móⁿ m̃-it-tit)	dont-forget	100
+毋孬毋憶得 (m̄-móⁿ m̄-it-tit)	dont-forget	100
 勿笑 (màiⁿ-chhiè)	dont-laugh	100
 勿佮伊相罵 (màiⁿ kah i sie-mēⁿ)	dont-quarrel-with-him	100
 勿 (màiⁿ)	dont-want-dont	100
@@ -10872,7 +10866,6 @@ tín-túi-tiāu	eradicate	50
 寄託 (kià-thoh)	errand-send-on	100
 駛 (sái)	errand-send-on	100
 錯 (tshò)	erroneous	100
-毋着 (m̃-tie̍h)	erroneous	100
 毋着 (m̄-tie̍h)	erroneous	100
 差 (tāⁿ)	erroneous	100
 賺 (tāⁿ)	erroneous	100
@@ -11716,7 +11709,7 @@ ma̍k-chiu khap-khap-nihⁿ	eye-wink	50
 歡喜做 (huaⁿ-hí-tsò)	fain-to-do-anything	100
 苛燈愛 (kho-leng-àiⁿ)	fain-to-do-anything	100
 眩 (hîn)	faint	100
-毋知人 (m̃-tsai-nâng)	faint	100
+毋知人 (m̄-tsai-nâng)	faint	100
 淺色 (chhién-sek)	faint-colour	100
 淡色 (tãⁿ-sek)	faint-colour	100
 睏惰 (khùn-toãⁿ)	faint-exhausted	100
@@ -11729,7 +11722,7 @@ ka-tsua̍h-hîn	faint-to	50
 毋知人 (m̄-tsai-nâng)	faint-to	100
 毋曉人 (m̄-hiáu-nâng)	faint-to	100
 失魂 (sit-hûn)	faint-to	100
-毋知人 (m̃-tsai-nâng)	fainting	100
+毋知人 (m̄-tsai-nâng)	fainting	100
 市 (chhĩ)	fair-a-fair	100
 墟 (hṳ)	fair-a-fair	100
 美 (múiⁿ)	fair-beautiful	100
@@ -12020,7 +12013,6 @@ iãⁿ-sìⁿ	fan-to-use	50
 錯誤 (tshò-gōu)	fault	100
 過 (kùe)	fault	100
 過失 (kùe-sit)	fault	100
-毋着 (m̃-tie̍h)	fault	100
 毋着 (m̄-tie̍h)	fault	100
 不是 (put-si)	fault	100
 好議論人 (hàuⁿ ngí-lũn-nâng)	fault-fault-finding	100
@@ -13133,8 +13125,8 @@ phah-ke̍k	forecast	50
 假印 (ké-ìn)	forgery-of-seal	100
 忘見 (buâng-kìⁿ)	forget	100
 忘掉 (buâng-tiāu)	forget	100
-毋憶得 (m̃-it-tit)	forget	100
-毋記得 (m̃-kì-tit)	forget	100
+毋憶得 (m̄-it-tit)	forget	100
+毋記得 (m̄-kì-tit)	forget	100
 毋見得 (m̄-kièn-tit)	forget	100
 毋見得 (m̄-kìⁿ-tit)	forget	100
 無記才 (bô-kì-tshâi)	forget-forgetful	100
@@ -13780,7 +13772,7 @@ kiâⁿ-pān uê-uê jê-jê	gait-very-feeble	50
 賭錢 (tóu-chîⁿ)	gambling	100
 賭錢 (tú-chîⁿ)	gambling	100
 耍笑 (sńg-chhiè)	gambling-euphemism	100
-跋錢是毋孬事 (pua̍h-chîⁿ sĩ m̃-móⁿ sṳ̄)	gambling-is-a-bad-thing	100
+跋錢是毋孬事 (pua̍h-chîⁿ sĩ m̄-móⁿ sṳ̄)	gambling-is-a-bad-thing	100
 跋輸 (pua̍h-su)	gambling-lose-by	100
 跋錢館 (pua̍h-chîⁿ-kuán)	gambling-public-table-for	100
 跋錢場 (pua̍h-chîⁿ-tiêⁿ)	gambling-public-table-for	100
@@ -15275,7 +15267,7 @@ phien--liáu	have-I-have-dined	50
 未曾 (būe-chêng)	have-not-yet	100
 因有去亞未 (in ũ khṳ̀ a-būe?)	have-they-gone	100
 荷蘭薯還了有亞無 (hô-lân-tsṳ̂ huân-lióu ũ a-bô?)	have-you-any-more-potatoes	100
-𤰉亞毋𤰉 (lã a m̃-lã?)	have-you-enough	100
+𤰉亞毋𤰉 (lã a m̄-lã?)	have-you-enough	100
 汝豈識食榴蓮咩 (lṳ́ khah-pat chia̍h liû-liân mē?)	have-you-ever-eaten-durians	100
 汝此陣正來 (lṳ́ chi-tsûn chiàⁿ-lâi?)	have-you-just-now-come	100
 有上大个咩 (ũ siãng-tūa--kâi mē?)	have-you-the-largest-one	100
@@ -15312,7 +15304,7 @@ phien--liáu	have-I-have-dined	50
 伊袂食 (i bõi-chia̍h)	he-cant-eat	100
 伊無乜會泅 (i bô-mih õi-siû)	he-cant-swim-very-well	100
 伊來巡汝 (i lâi-sûn lṳ́)	he-comes-to-visit-you	100
-伊毋敢 (i m̃-káⁿ)	he-dare-not	100
+伊毋敢 (i m̄-káⁿ)	he-dare-not	100
 伊無梳頭 (i bô siu-thâu)	he-doesnt-comb-his-hair	100
 伊分我 (i pun uá)	he-gave-me	100
 伊來了 (i lâi--lō)	he-has-come	100
@@ -15327,7 +15319,7 @@ phien--liáu	have-I-have-dined	50
 伊死了 (i sí--lō)	he-is-dead	100
 伊愛轉去 (i àiⁿ-tńg--khṳ̀)	he-is-going-home	100
 伊呾甚㩼話 (i tàⁿ hiàⁿ-chiàⁿ-tsōi uē)	he-made-a-long-statement	100
-伊毋好去 (i m̃-hàuⁿ khṳ̀)	he-refuses-to-go	100
+伊毋好去 (i m̄-hàuⁿ khṳ̀)	he-refuses-to-go	100
 伊呾伊愛去 (i tàⁿ i àiⁿ-lâi)	he-says-he-is-coming	100
 伊 (i)	he-she-it-him-her	100
 伊愛 (i àiⁿ)	he-wants	100
@@ -15338,8 +15330,8 @@ phien--liáu	have-I-have-dined	50
 伊分人刣 (i pun--nâng thâi)	he-was-killed	100
 伊明旦起愛來 (i màⁿ-khí àiⁿ-lâi)	he-will-come-tomorrow	100
 伊袂死 (i bõi--sí)	he-will-not-die	100
-伊毋應 (i m̃-ìn)	he-wont-answer	100
-伊毋來 (i m̃-lâi)	he-wont-come	100
+伊毋應 (i m̄-ìn)	he-wont-answer	100
+伊毋來 (i m̄-lâi)	he-wont-come	100
 頭 (thâu)	head	100
 陶 (thâu)	head	100
 頭殼 (thâu-khak)	head	100
@@ -16236,28 +16228,28 @@ tsò-sṳ̄ hih-huh-kiè	hurry-in-a-desperate	50
 假如同个話 (kiá-zû kâi-uē)	hypothesis	100
 比方个話 (pí-huang kâi-uē)	hypothesis	100
 我 (uá)	I	100
-今旦日我毋閒 (kiáⁿ-ji̍t uá m̃ óiⁿ)	I-am-busy-today	100
+今旦日我毋閒 (kiáⁿ-ji̍t uá m̄ óiⁿ)	I-am-busy-today	100
 我在批我个指甲 (uá tõ phoi uá kái tsńg-kah)	I-am-cutting-my-nails	100
 下次船我就愛去 (ẽ-tsūa-tsûn uá chiũ-àiⁿ-khṳ̀)	I-am-going-next-trip	100
 我愛搬 (uá àiⁿ-puaⁿ)	I-am-going-to-remove	100
 我在此塊 (uá tõ chí-kò)	I-am-here	100
 我一身流汗 (uá che̍k-sin lâu-kūaⁿ)	I-am-in-a-perspiration	100
-我毋去 (uá m̃-khṳ̀)	I-am-not-going	100
-我今旦日人毋孬 (uá kiáⁿ-ji̍t nâng m̃-móⁿ)	I-am-unwell-today	100
+我毋去 (uá m̄-khṳ̀)	I-am-not-going	100
+我今旦日人毋孬 (uá kiáⁿ-ji̍t nâng m̄-móⁿ)	I-am-unwell-today	100
 人困在 (nâng khùn-tsãi)	I-am-very-weak	100
 我在寫字 (uá tõ siá-jī)	I-am-writing	100
 我庵埠處 (uá am-pou húe)	I-belong-to-Am-pou	100
 會零須 (õi lân-ló)	I-can-eat-a-little	100
-毋曉 (m̃-hióu)	I-cant	100
-我毋曉 (uá m̃-hióu)	I-cant	100
-我聽毋見 (uá thiaⁿ m̃-kìⁿ)	I-cant-hear-you	100
+毋曉 (m̄-hióu)	I-cant	100
+我毋曉 (uá m̄-hióu)	I-cant	100
+我聽毋見 (uá thiaⁿ m̄-kìⁿ)	I-cant-hear-you	100
 我袂寫 (uá bõi-siá)	I-cant-write	100
 我來 (uá lâi)	I-come	100
-我毋信汝 (uá m̃-sìn lṳ́)	I-dont-believe-you	100
-毋知 (m̃-tsai)	I-dont-know	100
-我哩毋知 (uá li m̃-tsai)	I-dont-know	100
-我毋知 (uá m̃-tsai)	I-dont-know	100
-我毋識伊 (uá m̃-pat i)	I-dont-know-him	100
+我毋信汝 (uá m̄-sìn lṳ́)	I-dont-believe-you	100
+毋知 (m̄-tsai)	I-dont-know	100
+我哩毋知 (uá li m̄-tsai)	I-dont-know	100
+我毋知 (uá m̄-tsai)	I-dont-know	100
+我毋識伊 (uá m̄-pat i)	I-dont-know-him	100
 還了未知 (huân-lióu būe-tsai)	I-dont-know-yet	100
 彼個我勿 (hṳ́-kâi uá màiⁿ)	I-dont-want-that-one	100
 我有 (uá ũ)	I-have	100
@@ -16271,7 +16263,7 @@ tsò-sṳ̄ hih-huh-kiè	hurry-in-a-desperate	50
 我知伊在底塊徛起 (uá tsai i tõ tî-kò khiã-khí)	I-know-where-he-lives	100
 我尚英國人 (uá siãng eng-kok-nâng)	I-like-Englishmen	100
 我着嫌汝 (uá tie̍h-hiâm lṳ́)	I-must-blame-you	100
-毋識 (m̃-pat)	I-never-have	100
+毋識 (m̄-pat)	I-never-have	100
 我記得汝 (uá kì-tit lṳ́)	I-remember-you	100
 我想𤰉亞 (uá siẽⁿ lã--a)	I-think-there-are-enough	100
 我愛上頂好个 (uá àiⁿ siãng-téng-hó--kâi)	I-want-the-best-quality	100
@@ -16350,8 +16342,8 @@ kóu-sek	if	50
 下品 (hiã-pín)	ignoble	100
 無知 (bô-tsai)	ignorant	100
 無見識 (bô-kièn-sek)	ignorant	100
-毋曉 (m̃-hióu)	ignorant	100
 毋曉 (m̄-hiáu)	ignorant	100
+毋曉 (m̄-hióu)	ignorant	100
 毋別 (m̄-pat)	ignorant	100
 無向好 (bô-hièⁿ-hó)	ill	100
 無康健 (bô-khang-kiẽn)	ill	100
@@ -16374,8 +16366,8 @@ kóu-sek	if	50
 野樣 (iá-iēⁿ)	ill-shaped	100
 毋成樣 (m̄-chiâⁿ-iēⁿ)	ill-shaped	100
 刻薄 (khek-po̍h)	ill-treat	100
-掠毋打緊 (lia̍h-m̃-tá-kéng)	ill-treat	100
-毋厚待 (m̃-kãu-thãi)	ill-treat	100
+掠毋打緊 (lia̍h-m̄-tá-kéng)	ill-treat	100
+毋厚待 (m̄-kãu-thãi)	ill-treat	100
 毋厚待人 (m̄-kãu-thãi-nâng)	ill-treat	100
 受氣 (siũ-khì)	ill-treat-ill-treated	100
 受虧 (siũ-khui)	ill-treat-ill-treated	100
@@ -16902,8 +16894,8 @@ kà-lā	incite	50
 無形 (bô-hêng)	incorporeal	100
 無形無狀 (bô-hêng bô-tsuãng)	incorporeal	100
 無體 (bô-thói)	incorporeal	100
-毋着 (m̃-tie̍h)	incorrect	100
-毋對 (m̃-tùi)	incorrect	100
+毋着 (m̄-tie̍h)	incorrect	100
+毋對 (m̄-tùi)	incorrect	100
 秤閃 (chhìn siám)	incorrect-scale	100
 毋悔改 (m̃-hùe-kói)	incorrigible	100
 毋肯改變 (m̄-khéng kói-pìⁿ)	incorrigible	100
@@ -17341,7 +17333,6 @@ bô-pān	innumerable	50
 發癲 (huat-tien)	insane	100
 痟 (siáu)	insane	100
 心毋定 (sim m̄-tiāⁿ)	insane	100
-心神毋定 (sim-sîn m̃-tiāⁿ)	insane	100
 心神毋定 (sim-sîn m̄-tiāⁿ)	insane	100
 失心 (sit-sim)	insane	100
 癲狂 (tien-khuâng)	insane	100
@@ -17843,7 +17834,7 @@ khuah-lok thâu-kṳn	irrelevant	50
 水會深 (tsúi õi-chhim)	is-is-the-water-deep	100
 猛 (mé)	is-is-the-water-deep	100
 有燒水亞無 (ũ sie-tsúi a-bô?)	is-there-hot-water	100
-是此亞毋是 (sĩ chiá a m̃-sĩ?)	is-this-it	100
+是此亞毋是 (sĩ chiá a m̄-sĩ?)	is-this-it	100
 汝个箱有鎖定亞無 (lṳ́ kâi sieⁿ ũ só-tiāⁿ a-bô?)	is-your-box-locked	100
 魚膠 (hṳ̂-ka)	isinglass	100
 金靈膠 (kim-lêng-ka)	isinglass	100
@@ -17868,7 +17859,7 @@ khuah-lok thâu-kṳn	irrelevant	50
 是此樣生 (sĩ chièⁿ-seⁿ)	it-is-like-this	100
 日未暗 (ji̍t būe-àm)	it-is-not-yet-dark	100
 是雅在 (sĩ ngiá-tsãi)	it-is-very-beautiful	100
-毋是汝个 (m̃-sĩ lṳ́-kâi)	it-isnt-yours	100
+毋是汝个 (m̄-sĩ lṳ́-kâi)	it-isnt-yours	100
 疥 (kòi)	itch	100
 癢 (chiẽⁿ)	itch-itchy	100
 爬癢 (pê-chiẽⁿ)	itch-scratch	100
@@ -17881,7 +17872,7 @@ khuah-lok thâu-kṳn	irrelevant	50
 周巡 (chiu-sûn)	itinerate	100
 路引 (lōu-ín)	itinerate-itinerary	100
 路程冊 (lōu-thiâⁿ-chheh)	itinerate-itinerary	100
-毋是十一 (m̃-sĩ tsa̍p-it)	its-not-the-eleventh	100
+毋是十一 (m̄-sĩ tsa̍p-it)	its-not-the-eleventh	100
 象牙 (chhiẽⁿ-gê)	ivory	100
 牙 (gê)	ivory	100
 藤 (tîn)	ivy	100
@@ -18326,7 +18317,7 @@ thám-khat	knot-to-tie	50
 燈心 (teng-sim)	lamp-wick	100
 無頭帖 (bô-thâu-thiap)	lampoon	100
 譏嘲 (ki-chhiáu)	lampoon	100
-燈拭毋清潔 (teng chhit m̃-chheng-khi)	lamps-are-not-wiped-clean	100
+燈拭毋清潔 (teng chhit m̄-chheng-khi)	lamps-are-not-wiped-clean	100
 槍 (chhieⁿ)	lance	100
 開倉刀 (khui-tshng-to)	lance-lancet	100
 田園 (tshân-hn̂g)	land	100
@@ -19252,7 +19243,6 @@ kou-chiau	lonely	50
 主 (tsú)	lord	100
 晚餐 (mńg-tshan)	lord-Supper	100
 遺失 (zũi-sit)	lose	100
-毋見 (m̃-kìⁿ)	lose	100
 毋見 (m̄-kìⁿ)	lose	100
 喪掉 (sàng-tiāu)	lose	100
 失 (sit)	lose	100
@@ -20206,8 +20196,8 @@ háⁿ-nâng	menace	50
 定定 (tiāⁿ-tiāⁿ)	merely	100
 獨獨 (to̍k-to̍k)	merely	100
 單單 (toaⁿ-toaⁿ)	merely	100
-毋清 (m̃-chheng)	merely-not	100
-毋肯 (m̃-khéng)	merely-not	100
+毋清 (m̄-chheng)	merely-not	100
+毋肯 (m̄-khéng)	merely-not	100
 不止 (put-chí)	merely-not	100
 毋清 (m̄-chheng)	merely-not-merely	100
 不止 (put-chí)	merely-not-merely	100
@@ -20599,7 +20589,6 @@ tak-nn̄g-tiāu sî-hāu	misspend-time	50
 tsha-niũⁿ	mistake	50
 穿毋對鼻 (tshng m̄-tùi-phīⁿ)	mistake	100
 錯 (tshò)	mistake	100
-毋着 (m̃-tie̍h)	mistake	100
 毋着 (m̄-tie̍h)	mistake	100
 錯認 (tshò-jīn)	mistake-a-person	100
 誤認 (gōu-jīn)	mistake-a-person	100
@@ -21118,7 +21107,7 @@ nap-thôu	mud	50
 芥子 (kài-chí)	mustard-seed	100
 芥辣子 (kài-lua̍h-chí)	mustard-seed	100
 白芥子 (pe̍h-kài-chí)	mustard-seed	100
-毋孬偷挈人个物 (m̃-móⁿ thau-khie̍h nâng kâi mue̍h)	mustnt-steal-other-peoples-things	100
+毋孬偷挈人个物 (m̄-móⁿ thau-khie̍h nâng kâi mue̍h)	mustnt-steal-other-peoples-things	100
 臭菇羶 (tshàu-kou-hièn)	musty	100
 chhiẽⁿ-ĩm	musty	50
 seⁿ-ip-chi̍p	musty	50
@@ -21529,11 +21518,11 @@ thám-seⁿ-khou	noose-to-make	50
 chhek-tsúi	nose-running-coryza	50
 鼻塞 (phīⁿ sat)	nose-stuffed	100
 鼻空 (phīⁿ-khang)	nostril	100
-毋是彼樣生 (m̃-sĩ hièⁿ-seⁿ)	not-like-that	100
-毋是 (m̃-sĩ)	not-no	100
+毋是彼樣生 (m̄-sĩ hièⁿ-seⁿ)	not-like-that	100
+毋是 (m̄-sĩ)	not-no	100
 未 (būe)	not-yet	100
 生 (chheⁿ)	not-yet-boiled-raw	100
-毋是汝 (m̃-sĩ lṳ́)	not-you	100
+毋是汝 (m̄-sĩ lṳ́)	not-you	100
 出眾 (tshut-chèng)	notable	100
 出類 (tshut-lūi)	notable	100
 出俗 (tshut-so̍k)	notable	100
@@ -24073,7 +24062,7 @@ pĩn-chiàⁿ	prepare-prepared	50
 毋敢 (m̄-káⁿ)	presume-I-would-not-presume	100
 大主大意 (toā-tsú toā-ì)	presume-presumptuous	100
 假 (ké)	pretend	100
-佯毋知 (tèⁿ-m̃-tsai)	pretend-not-knowing	100
+佯毋知 (tèⁿ-m̄-tsai)	pretend-not-knowing	100
 假骹假手 (ké-kha ké-chhiú)	pretend-pretender	100
 僞騙 (ngũi-phièn)	pretend-pretender	100
 裝做耳聾 (tsuang-tsò hĩⁿ lâng)	pretend-to-be-deaf	100
@@ -25357,15 +25346,13 @@ kiâⁿ kàu kha-phõng-pheng	reel-to-stagger	50
 閃避 (siám-pī)	refuge-to-run-for	100
 賠還 (pûe-hôiⁿ)	refund	100
 還 (hôiⁿ)	refund-to	100
-毋好 (m̃-hàuⁿ)	refuse	100
+毋好 (m̄-hàuⁿ)	refuse	100
 垃圾 (nahⁿ-sap)	refuse	100
 塗糞 (tôu-pùn)	refuse	100
 蔗粕 (chià-phoh)	refuse-of-sugar-cane	100
 茶烌 (tê-hu)	refuse-of-tea	100
 糟粕 (tsau-phoh)	refuse-of-wine	100
 酒糟 (chiú-tsau)	refuse-of-wine	100
-毋好 (m̃-hàuⁿ)	refuse-to	100
-毋肯 (m̃-khéng)	refuse-to	100
 毋準 (m̄-tsún)	refuse-to	100
 毋好 (m̄-hàuⁿ)	refuse-to	100
 毋肯 (m̄-khéng)	refuse-to	100
@@ -27362,7 +27349,7 @@ biê-lia̍h	seize-lie-in-wait-to	50
 問心靜案 (mn̄g-sim chẽⁿ-àn)	self-self-examination	100
 省察家己 (séⁿ-tshat ka-kī)	self-self-examination	100
 自囑 (tsṳ̃-tsok)	self-self-satisfied	100
-tsṳ̃-sim ũi-kí+++	selfish	50
+自心爲己 (tsṳ̃-sim ũi-kí)	selfish	100
 顧己 (kù-kí)	selfish	100
 利己 (lĩ-kí)	selfish	100
 私心 (sai-sim)	selfish	100
@@ -27964,8 +27951,8 @@ niàuⁿ-niàuⁿ	shrivelled	50
 拋梭 (phau-so)	shuttle-to-fly	100
 勼勼扭扭 (kiu-kiu niuⁿ-niuⁿ)	shy	100
 勼扭 (kiu-niuⁿ)	shy	100
-毋敢見人 (m̃-káⁿ-kìⁿ-nâng)	shy	100
 毋敢見人 (m̄-káⁿ kìⁿ-nâng)	shy	100
+毋敢見人 (m̄-káⁿ-kìⁿ-nâng)	shy	100
 畏少禮 (ùi-siáu-lí)	shy	100
 畏少禮 (ùi-sióu-lí)	shy	100
 暹羅 (siām-lô)	siam	100
@@ -27993,7 +27980,7 @@ sin-hūn lám	sick-sickly	50
 病軟 (pēⁿ-nńg)	sick-sickness	100
 病痛 (pēⁿ-thiàⁿ)	sick-sickness	100
 ien-siên	sick-slightly	50
-人毋孬 (nâng m̃-móⁿ)	sick-slightly	100
+人毋孬 (nâng m̄-móⁿ)	sick-slightly	100
 愛吐 (àiⁿ-thòu)	sick-squeamish	100
 吐 (thòu)	sick-to-be-sick-vomit	100
 鉤鐮 (kau-liâm)	sickle	100
@@ -31086,7 +31073,7 @@ chí-chiàⁿ-kâi	these	50
 此些个 (chí-chùaⁿ-kâi)	these	100
 chí-tsùaⁿ-kâi	these	50
 此個 (chí-kâi)	these	100
-此些个毋是 (chí-chùaⁿ-kâi m̃-sĩ)	these-are-not-them	100
+此些个毋是 (chí-chùaⁿ-kâi m̄-sĩ)	these-are-not-them	100
 hṳ́-chiàⁿ kâi-nâng	they	50
 伊 (i)	they	100
 𪜶 (in)	they	100
@@ -31174,7 +31161,7 @@ uá kâu-kiè	think-I-thought-erroneously	50
 此個稍大 (chí--kâi ióu-tūa)	this-is-a-little-larger	100
 此個敬長過彼個 (chí--kâi kèng-tn̂g kùe hṳ́-kâi)	this-is-longer-than-that	100
 此個是我个 (chí-kâi sĩ uá-kâi)	this-is-mine	100
-此毋是 (chiá m̃-sĩ)	this-is-not-it	100
+此毋是 (chiá m̄-sĩ)	this-is-not-it	100
 此個送汝 (chí--kâi sàng lṳ́)	this-is-presented-to-you	100
 此個就是上大个 (chí--kâi chiũ-sĩ siãng-tūa kâi)	this-is-the-largest-one	100
 此個人肥在 (chí-kâi nâng pûi-tsãi)	this-man-is-very-fat	100
@@ -32567,8 +32554,6 @@ khó-khek	uncharitable	50
 保家 (pó-ke)	underwrite	100
 保家 (pó-ke)	underwrite-company-of-underwriters	100
 保家公司 (pó-ke kong-si)	underwrite-company-of-underwriters	100
-毋該 (m̃-kai)	undeserved	100
-毋堪當 (m̃-kham-tng)	undeserved	100
 毋應該 (m̄-eng-kai)	undeserved	100
 毋該 (m̄-kai)	undeserved	100
 毋堪當 (m̄-kham-tng)	undeserved	100
@@ -32584,7 +32569,6 @@ khó-khek	uncharitable	50
 不孝 (put-hàu)	undutiful-to-parents	100
 參差不齊 (tsham-tsha put-chhî)	uneven	100
 崎嶇 (khi-khu)	uneven	100
-毋平 (m̃-pêⁿ)	uneven	100
 m̄-tsâu	uneven	50
 毋齊 (m̄-tsôi)	uneven	100
 毋齊整 (m̄-tsôi-chiáⁿ)	uneven	100
@@ -32623,7 +32607,7 @@ m̄-tsâu	uneven	50
 僥負恩 (hiau-hũ-ṳn)	ungrateful	100
 僥情絕義 (hiou-chhêng tso̍h-ngĩ)	ungrateful	100
 負義 (hũ-ngĩ)	ungrateful	100
-毋知人情 (m̃-tsai nâng-chhêng)	ungrateful	100
+毋知人情 (m̄-tsai nâng-chhêng)	ungrateful	100
 受恩不報 (siũ-ṳn put-pò)	ungrateful	100
 無福 (bô-hok)	unhappy	100
 淒慘 (chhi-tshám)	unhappy	100
@@ -32694,9 +32678,9 @@ tsâu	uniform	50
 無公道 (bô-kong-tãu)	unjust	100
 無道 (bô-tãu)	unjust	100
 非義 (hui-ngĩ)	unjust	100
-毋公道 (m̃-kong-tãu)	unjust	100
 毋正 (m̄-chiàⁿ)	unjust	100
 毋公正 (m̄-kong-chiàⁿ)	unjust	100
+毋公道 (m̄-kong-tãu)	unjust	100
 毋官正 (m̄-kuaⁿ-chiàⁿ)	unjust	100
 毋順正理 (m̄-sũn chiàⁿ-lí)	unjust	100
 逆理 (nge̍k-lí)	unjust	100
@@ -32712,7 +32696,6 @@ tsâu	uniform	50
 無理無法 (bô-lí bô-huap)	unlawful	100
 無理無律 (bô-lí bô-lu̍t)	unlawful	100
 律法所毋准 (lu̍t-huap só-m̄-tsún)	unlawful	100
-毋合法 (m̃-ha̍h-huap)	unlawful	100
 毋合理律 (m̄-ha̍h lí-lu̍t)	unlawful	100
 毋合法 (m̄-ha̍h-huap)	unlawful	100
 各樣 (koh-iēⁿ)	unlike	100
@@ -32789,7 +32772,6 @@ tsâu	uniform	50
 㪗直 (tháu-ti̍t)	unravel-thread	100
 直 (to̍h-ti̍t)	unravel-thread	100
 無情理 (bô-chhêng-lí)	unreasonable	100
-毋就理 (m̃-chiũ-lí)	unreasonable	100
 毋就理 (m̄-chiũ-lí)	unreasonable	100
 痴想 (chhi-siẽⁿ)	unreasonable-hope	100
 無歇 (bô-hiah)	unremitting	100
@@ -32871,16 +32853,15 @@ kou-bāu	unsociable	50
 無向好 (bô-hièⁿ-hó)	unwell	100
 睏惰 (khùn-toãⁿ)	unwell	100
 人袂 (nâng bõi)	unwell	100
-人毋孬 (nâng m̃-móⁿ)	unwell	100
 人毋好 (nâng m̄-hó)	unwell	100
+人毋孬 (nâng m̄-móⁿ)	unwell	100
 毋好 (m̄-hàuⁿ)	unwilling	100
 毋肯 (m̄-khéng)	unwilling	100
 毋願 (m̄-nguãn)	unwilling	100
-毋堪 (m̃-kham)	unworthy	100
-毋堪該 (m̃-kham-kai)	unworthy	100
 毋應該 (m̄-eng-kai)	unworthy	100
 毋應當 (m̄-eng-tng)	unworthy	100
 毋該 (m̄-kai)	unworthy	100
+毋堪 (m̄-kham)	unworthy	100
 毋堪該 (m̄-kham-kai)	unworthy	100
 毋堪當 (m̄-kham-tng)	unworthy	100
 不該 (put-kai)	unworthy	100
@@ -33139,7 +33120,7 @@ sái-khiã	upright-to-place-a-thing	50
 青桶 (chheⁿ-tháng)	vat-for-indigo	100
 地室 (tī-sit)	vault-an-underground	100
 青天 (chheⁿ-thiⁿ)	vault-the-vault-of-heaven	100
-thiⁿ uan-keng uan-keng+++	vault-the-vault-of-heaven	50
+thiⁿ uan-keng uan-keng	vault-the-vault-of-heaven	50
 跳龍門 (thiàu-lêng-mn̂g)	vault-to	100
 弓彎門 (keng-uan-mn̂g)	vault-vaulted	100
 菜 (tshài)	vegetables	100
@@ -33989,7 +33970,7 @@ tâm-ĩm	wet-damp	50
 在生樣 (tsãi-seⁿ-iēⁿ)	what-what-is-it-like	100
 是乜人 (sĩ-mih-nâng)	what-what-man	100
 底𫢗 (tî-tiâng)	what-what-man	100
-毋管 (m̃-kuán)	whatever	100
+毋管 (m̄-kuán)	whatever	100
 不論 (put-lũn)	whatever	100
 隨便 (sûi-piẽn)	whatever	100
 大凡 (tãi-hûam)	whatever	100
@@ -34148,7 +34129,7 @@ ka-nn̂g-kâi	whole	50
 謂是乜事 (ũi sĩ-mih-sṳ̄)	why	100
 怎呢袂食 (tsò-nîⁿ bõi-chia̍h)	why-cant-he-eat	100
 伊怎呢無來 (i tsò-nîⁿ bô-lâi?)	why-did-he-not-come	100
-汝怎呢毋信我 (lṳ́ tsò-nîⁿ m̃-sìn uá?)	why-dont-you-believe-me	100
+汝怎呢毋信我 (lṳ́ tsò-nîⁿ m̄-sìn uá?)	why-dont-you-believe-me	100
 怎呢無呢 (tsò-nîⁿ bô--nē?)	why-not	100
 何必此樣生 (hô-pit chièⁿ-seⁿ)	why-so	100
 彼個 (hiá)	why-so-why	100
@@ -34233,7 +34214,7 @@ ka-nn̂g-kâi	whole	50
 我必愛去 (uá pit-àiⁿ-khṳ̀)	will-I-will-go	100
 可以 (khó-íⁿ)	will-it-will-do	100
 會做得 (õi--tsò-tit)	will-it-will-do	100
-毋 (m̃)	will-not	100
+毋 (m̄)	will-not	100
 此個好咩 (chí-kâi hó--mé)	will-will-this-do	100
 出本心 (tshut-pńg-sim)	willing	100
 好 (hàuⁿ)	willing	100
@@ -34541,8 +34522,8 @@ chhip-thôu	work-to-work-clay	50
 喫掉 (khòi-tiāu)	worm-worm-eaten	100
 în-tîn	wormwood	50
 苦刺 (în-tîn khóu-chhì)	wormwood	100
-愈毋孬 (zú-m̃-móⁿ)	worse	100
 愈毋好 (zú-m̄-hó)	worse	100
+愈毋孬 (zú-m̄-móⁿ)	worse	100
 愈死 (zú-sí)	worse	100
 愈更毋好 (zû-kèng m̄-hó)	worse	100
 更害 (kèng-hāi)	worse	100
@@ -34659,7 +34640,6 @@ chhi̍p-niàuⁿ	wrinkled-wrinkles	50
 走絀 (tsáu-tsua̍h)	wrong	100
 差錯 (tsha-tshò)	wrong	100
 錯 (tshò)	wrong	100
-毋着 (m̃-tie̍h)	wrong	100
 毋是 (m̄-sĩ)	wrong	100
 毋着 (m̄-tie̍h)	wrong	100
 毋對 (m̄-tùi)	wrong	100
@@ -34765,13 +34745,13 @@ chhi̍p-niàuⁿ	wrinkled-wrinkles	50
 汝好去 (lṳ́ hó-khṳ̀)	you-may-go	100
 着早些 (tie̍h tsá--chē)	you-must-be-early	100
 着選鮮个 (tie̍h suán chhiⁿ--kâi)	you-must-choose-fresh-ones	100
-汝毋孬去 (lṳ́ m̃-móⁿ khṳ̀)	you-must-not-go	100
+汝毋孬去 (lṳ́ m̄-móⁿ khṳ̀)	you-must-not-go	100
 着預夠 (tie̍h ṳ̃-kàu)	you-must-prepare-enough	100
 汝免用來 (lṳ́ mín-ēng lâi)	you-need-not-come	100
 恁 (nín)	you-plural	100
 恁來 (nín lâi)	you-plural-come	100
-汝着認汝个毋着 (lṳ́ tie̍h-jīn lṳ́ kâi m̃-tie̍h)	you-should-admit-your-fault	100
-恁毋孬詏 (nín m̃-móⁿ à)	you-should-not-argue	100
+汝着認汝个毋着 (lṳ́ tie̍h-jīn lṳ́ kâi m̄-tie̍h)	you-should-admit-your-fault	100
+恁毋孬詏 (nín m̄-móⁿ à)	you-should-not-argue	100
 汝 (lṳ́)	you-singular	100
 請汝教我 (chhiáⁿ lṳ́ kà uá)	you-teach-me-please	100
 貴姓 (kùi-sèⁿ)	you-what-is-your-surname	100
@@ -34797,7 +34777,7 @@ chhi̍p-niàuⁿ	wrinkled-wrinkles	50
 老爺 (lãu-iâ)	your-Worship	100
 太爺 (thài-iâ)	your-Worship	100
 大人 (tãi-jîn)	your-Worship-Excellency	100
-汝个毋是此樣生 (lṳ́-kâi m̃-sĩ chièⁿ-seⁿ)	yours-is-not-like-his	100
+汝个毋是此樣生 (lṳ́-kâi m̄-sĩ chièⁿ-seⁿ)	yours-is-not-like-his	100
 出力 (tshut-la̍t)	zealous	100
 發忿 (huat-hún)	zealous	100
 熱心 (jie̍t-sim)	zealous	100

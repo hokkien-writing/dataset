@@ -2,7 +2,7 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260607.235859"
+version: "20260608.075912"
 sort: by_weight
 ...
 
@@ -713,12 +713,12 @@ tshâu	chhau5	100
 下愿	he6  nguan7	100
 下戰書	he6  chien3  chur1	100
 下日	e6  jit8	105
-下日伊正唔敢	e6  jit8 i1 chiann3  m6  kann2	50
-下日伊正毋敢	e6  jit8 i1 chiann3  m6  kann2	100
-下日汝唔孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	50
-下日汝毋孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	100
-下日爾唔孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	12
-下日爾毋孬夗到彼樣晏	e5  jit8 lur2 m6  monn2 ut8  kau3  hienn3 uann3	25
+下日伊正唔敢	e6  jit8 i1 chiann3  m7  kann2	50
+下日伊正毋敢	e6  jit8 i1 chiann3  m7  kann2	100
+下日汝唔孬夗到彼樣晏	e5  jit8 lur2 m7  monn2 ut8  kau3  hienn3 uann3	50
+下日汝毋孬夗到彼樣晏	e5  jit8 lur2 m7  monn2 ut8  kau3  hienn3 uann3	100
+下日爾唔孬夗到彼樣晏	e5  jit8 lur2 m7  monn2 ut8  kau3  hienn3 uann3	12
+下日爾毋孬夗到彼樣晏	e5  jit8 lur2 m7  monn2 ut8  kau3  hienn3 uann3	25
 下旬	hia6  sun5	100
 下旰	e6  kua3	101
 下時	e6  si5	100
@@ -1192,11 +1192,11 @@ tshâu	chhau5	100
 人參	jin5  siam1	101
 人命	nang5  miann7	100
 人唔好	nang5 m7  ho2	52
-人唔孬	nang5 m6  monn2	51
+人唔孬	nang5 m7  monn2	51
 人困在	nang5 khun3  chai6	100
 人土撰个名	nang5  thou2  chuan6 kai5  miann5	100
-人在世唔久	nang5 to6 si3 m6  ku2	50
-人在世毋久	nang5 to6 si3 m6  ku2	100
+人在世唔久	nang5 to6 si3 m7  ku2	50
+人在世毋久	nang5 to6 si3 m7  ku2	100
 人好	nang5 ho2	100
 人客	nang5  kheh4	104
 人家	nang5  ke1	100
@@ -1218,7 +1218,7 @@ tshâu	chhau5	100
 人款	nang5  khuan2	100
 人歹	nang5  tai2	102
 人毋好	nang5 m7  ho2	102
-人毋孬	nang5 m6  monn2	101
+人毋孬	nang5 m7  monn2	101
 人氣	nang5  khui3	100
 人熱	nang5 juah8	101
 人爇	nang5 juah8	51
@@ -1262,8 +1262,8 @@ tshâu	chhau5	100
 今世	kim1  si3	101
 今夜	ke1  menn5	100
 今夜	kim1  menn5	101
-今夜伊唔在	ke1  menn5 i1 m6  to6	50
-今夜伊毋在	ke1  menn5 i1 m6  to6	100
+今夜伊唔在	ke1  menn5 i1 m7  to6	50
+今夜伊毋在	ke1  menn5 i1 m7  to6	100
 今宵	kim1  siau1	100
 今年	kim1  ninn5	100
 今年	kin1  ninn5	101
@@ -1273,10 +1273,10 @@ tshâu	chhau5	100
 今旦日七月初一	kiann2  jit8 chhit4   gueh8 chhiu1  it4	100
 今旦日庵埠閙熱	kiann2  jit8 am1  pou1 lau6  jiet8	100
 今旦日庵埠閙爇	kiann2  jit8 am1  pou1 lau6  jiet8	50
-今旦日我唔閑	kiann2  jit8 ua2 m6 oinn2	12
-今旦日我唔閒	kiann2  jit8 ua2 m6 oinn2	25
-今旦日我毋閑	kiann2  jit8 ua2 m6 oinn2	50
-今旦日我毋閒	kiann2  jit8 ua2 m6 oinn2	100
+今旦日我唔閑	kiann2  jit8 ua2 m7 oinn2	12
+今旦日我唔閒	kiann2  jit8 ua2 m7 oinn2	25
+今旦日我毋閑	kiann2  jit8 ua2 m7 oinn2	50
+今旦日我毋閒	kiann2  jit8 ua2 m7 oinn2	100
 今旦日拜一	kiann2  jit8 pai3  it4	100
 今旦日𤲅埠閙熱	kiann2  jit8 am1  pou1 lau6  jiet8	25
 今旦日𤲅埠閙爇	kiann2  jit8 am1  pou1 lau6  jiet8	12
@@ -1285,8 +1285,8 @@ tshâu	chhau5	100
 今晚	kim1 mng2	100
 今暝	ke1  menn5	50
 今暝	kim1  menn5	51
-今暝伊唔在	ke1  menn5 i1 m6  to6	12
-今暝伊毋在	ke1  menn5 i1 m6  to6	25
+今暝伊唔在	ke1  menn5 i1 m7  to6	12
+今暝伊毋在	ke1  menn5 i1 m7  to6	25
 介虫	kai3  thang5	50
 介蟲	kai3  thang5	100
 仍然	jiong5  jien5	100
@@ -1415,11 +1415,11 @@ tshâu	chhau5	100
 伊呌做是乜名	i1 kie3  cho3 si6  mih4  miann5	50
 伊呾伊愛去	i1 tann3 i1 ainn3  lai5	100
 伊呾甚㩼話	i1 tann3 hiann3  chiann3  choi7 ue7	100
-伊唔來	i1 m6  lai5	50
+伊唔來	i1 m7  lai5	50
 伊唔好做	i1 m7  haunn3  cho3	50
-伊唔好去	i1 m6  haunn3 khur3	50
-伊唔應	i1 m6  in3	50
-伊唔敢	i1 m6  kann2	50
+伊唔好去	i1 m7  haunn3 khur3	50
+伊唔應	i1 m7  in3	50
+伊唔敢	i1 m7  kann2	50
 伊在審一條刣人案	i1 to6 sim2 chek8  tiou5 thai5  nang5 uann3	100
 伊在審一條刣儂案	i1 to6 sim2 chek8  tiou5 thai5  nang5 uann3	50
 伊大我	i1 tua7   ua2	102
@@ -1458,11 +1458,11 @@ tshâu	chhau5	100
 伊未來爾請未去	i1  bue7  lai5 lur2 chhiann2  bue7  khur3	50
 伊正來	i1 chiann3  lai5	100
 伊死了	i1 si2   lo7	100
-伊毋來	i1 m6  lai5	100
+伊毋來	i1 m7  lai5	100
 伊毋好做	i1 m7  haunn3  cho3	100
-伊毋好去	i1 m6  haunn3 khur3	100
-伊毋應	i1 m6  in3	100
-伊毋敢	i1 m6  kann2	100
+伊毋好去	i1 m7  haunn3 khur3	100
+伊毋應	i1 m7  in3	100
+伊毋敢	i1 m7  kann2	100
 伊無乜會氽	i1 bo5  mih4 oi6  siu5	50
 伊無乜會泅	i1 bo5  mih4 oi6  siu5	100
 伊無梳頭	i1 bo5 siu1  thau5	100
@@ -1585,8 +1585,8 @@ tshâu	chhau5	100
 佝腰	ku1  ie1	102
 佮伊呾我此塊愛作欄杆	kah4 i1 tann3 ua2 chi2  ko3 ainn3  cho3 lan5  kan1	100
 佮挈一張紙	kah4 khieh8 chek8  tienn1 chua2	100
-佯唔知	tenn3  m6  chai1	50
-佯毋知	tenn3  m6  chai1	100
+佯唔知	tenn3  m7  chai1	50
+佯毋知	tenn3  m7  chai1	100
 佯爲不知	iang5  ui5 put4  chai1	100
 佳人	kia1  jin5	100
 佳音	kia1  im1	100
@@ -2184,11 +2184,11 @@ tshâu	chhau5	100
 儂力	nang5  lat8	50
 儂命	nang5  miann7	50
 儂唔好	nang5 m7  ho2	12
-儂唔孬	nang5 m6  monn2	13
+儂唔孬	nang5 m7  monn2	13
 儂困在	nang5 khun3  chai6	50
 儂土撰个名	nang5  thou2  chuan6 kai5  miann5	50
-儂在世唔久	nang5 to6 si3 m6  ku2	12
-儂在世毋久	nang5 to6 si3 m6  ku2	25
+儂在世唔久	nang5 to6 si3 m7  ku2	12
+儂在世毋久	nang5 to6 si3 m7  ku2	25
 儂客	nang5  kheh4	52
 儂心不足	nang5  sim1 put4  chok4	50
 儂忠直	nang5 tong1  tit8	50
@@ -2196,7 +2196,7 @@ tshâu	chhau5	100
 儂情	nang5  chhiann5	100
 儂愛害我	nang5  ainn3  hai7 ua2	50
 儂毋好	nang5 m7  ho2	25
-儂毋孬	nang5 m6  monn2	26
+儂毋孬	nang5 m7  monn2	26
 儂熱	nang5 juah8	26
 儂爇	nang5 juah8	13
 儂物鬧熱	nang5  mueh8 lau7  jiet8	25
@@ -3115,13 +3115,13 @@ tshâu	chhau5	100
 加加倍	ke1  ke1  pue6	100
 加加次	ke1  ke1  chhur3	100
 加加項	ke1  ke1  hang6	101
-加唔久就正月	ke1 m6  ku2 chiu6 chiann1   gueh8	50
+加唔久就正月	ke1 m7  ku2 chiu6 chiann1   gueh8	50
 加增	kia1  cheng1	101
 加官進祿	kia1  kuann1 chin3  lok8	100
 加害	kia1  hai7	100
 加封	kia1  hong1	100
 加樣	ke1  ienn7	102
-加毋久就正月	ke1 m6  ku2 chiu6 chiann1   gueh8	100
+加毋久就正月	ke1 m7  ku2 chiu6 chiann1   gueh8	100
 加注	kia1  chu3	100
 加添	kia1  thiam1	100
 加減	ke1  kiam2	101
@@ -4292,16 +4292,16 @@ tshâu	chhau5	100
 唐人个諸娘少少捌字	tng5  nang5 kai5 chur1  nienn5 chie2  chie2 pat4  ji7	25
 唐人个諸娘少少識字	tng5  nang5 kai5 chur1  nienn5 chie2  chie2 pat4  ji7	100
 唐人个諸娘少少𧧸字	tng5  nang5 kai5 chur1  nienn5 chie2  chie2 pat4  ji7	50
-唐人此個事唔曉	tng5  nang5 chi2  kai5 su7 m6  hiou2	50
-唐人此個事毋曉	tng5  nang5 chi2  kai5 su7 m6  hiou2	100
+唐人此個事唔曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	50
+唐人此個事毋曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	100
 唐人話	tng5  nang5  ue7	100
-唐人講究雷公唔對	tng5  nang5 kang2  kiu3 lui5  kong1 m6  tui3	50
-唐人講究雷公毋對	tng5  nang5 kang2  kiu3 lui5  kong1 m6  tui3	100
+唐人講究雷公唔對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	50
+唐人講究雷公毋對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	100
 唐儂个戰船攏總沉去	tng5  nang5 kai5 chien3  chun5 long2  chong2 tim5   khur3	50
-唐儂此個事唔曉	tng5  nang5 chi2  kai5 su7 m6  hiou2	12
-唐儂此個事毋曉	tng5  nang5 chi2  kai5 su7 m6  hiou2	25
-唐儂講究雷公唔對	tng5  nang5 kang2  kiu3 lui5  kong1 m6  tui3	12
-唐儂講究雷公毋對	tng5  nang5 kang2  kiu3 lui5  kong1 m6  tui3	25
+唐儂此個事唔曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	12
+唐儂此個事毋曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	25
+唐儂講究雷公唔對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	12
+唐儂講究雷公毋對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	25
 唐山	tng5  suann1	101
 唔一樣	m7  chek8  ienn7	50
 唔上個月	m7  chienn6 kai5  gueh8	50
@@ -4323,8 +4323,7 @@ tshâu	chhau5	100
 唔全	m7  chhuan5	52
 唔公平	m7  kong1  pheng5	50
 唔公正	m7  kong1  chiann3	50
-唔公道	m6  kong1  tau6	50
-唔公道	m7  kong1  tau6	52
+唔公道	m7  kong1  tau6	53
 唔出色	m7  chhut4  sek4	50
 唔出身	m7  chhut4  sin1	50
 唔分明	m7  hun1  meng5	50
@@ -4342,15 +4341,14 @@ tshâu	chhau5	100
 唔到	m7  kau3	50
 唔到底塊去	m7  kau3 ti5  ko3  khur3	50
 唔動心	m7  tong6  sim1	50
-唔厚待	m6  kau6  thai6	50
+唔厚待	m7  kau6  thai6	50
 唔厚待人	m7  kau6  thai6  nang5	25
 唔厚待儂	m7  kau6  thai6  nang5	12
 唔取	m6  chhu2	50
 唔受教示	m6  siu6 ka3  si7	50
 唔受照	m7  siu6  chie3	50
 唔受舵	m7  siu6  tua6	50
-唔合	m6  hah8	50
-唔合	m7  hah8	55
+唔合	m7  hah8	56
 唔合例	m7  hah8  li7	50
 唔合喙	m7  hah8  chhui3	25
 唔合嘴	m7  hah8  chhui3	12
@@ -4359,8 +4357,7 @@ tshâu	chhau5	100
 唔合時	m7  hah8  si5	51
 唔合時尙	m7  hah8 si5  siang6	12
 唔合時尚	m7  hah8 si5  siang6	25
-唔合法	m6  hah8  huap4	50
-唔合法	m7  hah8  huap4	52
+唔合法	m7  hah8  huap4	53
 唔合理	m7  hah8  li2	50
 唔合理儀	m7  hah8 li2  ngi5	50
 唔合理律	m7  hah8 li2  lut8	50
@@ -4372,25 +4369,21 @@ tshâu	chhau5	100
 唔同	m7  tang5	50
 唔同心	m7  tang5  sim1	50
 唔同意	m7  tang5  i3	50
-唔和	m6  hua5	50
-唔和	m7  hua5	53
+唔和	m7  hua5	54
 唔和睦	m7  hua5  mok8	52
 唔在	m7  to6	51
 唔在意	m7  to6  i3	50
 唔執意	m7  chip4  i3	50
 唔堅固	m7  kien1  ku3	50
-唔堪	m6  kham1	50
-唔堪當	m6  kham1  tng1	50
-唔堪當	m7  kham1  tng1	51
-唔堪該	m6  kham1  kai1	50
-唔堪該	m7  kham1  kai1	50
+唔堪	m7  kham1	50
+唔堪當	m7  kham1  tng1	52
+唔堪該	m7  kham1  kai1	51
 唔夠	m7  kau3	55
 唔夠個	m7  kau3  kai5	50
 唔夠本	m7  kau3  png2	50
 唔夠水	m7  kau3  chui2	50
 唔夠食	m7  kau3  chiah8	50
-唔好	m6  haunn3	51
-唔好	m7  haunn3	56
+唔好	m7  haunn3	58
 唔好	m7  ho2	52
 唔好䛩	m7  ho2  a3	12
 唔好事	m7  ho2  sur7	50
@@ -4426,12 +4419,12 @@ tshâu	chhau5	100
 唔好駁氣	m7  ho2 poh4  khui3	50
 唔如意	m7  ju5  i3	51
 唔妥當	m7  tho2  tang3	53
-唔孬	m6  monn2	51
-唔孬做賊	m6  monn2 chǒ1  chhat8	50
-唔孬偷挈人个物	m6  monn2 thau1  khieh8 nang5 kai5 mueh8	25
-唔孬偷挈儂个物	m6  monn2 thau1  khieh8 nang5 kai5 mueh8	12
-唔孬唔憶得	m6  monn2 m6  it4  tit4	50
-唔孬錢	m6  monn2  chinn5	50
+唔孬	m7  monn2	51
+唔孬做賊	m7  monn2 chǒ1  chhat8	50
+唔孬偷挈人个物	m7  monn2 thau1  khieh8 nang5 kai5 mueh8	25
+唔孬偷挈儂个物	m7  monn2 thau1  khieh8 nang5 kai5 mueh8	12
+唔孬唔憶得	m7  monn2 m7  it4  tit4	50
+唔孬錢	m7  monn2  chinn5	50
 唔守法	m6  siu2  huap4	50
 唔安心	m7  uann1  sim1	51
 唔完全	m7  uan5  chhuan5	50
@@ -4439,15 +4432,12 @@ tshâu	chhau5	100
 唔害人	m7  hai7  nang5	50
 唔寬活	m7  khuann3  uah8	51
 唔專心	m7  chuan1  sim1	50
-唔對	m6  tui3	50
-唔對	m7  tui3	53
+唔對	m7  tui3	54
 唔對事	m7  tui3  sur7	50
 唔對人	m7  tui3  nang5	50
 唔對時	m7  tui3  si5	50
-唔就理	m6  chiu6  li2	50
-唔就理	m7  chiu6  li2	50
-唔平	m6  penn5	50
-唔平	m7  penn5	51
+唔就理	m7  chiu6  li2	51
+唔平	m7  penn5	52
 唔平	m7  pheng5	50
 唔平安	m7  pheng5  an1	52
 唔平常	m7  pheng5  sienn5	50
@@ -4465,8 +4455,7 @@ tshâu	chhau5	100
 唔惜體面	m7  sieh4 thi2  min7	50
 唔想長	m7  sienn6  tng5	50
 唔慣勢	m7  kuinn3  sinn3	50
-唔憶得	m6  it4  tit4	50
-唔憶得	m7  it4  tit4	50
+唔憶得	m7  it4  tit4	51
 唔應當	m7  eng1  tng1	50
 唔應該	m7  eng1  kai1	52
 唔成	m7  chiann5	50
@@ -4475,7 +4464,7 @@ tshâu	chhau5	100
 唔成功	m7  seng5  kong1	51
 唔成心	m7  seng5  sim1	50
 唔成樣	m7  chiann5  ienn7	54
-唔捌	m6  pat4	3
+唔捌	m7  pat4	3
 唔採	m6  chhai2	50
 唔改變	m6  koi2  pinn3	25
 唔攺變	m6  koi2  pinn3	12
@@ -4487,32 +4476,31 @@ tshâu	chhau5	100
 唔敢寬活	m7  kann2 khuann3  uah8	50
 唔敢忘	m7  kann2  buang5	50
 唔敢忘情	m7  kann2 buang5  chheng5	50
-唔敢見人	m6  kann2  kinn3  nang5	25
+唔敢見人	m7  kann2  kinn3  nang5	25
 唔敢見人	m7  kann2 kinn3  nang5	53
-唔敢見儂	m6  kann2  kinn3  nang5	12
+唔敢見儂	m7  kann2  kinn3  nang5	12
 唔敬	m7  keng3	50
 唔明	m7  meng5	50
 唔明理	m7  meng5  li2	50
 唔明白	m7  meng5  peh8	50
-唔是	m6  si6	50
-唔是	m7  si6	51
+唔是	m7  si6	52
 唔是事	m7  si6  sur7	51
 唔是人	m7  si6  nang5	26
 唔是儂	m7  si6  nang5	12
-唔是十一	m6  si6 chap8  it4	50
+唔是十一	m7  si6 chap8  it4	50
 唔是喙舌	m7  si6 chhui3  chih8	25
 唔是嘴舌	m7  si6 chhui3  chih8	12
-唔是彼樣生	m6  si6 hienn3  senn1	50
+唔是彼樣生	m7  si6 hienn3  senn1	50
 唔是我个事	m7  si6 ua2   kai5  sur7	51
 唔是此樣生	m7  si6 chienn3  senn1	50
-唔是汝	m6  si6 lur2	25
-唔是汝个	m6  si6 lur2  kai5	25
-唔是爾	m6  si6 lur2	12
-唔是爾个	m6  si6 lur2  kai5	12
+唔是汝	m7  si6 lur2	25
+唔是汝个	m7  si6 lur2  kai5	25
+唔是爾	m7  si6 lur2	12
+唔是爾个	m7  si6 lur2  kai5	12
 唔是生然	m7  si6 senn1  jien5	50
 唔時興	m7  si5  heng1	50
-唔曉	m6  hiou2	51
 唔曉	m7  hiau2	51
+唔曉	m7  hiou2	51
 唔曉世務	m7  hiau2 si3  bu6	50
 唔曉人	m7  hiau2  nang5	50
 唔曉人事	m7  hiau2 jin5  sur7	50
@@ -4533,13 +4521,11 @@ tshâu	chhau5	100
 唔消化	m7  siau1  hue3	50
 唔消食	m7  siau1  chiah8	50
 唔淨	m7  cheng6	50
-唔淸	m6  chheng1	12
-唔淸	m7  chheng1	14
+唔淸	m7  chheng1	15
 唔淸楚	m7  chheng1  chho2	12
 唔淸潔	m7  chheng1  khih4	14
 唔淸潔	m7  chheng1  kiet4	13
-唔清	m6  chheng1	25
-唔清	m7  chheng1	27
+唔清	m7  chheng1	28
 唔清楚	m7  chheng1  chho2	25
 唔清潔	m7  chheng1  khih4	27
 唔清潔	m7  chheng1  kiet4	26
@@ -4569,17 +4555,14 @@ tshâu	chhau5	100
 唔相符	m7  siang1  hu5	50
 唔相食	m6  sie1  chiah8	50
 唔看顧	m6  thoinn2  ku3	12
-唔着	m6  tieh8	56
-唔着	m7  tieh8	58
+唔着	m7  tieh8	65
 唔睇顧	m6  thoinn2  ku3	25
 唔睬	m7  chhai2	51
-唔知	m6  chai1	50
-唔知人	m6  chai1  nang5	26
-唔知人	m7  chai1  nang5	53
-唔知人情	m6  chai1 nang5  chheng5	25
-唔知儂	m6  chai1  nang5	13
-唔知儂	m7  chai1  nang5	12
-唔知儂情	m6  chai1 nang5  chheng5	12
+唔知	m7  chai1	50
+唔知人	m7  chai1  nang5	30
+唔知人情	m7  chai1 nang5  chheng5	25
+唔知儂	m7  chai1  nang5	14
+唔知儂情	m7  chai1 nang5  chheng5	12
 唔知對底塊去	m7  chai1  tui3  ti5  ko3 khur3	50
 唔知少禮	m7  chai1 siau2  li2	51
 唔知怎呢	m7  chai1 cho3  ninn5	50
@@ -4587,20 +4570,20 @@ tshâu	chhau5	100
 唔知痛	m7  chai1  thiann3	50
 唔知角察	m7  chai1 kak4  chhat4	50
 唔知足	m7  chai1  chok4	51
-唔知頭	m6  chai1  thau5	50
-唔知頭	m7  chai1  thau5	52
+唔知頭	m7  chai1  thau5	53
 唔穩當	m7  un2  tang3	50
 唔穩當	m7  un2  tng3	53
 唔端正	m7  tuan1  chiann3	50
-唔管	m6  kuan2	51
+唔管	m6  kuan2	50
+唔管	m7  kuan2	50
 唔結子	m7  kit4  chi2	50
 唔結實	m7  kat4  sit8	50
 唔綴羣	m7  tue3  khun5	12
 唔綴群	m7  tue3  khun5	25
-唔聽	m6  thiann1	51
+唔聽	m6  thiann1	50
+唔聽	m7  thiann1	50
 唔肖	m7  siau6	50
-唔肯	m6  kheng2	51
-唔肯	m7  kheng2	54
+唔肯	m7  kheng2	56
 唔肯和	m7  kheng2  hua5	50
 唔肯悔改	m7  kheng2 hue3  koi2	25
 唔肯悔攺	m7  kheng2 hue3  koi2	12
@@ -4612,24 +4595,21 @@ tshâu	chhau5	100
 唔舒暢	m7  su1  thiang3	50
 唔行孝	m6  kiann5  hau3	50
 唔行孝	m7  kiann5  hau3	50
-唔見	m6  kinn3	51
-唔見	m7  kinn3	53
+唔見	m7  kinn3	55
 唔見得	m7  kien3  tit4	50
 唔見得	m7  kinn3  tit4	50
 唔親像	m7  chhin1  chhienn6	54
 唔觀雅	m7  kuan1  ngia2	50
-唔記得	m6  ki3  tit4	50
-唔記得	m7  ki3  tit4	50
-唔該	m6  kai1	50
-唔該	m7  kai1	51
-唔認	m6  jin7	56
-唔認	m7  jin7	50
+唔記得	m7  ki3  tit4	51
+唔該	m7  kai1	52
+唔認	m6  jin7	55
+唔認	m7  jin7	51
 唔認招	m6  jin7  chiau1	50
 唔調和	m7  thiau5  hua5	50
 唔論是乜時候	m7  lun6 si6  mih4 si5  hau7	50
 唔謹慎	m7  kurn2  sin2	50
 唔謹言	m7  kurn2  ngan5	50
-唔識	m6  pat4	12
+唔識	m7  pat4	12
 唔貫串	m7  kuan3  chhuan3	50
 唔近人情	m7  kurn6 nang5  chheng5	50
 唔通	m7  thong1	50
@@ -4648,14 +4628,12 @@ tshâu	chhau5	100
 唔開喙	m7  khui1  chhui3	25
 唔開嘴	m6  khui1  chhui3	12
 唔開嘴	m7  khui1  chhui3	12
-唔閑	m6  oinn5	13
-唔閑	m7  oinn5	14
-唔閒	m6  oinn5	26
-唔閒	m7  oinn5	27
+唔閑	m7  oinn5	16
+唔閒	m7  oinn5	29
 唔關顧	m6  kuan1  ku3	25
 唔雅觀	m7  ngiann2  kuan1	50
-唔順	m6  sun6	51
-唔順	m7  sun6	52
+唔順	m6  sun6	50
+唔順	m7  sun6	53
 唔順人情	m7  sun6 nang5  chheng5	50
 唔順命	m7  sun6  meng6	50
 唔順從	m7  sun6  chhong5	50
@@ -4673,7 +4651,7 @@ tshâu	chhau5	100
 唔齊整	m7  choi5  chiann2	50
 唔𠕆	m7  toinn7	50
 唔𤰉	m7  la6	50
-唔𧧸	m6  pat4	6
+唔𧧸	m7  pat4	6
 唔𨵿顧	m6  kuan1  ku3	12
 唯意	jui5  i3	100
 唯汝是問	jui5  lur2 si6  mng7	100
@@ -4998,8 +4976,8 @@ tshâu	chhau5	100
 因爲	in1  ui5	100
 因爲	in1  ui6	104
 因爲怎呢	in1  ui6 cho3  ninn5	101
-因爲我唔去	in1  ui5 ua2 m6  khur3	50
-因爲我毋去	in1  ui5 ua2 m6  khur3	100
+因爲我唔去	in1  ui5 ua2 m7  khur3	50
+因爲我毋去	in1  ui5 ua2 m7  khur3	100
 因爲是乜事	in1  ui6 si6  mih4  sur7	100
 因由	in1  iu5	101
 因端	in1  tuan1	102
@@ -5854,13 +5832,13 @@ tshâu	chhau5	100
 天時	thinn1  si2	100
 天時	thinn1  si5	103
 天時	thinn5  si5	100
-天時唔孬	thinn1  si5 m6  monn2	50
+天時唔孬	thinn1  si5 m7  monn2	50
 天時好	thinn1  si5 ho2	101
 天時好了	thinn1  si5 ho2   lo7	100
 天時旱	thinn1  si2  uann6	100
 天時旱	thinn1  si5 uann6	100
 天時晴	thinn1  si5 chenn5	102
-天時毋孬	thinn1  si5 m6  monn2	100
+天時毋孬	thinn1  si5 m7  monn2	100
 天時溫和	thinn1  si5 un1  hua5	100
 天時烏暗	thinn1  si5 ou1  am3	101
 天時熱	thinn1  si5 juah8	101
@@ -6009,10 +5987,8 @@ tshâu	chhau5	100
 奇異	khi5  i6	106
 奇異个事	khi5  i6 kai5  sur7	100
 奇隻	khia1  chiah4	100
-奈唔去	nainn6  m6  khur3	50
-奈唔去	nainn6  m7  khur3	50
-奈毋去	nainn6  m6  khur3	100
-奈毋去	nainn6  m7  khur3	100
+奈唔去	nainn6  m7  khur3	51
+奈毋去	nainn6  m7  khur3	101
 奉命	hong6  meng6	101
 奉承	hong6  seng5	101
 奉教	hong6  ka3	100
@@ -7245,12 +7221,10 @@ tshâu	chhau5	100
 巫術	bu5  sut8	103
 差不多	chha1  put4  to1	102
 差使	chhe1  sai2	101
-差唔多	chha1  m6  to1	50
-差唔多	chha1  m7  to1	54
+差唔多	chha1  m7  to1	55
 差委	chhe1  ui2	100
 差役	chhe1  hiah8	102
-差毋多	chha1  m6  to1	100
-差毋多	chha1  m7  to1	104
+差毋多	chha1  m7  to1	105
 差票	chhe1  phie3	100
 差遣	chhe1  khien2	100
 差錯	chha1  chho3	103
@@ -7997,12 +7971,10 @@ tshâu	chhau5	100
 心痛	sim1 thiann3	100
 心硬	sim1 nge6	101
 心神	sim1  sin5	101
-心神唔定	sim1  sin5 m6  tiann3	50
-心神唔定	sim1  sin5 m6  tiann7	50
-心神唔定	sim1  sin5 m7  tiann7	51
-心神毋定	sim1  sin5 m6  tiann3	100
-心神毋定	sim1  sin5 m6  tiann7	100
-心神毋定	sim1  sin5 m7  tiann7	101
+心神唔定	sim1  sin5 m7  tiann3	50
+心神唔定	sim1  sin5 m7  tiann7	52
+心神毋定	sim1  sin5 m7  tiann3	100
+心神毋定	sim1  sin5 m7  tiann7	102
 心神油在物上許外	sim1  sin5 iu5 to6  mueh8  siang6 hur2  gua7	100
 心竅	sim1  khiau3	100
 心竅猛	sim1  khiau3 menn2	100
@@ -8176,14 +8148,14 @@ tshâu	chhau5	100
 恁个生理酷爇	nin2  kai5 seng1  li2 hoh4  jiet8	50
 恁二位	nin2 ji7  ui7	100
 恁來	nin2 lai5	100
-恁唔孬䛩	nin2 m6  monn2 a3	12
-恁唔孬分伊去	nin2 m6  monn2 pun1 i1 khur3	50
-恁唔孬詏	nin2 m6  monn2 a3	25
+恁唔孬䛩	nin2 m7  monn2 a3	12
+恁唔孬分伊去	nin2 m7  monn2 pun1 i1 khur3	50
+恁唔孬詏	nin2 m7  monn2 a3	25
 恁大人	nin2 tua7   nang5	100
 恁是我个朋友	nin2 si6 ua2 kai5 pheng5  iu2	100
-恁毋孬䛩	nin2 m6  monn2 a3	50
-恁毋孬分伊去	nin2 m6  monn2 pun1 i1 khur3	100
-恁毋孬詏	nin2 m6  monn2 a3	100
+恁毋孬䛩	nin2 m7  monn2 a3	50
+恁毋孬分伊去	nin2 m7  monn2 pun1 i1 khur3	100
+恁毋孬詏	nin2 m7  monn2 a3	100
 恃財	si6  chhai5	100
 恍惚	huang2  hut4	100
 恍惚無定	huang2  hut4 bo5  tiann7	100
@@ -8343,7 +8315,7 @@ tshâu	chhau5	100
 愁鬱	chhou5  ut4	100
 愈㩼愈好	ju2  choi7 ju2  ho2	100
 愈唔好	ju2  m7  ho2	50
-愈唔孬	ju2  m6  monn2	50
+愈唔孬	ju2  m7  monn2	50
 愈好	ju2  ho2	101
 愈弄愈大	ju2  long6 ju2  tua7	100
 愈敬㩼	ju2  keng3  choi7	100
@@ -8354,7 +8326,7 @@ tshâu	chhau5	100
 愈更毋好	ju5  keng3 m7  ho2	100
 愈死	ju2  si2	100
 愈毋好	ju2  m7  ho2	100
-愈毋孬	ju2  m6  monn2	100
+愈毋孬	ju2  m7  monn2	100
 愈閣羅愈唔睬	ju2  koh4  lo5 ju2  m7  chhai2	50
 愈閣羅愈毋睬	ju2  koh4  lo5 ju2  m7  chhai2	100
 意切	i3 chhiet4	101
@@ -8574,10 +8546,10 @@ tshâu	chhau5	100
 我个肚此寡日澁在	ua2 kai5 tou2 chi2  kua1  jit8 siap4  chai6	50
 我个頭毛長了	ua2 kai5 thau5  monn5 tng5   lo7	100
 我也無去	ua2 ia7 bo5  khur3	100
-我今旦日人唔孬	ua2 kiann2  jit8 nang5 m6  monn2	50
-我今旦日人毋孬	ua2 kiann2  jit8 nang5 m6  monn2	100
-我今旦日儂唔孬	ua2 kiann2  jit8 nang5 m6  monn2	12
-我今旦日儂毋孬	ua2 kiann2  jit8 nang5 m6  monn2	25
+我今旦日人唔孬	ua2 kiann2  jit8 nang5 m7  monn2	50
+我今旦日人毋孬	ua2 kiann2  jit8 nang5 m7  monn2	100
+我今旦日儂唔孬	ua2 kiann2  jit8 nang5 m7  monn2	12
+我今旦日儂毋孬	ua2 kiann2  jit8 nang5 m7  monn2	25
 我今旦日通日在內	ua2 kiann2  jit8 thang3  jit8 to6 lai7	100
 我佮此間雜港行交關㩼	ua2 kah4 chi2  koinn1 chap8  kang2  hang2 kau1  kuan1 choi7	100
 我佮此間雜港行交𨵿㩼	ua2 kah4 chi2  koinn1 chap8  kang2  hang2 kau1  kuan1 choi7	50
@@ -8590,18 +8562,18 @@ tshâu	chhau5	100
 我分伊打	ua2 pun1 i1 phah4	50
 我分伊拍	ua2 pun1 i1 phah4	100
 我受虧	ua2 siu6  khui1	100
-我哩唔知	ua2 li1 m6  chai1	50
-我哩毋知	ua2 li1 m6  chai1	100
-我唔信汝	ua2 m6  sin3 lur2	25
-我唔信爾	ua2 m6  sin3 lur2	12
-我唔去	ua2 m6  khur3	50
-我唔捌伊	ua2 m6  pat4 i1	3
+我哩唔知	ua2 li1 m7  chai1	50
+我哩毋知	ua2 li1 m7  chai1	100
+我唔信汝	ua2 m7  sin3 lur2	25
+我唔信爾	ua2 m7  sin3 lur2	12
+我唔去	ua2 m7  khur3	50
+我唔捌伊	ua2 m7  pat4 i1	3
 我唔敢當	ua2 m7  kann2  tng1	50
-我唔曉	ua2 m6  hiou2	50
-我唔曉擎箸	ua2 m6  hiou2 khia5  tur7	50
-我唔知	ua2 m6  chai1	51
-我唔識伊	ua2 m6  pat4 i1	12
-我唔𧧸伊	ua2 m6  pat4 i1	6
+我唔曉	ua2 m7  hiou2	50
+我唔曉擎箸	ua2 m7  hiou2 khia5  tur7	50
+我唔知	ua2 m7  chai1	51
+我唔識伊	ua2 m7  pat4 i1	12
+我唔𧧸伊	ua2 m7  pat4 i1	6
 我在寫字	ua2 to6 sia2  ji7	100
 我在彼有一間	ua2 to6  hie2 u6 chek8  koinn1	100
 我在批我个指甲	ua2 to6 phoi1 ua2 kai2 chng2  kah4	100
@@ -8659,21 +8631,21 @@ tshâu	chhau5	100
 我捌伊	ua2 pat4 i1	100
 我日晝愛去乞人請	ua2 jit8  tau3 ainn3  khur3 khoih4  nang5  chhiann2	100
 我日晝愛去乞儂請	ua2 jit8  tau3 ainn3  khur3 khoih4  nang5  chhiann2	50
-我早唔捌來此塊	ua2 cha2 m6  pat4 lai5   chie2	3
-我早唔識來此塊	ua2 cha2 m6  pat4 lai5   chie2	12
-我早唔𧧸來此塊	ua2 cha2 m6  pat4 lai5   chie2	6
-我早毋捌來此塊	ua2 cha2 m6  pat4 lai5   chie2	25
-我早毋識來此塊	ua2 cha2 m6  pat4 lai5   chie2	100
-我早毋𧧸來此塊	ua2 cha2 m6  pat4 lai5   chie2	50
+我早唔捌來此塊	ua2 cha2 m7  pat4 lai5   chie2	3
+我早唔識來此塊	ua2 cha2 m7  pat4 lai5   chie2	12
+我早唔𧧸來此塊	ua2 cha2 m7  pat4 lai5   chie2	6
+我早毋捌來此塊	ua2 cha2 m7  pat4 lai5   chie2	25
+我早毋識來此塊	ua2 cha2 m7  pat4 lai5   chie2	100
+我早毋𧧸來此塊	ua2 cha2 m7  pat4 lai5   chie2	50
 我明年愛轉去	ua2 menn5  ninn5 ainn3  tng2   khur3	100
 我明旦起个事㩼在	ua2 mann3  khi2 kai5 sur7 choi7  chai7	100
 我昨夜通夜袂夗	ua2 cha1  menn5 thang3  menn5 boi6  ut8	100
 我昨夜通夜𠀾夗	ua2 cha1  menn5 thang3  menn5 boi6  ut8	50
-我昨日唔記得佮汝呾	ua2 cha1  jit8 m6  ki3  tit4 kah4 lur2 tann3	25
-我昨日唔記得佮爾呾	ua2 cha1  jit8 m6  ki3  tit4 kah4 lur2 tann3	12
+我昨日唔記得佮汝呾	ua2 cha1  jit8 m7  ki3  tit4 kah4 lur2 tann3	25
+我昨日唔記得佮爾呾	ua2 cha1  jit8 m7  ki3  tit4 kah4 lur2 tann3	12
 我昨日曾來。我昨日有來	ua2 cha1  jit8 cheng5   lai5; ua2 cha1  jit8 u6   lai5	100
-我昨日毋記得佮汝呾	ua2 cha1  jit8 m6  ki3  tit4 kah4 lur2 tann3	100
-我昨日毋記得佮爾呾	ua2 cha1  jit8 m6  ki3  tit4 kah4 lur2 tann3	50
+我昨日毋記得佮汝呾	ua2 cha1  jit8 m7  ki3  tit4 kah4 lur2 tann3	100
+我昨日毋記得佮爾呾	ua2 cha1  jit8 m7  ki3  tit4 kah4 lur2 tann3	50
 我昨暝通暝袂夗	ua2 cha1  menn5 thang3  menn5 boi6  ut8	25
 我昨暝通暝𠀾夗	ua2 cha1  menn5 thang3  menn5 boi6  ut8	12
 我是	ua2 si6	100
@@ -8683,29 +8655,29 @@ tshâu	chhau5	100
 我會凊	ua2 oi6  chhin3	100
 我有	ua2 u6	100
 我有病	ua2 u6  penn7	100
-我次次來到覓汝唔在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	50
-我次次來到覓汝毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	100
-我次次來到覓爾唔在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	12
-我次次來到覓爾毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	25
-我次次來到覔汝唔在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	3
-我次次來到覔汝毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	6
-我次次來到覔爾毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m6  to6	1
-我此個地方唔熟	ua2 chi2  kai5 ti7  hng1 m6  sek8	50
-我此個地方毋熟	ua2 chi2  kai5 ti7  hng1 m6  sek8	100
-我此個禮拜唔閑在	ua2 chi2  kai5 loi2  pai3 m6  oinn5 chai6	12
-我此個禮拜唔閒在	ua2 chi2  kai5 loi2  pai3 m6  oinn5 chai6	25
-我此個禮拜毋閑在	ua2 chi2  kai5 loi2  pai3 m6  oinn5 chai6	50
-我此個禮拜毋閒在	ua2 chi2  kai5 loi2  pai3 m6  oinn5 chai6	100
-我毋信汝	ua2 m6  sin3 lur2	100
-我毋信爾	ua2 m6  sin3 lur2	50
-我毋去	ua2 m6  khur3	100
-我毋捌伊	ua2 m6  pat4 i1	25
+我次次來到覓汝唔在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	50
+我次次來到覓汝毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	100
+我次次來到覓爾唔在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	12
+我次次來到覓爾毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	25
+我次次來到覔汝唔在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	3
+我次次來到覔汝毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	6
+我次次來到覔爾毋在	ua2 chua7  chua7 lai5  kau3 chhue7 lur2 m7  to6	1
+我此個地方唔熟	ua2 chi2  kai5 ti7  hng1 m7  sek8	50
+我此個地方毋熟	ua2 chi2  kai5 ti7  hng1 m7  sek8	100
+我此個禮拜唔閑在	ua2 chi2  kai5 loi2  pai3 m7  oinn5 chai6	12
+我此個禮拜唔閒在	ua2 chi2  kai5 loi2  pai3 m7  oinn5 chai6	25
+我此個禮拜毋閑在	ua2 chi2  kai5 loi2  pai3 m7  oinn5 chai6	50
+我此個禮拜毋閒在	ua2 chi2  kai5 loi2  pai3 m7  oinn5 chai6	100
+我毋信汝	ua2 m7  sin3 lur2	100
+我毋信爾	ua2 m7  sin3 lur2	50
+我毋去	ua2 m7  khur3	100
+我毋捌伊	ua2 m7  pat4 i1	25
 我毋敢當	ua2 m7  kann2  tng1	100
-我毋曉	ua2 m6  hiou2	100
-我毋曉擎箸	ua2 m6  hiou2 khia5  tur7	100
-我毋知	ua2 m6  chai1	101
-我毋識伊	ua2 m6  pat4 i1	100
-我毋𧧸伊	ua2 m6  pat4 i1	50
+我毋曉	ua2 m7  hiou2	100
+我毋曉擎箸	ua2 m7  hiou2 khia5  tur7	100
+我毋知	ua2 m7  chai1	101
+我毋識伊	ua2 m7  pat4 i1	100
+我毋𧧸伊	ua2 m7  pat4 i1	50
 我無	ua2 bo5	100
 我無乜愛去	ua2 bo5  mih4 ainn3  khur3	100
 我無乜願去	ua2 bo5  mih4 nguan6  khur3	100
@@ -8723,8 +8695,8 @@ tshâu	chhau5	100
 我知伊在底塊徛起	ua2 chai1 i1 to6 ti5  ko3 khia6  khi2	100
 我納意	ua2 nap8  i3	100
 我細伊一歲	ua2 soi3   i1 chek8  hue3	100
-我聽唔見	ua2 thiann1 m6  kinn3	50
-我聽毋見	ua2 thiann1 m6  kinn3	100
+我聽唔見	ua2 thiann1 m7  kinn3	50
+我聽毋見	ua2 thiann1 m7  kinn3	100
 我聽見伊哭	ua2 thiann1  kinn3 i1 khau3	100
 我袂寫	ua2 boi6  sia2	100
 我被伊絀	ua2 pi6  i1  chhuah4	100
@@ -8753,8 +8725,8 @@ tshâu	chhau5	100
 或有或無	hok8  u6 hok8  bo5	100
 或者	hok8  chia2	100
 或者	pa1  lak4	103
-或者下旰亦唔知	pa1  lak4 e6  kua3 ia7 m6  chai1	50
-或者下旰亦毋知	pa1  lak4 e6  kua3 ia7 m6  chai1	100
+或者下旰亦唔知	pa1  lak4 e6  kua3 ia7 m7  chai1	50
+或者下旰亦毋知	pa1  lak4 e6  kua3 ia7 m7  chai1	100
 或者無	pa1  lak4 bo5	100
 戥若重	teng2  jieh8  tang6	100
 戥閃	teng2  siam2	100
@@ -9525,8 +9497,8 @@ tshâu	chhau5	100
 拜偶像	pai3  ngou2  sienn3	100
 拜六	pai3  lak8	101
 拜四	pai3  si3	101
-拜四我唔在	pai3  si3 ua2 m6  to6	50
-拜四我毋在	pai3  si3 ua2 m6  to6	100
+拜四我唔在	pai3  si3 ua2 m7  to6	50
+拜四我毋在	pai3  si3 ua2 m7  to6	100
 拜墊	pai3  tien6	100
 拜墳	pai3  phun5	100
 拜家神	pai3  ke1  sin5	100
@@ -9909,10 +9881,10 @@ tshâu	chhau5	100
 掠人厭棄	liah8   nang5 iam3  khi3	100
 掠做奴	liah8  cho3  nounn5	100
 掠做奴僕	liah8  cho3 nounn5  pok8	100
-掠唔打緊	liah8  m6  ta2  keng2	50
+掠唔打緊	liah8  m7  ta2  keng2	50
 掠埋	liah8  bua5	100
 掠尾	liah8  bue2	100
-掠毋打緊	liah8  m6  ta2  keng2	100
+掠毋打緊	liah8  m7  ta2  keng2	100
 掠漏	liah8  lau7	100
 掠着	liah8   tieh8	100
 掠着人个癖病	liah8   tieh8 nang5 kai5  phiah4  penn7	100
@@ -10246,8 +10218,8 @@ tshâu	chhau5	100
 擇測穗	toh8  chhek4  sui7	100
 擊打	khek4  phah4	50
 擊拍	khek4  phah4	100
-擋唔條	tong3  m6  tiou5	50
-擋毋條	tong3  m6  tiou5	100
+擋唔條	tong3  m7  tiou5	50
+擋毋條	tong3  m7  tiou5	100
 操兵	chhau1  piann1	102
 操兵練卒	chhau1  piann1 lien7  chut4	100
 操心腸	chhau1  sim1 peh4  tng5	100
@@ -10943,8 +10915,8 @@ tshâu	chhau5	100
 明旦起任底時	mann3  khi2 juan6 tiang1  si1	100
 明旦起伊个案再審	mann3  khi2 i1 kai5 uann3 chai3  sim2	100
 明旦起愛迎老爺	mann3  khi2 ainn3 iann5  lau6  ia5	100
-明旦起我唔在	mann3  khi2 ua2 m6  to6	50
-明旦起我毋在	mann3  khi2 ua2 m6  to6	100
+明旦起我唔在	mann3  khi2 ua2 m7  to6	50
+明旦起我毋在	mann3  khi2 ua2 m7  to6	100
 明旦起正來	mann3  khi2 chiann3  lai5	100
 明早	muann3  cha2	102
 明明	meng5  meng5	102
@@ -12335,8 +12307,8 @@ tshâu	chhau5	100
 此三張挈去信𨵿	chi2 sann1  tienn1 khieh8 khur3 sin3  kuan1	50
 此世	chhur2  si3	100
 此些个	chi2  chuann3  kai5	100
-此些个唔是	chi2  chuann3  kai5 m6  si6	50
-此些个毋是	chi2  chuann3  kai5 m6  si6	100
+此些个唔是	chi2  chuann3  kai5 m7  si6	50
+此些个毋是	chi2  chuann3  kai5 m7  si6	100
 此些時無生理	chi2  chuann3  si5 bo5 seng1  li2	100
 此位老人家	chi2  ui7 lau6  nang5  ke1	100
 此個	chi2  kai5	102
@@ -12370,7 +12342,7 @@ tshâu	chhau5	100
 此個送汝	chi2   kai5 sang3 lur2	100
 此個送爾	chi2   kai5 sang3 lur2	50
 此個銀好使	chi2  kai5  ngurn5 ho2  sai2	100
-此唔是	chia2 m6  si6	50
+此唔是	chia2 m7  si6	50
 此囘	chi2  hue5	52
 此回	chi2  hue5	102
 此在	chhur2  chai6	101
@@ -12386,8 +12358,8 @@ tshâu	chhau5	100
 此張圓床來徙放別塊	chi2  tienn1 inn5  chhng5 lai5 sua2 pang3 pat8  ko3	100
 此張圓牀來徙放別塊	chi2  tienn1 inn5  chhng5 lai5 sua2 pang3 pat8  ko3	50
 此後	chhur2  au6	100
-此我唔曉怎呢物	chia2 ua2 m6  hiou2 cho3  ninn5 mueh8	50
-此我毋曉怎呢物	chia2 ua2 m6  hiou2 cho3  ninn5 mueh8	100
+此我唔曉怎呢物	chia2 ua2 m7  hiou2 cho3  ninn5 mueh8	50
+此我毋曉怎呢物	chia2 ua2 m7  hiou2 cho3  ninn5 mueh8	100
 此日	chhur2  jit8	100
 此時	chhur2  si5	100
 此枝柱大枝	chi2  ki1 thiou6 tua7  ki1	100
@@ -12405,7 +12377,7 @@ tshâu	chhau5	100
 此樣畔	chienn3  poinn5	50
 此樣頭	chienn3  thau5	101
 此次	chhur2  chhur3	100
-此毋是	chia2 m6  si6	100
+此毋是	chia2 m7  si6	100
 此竊	chhur2  chhiap4	100
 此耗	chhur2  ho3	100
 此起	chi2  khi2	100
@@ -12527,8 +12499,7 @@ tshâu	chhau5	100
 毋全	m7  chhuan5	102
 毋公平	m7  kong1  pheng5	100
 毋公正	m7  kong1  chiann3	100
-毋公道	m6  kong1  tau6	100
-毋公道	m7  kong1  tau6	102
+毋公道	m7  kong1  tau6	103
 毋出色	m7  chhut4  sek4	100
 毋出身	m7  chhut4  sin1	100
 毋分明	m7  hun1  meng5	100
@@ -12546,15 +12517,14 @@ tshâu	chhau5	100
 毋到	m7  kau3	100
 毋到底塊去	m7  kau3 ti5  ko3  khur3	100
 毋動心	m7  tong6  sim1	100
-毋厚待	m6  kau6  thai6	100
+毋厚待	m7  kau6  thai6	100
 毋厚待人	m7  kau6  thai6  nang5	100
 毋厚待儂	m7  kau6  thai6  nang5	50
 毋取	m6  chhu2	100
 毋受教示	m6  siu6 ka3  si7	100
 毋受照	m7  siu6  chie3	100
 毋受舵	m7  siu6  tua6	100
-毋合	m6  hah8	100
-毋合	m7  hah8	105
+毋合	m7  hah8	106
 毋合例	m7  hah8  li7	100
 毋合喙	m7  hah8  chhui3	100
 毋合嘴	m7  hah8  chhui3	50
@@ -12563,8 +12533,7 @@ tshâu	chhau5	100
 毋合時	m7  hah8  si5	101
 毋合時尙	m7  hah8 si5  siang6	50
 毋合時尚	m7  hah8 si5  siang6	100
-毋合法	m6  hah8  huap4	100
-毋合法	m7  hah8  huap4	102
+毋合法	m7  hah8  huap4	103
 毋合理	m7  hah8  li2	100
 毋合理儀	m7  hah8 li2  ngi5	100
 毋合理律	m7  hah8 li2  lut8	100
@@ -12576,25 +12545,21 @@ tshâu	chhau5	100
 毋同	m7  tang5	100
 毋同心	m7  tang5  sim1	100
 毋同意	m7  tang5  i3	100
-毋和	m6  hua5	100
-毋和	m7  hua5	103
+毋和	m7  hua5	104
 毋和睦	m7  hua5  mok8	102
 毋在	m7  to6	101
 毋在意	m7  to6  i3	100
 毋執意	m7  chip4  i3	100
 毋堅固	m7  kien1  ku3	100
-毋堪	m6  kham1	100
-毋堪當	m6  kham1  tng1	100
-毋堪當	m7  kham1  tng1	101
-毋堪該	m6  kham1  kai1	100
-毋堪該	m7  kham1  kai1	100
+毋堪	m7  kham1	100
+毋堪當	m7  kham1  tng1	102
+毋堪該	m7  kham1  kai1	101
 毋夠	m7  kau3	105
 毋夠個	m7  kau3  kai5	100
 毋夠本	m7  kau3  png2	100
 毋夠水	m7  kau3  chui2	100
 毋夠食	m7  kau3  chiah8	100
-毋好	m6  haunn3	101
-毋好	m7  haunn3	106
+毋好	m7  haunn3	108
 毋好	m7  ho2	102
 毋好䛩	m7  ho2  a3	50
 毋好事	m7  ho2  sur7	100
@@ -12630,12 +12595,12 @@ tshâu	chhau5	100
 毋好駁氣	m7  ho2 poh4  khui3	100
 毋如意	m7  ju5  i3	101
 毋妥當	m7  tho2  tang3	103
-毋孬	m6  monn2	101
-毋孬做賊	m6  monn2 chǒ1  chhat8	100
-毋孬偷挈人个物	m6  monn2 thau1  khieh8 nang5 kai5 mueh8	100
-毋孬偷挈儂个物	m6  monn2 thau1  khieh8 nang5 kai5 mueh8	50
-毋孬毋憶得	m6  monn2 m6  it4  tit4	100
-毋孬錢	m6  monn2  chinn5	100
+毋孬	m7  monn2	101
+毋孬做賊	m7  monn2 chǒ1  chhat8	100
+毋孬偷挈人个物	m7  monn2 thau1  khieh8 nang5 kai5 mueh8	100
+毋孬偷挈儂个物	m7  monn2 thau1  khieh8 nang5 kai5 mueh8	50
+毋孬毋憶得	m7  monn2 m7  it4  tit4	100
+毋孬錢	m7  monn2  chinn5	100
 毋守法	m6  siu2  huap4	100
 毋安心	m7  uann1  sim1	101
 毋完全	m7  uan5  chhuan5	100
@@ -12643,15 +12608,12 @@ tshâu	chhau5	100
 毋害人	m7  hai7  nang5	100
 毋寬活	m7  khuann3  uah8	101
 毋專心	m7  chuan1  sim1	100
-毋對	m6  tui3	100
-毋對	m7  tui3	103
+毋對	m7  tui3	104
 毋對事	m7  tui3  sur7	100
 毋對人	m7  tui3  nang5	100
 毋對時	m7  tui3  si5	100
-毋就理	m6  chiu6  li2	100
-毋就理	m7  chiu6  li2	100
-毋平	m6  penn5	100
-毋平	m7  penn5	101
+毋就理	m7  chiu6  li2	101
+毋平	m7  penn5	102
 毋平	m7  pheng5	100
 毋平安	m7  pheng5  an1	102
 毋平常	m7  pheng5  sienn5	100
@@ -12669,8 +12631,7 @@ tshâu	chhau5	100
 毋惜體面	m7  sieh4 thi2  min7	100
 毋想長	m7  sienn6  tng5	100
 毋慣勢	m7  kuinn3  sinn3	100
-毋憶得	m6  it4  tit4	100
-毋憶得	m7  it4  tit4	100
+毋憶得	m7  it4  tit4	101
 毋應當	m7  eng1  tng1	100
 毋應該	m7  eng1  kai1	102
 毋成	m7  chiann5	100
@@ -12679,7 +12640,7 @@ tshâu	chhau5	100
 毋成功	m7  seng5  kong1	101
 毋成心	m7  seng5  sim1	100
 毋成樣	m7  chiann5  ienn7	104
-毋捌	m6  pat4	25
+毋捌	m7  pat4	25
 毋採	m6  chhai2	100
 毋改變	m6  koi2  pinn3	100
 毋攺變	m6  koi2  pinn3	50
@@ -12691,32 +12652,31 @@ tshâu	chhau5	100
 毋敢忘	m7  kann2  buang5	100
 毋敢忘情	m7  kann2 buang5  chheng5	100
 毋敢毋做	m7  kann2 m6  cho3	100
-毋敢見人	m6  kann2  kinn3  nang5	100
+毋敢見人	m7  kann2  kinn3  nang5	100
 毋敢見人	m7  kann2 kinn3  nang5	103
-毋敢見儂	m6  kann2  kinn3  nang5	50
+毋敢見儂	m7  kann2  kinn3  nang5	50
 毋敬	m7  keng3	100
 毋明	m7  meng5	100
 毋明理	m7  meng5  li2	100
 毋明白	m7  meng5  peh8	100
-毋是	m6  si6	100
-毋是	m7  si6	101
+毋是	m7  si6	102
 毋是事	m7  si6  sur7	101
 毋是人	m7  si6  nang5	101
 毋是儂	m7  si6  nang5	50
-毋是十一	m6  si6 chap8  it4	100
+毋是十一	m7  si6 chap8  it4	100
 毋是喙舌	m7  si6 chhui3  chih8	100
 毋是嘴舌	m7  si6 chhui3  chih8	50
-毋是彼樣生	m6  si6 hienn3  senn1	100
+毋是彼樣生	m7  si6 hienn3  senn1	100
 毋是我个事	m7  si6 ua2   kai5  sur7	101
 毋是此樣生	m7  si6 chienn3  senn1	100
-毋是汝	m6  si6 lur2	100
-毋是汝个	m6  si6 lur2  kai5	100
-毋是爾	m6  si6 lur2	50
-毋是爾个	m6  si6 lur2  kai5	50
+毋是汝	m7  si6 lur2	100
+毋是汝个	m7  si6 lur2  kai5	100
+毋是爾	m7  si6 lur2	50
+毋是爾个	m7  si6 lur2  kai5	50
 毋是生然	m7  si6 senn1  jien5	100
 毋時興	m7  si5  heng1	100
-毋曉	m6  hiou2	101
 毋曉	m7  hiau2	101
+毋曉	m7  hiou2	101
 毋曉世務	m7  hiau2 si3  bu6	100
 毋曉人	m7  hiau2  nang5	100
 毋曉人事	m7  hiau2 jin5  sur7	100
@@ -12737,13 +12697,11 @@ tshâu	chhau5	100
 毋消化	m7  siau1  hue3	100
 毋消食	m7  siau1  chiah8	100
 毋淨	m7  cheng6	100
-毋淸	m6  chheng1	50
-毋淸	m7  chheng1	52
+毋淸	m7  chheng1	53
 毋淸楚	m7  chheng1  chho2	50
 毋淸潔	m7  chheng1  khih4	52
 毋淸潔	m7  chheng1  kiet4	51
-毋清	m6  chheng1	100
-毋清	m7  chheng1	102
+毋清	m7  chheng1	103
 毋清楚	m7  chheng1  chho2	100
 毋清潔	m7  chheng1  khih4	102
 毋清潔	m7  chheng1  kiet4	101
@@ -12773,17 +12731,14 @@ tshâu	chhau5	100
 毋相符	m7  siang1  hu5	100
 毋相食	m6  sie1  chiah8	100
 毋看顧	m6  thoinn2  ku3	50
-毋着	m6  tieh8	106
-毋着	m7  tieh8	108
+毋着	m7  tieh8	115
 毋睇顧	m6  thoinn2  ku3	100
 毋睬	m7  chhai2	101
-毋知	m6  chai1	100
-毋知人	m6  chai1  nang5	101
-毋知人	m7  chai1  nang5	103
-毋知人情	m6  chai1 nang5  chheng5	100
-毋知儂	m6  chai1  nang5	51
-毋知儂	m7  chai1  nang5	50
-毋知儂情	m6  chai1 nang5  chheng5	50
+毋知	m7  chai1	100
+毋知人	m7  chai1  nang5	105
+毋知人情	m7  chai1 nang5  chheng5	100
+毋知儂	m7  chai1  nang5	52
+毋知儂情	m7  chai1 nang5  chheng5	50
 毋知對底塊去	m7  chai1  tui3  ti5  ko3 khur3	100
 毋知少禮	m7  chai1 siau2  li2	101
 毋知怎呢	m7  chai1 cho3  ninn5	100
@@ -12791,20 +12746,20 @@ tshâu	chhau5	100
 毋知痛	m7  chai1  thiann3	100
 毋知角察	m7  chai1 kak4  chhat4	100
 毋知足	m7  chai1  chok4	101
-毋知頭	m6  chai1  thau5	100
-毋知頭	m7  chai1  thau5	102
+毋知頭	m7  chai1  thau5	103
 毋穩當	m7  un2  tang3	100
 毋穩當	m7  un2  tng3	103
 毋端正	m7  tuan1  chiann3	100
-毋管	m6  kuan2	101
+毋管	m6  kuan2	100
+毋管	m7  kuan2	100
 毋結子	m7  kit4  chi2	100
 毋結實	m7  kat4  sit8	100
 毋綴羣	m7  tue3  khun5	50
 毋綴群	m7  tue3  khun5	100
-毋聽	m6  thiann1	101
+毋聽	m6  thiann1	100
+毋聽	m7  thiann1	100
 毋肖	m7  siau6	100
-毋肯	m6  kheng2	101
-毋肯	m7  kheng2	104
+毋肯	m7  kheng2	106
 毋肯和	m7  kheng2  hua5	100
 毋肯悔改	m7  kheng2 hue3  koi2	100
 毋肯悔攺	m7  kheng2 hue3  koi2	50
@@ -12816,24 +12771,21 @@ tshâu	chhau5	100
 毋舒暢	m7  su1  thiang3	100
 毋行孝	m6  kiann5  hau3	100
 毋行孝	m7  kiann5  hau3	100
-毋見	m6  kinn3	101
-毋見	m7  kinn3	103
+毋見	m7  kinn3	105
 毋見得	m7  kien3  tit4	100
 毋見得	m7  kinn3  tit4	100
 毋親像	m7  chhin1  chhienn6	104
 毋觀雅	m7  kuan1  ngia2	100
-毋記得	m6  ki3  tit4	100
-毋記得	m7  ki3  tit4	100
-毋該	m6  kai1	100
-毋該	m7  kai1	101
-毋認	m6  jin7	106
-毋認	m7  jin7	100
+毋記得	m7  ki3  tit4	101
+毋該	m7  kai1	102
+毋認	m6  jin7	105
+毋認	m7  jin7	101
 毋認招	m6  jin7  chiau1	100
 毋調和	m7  thiau5  hua5	100
 毋論是乜時候	m7  lun6 si6  mih4 si5  hau7	100
 毋謹慎	m7  kurn2  sin2	100
 毋謹言	m7  kurn2  ngan5	100
-毋識	m6  pat4	100
+毋識	m7  pat4	100
 毋貫串	m7  kuan3  chhuan3	100
 毋近人情	m7  kurn6 nang5  chheng5	100
 毋通	m7  thong1	100
@@ -12852,14 +12804,12 @@ tshâu	chhau5	100
 毋開喙	m7  khui1  chhui3	100
 毋開嘴	m6  khui1  chhui3	50
 毋開嘴	m7  khui1  chhui3	50
-毋閑	m6  oinn5	51
-毋閑	m7  oinn5	52
-毋閒	m6  oinn5	101
-毋閒	m7  oinn5	102
+毋閑	m7  oinn5	54
+毋閒	m7  oinn5	104
 毋關顧	m6  kuan1  ku3	100
 毋雅觀	m7  ngiann2  kuan1	100
-毋順	m6  sun6	101
-毋順	m7  sun6	102
+毋順	m6  sun6	100
+毋順	m7  sun6	103
 毋順人情	m7  sun6 nang5  chheng5	100
 毋順命	m7  sun6  meng6	100
 毋順從	m7  sun6  chhong5	100
@@ -12877,7 +12827,7 @@ tshâu	chhau5	100
 毋齊整	m7  choi5  chiann2	100
 毋𠕆	m7  toinn7	100
 毋𤰉	m7  la6	100
-毋𧧸	m6  pat4	50
+毋𧧸	m7  pat4	50
 毋𨵿顧	m6  kuan1  ku3	50
 母利	bo2  lai7	101
 母姨	bo2  i5	102
@@ -13102,11 +13052,11 @@ tshâu	chhau5	100
 汚辱	u1  jok8	51
 汝一下認我就放汝去	lur2 chek8  e7  jin7 ua2 chiu6  pang3 lur2  khur3	100
 汝下個拜一來	lur2 e6  kai5 pai3  it4 lai5	100
-汝下日唔孬此樣生	lur2 e6  jit8 m6  monn2 chienn3  senn1	50
-汝下日毋孬此樣生	lur2 e6  jit8 m6  monn2 chienn3  senn1	100
-汝个唔是此樣生	lur2  kai5 m6  si6 chienn3  senn1	50
+汝下日唔孬此樣生	lur2 e6  jit8 m7  monn2 chienn3  senn1	50
+汝下日毋孬此樣生	lur2 e6  jit8 m7  monn2 chienn3  senn1	100
+汝个唔是此樣生	lur2  kai5 m7  si6 chienn3  senn1	50
 汝个手伸出來	lur2 kai5 chhiu2 chhun1   chhut4  lai5	100
-汝个毋是此樣生	lur2  kai5 m6  si6 chienn3  senn1	100
+汝个毋是此樣生	lur2  kai5 m7  si6 chienn3  senn1	100
 汝个脈猛	lur2 kai5 mehnn2 menn2	100
 汝个脉猛	lur2 kai5 mehnn2 menn2	50
 汝亦有	lur2 ia7 u6	100
@@ -13121,8 +13071,8 @@ tshâu	chhau5	100
 汝去趭伊	lur2 khur3  jiou7 i1	100
 汝叫司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	100
 汝呌司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	50
-汝唔孬去	lur2 m6  monn2 khur3	50
-汝唔孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	50
+汝唔孬去	lur2 m7  monn2 khur3	50
+汝唔孬夗到日晏正走起	lur2 m7  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	50
 汝在彼塊	lur2 to6 hur2  ko3	100
 汝夗到日彼樣晏正走起	lur2 ut8  kau3 jit8 hienn3  uann3 chiann3  chau2  khi2	100
 汝好去	lur2 ho2  khur3	100
@@ -13142,8 +13092,8 @@ tshâu	chhau5	100
 汝曾上市未	lur2 cheng5 chienn6  chhi6   bue7	100
 汝枝秤閃	lur2 ki1 chhin3 siam2	100
 汝此內有一撮奇巧物	lur2 chi2  lai6 u6 chek8  chhoh4 khi5  kha2  mueh8	100
-汝毋孬去	lur2 m6  monn2 khur3	100
-汝毋孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	100
+汝毋孬去	lur2 m7  monn2 khur3	100
+汝毋孬夗到日晏正走起	lur2 m7  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	100
 汝無	lur2 bo5	100
 汝無用。輸伊	lur2 bo5  eng7 su1 i1	100
 汝看着在生	lur2 thoinn2  tieh8 chai6  senn1	50
@@ -13153,8 +13103,8 @@ tshâu	chhau5	100
 汝着呾實話人正有信汝	lur2 tieh8 tann3  sit8  ue7 nang5 chiann3  u6  sin3   lur2	100
 汝着此樣生物	lur2 tieh8 chienn3  senn1 mueh8	100
 汝着等伊來正好去	lur2 tieh8  tan2 i1  lai5 chiann3  ho2  khur3	100
-汝着認汝个唔着	lur2 tieh8  jin7 lur2 kai5 m6  tieh8	50
-汝着認汝个毋着	lur2 tieh8  jin7 lur2 kai5 m6  tieh8	100
+汝着認汝个唔着	lur2 tieh8  jin7 lur2 kai5 m7  tieh8	50
+汝着認汝个毋着	lur2 tieh8  jin7 lur2 kai5 m7  tieh8	100
 汝睇着在生	lur2 thoinn2  tieh8 chai6  senn1	100
 汝睇賺行	lur2 thoinn2  tann7  hang5	100
 汝睇賺襊	lur2 thoinn2  tann7  chue7	100
@@ -14570,10 +14520,10 @@ tshâu	chhau5	100
 燈心了囉	teng1  sim1 liou2   lo7	100
 燈心草	teng1  sim1  chhau2	101
 燈憂	teng1  iu1	100
-燈拭唔淸潔	teng1 chhit4 m6  chheng1  khi1	12
-燈拭唔清潔	teng1 chhit4 m6  chheng1  khi1	25
-燈拭毋淸潔	teng1 chhit4 m6  chheng1  khi1	50
-燈拭毋清潔	teng1 chhit4 m6  chheng1  khi1	100
+燈拭唔淸潔	teng1 chhit4 m7  chheng1  khi1	12
+燈拭唔清潔	teng1 chhit4 m7  chheng1  khi1	25
+燈拭毋淸潔	teng1 chhit4 m7  chheng1  khi1	50
+燈拭毋清潔	teng1 chhit4 m7  chheng1  khi1	100
 燈樓	teng1  lau5	100
 燈樹	teng1  chhiu7	100
 燈檠	teng1  kheng5	100
@@ -14699,11 +14649,11 @@ tshâu	chhau5	100
 爽約	suang2  ieh4	100
 爾一下認我就放爾去	lur2 chek8  e7  jin7 ua2 chiu6  pang3 lur2  khur3	50
 爾下個拜一來	lur2 e6  kai5 pai3  it4 lai5	50
-爾下日唔孬此樣生	lur2 e6  jit8 m6  monn2 chienn3  senn1	12
-爾下日毋孬此樣生	lur2 e6  jit8 m6  monn2 chienn3  senn1	25
-爾个唔是此樣生	lur2  kai5 m6  si6 chienn3  senn1	12
+爾下日唔孬此樣生	lur2 e6  jit8 m7  monn2 chienn3  senn1	12
+爾下日毋孬此樣生	lur2 e6  jit8 m7  monn2 chienn3  senn1	25
+爾个唔是此樣生	lur2  kai5 m7  si6 chienn3  senn1	12
 爾个手伸出來	lur2 kai5 chhiu2 chhun1   chhut4  lai5	50
-爾个毋是此樣生	lur2  kai5 m6  si6 chienn3  senn1	25
+爾个毋是此樣生	lur2  kai5 m7  si6 chienn3  senn1	25
 爾个脈猛	lur2 kai5 mehnn2 menn2	25
 爾个脉猛	lur2 kai5 mehnn2 menn2	12
 爾亦有	lur2 ia7 u6	50
@@ -14718,8 +14668,8 @@ tshâu	chhau5	100
 爾去趭伊	lur2 khur3  jiou7 i1	50
 爾叫司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	25
 爾呌司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	12
-爾唔孬去	lur2 m6  monn2 khur3	12
-爾唔孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	12
+爾唔孬去	lur2 m7  monn2 khur3	12
+爾唔孬夗到日晏正走起	lur2 m7  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	12
 爾在彼塊	lur2 to6 hur2  ko3	50
 爾夗到日彼樣晏正走起	lur2 ut8  kau3 jit8 hienn3  uann3 chiann3  chau2  khi2	50
 爾好去	lur2 ho2  khur3	50
@@ -14739,8 +14689,8 @@ tshâu	chhau5	100
 爾曾上市未	lur2 cheng5 chienn6  chhi6   bue7	50
 爾枝秤閃	lur2 ki1 chhin3 siam2	50
 爾此內有一撮奇巧物	lur2 chi2  lai6 u6 chek8  chhoh4 khi5  kha2  mueh8	50
-爾毋孬去	lur2 m6  monn2 khur3	25
-爾毋孬夗到日晏正走起	lur2 m6  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	25
+爾毋孬去	lur2 m7  monn2 khur3	25
+爾毋孬夗到日晏正走起	lur2 m7  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	25
 爾無	lur2 bo5	50
 爾無用。輸伊	lur2 bo5  eng7 su1 i1	50
 爾看着在生	lur2 thoinn2  tieh8 chai6  senn1	12
@@ -14750,8 +14700,8 @@ tshâu	chhau5	100
 爾着呾實話人正有信爾	lur2 tieh8 tann3  sit8  ue7 nang5 chiann3  u6  sin3   lur2	50
 爾着此樣生物	lur2 tieh8 chienn3  senn1 mueh8	50
 爾着等伊來正好去	lur2 tieh8  tan2 i1  lai5 chiann3  ho2  khur3	50
-爾着認爾个唔着	lur2 tieh8  jin7 lur2 kai5 m6  tieh8	12
-爾着認爾个毋着	lur2 tieh8  jin7 lur2 kai5 m6  tieh8	25
+爾着認爾个唔着	lur2 tieh8  jin7 lur2 kai5 m7  tieh8	12
+爾着認爾个毋着	lur2 tieh8  jin7 lur2 kai5 m7  tieh8	25
 爾睇着在生	lur2 thoinn2  tieh8 chai6  senn1	25
 爾睇賺行	lur2 thoinn2  tann7  hang5	25
 爾睇賺襊	lur2 thoinn2  tann7  chue7	25
@@ -16162,8 +16112,7 @@ tshâu	chhau5	100
 看命	khuann3  miann7	101
 看命先生	khuann3  miann6 sin1  senn1	100
 看命先生	khuann3  miann7 sin1  senn1	101
-看唔上	thoinn2  m6  chienn6	12
-看唔上	thoinn2  m7  chienn6	12
+看唔上	thoinn2  m7  chienn6	13
 看唔上目	thoinn2  m7  chienn6  mak8	14
 看唔上目	thoinn2 m7  chienn6  mak8	13
 看唔入目	thoinn2 m7  jip8  mak8	12
@@ -16185,8 +16134,7 @@ tshâu	chhau5	100
 看日	thoinn2  jit8	51
 看書	thoinn2  chur1	52
 看書房	thoinn2  chur1  pang5	50
-看毋上	thoinn2  m6  chienn6	25
-看毋上	thoinn2  m7  chienn6	25
+看毋上	thoinn2  m7  chienn6	26
 看毋上目	thoinn2  m7  chienn6  mak8	27
 看毋上目	thoinn2 m7  chienn6  mak8	26
 看毋入目	thoinn2 m7  jip8  mak8	25
@@ -16362,8 +16310,7 @@ tshâu	chhau5	100
 睇到透	thoinn2  kau3  thau3	100
 睇勢	thoinn2  si3	100
 睇勢來行	thoinn2  si3 lai5  kiann5	100
-睇唔上	thoinn2  m6  chienn6	50
-睇唔上	thoinn2  m7  chienn6	50
+睇唔上	thoinn2  m7  chienn6	51
 睇唔上目	thoinn2  m7  chienn6  mak8	52
 睇唔上目	thoinn2 m7  chienn6  mak8	51
 睇唔入目	thoinn2 m7  jip8  mak8	50
@@ -16383,8 +16330,7 @@ tshâu	chhau5	100
 睇日	thoinn2  jit8	101
 睇書	thoinn2  chur1	102
 睇書房	thoinn2  chur1  pang5	100
-睇毋上	thoinn2  m6  chienn6	100
-睇毋上	thoinn2  m7  chienn6	100
+睇毋上	thoinn2  m7  chienn6	101
 睇毋上目	thoinn2  m7  chienn6  mak8	102
 睇毋上目	thoinn2 m7  chienn6  mak8	101
 睇毋入目	thoinn2 m7  jip8  mak8	100
@@ -18490,6 +18436,7 @@ tshâu	chhau5	100
 自己	chur6  ki2	100
 自己保重	chur6  ki2 po2  tong6	100
 自幼年	chur6 iunn3  ninn5	100
+自心爲己	chur6  sim1 ui6  ki2	100
 自怨	chur6  uan3	101
 自恨	chur6  hurn6	100
 自想	chur6  sienn6	100
@@ -18815,14 +18762,14 @@ tshâu	chhau5	100
 若懸	jieh8  kuinn5	100
 若是	nann5  si6	100
 若是	nann7  si6	100
-若是唔夠一路好買	nann7  si6 m6  kau3 chek8  lou7 ho2  boi2	50
+若是唔夠一路好買	nann7  si6 m7  kau3 chek8  lou7 ho2  boi2	50
 若是好補。免用買新个	nann7  si6 ho2  pou2 min2  eng7 boi2 sin1   kai5	100
 若是好補。免用買新个	nann7  si6 ho2  pou2 min2  eng7 boi2 sin1   kai5	50
-若是會癢唔孬爬	nann6  si6 oi6  chienn6 m6  monn2 pe5	50
-若是會癢毋孬爬	nann6  si6 oi6  chienn6 m6  monn2 pe5	100
+若是會癢唔孬爬	nann6  si6 oi6  chienn6 m7  monn2 pe5	50
+若是會癢毋孬爬	nann6  si6 oi6  chienn6 m7  monn2 pe5	100
 若是有雨鱟伯策就着關	nann1  si6 u6 hou6 hau7  peh4  chheh4 chiu6 tieh8  kuenn1	100
 若是有雨鱟伯策就着𨵿	nann1  si6 u6 hou6 hau7  peh4  chheh4 chiu6 tieh8  kuenn1	50
-若是毋夠一路好買	nann7  si6 m6  kau3 chek8  lou7 ho2  boi2	100
+若是毋夠一路好買	nann7  si6 m7  kau3 chek8  lou7 ho2  boi2	100
 若是汝唔去	nann6  si6 lur2 m6  khur3	50
 若是汝毋去	nann6  si6 lur2 m6  khur3	100
 若是爾唔去	nann6  si6 lur2 m6  khur3	12
@@ -19666,13 +19613,13 @@ tshâu	chhau5	100
 被下	pi6  e6	100
 被人逐走	pi6  nang5 tok8  chau2	100
 被告	pi6  ko3	104
-被唔孬洗較業	phue6 m6  monn2 soi2 khah4  giap8	50
+被唔孬洗較業	phue6 m7  monn2 soi2 khah4  giap8	50
 被單	phue6  tuann1	103
 被姓	pi6  senn3	100
 被屈	pi6  khut4	100
 被捨	pi6  sia3	100
 被掠	pi6  liah8	102
-被毋孬洗較業	phue6 m6  monn2 soi2 khah4  giap8	100
+被毋孬洗較業	phue6 m7  monn2 soi2 khah4  giap8	100
 被虜	pi6  lu5	101
 被面	phue6  min7	100
 袷仔	kah4  kiann2	52
@@ -20781,11 +20728,11 @@ tshâu	chhau5	100
 趨時	chhu1  si5	100
 趭出	jiau7  chhut4	101
 趭唔着	jiau7  m7  tieh8	50
-趭唔着	jiou7 m6  tieh8	50
+趭唔着	jiou7 m7  tieh8	50
 趭掉	jiau7  tiau7	101
 趭散	jiau7  suann3	101
 趭毋着	jiau7  m7  tieh8	100
-趭毋着	jiou7 m6  tieh8	100
+趭毋着	jiou7 m7  tieh8	100
 趭着	jiau7   tieh8	100
 趭走	jiau7  chau2	100
 足成	chok4  siann5	101
@@ -20822,8 +20769,8 @@ tshâu	chhau5	100
 跋錢	puah8  chinn5	101
 跋錢場	puah8  chinn5  tienn5	100
 跋錢塲	puah8  chinn5  tienn5	50
-跋錢是唔孬事	puah8  chinn5 si6 m6  monn2 sur7	50
-跋錢是毋孬事	puah8  chinn5 si6 m6  monn2 sur7	100
+跋錢是唔孬事	puah8  chinn5 si6 m7  monn2 sur7	50
+跋錢是毋孬事	puah8  chinn5 si6 m7  monn2 sur7	100
 跋錢館	puah8  chinn5  kuan2	100
 跋骰仔	puah8  tau5  kiann2	50
 跋骰囝	puah8  tau5  kiann2	100
@@ -21732,12 +21679,12 @@ tshâu	chhau5	100
 酷㩼	hoh4  choi7	102
 酷㩼日無沃	hoh4  choi7 jit8 bo5  ak4	100
 酷久	hoh4  ku2	100
-酷久咱此塊唔捌有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	3
-酷久咱此塊唔識有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	12
-酷久咱此塊唔𧧸有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	6
-酷久咱此塊毋捌有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	25
-酷久咱此塊毋識有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	100
-酷久咱此塊毋𧧸有落雹	hoh4  ku2 nan2   chie2 m6  pat4 u6 loh8  phak8	50
+酷久咱此塊唔捌有落雹	hoh4  ku2 nan2   chie2 m7  pat4 u6 loh8  phak8	3
+酷久咱此塊唔識有落雹	hoh4  ku2 nan2   chie2 m7  pat4 u6 loh8  phak8	12
+酷久咱此塊唔𧧸有落雹	hoh4  ku2 nan2   chie2 m7  pat4 u6 loh8  phak8	6
+酷久咱此塊毋捌有落雹	hoh4  ku2 nan2   chie2 m7  pat4 u6 loh8  phak8	25
+酷久咱此塊毋識有落雹	hoh4  ku2 nan2   chie2 m7  pat4 u6 loh8  phak8	100
+酷久咱此塊毋𧧸有落雹	hoh4  ku2 nan2   chie2 m7  pat4 u6 loh8  phak8	50
 酷好	hoh4  ho2	100
 酷酷叫	hoh4  hoh4  kie3	100
 酷酷呌	hoh4  hoh4  kie3	50
@@ -23089,8 +23036,8 @@ tshâu	chhau5	100
 順人意	sun6  nang5  i3	101
 順便	sun6  pien6	102
 順受	sun6  siu6	100
-順合个貨唔孬比阮个	sun6  hah8 kai5  hue3 m6  monn2 un2   kai5	50
-順合个貨毋孬比阮个	sun6  hah8 kai5  hue3 m6  monn2 un2   kai5	100
+順合个貨唔孬比阮个	sun6  hah8 kai5  hue3 m7  monn2 un2   kai5	50
+順合个貨毋孬比阮个	sun6  hah8 kai5  hue3 m7  monn2 un2   kai5	100
 順命	sun6  meng6	101
 順喙講	sun6  chhui3  kang2	100
 順嘴講	sun6  chhui3  kang2	50
@@ -23353,8 +23300,7 @@ tshâu	chhau5	100
 食去未復	chiah8  khur3 bue7  hok8	100
 食去財氣	chiah8   khur3 chhai5  khi3	100
 食唔着水土	chiah8  m7  tieh8 chui2  thou2	51
-食唔落	chiah8  m6  loh8	50
-食唔落	chiah8  m7  loh8	51
+食唔落	chiah8  m7  loh8	52
 食夜昏	chiah8  menn5  hng1	100
 食夜暗飯	chiah8 menn5  am3  png7	100
 食大喙大喉	chiah8 tua7  chhui3 tua7  auhnn8	100
@@ -23379,8 +23325,7 @@ tshâu	chhau5	100
 食死人	chiah8  si2  nang5	101
 食死儂	chiah8  si2  nang5	51
 食毋着水土	chiah8  m7  tieh8 chui2  thou2	101
-食毋落	chiah8  m6  loh8	100
-食毋落	chiah8  m7  loh8	101
+食毋落	chiah8  m7  loh8	102
 食滂沛	chiah8  phang5  phai3	100
 食瀉	chiah8  sia3	100
 食瀉藥	chiah8  sia3  ieh8	100
@@ -23419,8 +23364,8 @@ tshâu	chhau5	100
 食錢	chiah8  chinn5	100
 食長菜	chiah8  chhiang5  chhai3	100
 食霶霈	chiah8  phang5  phai3	50
-食飯無鹹酸食唔落	chiah8  png7 bo5 kiam5  sng1 chiah8 m6  loh8	50
-食飯無鹹酸食毋落	chiah8  png7 bo5 kiam5  sng1 chiah8 m6  loh8	100
+食飯無鹹酸食唔落	chiah8  png7 bo5 kiam5  sng1 chiah8 m7  loh8	50
+食飯無鹹酸食毋落	chiah8  png7 bo5 kiam5  sng1 chiah8 m7  loh8	100
 食飽	chiah8  pa2	101
 食飽了	chiah8  pa2   liau2	102
 食餌	chiah8  ji7	100

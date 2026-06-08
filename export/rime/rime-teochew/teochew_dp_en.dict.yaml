@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_dp_en
-version: "20260607.235859"
+version: "20260608.075912"
 sort: by_weight
 ...
 
@@ -197,7 +197,7 @@ tou⁵tao⁵	absurd	50
 偶然 (ngou²riên⁵)	accident	100
 驟然 (zou⁶riên⁵)	accident-accidental	100
 偶然 (ngou²riên⁵)	accident-accidental	100
-毋知頭 (m⁶zai¹tao⁵)	accidentally	100
+毋知頭 (m⁷zai¹tao⁵)	accidentally	100
 陂咯斜 (po¹lo¹sia¹)	acclivity	100
 山崎崎 (suaⁿ¹ gia⁶gia⁶)	acclivity	100
 從權 (cong⁵kuan⁵)	accommodate-oneself-to-others	100
@@ -798,7 +798,6 @@ ga¹nng⁵	all-all-at-once	50
 無所不能 (bho⁵so² bud⁴lêng⁵)	almighty	100
 全能 (cuan⁵lêng⁵)	almighty	100
 杏仁 (hêng⁶rin⁵)	almond	100
-差毋多 (ca¹m⁶do¹)	almost	100
 差毋多 (ca¹m⁷do¹)	almost	100
 差不多 (ca¹bud⁴do¹)	almost	100
 將近 (ziang¹gen⁶)	almost	100
@@ -1258,7 +1257,6 @@ de⁵	annoy	50
 想食 (siêⁿ⁶ziah⁸)	appetite	100
 肚枵思食 (dou² iau¹ se¹ziah⁸)	appetite	100
 袂食 (bhoi⁶ziah⁸)	appetite-no	100
-食毋落 (ziah⁸m⁶loh⁸)	appetite-no	100
 食毋落 (ziah⁸m⁷loh⁸)	appetite-no	100
 胃口毋開 (ui⁷kao² m⁷kui¹)	appetite-no	100
 胃口塞 (ui⁷kao² sad⁴)	appetite-no	100
@@ -1359,10 +1357,10 @@ uan⁵mng⁵	arch-arched-door	50
 性情緊急 (sêⁿ³cêng⁵ gin²gib⁴)	ardent	100
 心性迫 (sim¹sêⁿ³ bêg⁴)	ardent	100
 彼些个是咩 (he²zuaⁿ³gai⁵ si⁶mê⁷?)	are-those-them	100
-汝是傳道理个人亞毋是 (le² si⁶ tuan⁵do⁶li²gai⁵nang⁵ a¹ m⁶si⁶?)	are-you-a-preacher	100
-汝是天主教亞毋是 (le² si⁶ tiên¹zu²ga³ a¹ m⁶si⁶?)	are-you-a-Roman-Catholic	100
+汝是傳道理个人亞毋是 (le² si⁶ tuan⁵do⁶li²gai⁵nang⁵ a¹ m⁷si⁶?)	are-you-a-preacher	100
+汝是天主教亞毋是 (le² si⁶ tiên¹zu²ga³ a¹ m⁷si⁶?)	are-you-a-Roman-Catholic	100
 汝个人會稍絀亞袂 (le² gai⁵ nang⁵ oi⁶ iou²zuah⁸ a¹bhoi⁶?)	are-you-any-better	100
-汝个人會毋孬亞袂 (le² gai⁵ nang⁵ oi⁶ m⁶moⁿ² a¹bhoi⁶?)	are-you-unwell	100
+汝个人會毋孬亞袂 (le² gai⁵ nang⁵ oi⁶ m⁷moⁿ² a¹bhoi⁶?)	are-you-unwell	100
 場 (diêⁿ⁵)	area	100
 埕 (diaⁿ⁵)	area-in-front-of-house	100
 天井 (tiên¹zêⁿ²)	area-inner	100
@@ -1908,8 +1906,8 @@ iê¹ hao⁵hao⁵	backbone-more-slight	50
 熾肉 (zid⁴nêg⁸)	bacon	100
 火肉 (huê²nêg⁸)	bacon	100
 惡 (ag⁴)	bad	100
-毋孬 (m⁶moⁿ²)	bad	100
 毋好 (m⁷ho²)	bad	100
+毋孬 (m⁷moⁿ²)	bad	100
 痞 (pai²)	bad	100
 痞 (paiⁿ²)	bad	100
 ao³nang⁵	bad-bad-man	50
@@ -1918,7 +1916,7 @@ ho²kiab⁴	bad-good-and-bad	50
 善惡 (siên⁶ag⁴)	bad-good-and-bad	100
 僥心 (hiou¹sim¹)	bad-hearted	100
 糜骹 (miⁿ⁵ka¹)	bad-leg	100
-天時毋孬 (tiⁿ¹si⁵ m⁶moⁿ²)	bad-weather	100
+天時毋孬 (tiⁿ¹si⁵ m⁷moⁿ²)	bad-weather	100
 號 (ho⁷)	badge	100
 字號 (ri⁷ho⁷)	badge	100
 暗號 (am³ho⁷)	badge-secret	100
@@ -2217,9 +2215,9 @@ cun¹lui²	basket	50
 熊 (him⁵)	bear	100
 熊膽 (him⁵daⁿ²)	bear-bears-gall	100
 熊掌 (him⁵ziêⁿ²)	bear-bears-paw	100
-奈毋去 (naiⁿ⁶m⁶ke³)	bear-cannot	100
+奈毋去 (naiⁿ⁶m⁷ke³)	bear-cannot	100
 耐毋去 (naiⁿ⁶m⁷ke³)	bear-cannot	100
-擋毋條 (dong³m⁶diou⁵)	bear-cannot	100
+擋毋條 (dong³m⁷diou⁵)	bear-cannot	100
 擔 (daⁿ¹)	bear-carry	100
 降 (gang³)	bear-children	100
 邀 (giau¹)	bear-children	100
@@ -2952,7 +2950,6 @@ bhag⁸gang²	bludgeon	50
 青布 (cêⁿ¹bou³)	blue-cloth	100
 青 (cêⁿ¹)	blue-sky-colour	100
 錯 (co³)	blunder	100
-毋着 (m⁶diêh⁸)	blunder	100
 毋着 (m⁷diêh⁸)	blunder	100
 袂利 (bhoi⁶lai⁷)	blunt-edge	100
 鈍 (dun¹)	blunt-edge	100
@@ -3735,7 +3732,6 @@ bid⁴kui¹	burst	50
 生理 (sêng¹li²)	business-mercantile	100
 公事 (gong¹se⁷)	business-official	100
 鬧熱急迫 (lao⁷riêd⁸ gib⁴bêg⁴)	bustle	100
-毋閒 (m⁶oiⁿ⁵)	busy	100
 毋閒 (m⁷oiⁿ⁵)	busy	100
 事㩼 (se⁷ zoi⁷)	busy	100
 事㩼 (se⁷zoi⁷)	busy	100
@@ -4072,7 +4068,7 @@ bu³lu⁶ miaⁿ⁵sêg⁴	calumniate	50
 封做聖人 (hong¹zo³ siaⁿ³nang⁵)	canonize	100
 剔封 (têg⁴hong¹)	canonize	100
 子臺 (ze²tai⁵)	canopy	100
-趭毋着 (riou⁷ m⁶diêh⁸)	cant-overtake-him	100
+趭毋着 (riou⁷ m⁷diêh⁸)	cant-overtake-him	100
 斑貓 (ban¹ngiau¹)	cantharides	100
 dao⁷bha⁵	cantharides	50
 目眥 (mag⁸ce⁵)	canthus-of-eye	100
@@ -6748,7 +6744,7 @@ tin⁷tao⁵	counterbalance	50
 假做 (gê²zo³)	counterfeit	100
 偽爲 (ngui⁶ui⁵)	counterfeit	100
 dêⁿ³zo³	counterfeit	50
-毋孬錢 (m⁶moⁿ²ziⁿ⁵)	counterfeit-cash	100
+毋孬錢 (m⁷moⁿ²ziⁿ⁵)	counterfeit-cash	100
 假銀 (gê²ngen⁵)	counterfeit-dollar	100
 偽銀 (ngui⁶ngen⁵)	counterfeit-dollar	100
 銅銀 (dang⁵ngen⁵)	counterfeit-dollar	100
@@ -6959,7 +6955,7 @@ bid⁴biag⁴giê³	crackle	50
 愩 (gong³)	crazy	100
 少 (siau²)	crazy	100
 心毋定 (sim¹ m⁷diaⁿ⁷)	crazy	100
-心神毋定 (sim¹sin⁵ m⁶diaⁿ³)	crazy	100
+心神毋定 (sim¹sin⁵ m⁷diaⁿ³)	crazy	100
 心神毋定 (sim¹sin⁵ m⁷diaⁿ⁷)	crazy	100
 ihⁿ⁸aihⁿ⁸giê³	creak	50
 ihⁿ⁸uaihⁿ⁸giê³	creak	50
@@ -8113,6 +8109,7 @@ buah⁸nab⁴uh⁴	dent	50
 詏 (a³)	deny	100
 詏無 (a³bho⁵)	deny	100
 毋認 (m⁶rin⁷)	deny	100
+毋認 (m⁷rin⁷)	deny	100
 呾無 (daⁿ³bho⁵)	deny	100
 毋準 (m⁶zun²)	deny-refuse	100
 去 (ke³)	depart	100
@@ -8311,7 +8308,7 @@ zam³zng³	derogate	50
 藐視 (miau²si⁶)	despise	100
 睇無目 (toiⁿ²bho⁵mag⁸)	despise	100
 睇輕 (toiⁿ²kin¹)	despise	100
-睇毋上 (toiⁿ²m⁶ziêⁿ⁶)	despise	100
+睇毋上 (toiⁿ²m⁷ziêⁿ⁶)	despise	100
 下賤 (hia⁶zuaⁿ⁷)	despise-despicable	100
 下流 (hia⁶liu⁵)	despise-despicable	100
 睇毋在目 (toiⁿ²m⁷do⁶mag⁸)	despise-despicable	100
@@ -8634,7 +8631,6 @@ ci¹ghi⁵	dirty	50
 毋順 (m⁷sun⁶)	disadvantage	100
 蝕本 (sih⁸bng²)	disadvantage	100
 受虧 (siu⁶kui¹)	disadvantage	100
-毋合 (m⁶hah⁸)	disagree	100
 毋合 (m⁷hah⁸)	disagree	100
 毋和 (m⁷hua⁵)	disagree	100
 毋相合 (m⁷siang¹hah⁸)	disagree	100
@@ -8643,9 +8639,8 @@ ci¹ghi⁵	dirty	50
 𤆬人惱 (cua⁷nang⁵lou²)	disagree-disagreeable	100
 垢穢 (gao⁶uêh⁸)	disagree-disagreeable-sensation	100
 孤獨 (gou¹dag⁸)	disagree-disagreeable-unsociable	100
-毋和 (m⁶hua⁵)	disagree-of-persons	100
+毋和 (m⁷hua⁵)	disagree-of-persons	100
 無去 (bho⁵ke³)	disappear	100
-毋見 (m⁶giⁿ³)	disappear	100
 毋見 (m⁷giⁿ³)	disappear	100
 失落 (sid⁴loh⁸)	disappear	100
 誤着人所望 (ghou⁷diêh⁸ nang⁵so²moⁿ⁷)	disappoint	100
@@ -8930,12 +8925,11 @@ ia³ia³ iên¹sin⁵ iên¹sin⁵	disinclination	50
 罷職 (ba⁶zêh⁴)	dismiss-to	100
 落馬 (loh⁸bhê²)	dismount	100
 落車 (loh⁸cia¹)	dismount-from-carriage	100
-毋順 (m⁶sun⁶)	disobedient	100
-毋聽 (m⁶tiaⁿ¹)	disobedient	100
 毋遵命 (m⁷zun¹mêng⁶)	disobedient	100
 毋順 (m⁷sun⁶)	disobedient	100
 毋順從 (m⁷sun⁶cong⁵)	disobedient	100
 毋順命 (m⁷sun⁶mêng⁶)	disobedient	100
+毋聽 (m⁷tiaⁿ¹)	disobedient	100
 逆主 (ngêg⁸zu²)	disobedient	100
 背逆 (buê⁶ngêg⁸)	disobedient	100
 違命 (ui⁵mêng⁶)	disobedient	100
@@ -9288,7 +9282,7 @@ bun¹zao⁵	divide-equally	50
 面桶 (min⁷tang²)	do-wooden	100
 袒 (tan²)	do-woollen	100
 汝知咩 (le² zai¹ mê⁷?)	do-you-know	100
-汝知亞毋知 (le² zai¹ a¹ m⁶zai¹?)	do-you-know-or-not	100
+汝知亞毋知 (le² zai¹ a¹ m⁷zai¹?)	do-you-know-or-not	100
 汝有記得我咩 (le² u⁶ gi³did⁴ ua² mê⁷?)	do-you-remember-me	100
 信皮愛咩 (sin³puê⁵ aiⁿ³ mê⁷?)	do-you-want-an-envelope	100
 教會熟 (ga³oi⁶sêg⁸)	docile	100
@@ -9353,11 +9347,11 @@ zo¹ ho²	done	50
 食飽了 (ziah⁸ba²liau²)	done-done-with-a-meal	100
 用了 (êng⁷liau²)	done-exhausted	100
 了 (liau²)	done-exhausted	100
-毋孬做賊 (m⁶moⁿ² zǒ¹cad⁸)	dont-be-a-thief	100
+毋孬做賊 (m⁷moⁿ² zǒ¹cad⁸)	dont-be-a-thief	100
 骹手勿㩼 (ka¹ciu² maiⁿ³zoi⁷)	dont-be-mischievous	100
 勿哭 (maiⁿ³kao³)	dont-cry	100
 勿食較㩼 (maiⁿ³ziah⁸ kah⁴zoi⁷)	dont-eat-too-much	100
-毋孬毋憶得 (m⁶moⁿ² m⁶id⁴did⁴)	dont-forget	100
+毋孬毋憶得 (m⁷moⁿ² m⁷id⁴did⁴)	dont-forget	100
 勿笑 (maiⁿ³ciê³)	dont-laugh	100
 勿佮伊相罵 (maiⁿ³ gah⁴ i¹ siê¹mêⁿ⁷)	dont-quarrel-with-him	100
 勿 (maiⁿ³)	dont-want-dont	100
@@ -10860,7 +10854,6 @@ din²dui²diau⁷	eradicate	50
 寄託 (gia³toh⁴)	errand-send-on	100
 駛 (sai²)	errand-send-on	100
 錯 (co³)	erroneous	100
-毋着 (m⁶diêh⁸)	erroneous	100
 毋着 (m⁷diêh⁸)	erroneous	100
 差 (daⁿ⁷)	erroneous	100
 賺 (daⁿ⁷)	erroneous	100
@@ -11704,7 +11697,7 @@ mag⁸ziu¹ kab⁴kab⁴nihⁿ¹	eye-wink	50
 歡喜做 (huaⁿ¹hi²zo³)	fain-to-do-anything	100
 苛燈愛 (ko¹lêng¹aiⁿ³)	fain-to-do-anything	100
 眩 (hin⁵)	faint	100
-毋知人 (m⁶zai¹nang⁵)	faint	100
+毋知人 (m⁷zai¹nang⁵)	faint	100
 淺色 (ciên²sêg⁴)	faint-colour	100
 淡色 (daⁿ⁶sêg⁴)	faint-colour	100
 睏惰 (kun³duaⁿ⁶)	faint-exhausted	100
@@ -11717,7 +11710,7 @@ ga¹zuah⁸hin⁵	faint-to	50
 毋知人 (m⁷zai¹nang⁵)	faint-to	100
 毋曉人 (m⁷hiau²nang⁵)	faint-to	100
 失魂 (sid⁴hun⁵)	faint-to	100
-毋知人 (m⁶zai¹nang⁵)	fainting	100
+毋知人 (m⁷zai¹nang⁵)	fainting	100
 市 (ci⁶)	fair-a-fair	100
 墟 (he¹)	fair-a-fair	100
 美 (muiⁿ²)	fair-beautiful	100
@@ -12008,7 +12001,6 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 錯誤 (co³ghou⁷)	fault	100
 過 (guê³)	fault	100
 過失 (guê³sid⁴)	fault	100
-毋着 (m⁶diêh⁸)	fault	100
 毋着 (m⁷diêh⁸)	fault	100
 不是 (bud⁴si¹)	fault	100
 好議論人 (haoⁿ³ ngi²lun⁶nang⁵)	fault-fault-finding	100
@@ -13121,8 +13113,8 @@ e⁶dad⁸	forecast	50
 假印 (gê²in³)	forgery-of-seal	100
 忘見 (bhuang⁵giⁿ³)	forget	100
 忘掉 (bhuang⁵diau⁷)	forget	100
-毋憶得 (m⁶id⁴did⁴)	forget	100
-毋記得 (m⁶gi³did⁴)	forget	100
+毋憶得 (m⁷id⁴did⁴)	forget	100
+毋記得 (m⁷gi³did⁴)	forget	100
 毋見得 (m⁷giên³did⁴)	forget	100
 毋見得 (m⁷giⁿ³did⁴)	forget	100
 無記才 (bho⁵gi³cai⁵)	forget-forgetful	100
@@ -13767,7 +13759,7 @@ giaⁿ⁵ban⁷ uê⁵uê⁵ rê⁵rê⁵	gait-very-feeble	50
 賭錢 (dou²ziⁿ⁵)	gambling	100
 賭錢 (du²ziⁿ⁵)	gambling	100
 耍笑 (sng²ciê³)	gambling-euphemism	100
-跋錢是毋孬事 (buah⁸ziⁿ⁵ si⁶ m⁶moⁿ² se⁷)	gambling-is-a-bad-thing	100
+跋錢是毋孬事 (buah⁸ziⁿ⁵ si⁶ m⁷moⁿ² se⁷)	gambling-is-a-bad-thing	100
 跋輸 (buah⁸su¹)	gambling-lose-by	100
 跋錢館 (buah⁸ziⁿ⁵guan²)	gambling-public-table-for	100
 跋錢場 (buah⁸ziⁿ⁵diêⁿ⁵)	gambling-public-table-for	100
@@ -15261,7 +15253,7 @@ piên¹liau²	have-I-have-dined	50
 未曾 (bhuê⁷zêng⁵)	have-not-yet	100
 因有去亞未 (in¹ u⁶ ke³ a¹bhuê⁷?)	have-they-gone	100
 荷蘭薯還了有亞無 (ho⁵lan⁵ze⁵ huan⁵liou² u⁶ a¹bho⁵?)	have-you-any-more-potatoes	100
-𤰉亞毋𤰉 (la⁶ a¹ m⁶la⁶?)	have-you-enough	100
+𤰉亞毋𤰉 (la⁶ a¹ m⁷la⁶?)	have-you-enough	100
 汝豈識食榴蓮咩 (le² kah⁴bad⁴ ziah⁸ liu⁵lian⁵ mê⁷?)	have-you-ever-eaten-durians	100
 汝此陣正來 (le² zi¹zun⁵ ziaⁿ³lai⁵?)	have-you-just-now-come	100
 有上大个咩 (u⁶ siang⁶dua⁷gai⁵ mê⁷?)	have-you-the-largest-one	100
@@ -15298,7 +15290,7 @@ piên¹liau²	have-I-have-dined	50
 伊袂食 (i¹ bhoi⁶ziah⁸)	he-cant-eat	100
 伊無乜會泅 (i¹ bho⁵mih⁴ oi⁶siu⁵)	he-cant-swim-very-well	100
 伊來巡汝 (i¹ lai⁵sun⁵ le²)	he-comes-to-visit-you	100
-伊毋敢 (i¹ m⁶gaⁿ²)	he-dare-not	100
+伊毋敢 (i¹ m⁷gaⁿ²)	he-dare-not	100
 伊無梳頭 (i¹ bho⁵ siu¹tao⁵)	he-doesnt-comb-his-hair	100
 伊分我 (i¹ bun¹ ua²)	he-gave-me	100
 伊來了 (i¹ lai⁵lo⁷)	he-has-come	100
@@ -15313,7 +15305,7 @@ piên¹liau²	have-I-have-dined	50
 伊死了 (i¹ si²lo⁷)	he-is-dead	100
 伊愛轉去 (i¹ aiⁿ³dng²ke³)	he-is-going-home	100
 伊呾甚㩼話 (i¹ daⁿ³ hiaⁿ³ziaⁿ³zoi⁷ uê⁷)	he-made-a-long-statement	100
-伊毋好去 (i¹ m⁶haoⁿ³ ke³)	he-refuses-to-go	100
+伊毋好去 (i¹ m⁷haoⁿ³ ke³)	he-refuses-to-go	100
 伊呾伊愛去 (i¹ daⁿ³ i¹ aiⁿ³lai⁵)	he-says-he-is-coming	100
 伊 (i¹)	he-she-it-him-her	100
 伊愛 (i¹ aiⁿ³)	he-wants	100
@@ -15324,8 +15316,8 @@ piên¹liau²	have-I-have-dined	50
 伊分人刣 (i¹ bun¹nang⁵ tai⁵)	he-was-killed	100
 伊明旦起愛來 (i¹ maⁿ³ki² aiⁿ³lai⁵)	he-will-come-tomorrow	100
 伊袂死 (i¹ bhoi⁶si²)	he-will-not-die	100
-伊毋應 (i¹ m⁶in³)	he-wont-answer	100
-伊毋來 (i¹ m⁶lai⁵)	he-wont-come	100
+伊毋應 (i¹ m⁷in³)	he-wont-answer	100
+伊毋來 (i¹ m⁷lai⁵)	he-wont-come	100
 頭 (tao⁵)	head	100
 陶 (tao⁵)	head	100
 頭殼 (tao⁵kag⁴)	head	100
@@ -16222,28 +16214,28 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 假如同个話 (gia²ru⁵ gai⁵uê⁷)	hypothesis	100
 比方个話 (bi²huang¹ gai⁵uê⁷)	hypothesis	100
 我 (ua²)	I	100
-今旦日我毋閒 (giaⁿ²rid⁸ ua² m⁶ oiⁿ²)	I-am-busy-today	100
+今旦日我毋閒 (giaⁿ²rid⁸ ua² m⁷ oiⁿ²)	I-am-busy-today	100
 我在批我个指甲 (ua² do⁶ poi¹ ua² gai² zng²gah⁴)	I-am-cutting-my-nails	100
 下次船我就愛去 (ê⁶zua⁷zun⁵ ua² ziu⁶aiⁿ³ke³)	I-am-going-next-trip	100
 我愛搬 (ua² aiⁿ³buaⁿ¹)	I-am-going-to-remove	100
 我在此塊 (ua² do⁶ zi²go³)	I-am-here	100
 我一身流汗 (ua² zêg⁸sin¹ lao⁵guaⁿ⁷)	I-am-in-a-perspiration	100
-我毋去 (ua² m⁶ke³)	I-am-not-going	100
-我今旦日人毋孬 (ua² giaⁿ²rid⁸ nang⁵ m⁶moⁿ²)	I-am-unwell-today	100
+我毋去 (ua² m⁷ke³)	I-am-not-going	100
+我今旦日人毋孬 (ua² giaⁿ²rid⁸ nang⁵ m⁷moⁿ²)	I-am-unwell-today	100
 人困在 (nang⁵ kun³zai⁶)	I-am-very-weak	100
 我在寫字 (ua² do⁶ sia²ri⁷)	I-am-writing	100
 我庵埠處 (ua² am¹bou¹ huê²)	I-belong-to-Am-pou	100
 會零須 (oi⁶ lan⁵lo²)	I-can-eat-a-little	100
-毋曉 (m⁶hiou²)	I-cant	100
-我毋曉 (ua² m⁶hiou²)	I-cant	100
-我聽毋見 (ua² tiaⁿ¹ m⁶giⁿ³)	I-cant-hear-you	100
+毋曉 (m⁷hiou²)	I-cant	100
+我毋曉 (ua² m⁷hiou²)	I-cant	100
+我聽毋見 (ua² tiaⁿ¹ m⁷giⁿ³)	I-cant-hear-you	100
 我袂寫 (ua² bhoi⁶sia²)	I-cant-write	100
 我來 (ua² lai⁵)	I-come	100
-我毋信汝 (ua² m⁶sin³ le²)	I-dont-believe-you	100
-毋知 (m⁶zai¹)	I-dont-know	100
-我哩毋知 (ua² li¹ m⁶zai¹)	I-dont-know	100
-我毋知 (ua² m⁶zai¹)	I-dont-know	100
-我毋識伊 (ua² m⁶bad⁴ i¹)	I-dont-know-him	100
+我毋信汝 (ua² m⁷sin³ le²)	I-dont-believe-you	100
+毋知 (m⁷zai¹)	I-dont-know	100
+我哩毋知 (ua² li¹ m⁷zai¹)	I-dont-know	100
+我毋知 (ua² m⁷zai¹)	I-dont-know	100
+我毋識伊 (ua² m⁷bad⁴ i¹)	I-dont-know-him	100
 還了未知 (huan⁵liou² bhuê⁷zai¹)	I-dont-know-yet	100
 彼個我勿 (he²gai⁵ ua² maiⁿ³)	I-dont-want-that-one	100
 我有 (ua² u⁶)	I-have	100
@@ -16257,7 +16249,7 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 我知伊在底塊徛起 (ua² zai¹ i¹ do⁶ di⁵go³ kia⁶ki²)	I-know-where-he-lives	100
 我尚英國人 (ua² siang⁶ êng¹gog⁴nang⁵)	I-like-Englishmen	100
 我着嫌汝 (ua² diêh⁸hiam⁵ le²)	I-must-blame-you	100
-毋識 (m⁶bad⁴)	I-never-have	100
+毋識 (m⁷bad⁴)	I-never-have	100
 我記得汝 (ua² gi³did⁴ le²)	I-remember-you	100
 我想𤰉亞 (ua² siêⁿ⁶ la⁶a¹)	I-think-there-are-enough	100
 我愛上頂好个 (ua² aiⁿ³ siang⁶dêng²ho²gai⁵)	I-want-the-best-quality	100
@@ -16336,8 +16328,8 @@ gou²sêg⁴	if	50
 下品 (hia⁶bin²)	ignoble	100
 無知 (bho⁵zai¹)	ignorant	100
 無見識 (bho⁵giên³sêg⁴)	ignorant	100
-毋曉 (m⁶hiou²)	ignorant	100
 毋曉 (m⁷hiau²)	ignorant	100
+毋曉 (m⁷hiou²)	ignorant	100
 毋別 (m⁷bad⁴)	ignorant	100
 無向好 (bho⁵hiêⁿ³ho²)	ill	100
 無康健 (bho⁵kang¹giên⁶)	ill	100
@@ -16360,8 +16352,8 @@ gou²sêg⁴	if	50
 野樣 (ia²iêⁿ⁷)	ill-shaped	100
 毋成樣 (m⁷ziaⁿ⁵iêⁿ⁷)	ill-shaped	100
 刻薄 (kêg⁴boh⁸)	ill-treat	100
-掠毋打緊 (liah⁸m⁶da²gêng²)	ill-treat	100
-毋厚待 (m⁶gao⁶tai⁶)	ill-treat	100
+掠毋打緊 (liah⁸m⁷da²gêng²)	ill-treat	100
+毋厚待 (m⁷gao⁶tai⁶)	ill-treat	100
 毋厚待人 (m⁷gao⁶tai⁶nang⁵)	ill-treat	100
 受氣 (siu⁶ki³)	ill-treat-ill-treated	100
 受虧 (siu⁶kui¹)	ill-treat-ill-treated	100
@@ -16887,8 +16879,8 @@ ga³la⁷	incite	50
 無形 (bho⁵hêng⁵)	incorporeal	100
 無形無狀 (bho⁵hêng⁵ bho⁵zuang⁶)	incorporeal	100
 無體 (bho⁵toi²)	incorporeal	100
-毋着 (m⁶diêh⁸)	incorrect	100
-毋對 (m⁶dui³)	incorrect	100
+毋着 (m⁷diêh⁸)	incorrect	100
+毋對 (m⁷dui³)	incorrect	100
 秤閃 (cin³ siam²)	incorrect-scale	100
 毋悔改 (m⁶huê³goi²)	incorrigible	100
 毋肯改變 (m⁷kêng² goi²biⁿ³)	incorrigible	100
@@ -17326,7 +17318,6 @@ bho⁵ban⁷	innumerable	50
 發癲 (huad⁴diên¹)	insane	100
 痟 (siau²)	insane	100
 心毋定 (sim¹ m⁷diaⁿ⁷)	insane	100
-心神毋定 (sim¹sin⁵ m⁶diaⁿ⁷)	insane	100
 心神毋定 (sim¹sin⁵ m⁷diaⁿ⁷)	insane	100
 失心 (sid⁴sim¹)	insane	100
 癲狂 (diên¹kuang⁵)	insane	100
@@ -17828,7 +17819,7 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 水會深 (zui² oi⁶cim¹)	is-is-the-water-deep	100
 猛 (mê²)	is-is-the-water-deep	100
 有燒水亞無 (u⁶ siê¹zui² a¹bho⁵?)	is-there-hot-water	100
-是此亞毋是 (si⁶ zia² a¹ m⁶si⁶?)	is-this-it	100
+是此亞毋是 (si⁶ zia² a¹ m⁷si⁶?)	is-this-it	100
 汝个箱有鎖定亞無 (le² gai⁵ siêⁿ¹ u⁶ so²diaⁿ⁷ a¹bho⁵?)	is-your-box-locked	100
 魚膠 (he⁵ga¹)	isinglass	100
 金靈膠 (gim¹lêng⁵ga¹)	isinglass	100
@@ -17853,7 +17844,7 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 是此樣生 (si⁶ ziêⁿ³sêⁿ¹)	it-is-like-this	100
 日未暗 (rid⁸ bhuê⁷am³)	it-is-not-yet-dark	100
 是雅在 (si⁶ ngia²zai⁶)	it-is-very-beautiful	100
-毋是汝个 (m⁶si⁶ le²gai⁵)	it-isnt-yours	100
+毋是汝个 (m⁷si⁶ le²gai⁵)	it-isnt-yours	100
 疥 (goi³)	itch	100
 癢 (ziêⁿ⁶)	itch-itchy	100
 爬癢 (bê⁵ziêⁿ⁶)	itch-scratch	100
@@ -17866,7 +17857,7 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 周巡 (ziu¹sun⁵)	itinerate	100
 路引 (lou⁷in²)	itinerate-itinerary	100
 路程冊 (lou⁷tiaⁿ⁵cêh⁴)	itinerate-itinerary	100
-毋是十一 (m⁶si⁶ zab⁸id⁴)	its-not-the-eleventh	100
+毋是十一 (m⁷si⁶ zab⁸id⁴)	its-not-the-eleventh	100
 象牙 (ciêⁿ⁶ghê⁵)	ivory	100
 牙 (ghê⁵)	ivory	100
 藤 (din⁵)	ivy	100
@@ -18311,7 +18302,7 @@ tam²kad⁴	knot-to-tie	50
 燈心 (dêng¹sim¹)	lamp-wick	100
 無頭帖 (bho⁵tao⁵tiab⁴)	lampoon	100
 譏嘲 (gi¹ciau²)	lampoon	100
-燈拭毋清潔 (dêng¹ cid⁴ m⁶cêng¹ki¹)	lamps-are-not-wiped-clean	100
+燈拭毋清潔 (dêng¹ cid⁴ m⁷cêng¹ki¹)	lamps-are-not-wiped-clean	100
 槍 (ciêⁿ¹)	lance	100
 開倉刀 (kui¹cng¹do¹)	lance-lancet	100
 田園 (can⁵hng⁵)	land	100
@@ -19235,7 +19226,6 @@ gou¹ziau¹	lonely	50
 主 (zu²)	lord	100
 晚餐 (mng²can¹)	lord-Supper	100
 遺失 (rui⁶sid⁴)	lose	100
-毋見 (m⁶giⁿ³)	lose	100
 毋見 (m⁷giⁿ³)	lose	100
 喪掉 (sang³diau⁷)	lose	100
 失 (sid⁴)	lose	100
@@ -20189,8 +20179,8 @@ haⁿ²nang⁵	menace	50
 定定 (diaⁿ⁷diaⁿ⁷)	merely	100
 獨獨 (dog⁸dog⁸)	merely	100
 單單 (duaⁿ¹duaⁿ¹)	merely	100
-毋清 (m⁶cêng¹)	merely-not	100
-毋肯 (m⁶kêng²)	merely-not	100
+毋清 (m⁷cêng¹)	merely-not	100
+毋肯 (m⁷kêng²)	merely-not	100
 不止 (bud⁴zi²)	merely-not	100
 毋清 (m⁷cêng¹)	merely-not-merely	100
 不止 (bud⁴zi²)	merely-not-merely	100
@@ -20582,7 +20572,6 @@ dag⁴nng⁷diau⁷ si⁵hao⁷	misspend-time	50
 ca¹niuⁿ⁶	mistake	50
 穿毋對鼻 (cng¹ m⁷dui³piⁿ⁷)	mistake	100
 錯 (co³)	mistake	100
-毋着 (m⁶diêh⁸)	mistake	100
 毋着 (m⁷diêh⁸)	mistake	100
 錯認 (co³rin⁷)	mistake-a-person	100
 誤認 (ghou⁷rin⁷)	mistake-a-person	100
@@ -21099,7 +21088,7 @@ nab⁴tou⁵	mud	50
 芥子 (gai³zi²)	mustard-seed	100
 芥辣子 (gai³luah⁸zi²)	mustard-seed	100
 白芥子 (bêh⁸gai³zi²)	mustard-seed	100
-毋孬偷挈人个物 (m⁶moⁿ² tao¹kiêh⁸ nang⁵ gai⁵ muêh⁸)	mustnt-steal-other-peoples-things	100
+毋孬偷挈人个物 (m⁷moⁿ² tao¹kiêh⁸ nang⁵ gai⁵ muêh⁸)	mustnt-steal-other-peoples-things	100
 臭菇羶 (cao³gou¹hiên³)	musty	100
 ciêⁿ⁶im⁶	musty	50
 sêⁿ¹ib⁴zib⁸	musty	50
@@ -21510,11 +21499,11 @@ tam²sêⁿ¹kou¹	noose-to-make	50
 cêg⁴zui²	nose-running-coryza	50
 鼻塞 (piⁿ⁷ sad⁴)	nose-stuffed	100
 鼻空 (piⁿ⁷kang¹)	nostril	100
-毋是彼樣生 (m⁶si⁶ hiêⁿ³sêⁿ¹)	not-like-that	100
-毋是 (m⁶si⁶)	not-no	100
+毋是彼樣生 (m⁷si⁶ hiêⁿ³sêⁿ¹)	not-like-that	100
+毋是 (m⁷si⁶)	not-no	100
 未 (bhuê⁷)	not-yet	100
 生 (cêⁿ¹)	not-yet-boiled-raw	100
-毋是汝 (m⁶si⁶ le²)	not-you	100
+毋是汝 (m⁷si⁶ le²)	not-you	100
 出眾 (cud⁴zêng³)	notable	100
 出類 (cud⁴lui⁷)	notable	100
 出俗 (cud⁴sog⁸)	notable	100
@@ -24052,7 +24041,7 @@ bin⁶ziaⁿ³	prepare-prepared	50
 毋敢 (m⁷gaⁿ²)	presume-I-would-not-presume	100
 大主大意 (dua⁷zu² dua⁷i³)	presume-presumptuous	100
 假 (gê²)	pretend	100
-佯毋知 (dêⁿ³m⁶zai¹)	pretend-not-knowing	100
+佯毋知 (dêⁿ³m⁷zai¹)	pretend-not-knowing	100
 假骹假手 (gê²ka¹ gê²ciu²)	pretend-pretender	100
 僞騙 (ngui⁶piên³)	pretend-pretender	100
 裝做耳聾 (zuang¹zo³ hiⁿ⁶ lang⁵)	pretend-to-be-deaf	100
@@ -25336,15 +25325,13 @@ giaⁿ⁵ gao³ ka¹pong⁶pêng¹	reel-to-stagger	50
 閃避 (siam²bi⁷)	refuge-to-run-for	100
 賠還 (buê⁵hoiⁿ⁵)	refund	100
 還 (hoiⁿ⁵)	refund-to	100
-毋好 (m⁶haoⁿ³)	refuse	100
+毋好 (m⁷haoⁿ³)	refuse	100
 垃圾 (nahⁿ¹sab⁴)	refuse	100
 塗糞 (dou⁵bun³)	refuse	100
 蔗粕 (zia³poh⁴)	refuse-of-sugar-cane	100
 茶烌 (dê⁵hu¹)	refuse-of-tea	100
 糟粕 (zao¹poh⁴)	refuse-of-wine	100
 酒糟 (ziu²zao¹)	refuse-of-wine	100
-毋好 (m⁶haoⁿ³)	refuse-to	100
-毋肯 (m⁶kêng²)	refuse-to	100
 毋準 (m⁷zun²)	refuse-to	100
 毋好 (m⁷haoⁿ³)	refuse-to	100
 毋肯 (m⁷kêng²)	refuse-to	100
@@ -27338,7 +27325,7 @@ bhiê⁵liah⁸	seize-lie-in-wait-to	50
 問心靜案 (mng⁷sim¹ zêⁿ⁶an³)	self-self-examination	100
 省察家己 (sêⁿ²cad⁴ ga¹gi⁷)	self-self-examination	100
 自囑 (ze⁶zog⁴)	self-self-satisfied	100
-ze⁶sim¹ ui⁶gi²+++	selfish	50
+自心爲己 (ze⁶sim¹ ui⁶gi²)	selfish	100
 顧己 (gu³gi²)	selfish	100
 利己 (li⁶gi²)	selfish	100
 私心 (sai¹sim¹)	selfish	100
@@ -27940,8 +27927,8 @@ niauⁿ³niauⁿ³	shrivelled	50
 拋梭 (pao¹so¹)	shuttle-to-fly	100
 勼勼扭扭 (giu¹giu¹ niuⁿ¹niuⁿ¹)	shy	100
 勼扭 (giu¹niuⁿ¹)	shy	100
-毋敢見人 (m⁶gaⁿ²giⁿ³nang⁵)	shy	100
 毋敢見人 (m⁷gaⁿ² giⁿ³nang⁵)	shy	100
+毋敢見人 (m⁷gaⁿ²giⁿ³nang⁵)	shy	100
 畏少禮 (ui³siau²li²)	shy	100
 畏少禮 (ui³siou²li²)	shy	100
 暹羅 (siam⁷lo⁵)	siam	100
@@ -27969,7 +27956,7 @@ sin¹hun⁷ lam²	sick-sickly	50
 病軟 (bêⁿ⁷nng²)	sick-sickness	100
 病痛 (bêⁿ⁷tiaⁿ³)	sick-sickness	100
 iên¹siên⁵	sick-slightly	50
-人毋孬 (nang⁵ m⁶moⁿ²)	sick-slightly	100
+人毋孬 (nang⁵ m⁷moⁿ²)	sick-slightly	100
 愛吐 (aiⁿ³tou³)	sick-squeamish	100
 吐 (tou³)	sick-to-be-sick-vomit	100
 鉤鐮 (gao¹liam⁵)	sickle	100
@@ -31061,7 +31048,7 @@ zi²ziaⁿ³gai⁵	these	50
 此些个 (zi²zuaⁿ³gai⁵)	these	100
 zi²zuaⁿ³gai⁵	these	50
 此個 (zi²gai⁵)	these	100
-此些个毋是 (zi²zuaⁿ³gai⁵ m⁶si⁶)	these-are-not-them	100
+此些个毋是 (zi²zuaⁿ³gai⁵ m⁷si⁶)	these-are-not-them	100
 he²ziaⁿ³ gai⁵nang⁵	they	50
 伊 (i¹)	they	100
 𪜶 (in¹)	they	100
@@ -31149,7 +31136,7 @@ ua² gao⁵giê³	think-I-thought-erroneously	50
 此個稍大 (zi²gai⁵ iou²dua⁷)	this-is-a-little-larger	100
 此個敬長過彼個 (zi²gai⁵ gêng³dng⁵ guê³ he²gai⁵)	this-is-longer-than-that	100
 此個是我个 (zi²gai⁵ si⁶ ua²gai⁵)	this-is-mine	100
-此毋是 (zia² m⁶si⁶)	this-is-not-it	100
+此毋是 (zia² m⁷si⁶)	this-is-not-it	100
 此個送汝 (zi²gai⁵ sang³ le²)	this-is-presented-to-you	100
 此個就是上大个 (zi²gai⁵ ziu⁶si⁶ siang⁶dua⁷ gai⁵)	this-is-the-largest-one	100
 此個人肥在 (zi²gai⁵ nang⁵ bui⁵zai⁶)	this-man-is-very-fat	100
@@ -32542,8 +32529,6 @@ ko²kêg⁴	uncharitable	50
 保家 (bo²gê¹)	underwrite	100
 保家 (bo²gê¹)	underwrite-company-of-underwriters	100
 保家公司 (bo²gê¹ gong¹si¹)	underwrite-company-of-underwriters	100
-毋該 (m⁶gai¹)	undeserved	100
-毋堪當 (m⁶kam¹dng¹)	undeserved	100
 毋應該 (m⁷êng¹gai¹)	undeserved	100
 毋該 (m⁷gai¹)	undeserved	100
 毋堪當 (m⁷kam¹dng¹)	undeserved	100
@@ -32559,7 +32544,6 @@ ko²kêg⁴	uncharitable	50
 不孝 (bud⁴hao³)	undutiful-to-parents	100
 參差不齊 (cam¹ca¹ bud⁴ci⁵)	uneven	100
 崎嶇 (ki¹ku¹)	uneven	100
-毋平 (m⁶bêⁿ⁵)	uneven	100
 m⁷zao⁵	uneven	50
 毋齊 (m⁷zoi⁵)	uneven	100
 毋齊整 (m⁷zoi⁵ziaⁿ²)	uneven	100
@@ -32598,7 +32582,7 @@ m⁷zao⁵	uneven	50
 僥負恩 (hiau¹hu⁶en¹)	ungrateful	100
 僥情絕義 (hiou¹cêng⁵ zoh⁸ngi⁶)	ungrateful	100
 負義 (hu⁶ngi⁶)	ungrateful	100
-毋知人情 (m⁶zai¹ nang⁵cêng⁵)	ungrateful	100
+毋知人情 (m⁷zai¹ nang⁵cêng⁵)	ungrateful	100
 受恩不報 (siu⁶en¹ bud⁴bo³)	ungrateful	100
 無福 (bho⁵hog⁴)	unhappy	100
 淒慘 (ci¹cam²)	unhappy	100
@@ -32669,9 +32653,9 @@ zao⁵	uniform	50
 無公道 (bho⁵gong¹dao⁶)	unjust	100
 無道 (bho⁵dao⁶)	unjust	100
 非義 (hui¹ngi⁶)	unjust	100
-毋公道 (m⁶gong¹dao⁶)	unjust	100
 毋正 (m⁷ziaⁿ³)	unjust	100
 毋公正 (m⁷gong¹ziaⁿ³)	unjust	100
+毋公道 (m⁷gong¹dao⁶)	unjust	100
 毋官正 (m⁷guaⁿ¹ziaⁿ³)	unjust	100
 毋順正理 (m⁷sun⁶ ziaⁿ³li²)	unjust	100
 逆理 (ngêg⁸li²)	unjust	100
@@ -32687,7 +32671,6 @@ zao⁵	uniform	50
 無理無法 (bho⁵li² bho⁵huab⁴)	unlawful	100
 無理無律 (bho⁵li² bho⁵lud⁸)	unlawful	100
 律法所毋准 (lud⁸huab⁴ so²m⁷zun²)	unlawful	100
-毋合法 (m⁶hah⁸huab⁴)	unlawful	100
 毋合理律 (m⁷hah⁸ li²lud⁸)	unlawful	100
 毋合法 (m⁷hah⁸huab⁴)	unlawful	100
 各樣 (goh⁴iêⁿ⁷)	unlike	100
@@ -32764,7 +32747,6 @@ zao⁵	uniform	50
 㪗直 (tao²did⁸)	unravel-thread	100
 直 (doh⁸did⁸)	unravel-thread	100
 無情理 (bho⁵cêng⁵li²)	unreasonable	100
-毋就理 (m⁶ziu⁶li²)	unreasonable	100
 毋就理 (m⁷ziu⁶li²)	unreasonable	100
 痴想 (ci¹siêⁿ⁶)	unreasonable-hope	100
 無歇 (bho⁵hiah⁴)	unremitting	100
@@ -32846,16 +32828,15 @@ gou¹bhao⁷	unsociable	50
 無向好 (bho⁵hiêⁿ³ho²)	unwell	100
 睏惰 (kun³duaⁿ⁶)	unwell	100
 人袂 (nang⁵ bhoi⁶)	unwell	100
-人毋孬 (nang⁵ m⁶moⁿ²)	unwell	100
 人毋好 (nang⁵ m⁷ho²)	unwell	100
+人毋孬 (nang⁵ m⁷moⁿ²)	unwell	100
 毋好 (m⁷haoⁿ³)	unwilling	100
 毋肯 (m⁷kêng²)	unwilling	100
 毋願 (m⁷nguan⁶)	unwilling	100
-毋堪 (m⁶kam¹)	unworthy	100
-毋堪該 (m⁶kam¹gai¹)	unworthy	100
 毋應該 (m⁷êng¹gai¹)	unworthy	100
 毋應當 (m⁷êng¹dng¹)	unworthy	100
 毋該 (m⁷gai¹)	unworthy	100
+毋堪 (m⁷kam¹)	unworthy	100
 毋堪該 (m⁷kam¹gai¹)	unworthy	100
 毋堪當 (m⁷kam¹dng¹)	unworthy	100
 不該 (bud⁴gai¹)	unworthy	100
@@ -33114,7 +33095,7 @@ sai²kia⁶	upright-to-place-a-thing	50
 青桶 (cêⁿ¹tang²)	vat-for-indigo	100
 地室 (di⁷sid⁴)	vault-an-underground	100
 青天 (cêⁿ¹tiⁿ¹)	vault-the-vault-of-heaven	100
-tiⁿ¹ uan¹gêng¹ uan¹gêng¹+++	vault-the-vault-of-heaven	50
+tiⁿ¹ uan¹gêng¹ uan¹gêng¹	vault-the-vault-of-heaven	50
 跳龍門 (tiau³lêng⁵mng⁵)	vault-to	100
 弓彎門 (gêng¹uan¹mng⁵)	vault-vaulted	100
 菜 (cai³)	vegetables	100
@@ -33964,7 +33945,7 @@ dam⁵im⁶	wet-damp	50
 在生樣 (zai⁶sêⁿ¹iêⁿ⁷)	what-what-is-it-like	100
 是乜人 (si⁶mih⁴nang⁵)	what-what-man	100
 底𫢗 (di⁵diang⁵)	what-what-man	100
-毋管 (m⁶guan²)	whatever	100
+毋管 (m⁷guan²)	whatever	100
 不論 (bud⁴lun⁶)	whatever	100
 隨便 (sui⁵biên⁶)	whatever	100
 大凡 (dai⁶huam⁵)	whatever	100
@@ -34123,7 +34104,7 @@ ga¹nng⁵gai⁵	whole	50
 謂是乜事 (ui⁶ si⁶mih⁴se⁷)	why	100
 怎呢袂食 (zo³niⁿ⁵ bhoi⁶ziah⁸)	why-cant-he-eat	100
 伊怎呢無來 (i¹ zo³niⁿ⁵ bho⁵lai⁵?)	why-did-he-not-come	100
-汝怎呢毋信我 (le² zo³niⁿ⁵ m⁶sin³ ua²?)	why-dont-you-believe-me	100
+汝怎呢毋信我 (le² zo³niⁿ⁵ m⁷sin³ ua²?)	why-dont-you-believe-me	100
 怎呢無呢 (zo³niⁿ⁵ bho⁵nê⁷?)	why-not	100
 何必此樣生 (ho⁵bid⁴ ziêⁿ³sêⁿ¹)	why-so	100
 彼個 (hia²)	why-so-why	100
@@ -34208,7 +34189,7 @@ ga¹nng⁵gai⁵	whole	50
 我必愛去 (ua² bid⁴aiⁿ³ke³)	will-I-will-go	100
 可以 (ko²iⁿ²)	will-it-will-do	100
 會做得 (oi⁶zo³did⁴)	will-it-will-do	100
-毋 (m⁶)	will-not	100
+毋 (m⁷)	will-not	100
 此個好咩 (zi²gai⁵ ho²mê²)	will-will-this-do	100
 出本心 (cud⁴bng²sim¹)	willing	100
 好 (haoⁿ³)	willing	100
@@ -34516,8 +34497,8 @@ cib⁴tou⁵	work-to-work-clay	50
 喫掉 (koi³diau⁷)	worm-worm-eaten	100
 in⁵din⁵	wormwood	50
 苦刺 (in⁵din⁵ kou²ci³)	wormwood	100
-愈毋孬 (ru²m⁶moⁿ²)	worse	100
 愈毋好 (ru²m⁷ho²)	worse	100
+愈毋孬 (ru²m⁷moⁿ²)	worse	100
 愈死 (ru²si²)	worse	100
 愈更毋好 (ru⁵gêng³ m⁷ho²)	worse	100
 更害 (gêng³hai⁷)	worse	100
@@ -34634,7 +34615,6 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 走絀 (zao²zuah⁸)	wrong	100
 差錯 (ca¹co³)	wrong	100
 錯 (co³)	wrong	100
-毋着 (m⁶diêh⁸)	wrong	100
 毋是 (m⁷si⁶)	wrong	100
 毋着 (m⁷diêh⁸)	wrong	100
 毋對 (m⁷dui³)	wrong	100
@@ -34740,13 +34720,13 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 汝好去 (le² ho²ke³)	you-may-go	100
 着早些 (diêh⁸ za²zê⁷)	you-must-be-early	100
 着選鮮个 (diêh⁸ suan² ciⁿ¹gai⁵)	you-must-choose-fresh-ones	100
-汝毋孬去 (le² m⁶moⁿ² ke³)	you-must-not-go	100
+汝毋孬去 (le² m⁷moⁿ² ke³)	you-must-not-go	100
 着預夠 (diêh⁸ e⁶gao³)	you-must-prepare-enough	100
 汝免用來 (le² min²êng⁷ lai⁵)	you-need-not-come	100
 恁 (nin²)	you-plural	100
 恁來 (nin² lai⁵)	you-plural-come	100
-汝着認汝个毋着 (le² diêh⁸rin⁷ le² gai⁵ m⁶diêh⁸)	you-should-admit-your-fault	100
-恁毋孬詏 (nin² m⁶moⁿ² a³)	you-should-not-argue	100
+汝着認汝个毋着 (le² diêh⁸rin⁷ le² gai⁵ m⁷diêh⁸)	you-should-admit-your-fault	100
+恁毋孬詏 (nin² m⁷moⁿ² a³)	you-should-not-argue	100
 汝 (le²)	you-singular	100
 請汝教我 (ciaⁿ² le² ga³ ua²)	you-teach-me-please	100
 貴姓 (gui³sêⁿ³)	you-what-is-your-surname	100
@@ -34772,7 +34752,7 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 老爺 (lao⁶ia⁵)	your-Worship	100
 太爺 (tai³ia⁵)	your-Worship	100
 大人 (dai⁶rin⁵)	your-Worship-Excellency	100
-汝个毋是此樣生 (le²gai⁵ m⁶si⁶ ziêⁿ³sêⁿ¹)	yours-is-not-like-his	100
+汝个毋是此樣生 (le²gai⁵ m⁷si⁶ ziêⁿ³sêⁿ¹)	yours-is-not-like-his	100
 出力 (cud⁴lad⁸)	zealous	100
 發忿 (huad⁴hun²)	zealous	100
 熱心 (riêd⁸sim¹)	zealous	100

@@ -11317,7 +11317,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **self**, ka-kī(家己); tsṳ̃-kí(自己); pńg-sin(本身); chhin-sin(親身). *self-examination*, tsṳ̃-séng(自省); tsṳ̃-sṳ(自私); tsṳ̃-siẽⁿ(自想); tsṳ̃-tshat(自察); tsṳ̃-mn̄g(自問); tsṳ̃-àn(自按); séⁿ-tshat ka-kī(省察家己); mn̄g-sim chẽⁿ-àn(問心靜案). *self-satisfied*, tsṳ̃-tsok(自囑). *self-conceit*, tsṳ̃-múaⁿ(自滿); tsṳ̃-sĩ(自是). *injure oneself*, tshâng-hāi ka-kī(殘害家己); tsṳ̃-pãu(自暴); tsṳ̃-khì(自棄); tsṳ̃-tshú khî-hũa(自取奇禍).
 
-**selfish**, sṳ-sim(私心); tsṳ̃-sim ũi-kí+; lĩ-kí(利己); kù-kí(顧己). *unselfish*, chì-kong bô-sṳ(濟公無私); thãi-nâng zû-kí(待人如己); kãu-nâng po̍h-kí(厚人薄己)++.
+**selfish**, sṳ-sim(私心); tsṳ̃-sim ũi-kí(自心爲己); lĩ-kí(利己); kù-kí(顧己). *unselfish*, chì-kong bô-sṳ(濟公無私); thãi-nâng zû-kí(待人如己); kãu-nâng po̍h-kí(厚人薄己).
 
 **sell**, bōi(賣); phùaⁿ(判). *rice*, thiè-chhek(糶粟); thiè-bí(糶米). *on credit*, chhia-bōi(賒賣). *for ready money*, hīn-bōi(現賣); hīn-chîⁿ kau-kuan(現錢交關). *by weight*, lũn-kṳn-bōi(論斤賣). *by auction*, khà-lõi-lang(扣黎郎); khà-lang(扣郎).
 
@@ -13660,7 +13660,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **vat**, tōa-tháng(大桶). *for indigo*, chheⁿ-tháng(青桶).
 
-**vault**, *the vault of heaven*, chheⁿ-thiⁿ(青天); thiⁿ uan-keng uan-keng+. *the vault of heaven (reading)*, khiong-tshan(穹蒼); tshan-khiong(蒼穹). *an underground*, tī-sit(地室). *vaulted*, keng-uan-mn̂g(弓彎門)++.
+**vault**, *the vault of heaven*, chheⁿ-thiⁿ(青天); thiⁿ uan-keng uan-keng〔〕. *the vault of heaven (reading)*, khiong-tshan(穹蒼); tshan-khiong(蒼穹). *an underground*, tī-sit(地室). *vaulted*, keng-uan-mn̂g(弓彎門).
 
 **vault**, *to*, thiàu-lêng-mn̂g(跳龍門).
 
