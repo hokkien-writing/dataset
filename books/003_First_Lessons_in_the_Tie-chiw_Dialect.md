@@ -105,7 +105,7 @@ aou | as ou in plough, our, sour. |
 | XIX | 十九 | Chap kaou |
 | XX | 二十 | Ji chap |
 
-<!-- page:17 --> |
+<!-- page:17 -->
 
 ## ORDINALS.
 
@@ -151,7 +151,7 @@ aou | as ou in plough, our, sour. |
 | Eight | 捌 | Poĭ |
 | Nine | 玖 | Kaou |
 
-<!-- page:18 --> |
+<!-- page:18 -->
 
 ## WORDS AND PHRASES.
 
@@ -206,7 +206,7 @@ aou | as ou in plough, our, sour. |
 | You | 爾 | Lur |
 | Year | 年 | Ni |
 
-<!-- page:19 --> |
+<!-- page:19 -->
 
 |  |  |  |
 |---|---|---|
@@ -231,7 +231,7 @@ aou | as ou in plough, our, sour. |
 | Can you read | 爾識字麽 | Lur pat ji,mĕ |
 | Call the boys | 喊亞孥子 | Ham a-nou-kia |
 
-<!-- page:20 --> |
+<!-- page:20 -->
 
 |  |  |  |
 |---|---|---|
