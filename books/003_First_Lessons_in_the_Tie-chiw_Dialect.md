@@ -548,7 +548,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Wave | 湧 | Eng |
 | Storm | 大風 | Toa huang |
 | Calm | 無風 | Baw huang |
-| Earthquake | 地震 | Ti chin<section end="the earth" /> |
+| Earthquake | 地震 | Ti chin
+|
 | East | 東 | Tang |
 | West | 西 | Sai |
 | South | 南 | Nam |
@@ -556,7 +557,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | S.East | 東南 | Tang nam |
 | S.West | 西南 | Sai nam |
 | N.East | 東北 | Tang păk |
-| N.West | 西北 | Sai păk<section end="points of the compass" /> |
+| N.West | 西北 | Sai păk
+|
 | Man | 人 | Nang |
 | Male | 男 | Lam |
 | Female | 女 | Nŭng |
@@ -565,7 +567,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Forehead | 額頭 | Hiă taou |
 | Brains | 頭殼髓 | Taou kăk-chuey |
 | Temple | 𩯭邊 | Pin pi |
-| Hair | 頭毛 | Taou maw<section end="members of the body" /> |
+| Hair | 頭毛 | Taou maw
+|
 
 <!-- page:32 -->
 
@@ -687,7 +690,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Hearing | 聽 | Tʼhia |
 | Smelling | 鼻 | Pñi |
 | Tasting | 嘗 | Sie |
-| Feeling | 摸 | Mong<section end="members of the body" /> |
+| Feeling | 摸 | Mong
+|
 | Mind | 心 | Sim |
 | Soul | 靈魂 | Leng hun |
 | Spirit | 靈 | Leng |
@@ -700,7 +704,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Grief | 哀 | Ai |
 | Pleasure | 樂 | Lăk |
 | Jealousy | 疑惑 | Gi hok |
-| Compassion | 慈悲 | Chur p<section end="the mind" /> |
+| Compassion | 慈悲 | Chur p
+|
 
 <!-- page:36 -->
 
@@ -836,7 +841,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Head ache | 頭殻痛 | Taou kăk tia |
 | Asthma | 嘎 | Hey |
 | Sigh | 偷氣 | Taou kui |
-| Yawn | 叱噓 | Huă hi<section end="diseases" /> |
+| Yawn | 叱噓 | Huă hi
+|
 
 <!-- page:40 -->
 
@@ -859,7 +865,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Has your child had the small pox | 爾箇子出痘未 | Lur kai kia chut chu boe |
 | Do you understand inoculation | 爾能種痘麽 | Lur oi cheng chu mĕ |
 | This child has worms | 此亞孥子疳癪 | Chi a nou kia u kam chek |
-| My eyes are sore & I can not read | 目珠痛不能讀 | Măk chiw tia mʼoi tak<section end="diseases" /> |
+| My eyes are sore & I can not read | 目珠痛不能讀 | Măk chiw tia mʼoi tak
+|
 
 <!-- page:41 -->
 
@@ -1034,7 +1041,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Tea cup | 茶鐘 | Tey cheng |
 | Saucer | 茶船 | Tey chun |
 | Wash bowl | 面盆 | Min pun |
-| Water pot | 水𢸎 | Chui kua<section end="house furniture" /> |
+| Water pot | 水𢸎 | Chui kua
+|
 
 <!-- page:45 -->
 
@@ -1077,7 +1085,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Receipt | 收單 | Siw toa |
 | Order | 領單 | Nĭa toa |
 | Clearance | 大字 | Toa ji |
-| Treaty | 𥂀約 | Meng iĕ<section end="writing utensils" /> |
+| Treaty | 𥂀約 | Meng iĕ
+|
 
 <!-- page:46 -->
 
@@ -1158,7 +1167,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Discourses, by | 論語 | Lun-gŭr |
 | Mencius | 孟子 | Meng-chŭr |
 | Golden medium | 中庸 | Tong-yong |
-| Filial piety | 孝經 | Haou-kia<section end="style chinese books" /> |
+| Filial piety | 孝經 | Haou-kia
+|
 
 <!-- page:48 -->
 
@@ -1201,7 +1211,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Sparrow | 雀鳥 | Maw chiă |
 | Cuckoo | 鳩鳥 | Ku ku |
 | Owl | 貓頭鳥 | Gñiou taou chiou |
-| Parrot | 鸚𤔄 | Eng kaw<section end="birds" /> |
+| Parrot | 鸚𤔄 | Eng kaw
+|
 
 <!-- page:49 -->
 
@@ -1244,7 +1255,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Bee | 蜂 | Pʼhang |
 | Grasshopper | 草蜢 | Chaou mè |
 | Cricket | 草蟀 | Chaou sut |
-| White ant | 白蟻 | Pĕ hia<section end="reptiles insects" /> |
+| White ant | 白蟻 | Pĕ hia
+|
 
 <!-- page:50 -->
 
@@ -1320,7 +1332,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Pork | 猪肉 | Tŭr bă |
 | Fowl | 雞 | Koi |
 | Fish | 魚 | Hŭr |
-| Bread | 麵包 | Mi paou<section end="articles of food" /> |
+| Bread | 麵包 | Mi paou
+|
 
 <!-- page:52 -->
 
@@ -1600,7 +1613,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | 3 to 5 | 申 | Sin |
 | 5 to 7 | 酉 | Yiw |
 | 7 to 9 | 戌 | Sut |
-| 9 to 11 | 亥 | Hai<section end="watches" /> |
+| 9 to 11 | 亥 | Hai
+|
 
 <!-- page:61 -->
 
@@ -1623,4 +1637,5 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Wednesday | 拜三 | Pai sa |
 | Thursday | 拜四 | Pai si |
 | Friday | 拜五 | Pai gñou |
-| Saturday | 拜六 | Pai lak<section end="days of the week" /> |
+| Saturday | 拜六 | Pai lak
+|
