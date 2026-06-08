@@ -1,0 +1,318 @@
+from __future__ import annotations
+
+import argparse
+import csv
+import re
+import sys
+from pathlib import Path
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+sys.path.insert(0, str(PROJECT_ROOT))
+
+_PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
+_TABLE_ROW_RE = re.compile(r"^\|(.+)\|\s*$")
+_SEPARATOR_RE = re.compile(r"^\|[\s\-:|]+\|\s*$")
+_OCR_ARTIFACT_RE = re.compile(r"~~丨~~\(([^)]*)\)")
+_CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf]")
+_COMMA_SPLIT_RE = re.compile(r",")
+_SYLLABLE_RE = re.compile(
+    r"[A-Za-z\u0300-\u036f\u0128\u0129\u0131\u00f1\u02bc\u0142\u2019"
+    r"\u0103\u0115\u012d\u014f\u016d]+"
+)
+_BREVE_CHARS = frozenset("\u0103\u0115\u012d\u014f\u016d")
+_BREVE_TRANS = str.maketrans({
+    "\u0103": "a",
+    "\u0115": "e",
+    "\u012d": "i",
+    "\u014f": "o",
+    "\u016d": "u",
+})
+_TONE_DIGIT_RE = re.compile(r"[1-8]$")
+_ENTERING_END_RE = re.compile(r"[ptk]$")
+
+
+def _strip_tone(s: str) -> str:
+    return _TONE_DIGIT_RE.sub("", s)
+
+
+def parse_markdown(text: str) -> list[tuple[str, str, str, str]]:
+    rows: list[tuple[str, str, str, str]] = []
+    page = ""
+
+    for line in text.splitlines():
+        m = _PAGE_RE.match(line)
+        if m:
+            page = m.group(1)
+            continue
+
+        if not page:
+            continue
+
+        if _SEPARATOR_RE.match(line):
+            continue
+
+        m = _TABLE_ROW_RE.match(line)
+        if not m:
+            continue
+
+        cells = [c.strip() for c in m.group(1).split("|")]
+        if len(cells) < 3:
+            continue
+
+        han = _OCR_ARTIFACT_RE.sub(r"\1", cells[1])
+        dean_latn_raw = cells[2]
+
+        if not _CJK_RE.search(han):
+            continue
+
+        english = cells[0]
+
+        rows.append((page, english, han, dean_latn_raw))
+
+    return rows
+
+
+def split_dean_syllables(text: str) -> list[str]:
+    result: list[str] = []
+    for word in text.split():
+        result.extend(_SYLLABLE_RE.findall(word.lower()))
+    return result
+
+
+def normalize_dean_syllable(syllable: str) -> str:
+    has_breve = bool(_BREVE_CHARS & set(syllable))
+    s = syllable.lower().translate(_BREVE_TRANS)
+    if has_breve and not _ENTERING_END_RE.search(s):
+        s = s + "h"
+    if s.startswith("gn") or s.startswith("g\u00f1"):
+        s = "ng" + s[2:]
+    s = s.replace("\u00f1", "n")
+    s = s.replace("\u02bc", "")
+    s = s.replace("aou", "au")
+    s = s.replace("yiw", "iu")
+    s = s.replace("iw", "iu")
+    s = s.replace("ow", "ou")
+    s = s.replace("ey", "e")
+    s = s.replace("aw", "o")
+    return s
+
+
+def _dean_syllable_to_latn_norm(syl: str) -> str:
+    has_breve = bool(_BREVE_CHARS & set(syl))
+    s = syl.lower().translate(_BREVE_TRANS)
+    if has_breve and not _ENTERING_END_RE.search(s):
+        s = s + "h"
+    is_nasal = "\u00f1" in s
+    s = s.replace("p\u00f1", "ph")
+    if s.startswith("gn") or s.startswith("g\u00f1"):
+        if "\u00f1" not in s[2:]:
+            is_nasal = False
+        s = "ng" + s[2:]
+    pos = s.find("\u00f1")
+    while pos >= 0:
+        if pos + 1 < len(s) and s[pos + 1] not in "aeiou\u00f1":
+            s = s[:pos] + "n" + s[pos + 1:]
+        else:
+            s = s[:pos] + s[pos + 1:]
+        pos = s.find("\u00f1")
+    s = s.replace("\u02bc", "")
+    s = s.replace("aou", "au")
+    s = s.replace("yiw", "iu")
+    s = s.replace("iw", "iu")
+    s = s.replace("ow", "ou")
+    s = s.replace("ey", "e")
+    s = s.replace("aw", "o")
+    if is_nasal:
+        s = s + "nn"
+    s = s.replace("ur", "\u1e73")
+    if len(s) > 1 and s[0] == "j" and s[1] not in "ie":
+        s = "z" + s[1:]
+    if s.startswith("chh") and len(s) > 3 and s[3] not in "ie":
+        s = "tsh" + s[3:]
+    elif s.startswith("ch") and not s.startswith("chh") and len(s) > 2 and s[2] not in "ie":
+        s = "ts" + s[2:]
+    return s
+
+
+def dean_to_latn_norm(text: str) -> str:
+    return " ".join(_dean_syllable_to_latn_norm(s) for s in split_dean_syllables(text))
+
+
+def levenshtein(s1: str, s2: str) -> int:
+    if len(s1) < len(s2):
+        return levenshtein(s2, s1)
+    if len(s2) == 0:
+        return len(s1)
+    prev = list(range(len(s2) + 1))
+    for i, c1 in enumerate(s1):
+        curr = [i + 1]
+        for j, c2 in enumerate(s2):
+            cost = 0 if c1 == c2 else 1
+            curr.append(min(curr[j] + 1, prev[j + 1] + 1, prev[j] + cost))
+        prev = curr
+    return prev[-1]
+
+
+def build_han_index(reader: csv.DictReader) -> dict[str, list[tuple[str, str]]]:
+    index: dict[str, list[tuple[str, str]]] = {}
+    for row in reader:
+        puj = (row.get("puj") or "").strip()
+        latn_norm = (row.get("latn_norm") or "").strip()
+        han = (row.get("han") or "").strip()
+        if puj and latn_norm and han:
+            key = (puj, latn_norm)
+            if han not in index or key not in index[han]:
+                index.setdefault(han, []).append((puj, latn_norm))
+    return index
+
+
+def _base_form(s: str) -> str:
+    return _TONE_DIGIT_RE.sub("", s)
+
+
+_NASAL_CODA_RE = re.compile(r"(nnh?|m|ng|n)$")
+
+
+def _pre_coda(s: str) -> str:
+    return _NASAL_CODA_RE.sub("", _base_form(s))
+
+
+def lookup_puj_for_row(
+    han_chars: list[str],
+    dean_syllables: list[str],
+    han_index: dict[str, list[tuple[str, str]]],
+) -> list[str | None] | None:
+    n_dean = len(dean_syllables)
+    n_han = len(han_chars)
+    if n_dean == 0 or n_han == 0:
+        return None
+    if n_dean > n_han:
+        return None
+    offset = n_han - n_dean
+    tail_han = han_chars[offset:]
+    tail_dean = dean_syllables
+    for ch in tail_han:
+        if ch not in han_index:
+            return None
+    result: list[str | None] = []
+    for han, raw_dean in zip(tail_han, tail_dean):
+        candidates = han_index[han]
+        if len(candidates) == 1:
+            result.append(candidates[0][0])
+        else:
+            norm_dean = normalize_dean_syllable(raw_dean)
+            pre_coda_forms = {_pre_coda(c[1]) for c in candidates}
+            if len(pre_coda_forms) == 1 and len(candidates) > 1:
+                scored = [(levenshtein(norm_dean, _base_form(c[1])), c) for c in candidates]
+                scored.sort(key=lambda x: (x[0], x[1][0]))
+                result.append(scored[0][1][0])
+                continue
+            scored = [(levenshtein(norm_dean, _base_form(c[1])), c) for c in candidates]
+            scored.sort(key=lambda x: (x[0], x[1][0]))
+            if len(scored) > 1 and scored[0][0] == scored[1][0]:
+                result.append(None)
+                continue
+            result.append(scored[0][1][0])
+    return result
+
+
+def _extract_han_chars(text: str) -> list[str]:
+    return _CJK_RE.findall(text)
+
+
+def _reconstruct_tail(original: str, replacements: list[str]) -> str:
+    syllable_matches = list(_SYLLABLE_RE.finditer(original))
+    if not syllable_matches or not replacements:
+        return original
+    skip = len(syllable_matches) - len(replacements)
+    if skip < 0:
+        skip = 0
+    result = original
+    offset = 0
+    for i, m in enumerate(syllable_matches):
+        if i >= skip and replacements:
+            repl = replacements.pop(0)
+            if m.group()[0].isupper() and repl:
+                repl = repl[0].upper() + repl[1:]
+            result = result[:m.start() + offset] + repl + result[m.end() + offset:]
+            offset += len(repl) - len(m.group())
+    return result
+
+
+def _reconstruct(original: str, replacements: list[str]) -> str:
+    if len(replacements) == len(list(_SYLLABLE_RE.finditer(original))):
+        return _reconstruct_tail(original, replacements)
+    return _reconstruct_tail(original, replacements)
+
+
+def process_rows(
+    rows: list[tuple[str, str, str, str]],
+    teochew_reader: csv.DictReader,
+) -> list[dict[str, str]]:
+    han_index = build_han_index(teochew_reader)
+    results: list[dict[str, str]] = []
+    for page, english, han_raw, dean_latn in rows:
+        han_chars = _extract_han_chars(han_raw)
+        if not han_chars:
+            continue
+        dean_syllables = split_dean_syllables(dean_latn)
+        puj_entries = lookup_puj_for_row(han_chars, dean_syllables, han_index)
+        if puj_entries is None:
+            norm_syllables = [_dean_syllable_to_latn_norm(s) for s in dean_syllables]
+            puj = "*" + _reconstruct(dean_latn, norm_syllables)
+            source = "rule"
+        else:
+            mixed: list[str] = []
+            for i, entry in enumerate(puj_entries):
+                if entry is not None:
+                    mixed.append(entry)
+                else:
+                    mixed.append(_dean_syllable_to_latn_norm(dean_syllables[i]))
+            if all(e is not None for e in puj_entries):
+                puj = _reconstruct(dean_latn, mixed)
+                source = "teochew.csv"
+            else:
+                puj = "*" + _reconstruct(dean_latn, mixed)
+                source = "rule"
+        results.append({
+            "page": page,
+            "english": english,
+            "han": han_raw,
+            "dean_latn": dean_latn,
+            "puj": puj,
+            "source": source,
+        })
+    return results
+
+
+def main():
+    parser = argparse.ArgumentParser(description="Convert Dean's Tie-chiw romanization to PUJ")
+    parser.add_argument("--input", required=True, help="Path to Dean markdown file")
+    parser.add_argument("--teochew", required=True, help="Path to teochew.csv")
+    parser.add_argument("--output", required=True, help="Path to output CSV")
+    args = parser.parse_args()
+
+    md_text = Path(args.input).read_text(encoding="utf-8")
+    rows = parse_markdown(md_text)
+
+    with open(args.teochew, encoding="utf-8", newline="") as f:
+        reader = csv.DictReader(f)
+        results = process_rows(rows, reader)
+
+    output_path = Path(args.output)
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    with open(output_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["page", "english", "han", "dean_latn", "puj", "source"])
+        writer.writeheader()
+        for row in results:
+            writer.writerow(row)
+
+    matched = sum(1 for r in results if r["source"] == "teochew.csv")
+    fallback = sum(1 for r in results if r["source"] == "rule")
+    print(f"Wrote {len(results)} entries to {output_path}")
+    print(f"  matched: {matched}, fallback: {fallback}")
+
+
+if __name__ == "__main__":
+    main()
