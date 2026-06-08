@@ -528,6 +528,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:31 -->
 
+## POINTS OF THE COMPASS.
+
 |  |  |  |
 |---|---|---|
 | Anchorage | 埠頭 | Pou taou |
@@ -548,8 +550,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Wave | 湧 | Eng |
 | Storm | 大風 | Toa huang |
 | Calm | 無風 | Baw huang |
-| Earthquake | 地震 | Ti chin
-|
+| Earthquake | 地震 | Ti chin |
 | East | 東 | Tang |
 | West | 西 | Sai |
 | South | 南 | Nam |
@@ -557,8 +558,12 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | S.East | 東南 | Tang nam |
 | S.West | 西南 | Sai nam |
 | N.East | 東北 | Tang păk |
-| N.West | 西北 | Sai păk
-|
+| N.West | 西北 | Sai păk |
+
+## MEMBERS OF THE BODY &c
+
+|  |  |  |
+|---|---|---|
 | Man | 人 | Nang |
 | Male | 男 | Lam |
 | Female | 女 | Nŭng |
@@ -567,8 +572,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Forehead | 額頭 | Hiă taou |
 | Brains | 頭殼髓 | Taou kăk-chuey |
 | Temple | 𩯭邊 | Pin pi |
-| Hair | 頭毛 | Taou maw
-|
+| Hair | 頭毛 | Taou maw |
 
 <!-- page:32 -->
 
@@ -664,6 +668,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:35 -->
 
+## THE MIND &c.
+
 |  |  |  |
 |---|---|---|
 | Skin | 皮 | Poe |
@@ -690,8 +696,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Hearing | 聽 | Tʼhia |
 | Smelling | 鼻 | Pñi |
 | Tasting | 嘗 | Sie |
-| Feeling | 摸 | Mong
-|
+| Feeling | 摸 | Mong |
 | Mind | 心 | Sim |
 | Soul | 靈魂 | Leng hun |
 | Spirit | 靈 | Leng |
@@ -704,8 +709,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Grief | 哀 | Ai |
 | Pleasure | 樂 | Lăk |
 | Jealousy | 疑惑 | Gi hok |
-| Compassion | 慈悲 | Chur p
-|
+| Compassion | 慈悲 | Chur p |
 
 <!-- page:36 -->
 
@@ -802,6 +806,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:39 -->
 
+## DISEASES &c.
+
 |  |  |  |
 |---|---|---|
 | Pride | 驕傲 | Kiou gnaou |
@@ -841,8 +847,7 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Head ache | 頭殻痛 | Taou kăk tia |
 | Asthma | 嘎 | Hey |
 | Sigh | 偷氣 | Taou kui |
-| Yawn | 叱噓 | Huă hi
-|
+| Yawn | 叱噓 | Huă hi |
 
 <!-- page:40 -->
 
@@ -865,10 +870,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Has your child had the small pox | 爾箇子出痘未 | Lur kai kia chut chu boe |
 | Do you understand inoculation | 爾能種痘麽 | Lur oi cheng chu mĕ |
 | This child has worms | 此亞孥子疳癪 | Chi a nou kia u kam chek |
-| My eyes are sore & I can not read | 目珠痛不能讀 | Măk chiw tia mʼoi tak
-|
+| My eyes are sore & I can not read | 目珠痛不能讀 | Măk chiw tia mʼoi tak |
 
 <!-- page:41 -->
+
+## FAMILY RELATIONS &c.
 
 |  |  |  |
 |---|---|---|
@@ -914,6 +920,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:42 -->
 
+## CLASSES OF MEN.
+
 |  |  |  |
 |---|---|---|
 | First class | 上品 | Siang pin |
@@ -957,6 +965,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | A clerk | 財副 | Chai hu |
 
 <!-- page:43 -->
+
+## BUILDINGS &c.
 
 |  |  |  |
 |---|---|---|
@@ -1002,6 +1012,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:44 -->
 
+## HOUSE FURNITURE &c.
+
 |  |  |  |
 |---|---|---|
 | Room | 房 | Pang |
@@ -1041,10 +1053,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Tea cup | 茶鐘 | Tey cheng |
 | Saucer | 茶船 | Tey chun |
 | Wash bowl | 面盆 | Min pun |
-| Water pot | 水𢸎 | Chui kua
-|
+| Water pot | 水𢸎 | Chui kua |
 
 <!-- page:45 -->
+
+## WRITING UTENSILS &c.
 
 |  |  |  |
 |---|---|---|
@@ -1085,10 +1098,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Receipt | 收單 | Siw toa |
 | Order | 領單 | Nĭa toa |
 | Clearance | 大字 | Toa ji |
-| Treaty | 𥂀約 | Meng iĕ
-|
+| Treaty | 𥂀約 | Meng iĕ |
 
 <!-- page:46 -->
+
+## FARMING UTENSILS, &c.
 
 |  |  |  |
 |---|---|---|
@@ -1111,6 +1125,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Plane | 抽 | Tiu |
 | Musket | 銃 | Cʼheng |
 | Sword | 長刀 | Tŭng taw |
+
+## BOATING.
+
+|  |  |  |
+|---|---|---|
 | Large boat | 大船 | Toa chun |
 | Small boat | 船子 | Chun kia |
 | Oars | 槳 | Chìe |
@@ -1129,6 +1148,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:47 -->
 
+## PRINTING OFFICE.
+
 |  |  |  |
 |---|---|---|
 | Print books | 印冊 | In chĕ |
@@ -1140,6 +1161,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | To fold | 摺 | Jĭ |
 | Cut type | 割字 | Kuă ji |
 | Cast type | 鑄印 | Chu in |
+
+## FORMS OF CHARACTERS, &c.
+
+|  |  |  |
+|---|---|---|
 | Seal character | 篆字 | Toan ji |
 | German text | 𨽾書 | Tí chŭr |
 | Italic | 楷書 | Kʼhai chŭr |
@@ -1149,6 +1175,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Nouns | 實字 | Sït ji |
 | Verbs | 活字 | Uă ji |
 | Particles &c. | 虛字 | Hŭr ji |
+
+## STYLE, CHINESE BOOKS &c.
+
+|  |  |  |
+|---|---|---|
 | Style | 文理 | Bun li |
 | Ancient literature | 古文 | Kou bun |
 | Classics | 經書 | Kia chŭr |
@@ -1167,10 +1198,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Discourses, by | 論語 | Lun-gŭr |
 | Mencius | 孟子 | Meng-chŭr |
 | Golden medium | 中庸 | Tong-yong |
-| Filial piety | 孝經 | Haou-kia
-|
+| Filial piety | 孝經 | Haou-kia |
 
 <!-- page:48 -->
+
+## ANIMALS &c.
 
 |  |  |  |
 |---|---|---|
@@ -1206,15 +1238,21 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Fox | 狐狸 | Hu lai |
 | Rat | 老鼠 | Niou chŭr |
 | Rabbit | 石鼠 | Chiĕ chŭr |
+
+## BIRDS &c.
+
+|  |  |  |
+|---|---|---|
 | Birds | 鳥 | Chiou |
 | Crow | 烏鳥 | Ou chiou |
 | Sparrow | 雀鳥 | Maw chiă |
 | Cuckoo | 鳩鳥 | Ku ku |
 | Owl | 貓頭鳥 | Gñiou taou chiou |
-| Parrot | 鸚𤔄 | Eng kaw
-|
+| Parrot | 鸚𤔄 | Eng kaw |
 
 <!-- page:49 -->
+
+## REPTILES & INSECTS.
 
 |  |  |  |
 |---|---|---|
@@ -1255,10 +1293,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Bee | 蜂 | Pʼhang |
 | Grasshopper | 草蜢 | Chaou mè |
 | Cricket | 草蟀 | Chaou sut |
-| White ant | 白蟻 | Pĕ hia
-|
+| White ant | 白蟻 | Pĕ hia |
 
 <!-- page:50 -->
+
+## METALS.
 
 |  |  |  |
 |---|---|---|
@@ -1274,6 +1313,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Copper | 紅~~丨~~(銅) | Ang tang |
 | Steel | 鋼 | Kŭng |
 | Tin | 白鐵 | Pĕ tĭ |
+
+## TREES PLANTS FRUITS &c.
+
+|  |  |  |
+|---|---|---|
 | Tree | 樹 | Chiw |
 | Root | 根 | Kŭrn |
 | Branch | 枝 | Ki |
@@ -1293,6 +1337,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:51 -->
 
+## VEGETABLES.
+
 |  |  |  |
 |---|---|---|
 | Cucumber | 吊瓜 | Tiou kue |
@@ -1309,6 +1355,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Chilli | 辣椒 | Hiem chie |
 | Potatoe | 蕃 | Hwan kuă |
 | Yam | 大薯 | Toa chŭr |
+
+## ARTICLES OF FOOD.
+
+|  |  |  |
+|---|---|---|
 | Rice | 米 | Bi |
 | Rice | 飯 | Pŭng |
 | Cake | 粿 | Kuèy |
@@ -1332,10 +1383,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Pork | 猪肉 | Tŭr bă |
 | Fowl | 雞 | Koi |
 | Fish | 魚 | Hŭr |
-| Bread | 麵包 | Mi paou
-|
+| Bread | 麵包 | Mi paou |
 
 <!-- page:52 -->
+
+## OF TIME.
 
 |  |  |  |
 |---|---|---|
@@ -1381,6 +1433,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:53 -->
 
+## DRESS &c.
+
 |  |  |  |
 |---|---|---|
 | Clothes | 衣服 | I hok |
@@ -1424,6 +1478,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | Purse | 銀桶 | Gnŭrn tong |
 
 <!-- page:54 -->
+
+## NUMERAL AFFIXES.
 
 |  |  |  |
 |---|---|---|
@@ -1574,6 +1630,8 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 
 <!-- page:60 -->
 
+## DAYS OF THE MONTH.
+
 |  |  |  |
 |---|---|---|
 | 1st | 初一 | Chiw it |
@@ -1594,12 +1652,22 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | 22nd | 二二 | Ji ji |
 | 25th | 二五 | Ji gñou |
 | 30th | 三十 | Sa chap |
+
+## THE SEASONS.
+
+|  |  |  |
+|---|---|---|
 | Season | 季 | Kʼhui |
 | Spring | 春 | Chun |
 | Summer | 夏 | Hey |
 | Autumn | 秋 | Chiw |
 | Winter | 冬 | Tang |
 | Year | 年 | Ni |
+
+## WATCHES.
+
+|  |  |  |
+|---|---|---|
 | 11 to 1 A.M. | 子 | Chŭr |
 | 1 to 3 | 丑 | Tiw |
 | 3 to 5 | 寅 | In |
@@ -1613,10 +1681,11 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | 3 to 5 | 申 | Sin |
 | 5 to 7 | 酉 | Yiw |
 | 7 to 9 | 戌 | Sut |
-| 9 to 11 | 亥 | Hai
-|
+| 9 to 11 | 亥 | Hai |
 
 <!-- page:61 -->
+
+## MONTHS OF THE YEAR.
 
 |  |  |  |
 |---|---|---|
@@ -1631,11 +1700,15 @@ mʼ | an incomplete sound formed by closing the lips and uttering it through the
 | 10th month Nov. | 十月 | Chap guĕ |
 | 11th month Dec. | 十一月 | Chap it guĕ |
 | 12th month Jan. | 十二月 | Chap ji guĕ |
+
+## DAYS OF THE WEEK.
+
+|  |  |  |
+|---|---|---|
 | Sunday | 禮拜 | Loi pai |
 | Monday | 拜一 | Pai it |
 | Tuesday | 拜二 | Pai ji |
 | Wednesday | 拜三 | Pai sa |
 | Thursday | 拜四 | Pai si |
 | Friday | 拜五 | Pai gñou |
-| Saturday | 拜六 | Pai lak
-|
+| Saturday | 拜六 | Pai lak |
