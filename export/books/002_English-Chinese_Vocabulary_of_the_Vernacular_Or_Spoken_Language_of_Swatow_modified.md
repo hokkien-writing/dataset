@@ -273,7 +273,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **absolve**, kói-tsũe(改罪); sià-tsũe(赦罪); sek-pàng(釋放).
 
-**absorb**, sò-ta(疏大). *water*, sò-tsúi(疏水). *all one’s energies*, ēng-chĩn-la̍t(用盡力). *entirely absorbed in any thing*, ji̍p-sîn(入神).
+**absorb**, sò-ta(疏灱). *water*, sò-tsúi(疏水). *all one’s energies*, ēng-chĩn-la̍t(用盡力). *entirely absorbed in any thing*, ji̍p-sîn(入神).
 
 **abstain**, kài(戒). *from liquor*, kài-chiú(戒酒). *from lust*, kài-io̍k(戒慾).
 
