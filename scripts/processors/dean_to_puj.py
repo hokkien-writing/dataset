@@ -20,7 +20,7 @@ _SYLLABLE_RE = re.compile(
     r"[A-Za-z\u0300-\u036f\u0128\u0129\u0131\u00f1\u02bc\u0142\u2019"
     r"\u0103\u0115\u012d\u014f\u016d]+"
 )
-_BREVE_CHARS = frozenset("\u0103\u0115\u012d\u014f\u016d")
+_BREVE_CHARS = frozenset("\u0103\u0115\u012d\u014f")
 _BREVE_TRANS = str.maketrans({
     "\u0103": "a",
     "\u0115": "e",
@@ -30,7 +30,7 @@ _BREVE_TRANS = str.maketrans({
 })
 _TONE_DIGIT_RE = re.compile(r"[1-8]$")
 _ENTERING_END_RE = re.compile(r"[ptk]$")
-_NN_RE = re.compile(r"nn")
+_NN_RE = re.compile(r"nn$")
 
 
 def _strip_tone(s: str) -> str:

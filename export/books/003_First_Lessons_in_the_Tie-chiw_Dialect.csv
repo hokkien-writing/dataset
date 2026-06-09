@@ -397,7 +397,7 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 29,N.West,,西北,,Sai păk,Sai pak,teochew.csv
 29,Man,,人,,Nang,Nâng,teochew.csv
 29,Male,,男,,Lam,Lâm,teochew.csv
-29,Female,,女,,Nŭng,*Lṳ́,tiebreak
+29,Female,,女,,Nŭng,Nńg,teochew.csv
 29,Body,,身體,,Sin toi,Sin thí,teochew.csv
 29,Head,,頭殼,,Taou kăk,Thâu khak,teochew.csv
 29,Forehead,,額頭,,Hiă taou,Hia̍h thâu,teochew.csv
@@ -584,10 +584,10 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 38,I hope to be well in future,,希望將來有好,,Hi maw chiang lai u haw,*Hi mō chiang lâi ũ hó,tiebreak
 38,Without faith it is impossible to be saved,,無信德不得救,,Baw sin tĕk put tit kiw,*Bô sìn tek put tit kiù,tiebreak
 38,Have long patience,,久久忍耐,,Ku ku jin nai,Kú kú jím nãi,teochew.csv
-38,I have received his kindness,,我受過伊恩惠,,Ua siw kuey i kai ŭrn hui,*Ua siu kue i kai ṳnh hui,rule
+38,I have received his kindness,,我受過伊恩惠,,Ua siw kuey i kai ŭrn hui,*Ua siu kue i kai ṳn hui,rule
 38,The godly shall enjoy endless happiness,,虔孝者享永福,䖍孝者享永福,Kien haou chia hiang yong hok,*Khien hàu chiá hiáng ióng hok,tiebreak
 38,He is never contented,,伊無知足,,I baw chai chok,I bô tsai tsok,teochew.csv
-38,I am grateful for your favors,,我感汝恩,我感爾恩,Ua kam lŭr kai ŭrn,*Ua kam lṳh kai ṳnh,rule
+38,I am grateful for your favors,,我感汝恩,我感爾恩,Ua kam lŭr kai ŭrn,*Ua kam lṳ kai ṳn,rule
 38,He is extremely covetous,,伊貪吝之極,,I tʼham lien chŭr kĕk,I tham liẽn tsṳ ke̍k,teochew.csv
 38,He is very skillful,,伊有名家在,伊有名家極,I u mia key chai,I ũ miâⁿ ke tsãi,teochew.csv
 38,Having a wise man's capacity,,有賢人之才,,U gaou nang chŭr chai,Ũ gâu nâng tsṳ tsâi,teochew.csv
@@ -691,10 +691,10 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 41,Slave (),,婢,,Pi,Pĩ,teochew.csv
 41,Master,,家主,,Key chu,Ke tsú,teochew.csv
 41,Mistress,,家主娘,,Key chu nie,Ke tsú niêⁿ,teochew.csv
-41,Bridegroom,,新郎,,Sin nung,*Sin lang,tiebreak
+41,Bridegroom,,新郎,,Sin nung,Sin nn̂g,teochew.csv
 41,Bride,,新娘,,Sin nie,Sin niêⁿ,teochew.csv
 41,Nephew,,姪,,Tiĕt,Tie̍t,teochew.csv
-41,Niece,,姪女,,Tiĕt nung,*Tie̍t lṳ́,tiebreak
+41,Niece,,姪女,,Tiĕt nung,Tie̍t nńg,teochew.csv
 42,First class,,上品,,Siang pin,*Siâng pín,tiebreak
 42,Middle class,,中品,,Tong pin,*Tong pín,tiebreak
 42,Lower class,,下品,,Hia pin,Hiã pín,teochew.csv
@@ -893,7 +893,7 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 45,Cut type,,割字,,Kuă ji,Kuah jī,teochew.csv
 45,Cast type,,鑄印,,Chu in,Tsù ìn,teochew.csv
 45,Seal character,,篆字,,Toan ji,Tuãn jī,teochew.csv
-45,German text,,𨽾書,,Tí chŭr,*Tí tsṳh,rule
+45,German text,,𨽾書,,Tí chŭr,*Tí tsṳ,rule
 45,Italic,,楷書,,Kʼhai chŭr,*Khai tsṳ,tiebreak
 45,Running hand,,行書,,Hang su,*Hâng su,tiebreak
 45,Short hand,,草字,,Chaw ji,Tshó jī,teochew.csv
@@ -1171,7 +1171,7 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 53,29,,二九領京捫蓆,,Ji kaou ~~„~~(nia) kia bun chiĕ,*Jī káu ~~„~~(niá) kiaⁿ mông chhie̍h,tiebreak
 53,30 Rain jackets,,三十領棕蓑,,Sa chap ~~„~~(nia) chang sui,Saⁿ tsa̍p ~~„~~(niá) tsang sui,teochew.csv
 53,1 Close cap,,一頂紗㡌,,Chĕk *teng* sey baw,*Chek *teng* se bo,rule
-53,2 Satin caps,,二頂緞㡌,二頂縀丨,Naw ~~„~~(teng) tŭng baw,*No ~~„~~(teng) tungh bo,rule
+53,2 Satin caps,,二頂緞㡌,二頂縀丨,Naw ~~„~~(teng) tŭng baw,*No ~~„~~(teng) tung bo,rule
 53,3 Felt hats,,三頂毡㡌,三頂毡丨,Sa ~~„~~(teng) chi baw,*Sa ~~„~~(teng) chi bo,rule
 53,4 Tassel'd caps,,四頂纓㡌,,Si ~~„~~(teng) eng baw,*Si ~~„~~(teng) eng bo,rule
 53,5 Straw hats,,五頂草㡌,,Gñou ~~„~~(teng) chaou baw,*Ngou ~~„~~(teng) tsau bo,rule
@@ -1212,7 +1212,7 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 55,7 Chillies,,七粒辣椒,七丨辣椒,Chĭt ~~„~~(liĕp) hĭem chie,Chhit ~~„~~(lia̍p) lua̍h chie,teochew.csv
 55,8 Peppers,,八粒楜椒,八丨楜椒,Poĭ ~~„~~(liĕp) hou chie,*Poih ~~„~~(liep) hou chie,rule
 55,9 Pills,,九粒藥丸,九丨藥丸,Kaou ~~„~~(liĕp) iĕ i,Káu ~~„~~(lia̍p) ie̍h îⁿ,teochew.csv
-55,1 Bundle of chopsticks,,一把箸,一把著,Chĕk *pèy* tŭr,*Chek *pèy* tṳh,rule
+55,1 Bundle of chopsticks,,一把箸,一把著,Chĕk *pèy* tŭr,*Chek *pèy* tṳ,rule
 55,2 Bundles of sugar cane,,二把蔗,二丨樜,Naw ~~„~~(pèy) chia,*No ~~„~~(pèy) chia,rule
 55,3 Handfuls of rice,,三把米,三丨米,Sa ~~„~~(pèy) bi,*Sa ~~„~~(pèy) bi,rule
 55,1 Piece of cloth,,一疋布,,Chĕk *pĭt* pou,Che̍k *phit* pòu,teochew.csv

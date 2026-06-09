@@ -227,12 +227,12 @@ class TestLookupPujForRow(unittest.TestCase):
         result, ties = lookup_puj_for_row(han_chars, dean_syllables, sam_index)
         self.assertEqual(result, ["sa\u207f"])
 
-    def test_mismatched_counts_ties_returns_none_per_syllable(self):
+    def test_mismatched_counts_picks_closest_for_last_han(self):
         han_chars = ["一", "二"]
         dean_syllables = ["chĕk"]
         result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
         self.assertEqual(len(result), 1)
-        self.assertIn(0, ties)
+        self.assertEqual(result[0], "no6")
 
     def test_extra_syllables_returns_none(self):
         han_chars = ["一"]
