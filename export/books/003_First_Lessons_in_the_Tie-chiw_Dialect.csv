@@ -1,0 +1,1316 @@
+page,english,english_orig,han,han_orig,dean_latn,puj,source
+14,11,,〡/〸一,,Chap it,*Tsap it,rule
+14,12,,〡/〸二,,Chap ji,*Tsap ji,rule
+14,51,,〥/〸一,,Gñou chap it,*Ngou tsap it,rule
+14,105,,〡〇/百〥,,Pĕ lan gñou,*Peh lan ngou,rule
+14,150,,〡/百〥,,Pĕ gñou,*Peh ngou,rule
+14,I,,一,,Chĕk,Che̍k,teochew.csv
+14,II,,二,,Naw,Nõ,teochew.csv
+14,III,,三,,Sa,Saⁿ,teochew.csv
+14,IV,,四,,Si,Sì,teochew.csv
+14,V,,五,,Gñou,*Ngõu,tiebreak
+14,VI,,六,,Lak,La̍k,teochew.csv
+14,VII,,七,,Chĭt,Chhit,teochew.csv
+14,VIII,,八,,Poĭ,Poih,teochew.csv
+14,IX,,九,,Kaou,Káu,teochew.csv
+14,X,,十,,Chap,Tsa̍p,teochew.csv
+14,XI,,十一,,Chap it,Tsa̍p it,teochew.csv
+14,XII,,十二,,Chap ji,*Tsa̍p jī,tiebreak
+14,XIII,,十三,,Chap sa,Tsa̍p saⁿ,teochew.csv
+14,XIV,,十四,,Chap si,Tsa̍p sì,teochew.csv
+14,XV,,十五,,Chap gñou,*Tsa̍p ngõu,tiebreak
+14,XVI,,十六,,Chap lak,Tsa̍p la̍k,teochew.csv
+14,XVII,,十七,,Chap chĭt,Tsa̍p chhit,teochew.csv
+14,XVIII,,十八,,Chap poĭ,Tsa̍p poih,teochew.csv
+14,XIX,,十九,,Chap kaou,Tsa̍p káu,teochew.csv
+14,XX,,二十,,Ji chap,*Jī tsa̍p,tiebreak
+15,21,,二一,,Ji it,*Jī it,tiebreak
+15,23,,二三,,Ji sa,*Jī saⁿ,tiebreak
+15,29,,二九,,Ji kaou,*Jī káu,tiebreak
+15,30,,三十,,Sa chap,Saⁿ tsa̍p,teochew.csv
+15,40,,四十,,Si chap,Sì tsa̍p,teochew.csv
+15,50,,五十,,Gñou chap,*Ngõu tsa̍p,tiebreak
+15,60,,六十,,Lak chap,La̍k tsa̍p,teochew.csv
+15,80,,八十,,Poĭ chap,Poih tsa̍p,teochew.csv
+15,90,,九十,,Kaou chap,Káu tsa̍p,teochew.csv
+15,100,,一百,,Chĕk pĕ,Che̍k peh,teochew.csv
+15,200,,二百,,Naw pĕ,Nõ peh,teochew.csv
+15,300,,三百,,Sa pĕ,Saⁿ peh,teochew.csv
+15,400,,四百,,Si pĕ,Sì peh,teochew.csv
+15,500,,五百,,Gñou pĕ,*Ngõu peh,tiebreak
+15,1000,,一千,,Chĕk choi,Che̍k tshoiⁿ,teochew.csv
+15,2000,,二千,,Naw choi,Nõ tshoiⁿ,teochew.csv
+15,"10,000",,一萬,,Chĕk boan,Che̍k buān,teochew.csv
+15,"20,000",,二萬,,Naw boan,Nõ buān,teochew.csv
+15,"100,000",,一億,,Chĕk ĕk,Che̍k e̍k,teochew.csv
+15,"1,000,000",,一兆,,Chĕk tiow,Che̍k tiãu,teochew.csv
+15,1st,,第一,,Toi it,Tõiⁿ it,teochew.csv
+15,2nd,,第二,,Toi ji,*Tõiⁿ jī,tiebreak
+15,3rd,,第三,,Toi sa,Tõiⁿ saⁿ,teochew.csv
+15,4th,,第四,,Toi si,Tõiⁿ sì,teochew.csv
+15,5th,,第五,,Toi gñou,*Tõiⁿ ngõu,tiebreak
+15,6th,,第六,,Toi lak,Tõiⁿ la̍k,teochew.csv
+15,7th,,第七,,Toi chĭt,Tõiⁿ chhit,teochew.csv
+15,8th,,第八,,Toi poĭ,Tõiⁿ poih,teochew.csv
+15,9th,,第九,,Toi kaou,Tõiⁿ káu,teochew.csv
+15,10th,,第十,,Toi chap,Tõiⁿ tsa̍p,teochew.csv
+15,One,,壹,,Chĕk,Che̍k,teochew.csv
+15,Two,,貳,,Naw,Nõ,teochew.csv
+15,Three,,叁,,Sa,Saⁿ,teochew.csv
+15,Four,,肆,,Si,Sì,teochew.csv
+15,Five,,伍,,Gñou,*Ngóu,tiebreak
+15,Six,,陸,,Lak,La̍k,teochew.csv
+15,Seven,,㭍,,Chĭt,Chhit,teochew.csv
+15,Eight,,捌,,Poĭ,Poih,teochew.csv
+15,Nine,,玖,,Kaou,Káu,teochew.csv
+16,Ant,,蟻,,Hia,*Hiã,tiebreak
+16,And,,而,,Jur,*Zṳ́,tiebreak
+16,Blood,,血,,Huĕ,Hueh,teochew.csv
+16,Black,,烏,黑,Ou,Ou,teochew.csv
+16,Cat,,貓,,Gniou,Ngiou,teochew.csv
+16,Can,,能,,Oi,Lêng,teochew.csv
+16,Dear,,貴,,Kui,Kùi,teochew.csv
+16,Dog,,狗,,Kaou,Káu,teochew.csv
+16,Ear,,耳,,Hi,Hĩⁿ,teochew.csv
+16,End,,尾,,Boe,Búe,teochew.csv
+16,Fan,,扇,,Si,Sìⁿ,teochew.csv
+16,Fish,,魚,,Hur,Hṳ̂,teochew.csv
+16,Gold,,金,,Kim,Kim,teochew.csv
+16,Goat,,羊,,Ie,Iêⁿ,teochew.csv
+16,Hen,,雞,,Koi,Koi,teochew.csv
+16,House,,厝,,Chu,Tshù,teochew.csv
+16,Inch,,寸,,Chun,Tshùn,teochew.csv
+16,In,,於,,I,I,teochew.csv
+16,Jar,,礑,,Tome,*Tome,rule
+16,Joint,,節,,Chăt,Tsat,teochew.csv
+16,Knife,,刀,,Taw,To,teochew.csv
+16,Know,,知,,Chai,Tsai,teochew.csv
+16,Love,,愛,,Ai,Ài,teochew.csv
+16,Leg,,骹,脚,Kha,Kha,teochew.csv
+16,Man,,人,,Nang,Nâng,teochew.csv
+16,Mat,,蓆,,Chiĕ,Chhie̍h,teochew.csv
+16,Nail,,釘,,Teng,*Teng,tiebreak
+16,Night,,夜,,Mey,Mê,teochew.csv
+16,One,,一,,Chĕk,Che̍k,teochew.csv
+16,Of,,之,,Chur,Tsṳ,teochew.csv
+16,Pen,,筆,,Pit,Pit,teochew.csv
+16,Pin,,針,,Cham,Tsam,teochew.csv
+16,Quick,,快,,Mey,Liù,teochew.csv
+16,Quiet,,恬,,Tiem,*Tiâm,tiebreak
+16,Run,,走,,Chaou,Tsáu,teochew.csv
+16,Rope,,索,,Sŏ,Soh,teochew.csv
+16,Shelf,,架,,Key,Kè,teochew.csv
+16,Sock,,襪,,Buĕ,Bue̍h,teochew.csv
+16,This,,這,,Chi,Ché,teochew.csv
+16,Talk,,講,,Kong,Kóng,teochew.csv
+16,Uncle,,叔,,Chĕk,Chek,teochew.csv
+16,Ulcer,,瘡,,Chung,Tshng,teochew.csv
+16,Valley,,坑,,Khey,Kheⁿ,teochew.csv
+16,Virtue,,德,,Tek,Tek,teochew.csv
+16,Whip,,鞭,,Pni,Piⁿ,teochew.csv
+16,Wheel,,輪,,Lun,Lûn,teochew.csv
+16,You,,汝,爾,Lur,Lṳ́,teochew.csv
+16,Year,,年,,Ni,Nî,teochew.csv
+17,Be still,,恬恬,靜靜,Tiem tiem,*Tiâm tiâm,tiebreak
+17,Be quick,,猛猛,,Mey mey,Mé mé,teochew.csv
+17,Bring it here,,挈來此,挈來止,Khiĕ lai chi,*Khie̍h lâi chí,tiebreak
+17,Bind the thief,,捆賊,,Khun chat,Khún tsha̍t,teochew.csv
+17,Buy some rice,,糴米,,Teă bi,Tia̍h bí,teochew.csv
+17,Beat the boy,,拍阿孥囝,打亞孥子,Pă a-nou kia,Phah a-nôu kiáⁿ,teochew.csv
+17,Bring a chair,,挈茭椅來,挈茭𬃪來,Khiĕ kaou-i lai,*Khie̍h kãu-i lâi,tiebreak
+17,Be a good boy,,汝做好人,爾做好人,Lur chaw haw nang,*Lṳ́ tsò hó nâng,tiebreak
+17,Buy 100 nails,,買一百鐵釘,,Boi chek pĕ tĭ-teng,*Bói che̍k peh thih-teng,tiebreak
+17,Buy a jacket & trowsers,,買衫褲,,Boi sa khou,Bói saⁿ khòu,teochew.csv
+17,Bring some water,,擔水,,Ta chui,*Taⁿ tsúi,tiebreak
+17,Bend this bow,,拗彎此弓,押彎只弓,A-wan chi keng,Á-uan chí keng,teochew.csv
+17,Bring your book,,汝个冊挈來,而個冊挈來,"Lur kai chĕ,khiĕ lai","*Lṳ́ kài chheh,khie̍h lâi",tiebreak
+17,Begin to-day,,今日起頭,,Kim jit khi taou,Kim ji̍t khí thâu,teochew.csv
+17,By and by he will come,,霎時伊來,,Kun-kia i lai,*Sap-sî i lâi,tiebreak
+17,Be attentive to your books,,謹心睇冊,謹心看冊,Kurn sim toi chĕ,Kṳ́n sim thì chheh,teochew.csv
+17,Be obedient to your teacher,,孝順先生,,Haou sun sin-sey,Hàu sũn sin-seⁿ,teochew.csv
+17,Come here,,來此,來止,Lai chi,*Lâi chí,tiebreak
+17,Can you read,,汝別字咩,爾識字麽,"Lur pat ji,mĕ","*Lṳ́ pat jī,meh",tiebreak
+17,Call the boys,,喊阿孥囝,喊亞孥子,Ham a-nou-kia,*Hàm a-nôu-kiáⁿ,tiebreak
+18,Carry this back,,此物挈轉去,只物挈轉去,Chi muĕ khiĕ tung khur,*Chí mue̍h khie̍h tńg khṳ̀,tiebreak
+18,"Come, go with me",,來同我去,,"Lai,tang ua khur","*Lâi,tâng uá khṳ̀",tiebreak
+18,"Come, let's play",,來、來去耍,,"Lai,lai khur sung","*Lâi,lâi khṳ̀ sńg",tiebreak
+18,Carry this up stairs,,此物挈去樓頂,只物挈去樓頂,Chi muĕ khiĕ khur laou-teng,*Chí mue̍h khie̍h khṳ̀ lâu-téng,tiebreak
+18,Come another day,,下日來,,E-jit lai,*Ē-ji̍t lâi,tiebreak
+18,Carry this to the teacher,,此物還先生,只物還先生,"Chi muĕ,hai sin-sey","Chí mue̍h,hâiⁿ sin-seⁿ",teochew.csv
+18,Don't fall,,勿仆,,Mai poă,Mài phok,teochew.csv
+18,Do it yourself,,汝家己去做,爾自己去做,Lur ka-ki chaw,*Kia kí-khì tsò,tiebreak
+18,Don't stay long,,免等候久,,Mien teng haou ku,Mién téng hāu kú,teochew.csv
+18,Don't make a noise,,勿嚷,,Mai jiang,Mài jiáng,teochew.csv
+18,Don't be afraid,,免用驚,,Mien eng kia,Mién ēng kiaⁿ,teochew.csv
+18,Do it well,,做好好,,Chaw haw haw,*Tsò hó hó,tiebreak
+18,Don't play outside,,勿去外耍,,Mai khur goa sung,*Mài khṳ̀ gūa sńg,tiebreak
+18,Do you smoke?,,汝有食薰咩,爾有食芬麽,"Lur u chiă hun,baw","Lṳ́ ũ chia̍h hun,mí",teochew.csv
+18,Do it over again,,另換做過,,Leng-ua chaw kuay,*Lêng-uāⁿ tsò kùe,tiebreak
+18,Do you know him?,,汝共伊相別咩,爾共伊相識麽,"Lur kang i sie pat,baw","*Lṳ́ kāng i sie pat,mí",tiebreak
+18,Did you call me,,汝有叫我咩,爾有呌我麽,"Lur ham ua,baw","*Iū kiè uá,mí",tiebreak
+18,Do you like fruit?,,汝好食菓子咩,爾好食菓子麽,"Lur haou chiă kuey-chi,baw","Lṳ́ háu chia̍h kúe-chí,mí",teochew.csv
+18,Don't touch that,,勿摸彼物,,Mai mong hur muĕ,Mài mông hṳ́ mue̍h,teochew.csv
+18,Don't come here again,,下日勿再來此,下日勿再來止,E-jit mai chai lai chi,*Ē-ji̍t mài tsài lâi chí,tiebreak
+19,Don't write so fast,,免寫向猛,,Mai sia hie mey,Mín siá hièⁿ mé,teochew.csv
+19,Don't be in a hurry,,勿向快去,勿太快去,Mai hie kuey khur,*Mài hièⁿ khùe khṳ̀,tiebreak
+19,Don't leave the door open,,隨手知關,隨手再關,Sui chiw chai kuey,Sûi chhiú tsai kueⁿ,teochew.csv
+19,Does your father know it,,汝阿父知咩,爾亞父知麽,Lur a-pe chai mĕ,Lṳ́ a-pẽ tsai meh,teochew.csv
+19,Dare you do it,,汝敢做咩,爾敢做麽,Lur ka chaw mĕ,Lṳ́ káⁿ tsò meh,teochew.csv
+19,Did he say so,,伊講怎生咩,伊講怎生麽,"I kong chie-sey,baw","I kóng tsái-seⁿ,mí",teochew.csv
+19,Dive into the water,,氼水,,Bi chui,*Bì tsúi,tiebreak
+19,Do you speak truly,,汝講實話咩,爾講實話麽,"Lur kong sit wey,baw","Lṳ́ kóng si̍t uē,mí",teochew.csv
+19,Evening,,夜昏,,Mey hng,Mê hng,teochew.csv
+19,Every day,,日日,,Jit jit,Ji̍t ji̍t,teochew.csv
+19,Each man,,各人,,Kăk nang,Kak nâng,teochew.csv
+19,English language,,英吉利話,,Eng-kit-li wey,Eng-kit-lĩ uē,teochew.csv
+19,Empty this out,,倒出,,Taw chut,*Tò tshut,tiebreak
+19,Enter the school,,入書齋,,Jip chur-chey,*Ji̍p tsṳ-che,tiebreak
+19,Follow me,,隨我,,Sui ua,Sûi uá,teochew.csv
+19,Find your book,,覓汝个書冊,覓爾箇書冊,Chuey lur kai chur-chĕ,*Tshūe lṳ́ kài tsṳ-chheh,tiebreak
+19,Forgive your foes,,赦免汝敵,赦免爾敵,Sia-mien lur tek,Sià-mién lṳ́ te̍k,teochew.csv
+19,Fill it full,,倒漲,倒滿,Taw ti,*Tò tĩⁿ,tiebreak
+19,Feel of this,,摸此箇物,摸只箇物,Mong chi kai muĕ,*Mông chí kài mue̍h,tiebreak
+19,Fry some pork,,焙猪肉,,Pue tur bă,*Pūe tṳ bah,tiebreak
+20,Go home,,去厝,,Khur chu,*Khṳ̀ tshù,tiebreak
+20,Go down,,去下,,Kkur ey,*Khṳ̀ ē,tiebreak
+20,Go slowly,,慢慢行,緩緩行,Man man kia,Mān mān kiâⁿ,teochew.csv
+20,Go to bed,,去夗,去睡,Khur goot,*Khṳ̀ gu̍t,tiebreak
+20,Get up quickly,,快快走起,,Khuey khuey chaou khi,*Khùe khùe tsáu khí,tiebreak
+20,Give that to me,,此物還我,,Chi muĕ hai ua,Chí mue̍h hâiⁿ uá,teochew.csv
+20,Go and help him,,去輔伊,,Khur hu i,*Khṳ̀ hú i,tiebreak
+20,Give it back to him,,挈轉還伊,,Khiĕ tung hai i,*Khie̍h tńg hâiⁿ i,tiebreak
+20,How old are you,,汝若㩼歲,爾若多歲,Lur jiĕ choi huey,Lṳ́ jie̍h tsōi hùe,teochew.csv
+20,Have you any more,,還有加咩,還有加麽,"Huan u key,mĕ","Huân ũ ke,meh",teochew.csv
+20,He is a bad man,,伊是痞人,伊是獃人,I si pai nang,I sĩ phí nâng,teochew.csv
+20,He is always for play,,伊常常欲耍,,I sie sie ai sung,I siêⁿ siêⁿ àiⁿ sńg,teochew.csv
+20,His father is very poor,,伊阿父窮在,伊亞父窮極,"I a pey,keng chai","I a pẽ,kêng tsãi",teochew.csv
+20,He won't come,,伊毋肯來,伊不肯來,I mʼkheng lai,*M̃ khéng lâi,tiebreak
+20,He is very lazy,,伊放惰在,伊懶惰極,I pan-toa chai,I pàng-tõ tsãi,teochew.csv
+20,Has your brother recovered,,汝阿弟痊愈未,爾亞弟痊愈否,"Lur a-ti chuan-ju,bue","*Lṳ́ a-tĩ tshuân-zú,būe",tiebreak
+20,How much money have you,,汝有若㩼銀,爾有若多銀,Lur u jiĕ choi gnurn,Lṳ́ ũ jie̍h tsōi ngṳ̂n,teochew.csv
+20,How long have you lived here,,汝住此若久,爾住此若久,Lur toa chi jiĕ-ku,Lṳ́ tiū chí jie̍h-kú,teochew.csv
+20,He did not come to-day,,今日伊無來,,Kim-jit i baw lai,*Kim-ji̍t i bô lâi,tiebreak
+20,He cares for nobody,,伊毋畏人,伊不畏人,I mʼui nang,*M̃ ùi nâng,tiebreak
+21,He is fond of opium,,伊欲食鴉片,,I haou chiă a-pien,I àiⁿ chia̍h a-phièn,teochew.csv
+21,I forgot it,,我毋記得,我不記憶,Ua mʼki tit,*Bô kì tit,tiebreak
+21,I cannot come,,我毋能來,我不能來,Ua mʼoi lai,*Bô lêng lâi,tiebreak
+21,I am not well,,我毋快活,我不快活,Ua mʼkuai-uă,*Bô khùai-ua̍h,tiebreak
+21,I have read this book,,此冊我有讀過,,Chi chĕ ua u tak kuey,Chí chheh uá ũ tāu kùe,teochew.csv
+21,I am very glad,,我歡喜在,我歡喜極,Ua hua-hi chai,Uá huaⁿ-hí tsãi,teochew.csv
+21,I have never seen him,,我毋別睇見伊,我不識看見伊,Ua mʼpat toi ki i,*Bô pat thì kìⁿ i,tiebreak
+21,I can't understand,,我聽毋別,我聽不識,Ua thia mʼpat,*Thiaⁿ bô pat,tiebreak
+21,I don't know,,我毋知,我不知,Ua mʼchai,*Bô tsai,tiebreak
+21,It is very hot to-day,,今日熱在,今日熱極,Kim jit juă chai,Kim ji̍t zua̍h tsãi,teochew.csv
+21,It is hard as a stone,,共石平𠕆,,Kang chiĕ pe tʼoi,*Kang chieh pe toi,rule
+21,Is it true,,有眞咩,有眞麽,"U chia,mĕ","Ũ chin,meh",teochew.csv
+21,Is your father well,,汝亞爹有好咩,爾亞爹有好麽,"Lur a-tia u haw,mĕ","*Lṳ́ a-tia ũ hó,meh",tiebreak
+21,Is this your pencil,,此筆是汝个咩,此筆是爾箇麽,Chi pit si lur kai mĕ,*Chí pit sĩ lṳ́ kài meh,tiebreak
+21,It is past four o'clock,,有四點外鐘了,,U si tiem goa cheng,*Sì tiám gūa tsong liàu,tiebreak
+21,Jump down,,跳落,,Thiou lŏ,Thiòu lo̍h,teochew.csv
+21,Japan is near to China,,日本近唐山,,Jit-pun kurn Tung-sua,Ji̍t-pún kṳ̃n Tn̂g-suaⁿ,teochew.csv
+21,Knock at the door,,拍門,打門,Pă mung,Phah mn̂g,teochew.csv
+21,Kneel down,,跪落去,,Kui lŏ khur,*Kũi lo̍h khṳ̀,tiebreak
+21,Keep this safely,,此物掌好,,Chi muĕ chie haw,*Chí mue̍h chiéⁿ hó,tiebreak
+22,Kill that snake,,拍死彼蛇,打死彼蛇,Pă-si hur cʼhua,Phah-sí hṳ́ tsûa,teochew.csv
+22,Lock the door,,鎻門,,Saw mung,*So mung,rule
+22,Love your enemies,,愛汝仇敵,愛爾仇敵,Ai lur chiw tek,Ài lṳ́ chhiû te̍k,teochew.csv
+22,Lift up this box,,此箱挈起來,,"Chi sie,kiĕ ki lai","*Chí sieⁿ,khie̍h khí lâi",tiebreak
+22,Lend me a dollar,,銀一箍借我,銀一圓借我,"Gnurn chek kʼhou,chiĕ ua","Ngṳ̂n che̍k khou,chieh uá",teochew.csv
+22,Look on your book,,目睭睇冊,目珠看冊,Măk-chiw toi chĕ,Ma̍k-chiu thì chheh,teochew.csv
+22,Listen to what I say,,汝聽我講,爾聽我講,Lur thia ua kong,Lṳ́ thiaⁿ uá kóng,teochew.csv
+22,May I go home,,我欲來去厝,,Ua ai lai khur chu,*Uá àiⁿ lâi khṳ̀ tshù,tiebreak
+22,Make haste back,,猛猛轉來,,Mey-mey tung lai,*Mé-mé tńg lâi,tiebreak
+22,My eyes are sore,,我目睭痛,我目珠痛,Ua măk-chiw tʼhia,Uá ma̍k-chiu thiàⁿ,teochew.csv
+22,My pen is not good,,我筆毋好,我筆不好,Ua pit mʼhaw,*Pit bô hó,tiebreak
+22,My father is dead,,我阿父死了,我亞父死了,Ua kai a-pey si liou,*Ua kai a-pe si liou,rule
+22,Not yet,,未曾,未嘗,Bue cheng,*Būe cheng,tiebreak
+22,Not always,,非常,,Hui sie,Hui siêⁿ,teochew.csv
+22,Never mind,,無相干,,Baw siang kan,*Bô siang kan,tiebreak
+22,Nobody knows it,,無人知,,Baw nang chai,Bô nâng tsai,teochew.csv
+22,Nail this board,,釘此枋,,Teng chi pang,*Teng chí pang,tiebreak
+22,One man has come,,一人來了,,Chek nang lai liou,*Che̍k nâng lâi lióu,tiebreak
+22,One spoon is missing,,湯匙一枝毋見,湯匙一枝不見,Tung-si chek ki mʼkien,*Sî-it ki bô kièn,tiebreak
+22,Only one true God,,獨一眞神,,Tok it chin sin,To̍k it chin sîn,teochew.csv
+23,Opium is not good to eat,,鴉片毋好食,鴉片不好食,A-pien mʼhaw chiă,*Phìⁿ-bô hó chia̍h,tiebreak
+23,Perhaps he will come,,或者伊來,,Hok chia i lai,*Ho̍k chiá i lâi,tiebreak
+23,Put this in the sun,,此物挈去曝日,,"Chi muĕ,khiĕ khur pak jit","*Chí mue̍h,khie̍h khṳ̀ pãu ji̍t",tiebreak
+23,Pull up these bushes,,此草挽丢,,"Chi chaou,man tiou","Chí tsháu,mán tiu",teochew.csv
+23,Pray to God every day,,日日求神天,,Jit jit kiw Sin-Ti,*Ji̍t ji̍t khiû Sîn-Thiⁿ,tiebreak
+23,Questions & answers,,問答,,Mung tap,*Mn̄g tap,tiebreak
+23,Quietly remain at home,,恬恬在厝,,Tiem tiem taw chu,*Tiâm tiâm tõ tshù,tiebreak
+23,Quote from the classics,,引經據典,,In kia kur tien,*In kiaⁿ kṳ̃ tién,tiebreak
+23,Run and get the umbrella,,走去挈雨傘,,Chaou khur khiĕ hou-sua,*Tsáu khṳ̀ khie̍h hõu-sùaⁿ,tiebreak
+23,Read in a low voice,,讀細聲,,Tak soi sia,Tāu sòi siaⁿ,teochew.csv
+23,Remember to tell him,,汝記得共伊講,爾記憶共伊講,Lur ki-tit kang i kong,Lṳ́ kì-tit kāng i kóng,teochew.csv
+23,Rice is dear this year,,今年米有貴,,"Kim ni,bi u kui","Kim nî,bí ũ kùi",teochew.csv
+23,Send him into the city,,使伊去城內,,Sai i khur sia lai,*Sài i khṳ̀ siâⁿ lãi,tiebreak
+23,Save this for to-morrow,,此留放明起,此留放明日,Chi laou pang moa-ki,Chí lâu pàng mê-khí,teochew.csv
+23,She is upwards of twenty,,伊二十外歲,,I ji-chap goa huey,*I jī-tsa̍p gūa hùe,tiebreak
+23,Send your servant to take it,,使汝囝子來挈,使爾囝子來挈,Sai lur kin-kia lai khiĕ,*Sài lṳ́ kién-kiáⁿ lâi khie̍h,tiebreak
+23,Set it down here,,放在此,,Pang taw chi,Pàng tõ chí,teochew.csv
+23,They are neighbors,,伊是厝邊人,,"I si,chu-pi nang","I sĩ,tshù-piⁿ nâng",teochew.csv
+23,This is good for nothing,,此無用,,Chi baw eng,Chí bô ēng,teochew.csv
+23,This cloth is wet,,此布有濕,,"Chi pou,u tam","Chí pòu,ũ sip",teochew.csv
+24,This fowl is not done,,此雞無熟,,Chi koi baw sek,Chí koi bô se̍k,teochew.csv
+24,Under the house,,厝下,,Chu ey,*Tshù ē,tiebreak
+24,Upon the shelf,,架頂,,Key teng,Kè téng,teochew.csv
+24,Very many,,㩼在,多極,Choi chai,Tsōi tsãi,teochew.csv
+24,"Very well, take it",,凊彩挈去,稱釆挈去,"Chin-chai,khiĕ khur","*Chhìn-tshái,khie̍h khṳ̀",tiebreak
+24,What is your name,,汝是乜名,爾是乜名,Lur si mi mia,Lṳ́ sĩ mi miâⁿ,teochew.csv
+24,What is your age,,有若㩼歲,有若多歲,U jiĕ choi huey,Ũ jie̍h tsōi hùe,teochew.csv
+24,Where do you live,,汝住值處,爾住值處,Lua toa ti taw,*Lṳ́ tiū tì tshù,tiebreak
+24,What do you want,,汝欲甚物,爾欲甚物,Lur ai si muĕ,Lṳ́ àiⁿ sĩm mue̍h,teochew.csv
+24,Which is the one,,底箇是,那箇是,Ti kai si,*Tî kài sĩ,tiebreak
+24,When did you arrive,,汝底時到,爾值時到,Lur ti-si kaou,*Lṳ́ tî-sî kàu,tiebreak
+24,Why do you not go,,怎呢毋去,怎呢不去,Chaw-ni mʼkhur,*Nîⁿ-bô khṳ̀,tiebreak
+24,Will you go or not,,汝肯去咩,爾肯去麽,"Lur kheng khur,mĕ","*Lṳ́ khéng khṳ̀,meh",tiebreak
+24,What does he say,,伊講甚乜事,,I kong si mi sur,*I kóng sĩm mi sṳ̄,tiebreak
+24,What more do you want,,汝欲加甚物,爾欲加甚物,Lur ai key si muĕ,Lṳ́ àiⁿ ke sĩm mue̍h,teochew.csv
+24,What is this for,,此用做乜事,,Chi eng chaw mi sur,*Chí ēng tsò mi sṳ̄,tiebreak
+24,Where was this book printed,,此冊底處印,此冊值處印,Chi chĕ ti taw in,*Chí chheh tî tshù ìn,tiebreak
+24,Whose house is this,,此厝是底𫢗个,此厝是誰個,"Chi chu,si ti-tiang kai","*Chi tsu,si ti-tiang kai",rule
+24,Who can tell,,底𫢗能講,誰個能講,Ti-tiang oi kong,*Ti-tiang oi kong,rule
+24,Where has he gone,,伊去底處,伊去值處,I khur ti-taw,*I khṳ̀ tî-tshù,tiebreak
+25,Why can't he do it,,伊怎呢毋能做,伊怎呢不能做,I chaw ni mʼoi chaw,*Tsá nîⁿ bô lêng tsò,tiebreak
+25,Who is going to Singapore,,底𫢗欲去實力,誰人欲去實力,Ti tiang ai khur Sit-lat,*Ti tiang ai khṳ Sit-lat,rule
+25,When do you go on board,,底時落船,何時落船,Ti si lŏ chun,*Tî sî lo̍h tsûn,tiebreak
+25,What are you doing now,,現在汝做乜事,現在爾做乜事,Hien-chai lur chaw mi sur,*Hiēn-tsãi lṳ́ tsò mi sṳ̄,tiebreak
+25,We shall surely go to-day,,今日必定欲去,,Kim-jit pit tia ai khur,*Kim-ji̍t pit tiāⁿ àiⁿ khṳ̀,tiebreak
+25,Who is interpreter,,底𫢗回話,誰人囘話,Ti-tiang huey wey,*Ti-tiang hue we,rule
+25,We are all well,,我等攏總有好,我等籠總有好,Ua-teng long chong u haw,*Uá-téng lóng tsóng ũ hó,tiebreak
+25,Whether I go or not is uncertain,,去毋去無定着,去不去無定着,Khur mʼkhur baw tia-tiŏ,*Bû khṳ̀ bô tiāⁿ-tie̍h,tiebreak
+25,You write too fast,,汝寫較猛,爾寫太猛,Lur sia kă mey,Lṳ́ siá kà mé,teochew.csv
+25,You went home recently,,近日汝正去厝,近日爾正去厝,Kurn jit lur chia khur chu,*Kṳ̃n ji̍t lṳ́ chiàⁿ khṳ̀ tshù,tiebreak
+25,You can't do it,,汝毋能做,爾不能做,Lur mʼoi chaw,Bû lêng tsò,teochew.csv
+25,You need not do it,,免用做,,Mien eng chaw,Mién ēng tsò,teochew.csv
+25,You speak too loud,,汝講較大聲,爾講太大聲,Lur kong kă toa sia,Lṳ́ kóng kà tūa siaⁿ,teochew.csv
+25,"Yes, you speak truly",,着、汝講實,着、爾講實,"Tiŏ,lur kong sit","*Tie̍h,lṳ́ kóng si̍t",tiebreak
+25,You are late to-day,,汝今日較宴來,爾今日太宴來,Lur kim jit kă ua lai,*Lṳ́ kim ji̍t kà àn lâi,tiebreak
+25,You have not made it right,,做來毋着,做來不着,Chaw lai mʼtiŏ,*Lâi bô tie̍h,tiebreak
+25,You don't speak to the point,,講毋對空,講不對空,Kong mʼtui khang,*Bô tùi khang,tiebreak
+25,You are mistaken,,汝睇錯了,爾看錯了,Lur toi ta liou,*Lṳ́ thì tshò lióu,tiebreak
+25,Yesterday was a feast day,,昨日做節,,Cha-jit chaw choĭ,*Tsa-ji̍t tsò tsoih,tiebreak
+25,You can't trust him,,汝毋可相信伊,爾不可相信伊,Lur mʼhaw siang-sin i,*Bû khó siang-sìn i,tiebreak
+26,Yonder comes a junk,,在彼中有船來,,Taw hur tang u chun lai,*Tõ hṳ́ tang ũ tsûn lâi,tiebreak
+26,You must not eat every thing,,勿食雜物,,Mai chiă chap muĕ,Mài chia̍h tsa̍p mue̍h,teochew.csv
+26,You must learn this by heart,,此的汝讀來唸,此的爾讀來唸,"Chi kai,lur tak lai niem","*Chí ti,lṳ́ tāu lâi liām",tiebreak
+26,You must die,,必定汝死,必定爾死,Pit tia lur si,Pit tiāⁿ lṳ́ sí,teochew.csv
+26,You have sinned,,汝得罪,爾得罪,Lur tit chuey,Lṳ́ tit tsũe,teochew.csv
+26,You ought to repent,,汝應該悔改,爾應該悔攺,Lur eng-kai huay koi,*Lṳ́ eng-kai hùe kói,tiebreak
+26,You should believe in Jesus,,汝應該信耶穌,爾應該信耶穌,Lur eng kai sin Ya-sou,*Lṳ́ eng kai sìn Iā-sou,tiebreak
+26,You may now be saved,,現在汝能得救,現在爾能得救,Hien-chai lur oi tit kiw,Hiēn-tsãi lṳ́ lêng tit kiù,teochew.csv
+26,You know the truth,,眞理汝知了,眞理爾知了,"Chin li,lur chai liou","Chin lí,lṳ́ tsai lióu",teochew.csv
+26,You have heard the gospel,,汝曾聽福音,爾嘗聽福音,Lur cheng thia hok-im,*Lṳ́ cheng thiaⁿ hok-im,tiebreak
+26,You cannot save yourself,,汝不能救家己,爾不能救自己,Lur put neng kiw ka ki,*Lṳ́ put lêng kiù ka kí,tiebreak
+26,You have no merit,,汝無功勞,爾無功勞,Lur baw kong-laou,*Lṳ́ bô kong-lâu,tiebreak
+26,Your sins are many,,汝有罪加加,爾有罪加加,Lur u chuey key key,Lṳ́ ũ tsũe ke ke,teochew.csv
+26,Your gods cannot save you,,汝神不能救人,爾神不能救人,Lur kai sin put neng kiw nang,*Lṳ kai sin put neng kiu nang,rule
+26,Your priests are ignorant,,汝个和尙無知,爾箇和尙無知,Lur kai hue-sie baw chai,*Lṳ́ kài hûe-sièⁿ bô tsai,tiebreak
+26,Your religion is false,,汝教有假,爾教有假,"Lur kai ka,u key","*Lṳ kai ka,u ke",rule
+26,Your soul is precious,,汝个靈魂有貴,爾個靈魂有貴,Lur kai leng-hun u kui,*Lṳ́ kài lêng-hûn ũ kùi,tiebreak
+26,Your life is short,,汝个生命不久,爾個生命不久,Lur kai sey-mia put ku,*Lṳ́ kài seⁿ-miāⁿ put kú,tiebreak
+26,Your end is near,,汝死日將近,爾死日將近,Lut si-jit chiang kurn,*Lṳ́ sí-ji̍t chiang kṳ̃n,tiebreak
+26,You will not repent,,汝毋肯悔改,爾不肯悔攺,Lur mʼkheng huey koi,*Bû khéng hùe kói,tiebreak
+27,Heavens,,天,,Tien,Thien,teochew.csv
+27,Sun,,日,,Jit,Ji̍t,teochew.csv
+27,Moon,,月,,Guĕ,Gu̍eh,teochew.csv
+27,Stars,,星,,Chey,Cheⁿ,teochew.csv
+27,Wind,,風,,Huang,Huang,teochew.csv
+27,Cloud,,雲,,Hun,Hûn,teochew.csv
+27,Rain,,雨,,Hou,*Hõu,tiebreak
+27,Mist,,露,,Lou,Lōu,teochew.csv
+27,Thunder,,雷,,Lui,Lûi,teochew.csv
+27,Hail,,雹,,Păk,Pha̍k,teochew.csv
+27,Ice,,霜,,Sung,Suang,teochew.csv
+27,Snow,,雪,,Sŏ,Soh,teochew.csv
+27,Rainbow,,虹,,Kheng,Khẽng,teochew.csv
+27,Sky,,辰,,Sin,Sîn,teochew.csv
+27,Fog,,霧,,Bu,Bū,teochew.csv
+27,Cold,,寒,,Cʼhin,Hân,teochew.csv
+27,Heat,,熱,,Juă,Zua̍h,teochew.csv
+27,Light,,光,,Kŭng,Kuang,teochew.csv
+27,Darkness,,暗,,Am,Àm,teochew.csv
+27,Earth,,地,,Ti,Tī,teochew.csv
+27,Soil,,塗,,Tou,Tôu,teochew.csv
+27,Mud,,泥,,Ni,*Nì,tiebreak
+27,Dust,,塵,,Tin,Tîn,teochew.csv
+27,Sand,,沙,,Sua,Sua,teochew.csv
+27,Stone,,石,,Chiĕ,Chie̍h,teochew.csv
+27,Field,,田,,Chan,Tshân,teochew.csv
+27,Garden,,園,,Hng,Hn̂g,teochew.csv
+27,Hill,,山,,Sua,Suaⁿ,teochew.csv
+27,Valley,,坑,,Kʼey,Kheⁿ,teochew.csv
+27,Cavern,,洞,,Tang,Tāng,teochew.csv
+27,Cave,,穴,,Huăt,Hua̍t,teochew.csv
+27,Island,,嶼,,Sur,Sṳ̃,teochew.csv
+27,Kingdom,,國,,Kok,Kok,teochew.csv
+27,Country,,地方,,Ti-hng,Tī-hng,teochew.csv
+27,Province,,省,,Sey,Séⁿ,teochew.csv
+27,District,,府,,Hu,Hú,teochew.csv
+27,Canton,,州,,Chiw,Chiu,teochew.csv
+27,Village,,縣,,Kui,Kūiⁿ,teochew.csv
+28,The sun is bright,,日有光,,Jit u kŭng,Ji̍t ũ kuang,teochew.csv
+28,The moon has risen,,月出了,,Guĕ chut liou,Gu̍eh tshut lióu,teochew.csv
+28,There are many stars,,星有㩼在,星有多極,"Chey,u choi chai","Cheⁿ,ũ tsōi tsãi",teochew.csv
+28,The wind blows,,風來,,Huang lai,*Huang lâi,tiebreak
+28,The clouds are very dark,,雲烏在,雲烏極,"Hun,ou chai","Hûn,ou tsãi",teochew.csv
+28,The rainbow is beautiful,,虹是雅,,"Kheng,si gnia","Khẽng,sĩ ngiá",teochew.csv
+28,It will rain soon,,雨欲來,,Hou ai lai,*Hõu àiⁿ lâi,tiebreak
+28,It is extremely hot,,熱之極,,Juă chur kĕk,Zua̍h tsṳ ke̍k,teochew.csv
+28,It is day light,,天光了,,Thi kŭng liou,*Thiⁿ kuang lióu,tiebreak
+28,It is very dark,,暗在,暗極,Am chai,Àm tsãi,teochew.csv
+28,The earth is round,,地圓,,Ti i,Tī îⁿ,teochew.csv
+28,A stone is heavy,,石有重,,"Chiĕ,u tang","Chie̍h,ũ tãng",teochew.csv
+28,Cultivate the fields,,作田,耕田,Chŏ chan,Tsoh tshân,teochew.csv
+28,The mountain is high,,山有危,山有高,Sua u kui,Suaⁿ ũ kûiⁿ,teochew.csv
+28,The kingdom of Siam,,暹羅國,,Siam-law kok,Siam-lô kok,teochew.csv
+28,The province of Canton,,廣東省,,Kŭng-tang sey,Kuáng-tang séⁿ,teochew.csv
+28,The district of Tio-chiw,,潮州府,,Tie-chiw hu,Tiê-chiu hú,teochew.csv
+28,A large territory,,地方濶,,Ti-hng kuă,Tī-hng khuah,teochew.csv
+28,A small village,,細縣,小縣,Soi kui,Sòi kūiⁿ,teochew.csv
+29,Anchorage,,埠頭,,Pou taou,Pou thâu,teochew.csv
+29,Country,,山巴,,Sua pa,Suaⁿ pa,teochew.csv
+29,Jungle,,曠野,,Kuang ya,Khàng iá,teochew.csv
+29,Beach,,海墘,,Hai ki,Hái kîⁿ,teochew.csv
+29,Sea,,海,,Hai,Hái,teochew.csv
+29,Lake,,湖,,Ou,Oû,teochew.csv
+29,River,,河,,Haw,Hô,teochew.csv
+29,Canal,,港,,Kang,Káng,teochew.csv
+29,Pond,,池,,Ti,Tî,teochew.csv
+29,Tank,,淈,,Kʼhŭt,Khut,teochew.csv
+29,Ditch,,溝,,Kaou,Kau,teochew.csv
+29,Well,,井,,Chey,Chéⁿ,teochew.csv
+29,Tide,,潮,,Tie,Tiê,teochew.csv
+29,Rising do.,,水大,,Chui toa,Tsúi tūa,teochew.csv
+29,Falling do.,,水退,,Chui kaw,Tsúi thò,teochew.csv
+29,Wave,,湧,,Eng,Éng,teochew.csv
+29,Storm,,大風,,Toa huang,Tūa huang,teochew.csv
+29,Calm,,無風,,Baw huang,Bô huang,teochew.csv
+29,Earthquake,,地震,,Ti chin,Tī chín,teochew.csv
+29,East,,東,,Tang,Tang,teochew.csv
+29,West,,西,,Sai,Sai,teochew.csv
+29,South,,南,,Nam,Nâm,teochew.csv
+29,North,,北,,Păk,Pak,teochew.csv
+29,S.East,,東南,,Tang nam,Tang nâm,teochew.csv
+29,S.West,,西南,,Sai nam,Sai nâm,teochew.csv
+29,N.East,,東北,,Tang păk,Tang pak,teochew.csv
+29,N.West,,西北,,Sai păk,Sai pak,teochew.csv
+29,Man,,人,,Nang,Nâng,teochew.csv
+29,Male,,男,,Lam,Lâm,teochew.csv
+29,Female,,女,,Nŭng,*Lṳ́,tiebreak
+29,Body,,身體,,Sin toi,Sin thí,teochew.csv
+29,Head,,頭殼,,Taou kăk,Thâu khak,teochew.csv
+29,Forehead,,額頭,,Hiă taou,Hia̍h thâu,teochew.csv
+29,Brains,,頭殼髓,,Taou kăk-chuey,Thâu khak-tshúe,teochew.csv
+29,Temple,,鬢邊,𩯭邊,Pin pi,Pìn piⁿ,teochew.csv
+29,Hair,,頭毛,,Taou maw,Thâu mô,teochew.csv
+30,A good anchorage,,好埠頭,,Haw pou taou,*Hó pou thâu,tiebreak
+30,The sea is smooth,,海無涌,,Hai baw eng,Hái bô éng,teochew.csv
+30,The five lakes,,五湖,,Gnou ou,*Ngõu oû,tiebreak
+30,The yellow river,,黃河,,Ng haw,N̂g hô,teochew.csv
+30,To cross the canal,,過港,,Kuey kang,Kùe káng,teochew.csv
+30,The river's side,,溪邊,,Koi pi,Khi piⁿ,teochew.csv
+30,There are fish in the pond,,池有魚,,Ti u hur,Tî ũ hṳ̂,teochew.csv
+30,Dig a ditch,,㧕溝,,Liw kaou,Liú kau,teochew.csv
+30,The well is deep,,井有深,,Chey u chim,Chéⁿ ũ chhim,teochew.csv
+30,The tide is very strong,,水猛在,水猛極,Chui mey chai,Tsúi mé tsãi,teochew.csv
+30,The waves are high,,涌大,,Taw tang poi,*To tang poi,rule
+30,East is opposite to west,,東對西,,Tang tui sai,Tang tùi sai,teochew.csv
+30,A wise man,,賢人,,Gaou nang,Gâu nâng,teochew.csv
+30,A long neck,,頸長,,Am tung,Kèⁿ tn̂g,teochew.csv
+30,Turn round the head,,回頭,囘頭,Huey taou,Hûe thâu,teochew.csv
+30,Bow down the head,,磕頭,,Kăp taou,Khap thâu,teochew.csv
+30,Shave the head,,剃頭,,Thi taou,Thì thâu,teochew.csv
+30,Comb the head,,梳頭,,Siw taou,Siu thâu,teochew.csv
+31,Beard,,鬚,,Cʼhiw,Chhiu,teochew.csv
+31,Eye,,目睭,目珠,Măk chiw,Ma̍k chiu,teochew.csv
+31,Eye-brow,,目眉,,Măk bai,Ma̍k bâi,teochew.csv
+31,Eye-lash,,目眦毛,目𠞁毛,Măk chi maw,*Mak chi mo,rule
+31,Eye-lid,,目骹皮,目脚皮,Măk ka pue,Ma̍k kha phûe,teochew.csv
+31,Eye-ball,,目睭仁,目珠仁,Măk chiw-jin,Ma̍k chiu-jîn,teochew.csv
+31,Pupil,,瞳仁,童仁,Tong jin,Thông jîn,teochew.csv
+31,Face,,面,,Min,Mīn,teochew.csv
+31,Ear,,耳,,Hi,Hĩⁿ,teochew.csv
+31,Nose,,鼻,,Pñi,Phì,teochew.csv
+31,Nostril,,鼻孔,,Pñi kang,Phì khang,teochew.csv
+31,Cheek,,臉溝,臉頣,Tĭ kaou,*Lién kau,tiebreak
+31,Mouth,,喙,嘴,Chui,Tshùi,teochew.csv
+31,Lips,,唇,,Tʼun,Tûn,teochew.csv
+31,Teeth,,齒,,Kʼhi,Khí,teochew.csv
+31,Tongue,,舌,,Chĭ,Chi̍h,teochew.csv
+31,Chin,,下胲,,E hai,*Ē kai,tiebreak
+31,Throat,,喉,,Ow,Aû,teochew.csv
+31,Shoulder,,肩頭,,Koey taou,Koiⁿ thâu,teochew.csv
+31,Back,,背,,Ka chiă,*Ka chiah,rule
+31,Arm,,手臂,,Chiw pi,Chhiú pì,teochew.csv
+31,Palm of the hand,,手掌,,Chiw chie,Chhiú chiéⁿ,teochew.csv
+31,Hand,,手,,Chiw,Chhiú,teochew.csv
+31,Finger,,手指,,Chiw choi,Chhiú tsóiⁿ,teochew.csv
+31,Thumb,,指頭公,,Choi taou-kong,Tsóiⁿ thâu-kong,teochew.csv
+31,Forefinger,,食指,,Koi choi,*Si̍h tsóiⁿ,tiebreak
+31,Middle finger,,中指,,Tang choi,Tang tsóiⁿ,teochew.csv
+31,Ring finger,,無名指,,Baw mia choi,Bô miâⁿ tsóiⁿ,teochew.csv
+31,Little finder,,尾指,,Boe choi,Búe tsóiⁿ,teochew.csv
+31,Finger nail,,指甲,,Choi kă,Tsóiⁿ kah,teochew.csv
+31,Elbow,,手肘,,Chiw tung,Chhiú tiú,teochew.csv
+31,Chest,,胸,,Heng,Heng,teochew.csv
+31,Breast,,乳,,Ni,Nĩ,teochew.csv
+31,Waist,,腰,,Ie,Ie,teochew.csv
+31,Belly,,肚,,Tou,*Tóu,tiebreak
+31,Thigh,,骹大腿,脚大腿,Kha toa tui,Kha tūa thúi,teochew.csv
+31,Knee,,骹頭趺,脚𦡀,Kha taou u,Kha thâu u,teochew.csv
+31,Shin,,骹臁,脚臁,Kha liem,Kha liâm,teochew.csv
+31,Heel,,骹後蹬,脚後躓,Kha ow tey,Kha aũ teⁿ,teochew.csv
+31,Toes,,骹趾,脚指,Kha choi,Kha chí,teochew.csv
+32,Open the eyes,,開目,,Kui mak,Khui ma̍k,teochew.csv
+32,Pinch the nose,,捻鼻,,Diem pñi,Liàm phì,teochew.csv
+32,Loquacious,,㩼話,多話,Choi wey,Tsōi uē,teochew.csv
+32,Eloquent,,口才,,Kaou chai,Háu tsâi,teochew.csv
+32,Stammering,,大舌,,Toa chĭ,Tūa chi̍h,teochew.csv
+32,Obscene,,粗口,,Chou chui,Tshu kháu,teochew.csv
+32,A lean face,,面瘦,,Min san,Mīn sán,teochew.csv
+32,A smiling face,,笑面,,Chie min,Chhiè mīn,teochew.csv
+32,Having a reputation,,有面,,U min,Ũ mīn,teochew.csv
+32,Having lost reputation,,失面,,Sĭt min,Sit mīn,teochew.csv
+32,A fair complexion,,好面色,,Haw min sĕk,*Hó mīn sek,tiebreak
+32,A thievish hand,,三隻手,,Sa chiă chiw,Saⁿ chiah chhiú,teochew.csv
+32,Brothers are like hands and feet,,兄弟如手足,,Hia ti ju chiw chok,*Hiaⁿ tĩ zû chhiú tsok,tiebreak
+32,Strike with the fist,,拳頭拍,拳頭打,Kun taou pă,Khûn thâu phah,teochew.csv
+32,He has not yet commenced,,未曾開手,未嘗開手,Boe cheng kui chiw,*Būe cheng khui chhiú,tiebreak
+32,Pass from one hand to the other,,左手交右手,,Chia chiw kaou taw chiw,*Tsó chhiú kau iù chhiú,tiebreak
+32,He cannot move hand or foot,,骹手毋能舉,脚手不能舉,Kha chiw mʼoi tin tang,Kha chhiú bô lêng kṳ́,teochew.csv
+32,He lives from hand to mouth,,左手挈、右手去,,"Chaw chiw khiĕ,yiw chiw khur","*Tsó chhiú khie̍h,iù chhiú khṳ̀",tiebreak
+32,He is always busy,,骹手無時歇,脚手無時歇,Kha chiw baw si hiă,Kha chhiú bô sî hiah,teochew.csv
+32,How long has your foot been sore,,汝骹痛若久,爾脚痛若久,Lur kha thia jiĕ ku,Lṳ́ kha thiàⁿ jie̍h kú,teochew.csv
+33,Skin,,皮,,Poe,Phî,teochew.csv
+33,Bone,,骨,,Kŭt,Kut,teochew.csv
+33,Flesh,,肉,,Nĕk,Ne̍k,teochew.csv
+33,Joint,,節,,Chăt,Tsat,teochew.csv
+33,Sinew,,筋,,Kŭrn,Kṳn,teochew.csv
+33,Pulse,,脉,,Mĕ,Me̍h,teochew.csv
+33,Entrails,,腸,,Tŭng,Tn̂g,teochew.csv
+33,Heart,,心,,Sim,Sim,teochew.csv
+33,Liver,,肝,,Kua,Kuaⁿ,teochew.csv
+33,Lungs,,肺,,Hui,Hùi,teochew.csv
+33,Gall,,膽,,Ta,Táⁿ,teochew.csv
+33,Kidnies,,腎,,Sien,Siẽn,teochew.csv
+33,Bladder,,尿胞,,Jie pa,Jiē pau,teochew.csv
+33,Urine,,尿,,Jie,Jiē,teochew.csv
+33,Feces,,屎,,Sai,Sái,teochew.csv
+33,Tears,,目汁,,Măk chăp,Ma̍k tsap,teochew.csv
+33,Phlegm,,痰,,Tʼham,Thâm,teochew.csv
+33,Spittle,,涎,,Noa,Nũa,teochew.csv
+33,Perspiration,,汗,,Koa,Kūaⁿ,teochew.csv
+33,Senses,,五官,,Gnou kua,*Ngõu kuaⁿ,tiebreak
+33,Seeing,,睇,看,Toi,Thì,teochew.csv
+33,Hearing,,聽,,Tʼhia,Thiaⁿ,teochew.csv
+33,Smelling,,鼻,,Pñi,Phì,teochew.csv
+33,Tasting,,嚐,嘗,Sie,Siêⁿ,teochew.csv
+33,Feeling,,摸,,Mong,Mông,teochew.csv
+33,Mind,,心,,Sim,Sim,teochew.csv
+33,Soul,,靈魂,,Leng hun,Lêng hûn,teochew.csv
+33,Spirit,,靈,,Leng,Lêng,teochew.csv
+33,Passions,,七情,,Chĭt cheng,Chhit chhêng,teochew.csv
+33,Love,,愛,,Ai,Ài,teochew.csv
+33,Hatred,,惡,,U,*Ù,tiebreak
+33,Desire,,欲,,Ai,Àiⁿ,teochew.csv
+33,Joy,,喜,,Hi,Hí,teochew.csv
+33,Anger,,怒,,Naw,*Nò,tiebreak
+33,Grief,,哀,,Ai,*Ai,tiebreak
+33,Pleasure,,樂,,Lăk,La̍k,teochew.csv
+33,Jealousy,,疑惑,,Gi hok,*Gi ho̍k,tiebreak
+33,Compassion,,慈悲,,Chur p[illegible text],*Tsṳ p[illegible text],rule
+34,To tear the flesh,,破皮,,Poa pue,Phò phûe,teochew.csv
+34,The bone is broken,,骨折了,,Kŭt chĭ liou,*Kut chi̍h lióu,tiebreak
+34,He wants a beating,,伊肉欲痛,,I nĕk ai thia,I ne̍k àiⁿ thiàⁿ,teochew.csv
+34,Rheumatic pains,,骨節痠痛,骨節酸痛,Kŭt chăt sŭng thia,Kut tsat sng thiàⁿ,teochew.csv
+34,To feel the pulse,,拍脉,打脉,Pă mĕ,Phah me̍h,teochew.csv
+34,A vicious person,,心腸毋好,心腸不好,Sim tŭng mʼhaw,*Tn̂g bû hó,tiebreak
+34,The liver is diseased,,肝經有病,,Kua keng u pey,Kuaⁿ keng ũ pēⁿ,teochew.csv
+34,Diseased lungs,,傷肺,,Sie hui,Sieⁿ hùi,teochew.csv
+34,He is courageous,,伊有膽,,I u ta,I ũ táⁿ,teochew.csv
+34,To go to stool,,放尿,,Pang sai,Pàng jiē,teochew.csv
+34,To shed tears,,流目汁,,Laou măk chăp,Lâu ma̍k tsap,teochew.csv
+34,To spit,,呸涎,唾涎,Phui noa,*Phùi nũa,tiebreak
+34,To perspire freely,,汗流㩼,汗流多,Kua laou choi,Kūaⁿ lâu tsōi,teochew.csv
+34,I don't see it,,我睇毋見,我看不見,Ua toi mʼkien,Tĩ bô kièn,teochew.csv
+34,I don't understand,,聽毋別,聽不識,Tʼhia mʼpat,*Bô pat,tiebreak
+34,Taste & see if it is good,,嚐~看~~(睇)好,嘗~看~~(睇)好,"Sie,toi haw","*Thì,thì hó",tiebreak
+34,He is pleased,,伊心歡喜,,I sim hoa hi,I sim huaⁿ hí,teochew.csv
+34,Love all men,,愛衆人,,Ai cheng nang,*Ài cheng nâng,tiebreak
+34,He is very angry,,伊氣在,伊氣極,I kʼhi chai,I khì tsãi,teochew.csv
+37,Sorrow,,煩惱,,Huan law,Huân ló,teochew.csv
+37,Regret,,憂悶,,Yiw bun,Iu būn,teochew.csv
+37,Desire,,願,,Gñuan,*Ngũan,tiebreak
+37,Hope,,希望,,Hi maw,Hi mō,teochew.csv
+37,Faith,,信德,,Sin tĕk,*Sìn tek,tiebreak
+37,Patience,,忍耐,,Jin nai,Jím nãi,teochew.csv
+37,Meekness,,温柔,,Un jiw,*Un jiu,rule
+37,Kindness,,恩惠,,Urn hui,Ṳn hũi,teochew.csv
+37,Happiness,,福,,Hok,Hok,teochew.csv
+37,Contentment,,知足,,Chai chok,Tsai tsok,teochew.csv
+37,Covetousness,,吝,,Dien,Liẽn,teochew.csv
+37,Liberality,,無吝,,Baw dien,Bô liẽn,teochew.csv
+37,Gratitude,,感恩,,Kam ŭrn,Kám ṳn,teochew.csv
+37,Skill,,名家,,Mia key,Miâⁿ ke,teochew.csv
+37,Ignorant,,無知,,Baw chai,Bô tsai,teochew.csv
+37,Wise,,賢,,Gaou,Gâu,teochew.csv
+37,Foolish,,禺,,Gña,*Ngô,tiebreak
+37,Righteousness,,行義,,Kia gñi,Kiâⁿ ngĩ,teochew.csv
+37,Godliness,,虔孝,䖍孝,Kien haou,*Khien hàu,tiebreak
+37,Frugality,,儉,,Kiem,Khiēⁿ,teochew.csv
+37,Innocence,,無罪,,Baw chuey,Bô tsũe,teochew.csv
+37,Sin,,罪,,Chuey,Tsũe,teochew.csv
+37,Forgiveness,,赦罪,,Sia chuey,Sià tsũe,teochew.csv
+37,Conversion,,悔改,悔攺,Huey koi,*Hùe kói,tiebreak
+37,Mercy,,恩,,Urn,Ṳn,teochew.csv
+37,Justice,,公道,,Kong taou,*Kong tãu,tiebreak
+37,Insincere,,毋誠心,不誠心,Mʼseng sim,Sêng sim,teochew.csv
+37,Reverence,,敬畏,,Keng ui,Kèng ùi,teochew.csv
+37,Uprightness,,誠實,,Seng sit,Sêng si̍t,teochew.csv
+37,Truth,,眞實,,Chin sit,Chin si̍t,teochew.csv
+37,Honesty,,老實,,Laou sit,*Lãu si̍t,tiebreak
+37,Sincerity,,忠厚,,Tong kaou,*Tong kâu,tiebreak
+37,Diligence,,勤,,Kŭrn,Khṳ̂n,teochew.csv
+37,Humility,,謙遜,,Kiem sun,Khiam sùn,teochew.csv
+37,Peace,,平安,,Peng an,Phêng an,teochew.csv
+37,Confusion,,亂,,Luan,Lũan,teochew.csv
+37,Courage,,膽,,Ta,Táⁿ,teochew.csv
+37,Constancy,,常,,Sie,Siêⁿ,teochew.csv
+37,Zeal,,發奮,,Huăt hun,Huat hùn,teochew.csv
+37,Perseverance,,至終,,Chi chong,Chì tsong,teochew.csv
+38,Sorrowing for the loss of money,,因爲破銀煩惱,,In ui poa gnŭrn huan law,*In ûi phò ngṳ̂n huân ló,tiebreak
+38,I desire your happiness,,我願汝得福,吾願爾得福,Ua gñuan lur tĭt hok,*Uá ngũan lṳ́ tit hok,tiebreak
+38,I hope to be well in future,,希望將來有好,,Hi maw chiang lai u haw,*Hi mō chiang lâi ũ hó,tiebreak
+38,Without faith it is impossible to be saved,,無信德不得救,,Baw sin tĕk put tit kiw,*Bô sìn tek put tit kiù,tiebreak
+38,Have long patience,,久久忍耐,,Ku ku jin nai,Kú kú jím nãi,teochew.csv
+38,I have received his kindness,,我受過伊恩惠,,Ua siw kuey i kai ŭrn hui,*Ua siu kue i kai ṳnh hui,rule
+38,The godly shall enjoy endless happiness,,虔孝者享永福,䖍孝者享永福,Kien haou chia hiang yong hok,*Khien hàu chiá hiáng ióng hok,tiebreak
+38,He is never contented,,伊無知足,,I baw chai chok,I bô tsai tsok,teochew.csv
+38,I am grateful for your favors,,我感汝恩,我感爾恩,Ua kam lŭr kai ŭrn,*Ua kam lṳh kai ṳnh,rule
+38,He is extremely covetous,,伊貪吝之極,,I tʼham lien chŭr kĕk,I tham liẽn tsṳ ke̍k,teochew.csv
+38,He is very skillful,,伊有名家在,伊有名家極,I u mia key chai,I ũ miâⁿ ke tsãi,teochew.csv
+38,Having a wise man's capacity,,有賢人之才,,U gaou nang chŭr chai,Ũ gâu nâng tsṳ tsâi,teochew.csv
+38,The word of the just can be relied upon,,義者話有定着,,Gni chia kai wey u tia tiŏ,*Ngi chia kai we u tia tioh,rule
+38,Frugality leads to plenty,,積儉正有銀存,,"Chĕk kiem chia, u gñurn chun","*Chek khiēⁿ chiàⁿ, ũ ngṳ̂n tshûn",tiebreak
+38,Faith in Jesus secures pardon for sin,,信耶穌得赦罪,,Sin Ya sou tĭt sia chuey,*Sìn Iā sou tit sià tsũe,tiebreak
+38,God is infinitely just,,神天至公道,,Sin Tien chi kong taou,*Sîn Thien chì kong tãu,tiebreak
+38,Truly I do not deceive you,,眞實無騙汝,眞實無騙爾,Chin sĭt baw pien lŭr,Chin si̍t bô phièn lṳ́,teochew.csv
+38,The wicked have no peace,,惡人心無平安,,Ak nang sim baw peng an,Ak nâng sim bô phêng an,teochew.csv
+38,He is constantly doing thus,,常常伊行如此,,Sie sie i kia chiĕ say,Siêⁿ siêⁿ i kiâⁿ zû chí,teochew.csv
+38,Zealous in propagating the truth,,熱心傳眞道理,,Juă sim tuan chin taw li,Zua̍h sim tuān chin tõ lí,teochew.csv
+37,Pride,,驕傲,,Kiou gnaou,*Kiau ngàu,tiebreak
+37,Vanity,,好名,,Haou mia,Háu miâⁿ,teochew.csv
+37,Contention,,相爭,,Sie chey,Sie cheⁿ,teochew.csv
+37,Passionate,,火性,,Huey sey,Húe sèⁿ,teochew.csv
+37,Willful,,故意,,Ku i,*Kū ì,tiebreak
+37,Petulant,,靑面,,Chey min,Chheⁿ mīn,teochew.csv
+37,Hypocrisy,,詐僞,,Cha gnuì,Tsà ngũiì,teochew.csv
+37,Contempt,,輕忽,,Khin hŭt,Khin hut,teochew.csv
+37,Obedience,,順,,Sun,Sũn,teochew.csv
+37,Benevolence,,施恩,,Si ŭrn,*Si ṳn,tiebreak
+37,Dependence,,倚靠,,I kou,Í kõu,teochew.csv
+37,Submission,,甘心,,Kam sin,Kam sim,teochew.csv
+37,To think,,心想,,Sim sie,Sim siẽⁿ,teochew.csv
+37,To calculate,,拍算,打算,Pă sung,Phah sǹg,teochew.csv
+37,To scheme,,計,,Koi,Kòi,teochew.csv
+37,To agree,,相合,,Siang hă,*Siang ha̍h,tiebreak
+37,To refuse,,不悦,,Put juăt,Put zua̍t,teochew.csv
+37,Cheerful,,快樂,,Kuai lăk,Khùai la̍k,teochew.csv
+37,Niggardly,,較儉,太儉,Kă khiem,Kà khiēⁿ,teochew.csv
+37,Blind,,青盲,瞽目,Chey mey,Chheⁿ mê,teochew.csv
+37,Deaf,,耳聾,,Hi lang,Hĩⁿ lâng,teochew.csv
+37,Maimed,,破相,,Poa sie,Phò sie,teochew.csv
+37,Dumb,,啞,瘂,Ey̆,Eh,teochew.csv
+37,Squinting,,射鳥目,邪鳥目,Sia chiou măk,*Siā chióu ma̍k,tiebreak
+37,Stammering,,大舌,,Toa chĭ,Tūa chi̍h,teochew.csv
+37,Foolish,,顚,,Siow,Tien,teochew.csv
+37,Cough,,咳嗽,咳𠻳,Ka saou,*Ka sàu,tiebreak
+37,Sneeze,,嚏,,Pă ka ti,*Pah ka ti,rule
+37,Faint,,虛眩,,Hur hin,Hṳ hîn,teochew.csv
+37,Palsy,,遍遂,,Kuan pien,*Pièn sûi,tiebreak
+37,Leprosy,,癩哥,痳瘋,Tai kaw,*Nãi ko,tiebreak
+37,Fever,,發熱,,Huăt juă,Huat zua̍h,teochew.csv
+37,Intermittent,,發寒,,Huăt kua,Huat kûaⁿ,teochew.csv
+37,Cold,,鼻嚏,,Chek chui,*Phĩⁿ thì,tiebreak
+37,Head ache,,頭殻痛,,Taou kăk tia,*Tau kak tia,rule
+37,Asthma,,嗄,嘎,Hey,He,teochew.csv
+37,Sigh,,敨氣,偷氣,Taou kui,*Tau kui,rule
+37,Yawn,,呵呬,叱噓,Huă hi,Huah hì,teochew.csv
+38,He is proud & will not listen,,伊驕傲毋肯聽,伊驕傲不肯聽,I kiou gnaou mʼkeng thia,*Kiau ngàu bû khéng thiaⁿ,tiebreak
+38,He is not sincere but only desires a name,,無實好名定定,,Baw sit haou mia tia tia,Bô si̍t háu miâⁿ tiāⁿ tiāⁿ,teochew.csv
+38,The honorable man is not quarrelsome,,君子無相爭,,Kun chur baw sie chey,Kun tsṳ́ bô sie cheⁿ,teochew.csv
+38,A disposition as fierce as the flames,,性如火之烈,,Sey ju huey chŭr diĕt,Sèⁿ zû húe tsṳ lie̍t,teochew.csv
+38,He is willful & will not read,,伊故意毋讀,伊故意不讀,"I ku i, mʼtak","*Kū ì m̃, tāu",tiebreak
+38,Altogether hypocritical,,所行皆是詐僞,,Saw kia kai si cha gnui,Só kiâⁿ kai sĩ tsà ngũi,teochew.csv
+38,He rejects this doctrine,,伊輕忽此道理,,I khin hŭt chi taw li,I khin hut chí tõ lí,teochew.csv
+38,Respect to parents,,孝順父母,,Haou sun pey baw,Hàu sũn pẽ bó,teochew.csv
+38,I think that is correct,,我想怎生有着,,Ua sie chie sey ~~n~~(u) tiĕ,*Ua sie chie se ~~n~~(u) tieh,rule
+38,The husband & wife disagree,,伊翁𡚸毋相合,伊翁𡚸不相合,I ang bou mʼsiang hă,*I ang bô siang ha̍h,tiebreak
+38,He is blind & cannot see,,伊青盲看毋見,伊瞽目看不見,I chey mey toi mʼki,Chheⁿ mê thì bô kìⁿ,teochew.csv
+38,I am a little hard of hearing,,我耳聾些須,,Ua hi lang sey su,Uá hĩⁿ lâng se su,teochew.csv
+38,The stammerer does not finish his sentence,,大舌講毋到句,大舌講不到句,Toa chĕ kong mʼkaou ku,*Chi̍h káng bô kàu kù,tiebreak
+38,The mind of the foolish is unstable,,顚人心神無定,,Siow nang sim sin baw tia,Tien nâng sim sîn bô tiāⁿ,teochew.csv
+38,How long have you had a cough,,汝咳嗽有若久,爾咳𠻳有若久,Lur ka saou u jiĕ ku,*Lṳ́ ka sàu ũ jie̍h kú,tiebreak
+38,He has a number of boils,,伊生幾粒瘣,,I sey kui liep tue,I seⁿ kúi lia̍p húi,teochew.csv
+38,Has your child had the small pox,,汝个囝出珠未,爾箇子出痘未,Lur kai kia chut chu boe,*Lṳ́ kài kiáⁿ tshut tsu būe,tiebreak
+38,Do you understand inoculation,,汝能種珠咩,爾能種痘麽,Lur oi cheng chu mĕ,*Lṳ́ lêng chèng tsu meh,tiebreak
+38,This child has worms,,此阿孥囝疳癪,此亞孥子疳癪,Chi a nou kia u kam chek,*Chi a nou kia u kam chek,rule
+38,My eyes are sore & I can not read,,目睭痛毋能讀,目珠痛不能讀,Măk chiw tia mʼoi tak,*Chiu thiàⁿ bô lêng tāu,tiebreak
+41,Father,,父,,Pey,Pẽ,teochew.csv
+41,Mother,,母,,Baw,Bó,teochew.csv
+41,Step-father,,繼父,,Ki pey,Kì pẽ,teochew.csv
+41,Step-mother,,後母,,Ou baw,Aũ bó,teochew.csv
+41,Father-in-law,,岳父,,Gnăk pey,Nga̍k pẽ,teochew.csv
+41,Mother-in-law,,岳母,,Gnăk baw,Nga̍k bó,teochew.csv
+41,Grandfather,,公,,A,Ang,teochew.csv
+41,Grandmother,,媽,,A ma,*A ma,rule
+41,Husband,,翁,,Ang,Ang,teochew.csv
+41,Brother (),,兄,,A hia,*A hia,rule
+41,Brother (),,弟,,A ti,*A ti,rule
+41,Sister (),,姐,,A chey,*A che,rule
+41,Sister (),,妹,,A mue,*A mue,rule
+41,Brother-in-law,,舅,,A ku,*A ku,rule
+41,Sister-in-law,,姨,,A í,Î í,teochew.csv
+41,Child,,囝,子,Kia,Kiáⁿ,teochew.csv
+41,Daughter,,諸婦囝,女子,Cha bou kia,Tsa bóu kiáⁿ,teochew.csv
+41,Son,,丈夫囝,男子,Ta pou kia,Ta pou kiáⁿ,teochew.csv
+41,Grand child,,++阿++孫,,A sun,*A sun,tiebreak
+41,First born,,頭子,長子,Toau tur,Thâu tsṳ́,teochew.csv
+41,Last born,,尾囝,未子,Boe kia,Búe kiáⁿ,teochew.csv
+41,Twins,,雙生,䨇生,Sang sey,Sang seⁿ,teochew.csv
+41,Orphan,,孤子,,Ko chur,Ku tsṳ́,teochew.csv
+41,Uncle (),,++阿++伯,,A pĕ,A peh,teochew.csv
+41,Aunt (),,++阿++姆,,A um,A ḿ,teochew.csv
+41,Father's () brother,,++阿++叔,,A chĕk,A chek,teochew.csv
+41,Uncle's wife,,++阿++嬸,,A sim,A sím,teochew.csv
+41,Friends,,朋友,,Peng yiw,Phêng iú,teochew.csv
+41,Prince,,君,,Kun,Kun,teochew.csv
+41,Minister,,臣,,Chin,Chhîn,teochew.csv
+41,Slave (),,僕,,Pok,Po̍k,teochew.csv
+41,Slave (),,婢,,Pi,Pĩ,teochew.csv
+41,Master,,家主,,Key chu,Ke tsú,teochew.csv
+41,Mistress,,家主娘,,Key chu nie,Ke tsú niêⁿ,teochew.csv
+41,Bridegroom,,新郎,,Sin nung,*Sin lang,tiebreak
+41,Bride,,新娘,,Sin nie,Sin niêⁿ,teochew.csv
+41,Nephew,,姪,,Tiĕt,Tie̍t,teochew.csv
+41,Niece,,姪女,,Tiĕt nung,*Tie̍t lṳ́,tiebreak
+42,First class,,上品,,Siang pin,*Siâng pín,tiebreak
+42,Middle class,,中品,,Tong pin,*Tong pín,tiebreak
+42,Lower class,,下品,,Hia pin,Hiã pín,teochew.csv
+42,Husband-men,,農夫,,Long hu,*Lông hū,tiebreak
+42,Hunters,,獵人,,Lă jin,La̍h jîn,teochew.csv
+42,Physicians,,醫生,,Ui seng,Ui seng,teochew.csv
+42,Merchants,,商人,,Siang jin,Siang jîn,teochew.csv
+42,Fishermen,,漁人,,Hŭr jin,Hṳ̂ jîn,teochew.csv
+42,Soldiers,,兵丁,,Pier teng,Piaⁿ teng,teochew.csv
+42,Executioners,,殺手,,Suă siw,Suah siú,teochew.csv
+42,Beggars,,乞食,,Khŭrt chiă,Khṳt chia̍h,teochew.csv
+42,Thieves,,賊囝,賊子,Chăt kia,Tsha̍t kiáⁿ,teochew.csv
+42,Gamblers,,賭棍,,Tu kun,Tú kùn,teochew.csv
+42,Jailers,,禁止,,Kim chi,*Kìm chí,tiebreak
+42,Players,,戲囝,戲子,Hi kia,*Hì kiáⁿ,tiebreak
+42,Slaves,,奴僕,,Nou pok,*Nou po̍k,tiebreak
+42,Pettifoggers,,訟師,,Song sŭr,Sõng sṳ,teochew.csv
+42,Priests,,和尙,,Huey sie,*Hûe sièⁿ,tiebreak
+42,Old men,,老人,,Laou nang,*Lãu nâng,tiebreak
+42,A sage,,聖人,,Sia nang,Siàⁿ nâng,teochew.csv
+42,A worthy,,賢人,,Hien jin,Hiên jîn,teochew.csv
+42,Excellent man,,君子,,Kun chŭr,Kun tsṳ́,teochew.csv
+42,Just man,,義士,,Gñi sŭr,Ngĩ sṳ̃,teochew.csv
+42,Philanthropist,,仁人,,Jin nang,Jîn nâng,teochew.csv
+42,Virtuous man,,善人,,Sien nang,Siẽn nâng,teochew.csv
+42,Good man,,好人,,Haw nang,*Hó nâng,tiebreak
+42,Vicious man,,痞人,獃人,Pai nang,Phí nâng,teochew.csv
+42,Bad man,,惡人,,Ak nang,Ak nâng,teochew.csv
+42,A hero,,英人,,Eng jin,Eng jîn,teochew.csv
+42,A teacher,,先生,,Sin sey,Sin seⁿ,teochew.csv
+42,Literary man,,文人,,Bun jin,*Bûn jîn,tiebreak
+42,A scholar,,文學,,Bun ŏ,*Bûn o̍h,tiebreak
+42,Civil officer,,文官,,Bun kua,*Bûn kuaⁿ,tiebreak
+42,Military officer,,武官,,Bu kua,Bú kuaⁿ,teochew.csv
+42,A general,,武將,,Bu chiang,*Bú chiang,tiebreak
+42,A sailor,,水手,,Chiu siw,Tsúi siú,teochew.csv
+42,Super cargo,,船主,,Chun chu,Tsûn tsú,teochew.csv
+42,Sailing-master,,夥長,,Huey tie,Húe tiéⁿ,teochew.csv
+42,A clerk,,財副,,Chai hu,Tshâi hù,teochew.csv
+43,House,,厝,,Chu,Tshù,teochew.csv
+43,Bambu house,,竹厝,,Tek chu,Tek tshù,teochew.csv
+43,Board house,,枋厝,,Pang chu,*Pang tshù,tiebreak
+43,Brick house,,塗庫,,Tou khou,Tôu khòu,teochew.csv
+43,Prison,,監,,Kam,*Kam,tiebreak
+43,Wat,,庵,𥦩,Am,Am,teochew.csv
+43,Temple,,廟,,Bie,Biē,teochew.csv
+43,Zayat,,經㕔,,Keng tia,*Keng tia,rule
+43,Church,,禮拜堂,,Loi pai tung,Lói pài tn̂g,teochew.csv
+43,Pagoda,,㙮,,Thă,*Thah,rule
+43,Palace,,王府,,Wang hu,*Uâng hú,tiebreak
+43,Hut,,寮囝,寮子,Liou kia,Liâu kiáⁿ,teochew.csv
+43,Cook house,,火食,,Hue sit,Húe si̍t,teochew.csv
+43,Godown,,樓底,,Laou toi,Lâu tói,teochew.csv
+43,Granary,,倉,,Chŭng,Tshng,teochew.csv
+43,Treasury,,庫,,Khou,Khòu,teochew.csv
+43,Fort,,炮臺,,Phaou tai,*Phàu tâi,tiebreak
+43,Floating house,,水桴,,Chui pey,Tsúi hu,teochew.csv
+43,Printing office,,印書舘,,In chŭr kuan,Ìn tsṳ kuán,teochew.csv
+43,Store room,,棧,,Chan,Tsàn,teochew.csv
+43,Stall,,牛寮,,Gu liou,Gû liâu,teochew.csv
+43,Brick,,磚,,Chŭng,Tsng,teochew.csv
+43,Tile,,瓦,,Hia,Hiã,teochew.csv
+43,Chak,,笮,,Chak,Chek,teochew.csv
+43,Lime,,灰,,Hue,Hue,teochew.csv
+43,Sand,,沙,,Sua,Sua,teochew.csv
+43,Stone,,石,,Chiĕ,Chie̍h,teochew.csv
+43,Rattan,,籐,,Tin,*Tin,tiebreak
+43,Nails,,鐵釘,,Tĭ teng,*Thih teng,tiebreak
+43,Board,,枋,,Pang,*Pang,tiebreak
+43,Beam,,横載,,Huey chai,*Hue tsai,rule
+43,Post,,柱,,Tiou,Thiõu,teochew.csv
+43,Brace,,抵,,Tu,Tí,teochew.csv
+43,Rafters,,桷,,Kak,Kak,teochew.csv
+43,Wall,,牆,𫮰,Chie,Chhiêⁿ,teochew.csv
+43,Partition,,壁,,Piăh,Piah,teochew.csv
+43,Corner,,四角,,Si kak,Sì kak,teochew.csv
+43,Roof,,厝頂,,Chu teng,Tshù téng,teochew.csv
+43,Stairs,,梯頭,,Tui taou,Thi thâu,teochew.csv
+44,Room,,房,,Pang,Pâng,teochew.csv
+44,Chamber,,樓頂,,Laou teng,Lâu téng,teochew.csv
+44,Loft,,層,,Chan,Tsân,teochew.csv
+44,Door,,門,,Mŭng,Mn̂g,teochew.csv
+44,Window,,窗,窻,Teng,Theng,teochew.csv
+44,Lock,,鎖頭,,Saw taou,Só thâu,teochew.csv
+44,Key,,鎖匙,,Saw si,Só sî,teochew.csv
+44,Railing,,欄杆,,Lan kan,Lân kan,teochew.csv
+44,Slats,,欄杆枳,,Lan kan chi,Lân kan chí,teochew.csv
+44,Hinges,,鉸鉞,,Ka sut,*Ka ua̍t,tiebreak
+44,Rings,,門環,門𤨔,Mŭng huan,Mn̂g huân,teochew.csv
+44,Table,,桌,,Tŏ,Toh,teochew.csv
+44,Chair,,筊椅,筊𬃪,Kaou i,Káu i,teochew.csv
+44,Rocking-chair,,倚腰椅,倚腰𬃪,Ua ie i,Uá ie i,teochew.csv
+44,Stool,,椅頭,𬃪頭,I taou,I thâu,teochew.csv
+44,Foot stool,,骹踏椅,脚踏𬃪,Ka tă i,Kha ta̍h i,teochew.csv
+44,Couch,,眠椅,眠𬃪,Min i,Mîn i,teochew.csv
+44,Book case,,書架,,Chŭr key,Tsṳ kè,teochew.csv
+44,Cupboard,,食厨,,Chiă tu,Chia̍h tû,teochew.csv
+44,Clothes basket,,籐囊,,Tin lang,*Tin láng,tiebreak
+44,Bedstead,,眠床,眠牀,Min chŭng,Mîn tshn̂g,teochew.csv
+44,Matrass,,褥,,Jok,Zo̍k,teochew.csv
+44,Curtains,,蚊帳,,Mang ta,Máng tièⁿ,teochew.csv
+44,Pillow,,枕頭,,Chim taou,Chím thâu,teochew.csv
+44,Cradle,,搖籃,,Ie na,*Iê nâ,tiebreak
+44,Chest,,箱,,Sie,Sieⁿ,teochew.csv
+44,Drawers,,櫃,,Kñui,Kūi,teochew.csv
+44,Looking-glass,,鏡臺,,Kia tai,Kiàⁿ tâi,teochew.csv
+44,Wash stand,,面盆架,,Min pun key,Mīn phûn kè,teochew.csv
+44,Lamp,,燈火,,Teng huey,Teng húe,teochew.csv
+44,Lantern,,燈籠,,Teng nang,*Teng láng,tiebreak
+44,Candlestick,,燭臺,,Chek tai,Chek tâi,teochew.csv
+44,Bowl,,碗,,Ua,Uáⁿ,teochew.csv
+44,Plate,,盤,,Pua,Pûaⁿ,teochew.csv
+44,Tea cup,,茶鐘,,Tey cheng,Tê cheng,teochew.csv
+44,Saucer,,茶船,,Tey chun,Tê tsûn,teochew.csv
+44,Wash bowl,,面盆,,Min pun,Mīn phûn,teochew.csv
+44,Water pot,,水摜,水𢸎,Chui kua,Tsúi kũaⁿ,teochew.csv
+45,Tea pot,,茶罐,茶礶,Tey kuan,Tê kuàn,teochew.csv
+45,Cover,,盖,,Kñoi,*Khòiⁿ,tiebreak
+45,Tea board,,茶盤,,Tey poa,Tê pûaⁿ,teochew.csv
+45,Knife,,刀,,Taw,To,teochew.csv
+45,Fork,,义,,Chey,*Che,rule
+45,Spoon,,湯匙,,Tŭng si,*Thng sî,tiebreak
+45,Chopstick,,箸,,Tŭr,Tṳ̄,teochew.csv
+45,Table cloth,,遮床布,,Chia chŭng pou,Chia tshn̂g pòu,teochew.csv
+45,Mortar,,臼囝,臼子,Ku kai,*Khũ kiáⁿ,tiebreak
+45,Sieve,,篩斗,,Tai taou,Sai táu,teochew.csv
+45,Flint,,火石,,Huey chiĕ,Húe chie̍h,teochew.csv
+45,Broom,,箒把,,Saou siw,*Siú pé,tiebreak
+45,Shears,,剪刀,,Ka taw,Tsáⁿ to,teochew.csv
+45,Candle,,燭,,Chĕk,Chek,teochew.csv
+45,Wick,,燈心,,Teng sim,Teng sim,teochew.csv
+45,Watch,,時辰錶,時辰票,Si sin pie,Sî sîn pie,teochew.csv
+45,Clock,,時鐘,,Si cheng,Sî cheng,teochew.csv
+45,Bell,,鐘,,Cheng,Cheng,teochew.csv
+45,Gong,,欽,,Kim,Khim,teochew.csv
+45,Writing tray,,硯盤,,I poa,Īⁿ pûaⁿ,teochew.csv
+45,Pen stand,,筆池,,Pĭt ti,Pit tî,teochew.csv
+45,Stand for ink,,墨碟,,Bak tĭ,Ba̍k ti̍h,teochew.csv
+45,Water stand,,水碟,,Chui tĭ,Tsúi ti̍h,teochew.csv
+45,Pencil frame,,筆架,,Pĭt kèy,*Pit kèy,rule
+45,Ink,,墨,,Bak,Ba̍k,teochew.csv
+45,Pencil tube,,筆筒,,Pĭt tang,*Pit tâng,tiebreak
+45,A tablet,,粉牌,,Hun pai,Hún pâi,teochew.csv
+45,Book,,書冊,,Chŭr chĕ,Tsṳ chheh,teochew.csv
+45,Blank book,,簿,,Phou,Phõu,teochew.csv
+45,Letter,,書信,,Chŭr sin,*Tsṳ sìn,tiebreak
+45,Paper,,紙,,Chua,Tsúa,teochew.csv
+45,Draft,,㑹單,,Huéy toa,*Huéy toa,rule
+45,Bill of lading,,貨單,,Huèy toa,*Huèy toa,rule
+45,Contract,,合約,,Hăp iĕ,Ha̍p ieh,teochew.csv
+45,Receipt,,收單,,Siw toa,Siu tuaⁿ,teochew.csv
+45,Order,,領單,,Nĭa toa,Niáⁿ tuaⁿ,teochew.csv
+45,Clearance,,大字,,Toa ji,Tūa jī,teochew.csv
+45,Treaty,,盟約,𥂀約,Meng iĕ,Mêng ieh,teochew.csv
+44,Plough,,犁,,Loi,Lôi,teochew.csv
+44,Harrow,,耙,,Pey,Pê,teochew.csv
+44,Hoe,,鋤頭,,Tŭr taou,Tṳ̂ thâu,teochew.csv
+44,Spade,,鐵橫,,Ti huey,Thih hûe,teochew.csv
+44,Fiail,,梗,,Kèy,*Kèy,rule
+44,Sickle,,鈎䥥,,Kaou liem,*Kau liem,rule
+44,Rake,,鐵耙,,Tĭ pey,Thih pê,teochew.csv
+44,Cart,,車,,Chia,Chhia,teochew.csv
+44,Carriage,,馬車,,Béy chia,*Béy chia,rule
+44,Grind stone,,磨石,,Boa chiĕ,*Búa chie̍h,tiebreak
+44,Hammer,,鐵鎚,,Tĭ tui,Thih tui,teochew.csv
+44,Saw,,鋸,,Kŭr,Kṳ̀,teochew.csv
+44,File,,鎈,,Chaw,*Tso,rule
+44,Gimlet,,鑽囝,鑽子,Chŭng kia,Tsǹg kiáⁿ,teochew.csv
+44,Chisel,,鑿囝,鑿子,Chăk kia,Tsha̍k kiáⁿ,teochew.csv
+44,Hatchet,,斧頭,,Po taou,Pú thâu,teochew.csv
+44,Plane,,抽,,Tiu,Thiu,teochew.csv
+44,Musket,,銃,,Cʼheng,Chhèng,teochew.csv
+44,Sword,,長刀,,Tŭng taw,Tn̂g to,teochew.csv
+44,Large boat,,大船,,Toa chun,Tūa tsûn,teochew.csv
+44,Small boat,,船囝,船子,Chun kia,Tsûn kiáⁿ,teochew.csv
+44,Oars,,槳,,Chìe,*Chìe,rule
+44,Paddles,,橈囝,橈子,Jie kia,Jiê kiáⁿ,teochew.csv
+44,Mat,,草蓆,,Chaou chiĕ,Tsháu chhie̍h,teochew.csv
+44,Cushion,,皮坐,,Poe chaw,Phî tsõ,teochew.csv
+44,To row,,扒船,櫂船,Pey chun,Pê tsûn,teochew.csv
+44,To steer,,掠尾,,Diă boe,Lia̍h búe,teochew.csv
+44,Work fast,,出力,,Chut lat,Tshut la̍t,teochew.csv
+44,Dip out the water,,舀水,,Ie chui,Ié tsúi,teochew.csv
+44,The boat rocks,,船搖,,Chun ie,*Tsûn iê,tiebreak
+44,Boat cover,,弓蓬,,Keng pang,Keng phông,teochew.csv
+44,The boat leaks,,船漏,,Chun laou,*Tsûn láu,tiebreak
+44,Repair the boat,,收船,,Siw chun,Siu tsûn,teochew.csv
+44,Lock the boat,,鎖船,鎖丨,Saw chun,Só tsûn,teochew.csv
+45,Print books,,印冊,,In chĕ,Ìn chheh,teochew.csv
+45,Set up type,,擇字,,Tŏ ji,To̍h jī,teochew.csv
+45,Correct proof,,換字,,Ua ji,Uāⁿ jī,teochew.csv
+45,Ink the type,,刷墨,,Suĕ bak,Sueh ba̍k,teochew.csv
+45,Trim books,,截冊,,Choĭ chĕ,Tso̍ih chheh,teochew.csv
+45,To press,,壓,,Tĕ,Teh,teochew.csv
+45,To fold,,摺,,Jĭ,La̍h,teochew.csv
+45,Cut type,,割字,,Kuă ji,Kuah jī,teochew.csv
+45,Cast type,,鑄印,,Chu in,Tsù ìn,teochew.csv
+45,Seal character,,篆字,,Toan ji,Tuãn jī,teochew.csv
+45,German text,,𨽾書,,Tí chŭr,*Tí tsṳh,rule
+45,Italic,,楷書,,Kʼhai chŭr,*Khai tsṳ,tiebreak
+45,Running hand,,行書,,Hang su,*Hâng su,tiebreak
+45,Short hand,,草字,,Chaw ji,Tshó jī,teochew.csv
+45,Roman letters,,宋體,,Song tʼoi,Sòng thí,teochew.csv
+45,Nouns,,實字,,Sït ji,*Sït ji,rule
+45,Verbs,,活字,,Uă ji,Ua̍h jī,teochew.csv
+45,Particles &c.,,虛字,,Hŭr ji,Hṳ jī,teochew.csv
+45,Style,,文理,,Bun li,*Bûn lí,tiebreak
+45,Ancient literature,,古文,,Kou bun,*Kóu bûn,tiebreak
+45,Classics,,經書,,Kia chŭr,Kiaⁿ tsṳ,teochew.csv
+45,Ancient poetry,,古詩,,Kou si,Kóu si,teochew.csv
+45,Modern literature,,時文,,Si bun,*Sî bûn,tiebreak
+45,Fine writing,,文章,,Bun chie,*Bûn chieⁿ,tiebreak
+45,Historical,,傳志,,Tŭng chi,Tn̄g chì,teochew.csv
+45,Five classics,,五經,,Gñou kia,*Ngõu kiaⁿ,tiebreak
+45,Diagrams,,一經,,Yiă-kia,Iau-kiaⁿ,teochew.csv
+45,Ancient history,,書經,,Chŭr-kia,Tsṳ-kiaⁿ,teochew.csv
+45,Sacred odes,,詩經,,Si-kia,Si-kiaⁿ,teochew.csv
+45,Laws & usages,,禮記,,Loi-ki,Lói-kì,teochew.csv
+45,"Annals by,",,春秋,,Chun-chiw,Tshun-chhiu,teochew.csv
+45,Four books,,四書,,Si-su,Sì-su,teochew.csv
+45,Great science,,大學,,Tai-hăk,Tãi-ha̍k,teochew.csv
+45,"Discourses, by",,論語,,Lun-gŭr,*Lũn-gṳ́,tiebreak
+45,Mencius,,孟子,,Meng-chŭr,Mẽng-tsṳ́,teochew.csv
+45,Golden medium,,中庸,,Tong-yong,*Tong-iông,tiebreak
+45,Filial piety,,孝經,,Haou-kia,Hàu-kiaⁿ,teochew.csv
+46,Animals,,牲畜,,Sèng tʼiok,*Sèng tiok,rule
+46,Horse,,馬,,Bèy,*Bèy,rule
+46,Ox,,牛,,Gu,Gû,teochew.csv
+46,Sheep,,羊,,Ie,Iêⁿ,teochew.csv
+46,Ass,,驢,,Lŭr,Lṳ̂,teochew.csv
+46,Hog,,猪,,Tŭr,Tṳ,teochew.csv
+46,Camel,,駝,,Tʼhŏ,Tho̍h,teochew.csv
+46,Dog,,狗,,Kaou,Káu,teochew.csv
+46,Cat,,貓,,Gniou,Ngiou,teochew.csv
+46,Kitten,,貓囝,貓子,Gniou kia,Ngiou kiáⁿ,teochew.csv
+46,Stallion,,馬牯,,Bèy kʼho,*Bèy kho,rule
+46,Mare,,馬母,,Bèy baw,*Bèy bo,rule
+46,Bull,,牛牯,,Gu kʼho,Gû kóu,teochew.csv
+46,Cow,,牛母,,Gu baw,Gû bó,teochew.csv
+46,Ram,,羊牯,,Ie kʼho,Iêⁿ kóu,teochew.csv
+46,Ewe,,羊母,,Ie baw,Iêⁿ bó,teochew.csv
+46,Colt,,馬囝,馬子,Bèy kia,*Bèy kia,rule
+46,Calf,,牛囝,牛子,Gu kia,Gû kiáⁿ,teochew.csv
+46,Pig,,猪囝,猪子,Tŭr kia,Tṳ kiáⁿ,teochew.csv
+46,Wild beasts,,獸,,Siw,Siù,teochew.csv
+46,Lion,,獅公,獅剛,Sai kang,Sai kang,teochew.csv
+46,Lioness,,獅母,,Sai baw,Sai bó,teochew.csv
+46,Tiger,,虎,,Hʼñou,Hóuⁿ,teochew.csv
+46,Bear,,熊,,Him,*Him,tiebreak
+46,Elephant,,象,,Cʼhiè,Chhiẽⁿè,teochew.csv
+46,Leopard,,豹,,Pa,Pà,teochew.csv
+46,Wolf,,豺狼,,Chai lang,Tshâi lâng,teochew.csv
+46,Rhinoceros,,𫵠㐄,,Sai gu,*Sai gu,rule
+46,Deer,,鹿,,Tĕk,Te̍k,teochew.csv
+46,Fox,,狐狸,,Hu lai,Hû lâi,teochew.csv
+46,Rat,,鳥鼠,老鼠,Niou chŭr,Niáu tshṳ́,teochew.csv
+46,Rabbit,,石鼠,,Chiĕ chŭr,Chie̍h tshṳ́,teochew.csv
+46,Birds,,鳥,,Chiou,Chióu,teochew.csv
+46,Crow,,烏鳥,,Ou chiou,Ou chióu,teochew.csv
+46,Sparrow,,麻雀,雀鳥,Maw chiă,Mâ chiah,teochew.csv
+46,Cuckoo,,鳩鳥,,Ku ku,Ku niáu,teochew.csv
+46,Owl,,貓頭鳥,,Gñiou taou chiou,Ngiou thâu chióu,teochew.csv
+46,Parrot,,鸚哥,鸚𤔄,Eng kaw,Eng ko,teochew.csv
+47,King fisher,,魚鴉,,Hŭr ah,Hṳ̂ a,teochew.csv
+47,Quail,,鵪鶉,,An chun,*An thun,tiebreak
+47,Vulture,,死人鳥,,Si nang chʼou,Sí nâng chióu,teochew.csv
+47,Ostrich,,駝鳥,,Tŏ chiou,Tho̍h chióu,teochew.csv
+47,Peacock,,孔雀,,Kong chiĕk,Khóng chiah,teochew.csv
+47,Pheasant,,山鷄,,Sua koi,Suaⁿ koi,teochew.csv
+47,Pigeon,,鴒鳥,,Hun chiou,Lêng chióu,teochew.csv
+47,Partridge,,鷓鴣,,Chiă kou,Chià kou,teochew.csv
+47,Wild duck,,水鴨,,Chui ăh,Tsúi ah,teochew.csv
+47,Pelican,,海鵝,,Hai gaw,Hái gô,teochew.csv
+47,Turkey,,火鷄,,Hue koi,Húe koi,teochew.csv
+47,Goose,,鵝,,Gaw,Gô,teochew.csv
+47,Duck,,鴨,,ăh,ah,teochew.csv
+47,Fowl,,雞,,Koi,Koi,teochew.csv
+47,Chicken,,雞囝,雞子,Koi kia,Koi kiáⁿ,teochew.csv
+47,Cock,,雞翁,,Koi ang,Koi ang,teochew.csv
+47,Drake,,鴨翁,,ăh kang,ah ang,teochew.csv
+47,Hen,,鷄母,,Koi baw,Koi bó,teochew.csv
+47,Pullet,,鷄卵,鷄旦,Koi noa,Koi nñg,teochew.csv
+47,Serpent,,蛇,,Chua,Tsûa,teochew.csv
+47,Scorpion,,蠍,,Hiĕt,Hiet,teochew.csv
+47,Centipede,,蜈蚣,,Gey kang,Gê kang,teochew.csv
+47,Leech,,蝴蜞,,Hou kʼi,Hôu khî,teochew.csv
+47,Spider,,蜘蛛,,Ti tu,Ti tu,teochew.csv
+47,Frog,,水蛙,,Chui koi,Tsúi i,teochew.csv
+47,Lizard,,蠐龍,守宮,Chi leng,Chîⁿ lêng,teochew.csv
+47,Tŏk key,,篤家,,Tŏk key,*To̍k ke,tiebreak
+47,Alligator,,鱷魚,,Gñak hŭr,Nga̍k hṳ̂,teochew.csv
+47,Shark,,鯊魚,,Sua hŭr,Sua hṳ̂,teochew.csv
+47,Worm,,蚯蚓,,Kʼou un,Khiu ún,teochew.csv
+47,Turtle,,龜,,Ku,Ku,teochew.csv
+47,Butterfly,,蝴蝶,,Hu tiĕp,Hû tia̍p,teochew.csv
+47,Fly,,胡蠅,蒼蠅,How sin,Hôu sîn,teochew.csv
+47,Fire-fly,,火夜,,Hue mey,Húe mê,teochew.csv
+47,Bee,,蜂,,Pʼhang,Phang,teochew.csv
+47,Grasshopper,,草蜢,,Chaou mè,*Tsháu meè,tiebreak
+47,Cricket,,草蟀,,Chaou sut,Tsháu sut,teochew.csv
+47,White ant,,白蟻,,Pĕ hia,*Pe̍h hiã,tiebreak
+48,Gold,,金,,Kim,Kim,teochew.csv
+48,Silver,,銀,,Gnŭrn,Ngṳ̂n,teochew.csv
+48,Pewter,,錫,,Siă,Siah,teochew.csv
+48,Lead,,鉛,,In,În,teochew.csv
+48,Cast-iron,,鉎,,Sey,Seⁿ,teochew.csv
+48,Iron,,鐵,,Tĭ,Thih,teochew.csv
+48,Copper,,銅,,Tang,Tâng,teochew.csv
+48,White copper,,白銅,,Pĕ tang,Pe̍h tâng,teochew.csv
+48,Brass,,黃銅,黃丨,Ng tang,N̂g tâng,teochew.csv
+48,Copper,,紅銅,紅丨,Ang tang,Âng tâng,teochew.csv
+48,Steel,,鋼,,Kŭng,Kang,teochew.csv
+48,Tin,,白鐵,,Pĕ tĭ,Pe̍h thih,teochew.csv
+48,Tree,,樹,,Chiw,Chhiū,teochew.csv
+48,Root,,根,,Kŭrn,Kṳn,teochew.csv
+48,Branch,,枝,,Ki,Ki,teochew.csv
+48,Trunk,,樹身,,Chiw sin,Chhiū sin,teochew.csv
+48,Bark,,樹皮,,Chiw pue,Chhiū phûe,teochew.csv
+48,Leaf,,葉,,Hiĕ,Hie̍h,teochew.csv
+48,Sap,,樹泥,,Chiw ni,*Chhiū nì,tiebreak
+48,Flower,,花,,Hue,Hue,teochew.csv
+48,Bud,,芽,,Gey,Gê,teochew.csv
+48,Fruit,,菓子,,Kuey chi,Kúe chí,teochew.csv
+48,Husk,,粗糠,,Chou kŭng,Tshu khng,teochew.csv
+48,Rind,,皮,,Pue,Phûe,teochew.csv
+48,Pulp,,菓子肉,,Kuey chi nĕk,Kúe chí ne̍k,teochew.csv
+48,Seed,,核,,Hut,Hu̍t,teochew.csv
+48,tree,,柑欉,柑𣜒,Ka chang,*Kaⁿ tsâng,tiebreak
+48,Pomegranate,,石榴欉,石榴丨,Siĕ liw chang,*Sie̍h liû tsâng,tiebreak
+49,Cucumber,,吊瓜,,Tiou kue,Tiòu kue,teochew.csv
+49,Pumpkin,,金瓜,,Kim kue,Kim kue,teochew.csv
+49,Squash,,冬瓜,,Tang kue,Tang kue,teochew.csv
+49,Watermelon,,西瓜,,Si kue,Si kue,teochew.csv
+49,Mustard,,芥子,,Kai chi,Kài chí,teochew.csv
+49,Bean,,荳,,Taou,Tāu,teochew.csv
+49,Turnip,,菜頭,,Chai taou,Tshài thâu,teochew.csv
+49,Cabbage,,番茄藍,,Hwan kă na,*Huan kia nâ,tiebreak
+49,Onion,,蔥頭,,Chang taou,Tshang thâu,teochew.csv
+49,Garlic,,蒜頭,,Sŭng taou,Sǹg thâu,teochew.csv
+49,Pepper,,楜椒,,Hou chie,*Hou chie,rule
+49,Chilli,,辣椒,,Hiem chie,Lua̍h chie,teochew.csv
+49,Potatoe,,蕃葛,,Hwan kuă,Huan kuah,teochew.csv
+49,Yam,,大薯,,Toa chŭr,Tūa tsṳ̂,teochew.csv
+49,Rice,,米,,Bi,Bí,teochew.csv
+49,Rice,,飯,,Pŭng,*Pn̄g,tiebreak
+49,Cake,,粿,,Kuèy,*Kuèy,rule
+49,Biscuit,,餅,,Pia,Piáⁿ,teochew.csv
+49,Congee,,粥,,Mue,Io̍k,teochew.csv
+49,Soup,,湯,,Tŭng,*Thng,tiebreak
+49,Tea (leaf),,茶米,,Tey bi,Tê bí,teochew.csv
+49,Tea,,茶,,Tey,Tê,teochew.csv
+49,Water,,水,,Chui,Tsúi,teochew.csv
+49,Vinegar,,醋,,Cʼhou,Tshù,teochew.csv
+49,Spirits,,酒,,Chiw,Chiú,teochew.csv
+49,Wine,,汁,,Chap,Tsap,teochew.csv
+49,Milk,,牛乳,,Gu ni,Gû nĩ,teochew.csv
+49,Butter,,牛乳油,,Gu ni yiw,Gû nĩ iû,teochew.csv
+49,Cheese,,牛乳餅,,Gu ni pia,Gû nĩ piáⁿ,teochew.csv
+49,Egg,,卵,,Nŭng,Nñg,teochew.csv
+49,Sugar,,糖,,Tŭng,Thn̂g,teochew.csv
+49,Molasses,,糖水,,Tŭng chui,Thn̂g tsúi,teochew.csv
+49,Salt,,鹽,𪉩,Yiam,Iâm,teochew.csv
+49,Beef,,牛肉,,Gu bă,Gû bah,teochew.csv
+49,Pork,,猪肉,,Tŭr bă,Tṳ bah,teochew.csv
+49,Fowl,,雞,,Koi,Koi,teochew.csv
+49,Fish,,魚,,Hŭr,Hṳ̂,teochew.csv
+49,Bread,,麵包,,Mi paou,Mī pau,teochew.csv
+50,Time,,時,,Si,Sî,teochew.csv
+50,Eternity,,永遠,,Yong yen,*Ióng ién,tiebreak
+50,The four season,,四時,,Si si,Sì sî,teochew.csv
+50,Spring,,春,,Chun,Tshun,teochew.csv
+50,Summer,,夏,,Hey,*Hē,tiebreak
+50,Autumn,,秋,,Chiw,Chhiu,teochew.csv
+50,Winter,,冬,,Tang,Tang,teochew.csv
+50,Year,,年,,Ni,Nî,teochew.csv
+50,Month,,月,,Guĕ,Gu̍eh,teochew.csv
+50,Week,,禮拜,,Loi pai,Lói pài,teochew.csv
+50,Day,,日,,Jit,Ji̍t,teochew.csv
+50,Hour,,一點鐘,,Chek tiem cheng,Che̍k tiám cheng,teochew.csv
+50,Day time,,日間,,Jit kan,Ji̍t kan,teochew.csv
+50,Night time,,夜時,,Mey si,Mê sî,teochew.csv
+50,Morning,,眠起,,Meng ki,*Mèng khí,tiebreak
+50,Noon,,日午,,Jit taou,Ji̍t ngóu,teochew.csv
+50,Afternoon,,下午,,E kwa,*Ē ngóu,tiebreak
+50,Evening,,夜昏,,Mey hñg,Mê hng,teochew.csv
+50,Midnight,,半夜,,Poa mey,Pùaⁿ mê,teochew.csv
+50,Day light,,天光早,,Ti kŭng cha,*Thiⁿ kuang tsá,tiebreak
+50,Sunrise,,日出,,Jit chŭt,Ji̍t tshut,teochew.csv
+50,Sun down,,日落,,Jit lŏ,Ji̍t lo̍h,teochew.csv
+50,To day,,今日,,Kim jit,Kim ji̍t,teochew.csv
+50,Yesterday,,昨日,,Cha jit,*Tsa ji̍t,tiebreak
+50,Day before yesterday,,絶日,,Chŏ jit,Tso̍h ji̍t,teochew.csv
+50,Tomorrow,,明早,明日,Moa cha,Mê tsá,teochew.csv
+50,Day after tomorrow,,後日,,Ow jit,Aũ ji̍t,teochew.csv
+50,Sabbath day,,禮拜日,,Loi pai jit,Lói pài ji̍t,teochew.csv
+50,This year,,今年,,Kim ni,Kim nî,teochew.csv
+50,Next year,,明年,,Mey ni,Mê nî,teochew.csv
+50,Last year,,舊年,,Ku ni,*Kū nî,tiebreak
+50,New year,,過年,,Kue ni,Kùe nî,teochew.csv
+50,First month,,正月,,Chia guĕ,*Chiàⁿ gu̍eh,tiebreak
+50,First day,,初一,,Chiw it,Tshu it,teochew.csv
+50,Daily,,日日,,Jit jit,Ji̍t ji̍t,teochew.csv
+50,Quickly,,猛猛,,Mey mey,Mé mé,teochew.csv
+50,Slowly,,慢慢,緩緩,Man man,Mān mān,teochew.csv
+50,Presently,,霎時,,Siĕp si,Siap sî,teochew.csv
+50,Another day,,下日,,E jit,*Ē ji̍t,tiebreak
+51,Clothes,,衣服,,I hok,*I ho̍k,tiebreak
+51,Crown,,皇帝帽,,Hwang ti baw,Huâng tì bō,teochew.csv
+51,Hat,,㡌,,Baw,*Bo,rule
+51,Cap,,㡌囝,丨子,Baw kia,*Bo kia,rule
+51,Turban,,頭布,,Taou pou,Thâu pòu,teochew.csv
+51,Jacket,,衫,,Sa,Saⁿ,teochew.csv
+51,Pantaloons,,褲,,Khou,Khòu,teochew.csv
+51,Vest,,甲囝,甲子,Kă kia,Kah kiáⁿ,teochew.csv
+51,Stockings,,襪,,Boĕ,Bue̍h,teochew.csv
+51,Shirt,,身底衫,,Sin toi sa,Sin tói saⁿ,teochew.csv
+51,Gown,,大領衫,大領丨,Toa nia sa,Tūa niá saⁿ,teochew.csv
+51,Apron,,圍腰布,,Ui ie pou,*Uî ie pòu,tiebreak
+51,Cloak,,風幔,風𧜞,Huang moa,Huang mua,teochew.csv
+51,Girdle,,褲頭帶,,Khou taou toa,*Khòu thâu tùa,tiebreak
+51,Button,,鈕,,Niw,Niú,teochew.csv
+51,Button hole,,鈕縫,丨𦕎,Niw pan,Niú phāng,teochew.csv
+51,Comb,,梳,,Siw,Siu,teochew.csv
+51,Hair pin,,如意,,Ju i,Zû ì,teochew.csv
+51,Anklets,,骹環,脚𤨔,Ka hwan,Kha huân,teochew.csv
+51,Bracelets,,手環,手𤨔,Chiw hwan,Chhiú huân,teochew.csv
+51,Finger ring,,手節,,Chiw chăt,Chhiú tsat,teochew.csv
+51,Ear ring,,耳鈎,,Hi kaou,Hĩⁿ kau,teochew.csv
+51,Buckle,,鈕扣,,Niw khaou,Niú khàu,teochew.csv
+51,Needle,,針,,Cham,Tsam,teochew.csv
+51,Cord,,䌇囝,䌇子,Sŏ kia,Soh kiáⁿ,teochew.csv
+51,Thread,,線,,Soa,Sùaⁿ,teochew.csv
+51,Silk,,絲,,Si,Si,teochew.csv
+51,Cotton,,紗,,Sey,Se,teochew.csv
+51,Silk,,綾,,Lin,Lîn,teochew.csv
+51,Velvet,,絨,,Jong,Zông,teochew.csv
+51,Broadcloth,,哖,,Ni,*Ni,rule
+51,Crape,,縐紗,,Jiow sey,*Jiâu se,tiebreak
+51,Satin,,緞,縀,Tŭng,Tn̄g,teochew.csv
+51,Lace,,絲帶,,Si toa,*Si tùa,tiebreak
+51,Canvass,,帆布,㠶布,Pang pou,Phâng pòu,teochew.csv
+51,Staff,,杖,,Chiang,Chiãng,teochew.csv
+51,Umbrella,,雨傘,,Hou sua,*Hõu sùaⁿ,tiebreak
+51,Fan,,扇,,Si,Sìⁿ,teochew.csv
+51,Purse,,銀桶,,Gnŭrn tong,Ngṳ̂n thóng,teochew.csv
+52,1 Thread,,一條線,,Chĕk *tiou* sua,Che̍k *tiôu* sùaⁿ,teochew.csv
+52,2 Braids,,二條辮,二丨辮,Naw ~~„~~(tiou) pi,*Nõ ~~„~~(tiôu) piⁿ,tiebreak
+52,3 Bathing cloths,,三條浴布,三丨浴布,Sa ~~„~~(tiou) ĕk pou,Saⁿ ~~„~~(tiôu) e̍k pòu,teochew.csv
+52,4 Turbans,,四條頭布,四丨頭布,Si ~~„~~(tiou) taou pou,Sì ~~„~~(tiôu) thâu pòu,teochew.csv
+52,5 Cravats,,五條封領,五丨封領,Gñou ~~„~~(tiou) huang nia,*Ngõu ~~„~~(tiôu) huang niá,tiebreak
+52,6 Bands,,六條帶,六丨帶,Lak ~~„~~(tiou) toa,*La̍k ~~„~~(tiôu) tùa,tiebreak
+52,7 Towels,,七條面巾,七丨面巾,Chĭt ~~„~~(tiou) min kŭrn,Chhit ~~„~~(tiôu) mīn kṳn,teochew.csv
+52,8 Handkerchiefs,,八條手巾,八丨手巾,Poĭ ~~„~~(tiou) chiw kŭrn,Poih ~~„~~(tiôu) chhiú kṳn,teochew.csv
+52,9 Hairs,,九條頭毛,九丨頭毛,Kaou ~~„~~(tiou) taou maw,Káu ~~„~~(tiôu) thâu mô,teochew.csv
+52,10 Ropes,,十條䌇,十丨䌇,Chap ~~„~~(tiou) sŏ,Tsa̍p ~~„~~(tiôu) soh,teochew.csv
+52,11 Fowls,,十一隻雞,,Chap it *chiă* koi,Tsa̍p it *chiah* koi,teochew.csv
+52,12 Ducks,,十二隻鴨,十二丨鴨,Chap ji ~~„~~(chiă) ăh,*Tsa̍p jī ~~„~~(chiah) ah,tiebreak
+52,13 Geese,,十三隻鵝,十三丨鵝,Chap sa ~~„~~(chiă) gaw,Tsa̍p saⁿ ~~„~~(chiah) gô,teochew.csv
+52,14 Dogs,,十四隻狗,十四丨狗,Chap si ~~„~~(chiă) kaou,Tsa̍p sì ~~„~~(chiah) káu,teochew.csv
+52,15 Goats,,十五隻羊,十五丨羊,Chap gñou ~~„~~(chiă) ie,*Tsa̍p ngõu ~~„~~(chiah) iêⁿ,tiebreak
+52,16 Pigs,,十六隻猪,十六丨猪,Chap lak ~~„~~(chiă) tŭr,Tsa̍p la̍k ~~„~~(chiah) tṳ,teochew.csv
+52,17 Cows,,十七隻牛,十七丨牛,Chap chĭt ~~„~~(chiă) gu,Tsa̍p chhit ~~„~~(chiah) gû,teochew.csv
+52,18 Chairs,,十八隻椅,十八丨𬃪,Chap poĭ ~~„~~(chiă) ì,*Pak chiah ~~„~~(íⁿ) ì,tiebreak
+52,19 Tables,,十九隻床,十九丨床,Chap kaou ~~„~~(chiă) chŭng,Tsa̍p káu ~~„~~(chiah) tshn̂g,teochew.csv
+52,20 Boats,,二十隻船,二十丨船,Ji chap ~~„~~(chiă) chun,*Jī tsa̍p ~~„~~(chiah) tsûn,tiebreak
+53,21 Blankets,,二一領被,,Ji it *nia* poe,*Jī it *niá* phũe,tiebreak
+53,22 Mattresses,,二二領褥,,Ji ji ~~„~~(nia) jok,*Jī jī ~~„~~(niá) zo̍k,tiebreak
+53,23 Carpets,,二三領氊,,Ji sa ~~„~~(nia) chien,*Jī saⁿ ~~„~~(niá) chien,tiebreak
+53,24 Gowns,,二四領袍,,Ji si ~~„~~(nia) kaou,*Jī sì ~~„~~(niá) phâu,tiebreak
+53,25 Curtains,,二五領虻帳,,Ji gñou ~~„~~(nia) mang ta,*Ji ngou ~~„~~(nia) mang ta,rule
+53,26 Mats,,二六領草蓆,,Ji lak ~~„~~(nia) chaou chiĕ,*Jī la̍k ~~„~~(niá) tsháu chhie̍h,tiebreak
+53,27 Bamboo,,二七領竹蓆,二七領竹丨,Ji chĭt ~~„~~(nia) tek chiĕ,*Jī chhit ~~„~~(niá) tek chhie̍h,tiebreak
+53,28,,二八領籐蓆,二八領籐丨,Ji poĭ ~~„~~(nia) tin chiĕ,*Jī poih ~~„~~(niá) tin chhie̍h,tiebreak
+53,29,,二九領京捫蓆,,Ji kaou ~~„~~(nia) kia bun chiĕ,*Jī káu ~~„~~(niá) kiaⁿ mông chhie̍h,tiebreak
+53,30 Rain jackets,,三十領棕蓑,,Sa chap ~~„~~(nia) chang sui,Saⁿ tsa̍p ~~„~~(niá) tsang sui,teochew.csv
+53,1 Close cap,,一頂紗㡌,,Chĕk *teng* sey baw,*Chek *teng* se bo,rule
+53,2 Satin caps,,二頂緞㡌,二頂縀丨,Naw ~~„~~(teng) tŭng baw,*No ~~„~~(teng) tungh bo,rule
+53,3 Felt hats,,三頂毡㡌,三頂毡丨,Sa ~~„~~(teng) chi baw,*Sa ~~„~~(teng) chi bo,rule
+53,4 Tassel'd caps,,四頂纓㡌,,Si ~~„~~(teng) eng baw,*Si ~~„~~(teng) eng bo,rule
+53,5 Straw hats,,五頂草㡌,,Gñou ~~„~~(teng) chaou baw,*Ngou ~~„~~(teng) tsau bo,rule
+53,6 Bamboo hats,,六頂葵笠,六丨葵笠,Lak ~~„~~(teng) kuey loĭ,La̍k ~~„~~(téng) kûe loi̍h,teochew.csv
+53,1 Trunk,,一骹箱,一脚箱,Chĕk *kʼha* sie,Che̍k *kha* sieⁿ,teochew.csv
+53,2 Baskets,,二骹囊,二脚囊,Naw ~~„~~(kʼha) lang,*Nõ ~~„~~(kha) láng,tiebreak
+53,3 Chests of drawers,,三骹櫃,三脚櫃,Sa ~~„~~(kʼha) kñui,Saⁿ ~~„~~(kha) kūi,teochew.csv
+53,4 Water pails,,四骹水桶,四脚水桶,Si ~~„~~(kʼha) chui tang,Sì ~~„~~(kha) tsúi tháng,teochew.csv
+54,1 Pr. of shoes,,一雙𩋘,一䨇𩋘,Chĕk *sang* oi,*Chek *sang* oi,rule
+54,2 Pr. of socks,,二雙襪,二丨襪,Naw ~~„~~(sang) buĕ,Nõ ~~„~~(sang) bue̍h,teochew.csv
+54,3 Pr. of feet,,三雙骹,三丨脚,Sa ~~„~~(sang) kʼha,Saⁿ ~~„~~(sang) kha,teochew.csv
+54,4 Pr. of hands,,四雙手,四丨手,Si ~~„~~(sang) chiw,Sì ~~„~~(sang) chhiú,teochew.csv
+54,5 Pr. of eyes,,五雙目,五丨目,Gñou ~~„~~(sang) măk,*Ngõu ~~„~~(sang) ma̍k,tiebreak
+54,6 Pr. of ears,,六雙耳,六丨耳,Lak ~~„~~(sang) hñi,La̍k ~~„~~(sang) hĩⁿ,teochew.csv
+54,7 Pr. of chop sticks,,七雙箸,七丨著,Chĭt ~~„~~(sang) tŭr,Chhit ~~„~~(sang) tṳ̄,teochew.csv
+54,1 Pr. of ornamental papers,,一對對聯,,Chĕk *tui* tui lien,Che̍k *tùi* tùi liên,teochew.csv
+54,2 Pr. of ear rings,,二對耳環,二對耳𤨔,Naw ~~„~~(tui) hñi huan,Nõ ~~„~~(tùi) hĩⁿ huân,teochew.csv
+54,3 Pr. of bracelets,,三對手~~𤨔~~(環),三對手丨),Sa ~~„~~(tui) chiw huan,Saⁿ ~~„~~(tùi) chhiú huân,teochew.csv
+54,4 Pr. of door handles,,四對門~~𤨔~~(環),四對門丨),Si ~~„~~(tui) mŭng huan,Sì ~~„~~(tùi) mn̂g huân,teochew.csv
+54,1 Paper of tea,,一包茶米,,Chĕk *paou* tey bi,Che̍k *pau* tê bí,teochew.csv
+54,2 Papers of medicine,,二包藥,二丨藥,Naw ~~„~~(paou) iĕ,Nõ ~~„~~(pau) ie̍h,teochew.csv
+54,3 Paper of sugar,,三包白糖,三丨白糖,Sa ~~„~~(paou) pĕ tŭng,Saⁿ ~~„~~(pau) pe̍h thn̂g,teochew.csv
+54,1 Brick,,一塊磚,,Chĕk *kaw* chŭng,Che̍k *kò* tsng,teochew.csv
+54,2 Stones,,二塊石,二丨石,Naw ~~„~~(kaw) chiĕ,Nõ ~~„~~(kò) chie̍h,teochew.csv
+54,3 Tiles,,三塊瓦,三丨瓦,Sa ~~„~~(kaw) hia,Saⁿ ~~„~~(kò) hiã,teochew.csv
+54,4 Lumps of earth,,四塊塗,四丨塗,Si ~~„~~(kaw) tou,Sì ~~„~~(kò) tôu,teochew.csv
+54,5 Sticks of wood,,五塊柴,五丨柴,Gñou ~~„~~(kaw)  cha,*Ngõu ~~„~~(kò)  tshâ,tiebreak
+54,6 Biscuits,,六塊餅,六丨餅,Lăk ~~„~~(kaw) pia,La̍k ~~„~~(kò) piáⁿ,teochew.csv
+55,7 Boards,,七塊枋,,Chit *kaw* pang,*Chhit *kò* pang,tiebreak
+55,8 Cakes,,八塊粿,八丨粿,Poĭ ~~„~~(kaw) Poĭ kuey,*Poih ~~„~~(ko) Poih kue,rule
+55,9 Pieces of pork,,九塊猪肉,九丨猪肉,Kaou ~~„~~(kaw) tŭr bă,Káu ~~„~~(kò) tṳ bah,teochew.csv
+55,1 Button,,一粒鈕,,Chĕk *liĕp* niw,Che̍k *lia̍p* niú,teochew.csv
+55,2 Grains of rice,,二粒米,二丨米,Naw ~~„~~(liĕp) bi,Nõ ~~„~~(lia̍p) bí,teochew.csv
+55,3 Mangoes,,三粒榱,三丨榱,Sa ~~„~~(liĕp) sñuai,Saⁿ ~~„~~(lia̍p) suāiⁿ,teochew.csv
+55,4 Beans,,四粒荳,四丨荳,Si ~~„~~(liĕp) taou,Sì ~~„~~(lia̍p) tāu,teochew.csv
+55,5 Pearls,,五粒珠,五丨珠,Gñou ~~„~~(liĕp) chu,*Ngõu ~~„~~(lia̍p) tsu,tiebreak
+55,6 Onions,,六粒葱頭,六丨葱頭,Lak ~~„~~(liĕp) chang taou,La̍k ~~„~~(lia̍p) tshang thâu,teochew.csv
+55,7 Chillies,,七粒辣椒,七丨辣椒,Chĭt ~~„~~(liĕp) hĭem chie,Chhit ~~„~~(lia̍p) lua̍h chie,teochew.csv
+55,8 Peppers,,八粒楜椒,八丨楜椒,Poĭ ~~„~~(liĕp) hou chie,*Poih ~~„~~(liep) hou chie,rule
+55,9 Pills,,九粒藥丸,九丨藥丸,Kaou ~~„~~(liĕp) iĕ i,Káu ~~„~~(lia̍p) ie̍h îⁿ,teochew.csv
+55,1 Bundle of chopsticks,,一把箸,一把著,Chĕk *pèy* tŭr,*Chek *pèy* tṳh,rule
+55,2 Bundles of sugar cane,,二把蔗,二丨樜,Naw ~~„~~(pèy) chia,*No ~~„~~(pèy) chia,rule
+55,3 Handfuls of rice,,三把米,三丨米,Sa ~~„~~(pèy) bi,*Sa ~~„~~(pèy) bi,rule
+55,1 Piece of cloth,,一疋布,,Chĕk *pĭt* pou,Che̍k *phit* pòu,teochew.csv
+55,1 Umbrella,,一枝雨傘,,Chĕk *ki* hou sua,*Che̍k *ki* hõu sùaⁿ,tiebreak
+55,2 Chattas,,二枝凉傘,二丨凉傘,Naw ~~„~~(ki) ney sua,Nõ ~~„~~(ki) liâng sùaⁿ,teochew.csv
+55,3 Bearing poles,,三枝平擔,三丨平擔,Sa ~~„~~(ki) poi ta,*Saⁿ ~~„~~(ki) pêⁿ taⁿ,tiebreak
+55,4 Bamboos,,四枝竹,四丨竹,Si ~~„~~(ki) tek,Sì ~~„~~(ki) tek,teochew.csv
+56,5 Pencils,,五枝筆,,Gñou *ki* pit,*Ngõu *ki* pit,tiebreak
+56,6 Knives,,六枝刀,,Lak ~~„~~(ki) taw,La̍k ~~„~~(ki) to,teochew.csv
+56,7 Hatchets,,七枝斧頭,,Chĭt ~~„~~(ki) pou taou,Chhit ~~„~~(ki) póu thâu,teochew.csv
+56,8 Nails,,八枝鐵釘,,Poĭ ~~„~~(ki) tĭ teng,*Poih ~~„~~(ki) thih teng,tiebreak
+56,9 Forks,,九枝鐵义,,Kaou ~~„~~(ki) tĭ chey,*Kau ~~„~~(ki) tih che,rule
+56,10 Lamp stands,,十枝錫燈,,Chap ~~„~~(ki) siă teng,Tsa̍p ~~„~~(ki) siah teng,teochew.csv
+56,11 Glass lamps,,十一枝玻璃燈,,Chap it ~~„~~(ki) paw li teng,Tsa̍p it ~~„~~(ki) po lî teng,teochew.csv
+56,12 Staves,,十二枝拐杖,,Chap ji ~~„~~(ki) kuai chiang,*Tsa̍p jī ~~„~~(ki) kuái chiãng,tiebreak
+56,13 Canes,,十三枝棍,,Chap sa ~~„~~(ki) kun,Tsa̍p saⁿ ~~„~~(ki) kùn,teochew.csv
+56,14 Fans,,十四枝扇,,Chap si ~~„~~(ki) si,Tsa̍p sì ~~„~~(ki) sìⁿ,teochew.csv
+56,1 Roll of cloth,,一捆布,,Chĕk *kʼhun* pou,Che̍k *khún* pòu,teochew.csv
+56,2 Rolls of mats,,二捆草蓆,,Naw ~~„~~(kʼhun) chaou chiĕ,Nõ ~~„~~(khún) tsháu chhie̍h,teochew.csv
+56,1 Ink stand,,一箇硯,,Chek *kai* i,*Che̍k *kài* īⁿ,tiebreak
+56,2 Pencil stands,,二箇筆架,二丨筆架,Naw ~~„~~(kai) pĭt key,*Nõ ~~„~~(kài) pit kè,tiebreak
+56,3 Writing trays,,三箇筆盤,三丨丨盤,Sa ~~„~~(kai) pĭt poa,*Saⁿ ~~„~~(kài) pit pûaⁿ,tiebreak
+56,4 Water cups,,四箇水碟,四丨水碟,Si ~~„~~(kai) chui tĭ,*Sì ~~„~~(kài) tsúi ti̍h,tiebreak
+56,5 Pencil cases,,五箇筆套,五丨筆套,Gñou ~~„~~(kai) pĭt tap,*Ngõu ~~„~~(kài) pit thàu,tiebreak
+56,6 Oranges,,六箇柑,六丨柑,Lak ~~„~~(kai) ka,*La̍k ~~„~~(kài) kaⁿ,tiebreak
+56,7 Pumeloes,,七箇柚,七丨柚,Chĭt ~~„~~(kai) yiw,*Chhit ~~„~~(kài) iû,tiebreak
+56,8 Plantains,,八箇芎蕉,八丨芎蕉,Poĭ ~~„~~(kai) keng chie,*Poih ~~„~~(kài) keng chie,tiebreak
+57,1 Bed,,一張眠床,,Chĕk *tie* min chŭng,*Che̍k *tieⁿ* mîn tshn̂g,tiebreak
+57,2 Carriages,,二張馬車,,Naw ~~„~~(tie) bey chia,*Nõ ~~„~~(tieⁿ) bé chhia,tiebreak
+57,3 Looms,,三張扣機,,Sa ~~„~~(tie) kaou kui,*Saⁿ ~~„~~(tieⁿ) khàu kúi,tiebreak
+57,4 Wheels,,四張紡車,,Si ~~„~~(tie) pang chia,*Sì ~~„~~(tieⁿ) pháng chhia,tiebreak
+57,5 Sheets of paper,,五張紙,,Gñou ~~„~~(tie) chua,*Ngõu ~~„~~(tieⁿ) tsúa,tiebreak
+57,6 Nets,,六張網,,Lak ~~„~~(tie) mang,*La̍k ~~„~~(tieⁿ) mãng,tiebreak
+57,1 Room,,一間房,,Chĕk *koi* pang,*Che̍k *koiⁿ* pâng,tiebreak
+57,2 Halls,,二間㕔,,Naw ~~„~~(koi) tia,*No ~~„~~(koi) tia,rule
+57,3 Houses,,三間厝,,Sa ~~„~~(koi) chu,*Saⁿ ~~„~~(koiⁿ) tshù,tiebreak
+57,1 Tree,,一欉樹,一𣜒樹,Chĕk *chang* chiw,*Che̍k *tsâng* chhiū,tiebreak
+57,2 Plants,,二欉花,二𣜒花,Naw ~~„~~(chang) hʼuey,*Nõ ~~„~~(tsâng) hue,tiebreak
+57,3 Weeds,,三欉草,三𣜒草,Sa ~~„~~(chang) chaou,*Saⁿ ~~„~~(tsâng) tsháu,tiebreak
+57,1 Flower,4 Flowers,一蕊花,,Chĕk *lui* huey,Che̍k *lúi* hue,teochew.csv
+57,1 Compound,,一圍厝,,Chĕk *ui* chu,*Che̍k *uî* tshù,tiebreak
+57,2 Flower gardens,,二圍花園,,Naw ~~„~~(ui) huey hñg,*Nõ ~~„~~(uî) hue hn̂g,tiebreak
+57,3 Vegetable gardens,,三圍菜園,,Sa ~~„~~(ui) chai hñg,*Saⁿ ~~„~~(uî) tshài hn̂g,tiebreak
+57,1 Book,,一本書冊,,Chĕk *pung* chŭr chĕ,Che̍k *pún* tsṳ chheh,teochew.csv
+57,2 Blank books,,二本書簿,,Naw ~~„~~(pung) siou pou,Nõ ~~„~~(pún) su phõu,teochew.csv
+57,1 Sentence,,一句書,,Chĕk *ku* chŭr,*Che̍k *kù* tsṳ,tiebreak
+57,2 Remarks,,二句話,,Naw ~~„~~(ku) wey,*Nõ ~~„~~(kù) uē,tiebreak
+58,1st,,初一,,Chiw it,Tshu it,teochew.csv
+58,2nd,,初二,,Chiw ji,*Tshu jī,tiebreak
+58,4th,,初四,,Chiw si,Tshu sì,teochew.csv
+58,5th,,初五,,Chiw gñou,*Tshu ngõu,tiebreak
+58,6th,,初六,,Chiw lak,Tshu la̍k,teochew.csv
+58,7th,,初七,,Chiw chĭt,Tshu chhit,teochew.csv
+58,8th,,初八,,Chiw poĭ,Tshu poih,teochew.csv
+58,9th,,初九,,Chiw kaou,Tshu káu,teochew.csv
+58,10th,,初十,,Chiw chap,Tshu tsa̍p,teochew.csv
+58,11th,,十一,,Chap it,Tsa̍p it,teochew.csv
+58,15th,,十五,,Chap gñou,*Tsa̍p ngõu,tiebreak
+58,17th,,十七,,Chap chĭt,Tsa̍p chhit,teochew.csv
+58,19th,,十九,,Chap kaou,Tsa̍p káu,teochew.csv
+58,20th,,二十,,Ji chap,*Jī tsa̍p,tiebreak
+58,21st,,二一,,Ji it,*Jī it,tiebreak
+58,22nd,,二二,,Ji ji,*Jī jī,tiebreak
+58,25th,,二五,,Ji gñou,*Jī ngõu,tiebreak
+58,30th,,三十,,Sa chap,Saⁿ tsa̍p,teochew.csv
+58,Season,,季,,Kʼhui,Khùi,teochew.csv
+58,Spring,,春,,Chun,Tshun,teochew.csv
+58,Summer,,夏,,Hey,*Hē,tiebreak
+58,Autumn,,秋,,Chiw,Chhiu,teochew.csv
+58,Winter,,冬,,Tang,Tang,teochew.csv
+58,Year,,年,,Ni,Nî,teochew.csv
+58,11 to 1 A.M.,,子,,Chŭr,Tsṳ́,teochew.csv
+58,1 to 3,,丑,,Tiw,Thiú,teochew.csv
+58,3 to 5,,寅,,In,În,teochew.csv
+58,5 to 7,,邜,,Baou,*Bau,rule
+58,7 to 9,,辰,,Sin,Sîn,teochew.csv
+58,9 to 11,,巳,已,Chi,Chĩ,teochew.csv
+58,11 to 1 P.M.,,午,,Gñou,Ngóu,teochew.csv
+58,1 to 3,,未,,Bi,Bī,teochew.csv
+58,3 to 5,,申,,Sin,Sin,teochew.csv
+58,5 to 7,,酉,,Yiw,Iú,teochew.csv
+58,7 to 9,,戌,,Sut,Sut,teochew.csv
+58,9 to 11,,亥,,Hai,Hãi,teochew.csv
+59,month Mch.,,二月,,Ji guĕ,*Jī gu̍eh,tiebreak
+59,month Apl.,,三月,,Sa guĕ,Saⁿ gu̍eh,teochew.csv
+59,month May,,四月,,Si guĕ,Sì gu̍eh,teochew.csv
+59,month June,,五月,,Gñou guĕ,*Ngõu gu̍eh,tiebreak
+59,month July,,六月,,Lak guĕ,La̍k gu̍eh,teochew.csv
+59,month Aug.,,七月,,Chĭt guĕ,Chhit gu̍eh,teochew.csv
+59,month Sept.,,八月,,Poĭ guĕ,Poih gu̍eh,teochew.csv
+59,month Oct.,,九月,,Kaou guĕ,Káu gu̍eh,teochew.csv
+59,10th month Nov.,,十月,,Chap guĕ,Tsa̍p gu̍eh,teochew.csv
+59,11th month Dec.,,十一月,,Chap it guĕ,Tsa̍p it gu̍eh,teochew.csv
+59,12th month Jan.,,十二月,,Chap ji guĕ,*Tsa̍p jī gu̍eh,tiebreak
+59,Sunday,,禮拜,,Loi pai,Lói pài,teochew.csv
+59,Monday,,拜一,,Pai it,Pài it,teochew.csv
+59,Tuesday,,拜二,,Pai ji,*Pài jī,tiebreak
+59,Wednesday,,拜三,,Pai sa,Pài saⁿ,teochew.csv
+59,Thursday,,拜四,,Pai si,Pài sì,teochew.csv
+59,Friday,,拜五,,Pai gñou,*Pài ngõu,tiebreak
+59,Saturday,,拜六,,Pai lak,Pài la̍k,teochew.csv

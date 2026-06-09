@@ -12,7 +12,8 @@ sys.path.insert(0, str(PROJECT_ROOT))
 _PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
 _TABLE_ROW_RE = re.compile(r"^\|(.+)\|\s*$")
 _SEPARATOR_RE = re.compile(r"^\|[\s\-:|]+\|\s*$")
-_OCR_ARTIFACT_RE = re.compile(r"~~丨~~\(([^)]*)\)")
+_OCR_ARTIFACT_RE = re.compile(r"~~.+?~~\(([^)]*)\)")
+_OCR_ORIG_RE = re.compile(r"~~(.+?)~~\([^)]*\)")
 _CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf]")
 _COMMA_SPLIT_RE = re.compile(r",")
 _SYLLABLE_RE = re.compile(
@@ -29,14 +30,15 @@ _BREVE_TRANS = str.maketrans({
 })
 _TONE_DIGIT_RE = re.compile(r"[1-8]$")
 _ENTERING_END_RE = re.compile(r"[ptk]$")
+_NN_RE = re.compile(r"nn")
 
 
 def _strip_tone(s: str) -> str:
     return _TONE_DIGIT_RE.sub("", s)
 
 
-def parse_markdown(text: str) -> list[tuple[str, str, str, str]]:
-    rows: list[tuple[str, str, str, str]] = []
+def parse_markdown(text: str) -> list[tuple[str, str, str, str, str, str]]:
+    rows: list[tuple[str, str, str, str, str, str]] = []
     page = ""
 
     for line in text.splitlines():
@@ -59,15 +61,17 @@ def parse_markdown(text: str) -> list[tuple[str, str, str, str]]:
         if len(cells) < 3:
             continue
 
-        han = _OCR_ARTIFACT_RE.sub(r"\1", cells[1])
+        han_raw = cells[1]
+        han = _OCR_ARTIFACT_RE.sub(r"\1", han_raw)
         dean_latn_raw = cells[2]
 
         if not _CJK_RE.search(han):
             continue
 
-        english = cells[0]
+        english_raw = cells[0]
+        english = _OCR_ARTIFACT_RE.sub(r"\1", english_raw)
 
-        rows.append((page, english, han, dean_latn_raw))
+        rows.append((page, english, english_raw, han, han_raw, dean_latn_raw))
 
     return rows
 
@@ -153,24 +157,53 @@ def levenshtein(s1: str, s2: str) -> int:
     return prev[-1]
 
 
-def build_han_index(reader: csv.DictReader) -> dict[str, list[tuple[str, str]]]:
-    index: dict[str, list[tuple[str, str]]] = {}
+def _has_combining(puj: str) -> bool:
+    return any("\u0300" <= c <= "\u036f" for c in puj)
+
+
+def build_han_index(reader: csv.DictReader) -> dict[str, list[tuple[str, str, int]]]:
+    index: dict[str, list[tuple[str, str, int]]] = {}
+    seen_sources: dict[str, set[str]] = {}
     for row in reader:
         puj = (row.get("puj") or "").strip()
         latn_norm = (row.get("latn_norm") or "").strip()
         han = (row.get("han") or "").strip()
+        source = (row.get("source") or "").strip()
         if puj and latn_norm and han:
-            key = (puj, latn_norm)
-            if han not in index or key not in index[han]:
-                index.setdefault(han, []).append((puj, latn_norm))
+            sk = f"{han}\x00{latn_norm}"
+            if sk not in seen_sources:
+                seen_sources[sk] = set()
+            if source and source not in seen_sources[sk]:
+                seen_sources[sk].add(source)
+            existing = {c[1]: i for i, c in enumerate(index.get(han, []))}
+            if latn_norm in existing:
+                i = existing[latn_norm]
+                if not _has_combining(index[han][i][0]) and _has_combining(puj):
+                    index[han][i] = (puj, latn_norm, len(seen_sources[sk]))
+            else:
+                index.setdefault(han, []).append((puj, latn_norm, len(seen_sources[sk])))
     return index
 
 
 def _base_form(s: str) -> str:
-    return _TONE_DIGIT_RE.sub("", s)
+    return _NN_RE.sub("\u00f1", _TONE_DIGIT_RE.sub("", s))
 
 
-_NASAL_CODA_RE = re.compile(r"(nnh?|m|ng|n)$")
+_NASAL_CODA_RE = re.compile(r"(\u00f1h?|nnh?|m|ng|n)$")
+_CONSONANT_CODA_RE = re.compile(r"(ng|[ptkmn])$")
+
+
+def _has_consonant_coda(s: str) -> bool:
+    base = _base_form(s)
+    return bool(_CONSONANT_CODA_RE.search(base))
+
+
+def _common_prefix_len(a: str, b: str) -> int:
+    n = min(len(a), len(b))
+    for i in range(n):
+        if a[i] != b[i]:
+            return i
+    return n
 
 
 def _pre_coda(s: str) -> str:
@@ -180,40 +213,42 @@ def _pre_coda(s: str) -> str:
 def lookup_puj_for_row(
     han_chars: list[str],
     dean_syllables: list[str],
-    han_index: dict[str, list[tuple[str, str]]],
-) -> list[str | None] | None:
+    han_index: dict[str, list[tuple[str, str, int]]],
+) -> tuple[list[str | None], set[int]]:
     n_dean = len(dean_syllables)
     n_han = len(han_chars)
     if n_dean == 0 or n_han == 0:
-        return None
+        return None, set()
     if n_dean > n_han:
-        return None
+        return None, set()
     offset = n_han - n_dean
     tail_han = han_chars[offset:]
     tail_dean = dean_syllables
     for ch in tail_han:
         if ch not in han_index:
-            return None
+            return None, set()
     result: list[str | None] = []
-    for han, raw_dean in zip(tail_han, tail_dean):
+    tie_indices: set[int] = set()
+    for idx, (han, raw_dean) in enumerate(zip(tail_han, tail_dean)):
         candidates = han_index[han]
         if len(candidates) == 1:
             result.append(candidates[0][0])
         else:
             norm_dean = normalize_dean_syllable(raw_dean)
-            pre_coda_forms = {_pre_coda(c[1]) for c in candidates}
-            if len(pre_coda_forms) == 1 and len(candidates) > 1:
-                scored = [(levenshtein(norm_dean, _base_form(c[1])), c) for c in candidates]
-                scored.sort(key=lambda x: (x[0], x[1][0]))
-                result.append(scored[0][1][0])
-                continue
-            scored = [(levenshtein(norm_dean, _base_form(c[1])), c) for c in candidates]
-            scored.sort(key=lambda x: (x[0], x[1][0]))
-            if len(scored) > 1 and scored[0][0] == scored[1][0]:
-                result.append(None)
-                continue
-            result.append(scored[0][1][0])
-    return result
+            dean_len = len(norm_dean)
+            scored = [(
+                levenshtein(norm_dean, _base_form(c[1])),
+                _has_consonant_coda(c[1]),
+                abs(len(_base_form(c[1])) - dean_len),
+                -_common_prefix_len(norm_dean, _base_form(c[1])),
+                -c[2],
+                c,
+            ) for c in candidates]
+            scored.sort(key=lambda x: (x[0], x[1], x[2], x[3], x[4], x[5][0]))
+            if len(scored) > 1 and scored[0][:4] == scored[1][:4]:
+                tie_indices.add(idx)
+            result.append(scored[0][5][0])
+    return result, tie_indices
 
 
 def _extract_han_chars(text: str) -> list[str]:
@@ -245,39 +280,47 @@ def _reconstruct(original: str, replacements: list[str]) -> str:
     return _reconstruct_tail(original, replacements)
 
 
+def _differs_after_fix(raw: str, fixed: str) -> str:
+    orig = _OCR_ORIG_RE.sub(r"\1", raw) if _OCR_ORIG_RE.search(raw) else ""
+    return orig if orig and orig != fixed else ""
+
+
 def process_rows(
-    rows: list[tuple[str, str, str, str]],
+    rows: list[tuple[str, str, str, str, str, str]],
     teochew_reader: csv.DictReader,
 ) -> list[dict[str, str]]:
     han_index = build_han_index(teochew_reader)
     results: list[dict[str, str]] = []
-    for page, english, han_raw, dean_latn in rows:
-        han_chars = _extract_han_chars(han_raw)
+    for page, english, english_raw, han, han_raw, dean_latn in rows:
+        han_chars = _extract_han_chars(han)
         if not han_chars:
             continue
         dean_syllables = split_dean_syllables(dean_latn)
         puj_entries = lookup_puj_for_row(han_chars, dean_syllables, han_index)
-        if puj_entries is None:
+        if puj_entries[0] is None:
             norm_syllables = [_dean_syllable_to_latn_norm(s) for s in dean_syllables]
             puj = "*" + _reconstruct(dean_latn, norm_syllables)
             source = "rule"
         else:
+            puj_list, tie_indices = puj_entries
             mixed: list[str] = []
-            for i, entry in enumerate(puj_entries):
+            for i, entry in enumerate(puj_list):
                 if entry is not None:
                     mixed.append(entry)
                 else:
                     mixed.append(_dean_syllable_to_latn_norm(dean_syllables[i]))
-            if all(e is not None for e in puj_entries):
-                puj = _reconstruct(dean_latn, mixed)
-                source = "teochew.csv"
+            puj = _reconstruct(dean_latn, mixed)
+            if any(e is None for e in puj_list) or tie_indices:
+                puj = "*" + puj
+                source = "rule" if any(e is None for e in puj_list) else "tiebreak"
             else:
-                puj = "*" + _reconstruct(dean_latn, mixed)
-                source = "rule"
+                source = "teochew.csv"
         results.append({
             "page": page,
             "english": english,
-            "han": han_raw,
+            "english_orig": _differs_after_fix(english_raw, english),
+            "han": han,
+            "han_orig": _differs_after_fix(han_raw, han),
             "dean_latn": dean_latn,
             "puj": puj,
             "source": source,
@@ -303,7 +346,7 @@ def main():
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["page", "english", "han", "dean_latn", "puj", "source"])
+        writer = csv.DictWriter(f, fieldnames=["page", "english", "english_orig", "han", "han_orig", "dean_latn", "puj", "source"])
         writer.writeheader()
         for row in results:
             writer.writerow(row)

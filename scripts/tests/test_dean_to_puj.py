@@ -26,8 +26,11 @@ class TestParseMarkdown(unittest.TestCase):
         md = "<!-- page:14 -->\n| One | 一 | Chĕk |\n| Two | 二 | Naw |"
         rows = parse_markdown(md)
         self.assertEqual(len(rows), 2)
-        self.assertEqual(rows[0], ("14", "One", "一", "Chĕk"))
-        self.assertEqual(rows[1], ("14", "Two", "二", "Naw"))
+        self.assertEqual(rows[0][1], "One")
+        self.assertEqual(rows[0][3], "一")
+        self.assertEqual(rows[0][5], "Chĕk")
+        self.assertEqual(rows[1][3], "二")
+        self.assertEqual(rows[1][5], "Naw")
 
     def test_tracks_page_markers(self):
         md = "<!-- page:14 -->\n| A | 嬰 | Hia |\n<!-- page:17 -->\n| B | 靜 | Tiem |"
@@ -39,7 +42,7 @@ class TestParseMarkdown(unittest.TestCase):
         md = "<!-- page:14 -->\n# VOWEL SOUNDS\n| One | 一 | Chĕk |"
         rows = parse_markdown(md)
         self.assertEqual(len(rows), 1)
-        self.assertEqual(rows[0][3], "Chĕk")
+        self.assertEqual(rows[0][5], "Chĕk")
 
     def test_skips_separator_rows(self):
         md = "<!-- page:14 -->\n|---|---|---|\n| One | 一 | Chĕk |"
@@ -49,18 +52,20 @@ class TestParseMarkdown(unittest.TestCase):
     def test_cleans_ocr_artifacts(self):
         md = "<!-- page:44 -->\n| Six | 六~~丨~~(條)帶 | toa |"
         rows = parse_markdown(md)
-        self.assertEqual(rows[0][2], "六條帶")
+        self.assertEqual(rows[0][3], "六條帶")
 
     def test_handles_phrase_rows(self):
         md = "<!-- page:17 -->\n| Be still | 靜靜 | Tiem tiem |"
         rows = parse_markdown(md)
-        self.assertEqual(rows[0], ("17", "Be still", "靜靜", "Tiem tiem"))
+        self.assertEqual(rows[0][1], "Be still")
+        self.assertEqual(rows[0][3], "靜靜")
+        self.assertEqual(rows[0][5], "Tiem tiem")
 
     def test_handles_comma_in_dean_latn(self):
         md = "<!-- page:24 -->\n| He lives from hand to mouth | 左手挈、右手去 | Chaw chiw khiĕ,yiw chiw khur |"
         rows = parse_markdown(md)
         self.assertEqual(len(rows), 1)
-        self.assertEqual(rows[0][3], "Chaw chiw khiĕ,yiw chiw khur")
+        self.assertEqual(rows[0][5], "Chaw chiw khiĕ,yiw chiw khur")
 
     def test_skips_rows_without_han_chars(self):
         md = "<!-- page:54 -->\n| 28 |  | tin chiĕ |"
@@ -164,11 +169,11 @@ class TestBuildHanIndex(unittest.TestCase):
     def test_index_returns_list_of_puj(self):
         entries = self.index["一"]
         self.assertIsInstance(entries, list)
-        self.assertIn(("chek8", "chek8"), entries)
+        self.assertIn(("chek8", "chek8", 0), entries)
 
     def test_multiple_readings(self):
         entries = self.index["二"]
-        pujs = [p for p, _ in entries]
+        pujs = [p for p, _, _ in entries]
         self.assertIn("nng6", pujs)
         self.assertIn("no6", pujs)
 
@@ -192,44 +197,47 @@ class TestLookupPujForRow(unittest.TestCase):
     def test_single_char_exact_match(self):
         han_chars = ["一"]
         dean_syllables = ["chĕk"]
-        result = lookup_puj_for_row(han_chars, dean_syllables, self.index)
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
         self.assertEqual(result, ["chek8"])
 
     def test_ambiguous_selects_closest(self):
         han_chars = ["二"]
         dean_syllables = ["naw"]
-        result = lookup_puj_for_row(han_chars, dean_syllables, self.index)
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
         self.assertEqual(result, ["no6"])
 
     def test_multiple_chars(self):
         han_chars = ["人"]
         dean_syllables = ["nang"]
-        result = lookup_puj_for_row(han_chars, dean_syllables, self.index)
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
         self.assertEqual(result, ["nang5"])
 
     def test_char_not_in_index_returns_none(self):
         han_chars = ["X"]
         dean_syllables = ["foo"]
-        result = lookup_puj_for_row(han_chars, dean_syllables, self.index)
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
         self.assertIsNone(result)
 
     def test_same_pre_coda_picks_best(self):
         han_chars = ["三"]
         dean_syllables = ["Sa"]
-        sam_index: dict[str, list[tuple[str, str]]] = {
-            "三": [("sam", "sam1"), ("saⁿ", "sann1")],
+        sam_index: dict[str, list[tuple[str, str, int]]] = {
+            "三": [("sam", "sam1", 1), ("sa\u207f", "sann1", 2)],
         }
-        result = lookup_puj_for_row(han_chars, dean_syllables, sam_index)
-        self.assertEqual(result, ["sam"])
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, sam_index)
+        self.assertEqual(result, ["sa\u207f"])
 
     def test_mismatched_counts_ties_returns_none_per_syllable(self):
         han_chars = ["一", "二"]
         dean_syllables = ["chĕk"]
-        result = lookup_puj_for_row(han_chars, dean_syllables, self.index)
-        self.assertEqual(result, [None])
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
+        self.assertEqual(len(result), 1)
+        self.assertIn(0, ties)
 
     def test_extra_syllables_returns_none(self):
         han_chars = ["一"]
         dean_syllables = ["foo", "chĕk", "bar"]
-        result = lookup_puj_for_row(han_chars, dean_syllables, self.index)
+        result, ties = lookup_puj_for_row(han_chars, dean_syllables, self.index)
         self.assertIsNone(result)
+
+
