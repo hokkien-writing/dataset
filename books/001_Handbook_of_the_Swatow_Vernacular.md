@@ -2573,7 +2573,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **大~~頸~~(頷)奎** Tūa-ãm-kui ... ... ... Goitre.
 - **瘤** Liû ... ... ... Tumour.
 - **軟~~丕~~(疕)** Nńg-nîⁿ ... ... ... Palsy.
-- **痒癲** Kuàn-pien ... ... ... Palsy.
+- **~~痒癲~~()** Kuàn-pien ... ... ... Palsy.
 - **~~顚~~(痟)** Sióu ... ... ... Mad.
 - **心神~~不~~(毋)定** Sim-sîn m̄-tiāⁿ ... ... ... Insane.
 - **愩** Kòng ... ... ... Crazy.

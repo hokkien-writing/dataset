@@ -930,7 +930,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **assuredly**, tiāⁿ-tie̍h++(定着)++; mién-gî++(免疑)++.
 
-**asthma**, he-ku-thiu++(嘿龜抽)++; he-tshúan++(嘿喘)++; he-khì++(嘿氣)++.
+**asthma**, he-ku-thiu++(嗄龜抽)++; he-tshúan++(嗄喘)++; he-khì++(嗄氣)++.
 
 **aster**, *(China)*, kek-hue++(菊花)++.
 
@@ -6396,7 +6396,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hatchet**, póu-thâu++(斧頭)++.
 
-**hate**, lóu++(惱)++; lóu-hṳ̃n++(惱恨)++; uàn-hṳ̃n++(怨恨)++; uàn-chhiû++(怨仇)++; ù++(煦)++. *hateful*, khó-ù++(可惡)++; khó-lóu++(可惱)++; khó-cheng khó-ù++(可憎可惡)++; tshūa-nâng-lóu++(𤆬人惱)++.
+**hate**, lóu++(惱)++; lóu-hṳ̃n++(惱恨)++; uàn-hṳ̃n++(怨恨)++; uàn-chhiû++(怨仇)++; ù++(惡)++. *hateful*, khó-ù++(可惡)++; khó-lóu++(可惱)++; khó-cheng khó-ù++(可憎可惡)++; tshūa-nâng-lóu++(𤆬人惱)++.
 
 **haughty**, kiau-ngãu++(驕傲)++; thóiⁿ-nâng m̄-khí++(睇人毋起)++; bô-lói-mãuⁿ++(無禮貌)++; ma̍k-khang khuah++(目空闊)++.
 
@@ -9242,7 +9242,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **palpitate**, sim thiàu++(心跳)++; sim-kuaⁿ pok-pok-thiàu++(心肝卜卜跳)++; sim-kuaⁿ-thâu pok-pok-thiàu++(心肝頭卜卜跳)++.
 
-**palsy**, nńg-nîⁿ++(軟疕)++; nńg-huang++(軟風)++; tòng-huang++(凍風)++. *(one side)*, kuàn-pien++(痒癲)++.
+**palsy**, nńg-nîⁿ++(軟疕)++; nńg-huang++(軟風)++; tòng-huang++(中風)++. *(one side)*, kuàn-pien++()++.
 
 **pan**, tiáⁿ++(鼎)++; thih-ue++(鐵鍋)++; seⁿ-ue++(鍟鍋)++.
 
@@ -13998,7 +13998,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wheel**, lûn++(輪)++; lín++(輪)++; lín-chîⁿ++(輪錢)++; khah-chîⁿ++(較錢)++; chhia-lûn++(車輪)++. *rim of*, chhia-lûn-kîⁿ++(車輪墘)++. *spokes of*, chhia-lûn-tsam++(車輪針)++. *wheel-barrow*, chhiú-chhia++(手車)++; léng-chhia++(輦車)++.
 
-**wheeze**, he++(嘿)++; he-siaⁿ++(嘿聲)++; hm̄-hm̄-kiè++([hm̄-hm̄]叫)++; âu-thâu kō-kō-kiè++(喉頭塊塊叫)++.
+**wheeze**, he++(嗄)++; he-siaⁿ++(嗄聲)++; hm̄-hm̄-kiè++([hm̄-hm̄]叫)++; âu-thâu kō-kō-kiè++(喉頭塊塊叫)++.
 
 **when**, tiâng-sî++(當時)++; tî-sî++(底時)++; tî-tiâng-sî++(底當時)++; tî-kâi sî-hāu++(底个時候)++; sĩ-mih sî-hāu++(是乜時候)++. *when David was king*, Tãi-phek tsò-uâng tiâng-sî++(大闢做王當時)++; Tãi-phek tsò-uâng kâi-sî-hāu++(大闢做王个時候)++. *when he comes we are going*, i lâi ún chiũ-àiⁿ-khṳ̀++(伊來阮就愛去)++. *when....then*, sûi-sî....sûi-sî++(隨時....隨時)++; liên-sî....liên-sî++(連時....連時)++. *when you confess I will let you go*, lṳ́ che̍k-ē-jīn uá chiũ-pàng lṳ́-khṳ̀++(汝一下認我就放汝去)++.
 
