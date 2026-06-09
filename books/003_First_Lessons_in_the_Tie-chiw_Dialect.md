@@ -1578,76 +1578,76 @@ aou | as ou in plough, our, sour. |
 
 |  |  |  |
 |---|---|---|
-| 1  of shoes | 一~~䨇~~(雙)𩋘 | *sang* oi |
-| 2  of socks | 二~~丨~~(雙)襪 | buĕ |
-| 3  of feet | 三~~丨~~(雙)~~脚~~(骹) | kʼha |
-| 4  of hands | 四~~丨~~(雙)手 | chiw |
-| 5  of eyes | 五~~丨~~(雙)目 | măk |
-| 6  of ears | 六~~丨~~(雙)耳 | hñi |
-| 7  of chop sticks | 七~~丨~~(雙)著 | tŭr |
-| 1  of ornamental papers | 一對對聯 | *tui* tui lien |
-| 2  of ear rings | 二對耳~~𤨔~~(環) | hñi huan |
-| 3  of bracelets | 三對手~~丨~~(~~𤨔~~(環)) | chiw huan |
-| 4  of door handles | 四對門~~丨~~(~~𤨔~~(環)) | mŭng huan |
-| 1 Paper of tea | 一包茶米 | *paou* tey bi |
-| 2 Papers of medicine | 二~~丨~~(包)藥 | iĕ |
-| 3 Paper of sugar | 三~~丨~~(包)白糖 | pĕ tŭng |
-| 1 Brick | 一塊磚 | *kaw* chŭng |
-| 2 Stones | 二~~丨~~(塊)石 | chiĕ |
-| 3 Tiles | 三~~丨~~(塊)瓦 | hia |
-| 4 Lumps of earth | 四~~丨~~(塊)塗 | tou |
-| 5 Sticks of wood | 五~~丨~~(塊)柴 | cha |
-| 6 Biscuits | 六~~丨~~(塊)餅 | pia |
+| 1 Pr. of shoes | 一~~䨇~~(雙)𩋘 | Chĕk *sang* oi |
+| 2 Pr. of socks | 二~~丨~~(雙)襪 | Naw ~~„~~(sang) buĕ |
+| 3 Pr. of feet | 三~~丨~~(雙)~~脚~~(骹) | Sa ~~„~~(sang) kʼha |
+| 4 Pr. of hands | 四~~丨~~(雙)手 | Si ~~„~~(sang) chiw |
+| 5 Pr. of eyes | 五~~丨~~(雙)目 | Gñou ~~„~~(sang) măk |
+| 6 Pr. of ears | 六~~丨~~(雙)耳 | Lak ~~„~~(sang) hñi |
+| 7 Pr. of chop sticks | 七~~丨~~(雙)~~著~~(箸) | Chĭt ~~„~~(sang) tŭr |
+| 1 Pr. of ornamental papers | 一對對聯 | Chĕk *tui* tui lien |
+| 2 Pr. of ear rings | 二對耳~~𤨔~~(環) | Naw ~~„~~(tui) hñi huan |
+| 3 Pr. of bracelets | 三對手~~丨~~(~~𤨔~~(環)) | Sa ~~„~~(tui) chiw huan |
+| 4 Pr. of door handles | 四對門~~丨~~(~~𤨔~~(環)) | Si ~~„~~(tui) mŭng huan |
+| 1 Paper of tea | 一包茶米 | Chĕk *paou* tey bi |
+| 2 Papers of medicine | 二~~丨~~(包)藥 | Naw ~~„~~(paou) iĕ |
+| 3 Paper of sugar | 三~~丨~~(包)白糖 | Sa ~~„~~(paou) pĕ tŭng |
+| 1 Brick | 一塊磚 | Chĕk *kaw* chŭng |
+| 2 Stones | 二~~丨~~(塊)石 | Naw ~~„~~(kaw) chiĕ |
+| 3 Tiles | 三~~丨~~(塊)瓦 | Sa ~~„~~(kaw) hia |
+| 4 Lumps of earth | 四~~丨~~(塊)塗 | Si ~~„~~(kaw) tou |
+| 5 Sticks of wood | 五~~丨~~(塊)柴 | Gñou ~~„~~(kaw)  cha |
+| 6 Biscuits | 六~~丨~~(塊)餅 | Lăk ~~„~~(kaw) pia |
 
 <!-- page:55 -->
 
 |  |  |  |
 |---|---|---|
 | 7 Boards | 七塊枋 | Chit *kaw* pang |
-| 8 Cakes | 八~~丨~~(塊)粿 | Poĭ kuey |
-| 9 Pieces of pork | 九~~丨~~(塊)猪肉 | tŭr bă |
-| 1 Button | 一粒鈕 | *liĕp* niw |
-| 2 Grains of rice | 二~~丨~~(粒)米 | bi |
-| 3 Mangoes | 三~~丨~~(粒)榱 | sñuai |
-| 4 Beans | 四~~丨~~(粒)荳 | taou |
-| 5 Pearls | 五~~丨~~(粒)珠 | chu |
-| 6 Onions | 六~~丨~~(粒)葱頭 | chang taou |
-| 7 Chillies | 七~~丨~~(粒)辣椒 | hĭem chie |
-| 8 Peppers | 八~~丨~~(粒)楜椒 | hou chie |
-| 9 Pills | 九~~丨~~(粒)藥丸 | iĕ i |
-| 1 Bundle of chopsticks | 一把著 | *pèy* tŭr |
-| 2 Bundles of sugar cane | 二~~丨~~(把)樜 | chia |
-| 3 Handfuls of rice | 三~~丨~~(把)米 | bi |
-| 1 Piece of cloth | 一疋布 | *pĭt* pou |
-| 1 Umbrella | 一枝雨傘 | *ki* hou sua |
-| 2 Chattas | 二~~丨~~(枝)凉傘 | ney sua |
-| 3 Bearing poles | 三~~丨~~(枝)平擔 | poi ta |
-| 4 Bamboos | 四~~丨~~(枝)竹 | tek |
+| 8 Cakes | 八~~丨~~(塊)粿 | Poĭ ~~„~~(kaw) Poĭ kuey |
+| 9 Pieces of pork | 九~~丨~~(塊)猪肉 | Kaou ~~„~~(kaw) tŭr bă |
+| 1 Button | 一粒鈕 | Chĕk *liĕp* niw |
+| 2 Grains of rice | 二~~丨~~(粒)米 | Naw ~~„~~(liĕp) bi |
+| 3 Mangoes | 三~~丨~~(粒)榱 | Sa ~~„~~(liĕp) sñuai |
+| 4 Beans | 四~~丨~~(粒)荳 | Si ~~„~~(liĕp) taou |
+| 5 Pearls | 五~~丨~~(粒)珠 | Gñou ~~„~~(liĕp) chu |
+| 6 Onions | 六~~丨~~(粒)葱頭 | Lak ~~„~~(liĕp) chang taou |
+| 7 Chillies | 七~~丨~~(粒)辣椒 | Chĭt ~~„~~(liĕp) hĭem chie |
+| 8 Peppers | 八~~丨~~(粒)楜椒 | Poĭ ~~„~~(liĕp) hou chie |
+| 9 Pills | 九~~丨~~(粒)藥丸 | Kaou ~~„~~(liĕp) iĕ i |
+| 1 Bundle of chopsticks | 一把~~著~~(箸) | Chĕk *pèy* tŭr |
+| 2 Bundles of sugar cane | 二~~丨~~(把)~~樜~~(蔗) | Naw ~~„~~(pèy) chia |
+| 3 Handfuls of rice | 三~~丨~~(把)米 | Sa ~~„~~(pèy) bi |
+| 1 Piece of cloth | 一疋布 | Chĕk *pĭt* pou |
+| 1 Umbrella | 一枝雨傘 | Chĕk *ki* hou sua |
+| 2 Chattas | 二~~丨~~(枝)凉傘 | Naw ~~„~~(ki) ney sua |
+| 3 Bearing poles | 三~~丨~~(枝)平擔 | Sa ~~„~~(ki) poi ta |
+| 4 Bamboos | 四~~丨~~(枝)竹 | Si ~~„~~(ki) tek |
 
 <!-- page:56 -->
 
 |  |  |  |
 |---|---|---|
-| 5 Pencils | 五枝筆 | *ki* pit |
-| 6 Knives | 六枝刀 | taw |
-| 7 Hatchets | 七枝斧頭 | pou taou |
-| 8 Nails | 八枝鐵釘 | tĭ teng |
-| 9 Forks | 九枝鐵义 | tĭ chey |
-| 10 Lamp stands | 十枝錫燈 | siă teng |
-| 11 Glass lamps | 十一枝玻璃燈 | paw li teng |
-| 12 Staves | 十二枝拐杖 | kuai chiang |
-| 13 Canes | 十三枝棍 | kun |
-| 14 Fans | 十四枝扇 | si |
-| 1 Roll of cloth | 一捆布 | *kʼhun* pou |
-| 2 Rolls of mats | 二捆草蓆 | chaou chiĕ |
-| 1 Ink stand | 一箇硯 | *kai* i |
-| 2 Pencil stands | 二~~丨~~(箇)筆架 | pĭt key |
-| 3 Writing trays | 三~~丨~~(箇)~~丨~~(筆)盤 | pĭt poa |
-| 4 Water cups | 四~~丨~~(箇)水碟 | chui tĭ |
-| 5 Pencil cases | 五~~丨~~(箇)筆套 | pĭt tap |
-| 6 Oranges | 六~~丨~~(箇)柑 | ka |
-| 7 Pumeloes | 七~~丨~~(箇)柚 | yiw |
-| 8 Plantains | 八~~丨~~(箇)芎蕉 | keng chie |
+| 5 Pencils | 五枝筆 | Gñou *ki* pit |
+| 6 Knives | 六枝刀 | Lak ~~„~~(ki) taw |
+| 7 Hatchets | 七枝斧頭 | Chĭt ~~„~~(ki) pou taou |
+| 8 Nails | 八枝鐵釘 | Poĭ ~~„~~(ki) tĭ teng |
+| 9 Forks | 九枝鐵义 | Kaou ~~„~~(ki) tĭ chey |
+| 10 Lamp stands | 十枝錫燈 | Chap ~~„~~(ki) siă teng |
+| 11 Glass lamps | 十一枝玻璃燈 | Chap it ~~„~~(ki) paw li teng |
+| 12 Staves | 十二枝拐杖 | Chap ji ~~„~~(ki) kuai chiang |
+| 13 Canes | 十三枝棍 | Chap sa ~~„~~(ki) kun |
+| 14 Fans | 十四枝扇 | Chap si ~~„~~(ki) si |
+| 1 Roll of cloth | 一捆布 | Chĕk *kʼhun* pou |
+| 2 Rolls of mats | 二捆草蓆 | Naw ~~„~~(kʼhun) chaou chiĕ |
+| 1 Ink stand | 一箇硯 | Chek *kai* i |
+| 2 Pencil stands | 二~~丨~~(箇)筆架 | Naw ~~„~~(kai) pĭt key |
+| 3 Writing trays | 三~~丨~~(箇)~~丨~~(筆)盤 | Sa ~~„~~(kai) pĭt poa |
+| 4 Water cups | 四~~丨~~(箇)水碟 | Si ~~„~~(kai) chui tĭ |
+| 5 Pencil cases | 五~~丨~~(箇)筆套 | Gñou ~~„~~(kai) pĭt tap |
+| 6 Oranges | 六~~丨~~(箇)柑 | Lak ~~„~~(kai) ka |
+| 7 Pumeloes | 七~~丨~~(箇)柚 | Chĭt ~~„~~(kai) yiw |
+| 8 Plantains | 八~~丨~~(箇)芎蕉 | Poĭ ~~„~~(kai) keng chie |
 
 <!-- page:57 -->
 
