@@ -292,11 +292,11 @@ aou | as ou in plough, our, sour. |
 | Don't be afraid | 免用驚 | Mien eng kia |
 | Do it well | 做好好 | Chaw haw haw |
 | Don't play outside | 勿去外耍 | Mai khur goa sung |
-| Do you smoke? | ~~爾~~(汝)有食~~芬~~(薰)~~麽~~(咩) | Lur u chiă hun,baw |
+| Do you smoke? | ~~爾~~(汝)有食~~芬~~(薰)~~麽~~(無) | Lur u chiă hun,baw |
 | Do it over again | 另換做過 | Leng-ua chaw kuay |
-| Do you know him? | ~~爾~~(汝)共伊相~~識~~(別)~~麽~~(咩) | Lur kang i sie pat,baw |
-| Did you call me | ~~爾~~(汝)有~~呌~~(叫)我~~麽~~(咩) | Lur ham ua,baw |
-| Do you like fruit? | ~~爾~~(汝)好食菓子~~麽~~(咩) | Lur haou chiă kuey-chi,baw |
+| Do you know him? | ~~爾~~(汝)共伊相~~識~~(別)~~麽~~(無) | Lur kang i sie pat,baw |
+| Did you call me | ~~爾~~(汝)有~~呌~~(叫)我~~麽~~(無) | Lur ham ua,baw |
+| Do you like fruit? | ~~爾~~(汝)好食菓子~~麽~~(無) | Lur haou chiă kuey-chi,baw |
 | Don't touch that | 勿摸彼物 | Mai mong hur muĕ |
 | Don't come here again | 下日勿再來~~止~~(此) | E-jit mai chai lai chi |
 
@@ -309,9 +309,9 @@ aou | as ou in plough, our, sour. |
 | Don't leave the door open | 隨手~~再~~(知)關 | Sui chiw chai kuey |
 | Does your father know it | ~~爾~~(汝)~~亞父~~(阿父)知~~麽~~(咩) | Lur a-pe chai mĕ |
 | Dare you do it | ~~爾~~(汝)敢做~~麽~~(咩) | Lur ka chaw mĕ |
-| Did he say so | 伊講怎生~~麽~~(咩) | I kong chie-sey,baw |
+| Did he say so | 伊講怎生~~麽~~(無) | I kong chie-sey,baw |
 | Dive into the water | 氼水 | Bi chui |
-| Do you speak truly | ~~爾~~(汝)講實話~~麽~~(咩) | Lur kong sit wey,baw |
+| Do you speak truly | ~~爾~~(汝)講實話~~麽~~(無) | Lur kong sit wey,baw |
 | Evening | 夜昏 | Mey hng |
 | Every day | 日日 | Jit jit |
 | Each man | 各人 | Kăk nang |
