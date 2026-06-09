@@ -144,11 +144,11 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 18,Don't be afraid,,免用驚,,Mien eng kia,Mién ēng kiaⁿ,teochew.csv
 18,Do it well,,做好好,,Chaw haw haw,*Tsò hó hó,tiebreak
 18,Don't play outside,,勿去外耍,,Mai khur goa sung,*Mài khṳ̀ gūa sńg,tiebreak
-18,Do you smoke?,,汝有食薰咩,爾有食芬麽,"Lur u chiă hun,baw","Lṳ́ ũ chia̍h hun,mí",teochew.csv
+18,Do you smoke?,,汝有食薰無,爾有食芬麽,"Lur u chiă hun,baw","Lṳ́ ũ chia̍h hun,bô",teochew.csv
 18,Do it over again,,另換做過,,Leng-ua chaw kuay,*Lêng-uāⁿ tsò kùe,tiebreak
-18,Do you know him?,,汝共伊相別咩,爾共伊相識麽,"Lur kang i sie pat,baw","*Lṳ́ kāng i sie pat,mí",tiebreak
-18,Did you call me,,汝有叫我咩,爾有呌我麽,"Lur ham ua,baw","*Iū kiè uá,mí",tiebreak
-18,Do you like fruit?,,汝好食菓子咩,爾好食菓子麽,"Lur haou chiă kuey-chi,baw","Lṳ́ háu chia̍h kúe-chí,mí",teochew.csv
+18,Do you know him?,,汝共伊相別無,爾共伊相識麽,"Lur kang i sie pat,baw","*Lṳ́ kāng i sie pat,bô",tiebreak
+18,Did you call me,,汝有叫我無,爾有呌我麽,"Lur ham ua,baw","*Iū kiè uá,bô",tiebreak
+18,Do you like fruit?,,汝好食菓子無,爾好食菓子麽,"Lur haou chiă kuey-chi,baw","Lṳ́ háu chia̍h kúe-chí,bô",teochew.csv
 18,Don't touch that,,勿摸彼物,,Mai mong hur muĕ,Mài mông hṳ́ mue̍h,teochew.csv
 18,Don't come here again,,下日勿再來此,下日勿再來止,E-jit mai chai lai chi,*Ē-ji̍t mài tsài lâi chí,tiebreak
 19,Don't write so fast,,免寫向猛,,Mai sia hie mey,Mín siá hièⁿ mé,teochew.csv
@@ -156,9 +156,9 @@ page,english,english_orig,han,han_orig,dean_latn,puj,source
 19,Don't leave the door open,,隨手知關,隨手再關,Sui chiw chai kuey,Sûi chhiú tsai kueⁿ,teochew.csv
 19,Does your father know it,,汝阿父知咩,爾亞父知麽,Lur a-pe chai mĕ,Lṳ́ a-pẽ tsai meh,teochew.csv
 19,Dare you do it,,汝敢做咩,爾敢做麽,Lur ka chaw mĕ,Lṳ́ káⁿ tsò meh,teochew.csv
-19,Did he say so,,伊講怎生咩,伊講怎生麽,"I kong chie-sey,baw","I kóng tsái-seⁿ,mí",teochew.csv
+19,Did he say so,,伊講怎生無,伊講怎生麽,"I kong chie-sey,baw","I kóng tsái-seⁿ,bô",teochew.csv
 19,Dive into the water,,氼水,,Bi chui,*Bì tsúi,tiebreak
-19,Do you speak truly,,汝講實話咩,爾講實話麽,"Lur kong sit wey,baw","Lṳ́ kóng si̍t uē,mí",teochew.csv
+19,Do you speak truly,,汝講實話無,爾講實話麽,"Lur kong sit wey,baw","Lṳ́ kóng si̍t uē,bô",teochew.csv
 19,Evening,,夜昏,,Mey hng,Mê hng,teochew.csv
 19,Every day,,日日,,Jit jit,Ji̍t ji̍t,teochew.csv
 19,Each man,,各人,,Kăk nang,Kak nâng,teochew.csv
