@@ -1,1316 +1,1341 @@
-page,english,english_orig,han,han_orig,dean_latn,puj,source
-14,11,,〡/〸一,,Chap it,*Tsap it,rule
-14,12,,〡/〸二,,Chap ji,*Tsap ji,rule
-14,51,,〥/〸一,,Gñou chap it,*Ngou tsap it,rule
-14,105,,〡〇/百〥,,Pĕ lan gñou,*Peh lan ngou,rule
-14,150,,〡/百〥,,Pĕ gñou,*Peh ngou,rule
-14,I,,一,,Chĕk,Che̍k,teochew.csv
-14,II,,二,,Naw,Nõ,teochew.csv
-14,III,,三,,Sa,Saⁿ,teochew.csv
-14,IV,,四,,Si,Sì,teochew.csv
-14,V,,五,,Gñou,*Ngõu,tiebreak
-14,VI,,六,,Lak,La̍k,teochew.csv
-14,VII,,七,,Chĭt,Chhit,teochew.csv
-14,VIII,,八,,Poĭ,Poih,teochew.csv
-14,IX,,九,,Kaou,Káu,teochew.csv
-14,X,,十,,Chap,Tsa̍p,teochew.csv
-14,XI,,十一,,Chap it,Tsa̍p it,teochew.csv
-14,XII,,十二,,Chap ji,*Tsa̍p jī,tiebreak
-14,XIII,,十三,,Chap sa,Tsa̍p saⁿ,teochew.csv
-14,XIV,,十四,,Chap si,Tsa̍p sì,teochew.csv
-14,XV,,十五,,Chap gñou,*Tsa̍p ngõu,tiebreak
-14,XVI,,十六,,Chap lak,Tsa̍p la̍k,teochew.csv
-14,XVII,,十七,,Chap chĭt,Tsa̍p chhit,teochew.csv
-14,XVIII,,十八,,Chap poĭ,Tsa̍p poih,teochew.csv
-14,XIX,,十九,,Chap kaou,Tsa̍p káu,teochew.csv
-14,XX,,二十,,Ji chap,*Jī tsa̍p,tiebreak
-15,21,,二一,,Ji it,*Jī it,tiebreak
-15,23,,二三,,Ji sa,*Jī saⁿ,tiebreak
-15,29,,二九,,Ji kaou,*Jī káu,tiebreak
-15,30,,三十,,Sa chap,Saⁿ tsa̍p,teochew.csv
-15,40,,四十,,Si chap,Sì tsa̍p,teochew.csv
-15,50,,五十,,Gñou chap,*Ngõu tsa̍p,tiebreak
-15,60,,六十,,Lak chap,La̍k tsa̍p,teochew.csv
-15,80,,八十,,Poĭ chap,Poih tsa̍p,teochew.csv
-15,90,,九十,,Kaou chap,Káu tsa̍p,teochew.csv
-15,100,,一百,,Chĕk pĕ,Che̍k peh,teochew.csv
-15,200,,二百,,Naw pĕ,Nõ peh,teochew.csv
-15,300,,三百,,Sa pĕ,Saⁿ peh,teochew.csv
-15,400,,四百,,Si pĕ,Sì peh,teochew.csv
-15,500,,五百,,Gñou pĕ,*Ngõu peh,tiebreak
-15,1000,,一千,,Chĕk choi,Che̍k tshoiⁿ,teochew.csv
-15,2000,,二千,,Naw choi,Nõ tshoiⁿ,teochew.csv
-15,"10,000",,一萬,,Chĕk boan,Che̍k buān,teochew.csv
-15,"20,000",,二萬,,Naw boan,Nõ buān,teochew.csv
-15,"100,000",,一億,,Chĕk ĕk,Che̍k e̍k,teochew.csv
-15,"1,000,000",,一兆,,Chĕk tiow,Che̍k tiãu,teochew.csv
-15,1st,,第一,,Toi it,Tõiⁿ it,teochew.csv
-15,2nd,,第二,,Toi ji,*Tõiⁿ jī,tiebreak
-15,3rd,,第三,,Toi sa,Tõiⁿ saⁿ,teochew.csv
-15,4th,,第四,,Toi si,Tõiⁿ sì,teochew.csv
-15,5th,,第五,,Toi gñou,*Tõiⁿ ngõu,tiebreak
-15,6th,,第六,,Toi lak,Tõiⁿ la̍k,teochew.csv
-15,7th,,第七,,Toi chĭt,Tõiⁿ chhit,teochew.csv
-15,8th,,第八,,Toi poĭ,Tõiⁿ poih,teochew.csv
-15,9th,,第九,,Toi kaou,Tõiⁿ káu,teochew.csv
-15,10th,,第十,,Toi chap,Tõiⁿ tsa̍p,teochew.csv
-15,One,,壹,,Chĕk,Che̍k,teochew.csv
-15,Two,,貳,,Naw,Nõ,teochew.csv
-15,Three,,叁,,Sa,Saⁿ,teochew.csv
-15,Four,,肆,,Si,Sì,teochew.csv
-15,Five,,伍,,Gñou,*Ngóu,tiebreak
-15,Six,,陸,,Lak,La̍k,teochew.csv
-15,Seven,,㭍,,Chĭt,Chhit,teochew.csv
-15,Eight,,捌,,Poĭ,Poih,teochew.csv
-15,Nine,,玖,,Kaou,Káu,teochew.csv
-16,Ant,,蟻,,Hia,*Hiã,tiebreak
-16,And,,而,,Jur,*Zṳ́,tiebreak
-16,Blood,,血,,Huĕ,Hueh,teochew.csv
-16,Black,,烏,黑,Ou,Ou,teochew.csv
-16,Cat,,貓,,Gniou,Ngiou,teochew.csv
-16,Can,,能,,Oi,Lêng,teochew.csv
-16,Dear,,貴,,Kui,Kùi,teochew.csv
-16,Dog,,狗,,Kaou,Káu,teochew.csv
-16,Ear,,耳,,Hi,Hĩⁿ,teochew.csv
-16,End,,尾,,Boe,Búe,teochew.csv
-16,Fan,,扇,,Si,Sìⁿ,teochew.csv
-16,Fish,,魚,,Hur,Hṳ̂,teochew.csv
-16,Gold,,金,,Kim,Kim,teochew.csv
-16,Goat,,羊,,Ie,Iêⁿ,teochew.csv
-16,Hen,,雞,,Koi,Koi,teochew.csv
-16,House,,厝,,Chu,Tshù,teochew.csv
-16,Inch,,寸,,Chun,Tshùn,teochew.csv
-16,In,,於,,I,I,teochew.csv
-16,Jar,,礑,,Tome,*Tome,rule
-16,Joint,,節,,Chăt,Tsat,teochew.csv
-16,Knife,,刀,,Taw,To,teochew.csv
-16,Know,,知,,Chai,Tsai,teochew.csv
-16,Love,,愛,,Ai,Ài,teochew.csv
-16,Leg,,骹,脚,Kha,Kha,teochew.csv
-16,Man,,人,,Nang,Nâng,teochew.csv
-16,Mat,,蓆,,Chiĕ,Chhie̍h,teochew.csv
-16,Nail,,釘,,Teng,*Teng,tiebreak
-16,Night,,夜,,Mey,Mê,teochew.csv
-16,One,,一,,Chĕk,Che̍k,teochew.csv
-16,Of,,之,,Chur,Tsṳ,teochew.csv
-16,Pen,,筆,,Pit,Pit,teochew.csv
-16,Pin,,針,,Cham,Tsam,teochew.csv
-16,Quick,,快,,Mey,Liù,teochew.csv
-16,Quiet,,恬,,Tiem,*Tiâm,tiebreak
-16,Run,,走,,Chaou,Tsáu,teochew.csv
-16,Rope,,索,,Sŏ,Soh,teochew.csv
-16,Shelf,,架,,Key,Kè,teochew.csv
-16,Sock,,襪,,Buĕ,Bue̍h,teochew.csv
-16,This,,這,,Chi,Ché,teochew.csv
-16,Talk,,講,,Kong,Kóng,teochew.csv
-16,Uncle,,叔,,Chĕk,Chek,teochew.csv
-16,Ulcer,,瘡,,Chung,Tshng,teochew.csv
-16,Valley,,坑,,Khey,Kheⁿ,teochew.csv
-16,Virtue,,德,,Tek,Tek,teochew.csv
-16,Whip,,鞭,,Pni,Piⁿ,teochew.csv
-16,Wheel,,輪,,Lun,Lûn,teochew.csv
-16,You,,汝,爾,Lur,Lṳ́,teochew.csv
-16,Year,,年,,Ni,Nî,teochew.csv
-17,Be still,,恬恬,靜靜,Tiem tiem,*Tiâm tiâm,tiebreak
-17,Be quick,,猛猛,,Mey mey,Mé mé,teochew.csv
-17,Bring it here,,挈來此,挈來止,Khiĕ lai chi,*Khie̍h lâi chí,tiebreak
-17,Bind the thief,,捆賊,,Khun chat,Khún tsha̍t,teochew.csv
-17,Buy some rice,,糴米,,Teă bi,Tia̍h bí,teochew.csv
-17,Beat the boy,,拍阿孥囝,打亞孥子,Pă a-nou kia,Phah a-nôu kiáⁿ,teochew.csv
-17,Bring a chair,,挈茭椅來,挈茭𬃪來,Khiĕ kaou-i lai,*Khie̍h kãu-i lâi,tiebreak
-17,Be a good boy,,汝做好人,爾做好人,Lur chaw haw nang,*Lṳ́ tsò hó nâng,tiebreak
-17,Buy 100 nails,,買一百鐵釘,,Boi chek pĕ tĭ-teng,*Bói che̍k peh thih-teng,tiebreak
-17,Buy a jacket & trowsers,,買衫褲,,Boi sa khou,Bói saⁿ khòu,teochew.csv
-17,Bring some water,,擔水,,Ta chui,*Taⁿ tsúi,tiebreak
-17,Bend this bow,,拗彎此弓,押彎只弓,A-wan chi keng,Á-uan chí keng,teochew.csv
-17,Bring your book,,汝个冊挈來,而個冊挈來,"Lur kai chĕ,khiĕ lai","*Lṳ́ kài chheh,khie̍h lâi",tiebreak
-17,Begin to-day,,今日起頭,,Kim jit khi taou,Kim ji̍t khí thâu,teochew.csv
-17,By and by he will come,,霎時伊來,,Kun-kia i lai,*Sap-sî i lâi,tiebreak
-17,Be attentive to your books,,謹心睇冊,謹心看冊,Kurn sim toi chĕ,Kṳ́n sim thì chheh,teochew.csv
-17,Be obedient to your teacher,,孝順先生,,Haou sun sin-sey,Hàu sũn sin-seⁿ,teochew.csv
-17,Come here,,來此,來止,Lai chi,*Lâi chí,tiebreak
-17,Can you read,,汝別字咩,爾識字麽,"Lur pat ji,mĕ","*Lṳ́ pat jī,meh",tiebreak
-17,Call the boys,,喊阿孥囝,喊亞孥子,Ham a-nou-kia,*Hàm a-nôu-kiáⁿ,tiebreak
-18,Carry this back,,此物挈轉去,只物挈轉去,Chi muĕ khiĕ tung khur,*Chí mue̍h khie̍h tńg khṳ̀,tiebreak
-18,"Come, go with me",,來同我去,,"Lai,tang ua khur","*Lâi,tâng uá khṳ̀",tiebreak
-18,"Come, let's play",,來、來去耍,,"Lai,lai khur sung","*Lâi,lâi khṳ̀ sńg",tiebreak
-18,Carry this up stairs,,此物挈去樓頂,只物挈去樓頂,Chi muĕ khiĕ khur laou-teng,*Chí mue̍h khie̍h khṳ̀ lâu-téng,tiebreak
-18,Come another day,,下日來,,E-jit lai,*Ē-ji̍t lâi,tiebreak
-18,Carry this to the teacher,,此物還先生,只物還先生,"Chi muĕ,hai sin-sey","Chí mue̍h,hâiⁿ sin-seⁿ",teochew.csv
-18,Don't fall,,勿仆,,Mai poă,Mài phok,teochew.csv
-18,Do it yourself,,汝家己去做,爾自己去做,Lur ka-ki chaw,*Kia kí-khì tsò,tiebreak
-18,Don't stay long,,免等候久,,Mien teng haou ku,Mién téng hāu kú,teochew.csv
-18,Don't make a noise,,勿嚷,,Mai jiang,Mài jiáng,teochew.csv
-18,Don't be afraid,,免用驚,,Mien eng kia,Mién ēng kiaⁿ,teochew.csv
-18,Do it well,,做好好,,Chaw haw haw,*Tsò hó hó,tiebreak
-18,Don't play outside,,勿去外耍,,Mai khur goa sung,*Mài khṳ̀ gūa sńg,tiebreak
-18,Do you smoke?,,汝有食薰無,爾有食芬麽,"Lur u chiă hun,baw","Lṳ́ ũ chia̍h hun,bô",teochew.csv
-18,Do it over again,,另換做過,,Leng-ua chaw kuay,*Lêng-uāⁿ tsò kùe,tiebreak
-18,Do you know him?,,汝共伊相別無,爾共伊相識麽,"Lur kang i sie pat,baw","*Lṳ́ kāng i sie pat,bô",tiebreak
-18,Did you call me,,汝有叫我無,爾有呌我麽,"Lur ham ua,baw","*Iū kiè uá,bô",tiebreak
-18,Do you like fruit?,,汝好食菓子無,爾好食菓子麽,"Lur haou chiă kuey-chi,baw","Lṳ́ háu chia̍h kúe-chí,bô",teochew.csv
-18,Don't touch that,,勿摸彼物,,Mai mong hur muĕ,Mài mông hṳ́ mue̍h,teochew.csv
-18,Don't come here again,,下日勿再來此,下日勿再來止,E-jit mai chai lai chi,*Ē-ji̍t mài tsài lâi chí,tiebreak
-19,Don't write so fast,,免寫向猛,,Mai sia hie mey,Mín siá hièⁿ mé,teochew.csv
-19,Don't be in a hurry,,勿向快去,勿太快去,Mai hie kuey khur,*Mài hièⁿ khùe khṳ̀,tiebreak
-19,Don't leave the door open,,隨手知關,隨手再關,Sui chiw chai kuey,Sûi chhiú tsai kueⁿ,teochew.csv
-19,Does your father know it,,汝阿父知咩,爾亞父知麽,Lur a-pe chai mĕ,Lṳ́ a-pẽ tsai meh,teochew.csv
-19,Dare you do it,,汝敢做咩,爾敢做麽,Lur ka chaw mĕ,Lṳ́ káⁿ tsò meh,teochew.csv
-19,Did he say so,,伊講怎生無,伊講怎生麽,"I kong chie-sey,baw","I kóng tsái-seⁿ,bô",teochew.csv
-19,Dive into the water,,氼水,,Bi chui,*Bì tsúi,tiebreak
-19,Do you speak truly,,汝講實話無,爾講實話麽,"Lur kong sit wey,baw","Lṳ́ kóng si̍t uē,bô",teochew.csv
-19,Evening,,夜昏,,Mey hng,Mê hng,teochew.csv
-19,Every day,,日日,,Jit jit,Ji̍t ji̍t,teochew.csv
-19,Each man,,各人,,Kăk nang,Kak nâng,teochew.csv
-19,English language,,英吉利話,,Eng-kit-li wey,Eng-kit-lĩ uē,teochew.csv
-19,Empty this out,,倒出,,Taw chut,*Tò tshut,tiebreak
-19,Enter the school,,入書齋,,Jip chur-chey,*Ji̍p tsṳ-che,tiebreak
-19,Follow me,,隨我,,Sui ua,Sûi uá,teochew.csv
-19,Find your book,,覓汝个書冊,覓爾箇書冊,Chuey lur kai chur-chĕ,*Tshūe lṳ́ kài tsṳ-chheh,tiebreak
-19,Forgive your foes,,赦免汝敵,赦免爾敵,Sia-mien lur tek,Sià-mién lṳ́ te̍k,teochew.csv
-19,Fill it full,,倒漲,倒滿,Taw ti,*Tò tĩⁿ,tiebreak
-19,Feel of this,,摸此箇物,摸只箇物,Mong chi kai muĕ,*Mông chí kài mue̍h,tiebreak
-19,Fry some pork,,焙猪肉,,Pue tur bă,*Pūe tṳ bah,tiebreak
-20,Go home,,去厝,,Khur chu,*Khṳ̀ tshù,tiebreak
-20,Go down,,去下,,Kkur ey,*Khṳ̀ ē,tiebreak
-20,Go slowly,,慢慢行,緩緩行,Man man kia,Mān mān kiâⁿ,teochew.csv
-20,Go to bed,,去夗,去睡,Khur goot,*Khṳ̀ gu̍t,tiebreak
-20,Get up quickly,,快快走起,,Khuey khuey chaou khi,*Khùe khùe tsáu khí,tiebreak
-20,Give that to me,,此物還我,,Chi muĕ hai ua,Chí mue̍h hâiⁿ uá,teochew.csv
-20,Go and help him,,去輔伊,,Khur hu i,*Khṳ̀ hú i,tiebreak
-20,Give it back to him,,挈轉還伊,,Khiĕ tung hai i,*Khie̍h tńg hâiⁿ i,tiebreak
-20,How old are you,,汝若㩼歲,爾若多歲,Lur jiĕ choi huey,Lṳ́ jie̍h tsōi hùe,teochew.csv
-20,Have you any more,,還有加咩,還有加麽,"Huan u key,mĕ","Huân ũ ke,meh",teochew.csv
-20,He is a bad man,,伊是痞人,伊是獃人,I si pai nang,I sĩ phí nâng,teochew.csv
-20,He is always for play,,伊常常欲耍,,I sie sie ai sung,I siêⁿ siêⁿ àiⁿ sńg,teochew.csv
-20,His father is very poor,,伊阿父窮在,伊亞父窮極,"I a pey,keng chai","I a pẽ,kêng tsãi",teochew.csv
-20,He won't come,,伊毋肯來,伊不肯來,I mʼkheng lai,*M̃ khéng lâi,tiebreak
-20,He is very lazy,,伊放惰在,伊懶惰極,I pan-toa chai,I pàng-tõ tsãi,teochew.csv
-20,Has your brother recovered,,汝阿弟痊愈未,爾亞弟痊愈否,"Lur a-ti chuan-ju,bue","*Lṳ́ a-tĩ tshuân-zú,būe",tiebreak
-20,How much money have you,,汝有若㩼銀,爾有若多銀,Lur u jiĕ choi gnurn,Lṳ́ ũ jie̍h tsōi ngṳ̂n,teochew.csv
-20,How long have you lived here,,汝住此若久,爾住此若久,Lur toa chi jiĕ-ku,Lṳ́ tiū chí jie̍h-kú,teochew.csv
-20,He did not come to-day,,今日伊無來,,Kim-jit i baw lai,*Kim-ji̍t i bô lâi,tiebreak
-20,He cares for nobody,,伊毋畏人,伊不畏人,I mʼui nang,*M̃ ùi nâng,tiebreak
-21,He is fond of opium,,伊欲食鴉片,,I haou chiă a-pien,I àiⁿ chia̍h a-phièn,teochew.csv
-21,I forgot it,,我毋記得,我不記憶,Ua mʼki tit,*Bô kì tit,tiebreak
-21,I cannot come,,我毋能來,我不能來,Ua mʼoi lai,*Bô lêng lâi,tiebreak
-21,I am not well,,我毋快活,我不快活,Ua mʼkuai-uă,*Bô khùai-ua̍h,tiebreak
-21,I have read this book,,此冊我有讀過,,Chi chĕ ua u tak kuey,Chí chheh uá ũ tāu kùe,teochew.csv
-21,I am very glad,,我歡喜在,我歡喜極,Ua hua-hi chai,Uá huaⁿ-hí tsãi,teochew.csv
-21,I have never seen him,,我毋別睇見伊,我不識看見伊,Ua mʼpat toi ki i,*Bô pat thì kìⁿ i,tiebreak
-21,I can't understand,,我聽毋別,我聽不識,Ua thia mʼpat,*Thiaⁿ bô pat,tiebreak
-21,I don't know,,我毋知,我不知,Ua mʼchai,*Bô tsai,tiebreak
-21,It is very hot to-day,,今日熱在,今日熱極,Kim jit juă chai,Kim ji̍t zua̍h tsãi,teochew.csv
-21,It is hard as a stone,,共石平𠕆,,Kang chiĕ pe tʼoi,*Kang chieh pe toi,rule
-21,Is it true,,有眞咩,有眞麽,"U chia,mĕ","Ũ chin,meh",teochew.csv
-21,Is your father well,,汝亞爹有好咩,爾亞爹有好麽,"Lur a-tia u haw,mĕ","*Lṳ́ a-tia ũ hó,meh",tiebreak
-21,Is this your pencil,,此筆是汝个咩,此筆是爾箇麽,Chi pit si lur kai mĕ,*Chí pit sĩ lṳ́ kài meh,tiebreak
-21,It is past four o'clock,,有四點外鐘了,,U si tiem goa cheng,*Sì tiám gūa tsong liàu,tiebreak
-21,Jump down,,跳落,,Thiou lŏ,Thiòu lo̍h,teochew.csv
-21,Japan is near to China,,日本近唐山,,Jit-pun kurn Tung-sua,Ji̍t-pún kṳ̃n Tn̂g-suaⁿ,teochew.csv
-21,Knock at the door,,拍門,打門,Pă mung,Phah mn̂g,teochew.csv
-21,Kneel down,,跪落去,,Kui lŏ khur,*Kũi lo̍h khṳ̀,tiebreak
-21,Keep this safely,,此物掌好,,Chi muĕ chie haw,*Chí mue̍h chiéⁿ hó,tiebreak
-22,Kill that snake,,拍死彼蛇,打死彼蛇,Pă-si hur cʼhua,Phah-sí hṳ́ tsûa,teochew.csv
-22,Lock the door,,鎻門,,Saw mung,*So mung,rule
-22,Love your enemies,,愛汝仇敵,愛爾仇敵,Ai lur chiw tek,Ài lṳ́ chhiû te̍k,teochew.csv
-22,Lift up this box,,此箱挈起來,,"Chi sie,kiĕ ki lai","*Chí sieⁿ,khie̍h khí lâi",tiebreak
-22,Lend me a dollar,,銀一箍借我,銀一圓借我,"Gnurn chek kʼhou,chiĕ ua","Ngṳ̂n che̍k khou,chieh uá",teochew.csv
-22,Look on your book,,目睭睇冊,目珠看冊,Măk-chiw toi chĕ,Ma̍k-chiu thì chheh,teochew.csv
-22,Listen to what I say,,汝聽我講,爾聽我講,Lur thia ua kong,Lṳ́ thiaⁿ uá kóng,teochew.csv
-22,May I go home,,我欲來去厝,,Ua ai lai khur chu,*Uá àiⁿ lâi khṳ̀ tshù,tiebreak
-22,Make haste back,,猛猛轉來,,Mey-mey tung lai,*Mé-mé tńg lâi,tiebreak
-22,My eyes are sore,,我目睭痛,我目珠痛,Ua măk-chiw tʼhia,Uá ma̍k-chiu thiàⁿ,teochew.csv
-22,My pen is not good,,我筆毋好,我筆不好,Ua pit mʼhaw,*Pit bô hó,tiebreak
-22,My father is dead,,我阿父死了,我亞父死了,Ua kai a-pey si liou,*Ua kai a-pe si liou,rule
-22,Not yet,,未曾,未嘗,Bue cheng,*Būe cheng,tiebreak
-22,Not always,,非常,,Hui sie,Hui siêⁿ,teochew.csv
-22,Never mind,,無相干,,Baw siang kan,*Bô siang kan,tiebreak
-22,Nobody knows it,,無人知,,Baw nang chai,Bô nâng tsai,teochew.csv
-22,Nail this board,,釘此枋,,Teng chi pang,*Teng chí pang,tiebreak
-22,One man has come,,一人來了,,Chek nang lai liou,*Che̍k nâng lâi lióu,tiebreak
-22,One spoon is missing,,湯匙一枝毋見,湯匙一枝不見,Tung-si chek ki mʼkien,*Sî-it ki bô kièn,tiebreak
-22,Only one true God,,獨一眞神,,Tok it chin sin,To̍k it chin sîn,teochew.csv
-23,Opium is not good to eat,,鴉片毋好食,鴉片不好食,A-pien mʼhaw chiă,*Phìⁿ-bô hó chia̍h,tiebreak
-23,Perhaps he will come,,或者伊來,,Hok chia i lai,*Ho̍k chiá i lâi,tiebreak
-23,Put this in the sun,,此物挈去曝日,,"Chi muĕ,khiĕ khur pak jit","*Chí mue̍h,khie̍h khṳ̀ pãu ji̍t",tiebreak
-23,Pull up these bushes,,此草挽丢,,"Chi chaou,man tiou","Chí tsháu,mán tiu",teochew.csv
-23,Pray to God every day,,日日求神天,,Jit jit kiw Sin-Ti,*Ji̍t ji̍t khiû Sîn-Thiⁿ,tiebreak
-23,Questions & answers,,問答,,Mung tap,*Mn̄g tap,tiebreak
-23,Quietly remain at home,,恬恬在厝,,Tiem tiem taw chu,*Tiâm tiâm tõ tshù,tiebreak
-23,Quote from the classics,,引經據典,,In kia kur tien,*In kiaⁿ kṳ̃ tién,tiebreak
-23,Run and get the umbrella,,走去挈雨傘,,Chaou khur khiĕ hou-sua,*Tsáu khṳ̀ khie̍h hõu-sùaⁿ,tiebreak
-23,Read in a low voice,,讀細聲,,Tak soi sia,Tāu sòi siaⁿ,teochew.csv
-23,Remember to tell him,,汝記得共伊講,爾記憶共伊講,Lur ki-tit kang i kong,Lṳ́ kì-tit kāng i kóng,teochew.csv
-23,Rice is dear this year,,今年米有貴,,"Kim ni,bi u kui","Kim nî,bí ũ kùi",teochew.csv
-23,Send him into the city,,使伊去城內,,Sai i khur sia lai,*Sài i khṳ̀ siâⁿ lãi,tiebreak
-23,Save this for to-morrow,,此留放明起,此留放明日,Chi laou pang moa-ki,Chí lâu pàng mê-khí,teochew.csv
-23,She is upwards of twenty,,伊二十外歲,,I ji-chap goa huey,*I jī-tsa̍p gūa hùe,tiebreak
-23,Send your servant to take it,,使汝囝子來挈,使爾囝子來挈,Sai lur kin-kia lai khiĕ,*Sài lṳ́ kién-kiáⁿ lâi khie̍h,tiebreak
-23,Set it down here,,放在此,,Pang taw chi,Pàng tõ chí,teochew.csv
-23,They are neighbors,,伊是厝邊人,,"I si,chu-pi nang","I sĩ,tshù-piⁿ nâng",teochew.csv
-23,This is good for nothing,,此無用,,Chi baw eng,Chí bô ēng,teochew.csv
-23,This cloth is wet,,此布有濕,,"Chi pou,u tam","Chí pòu,ũ sip",teochew.csv
-24,This fowl is not done,,此雞無熟,,Chi koi baw sek,Chí koi bô se̍k,teochew.csv
-24,Under the house,,厝下,,Chu ey,*Tshù ē,tiebreak
-24,Upon the shelf,,架頂,,Key teng,Kè téng,teochew.csv
-24,Very many,,㩼在,多極,Choi chai,Tsōi tsãi,teochew.csv
-24,"Very well, take it",,凊彩挈去,稱釆挈去,"Chin-chai,khiĕ khur","*Chhìn-tshái,khie̍h khṳ̀",tiebreak
-24,What is your name,,汝是乜名,爾是乜名,Lur si mi mia,Lṳ́ sĩ mi miâⁿ,teochew.csv
-24,What is your age,,有若㩼歲,有若多歲,U jiĕ choi huey,Ũ jie̍h tsōi hùe,teochew.csv
-24,Where do you live,,汝住值處,爾住值處,Lua toa ti taw,*Lṳ́ tiū tì tshù,tiebreak
-24,What do you want,,汝欲甚物,爾欲甚物,Lur ai si muĕ,Lṳ́ àiⁿ sĩm mue̍h,teochew.csv
-24,Which is the one,,底箇是,那箇是,Ti kai si,*Tî kài sĩ,tiebreak
-24,When did you arrive,,汝底時到,爾值時到,Lur ti-si kaou,*Lṳ́ tî-sî kàu,tiebreak
-24,Why do you not go,,怎呢毋去,怎呢不去,Chaw-ni mʼkhur,*Nîⁿ-bô khṳ̀,tiebreak
-24,Will you go or not,,汝肯去咩,爾肯去麽,"Lur kheng khur,mĕ","*Lṳ́ khéng khṳ̀,meh",tiebreak
-24,What does he say,,伊講甚乜事,,I kong si mi sur,*I kóng sĩm mi sṳ̄,tiebreak
-24,What more do you want,,汝欲加甚物,爾欲加甚物,Lur ai key si muĕ,Lṳ́ àiⁿ ke sĩm mue̍h,teochew.csv
-24,What is this for,,此用做乜事,,Chi eng chaw mi sur,*Chí ēng tsò mi sṳ̄,tiebreak
-24,Where was this book printed,,此冊底處印,此冊值處印,Chi chĕ ti taw in,*Chí chheh tî tshù ìn,tiebreak
-24,Whose house is this,,此厝是底𫢗个,此厝是誰個,"Chi chu,si ti-tiang kai","*Chi tsu,si ti-tiang kai",rule
-24,Who can tell,,底𫢗能講,誰個能講,Ti-tiang oi kong,*Ti-tiang oi kong,rule
-24,Where has he gone,,伊去底處,伊去值處,I khur ti-taw,*I khṳ̀ tî-tshù,tiebreak
-25,Why can't he do it,,伊怎呢毋能做,伊怎呢不能做,I chaw ni mʼoi chaw,*Tsá nîⁿ bô lêng tsò,tiebreak
-25,Who is going to Singapore,,底𫢗欲去實力,誰人欲去實力,Ti tiang ai khur Sit-lat,*Ti tiang ai khṳ Sit-lat,rule
-25,When do you go on board,,底時落船,何時落船,Ti si lŏ chun,*Tî sî lo̍h tsûn,tiebreak
-25,What are you doing now,,現在汝做乜事,現在爾做乜事,Hien-chai lur chaw mi sur,*Hiēn-tsãi lṳ́ tsò mi sṳ̄,tiebreak
-25,We shall surely go to-day,,今日必定欲去,,Kim-jit pit tia ai khur,*Kim-ji̍t pit tiāⁿ àiⁿ khṳ̀,tiebreak
-25,Who is interpreter,,底𫢗回話,誰人囘話,Ti-tiang huey wey,*Ti-tiang hue we,rule
-25,We are all well,,我等攏總有好,我等籠總有好,Ua-teng long chong u haw,*Uá-téng lóng tsóng ũ hó,tiebreak
-25,Whether I go or not is uncertain,,去毋去無定着,去不去無定着,Khur mʼkhur baw tia-tiŏ,*Bû khṳ̀ bô tiāⁿ-tie̍h,tiebreak
-25,You write too fast,,汝寫較猛,爾寫太猛,Lur sia kă mey,Lṳ́ siá kà mé,teochew.csv
-25,You went home recently,,近日汝正去厝,近日爾正去厝,Kurn jit lur chia khur chu,*Kṳ̃n ji̍t lṳ́ chiàⁿ khṳ̀ tshù,tiebreak
-25,You can't do it,,汝毋能做,爾不能做,Lur mʼoi chaw,Bû lêng tsò,teochew.csv
-25,You need not do it,,免用做,,Mien eng chaw,Mién ēng tsò,teochew.csv
-25,You speak too loud,,汝講較大聲,爾講太大聲,Lur kong kă toa sia,Lṳ́ kóng kà tūa siaⁿ,teochew.csv
-25,"Yes, you speak truly",,着、汝講實,着、爾講實,"Tiŏ,lur kong sit","*Tie̍h,lṳ́ kóng si̍t",tiebreak
-25,You are late to-day,,汝今日較宴來,爾今日太宴來,Lur kim jit kă ua lai,*Lṳ́ kim ji̍t kà àn lâi,tiebreak
-25,You have not made it right,,做來毋着,做來不着,Chaw lai mʼtiŏ,*Lâi bô tie̍h,tiebreak
-25,You don't speak to the point,,講毋對空,講不對空,Kong mʼtui khang,*Bô tùi khang,tiebreak
-25,You are mistaken,,汝睇錯了,爾看錯了,Lur toi ta liou,*Lṳ́ thì tshò lióu,tiebreak
-25,Yesterday was a feast day,,昨日做節,,Cha-jit chaw choĭ,*Tsa-ji̍t tsò tsoih,tiebreak
-25,You can't trust him,,汝毋可相信伊,爾不可相信伊,Lur mʼhaw siang-sin i,*Bû khó siang-sìn i,tiebreak
-26,Yonder comes a junk,,在彼中有船來,,Taw hur tang u chun lai,*Tõ hṳ́ tang ũ tsûn lâi,tiebreak
-26,You must not eat every thing,,勿食雜物,,Mai chiă chap muĕ,Mài chia̍h tsa̍p mue̍h,teochew.csv
-26,You must learn this by heart,,此的汝讀來唸,此的爾讀來唸,"Chi kai,lur tak lai niem","*Chí ti,lṳ́ tāu lâi liām",tiebreak
-26,You must die,,必定汝死,必定爾死,Pit tia lur si,Pit tiāⁿ lṳ́ sí,teochew.csv
-26,You have sinned,,汝得罪,爾得罪,Lur tit chuey,Lṳ́ tit tsũe,teochew.csv
-26,You ought to repent,,汝應該悔改,爾應該悔攺,Lur eng-kai huay koi,*Lṳ́ eng-kai hùe kói,tiebreak
-26,You should believe in Jesus,,汝應該信耶穌,爾應該信耶穌,Lur eng kai sin Ya-sou,*Lṳ́ eng kai sìn Iā-sou,tiebreak
-26,You may now be saved,,現在汝能得救,現在爾能得救,Hien-chai lur oi tit kiw,Hiēn-tsãi lṳ́ lêng tit kiù,teochew.csv
-26,You know the truth,,眞理汝知了,眞理爾知了,"Chin li,lur chai liou","Chin lí,lṳ́ tsai lióu",teochew.csv
-26,You have heard the gospel,,汝曾聽福音,爾嘗聽福音,Lur cheng thia hok-im,*Lṳ́ cheng thiaⁿ hok-im,tiebreak
-26,You cannot save yourself,,汝不能救家己,爾不能救自己,Lur put neng kiw ka ki,*Lṳ́ put lêng kiù ka kí,tiebreak
-26,You have no merit,,汝無功勞,爾無功勞,Lur baw kong-laou,*Lṳ́ bô kong-lâu,tiebreak
-26,Your sins are many,,汝有罪加加,爾有罪加加,Lur u chuey key key,Lṳ́ ũ tsũe ke ke,teochew.csv
-26,Your gods cannot save you,,汝神不能救人,爾神不能救人,Lur kai sin put neng kiw nang,*Lṳ kai sin put neng kiu nang,rule
-26,Your priests are ignorant,,汝个和尙無知,爾箇和尙無知,Lur kai hue-sie baw chai,*Lṳ́ kài hûe-sièⁿ bô tsai,tiebreak
-26,Your religion is false,,汝教有假,爾教有假,"Lur kai ka,u key","*Lṳ kai ka,u ke",rule
-26,Your soul is precious,,汝个靈魂有貴,爾個靈魂有貴,Lur kai leng-hun u kui,*Lṳ́ kài lêng-hûn ũ kùi,tiebreak
-26,Your life is short,,汝个生命不久,爾個生命不久,Lur kai sey-mia put ku,*Lṳ́ kài seⁿ-miāⁿ put kú,tiebreak
-26,Your end is near,,汝死日將近,爾死日將近,Lut si-jit chiang kurn,*Lṳ́ sí-ji̍t chiang kṳ̃n,tiebreak
-26,You will not repent,,汝毋肯悔改,爾不肯悔攺,Lur mʼkheng huey koi,*Bû khéng hùe kói,tiebreak
-27,Heavens,,天,,Tien,Thien,teochew.csv
-27,Sun,,日,,Jit,Ji̍t,teochew.csv
-27,Moon,,月,,Guĕ,Gu̍eh,teochew.csv
-27,Stars,,星,,Chey,Cheⁿ,teochew.csv
-27,Wind,,風,,Huang,Huang,teochew.csv
-27,Cloud,,雲,,Hun,Hûn,teochew.csv
-27,Rain,,雨,,Hou,*Hõu,tiebreak
-27,Mist,,露,,Lou,Lōu,teochew.csv
-27,Thunder,,雷,,Lui,Lûi,teochew.csv
-27,Hail,,雹,,Păk,Pha̍k,teochew.csv
-27,Ice,,霜,,Sung,Suang,teochew.csv
-27,Snow,,雪,,Sŏ,Soh,teochew.csv
-27,Rainbow,,虹,,Kheng,Khẽng,teochew.csv
-27,Sky,,辰,,Sin,Sîn,teochew.csv
-27,Fog,,霧,,Bu,Bū,teochew.csv
-27,Cold,,寒,,Cʼhin,Hân,teochew.csv
-27,Heat,,熱,,Juă,Zua̍h,teochew.csv
-27,Light,,光,,Kŭng,Kuang,teochew.csv
-27,Darkness,,暗,,Am,Àm,teochew.csv
-27,Earth,,地,,Ti,Tī,teochew.csv
-27,Soil,,塗,,Tou,Tôu,teochew.csv
-27,Mud,,泥,,Ni,*Nì,tiebreak
-27,Dust,,塵,,Tin,Tîn,teochew.csv
-27,Sand,,沙,,Sua,Sua,teochew.csv
-27,Stone,,石,,Chiĕ,Chie̍h,teochew.csv
-27,Field,,田,,Chan,Tshân,teochew.csv
-27,Garden,,園,,Hng,Hn̂g,teochew.csv
-27,Hill,,山,,Sua,Suaⁿ,teochew.csv
-27,Valley,,坑,,Kʼey,Kheⁿ,teochew.csv
-27,Cavern,,洞,,Tang,Tāng,teochew.csv
-27,Cave,,穴,,Huăt,Hua̍t,teochew.csv
-27,Island,,嶼,,Sur,Sṳ̃,teochew.csv
-27,Kingdom,,國,,Kok,Kok,teochew.csv
-27,Country,,地方,,Ti-hng,Tī-hng,teochew.csv
-27,Province,,省,,Sey,Séⁿ,teochew.csv
-27,District,,府,,Hu,Hú,teochew.csv
-27,Canton,,州,,Chiw,Chiu,teochew.csv
-27,Village,,縣,,Kui,Kūiⁿ,teochew.csv
-28,The sun is bright,,日有光,,Jit u kŭng,Ji̍t ũ kuang,teochew.csv
-28,The moon has risen,,月出了,,Guĕ chut liou,Gu̍eh tshut lióu,teochew.csv
-28,There are many stars,,星有㩼在,星有多極,"Chey,u choi chai","Cheⁿ,ũ tsōi tsãi",teochew.csv
-28,The wind blows,,風來,,Huang lai,*Huang lâi,tiebreak
-28,The clouds are very dark,,雲烏在,雲烏極,"Hun,ou chai","Hûn,ou tsãi",teochew.csv
-28,The rainbow is beautiful,,虹是雅,,"Kheng,si gnia","Khẽng,sĩ ngiá",teochew.csv
-28,It will rain soon,,雨欲來,,Hou ai lai,*Hõu àiⁿ lâi,tiebreak
-28,It is extremely hot,,熱之極,,Juă chur kĕk,Zua̍h tsṳ ke̍k,teochew.csv
-28,It is day light,,天光了,,Thi kŭng liou,*Thiⁿ kuang lióu,tiebreak
-28,It is very dark,,暗在,暗極,Am chai,Àm tsãi,teochew.csv
-28,The earth is round,,地圓,,Ti i,Tī îⁿ,teochew.csv
-28,A stone is heavy,,石有重,,"Chiĕ,u tang","Chie̍h,ũ tãng",teochew.csv
-28,Cultivate the fields,,作田,耕田,Chŏ chan,Tsoh tshân,teochew.csv
-28,The mountain is high,,山有危,山有高,Sua u kui,Suaⁿ ũ kûiⁿ,teochew.csv
-28,The kingdom of Siam,,暹羅國,,Siam-law kok,Siam-lô kok,teochew.csv
-28,The province of Canton,,廣東省,,Kŭng-tang sey,Kuáng-tang séⁿ,teochew.csv
-28,The district of Tio-chiw,,潮州府,,Tie-chiw hu,Tiê-chiu hú,teochew.csv
-28,A large territory,,地方濶,,Ti-hng kuă,Tī-hng khuah,teochew.csv
-28,A small village,,細縣,小縣,Soi kui,Sòi kūiⁿ,teochew.csv
-29,Anchorage,,埠頭,,Pou taou,Pou thâu,teochew.csv
-29,Country,,山巴,,Sua pa,Suaⁿ pa,teochew.csv
-29,Jungle,,曠野,,Kuang ya,Khàng iá,teochew.csv
-29,Beach,,海墘,,Hai ki,Hái kîⁿ,teochew.csv
-29,Sea,,海,,Hai,Hái,teochew.csv
-29,Lake,,湖,,Ou,Oû,teochew.csv
-29,River,,河,,Haw,Hô,teochew.csv
-29,Canal,,港,,Kang,Káng,teochew.csv
-29,Pond,,池,,Ti,Tî,teochew.csv
-29,Tank,,淈,,Kʼhŭt,Khut,teochew.csv
-29,Ditch,,溝,,Kaou,Kau,teochew.csv
-29,Well,,井,,Chey,Chéⁿ,teochew.csv
-29,Tide,,潮,,Tie,Tiê,teochew.csv
-29,Rising do.,,水大,,Chui toa,Tsúi tūa,teochew.csv
-29,Falling do.,,水退,,Chui kaw,Tsúi thò,teochew.csv
-29,Wave,,湧,,Eng,Éng,teochew.csv
-29,Storm,,大風,,Toa huang,Tūa huang,teochew.csv
-29,Calm,,無風,,Baw huang,Bô huang,teochew.csv
-29,Earthquake,,地震,,Ti chin,Tī chín,teochew.csv
-29,East,,東,,Tang,Tang,teochew.csv
-29,West,,西,,Sai,Sai,teochew.csv
-29,South,,南,,Nam,Nâm,teochew.csv
-29,North,,北,,Păk,Pak,teochew.csv
-29,S.East,,東南,,Tang nam,Tang nâm,teochew.csv
-29,S.West,,西南,,Sai nam,Sai nâm,teochew.csv
-29,N.East,,東北,,Tang păk,Tang pak,teochew.csv
-29,N.West,,西北,,Sai păk,Sai pak,teochew.csv
-29,Man,,人,,Nang,Nâng,teochew.csv
-29,Male,,男,,Lam,Lâm,teochew.csv
-29,Female,,女,,Nŭng,Nńg,teochew.csv
-29,Body,,身體,,Sin toi,Sin thí,teochew.csv
-29,Head,,頭殼,,Taou kăk,Thâu khak,teochew.csv
-29,Forehead,,額頭,,Hiă taou,Hia̍h thâu,teochew.csv
-29,Brains,,頭殼髓,,Taou kăk-chuey,Thâu khak-tshúe,teochew.csv
-29,Temple,,鬢邊,𩯭邊,Pin pi,Pìn piⁿ,teochew.csv
-29,Hair,,頭毛,,Taou maw,Thâu mô,teochew.csv
-30,A good anchorage,,好埠頭,,Haw pou taou,*Hó pou thâu,tiebreak
-30,The sea is smooth,,海無涌,,Hai baw eng,Hái bô éng,teochew.csv
-30,The five lakes,,五湖,,Gnou ou,*Ngõu oû,tiebreak
-30,The yellow river,,黃河,,Ng haw,N̂g hô,teochew.csv
-30,To cross the canal,,過港,,Kuey kang,Kùe káng,teochew.csv
-30,The river's side,,溪邊,,Koi pi,Khi piⁿ,teochew.csv
-30,There are fish in the pond,,池有魚,,Ti u hur,Tî ũ hṳ̂,teochew.csv
-30,Dig a ditch,,㧕溝,,Liw kaou,Liú kau,teochew.csv
-30,The well is deep,,井有深,,Chey u chim,Chéⁿ ũ chhim,teochew.csv
-30,The tide is very strong,,水猛在,水猛極,Chui mey chai,Tsúi mé tsãi,teochew.csv
-30,The waves are high,,涌大,,Taw tang poi,*To tang poi,rule
-30,East is opposite to west,,東對西,,Tang tui sai,Tang tùi sai,teochew.csv
-30,A wise man,,賢人,,Gaou nang,Gâu nâng,teochew.csv
-30,A long neck,,頸長,,Am tung,Kèⁿ tn̂g,teochew.csv
-30,Turn round the head,,回頭,囘頭,Huey taou,Hûe thâu,teochew.csv
-30,Bow down the head,,磕頭,,Kăp taou,Khap thâu,teochew.csv
-30,Shave the head,,剃頭,,Thi taou,Thì thâu,teochew.csv
-30,Comb the head,,梳頭,,Siw taou,Siu thâu,teochew.csv
-31,Beard,,鬚,,Cʼhiw,Chhiu,teochew.csv
-31,Eye,,目睭,目珠,Măk chiw,Ma̍k chiu,teochew.csv
-31,Eye-brow,,目眉,,Măk bai,Ma̍k bâi,teochew.csv
-31,Eye-lash,,目眦毛,目𠞁毛,Măk chi maw,*Mak chi mo,rule
-31,Eye-lid,,目骹皮,目脚皮,Măk ka pue,Ma̍k kha phûe,teochew.csv
-31,Eye-ball,,目睭仁,目珠仁,Măk chiw-jin,Ma̍k chiu-jîn,teochew.csv
-31,Pupil,,瞳仁,童仁,Tong jin,Thông jîn,teochew.csv
-31,Face,,面,,Min,Mīn,teochew.csv
-31,Ear,,耳,,Hi,Hĩⁿ,teochew.csv
-31,Nose,,鼻,,Pñi,Phì,teochew.csv
-31,Nostril,,鼻孔,,Pñi kang,Phì khang,teochew.csv
-31,Cheek,,臉溝,臉頣,Tĭ kaou,*Lién kau,tiebreak
-31,Mouth,,喙,嘴,Chui,Tshùi,teochew.csv
-31,Lips,,唇,,Tʼun,Tûn,teochew.csv
-31,Teeth,,齒,,Kʼhi,Khí,teochew.csv
-31,Tongue,,舌,,Chĭ,Chi̍h,teochew.csv
-31,Chin,,下胲,,E hai,*Ē kai,tiebreak
-31,Throat,,喉,,Ow,Aû,teochew.csv
-31,Shoulder,,肩頭,,Koey taou,Koiⁿ thâu,teochew.csv
-31,Back,,背,,Ka chiă,*Ka chiah,rule
-31,Arm,,手臂,,Chiw pi,Chhiú pì,teochew.csv
-31,Palm of the hand,,手掌,,Chiw chie,Chhiú chiéⁿ,teochew.csv
-31,Hand,,手,,Chiw,Chhiú,teochew.csv
-31,Finger,,手指,,Chiw choi,Chhiú tsóiⁿ,teochew.csv
-31,Thumb,,指頭公,,Choi taou-kong,Tsóiⁿ thâu-kong,teochew.csv
-31,Forefinger,,食指,,Koi choi,*Si̍h tsóiⁿ,tiebreak
-31,Middle finger,,中指,,Tang choi,Tang tsóiⁿ,teochew.csv
-31,Ring finger,,無名指,,Baw mia choi,Bô miâⁿ tsóiⁿ,teochew.csv
-31,Little finder,,尾指,,Boe choi,Búe tsóiⁿ,teochew.csv
-31,Finger nail,,指甲,,Choi kă,Tsóiⁿ kah,teochew.csv
-31,Elbow,,手肘,,Chiw tung,Chhiú tiú,teochew.csv
-31,Chest,,胸,,Heng,Heng,teochew.csv
-31,Breast,,乳,,Ni,Nĩ,teochew.csv
-31,Waist,,腰,,Ie,Ie,teochew.csv
-31,Belly,,肚,,Tou,*Tóu,tiebreak
-31,Thigh,,骹大腿,脚大腿,Kha toa tui,Kha tūa thúi,teochew.csv
-31,Knee,,骹頭趺,脚𦡀,Kha taou u,Kha thâu u,teochew.csv
-31,Shin,,骹臁,脚臁,Kha liem,Kha liâm,teochew.csv
-31,Heel,,骹後蹬,脚後躓,Kha ow tey,Kha aũ teⁿ,teochew.csv
-31,Toes,,骹趾,脚指,Kha choi,Kha chí,teochew.csv
-32,Open the eyes,,開目,,Kui mak,Khui ma̍k,teochew.csv
-32,Pinch the nose,,捻鼻,,Diem pñi,Liàm phì,teochew.csv
-32,Loquacious,,㩼話,多話,Choi wey,Tsōi uē,teochew.csv
-32,Eloquent,,口才,,Kaou chai,Háu tsâi,teochew.csv
-32,Stammering,,大舌,,Toa chĭ,Tūa chi̍h,teochew.csv
-32,Obscene,,粗口,,Chou chui,Tshu kháu,teochew.csv
-32,A lean face,,面瘦,,Min san,Mīn sán,teochew.csv
-32,A smiling face,,笑面,,Chie min,Chhiè mīn,teochew.csv
-32,Having a reputation,,有面,,U min,Ũ mīn,teochew.csv
-32,Having lost reputation,,失面,,Sĭt min,Sit mīn,teochew.csv
-32,A fair complexion,,好面色,,Haw min sĕk,*Hó mīn sek,tiebreak
-32,A thievish hand,,三隻手,,Sa chiă chiw,Saⁿ chiah chhiú,teochew.csv
-32,Brothers are like hands and feet,,兄弟如手足,,Hia ti ju chiw chok,*Hiaⁿ tĩ zû chhiú tsok,tiebreak
-32,Strike with the fist,,拳頭拍,拳頭打,Kun taou pă,Khûn thâu phah,teochew.csv
-32,He has not yet commenced,,未曾開手,未嘗開手,Boe cheng kui chiw,*Būe cheng khui chhiú,tiebreak
-32,Pass from one hand to the other,,左手交右手,,Chia chiw kaou taw chiw,*Tsó chhiú kau iù chhiú,tiebreak
-32,He cannot move hand or foot,,骹手毋能舉,脚手不能舉,Kha chiw mʼoi tin tang,Kha chhiú bô lêng kṳ́,teochew.csv
-32,He lives from hand to mouth,,左手挈、右手去,,"Chaw chiw khiĕ,yiw chiw khur","*Tsó chhiú khie̍h,iù chhiú khṳ̀",tiebreak
-32,He is always busy,,骹手無時歇,脚手無時歇,Kha chiw baw si hiă,Kha chhiú bô sî hiah,teochew.csv
-32,How long has your foot been sore,,汝骹痛若久,爾脚痛若久,Lur kha thia jiĕ ku,Lṳ́ kha thiàⁿ jie̍h kú,teochew.csv
-33,Skin,,皮,,Poe,Phî,teochew.csv
-33,Bone,,骨,,Kŭt,Kut,teochew.csv
-33,Flesh,,肉,,Nĕk,Ne̍k,teochew.csv
-33,Joint,,節,,Chăt,Tsat,teochew.csv
-33,Sinew,,筋,,Kŭrn,Kṳn,teochew.csv
-33,Pulse,,脉,,Mĕ,Me̍h,teochew.csv
-33,Entrails,,腸,,Tŭng,Tn̂g,teochew.csv
-33,Heart,,心,,Sim,Sim,teochew.csv
-33,Liver,,肝,,Kua,Kuaⁿ,teochew.csv
-33,Lungs,,肺,,Hui,Hùi,teochew.csv
-33,Gall,,膽,,Ta,Táⁿ,teochew.csv
-33,Kidnies,,腎,,Sien,Siẽn,teochew.csv
-33,Bladder,,尿胞,,Jie pa,Jiē pau,teochew.csv
-33,Urine,,尿,,Jie,Jiē,teochew.csv
-33,Feces,,屎,,Sai,Sái,teochew.csv
-33,Tears,,目汁,,Măk chăp,Ma̍k tsap,teochew.csv
-33,Phlegm,,痰,,Tʼham,Thâm,teochew.csv
-33,Spittle,,涎,,Noa,Nũa,teochew.csv
-33,Perspiration,,汗,,Koa,Kūaⁿ,teochew.csv
-33,Senses,,五官,,Gnou kua,*Ngõu kuaⁿ,tiebreak
-33,Seeing,,睇,看,Toi,Thì,teochew.csv
-33,Hearing,,聽,,Tʼhia,Thiaⁿ,teochew.csv
-33,Smelling,,鼻,,Pñi,Phì,teochew.csv
-33,Tasting,,嚐,嘗,Sie,Siêⁿ,teochew.csv
-33,Feeling,,摸,,Mong,Mông,teochew.csv
-33,Mind,,心,,Sim,Sim,teochew.csv
-33,Soul,,靈魂,,Leng hun,Lêng hûn,teochew.csv
-33,Spirit,,靈,,Leng,Lêng,teochew.csv
-33,Passions,,七情,,Chĭt cheng,Chhit chhêng,teochew.csv
-33,Love,,愛,,Ai,Ài,teochew.csv
-33,Hatred,,惡,,U,*Ù,tiebreak
-33,Desire,,欲,,Ai,Àiⁿ,teochew.csv
-33,Joy,,喜,,Hi,Hí,teochew.csv
-33,Anger,,怒,,Naw,*Nò,tiebreak
-33,Grief,,哀,,Ai,*Ai,tiebreak
-33,Pleasure,,樂,,Lăk,La̍k,teochew.csv
-33,Jealousy,,疑惑,,Gi hok,*Gi ho̍k,tiebreak
-33,Compassion,,慈悲,,Chur p[illegible text],*Tsṳ p[illegible text],rule
-34,To tear the flesh,,破皮,,Poa pue,Phò phûe,teochew.csv
-34,The bone is broken,,骨折了,,Kŭt chĭ liou,*Kut chi̍h lióu,tiebreak
-34,He wants a beating,,伊肉欲痛,,I nĕk ai thia,I ne̍k àiⁿ thiàⁿ,teochew.csv
-34,Rheumatic pains,,骨節痠痛,骨節酸痛,Kŭt chăt sŭng thia,Kut tsat sng thiàⁿ,teochew.csv
-34,To feel the pulse,,拍脉,打脉,Pă mĕ,Phah me̍h,teochew.csv
-34,A vicious person,,心腸毋好,心腸不好,Sim tŭng mʼhaw,*Tn̂g bû hó,tiebreak
-34,The liver is diseased,,肝經有病,,Kua keng u pey,Kuaⁿ keng ũ pēⁿ,teochew.csv
-34,Diseased lungs,,傷肺,,Sie hui,Sieⁿ hùi,teochew.csv
-34,He is courageous,,伊有膽,,I u ta,I ũ táⁿ,teochew.csv
-34,To go to stool,,放尿,,Pang sai,Pàng jiē,teochew.csv
-34,To shed tears,,流目汁,,Laou măk chăp,Lâu ma̍k tsap,teochew.csv
-34,To spit,,呸涎,唾涎,Phui noa,*Phùi nũa,tiebreak
-34,To perspire freely,,汗流㩼,汗流多,Kua laou choi,Kūaⁿ lâu tsōi,teochew.csv
-34,I don't see it,,我睇毋見,我看不見,Ua toi mʼkien,Tĩ bô kièn,teochew.csv
-34,I don't understand,,聽毋別,聽不識,Tʼhia mʼpat,*Bô pat,tiebreak
-34,Taste & see if it is good,,嚐~看~~(睇)好,嘗~看~~(睇)好,"Sie,toi haw","*Thì,thì hó",tiebreak
-34,He is pleased,,伊心歡喜,,I sim hoa hi,I sim huaⁿ hí,teochew.csv
-34,Love all men,,愛衆人,,Ai cheng nang,*Ài cheng nâng,tiebreak
-34,He is very angry,,伊氣在,伊氣極,I kʼhi chai,I khì tsãi,teochew.csv
-37,Sorrow,,煩惱,,Huan law,Huân ló,teochew.csv
-37,Regret,,憂悶,,Yiw bun,Iu būn,teochew.csv
-37,Desire,,願,,Gñuan,*Ngũan,tiebreak
-37,Hope,,希望,,Hi maw,Hi mō,teochew.csv
-37,Faith,,信德,,Sin tĕk,*Sìn tek,tiebreak
-37,Patience,,忍耐,,Jin nai,Jím nãi,teochew.csv
-37,Meekness,,温柔,,Un jiw,*Un jiu,rule
-37,Kindness,,恩惠,,Urn hui,Ṳn hũi,teochew.csv
-37,Happiness,,福,,Hok,Hok,teochew.csv
-37,Contentment,,知足,,Chai chok,Tsai tsok,teochew.csv
-37,Covetousness,,吝,,Dien,Liẽn,teochew.csv
-37,Liberality,,無吝,,Baw dien,Bô liẽn,teochew.csv
-37,Gratitude,,感恩,,Kam ŭrn,Kám ṳn,teochew.csv
-37,Skill,,名家,,Mia key,Miâⁿ ke,teochew.csv
-37,Ignorant,,無知,,Baw chai,Bô tsai,teochew.csv
-37,Wise,,賢,,Gaou,Gâu,teochew.csv
-37,Foolish,,禺,,Gña,*Ngô,tiebreak
-37,Righteousness,,行義,,Kia gñi,Kiâⁿ ngĩ,teochew.csv
-37,Godliness,,虔孝,䖍孝,Kien haou,*Khien hàu,tiebreak
-37,Frugality,,儉,,Kiem,Khiēⁿ,teochew.csv
-37,Innocence,,無罪,,Baw chuey,Bô tsũe,teochew.csv
-37,Sin,,罪,,Chuey,Tsũe,teochew.csv
-37,Forgiveness,,赦罪,,Sia chuey,Sià tsũe,teochew.csv
-37,Conversion,,悔改,悔攺,Huey koi,*Hùe kói,tiebreak
-37,Mercy,,恩,,Urn,Ṳn,teochew.csv
-37,Justice,,公道,,Kong taou,*Kong tãu,tiebreak
-37,Insincere,,毋誠心,不誠心,Mʼseng sim,Sêng sim,teochew.csv
-37,Reverence,,敬畏,,Keng ui,Kèng ùi,teochew.csv
-37,Uprightness,,誠實,,Seng sit,Sêng si̍t,teochew.csv
-37,Truth,,眞實,,Chin sit,Chin si̍t,teochew.csv
-37,Honesty,,老實,,Laou sit,*Lãu si̍t,tiebreak
-37,Sincerity,,忠厚,,Tong kaou,*Tong kâu,tiebreak
-37,Diligence,,勤,,Kŭrn,Khṳ̂n,teochew.csv
-37,Humility,,謙遜,,Kiem sun,Khiam sùn,teochew.csv
-37,Peace,,平安,,Peng an,Phêng an,teochew.csv
-37,Confusion,,亂,,Luan,Lũan,teochew.csv
-37,Courage,,膽,,Ta,Táⁿ,teochew.csv
-37,Constancy,,常,,Sie,Siêⁿ,teochew.csv
-37,Zeal,,發奮,,Huăt hun,Huat hùn,teochew.csv
-37,Perseverance,,至終,,Chi chong,Chì tsong,teochew.csv
-38,Sorrowing for the loss of money,,因爲破銀煩惱,,In ui poa gnŭrn huan law,*In ûi phò ngṳ̂n huân ló,tiebreak
-38,I desire your happiness,,我願汝得福,吾願爾得福,Ua gñuan lur tĭt hok,*Uá ngũan lṳ́ tit hok,tiebreak
-38,I hope to be well in future,,希望將來有好,,Hi maw chiang lai u haw,*Hi mō chiang lâi ũ hó,tiebreak
-38,Without faith it is impossible to be saved,,無信德不得救,,Baw sin tĕk put tit kiw,*Bô sìn tek put tit kiù,tiebreak
-38,Have long patience,,久久忍耐,,Ku ku jin nai,Kú kú jím nãi,teochew.csv
-38,I have received his kindness,,我受過伊恩惠,,Ua siw kuey i kai ŭrn hui,*Ua siu kue i kai ṳn hui,rule
-38,The godly shall enjoy endless happiness,,虔孝者享永福,䖍孝者享永福,Kien haou chia hiang yong hok,*Khien hàu chiá hiáng ióng hok,tiebreak
-38,He is never contented,,伊無知足,,I baw chai chok,I bô tsai tsok,teochew.csv
-38,I am grateful for your favors,,我感汝恩,我感爾恩,Ua kam lŭr kai ŭrn,*Ua kam lṳ kai ṳn,rule
-38,He is extremely covetous,,伊貪吝之極,,I tʼham lien chŭr kĕk,I tham liẽn tsṳ ke̍k,teochew.csv
-38,He is very skillful,,伊有名家在,伊有名家極,I u mia key chai,I ũ miâⁿ ke tsãi,teochew.csv
-38,Having a wise man's capacity,,有賢人之才,,U gaou nang chŭr chai,Ũ gâu nâng tsṳ tsâi,teochew.csv
-38,The word of the just can be relied upon,,義者話有定着,,Gni chia kai wey u tia tiŏ,*Ngi chia kai we u tia tioh,rule
-38,Frugality leads to plenty,,積儉正有銀存,,"Chĕk kiem chia, u gñurn chun","*Chek khiēⁿ chiàⁿ, ũ ngṳ̂n tshûn",tiebreak
-38,Faith in Jesus secures pardon for sin,,信耶穌得赦罪,,Sin Ya sou tĭt sia chuey,*Sìn Iā sou tit sià tsũe,tiebreak
-38,God is infinitely just,,神天至公道,,Sin Tien chi kong taou,*Sîn Thien chì kong tãu,tiebreak
-38,Truly I do not deceive you,,眞實無騙汝,眞實無騙爾,Chin sĭt baw pien lŭr,Chin si̍t bô phièn lṳ́,teochew.csv
-38,The wicked have no peace,,惡人心無平安,,Ak nang sim baw peng an,Ak nâng sim bô phêng an,teochew.csv
-38,He is constantly doing thus,,常常伊行如此,,Sie sie i kia chiĕ say,Siêⁿ siêⁿ i kiâⁿ zû chí,teochew.csv
-38,Zealous in propagating the truth,,熱心傳眞道理,,Juă sim tuan chin taw li,Zua̍h sim tuān chin tõ lí,teochew.csv
-37,Pride,,驕傲,,Kiou gnaou,*Kiau ngàu,tiebreak
-37,Vanity,,好名,,Haou mia,Háu miâⁿ,teochew.csv
-37,Contention,,相爭,,Sie chey,Sie cheⁿ,teochew.csv
-37,Passionate,,火性,,Huey sey,Húe sèⁿ,teochew.csv
-37,Willful,,故意,,Ku i,*Kū ì,tiebreak
-37,Petulant,,靑面,,Chey min,Chheⁿ mīn,teochew.csv
-37,Hypocrisy,,詐僞,,Cha gnuì,Tsà ngũiì,teochew.csv
-37,Contempt,,輕忽,,Khin hŭt,Khin hut,teochew.csv
-37,Obedience,,順,,Sun,Sũn,teochew.csv
-37,Benevolence,,施恩,,Si ŭrn,*Si ṳn,tiebreak
-37,Dependence,,倚靠,,I kou,Í kõu,teochew.csv
-37,Submission,,甘心,,Kam sin,Kam sim,teochew.csv
-37,To think,,心想,,Sim sie,Sim siẽⁿ,teochew.csv
-37,To calculate,,拍算,打算,Pă sung,Phah sǹg,teochew.csv
-37,To scheme,,計,,Koi,Kòi,teochew.csv
-37,To agree,,相合,,Siang hă,*Siang ha̍h,tiebreak
-37,To refuse,,不悦,,Put juăt,Put zua̍t,teochew.csv
-37,Cheerful,,快樂,,Kuai lăk,Khùai la̍k,teochew.csv
-37,Niggardly,,較儉,太儉,Kă khiem,Kà khiēⁿ,teochew.csv
-37,Blind,,青盲,瞽目,Chey mey,Chheⁿ mê,teochew.csv
-37,Deaf,,耳聾,,Hi lang,Hĩⁿ lâng,teochew.csv
-37,Maimed,,破相,,Poa sie,Phò sie,teochew.csv
-37,Dumb,,啞,瘂,Ey̆,Eh,teochew.csv
-37,Squinting,,射鳥目,邪鳥目,Sia chiou măk,*Siā chióu ma̍k,tiebreak
-37,Stammering,,大舌,,Toa chĭ,Tūa chi̍h,teochew.csv
-37,Foolish,,顚,,Siow,Tien,teochew.csv
-37,Cough,,咳嗽,咳𠻳,Ka saou,*Ka sàu,tiebreak
-37,Sneeze,,嚏,,Pă ka ti,*Pah ka ti,rule
-37,Faint,,虛眩,,Hur hin,Hṳ hîn,teochew.csv
-37,Palsy,,遍遂,,Kuan pien,*Pièn sûi,tiebreak
-37,Leprosy,,癩哥,痳瘋,Tai kaw,*Nãi ko,tiebreak
-37,Fever,,發熱,,Huăt juă,Huat zua̍h,teochew.csv
-37,Intermittent,,發寒,,Huăt kua,Huat kûaⁿ,teochew.csv
-37,Cold,,鼻嚏,,Chek chui,*Phĩⁿ thì,tiebreak
-37,Head ache,,頭殻痛,,Taou kăk tia,*Tau kak tia,rule
-37,Asthma,,嗄,嘎,Hey,He,teochew.csv
-37,Sigh,,敨氣,偷氣,Taou kui,*Tau kui,rule
-37,Yawn,,呵呬,叱噓,Huă hi,Huah hì,teochew.csv
-38,He is proud & will not listen,,伊驕傲毋肯聽,伊驕傲不肯聽,I kiou gnaou mʼkeng thia,*Kiau ngàu bû khéng thiaⁿ,tiebreak
-38,He is not sincere but only desires a name,,無實好名定定,,Baw sit haou mia tia tia,Bô si̍t háu miâⁿ tiāⁿ tiāⁿ,teochew.csv
-38,The honorable man is not quarrelsome,,君子無相爭,,Kun chur baw sie chey,Kun tsṳ́ bô sie cheⁿ,teochew.csv
-38,A disposition as fierce as the flames,,性如火之烈,,Sey ju huey chŭr diĕt,Sèⁿ zû húe tsṳ lie̍t,teochew.csv
-38,He is willful & will not read,,伊故意毋讀,伊故意不讀,"I ku i, mʼtak","*Kū ì m̃, tāu",tiebreak
-38,Altogether hypocritical,,所行皆是詐僞,,Saw kia kai si cha gnui,Só kiâⁿ kai sĩ tsà ngũi,teochew.csv
-38,He rejects this doctrine,,伊輕忽此道理,,I khin hŭt chi taw li,I khin hut chí tõ lí,teochew.csv
-38,Respect to parents,,孝順父母,,Haou sun pey baw,Hàu sũn pẽ bó,teochew.csv
-38,I think that is correct,,我想怎生有着,,Ua sie chie sey ~~n~~(u) tiĕ,*Ua sie chie se ~~n~~(u) tieh,rule
-38,The husband & wife disagree,,伊翁𡚸毋相合,伊翁𡚸不相合,I ang bou mʼsiang hă,*I ang bô siang ha̍h,tiebreak
-38,He is blind & cannot see,,伊青盲看毋見,伊瞽目看不見,I chey mey toi mʼki,Chheⁿ mê thì bô kìⁿ,teochew.csv
-38,I am a little hard of hearing,,我耳聾些須,,Ua hi lang sey su,Uá hĩⁿ lâng se su,teochew.csv
-38,The stammerer does not finish his sentence,,大舌講毋到句,大舌講不到句,Toa chĕ kong mʼkaou ku,*Chi̍h káng bô kàu kù,tiebreak
-38,The mind of the foolish is unstable,,顚人心神無定,,Siow nang sim sin baw tia,Tien nâng sim sîn bô tiāⁿ,teochew.csv
-38,How long have you had a cough,,汝咳嗽有若久,爾咳𠻳有若久,Lur ka saou u jiĕ ku,*Lṳ́ ka sàu ũ jie̍h kú,tiebreak
-38,He has a number of boils,,伊生幾粒瘣,,I sey kui liep tue,I seⁿ kúi lia̍p húi,teochew.csv
-38,Has your child had the small pox,,汝个囝出珠未,爾箇子出痘未,Lur kai kia chut chu boe,*Lṳ́ kài kiáⁿ tshut tsu būe,tiebreak
-38,Do you understand inoculation,,汝能種珠咩,爾能種痘麽,Lur oi cheng chu mĕ,*Lṳ́ lêng chèng tsu meh,tiebreak
-38,This child has worms,,此阿孥囝疳癪,此亞孥子疳癪,Chi a nou kia u kam chek,*Chi a nou kia u kam chek,rule
-38,My eyes are sore & I can not read,,目睭痛毋能讀,目珠痛不能讀,Măk chiw tia mʼoi tak,*Chiu thiàⁿ bô lêng tāu,tiebreak
-41,Father,,父,,Pey,Pẽ,teochew.csv
-41,Mother,,母,,Baw,Bó,teochew.csv
-41,Step-father,,繼父,,Ki pey,Kì pẽ,teochew.csv
-41,Step-mother,,後母,,Ou baw,Aũ bó,teochew.csv
-41,Father-in-law,,岳父,,Gnăk pey,Nga̍k pẽ,teochew.csv
-41,Mother-in-law,,岳母,,Gnăk baw,Nga̍k bó,teochew.csv
-41,Grandfather,,公,,A,Ang,teochew.csv
-41,Grandmother,,媽,,A ma,*A ma,rule
-41,Husband,,翁,,Ang,Ang,teochew.csv
-41,Brother (),,兄,,A hia,*A hia,rule
-41,Brother (),,弟,,A ti,*A ti,rule
-41,Sister (),,姐,,A chey,*A che,rule
-41,Sister (),,妹,,A mue,*A mue,rule
-41,Brother-in-law,,舅,,A ku,*A ku,rule
-41,Sister-in-law,,姨,,A í,Î í,teochew.csv
-41,Child,,囝,子,Kia,Kiáⁿ,teochew.csv
-41,Daughter,,諸婦囝,女子,Cha bou kia,Tsa bóu kiáⁿ,teochew.csv
-41,Son,,丈夫囝,男子,Ta pou kia,Ta pou kiáⁿ,teochew.csv
-41,Grand child,,++阿++孫,,A sun,*A sun,tiebreak
-41,First born,,頭子,長子,Toau tur,Thâu tsṳ́,teochew.csv
-41,Last born,,尾囝,未子,Boe kia,Búe kiáⁿ,teochew.csv
-41,Twins,,雙生,䨇生,Sang sey,Sang seⁿ,teochew.csv
-41,Orphan,,孤子,,Ko chur,Ku tsṳ́,teochew.csv
-41,Uncle (),,++阿++伯,,A pĕ,A peh,teochew.csv
-41,Aunt (),,++阿++姆,,A um,A ḿ,teochew.csv
-41,Father's () brother,,++阿++叔,,A chĕk,A chek,teochew.csv
-41,Uncle's wife,,++阿++嬸,,A sim,A sím,teochew.csv
-41,Friends,,朋友,,Peng yiw,Phêng iú,teochew.csv
-41,Prince,,君,,Kun,Kun,teochew.csv
-41,Minister,,臣,,Chin,Chhîn,teochew.csv
-41,Slave (),,僕,,Pok,Po̍k,teochew.csv
-41,Slave (),,婢,,Pi,Pĩ,teochew.csv
-41,Master,,家主,,Key chu,Ke tsú,teochew.csv
-41,Mistress,,家主娘,,Key chu nie,Ke tsú niêⁿ,teochew.csv
-41,Bridegroom,,新郎,,Sin nung,Sin nn̂g,teochew.csv
-41,Bride,,新娘,,Sin nie,Sin niêⁿ,teochew.csv
-41,Nephew,,姪,,Tiĕt,Tie̍t,teochew.csv
-41,Niece,,姪女,,Tiĕt nung,Tie̍t nńg,teochew.csv
-42,First class,,上品,,Siang pin,*Siâng pín,tiebreak
-42,Middle class,,中品,,Tong pin,*Tong pín,tiebreak
-42,Lower class,,下品,,Hia pin,Hiã pín,teochew.csv
-42,Husband-men,,農夫,,Long hu,*Lông hū,tiebreak
-42,Hunters,,獵人,,Lă jin,La̍h jîn,teochew.csv
-42,Physicians,,醫生,,Ui seng,Ui seng,teochew.csv
-42,Merchants,,商人,,Siang jin,Siang jîn,teochew.csv
-42,Fishermen,,漁人,,Hŭr jin,Hṳ̂ jîn,teochew.csv
-42,Soldiers,,兵丁,,Pier teng,Piaⁿ teng,teochew.csv
-42,Executioners,,殺手,,Suă siw,Suah siú,teochew.csv
-42,Beggars,,乞食,,Khŭrt chiă,Khṳt chia̍h,teochew.csv
-42,Thieves,,賊囝,賊子,Chăt kia,Tsha̍t kiáⁿ,teochew.csv
-42,Gamblers,,賭棍,,Tu kun,Tú kùn,teochew.csv
-42,Jailers,,禁止,,Kim chi,*Kìm chí,tiebreak
-42,Players,,戲囝,戲子,Hi kia,*Hì kiáⁿ,tiebreak
-42,Slaves,,奴僕,,Nou pok,*Nou po̍k,tiebreak
-42,Pettifoggers,,訟師,,Song sŭr,Sõng sṳ,teochew.csv
-42,Priests,,和尙,,Huey sie,*Hûe sièⁿ,tiebreak
-42,Old men,,老人,,Laou nang,*Lãu nâng,tiebreak
-42,A sage,,聖人,,Sia nang,Siàⁿ nâng,teochew.csv
-42,A worthy,,賢人,,Hien jin,Hiên jîn,teochew.csv
-42,Excellent man,,君子,,Kun chŭr,Kun tsṳ́,teochew.csv
-42,Just man,,義士,,Gñi sŭr,Ngĩ sṳ̃,teochew.csv
-42,Philanthropist,,仁人,,Jin nang,Jîn nâng,teochew.csv
-42,Virtuous man,,善人,,Sien nang,Siẽn nâng,teochew.csv
-42,Good man,,好人,,Haw nang,*Hó nâng,tiebreak
-42,Vicious man,,痞人,獃人,Pai nang,Phí nâng,teochew.csv
-42,Bad man,,惡人,,Ak nang,Ak nâng,teochew.csv
-42,A hero,,英人,,Eng jin,Eng jîn,teochew.csv
-42,A teacher,,先生,,Sin sey,Sin seⁿ,teochew.csv
-42,Literary man,,文人,,Bun jin,*Bûn jîn,tiebreak
-42,A scholar,,文學,,Bun ŏ,*Bûn o̍h,tiebreak
-42,Civil officer,,文官,,Bun kua,*Bûn kuaⁿ,tiebreak
-42,Military officer,,武官,,Bu kua,Bú kuaⁿ,teochew.csv
-42,A general,,武將,,Bu chiang,*Bú chiang,tiebreak
-42,A sailor,,水手,,Chiu siw,Tsúi siú,teochew.csv
-42,Super cargo,,船主,,Chun chu,Tsûn tsú,teochew.csv
-42,Sailing-master,,夥長,,Huey tie,Húe tiéⁿ,teochew.csv
-42,A clerk,,財副,,Chai hu,Tshâi hù,teochew.csv
-43,House,,厝,,Chu,Tshù,teochew.csv
-43,Bambu house,,竹厝,,Tek chu,Tek tshù,teochew.csv
-43,Board house,,枋厝,,Pang chu,*Pang tshù,tiebreak
-43,Brick house,,塗庫,,Tou khou,Tôu khòu,teochew.csv
-43,Prison,,監,,Kam,*Kam,tiebreak
-43,Wat,,庵,𥦩,Am,Am,teochew.csv
-43,Temple,,廟,,Bie,Biē,teochew.csv
-43,Zayat,,經㕔,,Keng tia,*Keng tia,rule
-43,Church,,禮拜堂,,Loi pai tung,Lói pài tn̂g,teochew.csv
-43,Pagoda,,㙮,,Thă,*Thah,rule
-43,Palace,,王府,,Wang hu,*Uâng hú,tiebreak
-43,Hut,,寮囝,寮子,Liou kia,Liâu kiáⁿ,teochew.csv
-43,Cook house,,火食,,Hue sit,Húe si̍t,teochew.csv
-43,Godown,,樓底,,Laou toi,Lâu tói,teochew.csv
-43,Granary,,倉,,Chŭng,Tshng,teochew.csv
-43,Treasury,,庫,,Khou,Khòu,teochew.csv
-43,Fort,,炮臺,,Phaou tai,*Phàu tâi,tiebreak
-43,Floating house,,水桴,,Chui pey,Tsúi hu,teochew.csv
-43,Printing office,,印書舘,,In chŭr kuan,Ìn tsṳ kuán,teochew.csv
-43,Store room,,棧,,Chan,Tsàn,teochew.csv
-43,Stall,,牛寮,,Gu liou,Gû liâu,teochew.csv
-43,Brick,,磚,,Chŭng,Tsng,teochew.csv
-43,Tile,,瓦,,Hia,Hiã,teochew.csv
-43,Chak,,笮,,Chak,Chek,teochew.csv
-43,Lime,,灰,,Hue,Hue,teochew.csv
-43,Sand,,沙,,Sua,Sua,teochew.csv
-43,Stone,,石,,Chiĕ,Chie̍h,teochew.csv
-43,Rattan,,籐,,Tin,*Tin,tiebreak
-43,Nails,,鐵釘,,Tĭ teng,*Thih teng,tiebreak
-43,Board,,枋,,Pang,*Pang,tiebreak
-43,Beam,,横載,,Huey chai,*Hue tsai,rule
-43,Post,,柱,,Tiou,Thiõu,teochew.csv
-43,Brace,,抵,,Tu,Tí,teochew.csv
-43,Rafters,,桷,,Kak,Kak,teochew.csv
-43,Wall,,牆,𫮰,Chie,Chhiêⁿ,teochew.csv
-43,Partition,,壁,,Piăh,Piah,teochew.csv
-43,Corner,,四角,,Si kak,Sì kak,teochew.csv
-43,Roof,,厝頂,,Chu teng,Tshù téng,teochew.csv
-43,Stairs,,梯頭,,Tui taou,Thi thâu,teochew.csv
-44,Room,,房,,Pang,Pâng,teochew.csv
-44,Chamber,,樓頂,,Laou teng,Lâu téng,teochew.csv
-44,Loft,,層,,Chan,Tsân,teochew.csv
-44,Door,,門,,Mŭng,Mn̂g,teochew.csv
-44,Window,,窗,窻,Teng,Theng,teochew.csv
-44,Lock,,鎖頭,,Saw taou,Só thâu,teochew.csv
-44,Key,,鎖匙,,Saw si,Só sî,teochew.csv
-44,Railing,,欄杆,,Lan kan,Lân kan,teochew.csv
-44,Slats,,欄杆枳,,Lan kan chi,Lân kan chí,teochew.csv
-44,Hinges,,鉸鉞,,Ka sut,*Ka ua̍t,tiebreak
-44,Rings,,門環,門𤨔,Mŭng huan,Mn̂g huân,teochew.csv
-44,Table,,桌,,Tŏ,Toh,teochew.csv
-44,Chair,,筊椅,筊𬃪,Kaou i,Káu i,teochew.csv
-44,Rocking-chair,,倚腰椅,倚腰𬃪,Ua ie i,Uá ie i,teochew.csv
-44,Stool,,椅頭,𬃪頭,I taou,I thâu,teochew.csv
-44,Foot stool,,骹踏椅,脚踏𬃪,Ka tă i,Kha ta̍h i,teochew.csv
-44,Couch,,眠椅,眠𬃪,Min i,Mîn i,teochew.csv
-44,Book case,,書架,,Chŭr key,Tsṳ kè,teochew.csv
-44,Cupboard,,食厨,,Chiă tu,Chia̍h tû,teochew.csv
-44,Clothes basket,,籐囊,,Tin lang,*Tin láng,tiebreak
-44,Bedstead,,眠床,眠牀,Min chŭng,Mîn tshn̂g,teochew.csv
-44,Matrass,,褥,,Jok,Zo̍k,teochew.csv
-44,Curtains,,蚊帳,,Mang ta,Máng tièⁿ,teochew.csv
-44,Pillow,,枕頭,,Chim taou,Chím thâu,teochew.csv
-44,Cradle,,搖籃,,Ie na,*Iê nâ,tiebreak
-44,Chest,,箱,,Sie,Sieⁿ,teochew.csv
-44,Drawers,,櫃,,Kñui,Kūi,teochew.csv
-44,Looking-glass,,鏡臺,,Kia tai,Kiàⁿ tâi,teochew.csv
-44,Wash stand,,面盆架,,Min pun key,Mīn phûn kè,teochew.csv
-44,Lamp,,燈火,,Teng huey,Teng húe,teochew.csv
-44,Lantern,,燈籠,,Teng nang,*Teng láng,tiebreak
-44,Candlestick,,燭臺,,Chek tai,Chek tâi,teochew.csv
-44,Bowl,,碗,,Ua,Uáⁿ,teochew.csv
-44,Plate,,盤,,Pua,Pûaⁿ,teochew.csv
-44,Tea cup,,茶鐘,,Tey cheng,Tê cheng,teochew.csv
-44,Saucer,,茶船,,Tey chun,Tê tsûn,teochew.csv
-44,Wash bowl,,面盆,,Min pun,Mīn phûn,teochew.csv
-44,Water pot,,水摜,水𢸎,Chui kua,Tsúi kũaⁿ,teochew.csv
-45,Tea pot,,茶罐,茶礶,Tey kuan,Tê kuàn,teochew.csv
-45,Cover,,盖,,Kñoi,*Khòiⁿ,tiebreak
-45,Tea board,,茶盤,,Tey poa,Tê pûaⁿ,teochew.csv
-45,Knife,,刀,,Taw,To,teochew.csv
-45,Fork,,义,,Chey,*Che,rule
-45,Spoon,,湯匙,,Tŭng si,*Thng sî,tiebreak
-45,Chopstick,,箸,,Tŭr,Tṳ̄,teochew.csv
-45,Table cloth,,遮床布,,Chia chŭng pou,Chia tshn̂g pòu,teochew.csv
-45,Mortar,,臼囝,臼子,Ku kai,*Khũ kiáⁿ,tiebreak
-45,Sieve,,篩斗,,Tai taou,Sai táu,teochew.csv
-45,Flint,,火石,,Huey chiĕ,Húe chie̍h,teochew.csv
-45,Broom,,箒把,,Saou siw,*Siú pé,tiebreak
-45,Shears,,剪刀,,Ka taw,Tsáⁿ to,teochew.csv
-45,Candle,,燭,,Chĕk,Chek,teochew.csv
-45,Wick,,燈心,,Teng sim,Teng sim,teochew.csv
-45,Watch,,時辰錶,時辰票,Si sin pie,Sî sîn pie,teochew.csv
-45,Clock,,時鐘,,Si cheng,Sî cheng,teochew.csv
-45,Bell,,鐘,,Cheng,Cheng,teochew.csv
-45,Gong,,欽,,Kim,Khim,teochew.csv
-45,Writing tray,,硯盤,,I poa,Īⁿ pûaⁿ,teochew.csv
-45,Pen stand,,筆池,,Pĭt ti,Pit tî,teochew.csv
-45,Stand for ink,,墨碟,,Bak tĭ,Ba̍k ti̍h,teochew.csv
-45,Water stand,,水碟,,Chui tĭ,Tsúi ti̍h,teochew.csv
-45,Pencil frame,,筆架,,Pĭt kèy,*Pit kèy,rule
-45,Ink,,墨,,Bak,Ba̍k,teochew.csv
-45,Pencil tube,,筆筒,,Pĭt tang,*Pit tâng,tiebreak
-45,A tablet,,粉牌,,Hun pai,Hún pâi,teochew.csv
-45,Book,,書冊,,Chŭr chĕ,Tsṳ chheh,teochew.csv
-45,Blank book,,簿,,Phou,Phõu,teochew.csv
-45,Letter,,書信,,Chŭr sin,*Tsṳ sìn,tiebreak
-45,Paper,,紙,,Chua,Tsúa,teochew.csv
-45,Draft,,㑹單,,Huéy toa,*Huéy toa,rule
-45,Bill of lading,,貨單,,Huèy toa,*Huèy toa,rule
-45,Contract,,合約,,Hăp iĕ,Ha̍p ieh,teochew.csv
-45,Receipt,,收單,,Siw toa,Siu tuaⁿ,teochew.csv
-45,Order,,領單,,Nĭa toa,Niáⁿ tuaⁿ,teochew.csv
-45,Clearance,,大字,,Toa ji,Tūa jī,teochew.csv
-45,Treaty,,盟約,𥂀約,Meng iĕ,Mêng ieh,teochew.csv
-44,Plough,,犁,,Loi,Lôi,teochew.csv
-44,Harrow,,耙,,Pey,Pê,teochew.csv
-44,Hoe,,鋤頭,,Tŭr taou,Tṳ̂ thâu,teochew.csv
-44,Spade,,鐵橫,,Ti huey,Thih hûe,teochew.csv
-44,Fiail,,梗,,Kèy,*Kèy,rule
-44,Sickle,,鈎䥥,,Kaou liem,*Kau liem,rule
-44,Rake,,鐵耙,,Tĭ pey,Thih pê,teochew.csv
-44,Cart,,車,,Chia,Chhia,teochew.csv
-44,Carriage,,馬車,,Béy chia,*Béy chia,rule
-44,Grind stone,,磨石,,Boa chiĕ,*Búa chie̍h,tiebreak
-44,Hammer,,鐵鎚,,Tĭ tui,Thih tui,teochew.csv
-44,Saw,,鋸,,Kŭr,Kṳ̀,teochew.csv
-44,File,,鎈,,Chaw,*Tso,rule
-44,Gimlet,,鑽囝,鑽子,Chŭng kia,Tsǹg kiáⁿ,teochew.csv
-44,Chisel,,鑿囝,鑿子,Chăk kia,Tsha̍k kiáⁿ,teochew.csv
-44,Hatchet,,斧頭,,Po taou,Pú thâu,teochew.csv
-44,Plane,,抽,,Tiu,Thiu,teochew.csv
-44,Musket,,銃,,Cʼheng,Chhèng,teochew.csv
-44,Sword,,長刀,,Tŭng taw,Tn̂g to,teochew.csv
-44,Large boat,,大船,,Toa chun,Tūa tsûn,teochew.csv
-44,Small boat,,船囝,船子,Chun kia,Tsûn kiáⁿ,teochew.csv
-44,Oars,,槳,,Chìe,*Chìe,rule
-44,Paddles,,橈囝,橈子,Jie kia,Jiê kiáⁿ,teochew.csv
-44,Mat,,草蓆,,Chaou chiĕ,Tsháu chhie̍h,teochew.csv
-44,Cushion,,皮坐,,Poe chaw,Phî tsõ,teochew.csv
-44,To row,,扒船,櫂船,Pey chun,Pê tsûn,teochew.csv
-44,To steer,,掠尾,,Diă boe,Lia̍h búe,teochew.csv
-44,Work fast,,出力,,Chut lat,Tshut la̍t,teochew.csv
-44,Dip out the water,,舀水,,Ie chui,Ié tsúi,teochew.csv
-44,The boat rocks,,船搖,,Chun ie,*Tsûn iê,tiebreak
-44,Boat cover,,弓蓬,,Keng pang,Keng phông,teochew.csv
-44,The boat leaks,,船漏,,Chun laou,*Tsûn láu,tiebreak
-44,Repair the boat,,收船,,Siw chun,Siu tsûn,teochew.csv
-44,Lock the boat,,鎖船,鎖丨,Saw chun,Só tsûn,teochew.csv
-45,Print books,,印冊,,In chĕ,Ìn chheh,teochew.csv
-45,Set up type,,擇字,,Tŏ ji,To̍h jī,teochew.csv
-45,Correct proof,,換字,,Ua ji,Uāⁿ jī,teochew.csv
-45,Ink the type,,刷墨,,Suĕ bak,Sueh ba̍k,teochew.csv
-45,Trim books,,截冊,,Choĭ chĕ,Tso̍ih chheh,teochew.csv
-45,To press,,壓,,Tĕ,Teh,teochew.csv
-45,To fold,,摺,,Jĭ,La̍h,teochew.csv
-45,Cut type,,割字,,Kuă ji,Kuah jī,teochew.csv
-45,Cast type,,鑄印,,Chu in,Tsù ìn,teochew.csv
-45,Seal character,,篆字,,Toan ji,Tuãn jī,teochew.csv
-45,German text,,𨽾書,,Tí chŭr,*Tí tsṳ,rule
-45,Italic,,楷書,,Kʼhai chŭr,*Khai tsṳ,tiebreak
-45,Running hand,,行書,,Hang su,*Hâng su,tiebreak
-45,Short hand,,草字,,Chaw ji,Tshó jī,teochew.csv
-45,Roman letters,,宋體,,Song tʼoi,Sòng thí,teochew.csv
-45,Nouns,,實字,,Sït ji,*Sït ji,rule
-45,Verbs,,活字,,Uă ji,Ua̍h jī,teochew.csv
-45,Particles &c.,,虛字,,Hŭr ji,Hṳ jī,teochew.csv
-45,Style,,文理,,Bun li,*Bûn lí,tiebreak
-45,Ancient literature,,古文,,Kou bun,*Kóu bûn,tiebreak
-45,Classics,,經書,,Kia chŭr,Kiaⁿ tsṳ,teochew.csv
-45,Ancient poetry,,古詩,,Kou si,Kóu si,teochew.csv
-45,Modern literature,,時文,,Si bun,*Sî bûn,tiebreak
-45,Fine writing,,文章,,Bun chie,*Bûn chieⁿ,tiebreak
-45,Historical,,傳志,,Tŭng chi,Tn̄g chì,teochew.csv
-45,Five classics,,五經,,Gñou kia,*Ngõu kiaⁿ,tiebreak
-45,Diagrams,,一經,,Yiă-kia,Iau-kiaⁿ,teochew.csv
-45,Ancient history,,書經,,Chŭr-kia,Tsṳ-kiaⁿ,teochew.csv
-45,Sacred odes,,詩經,,Si-kia,Si-kiaⁿ,teochew.csv
-45,Laws & usages,,禮記,,Loi-ki,Lói-kì,teochew.csv
-45,"Annals by,",,春秋,,Chun-chiw,Tshun-chhiu,teochew.csv
-45,Four books,,四書,,Si-su,Sì-su,teochew.csv
-45,Great science,,大學,,Tai-hăk,Tãi-ha̍k,teochew.csv
-45,"Discourses, by",,論語,,Lun-gŭr,*Lũn-gṳ́,tiebreak
-45,Mencius,,孟子,,Meng-chŭr,Mẽng-tsṳ́,teochew.csv
-45,Golden medium,,中庸,,Tong-yong,*Tong-iông,tiebreak
-45,Filial piety,,孝經,,Haou-kia,Hàu-kiaⁿ,teochew.csv
-46,Animals,,牲畜,,Sèng tʼiok,*Sèng tiok,rule
-46,Horse,,馬,,Bèy,*Bèy,rule
-46,Ox,,牛,,Gu,Gû,teochew.csv
-46,Sheep,,羊,,Ie,Iêⁿ,teochew.csv
-46,Ass,,驢,,Lŭr,Lṳ̂,teochew.csv
-46,Hog,,猪,,Tŭr,Tṳ,teochew.csv
-46,Camel,,駝,,Tʼhŏ,Tho̍h,teochew.csv
-46,Dog,,狗,,Kaou,Káu,teochew.csv
-46,Cat,,貓,,Gniou,Ngiou,teochew.csv
-46,Kitten,,貓囝,貓子,Gniou kia,Ngiou kiáⁿ,teochew.csv
-46,Stallion,,馬牯,,Bèy kʼho,*Bèy kho,rule
-46,Mare,,馬母,,Bèy baw,*Bèy bo,rule
-46,Bull,,牛牯,,Gu kʼho,Gû kóu,teochew.csv
-46,Cow,,牛母,,Gu baw,Gû bó,teochew.csv
-46,Ram,,羊牯,,Ie kʼho,Iêⁿ kóu,teochew.csv
-46,Ewe,,羊母,,Ie baw,Iêⁿ bó,teochew.csv
-46,Colt,,馬囝,馬子,Bèy kia,*Bèy kia,rule
-46,Calf,,牛囝,牛子,Gu kia,Gû kiáⁿ,teochew.csv
-46,Pig,,猪囝,猪子,Tŭr kia,Tṳ kiáⁿ,teochew.csv
-46,Wild beasts,,獸,,Siw,Siù,teochew.csv
-46,Lion,,獅公,獅剛,Sai kang,Sai kang,teochew.csv
-46,Lioness,,獅母,,Sai baw,Sai bó,teochew.csv
-46,Tiger,,虎,,Hʼñou,Hóuⁿ,teochew.csv
-46,Bear,,熊,,Him,*Him,tiebreak
-46,Elephant,,象,,Cʼhiè,Chhiẽⁿè,teochew.csv
-46,Leopard,,豹,,Pa,Pà,teochew.csv
-46,Wolf,,豺狼,,Chai lang,Tshâi lâng,teochew.csv
-46,Rhinoceros,,𫵠㐄,,Sai gu,*Sai gu,rule
-46,Deer,,鹿,,Tĕk,Te̍k,teochew.csv
-46,Fox,,狐狸,,Hu lai,Hû lâi,teochew.csv
-46,Rat,,鳥鼠,老鼠,Niou chŭr,Niáu tshṳ́,teochew.csv
-46,Rabbit,,石鼠,,Chiĕ chŭr,Chie̍h tshṳ́,teochew.csv
-46,Birds,,鳥,,Chiou,Chióu,teochew.csv
-46,Crow,,烏鳥,,Ou chiou,Ou chióu,teochew.csv
-46,Sparrow,,麻雀,雀鳥,Maw chiă,Mâ chiah,teochew.csv
-46,Cuckoo,,鳩鳥,,Ku ku,Ku niáu,teochew.csv
-46,Owl,,貓頭鳥,,Gñiou taou chiou,Ngiou thâu chióu,teochew.csv
-46,Parrot,,鸚哥,鸚𤔄,Eng kaw,Eng ko,teochew.csv
-47,King fisher,,魚鴉,,Hŭr ah,Hṳ̂ a,teochew.csv
-47,Quail,,鵪鶉,,An chun,*An thun,tiebreak
-47,Vulture,,死人鳥,,Si nang chʼou,Sí nâng chióu,teochew.csv
-47,Ostrich,,駝鳥,,Tŏ chiou,Tho̍h chióu,teochew.csv
-47,Peacock,,孔雀,,Kong chiĕk,Khóng chiah,teochew.csv
-47,Pheasant,,山鷄,,Sua koi,Suaⁿ koi,teochew.csv
-47,Pigeon,,鴒鳥,,Hun chiou,Lêng chióu,teochew.csv
-47,Partridge,,鷓鴣,,Chiă kou,Chià kou,teochew.csv
-47,Wild duck,,水鴨,,Chui ăh,Tsúi ah,teochew.csv
-47,Pelican,,海鵝,,Hai gaw,Hái gô,teochew.csv
-47,Turkey,,火鷄,,Hue koi,Húe koi,teochew.csv
-47,Goose,,鵝,,Gaw,Gô,teochew.csv
-47,Duck,,鴨,,ăh,ah,teochew.csv
-47,Fowl,,雞,,Koi,Koi,teochew.csv
-47,Chicken,,雞囝,雞子,Koi kia,Koi kiáⁿ,teochew.csv
-47,Cock,,雞翁,,Koi ang,Koi ang,teochew.csv
-47,Drake,,鴨翁,,ăh kang,ah ang,teochew.csv
-47,Hen,,鷄母,,Koi baw,Koi bó,teochew.csv
-47,Pullet,,鷄卵,鷄旦,Koi noa,Koi nñg,teochew.csv
-47,Serpent,,蛇,,Chua,Tsûa,teochew.csv
-47,Scorpion,,蠍,,Hiĕt,Hiet,teochew.csv
-47,Centipede,,蜈蚣,,Gey kang,Gê kang,teochew.csv
-47,Leech,,蝴蜞,,Hou kʼi,Hôu khî,teochew.csv
-47,Spider,,蜘蛛,,Ti tu,Ti tu,teochew.csv
-47,Frog,,水蛙,,Chui koi,Tsúi i,teochew.csv
-47,Lizard,,蠐龍,守宮,Chi leng,Chîⁿ lêng,teochew.csv
-47,Tŏk key,,篤家,,Tŏk key,*To̍k ke,tiebreak
-47,Alligator,,鱷魚,,Gñak hŭr,Nga̍k hṳ̂,teochew.csv
-47,Shark,,鯊魚,,Sua hŭr,Sua hṳ̂,teochew.csv
-47,Worm,,蚯蚓,,Kʼou un,Khiu ún,teochew.csv
-47,Turtle,,龜,,Ku,Ku,teochew.csv
-47,Butterfly,,蝴蝶,,Hu tiĕp,Hû tia̍p,teochew.csv
-47,Fly,,胡蠅,蒼蠅,How sin,Hôu sîn,teochew.csv
-47,Fire-fly,,火夜,,Hue mey,Húe mê,teochew.csv
-47,Bee,,蜂,,Pʼhang,Phang,teochew.csv
-47,Grasshopper,,草蜢,,Chaou mè,*Tsháu meè,tiebreak
-47,Cricket,,草蟀,,Chaou sut,Tsháu sut,teochew.csv
-47,White ant,,白蟻,,Pĕ hia,*Pe̍h hiã,tiebreak
-48,Gold,,金,,Kim,Kim,teochew.csv
-48,Silver,,銀,,Gnŭrn,Ngṳ̂n,teochew.csv
-48,Pewter,,錫,,Siă,Siah,teochew.csv
-48,Lead,,鉛,,In,În,teochew.csv
-48,Cast-iron,,鉎,,Sey,Seⁿ,teochew.csv
-48,Iron,,鐵,,Tĭ,Thih,teochew.csv
-48,Copper,,銅,,Tang,Tâng,teochew.csv
-48,White copper,,白銅,,Pĕ tang,Pe̍h tâng,teochew.csv
-48,Brass,,黃銅,黃丨,Ng tang,N̂g tâng,teochew.csv
-48,Copper,,紅銅,紅丨,Ang tang,Âng tâng,teochew.csv
-48,Steel,,鋼,,Kŭng,Kang,teochew.csv
-48,Tin,,白鐵,,Pĕ tĭ,Pe̍h thih,teochew.csv
-48,Tree,,樹,,Chiw,Chhiū,teochew.csv
-48,Root,,根,,Kŭrn,Kṳn,teochew.csv
-48,Branch,,枝,,Ki,Ki,teochew.csv
-48,Trunk,,樹身,,Chiw sin,Chhiū sin,teochew.csv
-48,Bark,,樹皮,,Chiw pue,Chhiū phûe,teochew.csv
-48,Leaf,,葉,,Hiĕ,Hie̍h,teochew.csv
-48,Sap,,樹泥,,Chiw ni,*Chhiū nì,tiebreak
-48,Flower,,花,,Hue,Hue,teochew.csv
-48,Bud,,芽,,Gey,Gê,teochew.csv
-48,Fruit,,菓子,,Kuey chi,Kúe chí,teochew.csv
-48,Husk,,粗糠,,Chou kŭng,Tshu khng,teochew.csv
-48,Rind,,皮,,Pue,Phûe,teochew.csv
-48,Pulp,,菓子肉,,Kuey chi nĕk,Kúe chí ne̍k,teochew.csv
-48,Seed,,核,,Hut,Hu̍t,teochew.csv
-48,tree,,柑欉,柑𣜒,Ka chang,*Kaⁿ tsâng,tiebreak
-48,Pomegranate,,石榴欉,石榴丨,Siĕ liw chang,*Sie̍h liû tsâng,tiebreak
-49,Cucumber,,吊瓜,,Tiou kue,Tiòu kue,teochew.csv
-49,Pumpkin,,金瓜,,Kim kue,Kim kue,teochew.csv
-49,Squash,,冬瓜,,Tang kue,Tang kue,teochew.csv
-49,Watermelon,,西瓜,,Si kue,Si kue,teochew.csv
-49,Mustard,,芥子,,Kai chi,Kài chí,teochew.csv
-49,Bean,,荳,,Taou,Tāu,teochew.csv
-49,Turnip,,菜頭,,Chai taou,Tshài thâu,teochew.csv
-49,Cabbage,,番茄藍,,Hwan kă na,*Huan kia nâ,tiebreak
-49,Onion,,蔥頭,,Chang taou,Tshang thâu,teochew.csv
-49,Garlic,,蒜頭,,Sŭng taou,Sǹg thâu,teochew.csv
-49,Pepper,,楜椒,,Hou chie,*Hou chie,rule
-49,Chilli,,辣椒,,Hiem chie,Lua̍h chie,teochew.csv
-49,Potatoe,,蕃葛,,Hwan kuă,Huan kuah,teochew.csv
-49,Yam,,大薯,,Toa chŭr,Tūa tsṳ̂,teochew.csv
-49,Rice,,米,,Bi,Bí,teochew.csv
-49,Rice,,飯,,Pŭng,*Pn̄g,tiebreak
-49,Cake,,粿,,Kuèy,*Kuèy,rule
-49,Biscuit,,餅,,Pia,Piáⁿ,teochew.csv
-49,Congee,,粥,,Mue,Io̍k,teochew.csv
-49,Soup,,湯,,Tŭng,*Thng,tiebreak
-49,Tea (leaf),,茶米,,Tey bi,Tê bí,teochew.csv
-49,Tea,,茶,,Tey,Tê,teochew.csv
-49,Water,,水,,Chui,Tsúi,teochew.csv
-49,Vinegar,,醋,,Cʼhou,Tshù,teochew.csv
-49,Spirits,,酒,,Chiw,Chiú,teochew.csv
-49,Wine,,汁,,Chap,Tsap,teochew.csv
-49,Milk,,牛乳,,Gu ni,Gû nĩ,teochew.csv
-49,Butter,,牛乳油,,Gu ni yiw,Gû nĩ iû,teochew.csv
-49,Cheese,,牛乳餅,,Gu ni pia,Gû nĩ piáⁿ,teochew.csv
-49,Egg,,卵,,Nŭng,Nñg,teochew.csv
-49,Sugar,,糖,,Tŭng,Thn̂g,teochew.csv
-49,Molasses,,糖水,,Tŭng chui,Thn̂g tsúi,teochew.csv
-49,Salt,,鹽,𪉩,Yiam,Iâm,teochew.csv
-49,Beef,,牛肉,,Gu bă,Gû bah,teochew.csv
-49,Pork,,猪肉,,Tŭr bă,Tṳ bah,teochew.csv
-49,Fowl,,雞,,Koi,Koi,teochew.csv
-49,Fish,,魚,,Hŭr,Hṳ̂,teochew.csv
-49,Bread,,麵包,,Mi paou,Mī pau,teochew.csv
-50,Time,,時,,Si,Sî,teochew.csv
-50,Eternity,,永遠,,Yong yen,*Ióng ién,tiebreak
-50,The four season,,四時,,Si si,Sì sî,teochew.csv
-50,Spring,,春,,Chun,Tshun,teochew.csv
-50,Summer,,夏,,Hey,*Hē,tiebreak
-50,Autumn,,秋,,Chiw,Chhiu,teochew.csv
-50,Winter,,冬,,Tang,Tang,teochew.csv
-50,Year,,年,,Ni,Nî,teochew.csv
-50,Month,,月,,Guĕ,Gu̍eh,teochew.csv
-50,Week,,禮拜,,Loi pai,Lói pài,teochew.csv
-50,Day,,日,,Jit,Ji̍t,teochew.csv
-50,Hour,,一點鐘,,Chek tiem cheng,Che̍k tiám cheng,teochew.csv
-50,Day time,,日間,,Jit kan,Ji̍t kan,teochew.csv
-50,Night time,,夜時,,Mey si,Mê sî,teochew.csv
-50,Morning,,眠起,,Meng ki,*Mèng khí,tiebreak
-50,Noon,,日午,,Jit taou,Ji̍t ngóu,teochew.csv
-50,Afternoon,,下午,,E kwa,*Ē ngóu,tiebreak
-50,Evening,,夜昏,,Mey hñg,Mê hng,teochew.csv
-50,Midnight,,半夜,,Poa mey,Pùaⁿ mê,teochew.csv
-50,Day light,,天光早,,Ti kŭng cha,*Thiⁿ kuang tsá,tiebreak
-50,Sunrise,,日出,,Jit chŭt,Ji̍t tshut,teochew.csv
-50,Sun down,,日落,,Jit lŏ,Ji̍t lo̍h,teochew.csv
-50,To day,,今日,,Kim jit,Kim ji̍t,teochew.csv
-50,Yesterday,,昨日,,Cha jit,*Tsa ji̍t,tiebreak
-50,Day before yesterday,,絶日,,Chŏ jit,Tso̍h ji̍t,teochew.csv
-50,Tomorrow,,明早,明日,Moa cha,Mê tsá,teochew.csv
-50,Day after tomorrow,,後日,,Ow jit,Aũ ji̍t,teochew.csv
-50,Sabbath day,,禮拜日,,Loi pai jit,Lói pài ji̍t,teochew.csv
-50,This year,,今年,,Kim ni,Kim nî,teochew.csv
-50,Next year,,明年,,Mey ni,Mê nî,teochew.csv
-50,Last year,,舊年,,Ku ni,*Kū nî,tiebreak
-50,New year,,過年,,Kue ni,Kùe nî,teochew.csv
-50,First month,,正月,,Chia guĕ,*Chiàⁿ gu̍eh,tiebreak
-50,First day,,初一,,Chiw it,Tshu it,teochew.csv
-50,Daily,,日日,,Jit jit,Ji̍t ji̍t,teochew.csv
-50,Quickly,,猛猛,,Mey mey,Mé mé,teochew.csv
-50,Slowly,,慢慢,緩緩,Man man,Mān mān,teochew.csv
-50,Presently,,霎時,,Siĕp si,Siap sî,teochew.csv
-50,Another day,,下日,,E jit,*Ē ji̍t,tiebreak
-51,Clothes,,衣服,,I hok,*I ho̍k,tiebreak
-51,Crown,,皇帝帽,,Hwang ti baw,Huâng tì bō,teochew.csv
-51,Hat,,㡌,,Baw,*Bo,rule
-51,Cap,,㡌囝,丨子,Baw kia,*Bo kia,rule
-51,Turban,,頭布,,Taou pou,Thâu pòu,teochew.csv
-51,Jacket,,衫,,Sa,Saⁿ,teochew.csv
-51,Pantaloons,,褲,,Khou,Khòu,teochew.csv
-51,Vest,,甲囝,甲子,Kă kia,Kah kiáⁿ,teochew.csv
-51,Stockings,,襪,,Boĕ,Bue̍h,teochew.csv
-51,Shirt,,身底衫,,Sin toi sa,Sin tói saⁿ,teochew.csv
-51,Gown,,大領衫,大領丨,Toa nia sa,Tūa niá saⁿ,teochew.csv
-51,Apron,,圍腰布,,Ui ie pou,*Uî ie pòu,tiebreak
-51,Cloak,,風幔,風𧜞,Huang moa,Huang mua,teochew.csv
-51,Girdle,,褲頭帶,,Khou taou toa,*Khòu thâu tùa,tiebreak
-51,Button,,鈕,,Niw,Niú,teochew.csv
-51,Button hole,,鈕縫,丨𦕎,Niw pan,Niú phāng,teochew.csv
-51,Comb,,梳,,Siw,Siu,teochew.csv
-51,Hair pin,,如意,,Ju i,Zû ì,teochew.csv
-51,Anklets,,骹環,脚𤨔,Ka hwan,Kha huân,teochew.csv
-51,Bracelets,,手環,手𤨔,Chiw hwan,Chhiú huân,teochew.csv
-51,Finger ring,,手節,,Chiw chăt,Chhiú tsat,teochew.csv
-51,Ear ring,,耳鈎,,Hi kaou,Hĩⁿ kau,teochew.csv
-51,Buckle,,鈕扣,,Niw khaou,Niú khàu,teochew.csv
-51,Needle,,針,,Cham,Tsam,teochew.csv
-51,Cord,,䌇囝,䌇子,Sŏ kia,Soh kiáⁿ,teochew.csv
-51,Thread,,線,,Soa,Sùaⁿ,teochew.csv
-51,Silk,,絲,,Si,Si,teochew.csv
-51,Cotton,,紗,,Sey,Se,teochew.csv
-51,Silk,,綾,,Lin,Lîn,teochew.csv
-51,Velvet,,絨,,Jong,Zông,teochew.csv
-51,Broadcloth,,哖,,Ni,*Ni,rule
-51,Crape,,縐紗,,Jiow sey,*Jiâu se,tiebreak
-51,Satin,,緞,縀,Tŭng,Tn̄g,teochew.csv
-51,Lace,,絲帶,,Si toa,*Si tùa,tiebreak
-51,Canvass,,帆布,㠶布,Pang pou,Phâng pòu,teochew.csv
-51,Staff,,杖,,Chiang,Chiãng,teochew.csv
-51,Umbrella,,雨傘,,Hou sua,*Hõu sùaⁿ,tiebreak
-51,Fan,,扇,,Si,Sìⁿ,teochew.csv
-51,Purse,,銀桶,,Gnŭrn tong,Ngṳ̂n thóng,teochew.csv
-52,1 Thread,,一條線,,Chĕk *tiou* sua,Che̍k *tiôu* sùaⁿ,teochew.csv
-52,2 Braids,,二條辮,二丨辮,Naw ~~„~~(tiou) pi,*Nõ ~~„~~(tiôu) piⁿ,tiebreak
-52,3 Bathing cloths,,三條浴布,三丨浴布,Sa ~~„~~(tiou) ĕk pou,Saⁿ ~~„~~(tiôu) e̍k pòu,teochew.csv
-52,4 Turbans,,四條頭布,四丨頭布,Si ~~„~~(tiou) taou pou,Sì ~~„~~(tiôu) thâu pòu,teochew.csv
-52,5 Cravats,,五條封領,五丨封領,Gñou ~~„~~(tiou) huang nia,*Ngõu ~~„~~(tiôu) huang niá,tiebreak
-52,6 Bands,,六條帶,六丨帶,Lak ~~„~~(tiou) toa,*La̍k ~~„~~(tiôu) tùa,tiebreak
-52,7 Towels,,七條面巾,七丨面巾,Chĭt ~~„~~(tiou) min kŭrn,Chhit ~~„~~(tiôu) mīn kṳn,teochew.csv
-52,8 Handkerchiefs,,八條手巾,八丨手巾,Poĭ ~~„~~(tiou) chiw kŭrn,Poih ~~„~~(tiôu) chhiú kṳn,teochew.csv
-52,9 Hairs,,九條頭毛,九丨頭毛,Kaou ~~„~~(tiou) taou maw,Káu ~~„~~(tiôu) thâu mô,teochew.csv
-52,10 Ropes,,十條䌇,十丨䌇,Chap ~~„~~(tiou) sŏ,Tsa̍p ~~„~~(tiôu) soh,teochew.csv
-52,11 Fowls,,十一隻雞,,Chap it *chiă* koi,Tsa̍p it *chiah* koi,teochew.csv
-52,12 Ducks,,十二隻鴨,十二丨鴨,Chap ji ~~„~~(chiă) ăh,*Tsa̍p jī ~~„~~(chiah) ah,tiebreak
-52,13 Geese,,十三隻鵝,十三丨鵝,Chap sa ~~„~~(chiă) gaw,Tsa̍p saⁿ ~~„~~(chiah) gô,teochew.csv
-52,14 Dogs,,十四隻狗,十四丨狗,Chap si ~~„~~(chiă) kaou,Tsa̍p sì ~~„~~(chiah) káu,teochew.csv
-52,15 Goats,,十五隻羊,十五丨羊,Chap gñou ~~„~~(chiă) ie,*Tsa̍p ngõu ~~„~~(chiah) iêⁿ,tiebreak
-52,16 Pigs,,十六隻猪,十六丨猪,Chap lak ~~„~~(chiă) tŭr,Tsa̍p la̍k ~~„~~(chiah) tṳ,teochew.csv
-52,17 Cows,,十七隻牛,十七丨牛,Chap chĭt ~~„~~(chiă) gu,Tsa̍p chhit ~~„~~(chiah) gû,teochew.csv
-52,18 Chairs,,十八隻椅,十八丨𬃪,Chap poĭ ~~„~~(chiă) ì,*Pak chiah ~~„~~(íⁿ) ì,tiebreak
-52,19 Tables,,十九隻床,十九丨床,Chap kaou ~~„~~(chiă) chŭng,Tsa̍p káu ~~„~~(chiah) tshn̂g,teochew.csv
-52,20 Boats,,二十隻船,二十丨船,Ji chap ~~„~~(chiă) chun,*Jī tsa̍p ~~„~~(chiah) tsûn,tiebreak
-53,21 Blankets,,二一領被,,Ji it *nia* poe,*Jī it *niá* phũe,tiebreak
-53,22 Mattresses,,二二領褥,,Ji ji ~~„~~(nia) jok,*Jī jī ~~„~~(niá) zo̍k,tiebreak
-53,23 Carpets,,二三領氊,,Ji sa ~~„~~(nia) chien,*Jī saⁿ ~~„~~(niá) chien,tiebreak
-53,24 Gowns,,二四領袍,,Ji si ~~„~~(nia) kaou,*Jī sì ~~„~~(niá) phâu,tiebreak
-53,25 Curtains,,二五領虻帳,,Ji gñou ~~„~~(nia) mang ta,*Ji ngou ~~„~~(nia) mang ta,rule
-53,26 Mats,,二六領草蓆,,Ji lak ~~„~~(nia) chaou chiĕ,*Jī la̍k ~~„~~(niá) tsháu chhie̍h,tiebreak
-53,27 Bamboo,,二七領竹蓆,二七領竹丨,Ji chĭt ~~„~~(nia) tek chiĕ,*Jī chhit ~~„~~(niá) tek chhie̍h,tiebreak
-53,28,,二八領籐蓆,二八領籐丨,Ji poĭ ~~„~~(nia) tin chiĕ,*Jī poih ~~„~~(niá) tin chhie̍h,tiebreak
-53,29,,二九領京捫蓆,,Ji kaou ~~„~~(nia) kia bun chiĕ,*Jī káu ~~„~~(niá) kiaⁿ mông chhie̍h,tiebreak
-53,30 Rain jackets,,三十領棕蓑,,Sa chap ~~„~~(nia) chang sui,Saⁿ tsa̍p ~~„~~(niá) tsang sui,teochew.csv
-53,1 Close cap,,一頂紗㡌,,Chĕk *teng* sey baw,*Chek *teng* se bo,rule
-53,2 Satin caps,,二頂緞㡌,二頂縀丨,Naw ~~„~~(teng) tŭng baw,*No ~~„~~(teng) tung bo,rule
-53,3 Felt hats,,三頂毡㡌,三頂毡丨,Sa ~~„~~(teng) chi baw,*Sa ~~„~~(teng) chi bo,rule
-53,4 Tassel'd caps,,四頂纓㡌,,Si ~~„~~(teng) eng baw,*Si ~~„~~(teng) eng bo,rule
-53,5 Straw hats,,五頂草㡌,,Gñou ~~„~~(teng) chaou baw,*Ngou ~~„~~(teng) tsau bo,rule
-53,6 Bamboo hats,,六頂葵笠,六丨葵笠,Lak ~~„~~(teng) kuey loĭ,La̍k ~~„~~(téng) kûe loi̍h,teochew.csv
-53,1 Trunk,,一骹箱,一脚箱,Chĕk *kʼha* sie,Che̍k *kha* sieⁿ,teochew.csv
-53,2 Baskets,,二骹囊,二脚囊,Naw ~~„~~(kʼha) lang,*Nõ ~~„~~(kha) láng,tiebreak
-53,3 Chests of drawers,,三骹櫃,三脚櫃,Sa ~~„~~(kʼha) kñui,Saⁿ ~~„~~(kha) kūi,teochew.csv
-53,4 Water pails,,四骹水桶,四脚水桶,Si ~~„~~(kʼha) chui tang,Sì ~~„~~(kha) tsúi tháng,teochew.csv
-54,1 Pr. of shoes,,一雙𩋘,一䨇𩋘,Chĕk *sang* oi,*Chek *sang* oi,rule
-54,2 Pr. of socks,,二雙襪,二丨襪,Naw ~~„~~(sang) buĕ,Nõ ~~„~~(sang) bue̍h,teochew.csv
-54,3 Pr. of feet,,三雙骹,三丨脚,Sa ~~„~~(sang) kʼha,Saⁿ ~~„~~(sang) kha,teochew.csv
-54,4 Pr. of hands,,四雙手,四丨手,Si ~~„~~(sang) chiw,Sì ~~„~~(sang) chhiú,teochew.csv
-54,5 Pr. of eyes,,五雙目,五丨目,Gñou ~~„~~(sang) măk,*Ngõu ~~„~~(sang) ma̍k,tiebreak
-54,6 Pr. of ears,,六雙耳,六丨耳,Lak ~~„~~(sang) hñi,La̍k ~~„~~(sang) hĩⁿ,teochew.csv
-54,7 Pr. of chop sticks,,七雙箸,七丨著,Chĭt ~~„~~(sang) tŭr,Chhit ~~„~~(sang) tṳ̄,teochew.csv
-54,1 Pr. of ornamental papers,,一對對聯,,Chĕk *tui* tui lien,Che̍k *tùi* tùi liên,teochew.csv
-54,2 Pr. of ear rings,,二對耳環,二對耳𤨔,Naw ~~„~~(tui) hñi huan,Nõ ~~„~~(tùi) hĩⁿ huân,teochew.csv
-54,3 Pr. of bracelets,,三對手~~𤨔~~(環),三對手丨),Sa ~~„~~(tui) chiw huan,Saⁿ ~~„~~(tùi) chhiú huân,teochew.csv
-54,4 Pr. of door handles,,四對門~~𤨔~~(環),四對門丨),Si ~~„~~(tui) mŭng huan,Sì ~~„~~(tùi) mn̂g huân,teochew.csv
-54,1 Paper of tea,,一包茶米,,Chĕk *paou* tey bi,Che̍k *pau* tê bí,teochew.csv
-54,2 Papers of medicine,,二包藥,二丨藥,Naw ~~„~~(paou) iĕ,Nõ ~~„~~(pau) ie̍h,teochew.csv
-54,3 Paper of sugar,,三包白糖,三丨白糖,Sa ~~„~~(paou) pĕ tŭng,Saⁿ ~~„~~(pau) pe̍h thn̂g,teochew.csv
-54,1 Brick,,一塊磚,,Chĕk *kaw* chŭng,Che̍k *kò* tsng,teochew.csv
-54,2 Stones,,二塊石,二丨石,Naw ~~„~~(kaw) chiĕ,Nõ ~~„~~(kò) chie̍h,teochew.csv
-54,3 Tiles,,三塊瓦,三丨瓦,Sa ~~„~~(kaw) hia,Saⁿ ~~„~~(kò) hiã,teochew.csv
-54,4 Lumps of earth,,四塊塗,四丨塗,Si ~~„~~(kaw) tou,Sì ~~„~~(kò) tôu,teochew.csv
-54,5 Sticks of wood,,五塊柴,五丨柴,Gñou ~~„~~(kaw)  cha,*Ngõu ~~„~~(kò)  tshâ,tiebreak
-54,6 Biscuits,,六塊餅,六丨餅,Lăk ~~„~~(kaw) pia,La̍k ~~„~~(kò) piáⁿ,teochew.csv
-55,7 Boards,,七塊枋,,Chit *kaw* pang,*Chhit *kò* pang,tiebreak
-55,8 Cakes,,八塊粿,八丨粿,Poĭ ~~„~~(kaw) Poĭ kuey,*Poih ~~„~~(ko) Poih kue,rule
-55,9 Pieces of pork,,九塊猪肉,九丨猪肉,Kaou ~~„~~(kaw) tŭr bă,Káu ~~„~~(kò) tṳ bah,teochew.csv
-55,1 Button,,一粒鈕,,Chĕk *liĕp* niw,Che̍k *lia̍p* niú,teochew.csv
-55,2 Grains of rice,,二粒米,二丨米,Naw ~~„~~(liĕp) bi,Nõ ~~„~~(lia̍p) bí,teochew.csv
-55,3 Mangoes,,三粒榱,三丨榱,Sa ~~„~~(liĕp) sñuai,Saⁿ ~~„~~(lia̍p) suāiⁿ,teochew.csv
-55,4 Beans,,四粒荳,四丨荳,Si ~~„~~(liĕp) taou,Sì ~~„~~(lia̍p) tāu,teochew.csv
-55,5 Pearls,,五粒珠,五丨珠,Gñou ~~„~~(liĕp) chu,*Ngõu ~~„~~(lia̍p) tsu,tiebreak
-55,6 Onions,,六粒葱頭,六丨葱頭,Lak ~~„~~(liĕp) chang taou,La̍k ~~„~~(lia̍p) tshang thâu,teochew.csv
-55,7 Chillies,,七粒辣椒,七丨辣椒,Chĭt ~~„~~(liĕp) hĭem chie,Chhit ~~„~~(lia̍p) lua̍h chie,teochew.csv
-55,8 Peppers,,八粒楜椒,八丨楜椒,Poĭ ~~„~~(liĕp) hou chie,*Poih ~~„~~(liep) hou chie,rule
-55,9 Pills,,九粒藥丸,九丨藥丸,Kaou ~~„~~(liĕp) iĕ i,Káu ~~„~~(lia̍p) ie̍h îⁿ,teochew.csv
-55,1 Bundle of chopsticks,,一把箸,一把著,Chĕk *pèy* tŭr,*Chek *pèy* tṳ,rule
-55,2 Bundles of sugar cane,,二把蔗,二丨樜,Naw ~~„~~(pèy) chia,*No ~~„~~(pèy) chia,rule
-55,3 Handfuls of rice,,三把米,三丨米,Sa ~~„~~(pèy) bi,*Sa ~~„~~(pèy) bi,rule
-55,1 Piece of cloth,,一疋布,,Chĕk *pĭt* pou,Che̍k *phit* pòu,teochew.csv
-55,1 Umbrella,,一枝雨傘,,Chĕk *ki* hou sua,*Che̍k *ki* hõu sùaⁿ,tiebreak
-55,2 Chattas,,二枝凉傘,二丨凉傘,Naw ~~„~~(ki) ney sua,Nõ ~~„~~(ki) liâng sùaⁿ,teochew.csv
-55,3 Bearing poles,,三枝平擔,三丨平擔,Sa ~~„~~(ki) poi ta,*Saⁿ ~~„~~(ki) pêⁿ taⁿ,tiebreak
-55,4 Bamboos,,四枝竹,四丨竹,Si ~~„~~(ki) tek,Sì ~~„~~(ki) tek,teochew.csv
-56,5 Pencils,,五枝筆,,Gñou *ki* pit,*Ngõu *ki* pit,tiebreak
-56,6 Knives,,六枝刀,,Lak ~~„~~(ki) taw,La̍k ~~„~~(ki) to,teochew.csv
-56,7 Hatchets,,七枝斧頭,,Chĭt ~~„~~(ki) pou taou,Chhit ~~„~~(ki) póu thâu,teochew.csv
-56,8 Nails,,八枝鐵釘,,Poĭ ~~„~~(ki) tĭ teng,*Poih ~~„~~(ki) thih teng,tiebreak
-56,9 Forks,,九枝鐵义,,Kaou ~~„~~(ki) tĭ chey,*Kau ~~„~~(ki) tih che,rule
-56,10 Lamp stands,,十枝錫燈,,Chap ~~„~~(ki) siă teng,Tsa̍p ~~„~~(ki) siah teng,teochew.csv
-56,11 Glass lamps,,十一枝玻璃燈,,Chap it ~~„~~(ki) paw li teng,Tsa̍p it ~~„~~(ki) po lî teng,teochew.csv
-56,12 Staves,,十二枝拐杖,,Chap ji ~~„~~(ki) kuai chiang,*Tsa̍p jī ~~„~~(ki) kuái chiãng,tiebreak
-56,13 Canes,,十三枝棍,,Chap sa ~~„~~(ki) kun,Tsa̍p saⁿ ~~„~~(ki) kùn,teochew.csv
-56,14 Fans,,十四枝扇,,Chap si ~~„~~(ki) si,Tsa̍p sì ~~„~~(ki) sìⁿ,teochew.csv
-56,1 Roll of cloth,,一捆布,,Chĕk *kʼhun* pou,Che̍k *khún* pòu,teochew.csv
-56,2 Rolls of mats,,二捆草蓆,,Naw ~~„~~(kʼhun) chaou chiĕ,Nõ ~~„~~(khún) tsháu chhie̍h,teochew.csv
-56,1 Ink stand,,一箇硯,,Chek *kai* i,*Che̍k *kài* īⁿ,tiebreak
-56,2 Pencil stands,,二箇筆架,二丨筆架,Naw ~~„~~(kai) pĭt key,*Nõ ~~„~~(kài) pit kè,tiebreak
-56,3 Writing trays,,三箇筆盤,三丨丨盤,Sa ~~„~~(kai) pĭt poa,*Saⁿ ~~„~~(kài) pit pûaⁿ,tiebreak
-56,4 Water cups,,四箇水碟,四丨水碟,Si ~~„~~(kai) chui tĭ,*Sì ~~„~~(kài) tsúi ti̍h,tiebreak
-56,5 Pencil cases,,五箇筆套,五丨筆套,Gñou ~~„~~(kai) pĭt tap,*Ngõu ~~„~~(kài) pit thàu,tiebreak
-56,6 Oranges,,六箇柑,六丨柑,Lak ~~„~~(kai) ka,*La̍k ~~„~~(kài) kaⁿ,tiebreak
-56,7 Pumeloes,,七箇柚,七丨柚,Chĭt ~~„~~(kai) yiw,*Chhit ~~„~~(kài) iû,tiebreak
-56,8 Plantains,,八箇芎蕉,八丨芎蕉,Poĭ ~~„~~(kai) keng chie,*Poih ~~„~~(kài) keng chie,tiebreak
-57,1 Bed,,一張眠床,,Chĕk *tie* min chŭng,*Che̍k *tieⁿ* mîn tshn̂g,tiebreak
-57,2 Carriages,,二張馬車,,Naw ~~„~~(tie) bey chia,*Nõ ~~„~~(tieⁿ) bé chhia,tiebreak
-57,3 Looms,,三張扣機,,Sa ~~„~~(tie) kaou kui,*Saⁿ ~~„~~(tieⁿ) khàu kúi,tiebreak
-57,4 Wheels,,四張紡車,,Si ~~„~~(tie) pang chia,*Sì ~~„~~(tieⁿ) pháng chhia,tiebreak
-57,5 Sheets of paper,,五張紙,,Gñou ~~„~~(tie) chua,*Ngõu ~~„~~(tieⁿ) tsúa,tiebreak
-57,6 Nets,,六張網,,Lak ~~„~~(tie) mang,*La̍k ~~„~~(tieⁿ) mãng,tiebreak
-57,1 Room,,一間房,,Chĕk *koi* pang,*Che̍k *koiⁿ* pâng,tiebreak
-57,2 Halls,,二間㕔,,Naw ~~„~~(koi) tia,*No ~~„~~(koi) tia,rule
-57,3 Houses,,三間厝,,Sa ~~„~~(koi) chu,*Saⁿ ~~„~~(koiⁿ) tshù,tiebreak
-57,1 Tree,,一欉樹,一𣜒樹,Chĕk *chang* chiw,*Che̍k *tsâng* chhiū,tiebreak
-57,2 Plants,,二欉花,二𣜒花,Naw ~~„~~(chang) hʼuey,*Nõ ~~„~~(tsâng) hue,tiebreak
-57,3 Weeds,,三欉草,三𣜒草,Sa ~~„~~(chang) chaou,*Saⁿ ~~„~~(tsâng) tsháu,tiebreak
-57,1 Flower,4 Flowers,一蕊花,,Chĕk *lui* huey,Che̍k *lúi* hue,teochew.csv
-57,1 Compound,,一圍厝,,Chĕk *ui* chu,*Che̍k *uî* tshù,tiebreak
-57,2 Flower gardens,,二圍花園,,Naw ~~„~~(ui) huey hñg,*Nõ ~~„~~(uî) hue hn̂g,tiebreak
-57,3 Vegetable gardens,,三圍菜園,,Sa ~~„~~(ui) chai hñg,*Saⁿ ~~„~~(uî) tshài hn̂g,tiebreak
-57,1 Book,,一本書冊,,Chĕk *pung* chŭr chĕ,Che̍k *pún* tsṳ chheh,teochew.csv
-57,2 Blank books,,二本書簿,,Naw ~~„~~(pung) siou pou,Nõ ~~„~~(pún) su phõu,teochew.csv
-57,1 Sentence,,一句書,,Chĕk *ku* chŭr,*Che̍k *kù* tsṳ,tiebreak
-57,2 Remarks,,二句話,,Naw ~~„~~(ku) wey,*Nõ ~~„~~(kù) uē,tiebreak
-58,1st,,初一,,Chiw it,Tshu it,teochew.csv
-58,2nd,,初二,,Chiw ji,*Tshu jī,tiebreak
-58,4th,,初四,,Chiw si,Tshu sì,teochew.csv
-58,5th,,初五,,Chiw gñou,*Tshu ngõu,tiebreak
-58,6th,,初六,,Chiw lak,Tshu la̍k,teochew.csv
-58,7th,,初七,,Chiw chĭt,Tshu chhit,teochew.csv
-58,8th,,初八,,Chiw poĭ,Tshu poih,teochew.csv
-58,9th,,初九,,Chiw kaou,Tshu káu,teochew.csv
-58,10th,,初十,,Chiw chap,Tshu tsa̍p,teochew.csv
-58,11th,,十一,,Chap it,Tsa̍p it,teochew.csv
-58,15th,,十五,,Chap gñou,*Tsa̍p ngõu,tiebreak
-58,17th,,十七,,Chap chĭt,Tsa̍p chhit,teochew.csv
-58,19th,,十九,,Chap kaou,Tsa̍p káu,teochew.csv
-58,20th,,二十,,Ji chap,*Jī tsa̍p,tiebreak
-58,21st,,二一,,Ji it,*Jī it,tiebreak
-58,22nd,,二二,,Ji ji,*Jī jī,tiebreak
-58,25th,,二五,,Ji gñou,*Jī ngõu,tiebreak
-58,30th,,三十,,Sa chap,Saⁿ tsa̍p,teochew.csv
-58,Season,,季,,Kʼhui,Khùi,teochew.csv
-58,Spring,,春,,Chun,Tshun,teochew.csv
-58,Summer,,夏,,Hey,*Hē,tiebreak
-58,Autumn,,秋,,Chiw,Chhiu,teochew.csv
-58,Winter,,冬,,Tang,Tang,teochew.csv
-58,Year,,年,,Ni,Nî,teochew.csv
-58,11 to 1 A.M.,,子,,Chŭr,Tsṳ́,teochew.csv
-58,1 to 3,,丑,,Tiw,Thiú,teochew.csv
-58,3 to 5,,寅,,In,În,teochew.csv
-58,5 to 7,,邜,,Baou,*Bau,rule
-58,7 to 9,,辰,,Sin,Sîn,teochew.csv
-58,9 to 11,,巳,已,Chi,Chĩ,teochew.csv
-58,11 to 1 P.M.,,午,,Gñou,Ngóu,teochew.csv
-58,1 to 3,,未,,Bi,Bī,teochew.csv
-58,3 to 5,,申,,Sin,Sin,teochew.csv
-58,5 to 7,,酉,,Yiw,Iú,teochew.csv
-58,7 to 9,,戌,,Sut,Sut,teochew.csv
-58,9 to 11,,亥,,Hai,Hãi,teochew.csv
-59,month Mch.,,二月,,Ji guĕ,*Jī gu̍eh,tiebreak
-59,month Apl.,,三月,,Sa guĕ,Saⁿ gu̍eh,teochew.csv
-59,month May,,四月,,Si guĕ,Sì gu̍eh,teochew.csv
-59,month June,,五月,,Gñou guĕ,*Ngõu gu̍eh,tiebreak
-59,month July,,六月,,Lak guĕ,La̍k gu̍eh,teochew.csv
-59,month Aug.,,七月,,Chĭt guĕ,Chhit gu̍eh,teochew.csv
-59,month Sept.,,八月,,Poĭ guĕ,Poih gu̍eh,teochew.csv
-59,month Oct.,,九月,,Kaou guĕ,Káu gu̍eh,teochew.csv
-59,10th month Nov.,,十月,,Chap guĕ,Tsa̍p gu̍eh,teochew.csv
-59,11th month Dec.,,十一月,,Chap it guĕ,Tsa̍p it gu̍eh,teochew.csv
-59,12th month Jan.,,十二月,,Chap ji guĕ,*Tsa̍p jī gu̍eh,tiebreak
-59,Sunday,,禮拜,,Loi pai,Lói pài,teochew.csv
-59,Monday,,拜一,,Pai it,Pài it,teochew.csv
-59,Tuesday,,拜二,,Pai ji,*Pài jī,tiebreak
-59,Wednesday,,拜三,,Pai sa,Pài saⁿ,teochew.csv
-59,Thursday,,拜四,,Pai si,Pài sì,teochew.csv
-59,Friday,,拜五,,Pai gñou,*Pài ngõu,tiebreak
-59,Saturday,,拜六,,Pai lak,Pài la̍k,teochew.csv
+puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
+*A ma,A ma,,,阿媽,媽,Grandmother,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,41
+*A mũe,A mue,,,阿妹,妹,Sister younger,Sister (y),,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,41
+*A sun,A sun,,,阿孫,孫,Grand child,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,41
+*A tĩ,A ti,,,阿弟,弟,Brother younger,Brother (y),,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,41
+*Ai,Ai,,,哀,,Grief,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,35
+*An thun,An chun,,,鵪鶉,,Quail,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,49
+*Bo,Baw,,,㡌,,Hat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,53
+*Bo kia,Baw kia,,,㡌囝,丨子,Cap,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,53
+*Bì tsúi,Bi chui,,,氼水,,Dive into the water,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*Bói che̍k peh thih-teng,Boi chek pĕ tĭ-teng,,,買一百鐵釘,,Buy 100 nails,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Bô lêng lâi,Ua mʼoi lai,,,我毋能來,我不能來,I cannot come,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Bô siang kan,Baw siang kan,,,無相干,,Never mind,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Bô sìn tek put tit kiù,Baw sin tĕk put tit kiw,,,無信德不得救,,Without faith it is impossible to be saved,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Bú chiang,Bu chiang,,,武將,,A general,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Búa chie̍h,Boa chiĕ,,,磨石,,Grind stone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,46
+*Bû khó siang-sìn i,Lur mʼhaw siang-sin i,,,汝毋可相信伊,爾不可相信伊,You can't trust him,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Bûn chieⁿ,Bun chie,,,文章,,Fine writing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Bûn jîn,Bun jin,,,文人,,Literary man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Bûn kuaⁿ,Bun kua,,,文官,,Civil officer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Bûn lí,Bun li,,,文理,,Style,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Bûn o̍h,Bun ŏ,,,文學,,A scholar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Būe cheng,Bue cheng,,,未曾,未嘗,Not yet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Būe cheng khui chhiú,Boe cheng kui chiw,,,未曾開手,未嘗開手,He has not yet commenced,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,34
+*Chek *teng* se bo,Chĕk *teng* sey baw,,,一頂紗㡌,,1 Close cap,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,55
+*Che̍k *ki* hõu sùaⁿ,Chĕk *ki* hou sua,,,一枝雨傘,,1 Umbrella,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Che̍k *koiⁿ* pâng,Chĕk *koi* pang,,,一間房,,1 Room,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Che̍k *kâi* īⁿ,Chek *kai* i,,,一個硯,一箇硯,1 Ink stand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Che̍k *kù* tsṳ,Chĕk *ku* chŭr,,,一句書,,1 Sentence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Che̍k *pé* tṳ̄,Chĕk *pèy* tŭr,,,一把箸,,1 Bundle of chopsticks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Che̍k *tieⁿ* mîn tshn̂g,Chĕk *tie* min chŭng,,,一張眠床,,1 Bed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Che̍k *tsâng* chhiū,Chĕk *chang* chiw,,,一欉樹,一𣜒樹,1 Tree,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Che̍k *uî* tshù,Chĕk *ui* chu,,,一圍厝,,1 Compound,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Che̍k nâng lâi lióu,Chek nang lai liou,,,一人來了,,One man has come,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Chhit *kò* pang,Chit *kaw* pang,,,七塊枋,,7 Boards,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Chhit kâi iû,Chĭt kai yiw,,,七個柚,七丨柚,7 Pumeloes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Chhiū nì,Chiw ni,,,樹泥,,Sap,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+"*Chhìn-tshái,khie̍h khṳ̀","Chin-chai,khiĕ khur",,,凊彩挈去,稱釆挈去,"Very well, take it",,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Chi a nou kia u kam chek,Chi a nou kia u kam chek,,,此阿孥囝疳癪,此亞孥子疳癪,This child has worms,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,40
+"*Chi tsu,si ti-tiang kai","Chi chu,si ti-tiang kai",,,此厝是底𫢗个,此厝是誰個,Whose house is this,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,26
+*Chiu thiàⁿ bô lêng tāu,Măk chiw tia mʼoi tak,,,目睭痛毋能讀,目珠痛不能讀,My eyes are sore & I can not read,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*Chiàⁿ chhiú kau tò chhiú,Chia chiw kaou taw chiw,,,正手交倒手,左手交右手,Pass from one hand to the other,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,34
+*Chiàⁿ gu̍eh,Chia guĕ,,,正月,,First month,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Chiàⁿ gu̍eh,Chia guĕ,,,正月,,1st month Feb.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
+*Chí chheh tî kò ìn,Chi chĕ ti taw in,,,此冊底塊印,此冊值處印,Where was this book printed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Chí mue̍h chiè hó,Chi muĕ chie haw,,,此物照好,此物掌好,Keep this safely,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Chí mue̍h khie̍h khṳ̀ lâu-téng,Chi muĕ khiĕ khur laou-teng,,,此物挈去樓頂,只物挈去樓頂,Carry this up stairs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Chí mue̍h khie̍h tńg khṳ̀,Chi muĕ khiĕ tung khur,,,此物挈轉去,只物挈轉去,Carry this back,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+"*Chí mue̍h,khie̍h khṳ̀ pãu ji̍t","Chi muĕ,khiĕ khur pak jit",,,此物挈去曝日,,Put this in the sun,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Chí pit sĩ lṳ́ kâi meh,Chi pit si lur kai mĕ,,,此筆是汝個咩,此筆是爾~~箇(个)~~麽,Is this your pencil,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+"*Chí sieⁿ,khie̍h khí lâi","Chi sie,kiĕ ki lai",,,此箱挈起來,,Lift up this box,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+"*Chí ti,lṳ́ tāu lâi liām","Chi kai,lur tak lai niem",,,此的汝讀來唸,此的爾讀來唸,You must learn this by heart,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Chí ēng tsò mi sṳ̄,Chi eng chaw mi sur,,,此用做乜事,,What is this for,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Gi ho̍k,Gi hok,,,疑惑,,Jealousy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,35
+*Hi mō chiang lâi ũ hó,Hi maw chiang lai u haw,,,希望將來有好,,I hope to be well in future,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Hiaⁿ tĩ zû chhiú tsok,Hia ti ju chiw chok,,,兄弟如手足,,Brothers are like hands and feet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,34
+*Him,Him,,,熊,,Bear,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,48
+*Hiã,Hia,,,蟻,,Ant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,18
+*Hiēn-tsãi lṳ́ tsò mi sṳ̄,Hien-chai lur chaw mi sur,,,現在汝做乜事,現在爾做乜事,What are you doing now,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Hou chie,Hou chie,,,楜椒,,Pepper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,51
+*Ho̍k chiá i lâi,Hok chia i lai,,,或者伊來,,Perhaps he will come,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Huan kia nâ,Hwan kă na,,,番茄藍,,Cabbage,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,51
+*Huang lâi,Huang lai,,,風來,,The wind blows,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,30
+*Hue tsai,Huey chai,,,横載,,Beam,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,43
+*Huéy toa,Huéy toa,,,㑹單,,Draft,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,45
+*Hàm a-nôu-kiáⁿ,Ham a-nou-kia,,,喊阿孥囝,喊亞孥子,Call the boys,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Hâng su,Hang su,,,行書,,Running hand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Hì kiáⁿ,Hi kia,,,戲囝,戲子,Players,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Hó mīn sek,Haw min sĕk,,,好面色,,A fair complexion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,34
+*Hó nâng,Haw nang,,,好人,,Good man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Hó pou thâu,Haw pou taou,,,好埠頭,,A good anchorage,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,32
+*Hõu,Hou,,,雨,,Rain,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,29
+*Hõu sùaⁿ,Hou sua,,,雨傘,,Umbrella,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
+*Hõu àiⁿ lâi,Hou ai lai,,,雨欲來,,It will rain soon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,30
+*Hùe kói,Huey koi,,,悔改,悔攺,Conversion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Hûe sièⁿ,Huey sie,,,和尙,,Priests,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Hē,Hey,,,夏,,Summer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Hē,Hey,,,夏,,Summer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*I ang bou m siang hah,I ang bou mʼsiang hă,,,伊翁𡚸毋相合,伊翁𡚸不相合,The husband & wife disagree,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,40
+*I chheⁿ mê thì m̃ kìⁿ,I chey mey toi mʼki,,,伊青盲看毋見,伊瞽目看不見,He is blind & cannot see,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*I ho̍k,I hok,,,衣服,,Clothes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
+*I jī-tsa̍p gūa hùe,I ji-chap goa huey,,,伊二十外歲,,She is upwards of twenty,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*I khṳ̀ tî-kò,I khur ti-taw,,,伊去底塊,伊去值處,Where has he gone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*I kiau ngàu m̃ khéng thiaⁿ,I kiou gnaou mʼkeng thia,,,伊驕傲毋肯聽,伊驕傲不肯聽,He is proud & will not listen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*I kóng sĩm mi sṳ̄,I kong si mi sur,,,伊講甚乜事,,What does he say,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+"*I kū ì, m̃ tāu","I ku i, mʼtak",,,伊故意毋讀,伊故意不讀,He is willful & will not read,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*I m̃ khéng lâi,I mʼkheng lai,,,伊毋肯來,伊不肯來,He won't come,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*In kiaⁿ kṳ̃ tién,In kia kur tien,,,引經據典,,Quote from the classics,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*In ûi phò ngṳ̂n huân ló,In ui poa gnŭrn huan law,,,因爲破銀煩惱,,Sorrowing for the loss of money,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Iâ chí tsâng,Ya chi chang,,,椰枳欉,椰枳丨,Cocoanut,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Iê nâ,Ie na,,,搖籃,,Cradle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,44
+*Ióng ién,Yong yen,,,永遠,,Eternity,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Iû tsâng,Yiw chang,,,柚欉,柚丨,Pumelo,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+"*Iū kiè uá,bô","Lur ham ua,baw",,,汝有叫我無,爾有呌我麽,Did you call me,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Jiâu se,Jiow sey,,,縐紗,,Crape,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
+*Ji̍p tsṳ-che,Jip chur-chey,,,入書齋,,Enter the school,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*Ji̍t ji̍t khiû Sîn-Thiⁿ,Jit jit kiw Sin-Ti,,,日日求神天,,Pray to God every day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Jī chhit niá tek chhie̍h,Ji chĭt nia tek chiĕ,,,二七領竹蓆,二七領竹丨,27 Bamboo,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī gu̍eh,Ji guĕ,,,二月,,month Mch.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
+*Jī it,Ji it,,,二一,,21,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Jī it,Ji it,,,二一,,21st,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Jī it *niá* phũe,Ji it *nia* poe,,,二一領被,,21 Blankets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī jī,Ji ji,,,二二,,22nd,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Jī jī niá zo̍k,Ji ji nia jok,,,二二領褥,,22 Mattresses,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī káu,Ji kaou,,,二九,,29,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Jī káu niá kiaⁿ mông chhie̍h,Ji kaou nia kia bun chiĕ,,,二九領京捫蓆,,29,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī la̍k niá tsháu chhie̍h,Ji lak nia chaou chiĕ,,,二六領草蓆,,26 Mats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī ngõu,Ji gñou,,,二五,,25th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Jī ngõu niá máng tièⁿ,Ji gñou nia mang ta,,,二五領蠓帳,二五領虻帳,25 Curtains,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī poih niá tin chhie̍h,Ji poĭ nia tin chiĕ,,,二八領籐蓆,二八領籐丨,28,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī saⁿ,Ji sa,,,二三,,23,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Jī saⁿ niá chien,Ji sa nia chien,,,二三領氊,,23 Carpets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī sì niá phâu,Ji si nia kaou,,,二四領袍,,24 Gowns,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Jī tsa̍p,Ji chap,,,二十,,XX,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,16
+*Jī tsa̍p,Ji chap,,,二十,,20th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Jī tsa̍p chiah tsûn,Ji chap chiă chun,,,二十隻船,二十丨船,20 Boats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,54
+*Ka chiah,Ka chiă,,,背,,Back,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,33
+*Ka sàu,Ka saou,,,咳嗽,咳𠻳,Cough,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Ka ua̍t,Ka sut,,,鉸鉞,,Hinges,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,44
+*Kam,Kam,,,監,,Prison,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Kang chieh pe toi,Kang chiĕ pe tʼoi,,,共石平𠕆,,It is hard as a stone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,23
+*Kau liem,Kaou liem,,,鈎䥥,,Sickle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,46
+*Kaⁿ ná tsâng,Ka na chang,,,橄欖欉,橄欖丨,Olive,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Kaⁿ tsâng,Ka chang,,,柑欉,柑𣜒,tree,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Keng tia,Keng tia,,,經㕔,,Zayat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,43
+*Keng-chie tsâng,Keng-chie chang,,,弓蕉欉,芎蕉𣜒,Plantain,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Khai tsṳ,Kʼhai chŭr,,,楷書,,Italic,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Khien hàu,Kien haou,,,虔孝,䖍孝,Godliness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Khien hàu chiá hiáng ióng hok,Kien haou chia hiang yong hok,,,虔孝者享永福,䖍孝者享永福,The godly shall enjoy endless happiness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Khie̍h kau-i lâi,Khiĕ kaou-i lai,,,挈交椅來,挈茭𬃪來,Bring a chair,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Khie̍h lâi chí,Khiĕ lai chi,,,挈來此,挈來止,Bring it here,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Khie̍h tńg hâiⁿ i,Khiĕ tung hai i,,,挈轉還伊,,Give it back to him,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Khòiⁿ,Kñoi,,,盖,,Cover,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,45
+*Khòu thâu tùa,Khou taou toa,,,褲頭帶,,Girdle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
+*Khùe khùe tsáu khí,Khuey khuey chaou khi,,,快快走起,,Get up quickly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Khùn-kiáⁿ i lâi,Kun-kia i lai,,,頃囝伊來,霎時伊來,By and by he will come,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Khũ kiáⁿ,Ku kai,,,臼囝,臼子,Mortar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,45
+*Khṳ̀ gu̍t,Khur goot,,,去夗,去睡,Go to bed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Khṳ̀ hú i,Khur hu i,,,去輔伊,,Go and help him,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Khṳ̀ m̃ khṳ̀ bô tiāⁿ-tie̍h,Khur mʼkhur baw tia-tiŏ,,,去毋去無定着,去不去無定着,Whether I go or not is uncertain,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Khṳ̀ tshù,Khur chu,,,去厝,,Go home,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Khṳ̀ ē,Kkur ey,,,去下,,Go down,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Kia kí-khì tsò,Lur ka-ki chaw,,,汝家己去做,爾自己去做,Do it yourself,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Kiau ngàu,Kiou gnaou,,,驕傲,,Pride,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Kim-ji̍t i bô lâi,Kim-jit i baw lai,,,今日伊無來,,He did not come to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Kim-ji̍t pit tiāⁿ àiⁿ khṳ̀,Kim-jit pit tia ai khur,,,今日必定欲去,,We shall surely go to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Kong tãu,Kong taou,,,公道,,Justice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Kut chi̍h lióu,Kŭt chĭ liou,,,骨折了,,The bone is broken,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*Kâi kài hûe-sièⁿ bô tsai,Lur kai hue-sie baw chai,,,汝個~~(个)和尙無知,爾~~箇~~(个)和尙無知,Your priests are ignorant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Kìm chí,Kim chi,,,禁止,,Jailers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Kóng m̃ tùi khang,Kong mʼtui khang,,,講毋對空,講不對空,You don't speak to the point,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Kóu bûn,Kou bun,,,古文,,Ancient literature,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Kũi lo̍h khṳ̀,Kui lŏ khur,,,跪落去,,Kneel down,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Kū nî,Ku ni,,,舊年,,Last year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Kū ì,Ku i,,,故意,,Willful,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Kṳ̃n ji̍t lṳ́ chiàⁿ khṳ̀ tshù,Kurn jit lur chia khur chu,,,近日汝正去厝,近日爾正去厝,You went home recently,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*La̍k kâi kaⁿ,Lak kai ka,,,六個柑,六丨柑,6 Oranges,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*La̍k tieⁿ mãng,Lak tie mang,,,六張網,,6 Nets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*La̍k tiôu tùa,Lak tiou toa,,,六條帶,六丨帶,6 Bands,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,54
+*Liú tsâng,Liw chang,,,柳欉,柳丨,Willow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Lâi chí,Lai chi,,,來此,來止,Come here,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+"*Lâi,lâi khṳ̀ sńg","Lai,lai khur sung",,,來、來去耍,,"Come, let's play",,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+"*Lâi,tâng uá khṳ̀","Lai,tang ua khur",,,來同我去,,"Come, go with me",,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Lãu nâng,Laou nang,,,老人,,Old men,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Lãu si̍t,Laou sit,,,老實,,Honesty,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Lêng-mông tsâng,Lam-mong chang,,,檸檬欉,檸檬丨,Lemon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Lêng-uāⁿ tsò kùe,Leng-ua chaw kuay,,,另換做過,,Do it over again,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Lông hū,Long hu,,,農夫,,Husband-men,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Lũn-gṳ́,Lun-gŭr,,,論語,,"Discourses, by",,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+"*Lṳ kai ka,u ke","Lur kai ka,u key",,,汝教有假,爾教有假,Your religion is false,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,28
+*Lṳ kai sin put neng kiu nang,Lur kai sin put neng kiw nang,,,汝神不能救人,爾神不能救人,Your gods cannot save you,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,28
+"*Lṳ́ a-tia ũ hó,meh","Lur a-tia u haw,mĕ",,,汝亞爹有好咩,爾亞爹有好麽,Is your father well,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+"*Lṳ́ a-tĩ tshuân-zú,būe","Lur a-ti chuan-ju,bue",,,汝阿弟痊愈未,爾亞弟痊愈否,Has your brother recovered,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Lṳ́ bô kong-lâu,Lur baw kong-laou,,,汝無功勞,爾無功勞,You have no merit,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ cheng thiaⁿ hok-im,Lur cheng thia hok-im,,,汝曾聽福音,爾嘗聽福音,You have heard the gospel,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ eng kai sìn Iā-sou,Lur eng kai sin Ya-sou,,,汝應該信耶穌,爾應該信耶穌,You should believe in Jesus,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ eng-kai hùe kói,Lur eng-kai huay koi,,,汝應該悔改,爾應該悔攺,You ought to repent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ ka sàu ũ jie̍h kú,Lur ka saou u jiĕ ku,,,汝咳嗽有若久,爾咳𠻳有若久,How long have you had a cough,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+"*Lṳ́ khéng khṳ̀,meh","Lur kheng khur,mĕ",,,汝肯去咩,爾肯去麽,Will you go or not,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Lṳ́ kim ji̍t kà àn lâi,Lur kim jit kă ua lai,,,汝今日較宴來,爾今日太宴來,You are late to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+"*Lṳ́ kài chheh,khie̍h lâi","Lur kai chĕ,khiĕ lai",,,汝个冊挈來,而個冊挈來,Bring your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Lṳ́ kài lêng-hûn ũ kùi,Lur kai leng-hun u kui,,,汝个靈魂有貴,爾個靈魂有貴,Your soul is precious,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ kài seⁿ-miāⁿ put kú,Lur kai sey-mia put ku,,,汝个生命不久,爾個生命不久,Your life is short,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ kâi kiáⁿ tshut tsu būe,Lur kai kia chut chu boe,,,汝個囝出珠未,爾~~箇(个)~~子出痘未,Has your child had the small pox,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*Lṳ́ kâi kài tsṳ-chheh,Chuey lur kai chur-chĕ,,,覓汝個~~(个)書冊,覓爾~~箇~~(个)書冊,Find your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+"*Lṳ́ kāng i sie pat,bô","Lur kang i sie pat,baw",,,汝共伊相別無,爾共伊相識麽,Do you know him?,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Lṳ́ lêng chèng tsu meh,Lur oi cheng chu mĕ,,,汝能種珠咩,爾能種痘麽,Do you understand inoculation,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*Lṳ́ m̃ khéng hùe kói,Lur mʼkheng huey koi,,,汝毋肯悔改,爾不肯悔攺,You will not repent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+"*Lṳ́ pat jī,meh","Lur pat ji,mĕ",,,汝別字咩,爾識字麽,Can you read,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Lṳ́ put lêng kiù ka kí,Lur put neng kiw ka ki,,,汝不能救家己,爾不能救自己,You cannot save yourself,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ sí-ji̍t chiang kṳ̃n,Lut si-jit chiang kurn,,,汝死日將近,爾死日將近,Your end is near,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ thì tshò lióu,Lur toi ta liou,,,汝睇錯了,爾看錯了,You are mistaken,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Lṳ́ tiū tî kò,Lua toa ti taw,,,汝住底塊,爾住值處,Where do you live,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Lṳ́ tsò hó nâng,Lur chaw haw nang,,,汝做好人,爾做好人,Be a good boy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Lṳ́ tî-sî kàu,Lur ti-si kaou,,,汝底時到,爾值時到,When did you arrive,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Mak chi mo,Măk chi maw,,,目眦毛,目𠞁毛,Eye-lash,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,33
+*Mn̄g tap,Mung tap,,,問答,,Questions & answers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Mài hièⁿ khùe khṳ̀,Mai hie kuey khur,,,勿向快去,勿太快去,Don't be in a hurry,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*Mài khṳ̀ gūa sńg,Mai khur goa sung,,,勿去外耍,,Don't play outside,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Mèng khí,Meng ki,,,眠起,,Morning,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Mé-mé tńg lâi,Mey-mey tung lai,,,猛猛轉來,,Make haste back,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Mông chí kâi mue̍h,Mong chi kai muĕ,,,摸此個物,摸只箇物,Feel of this,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*M̃ sêng sim,Mʼseng sim,,,毋誠心,不誠心,Insincere,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*M̃ ùi nâng,I mʼui nang,,,伊毋畏人,伊不畏人,He cares for nobody,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Ngou teng tsau bo,Gñou teng chaou baw,,,五頂草㡌,,5 Straw hats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,55
+*Ngou tsap it,Gñou chap it,,,〥/〸一,,51,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,16
+*Ngóu,Gñou,,,伍,,Five,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Ngõu,Gñou,,,五,,V,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,16
+*Ngõu *ki* pit,Gñou *ki* pit,,,五枝筆,,5 Pencils,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Ngõu gu̍eh,Gñou guĕ,,,五月,,month June,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
+*Ngõu kiaⁿ,Gñou kia,,,五經,,Five classics,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Ngõu kuaⁿ,Gnou kua,,,五官,,Senses,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,35
+*Ngõu kâi pit thàu,Gñou kai pĭt tap,,,五個筆套,五丨筆套,5 Pencil cases,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Ngõu kò  tshâ,Gñou kaw  cha,,,五塊柴,五丨柴,5 Sticks of wood,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,56
+*Ngõu lia̍p tsu,Gñou liĕp chu,,,五粒珠,五丨珠,5 Pearls,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Ngõu oû,Gnou ou,,,五湖,,The five lakes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,32
+*Ngõu peh,Gñou pĕ,,,五百,,500,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Ngõu sang ma̍k,Gñou sang măk,,,五雙目,五丨目,5 Pr. of eyes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,56
+*Ngõu tieⁿ tsúa,Gñou tie chua,,,五張紙,,5 Sheets of paper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Ngõu tiôu huang niá,Gñou tiou huang nia,,,五條封領,五丨封領,5 Cravats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,54
+*Ngõu tsa̍p,Gñou chap,,,五十,,50,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Ngĩ chiá kài uē ũ tiāⁿ tie̍h,Gni chia kai wey u tia tiŏ,,,義者个話有定着,義者話有定着,The word of the just can be relied upon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Ngũan,Gñuan,,,願,,Desire,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Ni,Ni,,,哖,,Broadcloth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,53
+*No koi tia,Naw koi tia,,,二間㕔,,2 Halls,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,59
+*No teng tung bo,Naw teng tŭng baw,,,二頂緞㡌,二頂縀丨,2 Satin caps,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,55
+*Nou po̍k,Nou pok,,,奴僕,,Slaves,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Nãi ko,Tai kaw,,,癩哥,痳瘋,Leprosy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Nì,Ni,,,泥,,Mud,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,29
+*Nò,Naw,,,怒,,Anger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,35
+*Nõ kha láng,Naw kʼha lang,,,二骹囊,二脚囊,2 Baskets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,55
+*Nõ kâi pit kè,Naw kai pĭt key,,,二個筆架,二丨筆架,2 Pencil stands,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Nõ kù uē,Naw ku wey,,,二句話,,2 Remarks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Nõ pé chià,Naw pèy chia,,,二把蔗,二丨樜,2 Bundles of sugar cane,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Nõ tieⁿ bé chhia,Naw tie bey chia,,,二張馬車,,2 Carriages,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Nõ tiôu piⁿ,Naw tiou pi,,,二條辮,二丨辮,2 Braids,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,54
+*Nõ tsâng hue,Naw chang hʼuey,,,二欉花,二𣜒花,2 Plants,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Nõ uî hue hn̂g,Naw ui huey hñg,,,二圍花園,,2 Flower gardens,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Pang,Pang,,,枋,,Board,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Pang tshù,Pang chu,,,枋厝,,Board house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Peh lan ngou,Pĕ lan gñou,,,〡〇/百〥,,105,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,16
+*Peh ngou,Pĕ gñou,,,〡/百〥,,150,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,16
+*Pe̍h hiã,Pĕ hia,,,白蟻,,White ant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,49
+*Phah ka tì,Pă ka ti,,,拍咳嚏,嚏,Sneeze,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Phàu tâi,Phaou tai,,,炮臺,,Fort,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Phìⁿ-bô hó chia̍h,A-pien mʼhaw chiă,,,鴉片毋好食,鴉片不好食,Opium is not good to eat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Phùi nũa,Phui noa,,,呸涎,唾涎,To spit,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*Phû thô tsâng,Pu taw chang,,,葡萄欉,葡萄丨,Grape,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Phĩⁿ thì,Chek chui,,,鼻嚏,,Cold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Pin nô tsâng,Pin naw chang,,,梹榔欉,梹榔丨,Betelnut,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Pit bô hó,Ua pit mʼhaw,,,我筆毋好,我筆不好,My pen is not good,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Pit tâng,Pĭt tang,,,筆筒,,Pencil tube,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,45
+*Pièn sûi,Kuan pien,,,遍遂,,Palsy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Pn̄g,Pŭng,,,飯,,Rice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,51
+*Poih ki thih teng,Poĭ ki tĭ teng,,,八枝鐵釘,,8 Nails,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Poih ko Poih kue,Poĭ kaw Poĭ kuey,,,八塊粿,八丨粿,8 Cakes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,57
+*Poih kâi keng chie,Poĭ kai keng chie,,,八個弓蕉,八丨芎蕉,8 Plantains,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Poih liep hou chie,Poĭ liĕp hou chie,,,八粒楜椒,八丨楜椒,8 Peppers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,57
+*Pài jī,Pai ji,,,拜二,,Tuesday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
+*Pài ngõu,Pai gñou,,,拜五,,Friday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
+*Pūe tṳ bah,Pue tur bă,,,焙猪肉,,Fry some pork,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*Sa teng chi bo,Sa teng chi baw,,,三頂毡㡌,三頂毡丨,3 Felt hats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,55
+*Saⁿ ki pêⁿ taⁿ,Sa ki poi ta,,,三枝平擔,三丨平擔,3 Bearing poles,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Saⁿ koiⁿ tshù,Sa koi chu,,,三間厝,,3 Houses,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Saⁿ kâi pit pûaⁿ,Sa kai pĭt poa,,,三個筆盤,三丨丨盤,3 Writing trays,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Saⁿ pé bí,Sa pèy bi,,,三把米,三丨米,3 Handfuls of rice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,57
+*Saⁿ tieⁿ khàu kúi,Sa tie kaou kui,,,三張扣機,,3 Looms,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Saⁿ tsâng tsháu,Sa chang chaou,,,三欉草,三𣜒草,3 Weeds,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Saⁿ uî tshài hn̂g,Sa ui chai hñg,,,三圍菜園,,3 Vegetable gardens,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Si teng eng bo,Si teng eng baw,,,四頂纓㡌,,4 Tassel'd caps,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,55
+*Si tùa,Si toa,,,絲帶,,Lace,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
+*Si ṳn,Si ŭrn,,,施恩,,Benevolence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Siang ha̍h,Siang hă,,,相合,,To agree,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Sie̍h liû tsâng,Siĕ liw chang,,,石榴欉,石榴丨,Pomegranate,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Siâng pín,Siang pin,,,上品,,First class,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Siā chióu ma̍k,Sia chiou măk,,,射鳥目,邪鳥目,Squinting,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
+*Si̍h tsóiⁿ,Koi choi,,,食指,,Forefinger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,33
+*So mung,Saw mung,,,鎻門,,Lock the door,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,24
+*Suāiⁿ tsâng,Sñuai chang,,,榱欉,榱丨,Mango,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Sài i khṳ̀ siâⁿ lãi,Sai i khur sia lai,,,使伊去城內,,Send him into the city,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Sài lṳ́ ni̍p-kiáⁿ lâi khie̍h,Sai lur kin-kia lai khiĕ,,,使汝囡囝來挈,使爾囝子來挈,Send your servant to take it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Sì kâi tsúi ti̍h,Si kai chui tĭ,,,四個水碟,四丨水碟,4 Water cups,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Sì tieⁿ pháng chhia,Si tie pang chia,,,四張紡車,,4 Wheels,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,59
+*Sì tiám gūa tsong liàu,U si tiem goa cheng,,,有四點外鐘~~了~~,,It is past four o'clock,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Sìn Iā sou tit sià tsũe,Sin Ya sou tĭt sia chuey,,,信耶穌得赦罪,,Faith in Jesus secures pardon for sin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Sìn tek,Sin tĕk,,,信德,,Faith,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Sî bûn,Si bun,,,時文,,Modern literature,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*Sîn Thien chì kong tãu,Sin Tien chi kong taou,,,神天至公道,,God is infinitely just,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Tau kak tia,Taou kăk tia,,,頭殻痛,,Head ache,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,39
+*Tau kui,Taou kui,,,敨氣,偷氣,Sigh,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,39
+*Taⁿ tsúi,Ta chui,,,擔水,,Bring some water,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Teng,Teng,,,釘,,Nail,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,18
+*Teng chí pang,Teng chi pang,,,釘此枋,,Nail this board,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Teng láng,Teng nang,,,燈籠,,Lantern,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,44
+*Thiaⁿ m̃ pat,Tʼhia mʼpat,,,聽毋別,聽不識,I don't understand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*Thih teng,Tĭ teng,,,鐵釘,,Nails,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Thiⁿ kuang lióu,Thi kŭng liou,,,天光了,,It is day light,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,30
+*Thiⁿ kuang tsá,Ti kŭng cha,,,天光早,,Day light,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Thng,Tŭng,,,湯,,Soup,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,51
+*Thng sî,Tŭng si,,,湯匙,,Spoon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,45
+*Thng-sî che̍k ki m̃ kièn,Tung-si chek ki mʼkien,,,湯匙一枝毋見,湯匙一枝不見,One spoon is missing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+"*Thì,thì hó","Sie,toi haw",,,嚐~看~~(睇)好,嘗~看~~(睇)好,Taste & see if it is good,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*Ti tiang ai khṳ Sit-lat,Ti tiang ai khur Sit-lat,,,底𫢗欲去實力,誰人欲去實力,Who is going to Singapore,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,27
+*Ti-tiang hue we,Ti-tiang huey wey,,,底𫢗回話,誰人囘話,Who is interpreter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,27
+*Ti-tiang oi kong,Ti-tiang oi kong,,,底𫢗能講,誰個能講,Who can tell,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,26
+"*Tie̍h,lṳ́ kóng si̍t","Tiŏ,lur kong sit",,,着、汝講實,着、爾講實,"Yes, you speak truly",,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Tin,Tin,,,籐,,Rattan,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Tin láng,Tin lang,,,籐囊,,Clothes basket,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,44
+*Tiâm,Tiem,,,恬,,Quiet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,18
+*Tiâm tiâm,Tiem tiem,,,恬恬,靜靜,Be still,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Tiâm tiâm tõ tshù,Tiem tiem taw chu,,,恬恬在厝,,Quietly remain at home,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Tn̂g bû hó,Sim tŭng mʼhaw,,,心腸毋好,心腸不好,A vicious person,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*To tang poi,Taw tang poi,,,涌大,,The waves are high,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,32
+*Tome,Tome,,,礑,,Jar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,18
+*Tong kâu,Tong kaou,,,忠厚,,Sincerity,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
+*Tong pín,Tong pin,,,中品,,Middle class,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+*Tong-iông,Tong-yong,,,中庸,,Golden medium,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
+*To̍k ke,Tŏk key,,,篤家,,Tŏk key,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,49
+*Tsa ji̍t,Cha jit,,,昨日,,Yesterday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Tsa-ji̍t tsò tsoih,Cha-jit chaw choĭ,,,昨日做節,,Yesterday was a feast day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Tsap it,Chap it,,,〡/〸一,,11,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,16
+*Tsap ji,Chap ji,,,〡/〸二,,12,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,16
+*Tsa̍p jī,Chap ji,,,十二,,XII,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,16
+*Tsa̍p jī chiah ah,Chap ji chiă ăh,,,十二隻鴨,十二丨鴨,12 Ducks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,54
+*Tsa̍p jī gu̍eh,Chap ji guĕ,,,十二月,,12th month Jan.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
+*Tsa̍p jī ki kuái chiãng,Chap ji ki kuai chiang,,,十二枝拐杖,,12 Staves,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,58
+*Tsa̍p ngõu,Chap gñou,,,十五,,XV,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,16
+*Tsa̍p ngõu,Chap gñou,,,十五,,15th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Tsa̍p ngõu chiah iêⁿ,Chap gñou chiă ie,,,十五隻羊,十五丨羊,15 Goats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,54
+*Tshu jī,Chiw ji,,,初二,,2nd,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Tshu ngõu,Chiw gñou,,,初五,,5th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
+*Tsháu me,Chaou mè,,,草蜢,,Grasshopper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,49
+*Tshù ē,Chu ey,,,厝下,,Under the house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Tso,Chaw,,,鎈,,File,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,46
+*Tsá nîⁿ bô lêng tsò,I chaw ni mʼoi chaw,,,伊怎呢毋能做,伊怎呢不能做,Why can't he do it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Tsáu khṳ̀ khie̍h hõu-sùaⁿ,Chaou khur khiĕ hou-sua,,,走去挈雨傘,,Run and get the umbrella,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
+*Tsò hó hó,Chaw haw haw,,,做好好,,Do it well,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Tsò lâi m̃ tie̍h,Chaw lai mʼtiŏ,,,做來毋着,做來不着,You have not made it right,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Tsò-ni m̃ khṳ̀,Chaw-ni mʼkhur,,,怎呢毋去,怎呢不去,Why do you not go,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+"*Tsó chhiú khie̍h,iù chhiú khṳ̀","Chaw chiw khiĕ,yiw chiw khur",,,左手挈、右手去,,He lives from hand to mouth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,34
+*Tsûn iê,Chun ie,,,船搖,,The boat rocks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,46
+*Tsûn láu,Chun laou,,,船漏,,The boat leaks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,46
+*Tsṳ sìn,Chŭr sin,,,書信,,Letter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,45
+*Tê tsâng,Tey chang,,,茶欉,茶丨,Tea,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
+*Tí tsṳ,Tí chŭr,,,𨽾書,,German text,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,47
+*Tî kâi sĩ,Ti kai si,,,底個是,那箇是,Which is the one,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Tî sî lo̍h tsûn,Ti si lŏ chun,,,底時落船,何時落船,When do you go on board,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Tò tshut,Taw chut,,,倒出,,Empty this out,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*Tò tĩⁿ,Taw ti,,,倒漲,倒滿,Fill it full,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
+*Tóu,Tou,,,肚,,Belly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,33
+*Tõ hṳ́ tang ũ tsûn lâi,Taw hur tang u chun lai,,,在彼中有船來,,Yonder comes a junk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Tõiⁿ jī,Toi ji,,,第二,,2nd,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Tõiⁿ ngõu,Toi gñou,,,第五,,5th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,17
+*Tūa chi̍h kóng m̃ kàu kù,Toa chĕ kong mʼkaou ku,,,大舌講毋到句,大舌講不到句,The stammerer does not finish his sentence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*Ua kai a-pe si liou,Ua kai a-pey si liou,,,我阿父死了,我亞父死了,My father is dead,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,24
+*Ua kam lṳ kai ṳn,Ua kam lŭr kai ŭrn,,,我感汝恩,我感爾恩,I am grateful for your favors,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,38
+*Ua siu kue i kai ṳn hui,Ua siw kuey i kai ŭrn hui,,,我受過伊恩惠,,I have received his kindness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,38
+*Un jiu,Un jiw,,,温柔,,Meekness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,37
+*Uá m̃ khùai-ua̍h,Ua mʼkuai-uă,,,我毋快活,我不快活,I am not well,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Uá m̃ kì tit,Ua mʼki tit,,,我毋記得,我不記憶,I forgot it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Uá m̃ pat thì kìⁿ i,Ua mʼpat toi ki i,,,我毋別睇見伊,我不識看見伊,I have never seen him,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Uá m̃ tsai,Ua mʼchai,,,我毋知,我不知,I don't know,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Uá ngũan lṳ́ tit hok,Ua gñuan lur tĭt hok,,,我願汝得福,吾願爾得福,I desire your happiness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,38
+*Uá siẽⁿ chiè seⁿ ũ tie̍h,Ua sie chie sey u tiĕ,,,我想照生有着,我想怎生有着,I think that is correct,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
+*Uá thiaⁿ m̃ pat,Ua thia mʼpat,,,我聽毋別,我聽不識,I can't understand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Uá thì m̃ kièn,Ua toi mʼkien,,,我睇毋見,我看不見,I don't see it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*Uá àiⁿ lâi khṳ̀ tshù,Ua ai lai khur chu,,,我欲來去厝,,May I go home,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
+*Uá-téng lóng tsóng ũ hó,Ua-teng long chong u haw,,,我等攏總有好,我等籠總有好,We are all well,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Uâng hú,Wang hu,,,王府,,Palace,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,43
+*Uî ie pòu,Ui ie pou,,,圍腰布,,Apron,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
+*Zṳ́,Jur,,,而,,And,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,18
+*Ài cheng nâng,Ai cheng nang,,,愛眾人,愛衆人,Love all men,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
+*Ù,U,,,惡,,Hatred,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,35
+*Ē ji̍t,E jit,,,下日,,Another day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Ē kai,E hai,,,下胲,,Chin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,33
+*Ē kùa,E kwa,,,下旰,下午,Afternoon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
+*Ē-ji̍t lâi,E-jit lai,,,下日來,,Come another day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+*Ē-ji̍t mài tsài lâi chí,E-jit mai chai lai chi,,,下日勿再來此,下日勿再來止,Don't come here again,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
+A chek,A chĕk,,,阿叔,叔,Father's younger brother,Father's y brother,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A ché,A chey,,,阿姐,妲,Sister elder,Sister (e),,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A hiaⁿ,A hia,,,阿兄,兄,Brother elder,Brother (e),,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A kong,,,,阿公,公,Grandfather,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A kũ,A ku,,,阿舅,舅,Brother-in-law,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A peh,A pĕ,,,阿伯,伯,Uncle paternal,Uncle (p),,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A sím,A sim,,,阿嬸,嬸,Uncle's wife,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A î,A í,,,阿姨,姨,Sister-in-law,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+A ḿ,A um,,,阿姆,姆,Aunt paternal,Aunt (p),,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+ah,ăh,,,鴨,,Duck,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+ah kang,ăh kang,,,鴨公,鴨剛,Drake,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Ak nâng,Ak nang,,,惡人,,Bad man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Ak nâng sim bô phêng an,Ak nang sim baw peng an,,,惡人心無平安,,The wicked have no peace,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Am,,,,庵,𥦩,Wat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Ang,,,,翁,,Husband,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Aû,Ow,,,喉,,Throat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Aũ bó,Ou baw,,,後母,,Step-mother,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Aũ ji̍t,Ow jit,,,後日,,Day after tomorrow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ba̍k,Bak,,,墨,,Ink,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Ba̍k ti̍h,Bak tĭ,,,墨碟,,Stand for ink,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Biē,Bie,,,廟,,Temple,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Bue̍h,Buĕ,,,襪,,Sock,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Bue̍h,Boĕ,,,襪,,Stockings,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Báu,Baou,,,卯,邜,5 to 7,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Bé,Bèy,,,馬,,Horse,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Bé bó,Bèy baw,,,馬母,,Mare,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Bé chhia,Béy chia,,,馬車,,Carriage,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Bé kiáⁿ,Bèy kia,,,馬囝,馬子,Colt,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Bé kóu,Bèy kʼho,,,馬牯,,Stallion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Bí,Bi,,,米,,Rice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Bó,Baw,,,母,,Mother,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Bói saⁿ khòu,Boi sa khou,,,買衫褲,,Buy a jacket & trowsers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Bô huang,Baw huang,,,無風,,Calm,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Bô liẽn,Baw dien,,,無吝,,Liberality,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Bô miâⁿ tsóiⁿ,Baw mia choi,,,無名指,,Ring finger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Bô nâng tsai,Baw nang chai,,,無人知,,Nobody knows it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Bô si̍t háu miâⁿ tiāⁿ tiāⁿ,Baw sit haou mia tia tia,,,無實好名定定,,He is not sincere but only desires a name,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Bô tsai,Baw chai,,,無知,,Ignorant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Bô tsũe,Baw chuey,,,無罪,,Innocence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Bú kuaⁿ,Bu kua,,,武官,,Military officer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Búe,Boe,,,尾,,End,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Búe kiáⁿ,Boe kia,,,尾囝,未子,Last born,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Búe tsóiⁿ,Boe choi,,,尾指,,Little finder,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Bû lêng tsò,Lur mʼoi chaw,,,汝毋能做,爾不能做,You can't do it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,27
+Bī,Bi,,,未,,1 to 3,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Bū,Bu,,,霧,,Fog,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Chek,Chĕk,,,叔,,Uncle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Chek,Chak,,,笮,,Chak,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Chek,Chĕk,,,燭,,Candle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+"Chek khiēⁿ chiá, ũ ngṳ̂n tshûn","Chĕk kiem chia, u gñurn chun",,,積儉者有銀存,積儉正有銀存,Frugality leads to plenty,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Chek tâi,Chek tai,,,燭臺,,Candlestick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Cheng,,,,鐘,,Bell,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Che̍k,Chĕk,,,一,,I,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Che̍k,Chĕk,,,壹,,One,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Che̍k,Chĕk,,,一,,One,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Che̍k *kha* sieⁿ,Chĕk *kʼha* sie,,,一骹箱,一脚箱,1 Trunk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,55
+Che̍k *khún* pòu,Chĕk *kʼhun* pou,,,一捆布,,1 Roll of cloth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Che̍k *kò* tsng,Chĕk *kaw* chŭng,,,一塊磚,,1 Brick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Che̍k *lia̍p* niú,Chĕk *liĕp* niw,,,一粒鈕,,1 Button,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Che̍k *lúi* hue,Chĕk *lui* huey,,,一蕊花,,1 Flower,4 Flowers,,,003_First_Lessons_in_the_Tie-chiw_Dialect,59
+Che̍k *pau* tê bí,Chĕk *paou* tey bi,,,一包茶米,,1 Paper of tea,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Che̍k *phit* pòu,Chĕk *pĭt* pou,,,一疋布,,1 Piece of cloth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Che̍k *pún* tsṳ chheh,Chĕk *pung* chŭr chĕ,,,一本書冊,,1 Book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,59
+Che̍k *sang* ôi,Chĕk *sang* oi,,,一雙鞋,一䨇𩋘,1 Pr. of shoes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Che̍k *tiôu* sùaⁿ,Chĕk *tiou* sua,,,一條線,,1 Thread,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Che̍k *tùi* tùi liên,Chĕk *tui* tui lien,,,一對對聯,,1 Pr. of ornamental papers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Che̍k buān,Chĕk boan,,,一萬,,"10,000",,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Che̍k e̍k,Chĕk ĕk,,,一億,,"100,000",,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Che̍k peh,Chĕk pĕ,,,一百,,100,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Che̍k tiám cheng,Chek tiem cheng,,,一點鐘,,Hour,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Che̍k tiãu,Chĕk tiow,,,一兆,,"1,000,000",,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Che̍k tshoiⁿ,Chĕk choi,,,一千,,1000,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Cheⁿ,Chey,,,星,,Stars,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+"Cheⁿ,ũ tsōi tsãi","Chey,u choi chai",,,星有㩼在,星有多極,There are many stars,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Chheⁿ mê,Chey mey,,,青盲,瞽目,Blind,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Chheⁿ mīn,Chey min,,,青面,靑面,Petulant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Chhia,Chia,,,車,,Cart,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Chhie̍h,Chiĕ,,,蓆,,Mat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Chhit,Chĭt,,,七,,VII,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Chhit,Chĭt,,,㭍,,Seven,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Chhit chhêng,Chĭt cheng,,,七情,,Passions,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Chhit gu̍eh,Chĭt guĕ,,,七月,,month Aug.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Chhit ki póu thâu,Chĭt ki pou taou,,,七枝斧頭,,7 Hatchets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Chhit lia̍p lua̍h chie,Chĭt liĕp hĭem chie,,,七粒辣椒,七丨辣椒,7 Chillies,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Chhit sang tṳ̄,Chĭt sang tŭr,,,七雙箸,七丨著,7 Pr. of chop sticks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Chhit tiôu mīn kṳn,Chĭt tiou min kŭrn,,,七條面巾,七丨面巾,7 Towels,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Chhiu,Cʼhiw,,,鬚,,Beard,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chhiu,Chiw,,,秋,,Autumn,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Chhiu,Chiw,,,秋,,Autumn,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Chhiè mīn,Chie min,,,笑面,,A smiling face,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Chhiêⁿ,Chie,,,牆,𫮰,Wall,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Chhiú,Chiw,,,手,,Hand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chhiú chiéⁿ,Chiw chie,,,手掌,,Palm of the hand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chhiú huân,Chiw hwan,,,手環,手𤨔,Bracelets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Chhiú pì,Chiw pi,,,手臂,,Arm,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chhiú tiú,Chiw tung,,,手肘,,Elbow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chhiú tsat,Chiw chăt,,,手節,,Finger ring,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Chhiú tsóiⁿ,Chiw choi,,,手指,,Finger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chhiū,Chiw,,,樹,,Tree,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Chhiū phûe,Chiw pue,,,樹皮,,Bark,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Chhiū sin,Chiw sin,,,樹身,,Trunk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Chhiẽⁿ,Cʼhiè,,,象,,Elephant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Chhèng,Cʼheng,,,銃,,Musket,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Chhîn,Chin,,,臣,,Minister,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Chia tshn̂g pòu,Chia chŭng pou,,,遮床布,,Table cloth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Chia̍h tû,Chiă tu,,,食櫥,食厨,Cupboard,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Chieh tsûn,Chiĕ chun,,,借船,借丨,Borrow the boat,Borrow do.,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Chie̍h,Chiĕ,,,石,,Stone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Chie̍h,Chiĕ,,,石,,Stone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Chie̍h tshṳ́,Chiĕ chŭr,,,石鼠,,Rabbit,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+"Chie̍h,ũ tãng","Chiĕ,u tang",,,石有重,,A stone is heavy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+"Chin lí,lṳ́ tsai lióu","Chin li,lur chai liou",,,真理汝知了,眞理爾知了,You know the truth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,28
+Chin si̍t,Chin sit,,,真實,眞實,Truth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Chin si̍t bô phièn lṳ́,Chin sĭt baw pien lŭr,,,真實無騙汝,眞實無騙爾,Truly I do not deceive you,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Chiu,Chiw,,,州,,Canton,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Chià kou,Chiă kou,,,鷓鴣,,Partridge,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Chiãng,Chiang,,,杖,,Staff,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Chiéⁿ,Chìe,,,槳,,Oars,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Chiéⁿ tsûn,Chie chun,,,掌船,掌丨,Watch the boat,Watch do.,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Chióu,Chiou,,,鳥,,Birds,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Chiú,Chiw,,,酒,,Spirits,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Chi̍h,Chĭ,,,舌,,Tongue,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Chéⁿ,Chey,,,井,,Well,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Chéⁿ ũ chhim,Chey u chim,,,井有深,,The well is deep,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Chì tsong,Chi chong,,,至終,,Perseverance,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Chí,Chi,,,此,這,This,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Chí bô ēng,Chi baw eng,,,此無用,,This is good for nothing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Chí chheh uá ũ tāu kùe,Chi chĕ ua u tak kuey,,,此冊我有讀過,,I have read this book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Chí koi bô se̍k,Chi koi baw sek,,,此雞無熟,,This fowl is not done,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+Chí lâu pàng mê-khí,Chi laou pang moa-ki,,,此留放明起,此留放明日,Save this for to-morrow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Chí mue̍h hâiⁿ uá,Chi muĕ hai ua,,,此物還我,,Give that to me,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+"Chí mue̍h,hâiⁿ sin-seⁿ","Chi muĕ,hai sin-sey",,,此物還先生,只物還先生,Carry this to the teacher,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+"Chí pòu,ũ tâm","Chi pou,u tam",,,此布有㴷,此布有濕,This cloth is wet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+"Chí tsháu,mán tiu","Chi chaou,man tiou",,,此草挽丢,,Pull up these bushes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Chím thâu,Chim taou,,,枕頭,,Pillow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Chîⁿ lêng,Chi leng,,,蠐龍,守宮,Lizard,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Chĩ,Chi,,,巳,已,9 to 11,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Eh,Ey̆,,,啞,瘂,Dumb,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Eng,,,,鷹,,Eagle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Eng jîn,Eng jin,,,英人,,A hero,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Eng ko,Eng kaw,,,鸚哥,鸚𤔄,Parrot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Eng-kit-lĩ uē,Eng-kit-li wey,,,英吉利話,,English language,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Gu̍eh,Guĕ,,,月,,Moon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Gu̍eh,Guĕ,,,月,,Month,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Gu̍eh tshut lióu,Guĕ chut liou,,,月出了,,The moon has risen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Gâu,Gaou,,,賢,,Wise,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Gâu nâng,Gaou nang,,,賢人,,A wise man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Gê,Gey,,,芽,,Bud,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Gê kang,Gey kang,,,蜈蚣,,Centipede,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Gô,Gaw,,,鵝,,Goose,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Gû,Gu,,,牛,,Ox,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Gû bah,Gu bă,,,牛肉,,Beef,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Gû bó,Gu baw,,,牛母,,Cow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Gû kiáⁿ,Gu kia,,,牛囝,牛子,Calf,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Gû kóu,Gu kʼho,,,牛牯,,Bull,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Gû liâu,Gu liou,,,牛寮,,Stall,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Gû nĩ,Gu ni,,,牛乳,,Milk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Gû nĩ iû,Gu ni yiw,,,牛乳油,,Butter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Gû nĩ piáⁿ,Gu ni pia,,,牛乳餅,,Cheese,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Ha̍p ieh,Hăp iĕ,,,合約,,Contract,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Heng,,,,胸,,Chest,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Hi mō,Hi maw,,,希望,,Hope,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Hia̍h thâu,Hiă taou,,,額頭,,Forehead,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Hiet,Hiĕt,,,蠍,,Scorpion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Hie̍h,Hiĕ,,,葉,,Leaf,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Hiã,Hia,,,瓦,,Tile,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Hiã pín,Hia pin,,,下品,,Lower class,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Hiên jîn,Hien jin,,,賢人,,A worthy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Hiēn-tsãi lṳ́ lêng tit kiù,Hien-chai lur oi tit kiw,,,現在汝能得救,現在爾能得救,You may now be saved,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,28
+Hn̂g,Hng,,,園,,Garden,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Hok,,,,福,,Happiness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Huah hì,Huă hi,,,呵呬,叱噓,Yawn,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Huan kuah,Hwan kuă,,,蕃葛,,Potatoe,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Huang,,,,風,,Wind,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Huang mua,Huang moa,,,風幔,風𧜞,Cloak,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Huat hùn,Huăt hun,,,發奮,,Zeal,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Huat kûaⁿ,Huăt kua,,,發寒,,Intermittent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Huat zua̍h,Huăt juă,,,發熱,,Fever,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Hua̍t,Huăt,,,穴,,Cave,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Hue,,,,灰,,Lime,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Hue,,,,花,,Flower,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Hueh,Huĕ,,,血,,Blood,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Hui siêⁿ,Hui sie,,,非常,,Not always,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Huân ló,Huan law,,,煩惱,,Sorrow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+"Huân ũ ke,meh","Huan u key,mĕ",,,還有加咩,還有加麽,Have you any more,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+Huâng tì bō,Hwang ti baw,,,皇帝帽,,Crown,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Hu̍t,Hut,,,核,,Seed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Hàu sũn pẽ bó,Haou sun pey baw,,,孝順父母,,Respect to parents,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Hàu sũn sin-seⁿ,Haou sun sin-sey,,,孝順先生,,Be obedient to your teacher,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Hàu-kiaⁿ,Haou-kia,,,孝經,,Filial piety,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Hái,Hai,,,海,,Sea,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Hái bô éng,Hai baw eng,,,海無涌,,The sea is smooth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Hái gô,Hai gaw,,,海鵝,,Pelican,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Hái kîⁿ,Hai ki,,,海墘,,Beach,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Háu miâⁿ,Haou mia,,,好名,,Vanity,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Háu tsâi,Kaou chai,,,口才,,Eloquent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Hân,Cʼhin,,,寒,,Cold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Hãi,Hai,,,亥,,9 to 11,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Hí,Hi,,,喜,,Joy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Hóuⁿ,Hʼñou,,,虎,,Tiger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Hô,Haw,,,河,,River,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Hôu khî,Hou kʼi,,,蝴蜞,,Leech,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Hôu sîn,How sin,,,胡蠅,蒼蠅,Fly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Hùe tuaⁿ,Huèy toa,,,貨單,,Bill of lading,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Hùi,Hui,,,肺,,Lungs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Hú,Hu,,,府,,District,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Húe chie̍h,Huey chiĕ,,,火石,,Flint,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Húe koi,Hue koi,,,火鷄,,Turkey,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Húe mê,Hue mey,,,火夜,,Fire-fly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Húe si̍t,Hue sit,,,火食,,Cook house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Húe sèⁿ,Huey sey,,,火性,,Passionate,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Húe tiéⁿ,Huey tie,,,夥長,,Sailing-master,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Hún pâi,Hun pai,,,粉牌,,A tablet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Hû lâi,Hu lai,,,狐狸,,Fox,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Hû tia̍p,Hu tiĕp,,,蝴蝶,,Butterfly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Hûe thâu,Huey taou,,,回頭,囘頭,Turn round the head,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Hûn,Hun,,,雲,,Cloud,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+"Hûn,ou tsãi","Hun,ou chai",,,雲烏在,雲烏極,The clouds are very dark,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Hĩⁿ,Hi,,,耳,,Ear,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Hĩⁿ,Hi,,,耳,,Ear,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Hĩⁿ kau,Hi kaou,,,耳鈎,,Ear ring,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Hĩⁿ lâng,Hi lang,,,耳聾,,Deaf,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Hṳ hîn,Hur hin,,,虛眩,,Faint,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Hṳ jī,Hŭr ji,,,虛字,,Particles &c.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Hṳ̂,Hur,,,魚,,Fish,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Hṳ̂,Hŭr,,,魚,,Fish,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Hṳ̂ a,Hŭr ah,,,魚鴉,,King fisher,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Hṳ̂ jîn,Hŭr jin,,,漁人,,Fishermen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+I,,,,於,,In,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+"I a pẽ,kêng tsãi","I a pey,keng chai",,,伊阿父窮在,伊亞父窮極,His father is very poor,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+I bô tsai tsok,I baw chai chok,,,伊無知足,,He is never contented,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+I khin hut chí tõ lí,I khin hŭt chi taw li,,,伊輕忽此道理,,He rejects this doctrine,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+I khì tsãi,I kʼhi chai,,,伊氣在,伊氣極,He is very angry,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+"I kóng chiè-seⁿ,bô","I kong chie-sey,baw",,,伊講照生無,伊講怎生麽,Did he say so,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+I ne̍k àiⁿ thiàⁿ,I nĕk ai thia,,,伊肉欲痛,,He wants a beating,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+I pàng-tõ tsãi,I pan-toa chai,,,伊放惰在,伊懶惰極,He is very lazy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+I seⁿ kúi lia̍p thûe,I sey kui liep tue,,,伊生幾粒㿗,伊生幾粒瘣,He has a number of boils,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+I sim huaⁿ hí,I sim hoa hi,,,伊心歡喜,,He is pleased,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+I siêⁿ siêⁿ àiⁿ sńg,I sie sie ai sung,,,伊常常欲耍,,He is always for play,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+I sĩ phí nâng,I si pai nang,,,伊是痞人,伊是獃人,He is a bad man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+"I sĩ,tshù-piⁿ nâng","I si,chu-pi nang",,,伊是厝邊人,,They are neighbors,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+I tham liẽn tsṳ ke̍k,I tʼham lien chŭr kĕk,,,伊貪吝之極,,He is extremely covetous,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+I thâu,I taou,,,椅頭,𬃪頭,Stool,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+I àiⁿ chia̍h a-phièn,I haou chiă a-pien,,,伊欲食鴉片,,He is fond of opium,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+I ũ miâⁿ ke tsãi,I u mia key chai,,,伊有名家在,伊有名家極,He is very skillful,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+I ũ táⁿ,I u ta,,,伊有膽,,He is courageous,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Ia̍h-kiaⁿ,Yiă-kia,,,易經,,Diagrams,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Ie,,,,腰,,Waist,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Iu būn,Yiw bun,,,憂悶,,Regret,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Iâm,Yiam,,,鹽,𪉩,Salt,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Ié tsúi,Ie chui,,,舀水,,Dip out the water,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Iêⁿ,Ie,,,羊,,Goat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Iêⁿ,Ie,,,羊,,Sheep,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Iêⁿ bó,Ie baw,,,羊母,,Ewe,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Iêⁿ kóu,Ie kʼho,,,羊牯,,Ram,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Iú,Yiw,,,酉,,5 to 7,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Jiê kiáⁿ,Jie kia,,,橈囝,橈子,Paddles,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Jiē,Jie,,,尿,,Urine,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Jiē pau,Jie pa,,,尿胞,,Bladder,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Ji̍t,Jit,,,日,,Sun,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Ji̍t,Jit,,,日,,Day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ji̍t ji̍t,Jit jit,,,日日,,Every day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Ji̍t ji̍t,Jit jit,,,日日,,Daily,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ji̍t kan,Jit kan,,,日間,,Day time,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ji̍t lo̍h,Jit lŏ,,,日落,,Sun down,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ji̍t tshut,Jit chŭt,,,日出,,Sunrise,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ji̍t tàu,Jit taou,,,日晝,日午,Noon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Ji̍t ũ kuang,Jit u kŭng,,,日有光,,The sun is bright,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Ji̍t-pún kṳ̃n Tn̂g-suaⁿ,Jit-pun kurn Tung-sua,,,日本近唐山,,Japan is near to China,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Jím nãi,Jin nai,,,忍耐,,Patience,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Jîn nâng,Jin nang,,,仁人,,Philanthropist,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Kah kiáⁿ,Kă kia,,,袷囝,甲子,Vest,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Kak,,,,桷,,Rafters,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Kak nâng,Kăk nang,,,各人,,Each man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Kam sim,Kam sin,,,甘心,,Submission,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Kang,Kŭng,,,鋼,,Steel,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Kau,Kaou,,,溝,,Ditch,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Kau i,Kaou i,,,交椅,筊𬃪,Chair,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Ke tsú,Key chu,,,家主,,Master,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Ke tsú niêⁿ,Key chu nie,,,家主娘,,Mistress,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Keng phông,Keng pang,,,弓蓬,,Boat cover,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Kha,,,,骹,脚,Leg,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Kha,,,,骹,脚,Foot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Kha aũ teⁿ,Kha ow tey,,,骹後蹬,脚後躓,Heel,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Kha chhiú bô lêng kṳ́,Kha chiw mʼoi tin tang,,,骹手毋能舉,脚手不能舉,He cannot move hand or foot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Kha chhiú bô sî hiah,Kha chiw baw si hiă,,,骹手無時歇,脚手無時歇,He is always busy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Kha chí,Kha choi,,,骹趾,脚指,Toes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Kha huân,Ka hwan,,,骹環,脚𤨔,Anklets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Kha liâm,Kha liem,,,骹臁,脚臁,Shin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Kha ta̍h i,Ka tă i,,,骹踏椅,脚踏𬃪,Foot stool,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Kha thâu u,Kha taou u,,,骹頭趺,脚𦡀,Knee,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Kha tói,Kha toi,,,骹底,脚底,The sole of the foot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Kha tūa thúi,Kha toa tui,,,骹大腿,脚大腿,Thigh,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Khap thâu,Kăp taou,,,磕頭,,Bow down the head,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Kheⁿ,Khey,,,坑,,Valley,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Kheⁿ,Kʼey,,,坑,,Valley,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Khi piⁿ,Koi pi,,,溪邊,,The river's side,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Khiam sùn,Kiem sun,,,謙遜,,Humility,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Khim,Kim,,,欽,,Gong,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Khin hut,Khin hŭt,,,輕忽,,Contempt,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Khiu ún,Kʼou un,,,蚯蚓,,Worm,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Khiēⁿ,Kiem,,,儉,,Frugality,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Khui ma̍k,Kui mak,,,開目,,Open the eyes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Khut,Kʼhŭt,,,淈,,Tank,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Khàng iá,Kuang ya,,,曠野,,Jungle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Khí,Kʼhi,,,齒,,Teeth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Khòu,Khou,,,庫,,Treasury,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Khòu,Khou,,,褲,,Pantaloons,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Khóng chiah,Kong chiĕk,,,孔雀,,Peacock,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Khùai la̍k,Kuai lăk,,,快樂,,Cheerful,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Khùi,Kʼhui,,,季,,Season,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Khún tsha̍t,Khun chat,,,捆賊,,Bind the thief,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Khûn thâu phah,Kun taou pă,,,拳頭拍,拳頭打,Strike with the fist,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Khṳt chia̍h,Khŭrt chiă,,,乞食,,Beggars,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Khṳ̂n,Kŭrn,,,勤,,Diligence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Khẽng,Kheng,,,虹,,Rainbow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+"Khẽng,sĩ ngiá","Kheng,si gnia",,,虹是雅,,The rainbow is beautiful,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Ki,,,,枝,,Branch,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Kiaⁿ tsṳ,Kia chŭr,,,經書,,Classics,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Kih kau,Tĭ kaou,,,頰溝,臉頣,Cheek,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Kim,,,,金,,Gold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Kim,,,,金,,Gold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Kim ji̍t,Kim jit,,,今日,,To day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Kim ji̍t khí thâu,Kim jit khi taou,,,今日起頭,,Begin to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Kim ji̍t zua̍h tsãi,Kim jit juă chai,,,今日熱在,今日熱極,It is very hot to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Kim kue,,,,金瓜,,Pumpkin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Kim nî,Kim ni,,,今年,,This year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+"Kim nî,bí ũ kùi","Kim ni,bi u kui",,,今年米有貴,,Rice is dear this year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Kiàⁿ tâi,Kia tai,,,鏡臺,,Looking-glass,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Kiáⁿ,Kia,,,囝,子,Child,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Kiâⁿ ngĩ,Kia gñi,,,行義,,Righteousness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Koi,,,,雞,,Hen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Koi,,,,雞,,Fowl,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Koi,,,,雞,,Fowl,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Koi ang,,,,雞翁,,Cock,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Koi bó,Koi baw,,,鷄母,,Hen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Koi kiáⁿ,Koi kia,,,雞囝,雞子,Chicken,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Koi nñg,Koi noa,,,鷄卵,鷄旦,Pullet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Koiⁿ thâu,Koey taou,,,肩頭,,Shoulder,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Kok,,,,國,,Kingdom,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Ku,,,,龜,,Turtle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Ku ku,,,,鳩鳩,鳩鳥,Cuckoo,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Ku tsṳ́,Ko chur,,,孤子,,Orphan,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Kuah jī,Kuă ji,,,割字,,Cut type,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Kuang,Kŭng,,,光,,Light,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Kuaⁿ,Kua,,,肝,,Liver,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Kuaⁿ keng ũ pēⁿ,Kua keng u pey,,,肝經有病,,The liver is diseased,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Kun,,,,君,,Prince,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Kun tsṳ́,Kun chŭr,,,君子,,Excellent man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Kun tsṳ́ bô sie cheⁿ,Kun chur baw sie chey,,,君子無相爭,,The honorable man is not quarrelsome,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Kut,Kŭt,,,骨,,Bone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Kut tsat sng thiàⁿ,Kŭt chăt sŭng thia,,,骨節痠痛,骨節酸痛,Rheumatic pains,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Kuáng-tang séⁿ,Kŭng-tang sey,,,廣東省,,The province of Canton,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Kà khiēⁿ,Kă khiem,,,較儉,太儉,Niggardly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Kài chí,Kai chi,,,芥子,,Mustard,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Ká to,Ka taw,,,絞刀,剪刀,Shears,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Kám ṳn,Kam ŭrn,,,感恩,,Gratitude,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Káng,Kang,,,港,,Canal,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Káu,Kaou,,,九,,IX,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Káu,Kaou,,,玖,,Nine,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Káu,Kaou,,,狗,,Dog,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Káu,Kaou,,,狗,,Dog,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Káu gu̍eh,Kaou guĕ,,,九月,,month Oct.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Káu ki thih tsa,Kaou ki tĭ chey,,,九枝鐵叉,九枝鐵义,9 Forks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Káu kò tṳ bah,Kaou kaw tŭr bă,,,九塊猪肉,九丨猪肉,9 Pieces of pork,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Káu lia̍p ie̍h îⁿ,Kaou liĕp iĕ i,,,九粒藥丸,九丨藥丸,9 Pills,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Káu tiôu thâu mô,Kaou tiou taou maw,,,九條頭毛,九丨頭毛,9 Hairs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Káu tsa̍p,Kaou chap,,,九十,,90,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Kè,Key,,,架,,Shelf,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Kè téng,Key teng,,,架頂,,Upon the shelf,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+Kèng ùi,Keng ui,,,敬畏,,Reverence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Kèⁿ tn̂g,Am tung,,,頸長,,A long neck,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Kéⁿ,Kèy,,,梗,,Fiail,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Kì pẽ,Ki pey,,,繼父,,Step-father,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Kòi,Koi,,,計,,To scheme,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Kòu kĩ,Kou ki,,,妒忌,妒𡜱,Envy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Kóng,Kong,,,講,,Talk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Kóu si,Kou si,,,古詩,,Ancient poetry,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Kùe káng,Kuey kang,,,過港,,To cross the canal,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Kùe nî,Kue ni,,,過年,,New year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Kùi,Kui,,,貴,,Dear,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Kú kú jím nãi,Ku ku jin nai,,,久久忍耐,,Have long patience,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Kúe,Kuèy,,,粿,,Cake,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Kúe chí,Kuey chi,,,果子,菓子,Fruit,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Kúe chí ne̍k,Kuey chi nĕk,,,果子肉,菓子肉,Pulp,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Kūaⁿ,Koa,,,汗,,Perspiration,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Kūaⁿ lâu tsōi,Kua laou choi,,,汗流㩼,汗流多,To perspire freely,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Kūi,Kñui,,,櫃,,Drawers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Kūiⁿ,Kui,,,縣,,Village,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Kṳn,Kŭrn,,,筋,,Sinew,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Kṳn,Kŭrn,,,根,,Root,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Kṳ̀,Kŭr,,,鋸,,Saw,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Kṳ́n sim thì chheh,Kurn sim toi chĕ,,,謹心睇冊,謹心看冊,Be attentive to your books,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+La̍h,Jĭ,,,摺,,To fold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+La̍h jîn,Lă jin,,,獵人,,Hunters,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+La̍k,Lak,,,六,,VI,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+La̍k,Lak,,,陸,,Six,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+La̍k,Lăk,,,樂,,Pleasure,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+La̍k gu̍eh,Lak guĕ,,,六月,,month July,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+La̍k ki to,Lak ki taw,,,六枝刀,,6 Knives,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+La̍k kò piáⁿ,Lak kaw pia,,,六塊餅,六丨餅,6 Biscuits,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+La̍k lia̍p tshang thâu,Lak liĕp chang taou,,,六粒葱頭,六丨葱頭,6 Onions,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+La̍k sang hĩⁿ,Lak sang hñi,,,六雙耳,六丨耳,6 Pr. of ears,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+La̍k tsa̍p,Lak chap,,,六十,,60,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+La̍k téng kûe loi̍h,Lak teng kuey loĭ,,,六頂葵笠,六丨葵笠,6 Bamboo hats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,55
+Lia̍h búe,Diă boe,,,掠尾,,To steer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Liàm phì,Diem pñi,,,捻鼻,,Pinch the nose,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Liâu kiáⁿ,Liou kia,,,寮囝,寮子,Hut,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Liú kau,Liw kaou,,,㧕溝,,Dig a ditch,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Liẽn,Dien,,,吝,,Covetousness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Lua̍h chie,Hiem chie,,,辣椒,,Chilli,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Lâm,Lam,,,男,,Male,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Lân kan,Lan kan,,,欄杆,,Railing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Lân kan chí,Lan kan chi,,,欄杆枳,,Slats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Lâng,Lang,,,廊,,Verandah,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Lâu ma̍k tsap,Laou măk chăp,,,流目汁,,To shed tears,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Lâu téng,Laou teng,,,樓頂,,Chamber,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Lâu tói,Laou toi,,,樓底,,Godown,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Lêng,Oi,,,能,,Can,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Lêng,Leng,,,靈,,Spirit,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Lêng chióu,Hun chiou,,,鴒鳥,,Pigeon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Lêng hûn,Leng hun,,,靈魂,,Soul,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Lîn,Lin,,,綾,,Silk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Lói pài,Loi pai,,,禮拜,,Week,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Lói pài,Loi pai,,,禮拜,,Sunday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Lói pài ji̍t,Loi pai jit,,,禮拜日,,Sabbath day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Lói pài tn̂g,Loi pai tung,,,禮拜堂,,Church,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Lói-kì,Loi-ki,,,禮記,,Laws & usages,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Lôi,Loi,,,犁,,Plough,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Lûi,Lui,,,雷,,Thunder,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Lûn,Lun,,,輪,,Wheel,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Lōu,Lou,,,露,,Mist,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Lũan,Luan,,,亂,,Confusion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Lṳ́,Lur,,,汝,爾,You,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Lṳ́ a-pẽ tsai meh,Lur a-pe chai mĕ,,,汝阿父知咩,爾亞父知麽,Does your father know it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+"Lṳ́ háu chia̍h kúe-chí,bô","Lur haou chiă kuey-chi,baw",,,汝好食果子無,爾好食菓子麽,Do you like fruit?,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Lṳ́ jie̍h tsōi hùe,Lur jiĕ choi huey,,,汝若㩼歲,爾若多歲,How old are you,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+Lṳ́ kha thiàⁿ jie̍h kú,Lur kha thia jiĕ ku,,,汝骹痛若久,爾脚痛若久,How long has your foot been sore,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Lṳ́ káⁿ tsò meh,Lur ka chaw mĕ,,,汝敢做咩,爾敢做麽,Dare you do it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Lṳ́ kì-tit kāng i kóng,Lur ki-tit kang i kong,,,汝記得共伊講,爾記憶共伊講,Remember to tell him,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Lṳ́ kóng kà tūa siaⁿ,Lur kong kă toa sia,,,汝講較大聲,爾講太大聲,You speak too loud,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,27
+"Lṳ́ kóng si̍t uē,bô","Lur kong sit wey,baw",,,汝講實話無,爾講實話麽,Do you speak truly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Lṳ́ siá kà mé,Lur sia kă mey,,,汝寫較猛,爾寫太猛,You write too fast,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,27
+Lṳ́ sĩ mi miâⁿ,Lur si mi mia,,,汝是乜名,爾是乜名,What is your name,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+Lṳ́ thiaⁿ uá kóng,Lur thia ua kong,,,汝聽我講,爾聽我講,Listen to what I say,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Lṳ́ tit tsũe,Lur tit chuey,,,汝得罪,爾得罪,You have sinned,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,28
+Lṳ́ tiū chí jie̍h-kú,Lur toa chi jiĕ-ku,,,汝住此若久,爾住此若久,How long have you lived here,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+Lṳ́ àiⁿ ke sĩm mue̍h,Lur ai key si muĕ,,,汝欲加甚物,爾欲加甚物,What more do you want,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+Lṳ́ àiⁿ sĩm mue̍h,Lur ai si muĕ,,,汝欲甚物,爾欲甚物,What do you want,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+"Lṳ́ ũ chia̍h hun,bô","Lur u chiă hun,baw",,,汝有食薰無,爾有食芬麽,Do you smoke?,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Lṳ́ ũ jie̍h tsōi ngṳ̂n,Lur u jiĕ choi gnurn,,,汝有若㩼銀,爾有若多銀,How much money have you,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+Lṳ́ ũ tsũe ke ke,Lur u chuey key key,,,汝有罪加加,爾有罪加加,Your sins are many,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,28
+Lṳ̂,Lŭr,,,驢,,Ass,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Ma̍k bâi,Măk bai,,,目眉,,Eye-brow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Ma̍k chiu,Măk chiw,,,目睭,目珠,Eye,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Ma̍k chiu-jîn,Măk chiw-jin,,,目睭仁,目珠仁,Eye-ball,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Ma̍k kha phûe,Măk ka pue,,,目骹皮,目脚皮,Eye-lid,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Ma̍k tsap,Măk chăp,,,目汁,,Tears,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Ma̍k-chiu thì chheh,Măk-chiw toi chĕ,,,目睭睇冊,目珠看冊,Look on your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Me̍h,Mĕ,,,脉,,Pulse,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Miâⁿ ke,Mia key,,,名家,,Skill,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Mién téng hāu kú,Mien teng haou ku,,,免等候久,,Don't stay long,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Mién ēng kiaⁿ,Mien eng kia,,,免用驚,,Don't be afraid,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Mién ēng tsò,Mien eng chaw,,,免用做,,You need not do it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,27
+Mn̂g,Mŭng,,,門,,Door,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mn̂g huân,Mŭng huan,,,門環,門𤨔,Rings,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mài chia̍h tsa̍p mue̍h,Mai chiă chap muĕ,,,勿食雜物,,You must not eat every thing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,28
+Mài jiáng,Mai jiang,,,勿嚷,,Don't make a noise,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Mài mông hṳ́ mue̍h,Mai mong hur muĕ,,,勿摸彼物,,Don't touch that,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Mài phok,Mai poă,,,勿仆,,Don't fall,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,20
+Máng tièⁿ,Mang ta,,,蚊帳,,Curtains,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mâ chiah,Maw chiă,,,麻雀,雀鳥,Sparrow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Mé,Mey,,,猛,快,Quick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Mé mé,Mey mey,,,猛猛,,Be quick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Mé mé,Mey mey,,,猛猛,,Quickly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Mê,Mey,,,夜,,Night,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Mê hng,Mey hng,,,夜昏,,Evening,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Mê hng,Mey hñg,,,夜昏,,Evening,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Mê nî,Mey ni,,,明年,,Next year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Mê sî,Mey si,,,夜時,,Night time,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Mê tsá,Moa cha,,,明早,明日,Tomorrow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Mêng ieh,Meng iĕ,,,盟約,𥂀約,Treaty,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Mín siá hièⁿ mé,Mai sia hie mey,,,免寫向猛,,Don't write so fast,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Mîn i,Min i,,,眠椅,眠𬃪,Couch,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mîn tshn̂g,Min chŭng,,,眠床,眠牀,Bedstead,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mông,Mong,,,摸,,Feeling,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Mûe,Mue,,,糜,粥,Congee,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Mān mān,Man man,,,慢慢,緩緩,Slowly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Mān mān kiâⁿ,Man man kia,,,慢慢行,緩緩行,Go slowly,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,22
+Mī pau,Mi paou,,,麵包,,Bread,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Mīn,Min,,,面,,Face,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Mīn phûn,Min pun,,,面盆,,Wash bowl,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mīn phûn kè,Min pun key,,,面盆架,,Wash stand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Mīn sán,Min san,,,面㾪,面瘦,A lean face,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Mẽng-tsṳ́,Meng-chŭr,,,孟子,,Mencius,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Ne̍k,Nĕk,,,肉,,Flesh,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Nga̍k bó,Gnăk baw,,,岳母,,Mother-in-law,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Nga̍k hṳ̂,Gñak hŭr,,,鱷魚,,Alligator,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Nga̍k pẽ,Gnăk pey,,,岳父,,Father-in-law,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Ngiou,Gniou,,,貓,,Cat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Ngiou,Gniou,,,貓,,Cat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Ngiou kiáⁿ,Gniou kia,,,貓囝,貓子,Kitten,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Ngiou thâu chióu,Gñiou taou chiou,,,貓頭鳥,,Owl,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Ngà,Gña,,,㦙,愚,Foolish,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Ngóu,Gñou,,,午,,11 to 1 P.M.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Ngĩ sṳ̃,Gñi sŭr,,,義士,,Just man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Ngṳ̂n,Gnŭrn,,,銀,,Silver,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+"Ngṳ̂n che̍k khou,chieh uá","Gnurn chek kʼhou,chiĕ ua",,,銀一箍借我,銀一圓借我,Lend me a dollar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Ngṳ̂n thóng,Gnŭrn tong,,,銀桶,,Purse,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Niáu tshṳ́,Niou chŭr,,,鳥鼠,老鼠,Rat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Niáⁿ tuaⁿ,Nĭa toa,,,領單,,Order,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Niú,Niw,,,鈕,,Button,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Niú khàu,Niw khaou,,,鈕扣,,Buckle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Niú phāng,Niw pan,,,鈕縫,丨𦕎,Button hole,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Nâm,Nam,,,南,,South,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Nâng,Nang,,,人,,Man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Nâng,Nang,,,人,,Man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Nî,Ni,,,年,,Year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Nî,Ni,,,年,,Year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Nî,Ni,,,年,,Year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Nñg,Nŭng,,,卵,,Egg,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Nõ,Naw,,,二,,II,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Nõ,Naw,,,貳,,Two,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Nõ buān,Naw boan,,,二萬,,"20,000",,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Nõ khún tsháu chhie̍h,Naw kʼhun chaou chiĕ,,,二捆草蓆,,2 Rolls of mats,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Nõ ki liâng sùaⁿ,Naw ki ney sua,,,二枝凉傘,二丨凉傘,2 Chattas,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Nõ kò chie̍h,Naw kaw chiĕ,,,二塊石,二丨石,2 Stones,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Nõ lia̍p bí,Naw liĕp bi,,,二粒米,二丨米,2 Grains of rice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Nõ pau ie̍h,Naw paou iĕ,,,二包藥,二丨藥,2 Papers of medicine,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Nõ peh,Naw pĕ,,,二百,,200,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Nõ pún su phõu,Naw pung siou pou,,,二本書簿,,2 Blank books,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,59
+Nõ sang bue̍h,Naw sang buĕ,,,二雙襪,二丨襪,2 Pr. of socks,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Nõ tshoiⁿ,Naw choi,,,二千,,2000,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Nõ tùi hĩⁿ huân,Naw tui hñi huan,,,二對耳環,二對耳𤨔,2 Pr. of ear rings,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Nĩ,Ni,,,乳,,Breast,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Nńg,Nŭng,,,女,,Female,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Nũa,Noa,,,涎,,Spittle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+N̂g hô,Ng haw,,,黃河,,The yellow river,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+N̂g tâng,Ng tang,,,黃銅,黃丨,Brass,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Ou,,,,烏,黑,Black,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Ou chióu,Ou chiou,,,烏鳥,,Crow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Oû,Ou,,,湖,,Lake,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Pak,Păk,,,北,,North,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Pe̍h thih,Pĕ tĭ,,,白鐵,,Tin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Pe̍h tâng,Pĕ tang,,,白銅,,White copper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Phah a-nôu kiáⁿ,Pă a-nou kia,,,拍阿孥囝,打亞孥子,Beat the boy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Phah me̍h,Pă mĕ,,,拍脉,打脉,To feel the pulse,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Phah mn̂g,Pă mung,,,拍門,打門,Knock at the door,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Phah sǹg,Pă sung,,,拍算,打算,To calculate,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Phah-sí hṳ́ tsûa,Pă-si hur cʼhua,,,拍死彼蛇,打死彼蛇,Kill that snake,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Phang,Pʼhang,,,蜂,,Bee,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Pha̍k,Păk,,,雹,,Hail,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Phâng pòu,Pang pou,,,帆布,㠶布,Canvass,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Phêng an,Peng an,,,平安,,Peace,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Phêng iú,Peng yiw,,,朋友,,Friends,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Phì,Pñi,,,鼻,,Nose,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Phì,Pñi,,,鼻,,Smelling,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Phì khang,Pñi kang,,,鼻孔,,Nostril,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Phí nâng,Pai nang,,,痞人,獃人,Vicious man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Phî,Poe,,,皮,,Skin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Phî tsõ,Poe chaw,,,皮坐,,Cushion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Phò phûe,Poa pue,,,破皮,,To tear the flesh,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Phò sie,Poa sie,,,破相,,Maimed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Phõu,Phou,,,簿,,Blank book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Phûe,Pue,,,皮,,Rind,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Piah,Piăh,,,壁,,Partition,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Piaⁿ teng,Pier teng,,,兵丁,,Soldiers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Pit,,,,筆,,Pen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Pit kià,Pĭt kèy,,,筆架,,Pencil frame,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Pit tiāⁿ lṳ́ sí,Pit tia lur si,,,必定汝死,必定爾死,You must die,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,28
+Pit tî,Pĭt ti,,,筆池,,Pen stand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Piáⁿ,Pia,,,餅,,Biscuit,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Piⁿ,Pni,,,鞭,,Whip,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Poih,Poĭ,,,八,,VIII,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Poih,Poĭ,,,捌,,Eight,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Poih gu̍eh,Poĭ guĕ,,,八月,,month Sept.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Poih tiôu chhiú kṳn,Poĭ tiou chiw kŭrn,,,八條手巾,八丨手巾,8 Handkerchiefs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Poih tsa̍p,Poĭ chap,,,八十,,80,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Pou thâu,Pou taou,,,埠頭,,Anchorage,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Po̍k,Pok,,,僕,,Slave male,Slave (m),,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Put zua̍t,Put juăt,,,不悦,,To refuse,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Pà,Pa,,,豹,,Leopard,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Pài it,Pai it,,,拜一,,Monday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Pài la̍k,Pai lak,,,拜六,,Saturday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Pài saⁿ,Pai sa,,,拜三,,Wednesday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Pài sì,Pai si,,,拜四,,Thursday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Pàng sái,Pang sai,,,放屎,放尿,To go to stool,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Pàng tõ chí,Pang taw chi,,,放在此,,Set it down here,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Pâng,Pang,,,房,,Room,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Pê,Pey,,,耙,,Harrow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Pê tsûn,Pey chun,,,扒船,櫂船,To row,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Pìn piⁿ,Pin pi,,,鬢邊,𩯭邊,Temple,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Pùaⁿ mê,Poa mey,,,半夜,,Midnight,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Pú thâu,Po taou,,,斧頭,,Hatchet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Pûaⁿ,Pua,,,盤,,Plate,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Pĩ,Pi,,,婢,,Slave female,Slave (f),,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Pẽ,Pey,,,父,,Father,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Sai,,,,西,,West,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Sai bó,Sai baw,,,獅母,,Lioness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Sai gû,Sai gu,,,犀牛,𫵠㐄,Rhinoceros,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Sai kang,,,,獅公,獅剛,Lion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Sai nâm,Sai nam,,,西南,,S.West,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Sai pak,Sai păk,,,西北,,N.West,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Sai táu,Tai taou,,,篩斗,,Sieve,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Sang seⁿ,Sang sey,,,雙生,䨇生,Twins,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Saⁿ,Sa,,,三,,III,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Saⁿ,Sa,,,叁,,Three,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Saⁿ,Sa,,,衫,,Jacket,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Saⁿ chiah chhiú,Sa chiă chiw,,,三隻手,,A thievish hand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Saⁿ gu̍eh,Sa guĕ,,,三月,,month Apl.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Saⁿ kha kūi,Sa kʼha kñui,,,三骹櫃,三脚櫃,3 Chests of drawers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,55
+Saⁿ kò hiã,Sa kaw hia,,,三塊瓦,三丨瓦,3 Tiles,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Saⁿ lia̍p suāiⁿ,Sa liĕp sñuai,,,三粒榱,三丨榱,3 Mangoes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Saⁿ pau pe̍h thn̂g,Sa paou pĕ tŭng,,,三包白糖,三丨白糖,3 Paper of sugar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Saⁿ peh,Sa pĕ,,,三百,,300,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Saⁿ sang kha,Sa sang kʼha,,,三雙骹,三丨脚,3 Pr. of feet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Saⁿ tiôu e̍k pòu,Sa tiou ĕk pou,,,三條浴布,三丨浴布,3 Bathing cloths,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Saⁿ tsa̍p,Sa chap,,,三十,,30,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Saⁿ tsa̍p,Sa chap,,,三十,,30th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Saⁿ tsa̍p niá tsang sui,Sa chap nia chang sui,,,三十領棕蓑,,30 Rain jackets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,55
+Saⁿ tùi chhiú huân,Sa tui chiw huan,,,三對手~~𤨔~~(環),三對手丨),3 Pr. of bracelets,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Se,Sey,,,紗,,Cotton,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Seng thiok,Sèng tʼiok,,,牲畜,,Animals,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Seⁿ,Sey,,,鉎,,Cast-iron,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Si,,,,絲,,Silk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Si kue,,,,西瓜,,Watermelon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Si-kiaⁿ,Si-kia,,,詩經,,Sacred odes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Siah,Siă,,,錫,,Pewter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Siam-lô kok,Siam-law kok,,,暹羅國,,The kingdom of Siam,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Siang jîn,Siang jin,,,商人,,Merchants,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Siap sî,Siĕp si,,,霎時,,Presently,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Sie cheⁿ,Sie chey,,,相爭,,Contention,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Sieⁿ,Sie,,,箱,,Chest,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Sieⁿ hùi,Sie hui,,,傷肺,,Diseased lungs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,36
+Sim,,,,心,,Heart,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Sim,,,,心,,Mind,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Sim siẽⁿ,Sim sie,,,心想,,To think,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Sin,,,,申,,3 to 5,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Sin niêⁿ,Sin nie,,,新娘,,Bride,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Sin nn̂g,Sin nung,,,新郎,,Bridegroom,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Sin seⁿ,Sin sey,,,先生,,A teacher,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Sin thí,Sin toi,,,身體,,Body,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Sin tói saⁿ,Sin toi sa,,,身底衫,,Shirt,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Sit mīn,Sĭt min,,,失面,,Having lost reputation,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Siu,Siw,,,梳,,Comb,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Siu thâu,Siw taou,,,梳頭,,Comb the head,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Siu tsûn,Siw chun,,,收船,,Repair the boat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Siu tuaⁿ,Siw toa,,,收單,,Receipt,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Sià tsũe,Sia chuey,,,赦罪,,Forgiveness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Sià-mién lṳ́ te̍k,Sia-mien lur tek,,,赦免汝敵,赦免爾敵,Forgive your foes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Siàⁿ nâng,Sia nang,,,聖人,,A sage,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Siâⁿ,Sia,,,城,,City,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Siêⁿ,Sie,,,嚐,嘗,Tasting,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Siêⁿ,Sie,,,常,,Constancy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Siêⁿ siêⁿ i kiâⁿ chiè seⁿ,Sie sie i kia chiĕ say,,,常常伊行照生,常常伊行如此,He is constantly doing thus,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Sióu nâng sim sîn bô tiāⁿ,Siow nang sim sin baw tia,,,痟人心神無定,顚人心神無定,The mind of the foolish is unstable,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Siù,Siw,,,獸,,Wild beasts,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Si̍t jī,Sït ji,,,實字,,Nouns,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Siẽn,Sien,,,腎,,Kidnies,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Siẽn nâng,Sien nang,,,善人,,Virtuous man,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Soh,Sŏ,,,索,,Rope,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Soh,Sŏ,,,雪,,Snow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Soh kiáⁿ,Sŏ kia,,,索囝,䌇子,Cord,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Sua,,,,沙,,Sand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Sua,,,,沙,,Sand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Sua hṳ̂,Sua hŭr,,,鯊魚,,Shark,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Suah siú,Suă siw,,,殺手,,Executioners,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Suang,Sung,,,霜,,Ice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Suaⁿ,Sua,,,山,,Hill,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Suaⁿ koi,Sua koi,,,山鷄,,Pheasant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Suaⁿ pa,Sua pa,,,山巴,,Country,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Suaⁿ ũ kûiⁿ,Sua u kui,,,山有危,山有高,The mountain is high,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Sueh ba̍k,Suĕ bak,,,刷墨,,Ink the type,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Sut,,,,戌,,7 to 9,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Sà,Hey,,,嗄,,Asthma,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Sàu siú,Saou siw,,,掃帚,箒把,Broom,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Sái,Sai,,,屎,,Feces,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Sèⁿ zû húe tsṳ lie̍t,Sey ju huey chŭr diĕt,,,性如火之烈,,A disposition as fierce as the flames,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Séⁿ,Sey,,,省,,Province,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Séⁿ siâⁿ,Sey sia,,,省城,,The capital of a province,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Sêng si̍t,Seng sit,,,誠實,,Uprightness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Sì,Si,,,四,,IV,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Sì,Si,,,肆,,Four,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Sì gu̍eh,Si guĕ,,,四月,,month May,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Sì kak,Si kak,,,四角,,Corner,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Sì kha tsúi tháng,Si kʼha chui tang,,,四骹水桶,四脚水桶,4 Water pails,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,55
+Sì ki tek,Si ki tek,,,四枝竹,四丨竹,4 Bamboos,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Sì kò tôu,Si kaw tou,,,四塊塗,四丨塗,4 Lumps of earth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Sì lia̍p tāu,Si liĕp taou,,,四粒荳,四丨荳,4 Beans,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,57
+Sì peh,Si pĕ,,,四百,,400,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Sì sang chhiú,Si sang chiw,,,四雙手,四丨手,4 Pr. of hands,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Sì sî,Si si,,,四時,,The four season,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Sì tiôu thâu pòu,Si tiou taou pou,,,四條頭布,四丨頭布,4 Turbans,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Sì tsa̍p,Si chap,,,四十,,40,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Sì tùi mn̂g huân,Si tui mŭng huan,,,四對門~~𤨔~~(環),四對門丨),4 Pr. of door handles,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,56
+Sì-su,Si-su,,,四書,,Four books,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Sìⁿ,Si,,,扇,,Fan,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Sìⁿ,Si,,,扇,,Fan,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Sí nâng chióu,Si nang chʼou,,,死人鳥,,Vulture,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Sî,Si,,,時,,Time,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Sî cheng,Si cheng,,,時鐘,,Clock,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Sî sîn pie,Si sin pie,,,時辰錶,時辰票,Watch,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Sîn,Sin,,,辰,,Sky,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Sîn,Sin,,,辰,,7 to 9,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Sòi kūiⁿ,Soi kui,,,細縣,小縣,A small village,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Sòng thí,Song tʼoi,,,宋體,,Roman letters,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Só kiâⁿ kai sĩ tsà ngũi,Saw kia kai si cha gnui,,,所行皆是詐僞,,Altogether hypocritical,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Só sî,Saw si,,,鎖匙,,Key,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Só thâu,Saw taou,,,鎖頭,,Lock,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Só tsûn,Saw chun,,,鎖船,鎖丨,Lock the boat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Sõng sṳ,Song sŭr,,,訟師,,Pettifoggers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Sùaⁿ,Soa,,,線,,Thread,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Sûi chhiú tsai kueⁿ,Sui chiw chai kuey,,,隨手知關,隨手再關,Don't leave the door open,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Sûi uá,Sui ua,,,隨我,,Follow me,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,21
+Sũn,Sun,,,順,,Obedience,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Sǹg thâu,Sŭng taou,,,蒜頭,,Garlic,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Sṳ̃,Sur,,,嶼,,Island,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Ta pou kiáⁿ,Ta pou kia,,,丈夫囝,男子,Son,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Tang,,,,東,,East,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tang,,,,冬,,Winter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Tang,,,,冬,,Winter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tang kue,,,,冬瓜,,Squash,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tang nâm,Tang nam,,,東南,,S.East,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tang pak,Tang păk,,,東北,,N.East,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tang tsóiⁿ,Tang choi,,,中指,,Middle finger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Tang tùi sai,Tang tui sai,,,東對西,,East is opposite to west,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Teh,Tĕ,,,壓,,To press,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tek,,,,德,,Virtue,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tek tshù,Tek chu,,,竹厝,,Bambu house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Teng húe,Teng huey,,,燈火,,Lamp,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Teng sim,,,,燈心,,Wick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Te̍k,Tĕk,,,鹿,,Deer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Thah,Thă,,,塔,㙮,Pagoda,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Thau tsûn,Thaou chun,,,偷船,偷丨,Steal the boat,Steal do.,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Theng,Teng,,,窗,窻,Window,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Thi thâu,Tui taou,,,梯頭,,Stairs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Thiaⁿ,Tʼhia,,,聽,,Hearing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Thien,Tien,,,天,,Heavens,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Thien ũ kûiⁿ,Tien u kui,,,天有危,天有高,The heavens are high,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Thih,Tĭ,,,鐵,,Iron,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Thih hûe,Ti huey,,,鐵橫,,Spade,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Thih pê,Tĭ pey,,,鐵耙,,Rake,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Thih tui,Tĭ tui,,,鐵鎚,,Hammer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Thiu,Tiu,,,抽,,Plane,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Thiòu lo̍h,Thiou lŏ,,,跳落,,Jump down,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Thiõu,Tiou,,,柱,,Post,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Thiú,Tiw,,,丑,,1 to 3,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Thn̂g,Tŭng,,,糖,,Sugar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Thn̂g tsúi,Tŭng chui,,,糖水,,Molasses,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tho̍h,Tʼhŏ,,,駝,,Camel,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Tho̍h chióu,Tŏ chiou,,,駝鳥,,Ostrich,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Thâm,Tʼham,,,痰,,Phlegm,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Thâu khak,Taou kăk,,,頭殼,,Head,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Thâu khak-tshúe,Taou kăk-chuey,,,頭殼髓,,Brains,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Thâu mô,Taou maw,,,頭毛,,Hair,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Thâu pòu,Taou pou,,,頭布,,Turban,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Thâu tsṳ́,Toau tur,,,頭子,長子,First born,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Thì,Toi,,,睇,看,Seeing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Thì thâu,Thi taou,,,剃頭,,Shave the head,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Thông jîn,Tong jin,,,瞳仁,童仁,Pupil,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Ti tu,,,,蜘蛛,,Spider,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Tia̍h bí,Teă bi,,,糴米,,Buy some rice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Tien,Siow,,,癲,顚,Foolish,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Tie̍t,Tiĕt,,,姪,,Nephew,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Tie̍t nńg,Tiĕt nung,,,姪女,,Niece,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Tiê,Tie,,,潮,,Tide,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tiê-chiu hú,Tie-chiw hu,,,潮州府,,The district of Tio-chiw,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Tiòu kue,Tiou kue,,,吊瓜,,Cucumber,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tn̂g,Tŭng,,,腸,,Entrails,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Tn̂g to,Tŭng taw,,,長刀,,Sword,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tn̄g,Tŭng,,,緞,縀,Satin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Tn̄g chì,Tŭng chi,,,傳志,,Historical,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+To,Taw,,,刀,,Knife,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+To,Taw,,,刀,,Knife,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Toh,Tŏ,,,桌,,Table,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+To̍h jī,Tŏ ji,,,擇字,,Set up type,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+To̍k it chin sîn,Tok it chin sin,,,獨一真神,獨一眞神,Only one true God,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Tsa,Chey,,,叉,义,Fork,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tsa bóu kiáⁿ,Cha bou kia,,,諸婦囝,女子,Daughter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,41
+Tsai,Chai,,,知,,Know,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tsai tsok,Chai chok,,,知足,,Contentment,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Tsam,Cham,,,針,,Pin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tsam,Cham,,,針,,Needle,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Tsap,Chap,,,汁,,Wine,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tsat,Chăt,,,節,,Joint,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tsat,Chăt,,,節,,Joint,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Tsa̍p,Chap,,,十,,X,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p chhit,Chap chĭt,,,十七,,XVII,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p chhit,Chap chĭt,,,十七,,17th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tsa̍p chhit chiah gû,Chap chĭt chiă gu,,,十七隻牛,十七丨牛,17 Cows,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p gu̍eh,Chap guĕ,,,十月,,10th month Nov.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Tsa̍p it,Chap it,,,十一,,XI,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p it,Chap it,,,十一,,11th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tsa̍p it *chiah* koi,Chap it *chiă* koi,,,十一隻雞,,11 Fowls,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p it gu̍eh,Chap it guĕ,,,十一月,,11th month Dec.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,61
+Tsa̍p it ki po lî teng,Chap it ki paw li teng,,,十一枝玻璃燈,,11 Glass lamps,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Tsa̍p ki siah teng,Chap ki siă teng,,,十枝錫燈,,10 Lamp stands,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Tsa̍p káu,Chap kaou,,,十九,,XIX,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p káu,Chap kaou,,,十九,,19th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tsa̍p káu chiah tshn̂g,Chap kaou chiă chŭng,,,十九隻床,十九丨床,19 Tables,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p la̍k,Chap lak,,,十六,,XVI,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p la̍k chiah tṳ,Chap lak chiă tŭr,,,十六隻猪,十六丨猪,16 Pigs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p poih,Chap poĭ,,,十八,,XVIII,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p poih chiah i,Chap poĭ chiă ì,,,十八隻椅,十八丨𬃪,18 Chairs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p saⁿ,Chap sa,,,十三,,XIII,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p saⁿ chiah gô,Chap sa chiă gaw,,,十三隻鵝,十三丨鵝,13 Geese,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p saⁿ ki kùn,Chap sa ki kun,,,十三枝棍,,13 Canes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Tsa̍p sì,Chap si,,,十四,,XIV,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,16
+Tsa̍p sì chiah káu,Chap si chiă kaou,,,十四隻狗,十四丨狗,14 Dogs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tsa̍p sì ki sìⁿ,Chap si ki si,,,十四枝扇,,14 Fans,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,58
+Tsa̍p tiôu soh,Chap tiou sŏ,,,十條索,十丨䌇,10 Ropes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,54
+Tshang thâu,Chang taou,,,蔥頭,,Onion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tsha̍k kiáⁿ,Chăk kia,,,鑿囝,鑿子,Chisel,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tsha̍t kiáⁿ,Chăt kia,,,賊囝,賊子,Thieves,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Tshng,Chung,,,瘡,,Ulcer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tshng,Chŭng,,,倉,,Granary,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tshu chhit,Chiw chĭt,,,初七,,7th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu it,Chiw it,,,初一,,First day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Tshu it,Chiw it,,,初一,,1st,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu khng,Chou kŭng,,,粗糠,,Husk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Tshu káu,Chiw kaou,,,初九,,9th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu la̍k,Chiw lak,,,初六,,6th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu poih,Chiw poĭ,,,初八,,8th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu sì,Chiw si,,,初四,,4th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu tsa̍p,Chiw chap,,,初十,,10th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshu tshùi,Chou chui,,,粗喙,粗口,Obscene,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Tshun,Chun,,,春,,Spring,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Tshun,Chun,,,春,,Spring,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tshun-chhiu,Chun-chiw,,,春秋,,"Annals by,",,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tshut la̍t,Chut lat,,,出力,,Work fast,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tshài thâu,Chai taou,,,菜頭,,Turnip,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tsháu chhie̍h,Chaou chiĕ,,,草蓆,,Mat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tsháu sut,Chaou sut,,,草蟀,,Cricket,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Tshâi hù,Chai hu,,,財副,,A clerk,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Tshâi lâng,Chai lang,,,豺狼,,Wolf,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Tshân,Chan,,,田,,Field,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Tshó jī,Chaw ji,,,草字,,Short hand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tshù,Chu,,,厝,,House,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tshù,Chu,,,厝,,House,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tshù,Cʼhou,,,醋,,Vinegar,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tshù téng,Chu teng,,,厝頂,,Roof,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tshùi,Chui,,,喙,嘴,Mouth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Tshùn,Chun,,,寸,,Inch,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tshṳ̂ pi?,Chur p?,,,慈悲,,Compassion,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Tsng,Chŭng,,,磚,,Brick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tsoh tshân,Chŏ chan,,,作田,耕田,Cultivate the fields,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Tso̍h ji̍t,Chŏ jit,,,絶日,,Day before yesterday,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
+Tso̍ih chheh,Choĭ chĕ,,,截冊,,Trim books,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tsà ngũi,Cha gnuì,,,詐僞,,Hypocrisy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Tsàn,Chan,,,棧,,Store room,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tsáu,Chaou,,,走,,Run,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tsân,Chan,,,層,,Loft,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Tsóiⁿ kah,Choi kă,,,指甲,,Finger nail,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Tsóiⁿ thâu-kong,Choi taou-kong,,,指頭公,,Thumb,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Tsù ìn,Chu in,,,鑄印,,Cast type,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tsúa,Chua,,,紙,,Paper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tsúi,Chui,,,水,,Water,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tsúi ah,Chui ăh,,,水鴨,,Wild duck,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Tsúi hu,Chui pey,,,水桴,,Floating house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tsúi i,Chui koi,,,水蛙,,Frog,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Tsúi kuàn,Chui kuan,,,水罐,水礶,Goglet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tsúi kũaⁿ,Chui kua,,,水摜,水𢸎,Water pot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Tsúi mé tsãi,Chui mey chai,,,水猛在,水猛極,The tide is very strong,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Tsúi siú,Chui siw,,,水手,,A sailor,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Tsúi thò,Chui kaw,,,水退,,Falling tide,Falling do.,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tsúi ti̍h,Chui tĭ,,,水碟,,Water stand,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tsúi tūa,Chui toa,,,水大,,Rising tide,Rising do.,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tsûa,Chua,,,蛇,,Serpent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,49
+Tsûn kiáⁿ,Chun kia,,,船囝,船子,Small boat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tsûn tsú,Chun chu,,,船主,,Super cargo,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Tsōi tsãi,Choi chai,,,㩼在,多極,Very many,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+Tsōi uē,Choi wey,,,㩼話,多話,Loquacious,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Tsũe,Chuey,,,罪,,Sin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Tsǹg kiáⁿ,Chŭng kia,,,鑽囝,鑽子,Gimlet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tsṳ,Chur,,,之,,Of,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Tsṳ chheh,Chŭr chĕ,,,書冊,,Book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tsṳ kè,Chŭr key,,,書架,,Book case,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Tsṳ-kiaⁿ,Chŭr-kia,,,書經,,Ancient history,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tsṳ́,Chŭr,,,子,,11 to 1 A.M.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Tuãn jī,Toan ji,,,篆字,,Seal character,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Táⁿ,Ta,,,膽,,Gall,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Táⁿ,Ta,,,膽,,Courage,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Tâng,Tang,,,銅,,Copper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Tãi-ha̍k,Tai-hăk,,,大學,,Great science,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Tê,Tey,,,茶,,Tea,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tê bí,Tey bi,,,茶米,,Tea (leaf),,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tê cheng,Tey cheng,,,茶鐘,,Tea cup,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Tê kuàn,Tey kuan,,,茶罐,茶礶,Tea pot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tê pûaⁿ,Tey poa,,,茶盤,,Tea board,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tê tsûn,Tey chun,,,茶船,,Saucer,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Tí,Tu,,,抵,,Brace,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tî,Ti,,,池,,Pond,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tî ũ hṳ̂,Ti u hur,,,池有魚,,There are fish in the pond,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Tîm tsûn,Tim chun,,,沉船,沉丨,Sink the boat,Sink do.,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tîn,Tin,,,塵,,Dust,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Tôu,Tou,,,塗,,Soil,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Tôu khòu,Tou khou,,,塗庫,,Brick house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Tõ tang pôiⁿ,Taw tang poi,,,在東畔,,On the east,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,32
+Tõiⁿ chhit,Toi chĭt,,,第七,,7th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ it,Toi it,,,第一,,1st,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ káu,Toi kaou,,,第九,,9th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ la̍k,Toi lak,,,第六,,6th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ poih,Toi poĭ,,,第八,,8th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ saⁿ,Toi sa,,,第三,,3rd,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ sì,Toi si,,,第四,,4th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tõiⁿ tsa̍p,Toi chap,,,第十,,10th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,17
+Tú kùn,Tu kun,,,賭棍,,Gamblers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Tûn,Tʼun,,,唇,,Lips,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,33
+Tāng,Tang,,,洞,,Cavern,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Tāu,Taou,,,荳,,Bean,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tāu sòi siaⁿ,Tak soi sia,,,讀細聲,,Read in a low voice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25
+Tī,Ti,,,地,,Earth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Tī chín,Ti chin,,,地震,,Earthquake,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tī îⁿ,Ti i,,,地圓,,The earth is round,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Tī-hng,Ti-hng,,,地方,,Country,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Tī-hng khuah,Ti-hng kuă,,,地方濶,,A large territory,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Tūa chi̍h,Toa chĭ,,,大舌,,Stammering,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Tūa chi̍h,Toa chĭ,,,大舌,,Stammering,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+Tūa huang,Toa huang,,,大風,,Storm,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Tūa jī,Toa ji,,,大字,,Clearance,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Tūa niá saⁿ,Toa nia sa,,,大領衫,大領丨,Gown,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Tūa tsûn,Toa chun,,,大船,,Large boat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tūa tsṳ̂,Toa chŭr,,,大薯,,Yam,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tṳ,Tŭr,,,猪,,Hog,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Tṳ bah,Tŭr bă,,,猪肉,,Pork,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
+Tṳ kiáⁿ,Tŭr kia,,,猪囝,猪子,Pig,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,48
+Tṳ̂ thâu,Tŭr taou,,,鋤頭,,Hoe,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,46
+Tṳ̄,Tŭr,,,箸,,Chopstick,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+Ua̍h jī,Uă ji,,,活字,,Verbs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Ui seng,,,,醫生,,Physicians,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,42
+Uá huaⁿ-hí tsãi,Ua hua-hi chai,,,我歡喜在,我歡喜極,I am very glad,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Uá hĩⁿ lâng se su,Ua hi lang sey su,,,我耳聾些須,,I am a little hard of hearing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,40
+Uá ie i,Ua ie i,,,倚腰椅,倚腰𬃪,Rocking-chair,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Uá ma̍k-chiu thiàⁿ,Ua măk-chiw tʼhia,,,我目睭痛,我目珠痛,My eyes are sore,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Uáⁿ,Ua,,,碗,,Bowl,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Uāⁿ jī,Ua ji,,,換字,,Correct proof,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Zo̍k,Jok,,,褥,,Matrass,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,44
+Zua̍h,Juă,,,熱,,Heat,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Zua̍h sim tuān chin tõ lí,Juă sim tuan chin taw li,,,熱心傳真道理,熱心傳眞道理,Zealous in propagating the truth,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Zua̍h tsṳ ke̍k,Juă chur kĕk,,,熱之極,,It is extremely hot,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Zông,Jong,,,絨,,Velvet,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Zû ì,Ju i,,,如意,,Hair pin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,53
+Ài,Ai,,,愛,,Love,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
+Ài,Ai,,,愛,,Love,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Ài lṳ́ chhiû te̍k,Ai lur chiw tek,,,愛汝仇敵,愛爾仇敵,Love your enemies,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,24
+Àiⁿ,Ai,,,欲,,Desire,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,35
+Àm,Am,,,暗,,Darkness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,29
+Àm tsãi,Am chai,,,暗在,暗極,It is very dark,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,30
+Á-uan chí keng,A-wan chi keng,,,拗彎此弓,押彎只弓,Bend this bow,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Âng tâng,Ang tang,,,紅銅,紅丨,Copper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+Éng,Eng,,,湧,,Wave,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,31
+Ìn chheh,In chĕ,,,印冊,,Print books,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,47
+Ìn tsṳ kuán,In chŭr kuan,,,印書舘,,Printing office,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,43
+Í kõu,I kou,,,倚靠,,Dependence,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,39
+În,In,,,鉛,,Lead,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
+În,In,,,寅,,3 to 5,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,60
+Īⁿ pûaⁿ,I poa,,,硯盤,,Writing tray,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,45
+"Ũ chin,meh","U chia,mĕ",,,有真咩,有眞麽,Is it true,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Ũ gâu nâng tsṳ tsâi,U gaou nang chŭr chai,,,有賢人之才,,Having a wise man's capacity,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,38
+Ũ jie̍h tsōi hùe,U jiĕ choi huey,,,有若㩼歲,有若多歲,What is your age,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,26
+Ũ mīn,U min,,,有面,,Having a reputation,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,34
+Ṳn,Urn,,,恩,,Mercy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37
+Ṳn hũi,Urn hui,,,恩惠,,Kindness,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,37

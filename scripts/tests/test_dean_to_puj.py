@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+import importlib
 import unittest
 from pathlib import Path
 
@@ -8,16 +9,16 @@ import sys
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from scripts.processors.dean_to_puj import (
-    build_han_index,
-    dean_to_latn_norm,
-    levenshtein,
-    lookup_puj_for_row,
-    parse_markdown,
-    process_rows,
-    split_dean_syllables,
-    normalize_dean_syllable,
+_mod = importlib.import_module(
+    "scripts.processors.003_First_Lessons_in_the_Tie-chiw_Dialect"
 )
+build_han_index = _mod.build_han_index
+dean_to_latn_norm = _mod.dean_to_latn_norm
+levenshtein = _mod.levenshtein
+lookup_puj_for_row = _mod.lookup_puj_for_row
+parse_markdown = _mod.parse_markdown
+split_dean_syllables = _mod.split_dean_syllables
+normalize_dean_syllable = _mod.normalize_dean_syllable
 
 
 class TestParseMarkdown(unittest.TestCase):
@@ -89,7 +90,7 @@ class TestSplitDeanSyllables(unittest.TestCase):
         self.assertEqual(result, ["lur", "a", "pey", "si", "liou"])
 
     def test_special_chars(self):
-        self.assertEqual(split_dean_syllables("mʼkheng"), ["mʼkheng"])
+        self.assertEqual(split_dean_syllables("mʼkheng"), ["mʼ", "kheng"])
 
     def test_gn_initial(self):
         self.assertEqual(split_dean_syllables("Gñou chap gñou"), ["gñou", "chap", "gñou"])

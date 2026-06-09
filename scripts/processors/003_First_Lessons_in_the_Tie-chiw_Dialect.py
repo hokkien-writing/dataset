@@ -1,6 +1,5 @@
 from __future__ import annotations
 
-import argparse
 import csv
 import re
 import sys
@@ -9,16 +8,18 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
+from scripts.processors.base import BookProcessor, Entry
+
 _PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
 _TABLE_ROW_RE = re.compile(r"^\|(.+)\|\s*$")
 _SEPARATOR_RE = re.compile(r"^\|[\s\-:|]+\|\s*$")
 _OCR_ARTIFACT_RE = re.compile(r"~~.+?~~\(([^)]*)\)")
 _OCR_ORIG_RE = re.compile(r"~~(.+?)~~\([^)]*\)")
+_PLUS_PLUS_RE = re.compile(r"\+\+(.+?)\+\+")
 _CJK_RE = re.compile(r"[\u4e00-\u9fff\u3400-\u4dbf]")
-_COMMA_SPLIT_RE = re.compile(r",")
 _SYLLABLE_RE = re.compile(
-    r"[A-Za-z\u0300-\u036f\u0128\u0129\u0131\u00f1\u02bc\u0142\u2019"
-    r"\u0103\u0115\u012d\u014f\u016d]+"
+    r"[A-Za-z\u00C0-\u00FF\u0128\u0129\u0131\u02bc\u0142\u2019"
+    r"\u0103\u0115\u012d\u014f\u016d\u0300-\u036f]+"
 )
 _BREVE_CHARS = frozenset("\u0103\u0115\u012d\u014f")
 _BREVE_TRANS = str.maketrans({
@@ -31,6 +32,9 @@ _BREVE_TRANS = str.maketrans({
 _TONE_DIGIT_RE = re.compile(r"[1-8]$")
 _ENTERING_END_RE = re.compile(r"[ptk]$")
 _NN_RE = re.compile(r"nn$")
+_GLOTTAL_BOUNDARY_RE = re.compile(r"\u02bc(?=[bcdfgjklmnpqrstvwxyz])", re.IGNORECASE)
+_NASAL_CODA_RE = re.compile(r"(\u00f1h?|nnh?|m|ng|n)$")
+_CONSONANT_CODA_RE = re.compile(r"(ng|[ptkmn])$")
 
 
 def _strip_tone(s: str) -> str:
@@ -63,6 +67,7 @@ def parse_markdown(text: str) -> list[tuple[str, str, str, str, str, str]]:
 
         han_raw = cells[1]
         han = _OCR_ARTIFACT_RE.sub(r"\1", han_raw)
+        han = _PLUS_PLUS_RE.sub(r"\1", han)
         dean_latn_raw = cells[2]
 
         if not _CJK_RE.search(han):
@@ -76,7 +81,12 @@ def parse_markdown(text: str) -> list[tuple[str, str, str, str, str, str]]:
     return rows
 
 
+def _preprocess_dean(text: str) -> str:
+    return _GLOTTAL_BOUNDARY_RE.sub("\u02bc ", text)
+
+
 def split_dean_syllables(text: str) -> list[str]:
+    text = _preprocess_dean(text)
     result: list[str] = []
     for word in text.split():
         result.extend(_SYLLABLE_RE.findall(word.lower()))
@@ -189,10 +199,6 @@ def _base_form(s: str) -> str:
     return _NN_RE.sub("\u00f1", _TONE_DIGIT_RE.sub("", s))
 
 
-_NASAL_CODA_RE = re.compile(r"(\u00f1h?|nnh?|m|ng|n)$")
-_CONSONANT_CODA_RE = re.compile(r"(ng|[ptkmn])$")
-
-
 def _has_consonant_coda(s: str) -> bool:
     base = _base_form(s)
     return bool(_CONSONANT_CODA_RE.search(base))
@@ -281,81 +287,68 @@ def _reconstruct(original: str, replacements: list[str]) -> str:
 
 
 def _differs_after_fix(raw: str, fixed: str) -> str:
-    orig = _OCR_ORIG_RE.sub(r"\1", raw) if _OCR_ORIG_RE.search(raw) else ""
-    return orig if orig and orig != fixed else ""
+    orig = _OCR_ORIG_RE.sub(r"\1", raw) if _OCR_ORIG_RE.search(raw) else raw
+    orig = _PLUS_PLUS_RE.sub("", orig)
+    return orig.strip() if orig.strip() and orig.strip() != fixed else ""
 
 
-def process_rows(
-    rows: list[tuple[str, str, str, str, str, str]],
-    teochew_reader: csv.DictReader,
-) -> list[dict[str, str]]:
-    han_index = build_han_index(teochew_reader)
-    results: list[dict[str, str]] = []
-    for page, english, english_raw, han, han_raw, dean_latn in rows:
-        han_chars = _extract_han_chars(han)
-        if not han_chars:
-            continue
-        dean_syllables = split_dean_syllables(dean_latn)
-        puj_entries = lookup_puj_for_row(han_chars, dean_syllables, han_index)
-        if puj_entries[0] is None:
-            norm_syllables = [_dean_syllable_to_latn_norm(s) for s in dean_syllables]
-            puj = "*" + _reconstruct(dean_latn, norm_syllables)
-            source = "rule"
-        else:
-            puj_list, tie_indices = puj_entries
-            mixed: list[str] = []
-            for i, entry in enumerate(puj_list):
-                if entry is not None:
-                    mixed.append(entry)
-                else:
-                    mixed.append(_dean_syllable_to_latn_norm(dean_syllables[i]))
-            puj = _reconstruct(dean_latn, mixed)
-            if any(e is None for e in puj_list) or tie_indices:
-                puj = "*" + puj
-                source = "rule" if any(e is None for e in puj_list) else "tiebreak"
+class Processor(BookProcessor):
+    _han_index: dict[str, list[tuple[str, str, int]]] | None = None
+
+    @classmethod
+    def _load_han_index(cls) -> dict[str, list[tuple[str, str, int]]]:
+        if cls._han_index is None:
+            teochew_path = PROJECT_ROOT / "export" / "teochew.csv"
+            with open(teochew_path, encoding="utf-8", newline="") as f:
+                cls._han_index = build_han_index(csv.DictReader(f))
+        return cls._han_index
+
+    def extract_entries(self, text: str, source_name: str) -> list[Entry]:
+        rows = parse_markdown(text)
+        if not rows:
+            return []
+
+        han_index = self._load_han_index()
+        entries: list[Entry] = []
+
+        for page, english, english_raw, han, han_raw, dean_latn in rows:
+            han_chars = _extract_han_chars(han)
+            if not han_chars:
+                continue
+
+            dean_latn_clean = _OCR_ARTIFACT_RE.sub(r"\1", dean_latn)
+            dean_preprocessed = _preprocess_dean(dean_latn_clean)
+            dean_syllables = split_dean_syllables(dean_latn_clean)
+
+            puj_entries = lookup_puj_for_row(han_chars, dean_syllables, han_index)
+            if puj_entries[0] is None:
+                norm_syllables = [_dean_syllable_to_latn_norm(s) for s in dean_syllables]
+                puj = "*" + _reconstruct(dean_preprocessed, norm_syllables)
+                source = f"{source_name} > rule"
             else:
-                source = "teochew.csv"
-        results.append({
-            "page": page,
-            "english": english,
-            "english_orig": _differs_after_fix(english_raw, english),
-            "han": han,
-            "han_orig": _differs_after_fix(han_raw, han),
-            "dean_latn": dean_latn,
-            "puj": puj,
-            "source": source,
-        })
-    return results
+                puj_list, tie_indices = puj_entries
+                mixed: list[str] = []
+                for i, entry in enumerate(puj_list):
+                    if entry is not None:
+                        mixed.append(entry)
+                    else:
+                        mixed.append(_dean_syllable_to_latn_norm(dean_syllables[i]))
+                puj = _reconstruct(dean_preprocessed, mixed)
+                if any(e is None for e in puj_list) or tie_indices:
+                    puj = "*" + puj
+                    source = f"{source_name} > {'rule' if any(e is None for e in puj_list) else 'tiebreak'}"
+                else:
+                    source = source_name
 
+            entries.append(Entry(
+                han=han,
+                han_orig=_differs_after_fix(han_raw, han),
+                puj=puj,
+                puj_orig=dean_latn_clean,
+                en=english,
+                en_orig=_differs_after_fix(english_raw, english),
+                source=source,
+                page_num=page,
+            ))
 
-def main():
-    parser = argparse.ArgumentParser(description="Convert Dean's Tie-chiw romanization to PUJ")
-    parser.add_argument("--input", required=True, help="Path to Dean markdown file")
-    parser.add_argument("--teochew", required=True, help="Path to teochew.csv")
-    parser.add_argument("--output", required=True, help="Path to output CSV")
-    args = parser.parse_args()
-
-    md_text = Path(args.input).read_text(encoding="utf-8")
-    rows = parse_markdown(md_text)
-
-    with open(args.teochew, encoding="utf-8", newline="") as f:
-        reader = csv.DictReader(f)
-        results = process_rows(rows, reader)
-
-    output_path = Path(args.output)
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    with open(output_path, "w", encoding="utf-8", newline="") as f:
-        writer = csv.DictWriter(f, fieldnames=["page", "english", "english_orig", "han", "han_orig", "dean_latn", "puj", "source"])
-        writer.writeheader()
-        for row in results:
-            writer.writerow(row)
-
-    matched = sum(1 for r in results if r["source"] == "teochew.csv")
-    fallback = sum(1 for r in results if r["source"] == "rule")
-    print(f"Wrote {len(results)} entries to {output_path}")
-    print(f"  matched: {matched}, fallback: {fallback}")
-
-
-if __name__ == "__main__":
-    main()
+        return entries

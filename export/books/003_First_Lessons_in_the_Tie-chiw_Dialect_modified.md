@@ -209,7 +209,7 @@ aou | as ou in *plough, our, sour*. |
 | Ant | 蟻 | Hia |
 | And | 而 | Jur |
 | Blood | 血 | Huĕ |
-| Black | ~~黑~~(烏) | Ou |
+| Black | 烏 | Ou |
 | Cat | 貓 | Gniou |
 | Can | 能 | Oi |
 | Dear | 貴 | Kui |
@@ -229,7 +229,7 @@ aou | as ou in *plough, our, sour*. |
 | Knife | 刀 | Taw |
 | Know | 知 | Chai |
 | Love | 愛 | Ai |
-| Leg | ~~脚~~(骹) | Kha |
+| Leg | 骹 | Kha |
 | Man | 人 | Nang |
 | Mat | 蓆 | Chiĕ |
 | Nail | 釘 | Teng |
@@ -238,13 +238,13 @@ aou | as ou in *plough, our, sour*. |
 | Of | 之 | Chur |
 | Pen | 筆 | Pit |
 | Pin | 針 | Cham |
-| Quick | ~~快~~(猛) | Mey |
+| Quick | 猛 | Mey |
 | Quiet | 恬 | Tiem |
 | Run | 走 | Chaou |
 | Rope | 索 | Sŏ |
 | Shelf | 架 | Key |
 | Sock | 襪 | Buĕ |
-| This | ~~這~~(此) | Chi |
+| This | 此 | Chi |
 | Talk | 講 | Kong |
 | Uncle | 叔 | Chĕk |
 | Ulcer | 瘡 | Chung |
@@ -252,71 +252,71 @@ aou | as ou in *plough, our, sour*. |
 | Virtue | 德 | Tek |
 | Whip | 鞭 | Pni |
 | Wheel | 輪 | Lun |
-| You | ~~爾~~(汝) | Lur |
+| You | 汝 | Lur |
 | Year | 年 | Ni |
 
 <!-- page:19 -->
 
 |  |  |  |
 |---|---|---|
-| Be still | ~~靜靜~~(恬恬) | Tiem tiem |
+| Be still | 恬恬 | Tiem tiem |
 | Be quick | 猛猛 | Mey mey |
-| Bring it here | 挈來~~止~~(此) | Khiĕ lai chi |
+| Bring it here | 挈來此 | Khiĕ lai chi |
 | Bind the thief | 捆賊 | Khun chat |
 | Buy some rice | 糴米 | Teă bi |
-| Beat the boy | ~~打~~(拍)~~亞孥子~~(阿孥囝) | Pă a-nou kia |
-| Bring a chair | 挈~~茭~~(交)~~𬃪~~(椅)來 | Khiĕ kaou-i lai |
-| Be a good boy | ~~爾~~(汝)做好人 | Lur chaw haw nang |
+| Beat the boy | 拍阿孥囝 | Pă a-nou kia |
+| Bring a chair | 挈交椅來 | Khiĕ kaou-i lai |
+| Be a good boy | 汝做好人 | Lur chaw haw nang |
 | Buy 100 nails | 買一百鐵釘 | Boi chek pĕ tĭ-teng |
 | Buy a jacket & trowsers | 買衫褲 | Boi sa khou |
 | Bring some water | 擔水 | Ta chui |
-| Bend this bow | ~~押~~(拗)彎~~只~~(此)弓 | A-wan chi keng |
-| Bring your book | ~~而~~(汝)~~個~~(个)冊挈來 | Lur kai chĕ,khiĕ lai |
+| Bend this bow | 拗彎此弓 | A-wan chi keng |
+| Bring your book | 汝个冊挈來 | Lur kai chĕ,khiĕ lai |
 | Begin to-day | 今日起頭 | Kim jit khi taou |
-| By and by he will come | ~~霎時~~(頃囝)伊來 | Kun-kia i lai |
-| Be attentive to your books | 謹心~~看~~(睇)冊 | Kurn sim toi chĕ |
+| By and by he will come | 頃囝伊來 | Kun-kia i lai |
+| Be attentive to your books | 謹心睇冊 | Kurn sim toi chĕ |
 | Be obedient to your teacher | 孝順先生 | Haou sun sin-sey |
-| Come here | 來~~止~~(此) | Lai chi |
-| Can you read | ~~爾~~(汝)~~識~~(別)字~~麽~~(咩) | Lur pat ji,mĕ |
-| Call the boys | 喊~~亞孥子~~(阿孥囝) | Ham a-nou-kia |
+| Come here | 來此 | Lai chi |
+| Can you read | 汝別字咩 | Lur pat ji,mĕ |
+| Call the boys | 喊阿孥囝 | Ham a-nou-kia |
 
 <!-- page:20 -->
 
 |  |  |  |
 |---|---|---|
-| Carry this back | ~~只~~(此)物挈轉去 | Chi muĕ khiĕ tung khur |
+| Carry this back | 此物挈轉去 | Chi muĕ khiĕ tung khur |
 | Come, go with me | 來同我去 | Lai,tang ua khur |
 | Come, let's play | 來、來去耍 | Lai,lai khur sung |
-| Carry this up stairs | ~~只~~(此)物挈去樓頂 | Chi muĕ khiĕ khur laou-teng |
+| Carry this up stairs | 此物挈去樓頂 | Chi muĕ khiĕ khur laou-teng |
 | Come another day | 下日來 | E-jit lai |
-| Carry this to the teacher | ~~只~~(此)物還先生 | Chi muĕ,hai sin-sey |
+| Carry this to the teacher | 此物還先生 | Chi muĕ,hai sin-sey |
 | Don't fall | 勿仆 | Mai poă |
-| Do it yourself | ~~爾~~(汝)~~自己~~(家己)去做 | Lur ka-ki chaw |
+| Do it yourself | 汝家己去做 | Lur ka-ki chaw |
 | Don't stay long | 免等候久 | Mien teng haou ku |
 | Don't make a noise | 勿嚷 | Mai jiang |
 | Don't be afraid | 免用驚 | Mien eng kia |
 | Do it well | 做好好 | Chaw haw haw |
 | Don't play outside | 勿去外耍 | Mai khur goa sung |
-| Do you smoke? | ~~爾~~(汝)有食~~芬~~(薰)~~麽~~(無) | Lur u chiă hun,baw |
+| Do you smoke? | 汝有食薰無 | Lur u chiă hun,baw |
 | Do it over again | 另換做過 | Leng-ua chaw kuay |
-| Do you know him? | ~~爾~~(汝)共伊相~~識~~(別)~~麽~~(無) | Lur kang i sie pat,baw |
-| Did you call me | ~~爾~~(汝)有~~呌~~(叫)我~~麽~~(無) | Lur ham ua,baw |
-| Do you like fruit? | ~~爾~~(汝)好食~~菓~~(果)子~~麽~~(無) | Lur haou chiă kuey-chi,baw |
+| Do you know him? | 汝共伊相別無 | Lur kang i sie pat,baw |
+| Did you call me | 汝有叫我無 | Lur ham ua,baw |
+| Do you like fruit? | 汝好食果子無 | Lur haou chiă kuey-chi,baw |
 | Don't touch that | 勿摸彼物 | Mai mong hur muĕ |
-| Don't come here again | 下日勿再來~~止~~(此) | E-jit mai chai lai chi |
+| Don't come here again | 下日勿再來此 | E-jit mai chai lai chi |
 
 <!-- page:21 -->
 
 |  |  |  |
 |---|---|---|
 | Don't write so fast | 免寫向猛 | Mai sia hie mey |
-| Don't be in a hurry | 勿~~太~~(向)快去 | Mai hie kuey khur |
-| Don't leave the door open | 隨手~~再~~(知)關 | Sui chiw chai kuey |
-| Does your father know it | ~~爾~~(汝)~~亞父~~(阿父)知~~麽~~(咩) | Lur a-pe chai mĕ |
-| Dare you do it | ~~爾~~(汝)敢做~~麽~~(咩) | Lur ka chaw mĕ |
-| Did he say so | 伊講~~怎~~(照)生~~麽~~(無) | I kong chie-sey,baw |
+| Don't be in a hurry | 勿向快去 | Mai hie kuey khur |
+| Don't leave the door open | 隨手知關 | Sui chiw chai kuey |
+| Does your father know it | 汝阿父知咩 | Lur a-pe chai mĕ |
+| Dare you do it | 汝敢做咩 | Lur ka chaw mĕ |
+| Did he say so | 伊講照生無 | I kong chie-sey,baw |
 | Dive into the water | 氼水 | Bi chui |
-| Do you speak truly | ~~爾~~(汝)講實話~~麽~~(無) | Lur kong sit wey,baw |
+| Do you speak truly | 汝講實話無 | Lur kong sit wey,baw |
 | Evening | 夜昏 | Mey hng |
 | Every day | 日日 | Jit jit |
 | Each man | 各人 | Kăk nang |
@@ -324,10 +324,10 @@ aou | as ou in *plough, our, sour*. |
 | Empty this out | 倒出 | Taw chut |
 | Enter the school | 入書齋 | Jip chur-chey |
 | Follow me | 隨我 | Sui ua |
-| Find your book | 覓~~爾~~(汝)~~~~箇~~(個)~~(个)書冊 | Chuey lur kai chur-chĕ |
-| Forgive your foes | 赦免~~爾~~(汝)敵 | Sia-mien lur tek |
-| Fill it full | 倒~~滿~~(漲) | Taw ti |
-| Feel of this | 摸~~只~~(此)~~箇~~(個)物 | Mong chi kai muĕ |
+| Find your book | 覓汝(个)書冊 | Chuey lur kai chur-chĕ |
+| Forgive your foes | 赦免汝敵 | Sia-mien lur tek |
+| Fill it full | 倒漲 | Taw ti |
+| Feel of this | 摸此個物 | Mong chi kai muĕ |
 | Fry some pork | 焙猪肉 | Pue tur bă |
 
 <!-- page:22 -->
@@ -336,80 +336,80 @@ aou | as ou in *plough, our, sour*. |
 |---|---|---|
 | Go home | 去厝 | Khur chu |
 | Go down | 去下 | Kkur ey |
-| Go slowly | ~~緩緩~~(慢慢)行 | Man man kia |
-| Go to bed | 去~~睡~~(夗) | Khur goot |
+| Go slowly | 慢慢行 | Man man kia |
+| Go to bed | 去夗 | Khur goot |
 | Get up quickly | 快快走起 | Khuey khuey chaou khi |
 | Give that to me | 此物還我 | Chi muĕ hai ua |
 | Go and help him | 去輔伊 | Khur hu i |
 | Give it back to him | 挈轉還伊 | Khiĕ tung hai i |
-| How old are you | ~~爾~~(汝)若~~多~~(㩼)歲 | Lur jiĕ choi huey |
-| Have you any more | 還有加~~麽~~(咩) | Huan u key,mĕ |
-| He is a bad man | 伊是~~獃~~(痞)人 | I si pai nang |
+| How old are you | 汝若㩼歲 | Lur jiĕ choi huey |
+| Have you any more | 還有加咩 | Huan u key,mĕ |
+| He is a bad man | 伊是痞人 | I si pai nang |
 | He is always for play | 伊常常欲耍 | I sie sie ai sung |
-| His father is very poor | 伊~~亞父~~(阿父)窮~~極~~(在) | I a pey,keng chai |
-| He won't come | 伊~~不~~(毋)肯來 | I mʼkheng lai |
-| He is very lazy | 伊~~懶惰~~(放惰)~~極~~(在) | I pan-toa chai |
-| Has your brother recovered | ~~爾~~(汝)~~亞弟~~(阿弟)痊愈~~否~~(未) | Lur a-ti chuan-ju,bue |
-| How much money have you | ~~爾~~(汝)有若~~多~~(㩼)銀 | Lur u jiĕ choi gnurn |
-| How long have you lived here | ~~爾~~(汝)住此若久 | Lur toa chi jiĕ-ku |
+| His father is very poor | 伊阿父窮在 | I a pey,keng chai |
+| He won't come | 伊毋肯來 | I mʼkheng lai |
+| He is very lazy | 伊放惰在 | I pan-toa chai |
+| Has your brother recovered | 汝阿弟痊愈未 | Lur a-ti chuan-ju,bue |
+| How much money have you | 汝有若㩼銀 | Lur u jiĕ choi gnurn |
+| How long have you lived here | 汝住此若久 | Lur toa chi jiĕ-ku |
 | He did not come to-day | 今日伊無來 | Kim-jit i baw lai |
-| He cares for nobody | 伊~~不~~(毋)畏人 | I mʼui nang |
+| He cares for nobody | 伊毋畏人 | I mʼui nang |
 
 <!-- page:23 -->
 
 |  |  |  |
 |---|---|---|
 | He is fond of opium | 伊欲食鴉片 | I haou chiă a-pien |
-| I forgot it | 我~~不~~(毋)~~記憶~~(記得) | Ua mʼki tit |
-| I cannot come | 我~~不~~(毋)能來 | Ua mʼoi lai |
-| I am not well | 我~~不~~(毋)快活 | Ua mʼkuai-uă |
+| I forgot it | 我毋記得 | Ua mʼki tit |
+| I cannot come | 我毋能來 | Ua mʼoi lai |
+| I am not well | 我毋快活 | Ua mʼkuai-uă |
 | I have read this book | 此冊我有讀過 | Chi chĕ ua u tak kuey |
-| I am very glad | 我歡喜~~極~~(在) | Ua hua-hi chai |
-| I have never seen him | 我~~不~~(毋)~~識~~(別)~~看~~(睇)見伊 | Ua mʼpat toi ki i |
-| I can't understand | 我聽~~不~~(毋)~~識~~(別) | Ua thia mʼpat |
-| I don't know | 我~~不~~(毋)知 | Ua mʼchai |
-| It is very hot to-day | 今日熱~~極~~(在) | Kim jit juă chai |
+| I am very glad | 我歡喜在 | Ua hua-hi chai |
+| I have never seen him | 我毋別睇見伊 | Ua mʼpat toi ki i |
+| I can't understand | 我聽毋別 | Ua thia mʼpat |
+| I don't know | 我毋知 | Ua mʼchai |
+| It is very hot to-day | 今日熱在 | Kim jit juă chai |
 | It is hard as a stone | 共石平𠕆 | Kang chiĕ pe tʼoi |
-| Is it true | 有~~眞~~(真)~~麽~~(咩) | U chia,mĕ |
-| Is your father well | ~~爾~~(汝)亞爹有好~~麽~~(咩) | Lur a-tia u haw,mĕ |
-| Is this your pencil | 此筆是~~爾~~(汝)~~~~箇~~(個)~~(个)~~麽~~(咩) | Chi pit si lur kai mĕ |
-| It is past four o'clock | 有四點外鐘~~了~~ | U si tiem goa cheng |
+| Is it true | 有真咩 | U chia,mĕ |
+| Is your father well | 汝亞爹有好咩 | Lur a-tia u haw,mĕ |
+| Is this your pencil | 此筆是汝(个)咩 | Chi pit si lur kai mĕ |
+| It is past four o'clock | 有四點外鐘 | U si tiem goa cheng |
 | Jump down | 跳落 | Thiou lŏ |
 | Japan is near to China | 日本近唐山 | Jit-pun kurn Tung-sua |
-| Knock at the door | ~~打~~(拍)門 | Pă mung |
+| Knock at the door | 拍門 | Pă mung |
 | Kneel down | 跪落去 | Kui lŏ khur |
-| Keep this safely | 此物~~掌~~(照)好 | Chi muĕ chie haw |
+| Keep this safely | 此物照好 | Chi muĕ chie haw |
 
 <!-- page:24 -->
 
 |  |  |  |
 |---|---|---|
-| Kill that snake | ~~打~~(拍)死彼蛇 | Pă-si hur cʼhua |
+| Kill that snake | 拍死彼蛇 | Pă-si hur cʼhua |
 | Lock the door | 鎻門 | Saw mung |
-| Love your enemies | 愛~~爾~~(汝)仇敵 | Ai lur chiw tek |
+| Love your enemies | 愛汝仇敵 | Ai lur chiw tek |
 | Lift up this box | 此箱挈起來 | Chi sie,kiĕ ki lai |
-| Lend me a dollar | 銀一~~圓~~(箍)借我 | Gnurn chek kʼhou,chiĕ ua |
-| Look on your book | ~~目珠~~(目睭)~~看~~(睇)冊 | Măk-chiw toi chĕ |
-| Listen to what I say | ~~爾~~(汝)聽我講 | Lur thia ua kong |
+| Lend me a dollar | 銀一箍借我 | Gnurn chek kʼhou,chiĕ ua |
+| Look on your book | 目睭睇冊 | Măk-chiw toi chĕ |
+| Listen to what I say | 汝聽我講 | Lur thia ua kong |
 | May I go home | 我欲來去厝 | Ua ai lai khur chu |
 | Make haste back | 猛猛轉來 | Mey-mey tung lai |
-| My eyes are sore | 我~~目珠~~(目睭)痛 | Ua măk-chiw tʼhia |
-| My pen is not good | 我筆~~不~~(毋)好 | Ua pit mʼhaw |
-| My father is dead | 我~~亞父~~(阿父)死了 | Ua kai a-pey si liou |
-| Not yet | 未~~嘗~~(曾) | Bue cheng |
+| My eyes are sore | 我目睭痛 | Ua măk-chiw tʼhia |
+| My pen is not good | 我筆毋好 | Ua pit mʼhaw |
+| My father is dead | 我阿父死了 | Ua kai a-pey si liou |
+| Not yet | 未曾 | Bue cheng |
 | Not always | 非常 | Hui sie |
 | Never mind | 無相干 | Baw siang kan |
 | Nobody knows it | 無人知 | Baw nang chai |
 | Nail this board | 釘此枋 | Teng chi pang |
 | One man has come | 一人來了 | Chek nang lai liou |
-| One spoon is missing | 湯匙一枝~~不~~(毋)見 | Tung-si chek ki mʼkien |
-| Only one true God | 獨一~~眞~~(真)神 | Tok it chin sin |
+| One spoon is missing | 湯匙一枝毋見 | Tung-si chek ki mʼkien |
+| Only one true God | 獨一真神 | Tok it chin sin |
 
 <!-- page:25 -->
 
 |  |  |  |
 |---|---|---|
-| Opium is not good to eat | 鴉片~~不~~(毋)好食 | A-pien mʼhaw chiă |
+| Opium is not good to eat | 鴉片毋好食 | A-pien mʼhaw chiă |
 | Perhaps he will come | 或者伊來 | Hok chia i lai |
 | Put this in the sun | 此物挈去曝日 | Chi muĕ,khiĕ khur pak jit |
 | Pull up these bushes | 此草挽丢 | Chi chaou,man tiou |
@@ -419,16 +419,16 @@ aou | as ou in *plough, our, sour*. |
 | Quote from the classics | 引經據典 | In kia kur tien |
 | Run and get the umbrella | 走去挈雨傘 | Chaou khur khiĕ hou-sua |
 | Read in a low voice | 讀細聲 | Tak soi sia |
-| Remember to tell him | ~~爾~~(汝)~~記憶~~(記得)共伊講 | Lur ki-tit kang i kong |
+| Remember to tell him | 汝記得共伊講 | Lur ki-tit kang i kong |
 | Rice is dear this year | 今年米有貴 | Kim ni,bi u kui |
 | Send him into the city | 使伊去城內 | Sai i khur sia lai |
-| Save this for to-morrow | 此留放~~明日~~(明起) | Chi laou pang moa-ki |
+| Save this for to-morrow | 此留放明起 | Chi laou pang moa-ki |
 | She is upwards of twenty | 伊二十外歲 | I ji-chap goa huey |
-| Send your servant to take it | 使~~爾~~(汝)~~囝子~~(囡囝)來挈 | Sai lur kin-kia lai khiĕ |
+| Send your servant to take it | 使汝囡囝來挈 | Sai lur kin-kia lai khiĕ |
 | Set it down here | 放在此 | Pang taw chi |
 | They are neighbors | 伊是厝邊人 | I si,chu-pi nang |
 | This is good for nothing | 此無用 | Chi baw eng |
-| This cloth is wet | 此布有~~濕~~(㴷) | Chi pou,u tam |
+| This cloth is wet | 此布有㴷 | Chi pou,u tam |
 
 <!-- page:26 -->
 
@@ -437,48 +437,48 @@ aou | as ou in *plough, our, sour*. |
 | This fowl is not done | 此雞無熟 | Chi koi baw sek |
 | Under the house | 厝下 | Chu ey |
 | Upon the shelf | 架頂 | Key teng |
-| Very many | ~~多~~(㩼)~~極~~(在) | Choi chai |
-| Very well, take it | ~~稱釆~~(凊彩)挈去 | Chin-chai,khiĕ khur |
-| What is your name | ~~爾~~(汝)是乜名 | Lur si mi mia |
-| What is your age | 有若~~多~~(㩼)歲 | U jiĕ choi huey |
-| Where do you live | ~~爾~~(汝)住~~值~~(底)~~處~~(塊) | Lua toa ti taw |
-| What do you want | ~~爾~~(汝)欲甚物 | Lur ai si muĕ |
-| Which is the one | ~~那~~(底)~~箇~~(個)是 | Ti kai si |
-| When did you arrive | ~~爾~~(汝)~~值~~(底)時到 | Lur ti-si kaou |
-| Why do you not go | 怎呢~~不~~(毋)去 | Chaw-ni mʼkhur |
-| Will you go or not | ~~爾~~(汝)肯去~~麽~~(咩) | Lur kheng khur,mĕ |
+| Very many | 㩼在 | Choi chai |
+| Very well, take it | 凊彩挈去 | Chin-chai,khiĕ khur |
+| What is your name | 汝是乜名 | Lur si mi mia |
+| What is your age | 有若㩼歲 | U jiĕ choi huey |
+| Where do you live | 汝住底塊 | Lua toa ti taw |
+| What do you want | 汝欲甚物 | Lur ai si muĕ |
+| Which is the one | 底個是 | Ti kai si |
+| When did you arrive | 汝底時到 | Lur ti-si kaou |
+| Why do you not go | 怎呢毋去 | Chaw-ni mʼkhur |
+| Will you go or not | 汝肯去咩 | Lur kheng khur,mĕ |
 | What does he say | 伊講甚乜事 | I kong si mi sur |
-| What more do you want | ~~爾~~(汝)欲加甚物 | Lur ai key si muĕ |
+| What more do you want | 汝欲加甚物 | Lur ai key si muĕ |
 | What is this for | 此用做乜事 | Chi eng chaw mi sur |
-| Where was this book printed | 此冊~~值~~(底)~~處~~(塊)印 | Chi chĕ ti taw in |
-| Whose house is this | 此厝是~~誰~~(底𫢗)~~個~~(个) | Chi chu,si ti-tiang kai |
-| Who can tell | ~~誰個~~(底𫢗)能講 | Ti-tiang oi kong |
-| Where has he gone | 伊去~~值~~(底)~~處~~(塊) | I khur ti-taw |
+| Where was this book printed | 此冊底塊印 | Chi chĕ ti taw in |
+| Whose house is this | 此厝是底𫢗个 | Chi chu,si ti-tiang kai |
+| Who can tell | 底𫢗能講 | Ti-tiang oi kong |
+| Where has he gone | 伊去底塊 | I khur ti-taw |
 
 <!-- page:27 -->
 
 |  |  |  |
 |---|---|---|
-| Why can't he do it | 伊怎呢~~不~~(毋)能做 | I chaw ni mʼoi chaw |
-| Who is going to Singapore | ~~誰人~~(底𫢗)欲去實力 | Ti tiang ai khur Sit-lat |
-| When do you go on board | ~~何~~(底)時落船 | Ti si lŏ chun |
-| What are you doing now | 現在~~爾~~(汝)做乜事 | Hien-chai lur chaw mi sur |
+| Why can't he do it | 伊怎呢毋能做 | I chaw ni mʼoi chaw |
+| Who is going to Singapore | 底𫢗欲去實力 | Ti tiang ai khur Sit-lat |
+| When do you go on board | 底時落船 | Ti si lŏ chun |
+| What are you doing now | 現在汝做乜事 | Hien-chai lur chaw mi sur |
 | We shall surely go to-day | 今日必定欲去 | Kim-jit pit tia ai khur |
-| Who is interpreter | ~~誰人~~(底𫢗)~~囘~~(回)話 | Ti-tiang huey wey |
-| We are all well | 我等~~籠總~~(攏總)有好 | Ua-teng long chong u haw |
-| Whether I go or not is uncertain | 去~~不~~(毋)去無定着 | Khur mʼkhur baw tia-tiŏ |
-| You write too fast | ~~爾~~(汝)寫~~太~~(較)猛 | Lur sia kă mey |
-| You went home recently | 近日~~爾~~(汝)正去厝 | Kurn jit lur chia khur chu |
-| You can't do it | ~~爾~~(汝)~~不~~(毋)能做 | Lur mʼoi chaw |
+| Who is interpreter | 底𫢗回話 | Ti-tiang huey wey |
+| We are all well | 我等攏總有好 | Ua-teng long chong u haw |
+| Whether I go or not is uncertain | 去毋去無定着 | Khur mʼkhur baw tia-tiŏ |
+| You write too fast | 汝寫較猛 | Lur sia kă mey |
+| You went home recently | 近日汝正去厝 | Kurn jit lur chia khur chu |
+| You can't do it | 汝毋能做 | Lur mʼoi chaw |
 | You need not do it | 免用做 | Mien eng chaw |
-| You speak too loud | ~~爾~~(汝)講~~太~~(較)大聲 | Lur kong kă toa sia |
-| Yes, you speak truly | 着、~~爾~~(汝)講實 | Tiŏ,lur kong sit |
-| You are late to-day | ~~爾~~(汝)今日~~太~~(較)宴來 | Lur kim jit kă ua lai |
-| You have not made it right | 做來~~不~~(毋)着 | Chaw lai mʼtiŏ |
-| You don't speak to the point | 講~~不~~(毋)對空 | Kong mʼtui khang |
-| You are mistaken | ~~爾~~(汝)~~看~~(睇)錯了 | Lur toi ta liou |
+| You speak too loud | 汝講較大聲 | Lur kong kă toa sia |
+| Yes, you speak truly | 着、汝講實 | Tiŏ,lur kong sit |
+| You are late to-day | 汝今日較宴來 | Lur kim jit kă ua lai |
+| You have not made it right | 做來毋着 | Chaw lai mʼtiŏ |
+| You don't speak to the point | 講毋對空 | Kong mʼtui khang |
+| You are mistaken | 汝睇錯了 | Lur toi ta liou |
 | Yesterday was a feast day | 昨日做節 | Cha-jit chaw choĭ |
-| You can't trust him | ~~爾~~(汝)~~不~~(毋)可相信伊 | Lur mʼhaw siang-sin i |
+| You can't trust him | 汝毋可相信伊 | Lur mʼhaw siang-sin i |
 
 <!-- page:28 -->
 
@@ -486,24 +486,24 @@ aou | as ou in *plough, our, sour*. |
 |---|---|---|
 | Yonder comes a junk | 在彼中有船來 | Taw hur tang u chun lai |
 | You must not eat every thing | 勿食雜物 | Mai chiă chap muĕ |
-| You must learn this by heart | 此的~~爾~~(汝)讀來唸 | Chi kai,lur tak lai niem |
-| You must die | 必定~~爾~~(汝)死 | Pit tia lur si |
-| You have sinned | ~~爾~~(汝)得罪 | Lur tit chuey |
-| You ought to repent | ~~爾~~(汝)應該悔~~攺~~(改) | Lur eng-kai huay koi |
-| You should believe in Jesus | ~~爾~~(汝)應該信耶穌 | Lur eng kai sin Ya-sou |
-| You may now be saved | 現在~~爾~~(汝)能得救 | Hien-chai lur oi tit kiw |
-| You know the truth | ~~眞~~(真)理~~爾~~(汝)知了 | Chin li,lur chai liou |
-| You have heard the gospel | ~~爾~~(汝)~~嘗~~(曾)聽福音 | Lur cheng thia hok-im |
-| You cannot save yourself | ~~爾~~(汝)不能救~~自己~~(家己) | Lur put neng kiw ka ki |
-| You have no merit | ~~爾~~(汝)無功勞 | Lur baw kong-laou |
-| Your sins are many | ~~爾~~(汝)有罪加加 | Lur u chuey key key |
-| Your gods cannot save you | ~~爾~~(汝)神不能救人 | Lur kai sin put neng kiw nang |
-| Your priests are ignorant | ~~爾~~(汝)~~~~箇~~(個)~~(个)和尙無知 | Lur kai hue-sie baw chai |
-| Your religion is false | ~~爾~~(汝)教有假 | Lur kai ka,u key |
-| Your soul is precious | ~~爾~~(汝)~~個~~(个)靈魂有貴 | Lur kai leng-hun u kui |
-| Your life is short | ~~爾~~(汝)~~個~~(个)生命不久 | Lur kai sey-mia put ku |
-| Your end is near | ~~爾~~(汝)死日將近 | Lut si-jit chiang kurn |
-| You will not repent | ~~爾~~(汝)~~不~~(毋)肯悔~~攺~~(改) | Lur mʼkheng huey koi |
+| You must learn this by heart | 此的汝讀來唸 | Chi kai,lur tak lai niem |
+| You must die | 必定汝死 | Pit tia lur si |
+| You have sinned | 汝得罪 | Lur tit chuey |
+| You ought to repent | 汝應該悔改 | Lur eng-kai huay koi |
+| You should believe in Jesus | 汝應該信耶穌 | Lur eng kai sin Ya-sou |
+| You may now be saved | 現在汝能得救 | Hien-chai lur oi tit kiw |
+| You know the truth | 真理汝知了 | Chin li,lur chai liou |
+| You have heard the gospel | 汝曾聽福音 | Lur cheng thia hok-im |
+| You cannot save yourself | 汝不能救家己 | Lur put neng kiw ka ki |
+| You have no merit | 汝無功勞 | Lur baw kong-laou |
+| Your sins are many | 汝有罪加加 | Lur u chuey key key |
+| Your gods cannot save you | 汝神不能救人 | Lur kai sin put neng kiw nang |
+| Your priests are ignorant | 汝(个)和尙無知 | Lur kai hue-sie baw chai |
+| Your religion is false | 汝教有假 | Lur kai ka,u key |
+| Your soul is precious | 汝个靈魂有貴 | Lur kai leng-hun u kui |
+| Your life is short | 汝个生命不久 | Lur kai sey-mia put ku |
+| Your end is near | 汝死日將近 | Lut si-jit chiang kurn |
+| You will not repent | 汝毋肯悔改 | Lur mʼkheng huey koi |
 
 <!-- page:29 -->
 
@@ -552,26 +552,26 @@ aou | as ou in *plough, our, sour*. |
 
 |  |  |  |
 |---|---|---|
-| The heavens are high | 天有~~高~~(危) | Tien u kui |
+| The heavens are high | 天有危 | Tien u kui |
 | The sun is bright | 日有光 | Jit u kŭng |
 | The moon has risen | 月出了 | Guĕ chut liou |
-| There are many stars | 星有~~多~~(㩼)~~極~~(在) | Chey,u choi chai |
+| There are many stars | 星有㩼在 | Chey,u choi chai |
 | The wind blows | 風來 | Huang lai |
-| The clouds are very dark | 雲烏~~極~~(在) | Hun,ou chai |
+| The clouds are very dark | 雲烏在 | Hun,ou chai |
 | The rainbow is beautiful | 虹是雅 | Kheng,si gnia |
 | It will rain soon | 雨欲來 | Hou ai lai |
 | It is extremely hot | 熱之極 | Juă chur kĕk |
 | It is day light | 天光了 | Thi kŭng liou |
-| It is very dark | 暗~~極~~(在) | Am chai |
+| It is very dark | 暗在 | Am chai |
 | The earth is round | 地圓 | Ti i |
 | A stone is heavy | 石有重 | Chiĕ,u tang |
-| Cultivate the fields | ~~耕~~(作)田 | Chŏ chan |
-| The mountain is high | 山有~~高~~(危) | Sua u kui |
+| Cultivate the fields | 作田 | Chŏ chan |
+| The mountain is high | 山有危 | Sua u kui |
 | The kingdom of Siam | 暹羅國 | Siam-law kok |
 | The province of Canton | 廣東省 | Kŭng-tang sey |
 | The district of Tio-chiw | 潮州府 | Tie-chiw hu |
 | A large territory | 地方濶 | Ti-hng kuă |
-| A small village | ~~小~~(細)縣 | Soi kui |
+| A small village | 細縣 | Soi kui |
 
 <!-- page:31 -->
 
@@ -593,8 +593,8 @@ aou | as ou in *plough, our, sour*. |
 | Ditch | 溝 | Kaou |
 | Well | 井 | Chey |
 | Tide | 潮 | Tie |
-| Rising ~~do.~~(tide) | 水大 | Chui toa |
-| Falling ~~do.~~(tide) | 水退 | Chui kaw |
+| Rising tide | 水大 | Chui toa |
+| Falling tide | 水退 | Chui kaw |
 | Wave | 湧 | Eng |
 | Storm | 大風 | Toa huang |
 | Calm | 無風 | Baw huang |
@@ -619,7 +619,7 @@ aou | as ou in *plough, our, sour*. |
 | Head | 頭殼 | Taou kăk |
 | Forehead | 額頭 | Hiă taou |
 | Brains | 頭殼髓 | Taou kăk-chuey |
-| Temple | ~~𩯭~~(鬢)邊 | Pin pi |
+| Temple | 鬢邊 | Pin pi |
 | Hair | 頭毛 | Taou maw |
 
 <!-- page:32 -->
@@ -636,13 +636,13 @@ aou | as ou in *plough, our, sour*. |
 | There are fish in the pond | 池有魚 | Ti u hur |
 | Dig a ditch | 㧕溝 | Liw kaou |
 | The well is deep | 井有深 | Chey u chim |
-| The tide is very strong | 水猛~~極~~(在) | Chui mey chai |
+| The tide is very strong | 水猛在 | Chui mey chai |
 | The waves are high | 涌大 | Taw tang poi |
 | On the east | 在東畔 | Taw tang poi |
 | East is opposite to west | 東對西 | Tang tui sai |
 | A wise man | 賢人 | Gaou nang |
 | A long neck | 頸長 | Am tung |
-| Turn round the head | ~~囘~~(回)頭 | Huey taou |
+| Turn round the head | 回頭 | Huey taou |
 | Bow down the head | 磕頭 | Kăp taou |
 | Shave the head | 剃頭 | Thi taou |
 | Comb the head | 梳頭 | Siw taou |
@@ -652,18 +652,18 @@ aou | as ou in *plough, our, sour*. |
 |  |  |  |
 |---|---|---|
 | Beard | 鬚 | Cʼhiw |
-| Eye | ~~目珠~~(目睭) | Măk chiw |
+| Eye | 目睭 | Măk chiw |
 | Eye-brow | 目眉 | Măk bai |
-| Eye-lash | 目~~𠞁~~(眦)毛 | Măk chi maw |
-| Eye-lid | 目~~脚~~(骹)皮 | Măk ka pue |
-| Eye-ball | ~~目珠~~(目睭)仁 | Măk chiw-jin |
-| Pupil | ~~童~~(瞳)仁 | Tong jin |
+| Eye-lash | 目眦毛 | Măk chi maw |
+| Eye-lid | 目骹皮 | Măk ka pue |
+| Eye-ball | 目睭仁 | Măk chiw-jin |
+| Pupil | 瞳仁 | Tong jin |
 | Face | 面 | Min |
 | Ear | 耳 | Hi |
 | Nose | 鼻 | Pñi |
 | Nostril | 鼻孔 | Pñi kang |
-| Cheek | ~~臉頣~~(頰溝) | Tĭ kaou |
-| Mouth | ~~嘴~~(喙) | Chui |
+| Cheek | 頰溝 | Tĭ kaou |
+| Mouth | 喙 | Chui |
 | Lips | 唇 | Tʼun |
 | Teeth | 齒 | Kʼhi |
 | Tongue | 舌 | Chĭ |
@@ -686,11 +686,11 @@ aou | as ou in *plough, our, sour*. |
 | Breast | 乳 | Ni |
 | Waist | 腰 | Ie |
 | Belly | 肚 | Tou |
-| Thigh | ~~脚~~(骹)大腿 | Kha toa tui |
-| Knee | ~~脚𦡀~~(骹頭趺) | Kha taou u |
-| Shin | ~~脚~~(骹)臁 | Kha liem |
-| Heel | ~~脚後躓~~(骹後蹬) | Kha ow tey |
-| Toes | ~~脚指~~(骹趾) | Kha choi |
+| Thigh | 骹大腿 | Kha toa tui |
+| Knee | 骹頭趺 | Kha taou u |
+| Shin | 骹臁 | Kha liem |
+| Heel | 骹後蹬 | Kha ow tey |
+| Toes | 骹趾 | Kha choi |
 
 <!-- page:34 -->
 
@@ -698,24 +698,24 @@ aou | as ou in *plough, our, sour*. |
 |---|---|---|
 | Open the eyes | 開目 | Kui mak |
 | Pinch the nose | 捻鼻 | Diem pñi |
-| Loquacious | ~~多~~(㩼)話 | Choi wey |
+| Loquacious | 㩼話 | Choi wey |
 | Eloquent | 口才 | Kaou chai |
 | Stammering | 大舌 | Toa chĭ |
-| Obscene | 粗~~口~~(喙) | Chou chui |
-| A lean face | 面~~瘦~~(㾪) | Min san |
+| Obscene | 粗喙 | Chou chui |
+| A lean face | 面㾪 | Min san |
 | A smiling face | 笑面 | Chie min |
 | Having a reputation | 有面 | U min |
 | Having lost reputation | 失面 | Sĭt min |
 | A fair complexion | 好面色 | Haw min sĕk |
 | A thievish hand | 三隻手 | Sa chiă chiw |
 | Brothers are like hands and feet | 兄弟如手足 | Hia ti ju chiw chok |
-| Strike with the fist | 拳頭~~打~~(拍) | Kun taou pă |
-| He has not yet commenced | 未~~嘗~~(曾)開手 | Boe cheng kui chiw |
-| Pass from one hand to the other | ~~左~~(正)手交~~右~~(倒)手 | Chia chiw kaou taw chiw |
-| He cannot move hand or foot | ~~脚~~(骹)手~~不~~(毋)能舉 | Kha chiw mʼoi tin tang |
+| Strike with the fist | 拳頭拍 | Kun taou pă |
+| He has not yet commenced | 未曾開手 | Boe cheng kui chiw |
+| Pass from one hand to the other | 正手交倒手 | Chia chiw kaou taw chiw |
+| He cannot move hand or foot | 骹手毋能舉 | Kha chiw mʼoi tin tang |
 | He lives from hand to mouth | 左手挈、右手去 | Chaw chiw khiĕ,yiw chiw khur |
-| He is always busy | ~~脚~~(骹)手無時歇 | Kha chiw baw si hiă |
-| How long has your foot been sore | ~~爾~~(汝)~~脚~~(骹)痛若久 | Lur kha thia jiĕ ku |
+| He is always busy | 骹手無時歇 | Kha chiw baw si hiă |
+| How long has your foot been sore | 汝骹痛若久 | Lur kha thia jiĕ ku |
 
 <!-- page:35 -->
 
@@ -723,7 +723,7 @@ aou | as ou in *plough, our, sour*. |
 
 |  |  |  |
 |---|---|---|
-| Foot | ~~脚~~(骹) | Kha |
+| Foot | 骹 | Kha |
 | Skin | 皮 | Poe |
 | Bone | 骨 | Kŭt |
 | Flesh | 肉 | Nĕk |
@@ -744,10 +744,10 @@ aou | as ou in *plough, our, sour*. |
 | Spittle | 涎 | Noa |
 | Perspiration | 汗 | Koa |
 | Senses | 五官 | Gnou kua |
-| Seeing | ~~看~~(睇) | Toi |
+| Seeing | 睇 | Toi |
 | Hearing | 聽 | Tʼhia |
 | Smelling | 鼻 | Pñi |
-| Tasting | ~~嘗~~(嚐) | Sie |
+| Tasting | 嚐 | Sie |
 | Feeling | 摸 | Mong |
 | Mind | 心 | Sim |
 | Soul | 靈魂 | Leng hun |
@@ -767,26 +767,26 @@ aou | as ou in *plough, our, sour*. |
 
 |  |  |  |
 |---|---|---|
-| The sole of the foot | ~~脚~~(骹)底 | Kha toi |
+| The sole of the foot | 骹底 | Kha toi |
 | To tear the flesh | 破皮 | Poa pue |
 | The bone is broken | 骨折了 | Kŭt chĭ liou |
 | He wants a beating | 伊肉欲痛 | I nĕk ai thia |
-| Rheumatic pains | 骨節~~酸~~(痠)痛 | Kŭt chăt sŭng thia |
-| To feel the pulse | ~~打~~(拍)脉 | Pă mĕ |
-| A vicious person | 心腸~~不~~(毋)好 | Sim tŭng mʼhaw |
+| Rheumatic pains | 骨節痠痛 | Kŭt chăt sŭng thia |
+| To feel the pulse | 拍脉 | Pă mĕ |
+| A vicious person | 心腸毋好 | Sim tŭng mʼhaw |
 | The liver is diseased | 肝經有病 | Kua keng u pey |
 | Diseased lungs | 傷肺 | Sie hui |
 | He is courageous | 伊有膽 | I u ta |
-| To go to stool | 放~~尿~~(屎) | Pang sai |
+| To go to stool | 放屎 | Pang sai |
 | To shed tears | 流目汁 | Laou măk chăp |
-| To spit | ~~唾~~(呸)涎 | Phui noa |
-| To perspire freely | 汗流~~多~~(㩼) | Kua laou choi |
-| I don't see it | 我~~看~~(睇)~~不~~(毋)見 | Ua toi mʼkien |
-| I don't understand | 聽~~不~~(毋)~~識~~(別) | Tʼhia mʼpat |
-| Taste & see if it is good | ~~嘗~~(嚐)~看~~(睇)好 | Sie,toi haw |
+| To spit | 呸涎 | Phui noa |
+| To perspire freely | 汗流㩼 | Kua laou choi |
+| I don't see it | 我睇毋見 | Ua toi mʼkien |
+| I don't understand | 聽毋別 | Tʼhia mʼpat |
+| Taste & see if it is good | 嚐~看~~(睇)好 | Sie,toi haw |
 | He is pleased | 伊心歡喜 | I sim hoa hi |
-| Love all men | 愛~~衆~~(眾)人 | Ai cheng nang |
-| He is very angry | 伊氣~~極~~(在) | I kʼhi chai |
+| Love all men | 愛眾人 | Ai cheng nang |
+| He is very angry | 伊氣在 | I kʼhi chai |
 
 <!-- page:37 -->
 
@@ -808,20 +808,20 @@ aou | as ou in *plough, our, sour*. |
 | Skill | 名家 | Mia key |
 | Ignorant | 無知 | Baw chai |
 | Wise | 賢 | Gaou |
-| Foolish | ~~愚~~(㦙) | Gña |
+| Foolish | 㦙 | Gña |
 | Righteousness | 行義 | Kia gñi |
-| Godliness | ~~䖍~~(虔)孝 | Kien haou |
+| Godliness | 虔孝 | Kien haou |
 | Frugality | 儉 | Kiem |
 | Innocence | 無罪 | Baw chuey |
 | Sin | 罪 | Chuey |
 | Forgiveness | 赦罪 | Sia chuey |
-| Conversion | 悔~~攺~~(改) | Huey koi |
+| Conversion | 悔改 | Huey koi |
 | Mercy | 恩 | Urn |
 | Justice | 公道 | Kong taou |
-| Insincere | ~~不~~(毋)誠心 | Mʼseng sim |
+| Insincere | 毋誠心 | Mʼseng sim |
 | Reverence | 敬畏 | Keng ui |
 | Uprightness | 誠實 | Seng sit |
-| Truth | ~~眞~~(真)實 | Chin sit |
+| Truth | 真實 | Chin sit |
 | Honesty | 老實 | Laou sit |
 | Sincerity | 忠厚 | Tong kaou |
 | Diligence | 勤 | Kŭrn |
@@ -838,25 +838,25 @@ aou | as ou in *plough, our, sour*. |
 |  |  |  |
 |---|---|---|
 | Sorrowing for the loss of money | 因爲破銀煩惱 | In ui poa gnŭrn huan law |
-| I desire your happiness | ~~吾~~(我)願~~爾~~(汝)得福 | Ua gñuan lur tĭt hok |
+| I desire your happiness | 我願汝得福 | Ua gñuan lur tĭt hok |
 | I hope to be well in future | 希望將來有好 | Hi maw chiang lai u haw |
 | Without faith it is impossible to be saved | 無信德不得救 | Baw sin tĕk put tit kiw |
 | Have long patience | 久久忍耐 | Ku ku jin nai |
 | I have received his kindness | 我受過伊恩惠 | Ua siw kuey i kai ŭrn hui |
-| The godly shall enjoy endless happiness | ~~䖍~~(虔)孝者享永福 | Kien haou chia hiang yong hok |
+| The godly shall enjoy endless happiness | 虔孝者享永福 | Kien haou chia hiang yong hok |
 | He is never contented | 伊無知足 | I baw chai chok |
-| I am grateful for your favors | 我感~~爾~~(汝)恩 | Ua kam lŭr kai ŭrn |
+| I am grateful for your favors | 我感汝恩 | Ua kam lŭr kai ŭrn |
 | He is extremely covetous | 伊貪吝之極 | I tʼham lien chŭr kĕk |
-| He is very skillful | 伊有名家~~極~~(在) | I u mia key chai |
+| He is very skillful | 伊有名家在 | I u mia key chai |
 | Having a wise man's capacity | 有賢人之才 | U gaou nang chŭr chai |
-| The word of the just can be relied upon | 義者++个++話有定着 | Gni chia kai wey u tia tiŏ |
-| Frugality leads to plenty | 積儉~~正~~(者)有銀存 | Chĕk kiem chia, u gñurn chun |
+| The word of the just can be relied upon | 義者个話有定着 | Gni chia kai wey u tia tiŏ |
+| Frugality leads to plenty | 積儉者有銀存 | Chĕk kiem chia, u gñurn chun |
 | Faith in Jesus secures pardon for sin | 信耶穌得赦罪 | Sin Ya sou tĭt sia chuey |
 | God is infinitely just | 神天至公道 | Sin Tien chi kong taou |
-| Truly I do not deceive you | ~~眞~~(真)實無騙~~爾~~(汝) | Chin sĭt baw pien lŭr |
+| Truly I do not deceive you | 真實無騙汝 | Chin sĭt baw pien lŭr |
 | The wicked have no peace | 惡人心無平安 | Ak nang sim baw peng an |
-| He is constantly doing thus | 常常伊行~~如此~~(照生) | Sie sie i kia chiĕ say |
-| Zealous in propagating the truth | 熱心傳~~眞~~(真)道理 | Juă sim tuan chin taw li |
+| He is constantly doing thus | 常常伊行照生 | Sie sie i kia chiĕ say |
+| Zealous in propagating the truth | 熱心傳真道理 | Juă sim tuan chin taw li |
 
 <!-- page:39 -->
 
@@ -864,13 +864,13 @@ aou | as ou in *plough, our, sour*. |
 
 |  |  |  |
 |---|---|---|
-| Envy | 妒~~𡜱~~(忌) | Kou ki |
+| Envy | 妒忌 | Kou ki |
 | Pride | 驕傲 | Kiou gnaou |
 | Vanity | 好名 | Haou mia |
 | Contention | 相爭 | Sie chey |
 | Passionate | 火性 | Huey sey |
 | Willful | 故意 | Ku i |
-| Petulant | ~~靑~~(青)面 | Chey min |
+| Petulant | 青面 | Chey min |
 | Hypocrisy | 詐僞 | Cha gnuì |
 | Contempt | 輕忽 | Khin hŭt |
 | Obedience | 順 | Sun |
@@ -878,56 +878,56 @@ aou | as ou in *plough, our, sour*. |
 | Dependence | 倚靠 | I kou |
 | Submission | 甘心 | Kam sin |
 | To think | 心想 | Sim sie |
-| To calculate | ~~打~~(拍)算 | Pă sung |
+| To calculate | 拍算 | Pă sung |
 | To scheme | 計 | Koi |
 | To agree | 相合 | Siang hă |
 | To refuse | 不悦 | Put juăt |
 | Cheerful | 快樂 | Kuai lăk |
-| Niggardly | ~~太~~(較)儉 | Kă khiem |
-| Blind | ~~瞽目~~(青盲) | Chey mey |
+| Niggardly | 較儉 | Kă khiem |
+| Blind | 青盲 | Chey mey |
 | Deaf | 耳聾 | Hi lang |
 | Maimed | 破相 | Poa sie |
-| Dumb | ~~瘂~~(啞) | Ey̆ |
-| Squinting | ~~邪~~(射)鳥目 | Sia chiou măk |
+| Dumb | 啞 | Ey̆ |
+| Squinting | 射鳥目 | Sia chiou măk |
 | Stammering | 大舌 | Toa chĭ |
-| Foolish | ~~顚~~(癲) | Siow |
-| Cough | 咳~~𠻳~~(嗽) | Ka saou |
-| Sneeze | ++拍咳++嚏 | Pă ka ti |
+| Foolish | 癲 | Siow |
+| Cough | 咳嗽 | Ka saou |
+| Sneeze | 拍咳嚏 | Pă ka ti |
 | Faint | 虛眩 | Hur hin |
 | Palsy | 遍遂 | Kuan pien |
-| Leprosy | ~~痳瘋~~(癩哥) | Tai kaw |
+| Leprosy | 癩哥 | Tai kaw |
 | Fever | 發熱 | Huăt juă |
 | Intermittent | 發寒 | Huăt kua |
 | Cold | 鼻嚏 | Chek chui |
 | Head ache | 頭殻痛 | Taou kăk tia |
 | Asthma | 嗄 | Hey |
-| Sigh | ~~偷~~(敨)氣 | Taou kui |
-| Yawn | ~~叱噓~~(呵呬) | Huă hi |
+| Sigh | 敨氣 | Taou kui |
+| Yawn | 呵呬 | Huă hi |
 
 <!-- page:40 -->
 
 |  |  |  |
 |---|---|---|
-| He is proud & will not listen | 伊驕傲~~不~~(毋)肯聽 | I kiou gnaou mʼkeng thia |
+| He is proud & will not listen | 伊驕傲毋肯聽 | I kiou gnaou mʼkeng thia |
 | He is not sincere but only desires a name | 無實好名定定 | Baw sit haou mia tia tia |
 | The honorable man is not quarrelsome | 君子無相爭 | Kun chur baw sie chey |
 | A disposition as fierce as the flames | 性如火之烈 | Sey ju huey chŭr diĕt |
-| He is willful & will not read | 伊故意~~不~~(毋)讀 | I ku i, mʼtak |
+| He is willful & will not read | 伊故意毋讀 | I ku i, mʼtak |
 | Altogether hypocritical | 所行皆是詐僞 | Saw kia kai si cha gnui |
 | He rejects this doctrine | 伊輕忽此道理 | I khin hŭt chi taw li |
 | Respect to parents | 孝順父母 | Haou sun pey baw |
-| I think that is correct | 我想~~怎~~(照)生有着 | Ua sie chie sey ~~n~~(u) tiĕ |
-| The husband & wife disagree | 伊翁𡚸~~不~~(毋)相合 | I ang bou mʼsiang hă |
-| He is blind & cannot see | 伊~~瞽目~~(青盲)看~~不~~(毋)見 | I chey mey toi mʼki |
+| I think that is correct | 我想照生有着 | Ua sie chie sey u tiĕ |
+| The husband & wife disagree | 伊翁𡚸毋相合 | I ang bou mʼsiang hă |
+| He is blind & cannot see | 伊青盲看毋見 | I chey mey toi mʼki |
 | I am a little hard of hearing | 我耳聾些須 | Ua hi lang sey su |
-| The stammerer does not finish his sentence | 大舌講~~不~~(毋)到句 | Toa chĕ kong mʼkaou ku |
-| The mind of the foolish is unstable | ~~顚~~(痟)人心神無定 | Siow nang sim sin baw tia |
-| How long have you had a cough | ~~爾~~(汝)咳~~𠻳~~(嗽)有若久 | Lur ka saou u jiĕ ku |
-| He has a number of boils | 伊生幾粒~~瘣~~(㿗) | I sey kui liep tue |
-| Has your child had the small pox | ~~爾~~(汝)~~~~箇~~(個)~~(个)~~子~~(囝)出~~痘~~(珠)未 | Lur kai kia chut chu boe |
-| Do you understand inoculation | ~~爾~~(汝)能種~~痘~~(珠)~~麽~~(咩) | Lur oi cheng chu mĕ |
-| This child has worms | 此~~亞孥子~~(阿孥囝)疳癪 | Chi a nou kia u kam chek |
-| My eyes are sore & I can not read | ~~目珠~~(目睭)痛~~不~~(毋)能讀 | Măk chiw tia mʼoi tak |
+| The stammerer does not finish his sentence | 大舌講毋到句 | Toa chĕ kong mʼkaou ku |
+| The mind of the foolish is unstable | 痟人心神無定 | Siow nang sim sin baw tia |
+| How long have you had a cough | 汝咳嗽有若久 | Lur ka saou u jiĕ ku |
+| He has a number of boils | 伊生幾粒㿗 | I sey kui liep tue |
+| Has your child had the small pox | 汝(个)囝出珠未 | Lur kai kia chut chu boe |
+| Do you understand inoculation | 汝能種珠咩 | Lur oi cheng chu mĕ |
+| This child has worms | 此阿孥囝疳癪 | Chi a nou kia u kam chek |
+| My eyes are sore & I can not read | 目睭痛毋能讀 | Măk chiw tia mʼoi tak |
 
 <!-- page:41 -->
 
@@ -941,33 +941,33 @@ aou | as ou in *plough, our, sour*. |
 | Step-mother | 後母 | Ou baw |
 | Father-in-law | 岳父 | Gnăk pey |
 | Mother-in-law | 岳母 | Gnăk baw |
-| Grandfather | ++阿++公 | A kong |
-| Grandmother | ++阿++媽 | A ma |
+| Grandfather | 阿公 | A kong |
+| Grandmother | 阿媽 | A ma |
 | Husband | 翁 | Ang |
 | Wife | 𡚸 | Bou |
-| Brother ~~(e)~~(elder) | ++阿++兄 | A hia |
-| Brother ~~(y)~~(younger) | ++阿++弟 | A ti |
-| Sister ~~(e)~~(elder) | ++阿++~~妲~~(姐) | A chey |
-| Sister ~~(y)~~(younger) | ++阿++妹 | A mue |
-| Brother-in-law | ++阿++舅 | A ku |
-| Sister-in-law | ++阿++姨 | A í |
-| Child | ~~子~~(囝) | Kia |
-| Daughter | ~~女子~~(諸婦囝) | Cha bou kia |
-| Son | ~~男子~~(丈夫囝) | Ta pou kia |
-| Grand child | ++阿++孫 | A sun |
-| First born | ~~長子~~(頭子) | Toau tur |
-| Last born | ~~未子~~(尾囝) | Boe kia |
-| Twins | ~~䨇~~(雙)生 | Sang sey |
+| Brother elder | 阿兄 | A hia |
+| Brother younger | 阿弟 | A ti |
+| Sister elder | 阿姐 | A chey |
+| Sister younger | 阿妹 | A mue |
+| Brother-in-law | 阿舅 | A ku |
+| Sister-in-law | 阿姨 | A í |
+| Child | 囝 | Kia |
+| Daughter | 諸婦囝 | Cha bou kia |
+| Son | 丈夫囝 | Ta pou kia |
+| Grand child | 阿孫 | A sun |
+| First born | 頭子 | Toau tur |
+| Last born | 尾囝 | Boe kia |
+| Twins | 雙生 | Sang sey |
 | Orphan | 孤子 | Ko chur |
-| Uncle ~~(p)~~(paternal) | ++阿++伯 | A pĕ |
-| Aunt ~~(p)~~(paternal) | ++阿++姆 | A um |
-| Father's ~~y~~(younger) brother | ++阿++叔 | A chĕk |
-| Uncle's wife | ++阿++嬸 | A sim |
+| Uncle paternal | 阿伯 | A pĕ |
+| Aunt paternal | 阿姆 | A um |
+| Father's younger brother | 阿叔 | A chĕk |
+| Uncle's wife | 阿嬸 | A sim |
 | Friends | 朋友 | Peng yiw |
 | Prince | 君 | Kun |
 | Minister | 臣 | Chin |
-| Slave ~~(m)~~(male) | 僕 | Pok |
-| Slave ~~(f)~~(female) | 婢 | Pi |
+| Slave male | 僕 | Pok |
+| Slave female | 婢 | Pi |
 | Master | 家主 | Key chu |
 | Mistress | 家主娘 | Key chu nie |
 | Bridegroom | 新郎 | Sin nung |
@@ -992,10 +992,10 @@ aou | as ou in *plough, our, sour*. |
 | Soldiers | 兵丁 | Pier teng |
 | Executioners | 殺手 | Suă siw |
 | Beggars | 乞食 | Khŭrt chiă |
-| Thieves | 賊~~子~~(囝) | Chăt kia |
+| Thieves | 賊囝 | Chăt kia |
 | Gamblers | 賭棍 | Tu kun |
 | Jailers | 禁止 | Kim chi |
-| Players | 戲~~子~~(囝) | Hi kia |
+| Players | 戲囝 | Hi kia |
 | Slaves | 奴僕 | Nou pok |
 | Pettifoggers | 訟師 | Song sŭr |
 | Priests | 和尙 | Huey sie |
@@ -1007,7 +1007,7 @@ aou | as ou in *plough, our, sour*. |
 | Philanthropist | 仁人 | Jin nang |
 | Virtuous man | 善人 | Sien nang |
 | Good man | 好人 | Haw nang |
-| Vicious man | ~~獃~~(痞)人 | Pai nang |
+| Vicious man | 痞人 | Pai nang |
 | Bad man | 惡人 | Ak nang |
 | A hero | 英人 | Eng jin |
 | A teacher | 先生 | Sin sey |
@@ -1032,13 +1032,13 @@ aou | as ou in *plough, our, sour*. |
 | Board house | 枋厝 | Pang chu |
 | Brick house | 塗庫 | Tou khou |
 | Prison | 監 | Kam |
-| Wat | ~~𥦩~~(庵) | Am |
+| Wat | 庵 | Am |
 | Temple | 廟 | Bie |
 | Zayat | 經㕔 | Keng tia |
 | Church | 禮拜堂 | Loi pai tung |
-| Pagoda | ~~㙮~~(塔) | Thă |
+| Pagoda | 塔 | Thă |
 | Palace | 王府 | Wang hu |
-| Hut | 寮~~子~~(囝) | Liou kia |
+| Hut | 寮囝 | Liou kia |
 | Cook house | 火食 | Hue sit |
 | Godown | 樓底 | Laou toi |
 | Granary | 倉 | Chŭng |
@@ -1061,7 +1061,7 @@ aou | as ou in *plough, our, sour*. |
 | Post | 柱 | Tiou |
 | Brace | 抵 | Tu |
 | Rafters | 桷 | Kak |
-| Wall | ~~𫮰~~(牆) | Chie |
+| Wall | 牆 | Chie |
 | Partition | 壁 | Piăh |
 | Corner | 四角 | Si kak |
 | Roof | 厝頂 | Chu teng |
@@ -1076,13 +1076,13 @@ aou | as ou in *plough, our, sour*. |
 | Chamber | 樓頂 | Laou teng |
 | Loft | 層 | Chan |
 | Door | 門 | Mŭng |
-| Window | ~~窻~~(窗) | Teng |
+| Window | 窗 | Teng |
 | Lock | 鎖頭 | Saw taou |
 | Key | 鎖匙 | Saw si |
 | Railing | 欄杆 | Lan kan |
 | Slats | 欄杆枳 | Lan kan chi |
 | Hinges | 鉸鉞 | Ka sut |
-| Rings | 門~~𤨔~~(環) | Mŭng huan |
+| Rings | 門環 | Mŭng huan |
 
 
 ## HOUSE FURNITURE &c.
@@ -1090,15 +1090,15 @@ aou | as ou in *plough, our, sour*. |
 |  |  |  |
 |---|---|---|
 | Table | 桌 | Tŏ |
-| Chair | ~~筊𬃪~~(交椅) | Kaou i |
-| Rocking-chair | 倚腰~~𬃪~~(椅) | Ua ie i |
-| Stool | ~~𬃪~~(椅)頭 | I taou |
-| Foot stool | ~~脚~~(骹)踏~~𬃪~~(椅) | Ka tă i |
-| Couch | 眠~~𬃪~~(椅) | Min i |
+| Chair | 交椅 | Kaou i |
+| Rocking-chair | 倚腰椅 | Ua ie i |
+| Stool | 椅頭 | I taou |
+| Foot stool | 骹踏椅 | Ka tă i |
+| Couch | 眠椅 | Min i |
 | Book case | 書架 | Chŭr key |
-| Cupboard | 食~~厨~~(櫥) | Chiă tu |
+| Cupboard | 食櫥 | Chiă tu |
 | Clothes basket | 籐囊 | Tin lang |
-| Bedstead | 眠~~牀~~(床) | Min chŭng |
+| Bedstead | 眠床 | Min chŭng |
 | Matrass | 褥 | Jok |
 | Curtains | 蚊帳 | Mang ta |
 | Pillow | 枕頭 | Chim taou |
@@ -1115,29 +1115,29 @@ aou | as ou in *plough, our, sour*. |
 | Tea cup | 茶鐘 | Tey cheng |
 | Saucer | 茶船 | Tey chun |
 | Wash bowl | 面盆 | Min pun |
-| Water pot | 水~~𢸎~~(摜) | Chui kua |
+| Water pot | 水摜 | Chui kua |
 
 <!-- page:45 -->
 
 |  |  |  |
 |---|---|---|
-| Goglet | 水~~礶~~(罐) | Chui kuan | 
-| Tea pot | 茶~~礶~~(罐) | Tey kuan |
+| Goglet | 水罐 | Chui kuan | 
+| Tea pot | 茶罐 | Tey kuan |
 | Cover | 盖 | Kñoi |
 | Tea board | 茶盤 | Tey poa |
 | Knife | 刀 | Taw |
-| Fork | ~~义~~(叉) | Chey |
+| Fork | 叉 | Chey |
 | Spoon | 湯匙 | Tŭng si |
 | Chopstick | 箸 | Tŭr |
 | Table cloth | 遮床布 | Chia chŭng pou |
-| Mortar | 臼~~子~~(囝) | Ku kai |
+| Mortar | 臼囝 | Ku kai |
 | Sieve | 篩斗 | Tai taou |
 | Flint | 火石 | Huey chiĕ |
-| Broom | ~~箒把~~(掃帚) | Saou siw |
-| Shears | ~~剪~~(絞)刀 | Ka taw |
+| Broom | 掃帚 | Saou siw |
+| Shears | 絞刀 | Ka taw |
 | Candle | 燭 | Chĕk |
 | Wick | 燈心 | Teng sim |
-| Watch | 時辰~~票~~(錶) | Si sin pie |
+| Watch | 時辰錶 | Si sin pie |
 | Clock | 時鐘 | Si cheng |
 | Bell | 鐘 | Cheng |
 | Gong | 欽 | Kim |
@@ -1165,7 +1165,7 @@ aou | as ou in *plough, our, sour*. |
 | Receipt | 收單 | Siw toa |
 | Order | 領單 | Nĭa toa |
 | Clearance | 大字 | Toa ji |
-| Treaty | ~~𥂀~~(盟)約 | Meng iĕ |
+| Treaty | 盟約 | Meng iĕ |
 
 <!-- page:46 -->
 
@@ -1186,8 +1186,8 @@ aou | as ou in *plough, our, sour*. |
 | Hammer | 鐵鎚 | Tĭ tui |
 | Saw | 鋸 | Kŭr |
 | File | 鎈 | Chaw |
-| Gimlet | 鑽~~子~~(囝) | Chŭng kia |
-| Chisel | 鑿~~子~~(囝) | Chăk kia |
+| Gimlet | 鑽囝 | Chŭng kia |
+| Chisel | 鑿囝 | Chăk kia |
 | Hatchet | 斧頭 | Po taou |
 | Plane | 抽 | Tiu |
 | Musket | 銃 | Cʼheng |
@@ -1198,12 +1198,12 @@ aou | as ou in *plough, our, sour*. |
 |  |  |  |
 |---|---|---|
 | Large boat | 大船 | Toa chun |
-| Small boat | 船~~子~~(囝) | Chun kia |
+| Small boat | 船囝 | Chun kia |
 | Oars | 槳 | Chìe |
-| Paddles | 橈~~子~~(囝) | Jie kia |
+| Paddles | 橈囝 | Jie kia |
 | Mat | 草蓆 | Chaou chiĕ |
 | Cushion | 皮坐 | Poe chaw |
-| To row | ~~櫂~~(扒)船 | Pey chun |
+| To row | 扒船 | Pey chun |
 | To steer | 掠尾 | Diă boe |
 | Work fast | 出力 | Chut lat |
 | Dip out the water | 舀水 | Ie chui |
@@ -1211,11 +1211,11 @@ aou | as ou in *plough, our, sour*. |
 | Boat cover | 弓蓬 | Keng pang |
 | The boat leaks | 船漏 | Chun laou |
 | Repair the boat | 收船 | Siw chun |
-| Lock the boat | 鎖~~丨~~(船) | Saw chun |
-| Watch ~~do.~~(the boat) | 掌~~丨~~(船) | Chie chun |
-| Sink ~~do.~~(the boat) | 沉~~丨~~(船) | Tim chun |
-| Steal ~~do.~~(the boat) | 偷~~丨~~(船) | Thaou chun |
-| Borrow ~~do.~~(the boat) | 借~~丨~~(船) | Chiĕ chun |
+| Lock the boat | 鎖船 | Saw chun |
+| Watch the boat | 掌船 | Chie chun |
+| Sink the boat | 沉船 | Tim chun |
+| Steal the boat | 偷船 | Thaou chun |
+| Borrow the boat | 借船 | Chiĕ chun |
 
 <!-- page:47 -->
 
@@ -1286,28 +1286,28 @@ aou | as ou in *plough, our, sour*. |
 | Camel | 駝 | Tʼhŏ |
 | Dog | 狗 | Kaou |
 | Cat | 貓 | Gniou |
-| Kitten | 貓~~子~~(囝) | Gniou kia |
+| Kitten | 貓囝 | Gniou kia |
 | Stallion | 馬牯 | Bèy kʼho |
 | Mare | 馬母 | Bèy baw |
 | Bull | 牛牯 | Gu kʼho |
 | Cow | 牛母 | Gu baw |
 | Ram | 羊牯 | Ie kʼho |
 | Ewe | 羊母 | Ie baw |
-| Colt | 馬~~子~~(囝) | Bèy kia |
-| Calf | 牛~~子~~(囝) | Gu kia |
-| Pig | 猪~~子~~(囝) | Tŭr kia |
+| Colt | 馬囝 | Bèy kia |
+| Calf | 牛囝 | Gu kia |
+| Pig | 猪囝 | Tŭr kia |
 | Wild beasts | 獸 | Siw |
-| Lion | 獅~~剛~~(公) | Sai kang |
+| Lion | 獅公 | Sai kang |
 | Lioness | 獅母 | Sai baw |
 | Tiger | 虎 | Hʼñou |
 | Bear | 熊 | Him |
 | Elephant | 象 | Cʼhiè |
 | Leopard | 豹 | Pa |
 | Wolf | 豺狼 | Chai lang |
-| Rhinoceros | ~~𫵠㐄~~(犀牛) | Sai gu |
+| Rhinoceros | 犀牛 | Sai gu |
 | Deer | 鹿 | Tĕk |
 | Fox | 狐狸 | Hu lai |
-| Rat | ~~老~~(鳥)鼠 | Niou chŭr |
+| Rat | 鳥鼠 | Niou chŭr |
 | Rabbit | 石鼠 | Chiĕ chŭr |
 
 ## BIRDS &c.
@@ -1316,10 +1316,10 @@ aou | as ou in *plough, our, sour*. |
 |---|---|---|
 | Birds | 鳥 | Chiou |
 | Crow | 烏鳥 | Ou chiou |
-| Sparrow | ~~雀鳥~~(麻雀) | Maw chiă |
-| Cuckoo | 鳩~~鳥~~(鳩) | Ku ku |
+| Sparrow | 麻雀 | Maw chiă |
+| Cuckoo | 鳩鳩 | Ku ku |
 | Owl | 貓頭鳥 | Gñiou taou chiou |
-| Parrot | 鸚~~𤔄~~(哥) | Eng kaw |
+| Parrot | 鸚哥 | Eng kaw |
 
 <!-- page:49 -->
 
@@ -1342,25 +1342,25 @@ aou | as ou in *plough, our, sour*. |
 | Goose | 鵝 | Gaw |
 | Duck | 鴨 | ăh |
 | Fowl | 雞 | Koi |
-| Chicken | 雞~~子~~(囝) | Koi kia |
+| Chicken | 雞囝 | Koi kia |
 | Cock | 雞翁 | Koi ang |
-| Drake | 鴨~~剛~~(公) | ăh kang |
+| Drake | 鴨公 | ăh kang |
 | Hen | 鷄母 | Koi baw |
-| Pullet | 鷄~~旦~~(卵) | Koi noa |
+| Pullet | 鷄卵 | Koi noa |
 | Serpent | 蛇 | Chua |
 | Scorpion | 蠍 | Hiĕt |
 | Centipede | 蜈蚣 | Gey kang |
 | Leech | 蝴蜞 | Hou kʼi |
 | Spider | 蜘蛛 | Ti tu |
 | Frog | 水蛙 | Chui koi |
-| Lizard | ~~守宮~~(蠐龍) | Chi leng |
+| Lizard | 蠐龍 | Chi leng |
 | Tŏk key | 篤家 | Tŏk key |
 | Alligator | 鱷魚 | Gñak hŭr |
 | Shark | 鯊魚 | Sua hŭr |
 | Worm | 蚯蚓 | Kʼou un |
 | Turtle | 龜 | Ku |
 | Butterfly | 蝴蝶 | Hu tiĕp |
-| Fly | ~~蒼~~(胡)蠅 | How sin |
+| Fly | 胡蠅 | How sin |
 | Fire-fly | 火夜 | Hue mey |
 | Bee | 蜂 | Pʼhang |
 | Grasshopper | 草蜢 | Chaou mè |
@@ -1381,8 +1381,8 @@ aou | as ou in *plough, our, sour*. |
 | Iron | 鐵 | Tĭ |
 | Copper | 銅 | Tang |
 | White copper | 白銅 | Pĕ tang |
-| Brass | 黃~~丨~~(銅) | Ng tang |
-| Copper | 紅~~丨~~(銅) | Ang tang |
+| Brass | 黃銅 | Ng tang |
+| Copper | 紅銅 | Ang tang |
 | Steel | 鋼 | Kŭng |
 | Tin | 白鐵 | Pĕ tĭ |
 
@@ -1399,23 +1399,23 @@ aou | as ou in *plough, our, sour*. |
 | Sap | 樹泥 | Chiw ni |
 | Flower | 花 | Hue |
 | Bud | 芽 | Gey |
-| Fruit | ~~菓~~(果)子 | Kuey chi |
+| Fruit | 果子 | Kuey chi |
 | Husk | 粗糠 | Chou kŭng |
 | Rind | 皮 | Pue |
-| Pulp | ~~菓~~(果)子肉 | Kuey chi nĕk |
+| Pulp | 果子肉 | Kuey chi nĕk |
 | Seed | 核 | Hut |
-| tree | 柑~~𣜒~~(欉) | Ka chang |
-| Pumelo | 柚~~丨~~(欉) | Yiw ~~do.~~(chang) |
-| Mango | 榱~~丨~~(欉)  | Sñuai ~~do.~~(chang) |
-| Tea | 茶~~丨~~(欉)  | Tey ~~do.~~(chang) |
-| Willow | 柳~~丨~~(欉)  | Liw ~~do.~~(chang) |
-| Plantain | ~~芎~~(弓)蕉~~𣜒~~(欉)  | Keng-chie chang |
-| Grape | 葡萄~~丨~~(欉)  | Pu taw ~~do.~~(chang) |
-| Olive | 橄欖~~丨~~(欉)  | Ka na ~~do.~~(chang) |
-| Pomegranate | 石榴~~丨~~(欉) | Siĕ liw ~~do.~~(chang) |
-| Lemon | 檸檬~~丨~~(欉)  | Lam-mong ~~do.~~(chang) |
-| Betelnut | 梹榔~~丨~~(欉)  | Pin naw ~~do.~~(chang) |
-| Cocoanut | 椰枳~~丨~~(欉)  | Ya chi ~~do.~~(chang) |
+| tree | 柑欉 | Ka chang |
+| Pumelo | 柚欉 | Yiw chang |
+| Mango | 榱欉  | Sñuai chang |
+| Tea | 茶欉  | Tey chang |
+| Willow | 柳欉  | Liw chang |
+| Plantain | 弓蕉欉  | Keng-chie chang |
+| Grape | 葡萄欉  | Pu taw chang |
+| Olive | 橄欖欉  | Ka na chang |
+| Pomegranate | 石榴欉 | Siĕ liw chang |
+| Lemon | 檸檬欉  | Lam-mong chang |
+| Betelnut | 梹榔欉  | Pin naw chang |
+| Cocoanut | 椰枳欉  | Ya chi chang |
 
 <!-- page:51 -->
 
@@ -1446,7 +1446,7 @@ aou | as ou in *plough, our, sour*. |
 | Rice | 飯 | Pŭng |
 | Cake | 粿 | Kuèy |
 | Biscuit | 餅 | Pia |
-| Congee | ~~粥~~(糜) | Mue |
+| Congee | 糜 | Mue |
 | Soup | 湯 | Tŭng |
 | Tea (leaf) | 茶米 | Tey bi |
 | Tea | 茶 | Tey |
@@ -1460,7 +1460,7 @@ aou | as ou in *plough, our, sour*. |
 | Egg | 卵 | Nŭng |
 | Sugar | 糖 | Tŭng |
 | Molasses | 糖水 | Tŭng chui |
-| Salt | ~~𪉩~~(鹽) | Yiam |
+| Salt | 鹽 | Yiam |
 | Beef | 牛肉 | Gu bă |
 | Pork | 猪肉 | Tŭr bă |
 | Fowl | 雞 | Koi |
@@ -1488,8 +1488,8 @@ aou | as ou in *plough, our, sour*. |
 | Day time | 日間 | Jit kan |
 | Night time | 夜時 | Mey si |
 | Morning | 眠起 | Meng ki |
-| Noon | 日~~午~~(晝) | Jit taou |
-| Afternoon | 下~~午~~(旰) | E kwa |
+| Noon | 日晝 | Jit taou |
+| Afternoon | 下旰 | E kwa |
 | Evening | 夜昏 | Mey hñg |
 | Midnight | 半夜 | Poa mey |
 | Day light | 天光早 | Ti kŭng cha |
@@ -1498,7 +1498,7 @@ aou | as ou in *plough, our, sour*. |
 | To day | 今日 | Kim jit |
 | Yesterday | 昨日 | Cha jit |
 | Day before yesterday | 絶日 | Chŏ jit |
-| Tomorrow | ~~明日~~(明早) | Moa cha |
+| Tomorrow | 明早 | Moa cha |
 | Day after tomorrow | 後日 | Ow jit |
 | Sabbath day | 禮拜日 | Loi pai jit |
 | This year | 今年 | Kim ni |
@@ -1509,7 +1509,7 @@ aou | as ou in *plough, our, sour*. |
 | First day | 初一 | Chiw it |
 | Daily | 日日 | Jit jit |
 | Quickly | 猛猛 | Mey mey |
-| Slowly | ~~緩緩~~(慢慢) | Man man |
+| Slowly | 慢慢 | Man man |
 | Presently | 霎時 | Siĕp si |
 | Another day | 下日 | E jit |
 
@@ -1522,28 +1522,28 @@ aou | as ou in *plough, our, sour*. |
 | Clothes | 衣服 | I hok |
 | Crown | 皇帝帽 | Hwang ti baw |
 | Hat | 㡌 | Baw |
-| Cap | ~~丨~~(㡌)~~子~~(囝) | Baw kia |
+| Cap | 㡌囝 | Baw kia |
 | Turban | 頭布 | Taou pou |
 | Jacket | 衫 | Sa |
 | Pantaloons | 褲 | Khou |
-| Vest | ~~甲~~(袷)~~子~~(囝) | Kă kia |
+| Vest | 袷囝 | Kă kia |
 | Stockings | 襪 | Boĕ |
 | Shirt | 身底衫 | Sin toi sa |
-| Gown | 大領~~丨~~(衫) | Toa nia sa |
+| Gown | 大領衫 | Toa nia sa |
 | Apron | 圍腰布 | Ui ie pou |
-| Cloak | 風~~𧜞~~(幔) | Huang moa |
+| Cloak | 風幔 | Huang moa |
 | Girdle | 褲頭帶 | Khou taou toa |
 | Button | 鈕 | Niw |
-| Button hole | ~~丨~~(鈕)~~𦕎~~(縫) | Niw pan |
+| Button hole | 鈕縫 | Niw pan |
 | Comb | 梳 | Siw |
 | Hair pin | 如意 | Ju i |
-| Anklets | ~~脚~~(骹)~~𤨔~~(環) | Ka hwan |
-| Bracelets | 手~~𤨔~~(環) | Chiw hwan |
+| Anklets | 骹環 | Ka hwan |
+| Bracelets | 手環 | Chiw hwan |
 | Finger ring | 手節 | Chiw chăt |
 | Ear ring | 耳鈎 | Hi kaou |
 | Buckle | 鈕扣 | Niw khaou |
 | Needle | 針 | Cham |
-| Cord | ~~䌇~~(索)~~子~~(囝) | Sŏ kia |
+| Cord | 索囝 | Sŏ kia |
 | Thread | 線 | Soa |
 | Silk | 絲 | Si |
 | Cotton | 紗 | Sey |
@@ -1551,9 +1551,9 @@ aou | as ou in *plough, our, sour*. |
 | Velvet | 絨 | Jong |
 | Broadcloth | 哖 | Ni |
 | Crape | 縐紗 | Jiow sey |
-| Satin | ~~縀~~(緞) | Tŭng |
+| Satin | 緞 | Tŭng |
 | Lace | 絲帶 | Si toa |
-| Canvass | ~~㠶~~(帆)布 | Pang pou |
+| Canvass | 帆布 | Pang pou |
 | Staff | 杖 | Chiang |
 | Umbrella | 雨傘 | Hou sua |
 | Fan | 扇 | Si |
@@ -1566,150 +1566,150 @@ aou | as ou in *plough, our, sour*. |
 |  |  |  |
 |---|---|---|
 | 1 Thread | 一條線 | Chĕk *tiou* sua |
-| 2 Braids | 二~~丨~~(條)辮 | Naw ~~„~~(tiou) pi |
-| 3 Bathing cloths | 三~~丨~~(條)浴布 | Sa ~~„~~(tiou) ĕk pou |
-| 4 Turbans | 四~~丨~~(條)頭布 | Si ~~„~~(tiou) taou pou |
-| 5 Cravats | 五~~丨~~(條)封領 | Gñou ~~„~~(tiou) huang nia |
-| 6 Bands | 六~~丨~~(條)帶 | Lak ~~„~~(tiou) toa |
-| 7 Towels | 七~~丨~~(條)面巾 | Chĭt ~~„~~(tiou) min kŭrn |
-| 8 Handkerchiefs | 八~~丨~~(條)手巾 | Poĭ ~~„~~(tiou) chiw kŭrn |
-| 9 Hairs | 九~~丨~~(條)頭毛 | Kaou ~~„~~(tiou) taou maw |
-| 10 Ropes | 十~~丨~~(條)~~䌇~~(索) | Chap ~~„~~(tiou) sŏ |
+| 2 Braids | 二條辮 | Naw tiou pi |
+| 3 Bathing cloths | 三條浴布 | Sa tiou ĕk pou |
+| 4 Turbans | 四條頭布 | Si tiou taou pou |
+| 5 Cravats | 五條封領 | Gñou tiou huang nia |
+| 6 Bands | 六條帶 | Lak tiou toa |
+| 7 Towels | 七條面巾 | Chĭt tiou min kŭrn |
+| 8 Handkerchiefs | 八條手巾 | Poĭ tiou chiw kŭrn |
+| 9 Hairs | 九條頭毛 | Kaou tiou taou maw |
+| 10 Ropes | 十條索 | Chap tiou sŏ |
 | 11 Fowls | 十一隻雞 | Chap it *chiă* koi |
-| 12 Ducks | 十二~~丨~~(隻)鴨 | Chap ji ~~„~~(chiă) ăh |
-| 13 Geese | 十三~~丨~~(隻)鵝 | Chap sa ~~„~~(chiă) gaw |
-| 14 Dogs | 十四~~丨~~(隻)狗 | Chap si ~~„~~(chiă) kaou |
-| 15 Goats | 十五~~丨~~(隻)羊 | Chap gñou ~~„~~(chiă) ie |
-| 16 Pigs | 十六~~丨~~(隻)猪 | Chap lak ~~„~~(chiă) tŭr |
-| 17 Cows | 十七~~丨~~(隻)牛 | Chap chĭt ~~„~~(chiă) gu |
-| 18 Chairs | 十八~~丨~~(隻)~~𬃪~~(椅) | Chap poĭ ~~„~~(chiă) ì |
-| 19 Tables | 十九~~丨~~(隻)床 | Chap kaou ~~„~~(chiă) chŭng |
-| 20 Boats | 二十~~丨~~(隻)船 | Ji chap ~~„~~(chiă) chun |
+| 12 Ducks | 十二隻鴨 | Chap ji chiă ăh |
+| 13 Geese | 十三隻鵝 | Chap sa chiă gaw |
+| 14 Dogs | 十四隻狗 | Chap si chiă kaou |
+| 15 Goats | 十五隻羊 | Chap gñou chiă ie |
+| 16 Pigs | 十六隻猪 | Chap lak chiă tŭr |
+| 17 Cows | 十七隻牛 | Chap chĭt chiă gu |
+| 18 Chairs | 十八隻椅 | Chap poĭ chiă ì |
+| 19 Tables | 十九隻床 | Chap kaou chiă chŭng |
+| 20 Boats | 二十隻船 | Ji chap chiă chun |
 
 <!-- page:55 -->
 
 |  |  |  |
 |---|---|---|
 | 21 Blankets | 二一領被 | Ji it *nia* poe |
-| 22 Mattresses | 二二領褥 | Ji ji ~~„~~(nia) jok |
-| 23 Carpets | 二三領氊 | Ji sa ~~„~~(nia) chien |
-| 24 Gowns | 二四領袍 | Ji si ~~„~~(nia) kaou |
-| 25 Curtains | 二五領~~虻~~(蠓)帳 | Ji gñou ~~„~~(nia) mang ta |
-| 26 Mats | 二六領草蓆 | Ji lak ~~„~~(nia) chaou chiĕ |
-| 27 Bamboo | 二七領竹~~丨~~(蓆) | Ji chĭt ~~„~~(nia) tek chiĕ |
-| 28 | 二八領籐~~丨~~(蓆) | Ji poĭ ~~„~~(nia) tin chiĕ |
-| 29 | 二九領京捫蓆 | Ji kaou ~~„~~(nia) kia bun chiĕ |
-| 30 Rain jackets | 三十領棕蓑 | Sa chap ~~„~~(nia) chang sui |
+| 22 Mattresses | 二二領褥 | Ji ji nia jok |
+| 23 Carpets | 二三領氊 | Ji sa nia chien |
+| 24 Gowns | 二四領袍 | Ji si nia kaou |
+| 25 Curtains | 二五領蠓帳 | Ji gñou nia mang ta |
+| 26 Mats | 二六領草蓆 | Ji lak nia chaou chiĕ |
+| 27 Bamboo | 二七領竹蓆 | Ji chĭt nia tek chiĕ |
+| 28 | 二八領籐蓆 | Ji poĭ nia tin chiĕ |
+| 29 | 二九領京捫蓆 | Ji kaou nia kia bun chiĕ |
+| 30 Rain jackets | 三十領棕蓑 | Sa chap nia chang sui |
 | 1 Close cap | 一頂紗㡌 | Chĕk *teng* sey baw |
-| 2 Satin caps | 二頂~~縀~~(緞)~~丨~~(㡌) | Naw ~~„~~(teng) tŭng baw |
-| 3 Felt hats | 三頂毡~~丨~~(㡌) | Sa ~~„~~(teng) chi baw |
-| 4 Tassel'd caps | 四頂纓㡌 | Si ~~„~~(teng) eng baw |
-| 5 Straw hats | 五頂草㡌 | Gñou ~~„~~(teng) chaou baw |
-| 6 Bamboo hats | 六~~丨~~(頂)葵笠 | Lak ~~„~~(teng) kuey loĭ |
-| 1 Trunk | 一~~脚~~(骹)箱 | Chĕk *kʼha* sie |
-| 2 Baskets | 二~~脚~~(骹)囊 | Naw ~~„~~(kʼha) lang |
-| 3 Chests of drawers | 三~~脚~~(骹)櫃 | Sa ~~„~~(kʼha) kñui |
-| 4 Water pails | 四~~脚~~(骹)水桶 | Si ~~„~~(kʼha) chui tang |
+| 2 Satin caps | 二頂緞㡌 | Naw teng tŭng baw |
+| 3 Felt hats | 三頂毡㡌 | Sa teng chi baw |
+| 4 Tassel'd caps | 四頂纓㡌 | Si teng eng baw |
+| 5 Straw hats | 五頂草㡌 | Gñou teng chaou baw |
+| 6 Bamboo hats | 六頂葵笠 | Lak teng kuey loĭ |
+| 1 Trunk | 一骹箱 | Chĕk *kʼha* sie |
+| 2 Baskets | 二骹囊 | Naw kʼha lang |
+| 3 Chests of drawers | 三骹櫃 | Sa kʼha kñui |
+| 4 Water pails | 四骹水桶 | Si kʼha chui tang |
 
 <!-- page:56 -->
 
 |  |  |  |
 |---|---|---|
-| 1 Pr. of shoes | 一~~䨇~~(雙)~~𩋘~~(鞋) | Chĕk *sang* oi |
-| 2 Pr. of socks | 二~~丨~~(雙)襪 | Naw ~~„~~(sang) buĕ |
-| 3 Pr. of feet | 三~~丨~~(雙)~~脚~~(骹) | Sa ~~„~~(sang) kʼha |
-| 4 Pr. of hands | 四~~丨~~(雙)手 | Si ~~„~~(sang) chiw |
-| 5 Pr. of eyes | 五~~丨~~(雙)目 | Gñou ~~„~~(sang) măk |
-| 6 Pr. of ears | 六~~丨~~(雙)耳 | Lak ~~„~~(sang) hñi |
-| 7 Pr. of chop sticks | 七~~丨~~(雙)~~著~~(箸) | Chĭt ~~„~~(sang) tŭr |
+| 1 Pr. of shoes | 一雙鞋 | Chĕk *sang* oi |
+| 2 Pr. of socks | 二雙襪 | Naw sang buĕ |
+| 3 Pr. of feet | 三雙骹 | Sa sang kʼha |
+| 4 Pr. of hands | 四雙手 | Si sang chiw |
+| 5 Pr. of eyes | 五雙目 | Gñou sang măk |
+| 6 Pr. of ears | 六雙耳 | Lak sang hñi |
+| 7 Pr. of chop sticks | 七雙箸 | Chĭt sang tŭr |
 | 1 Pr. of ornamental papers | 一對對聯 | Chĕk *tui* tui lien |
-| 2 Pr. of ear rings | 二對耳~~𤨔~~(環) | Naw ~~„~~(tui) hñi huan |
-| 3 Pr. of bracelets | 三對手~~丨~~(~~𤨔~~(環)) | Sa ~~„~~(tui) chiw huan |
-| 4 Pr. of door handles | 四對門~~丨~~(~~𤨔~~(環)) | Si ~~„~~(tui) mŭng huan |
+| 2 Pr. of ear rings | 二對耳環 | Naw tui hñi huan |
+| 3 Pr. of bracelets | 三對手(環) | Sa tui chiw huan |
+| 4 Pr. of door handles | 四對門(環) | Si tui mŭng huan |
 | 1 Paper of tea | 一包茶米 | Chĕk *paou* tey bi |
-| 2 Papers of medicine | 二~~丨~~(包)藥 | Naw ~~„~~(paou) iĕ |
-| 3 Paper of sugar | 三~~丨~~(包)白糖 | Sa ~~„~~(paou) pĕ tŭng |
+| 2 Papers of medicine | 二包藥 | Naw paou iĕ |
+| 3 Paper of sugar | 三包白糖 | Sa paou pĕ tŭng |
 | 1 Brick | 一塊磚 | Chĕk *kaw* chŭng |
-| 2 Stones | 二~~丨~~(塊)石 | Naw ~~„~~(kaw) chiĕ |
-| 3 Tiles | 三~~丨~~(塊)瓦 | Sa ~~„~~(kaw) hia |
-| 4 Lumps of earth | 四~~丨~~(塊)塗 | Si ~~„~~(kaw) tou |
-| 5 Sticks of wood | 五~~丨~~(塊)柴 | Gñou ~~„~~(kaw)  cha |
-| 6 Biscuits | 六~~丨~~(塊)餅 | Lak ~~„~~(kaw) pia |
+| 2 Stones | 二塊石 | Naw kaw chiĕ |
+| 3 Tiles | 三塊瓦 | Sa kaw hia |
+| 4 Lumps of earth | 四塊塗 | Si kaw tou |
+| 5 Sticks of wood | 五塊柴 | Gñou kaw  cha |
+| 6 Biscuits | 六塊餅 | Lak kaw pia |
 
 <!-- page:57 -->
 
 |  |  |  |
 |---|---|---|
 | 7 Boards | 七塊枋 | Chit *kaw* pang |
-| 8 Cakes | 八~~丨~~(塊)粿 | Poĭ ~~„~~(kaw) Poĭ kuey |
-| 9 Pieces of pork | 九~~丨~~(塊)猪肉 | Kaou ~~„~~(kaw) tŭr bă |
+| 8 Cakes | 八塊粿 | Poĭ kaw Poĭ kuey |
+| 9 Pieces of pork | 九塊猪肉 | Kaou kaw tŭr bă |
 | 1 Button | 一粒鈕 | Chĕk *liĕp* niw |
-| 2 Grains of rice | 二~~丨~~(粒)米 | Naw ~~„~~(liĕp) bi |
-| 3 Mangoes | 三~~丨~~(粒)榱 | Sa ~~„~~(liĕp) sñuai |
-| 4 Beans | 四~~丨~~(粒)荳 | Si ~~„~~(liĕp) taou |
-| 5 Pearls | 五~~丨~~(粒)珠 | Gñou ~~„~~(liĕp) chu |
-| 6 Onions | 六~~丨~~(粒)葱頭 | Lak ~~„~~(liĕp) chang taou |
-| 7 Chillies | 七~~丨~~(粒)辣椒 | Chĭt ~~„~~(liĕp) hĭem chie |
-| 8 Peppers | 八~~丨~~(粒)楜椒 | Poĭ ~~„~~(liĕp) hou chie |
-| 9 Pills | 九~~丨~~(粒)藥丸 | Kaou ~~„~~(liĕp) iĕ i |
+| 2 Grains of rice | 二粒米 | Naw liĕp bi |
+| 3 Mangoes | 三粒榱 | Sa liĕp sñuai |
+| 4 Beans | 四粒荳 | Si liĕp taou |
+| 5 Pearls | 五粒珠 | Gñou liĕp chu |
+| 6 Onions | 六粒葱頭 | Lak liĕp chang taou |
+| 7 Chillies | 七粒辣椒 | Chĭt liĕp hĭem chie |
+| 8 Peppers | 八粒楜椒 | Poĭ liĕp hou chie |
+| 9 Pills | 九粒藥丸 | Kaou liĕp iĕ i |
 | 1 Bundle of chopsticks | 一把箸 | Chĕk *pèy* tŭr |
-| 2 Bundles of sugar cane | 二~~丨~~(把)~~樜~~(蔗) | Naw ~~„~~(pèy) chia |
-| 3 Handfuls of rice | 三~~丨~~(把)米 | Sa ~~„~~(pèy) bi |
+| 2 Bundles of sugar cane | 二把蔗 | Naw pèy chia |
+| 3 Handfuls of rice | 三把米 | Sa pèy bi |
 | 1 Piece of cloth | 一疋布 | Chĕk *pĭt* pou |
 | 1 Umbrella | 一枝雨傘 | Chĕk *ki* hou sua |
-| 2 Chattas | 二~~丨~~(枝)凉傘 | Naw ~~„~~(ki) ney sua |
-| 3 Bearing poles | 三~~丨~~(枝)平擔 | Sa ~~„~~(ki) poi ta |
-| 4 Bamboos | 四~~丨~~(枝)竹 | Si ~~„~~(ki) tek |
+| 2 Chattas | 二枝凉傘 | Naw ki ney sua |
+| 3 Bearing poles | 三枝平擔 | Sa ki poi ta |
+| 4 Bamboos | 四枝竹 | Si ki tek |
 
 <!-- page:58 -->
 
 |  |  |  |
 |---|---|---|
 | 5 Pencils | 五枝筆 | Gñou *ki* pit |
-| 6 Knives | 六枝刀 | Lak ~~„~~(ki) taw |
-| 7 Hatchets | 七枝斧頭 | Chĭt ~~„~~(ki) pou taou |
-| 8 Nails | 八枝鐵釘 | Poĭ ~~„~~(ki) tĭ teng |
-| 9 Forks | 九枝鐵~~义~~(叉) | Kaou ~~„~~(ki) tĭ chey |
-| 10 Lamp stands | 十枝錫燈 | Chap ~~„~~(ki) siă teng |
-| 11 Glass lamps | 十一枝玻璃燈 | Chap it ~~„~~(ki) paw li teng |
-| 12 Staves | 十二枝拐杖 | Chap ji ~~„~~(ki) kuai chiang |
-| 13 Canes | 十三枝棍 | Chap sa ~~„~~(ki) kun |
-| 14 Fans | 十四枝扇 | Chap si ~~„~~(ki) si |
+| 6 Knives | 六枝刀 | Lak ki taw |
+| 7 Hatchets | 七枝斧頭 | Chĭt ki pou taou |
+| 8 Nails | 八枝鐵釘 | Poĭ ki tĭ teng |
+| 9 Forks | 九枝鐵叉 | Kaou ki tĭ chey |
+| 10 Lamp stands | 十枝錫燈 | Chap ki siă teng |
+| 11 Glass lamps | 十一枝玻璃燈 | Chap it ki paw li teng |
+| 12 Staves | 十二枝拐杖 | Chap ji ki kuai chiang |
+| 13 Canes | 十三枝棍 | Chap sa ki kun |
+| 14 Fans | 十四枝扇 | Chap si ki si |
 | 1 Roll of cloth | 一捆布 | Chĕk *kʼhun* pou |
-| 2 Rolls of mats | 二捆草蓆 | Naw ~~„~~(kʼhun) chaou chiĕ |
-| 1 Ink stand | 一~~箇~~(個)硯 | Chek *kai* i |
-| 2 Pencil stands | 二~~丨~~(個)筆架 | Naw ~~„~~(kai) pĭt key |
-| 3 Writing trays | 三~~丨~~(個)~~丨~~(筆)盤 | Sa ~~„~~(kai) pĭt poa |
-| 4 Water cups | 四~~丨~~(個)水碟 | Si ~~„~~(kai) chui tĭ |
-| 5 Pencil cases | 五~~丨~~(個)筆套 | Gñou ~~„~~(kai) pĭt tap |
-| 6 Oranges | 六~~丨~~(個)柑 | Lak ~~„~~(kai) ka |
-| 7 Pumeloes | 七~~丨~~(個)柚 | Chĭt ~~„~~(kai) yiw |
-| 8 Plantains | 八~~丨~~(個)~~芎~~(弓)蕉 | Poĭ ~~„~~(kai) keng chie |
+| 2 Rolls of mats | 二捆草蓆 | Naw kʼhun chaou chiĕ |
+| 1 Ink stand | 一個硯 | Chek *kai* i |
+| 2 Pencil stands | 二個筆架 | Naw kai pĭt key |
+| 3 Writing trays | 三個筆盤 | Sa kai pĭt poa |
+| 4 Water cups | 四個水碟 | Si kai chui tĭ |
+| 5 Pencil cases | 五個筆套 | Gñou kai pĭt tap |
+| 6 Oranges | 六個柑 | Lak kai ka |
+| 7 Pumeloes | 七個柚 | Chĭt kai yiw |
+| 8 Plantains | 八個弓蕉 | Poĭ kai keng chie |
 
 <!-- page:59 -->
 
 |  |  |  |
 |---|---|---|
 | 1 Bed | 一張眠床 | Chĕk *tie* min chŭng |
-| 2 Carriages | 二張馬車 | Naw ~~„~~(tie) bey chia |
-| 3 Looms | 三張扣機 | Sa ~~„~~(tie) kaou kui |
-| 4 Wheels | 四張紡車 | Si ~~„~~(tie) pang chia |
-| 5 Sheets of paper | 五張紙 | Gñou ~~„~~(tie) chua |
-| 6 Nets | 六張網 | Lak ~~„~~(tie) mang |
+| 2 Carriages | 二張馬車 | Naw tie bey chia |
+| 3 Looms | 三張扣機 | Sa tie kaou kui |
+| 4 Wheels | 四張紡車 | Si tie pang chia |
+| 5 Sheets of paper | 五張紙 | Gñou tie chua |
+| 6 Nets | 六張網 | Lak tie mang |
 | 1 Room | 一間房 | Chĕk *koi* pang |
-| 2 Halls | 二間㕔 | Naw ~~„~~(koi) tia |
-| 3 Houses | 三間厝 | Sa ~~„~~(koi) chu |
-| 1 Tree | 一~~𣜒~~(欉)樹 | Chĕk *chang* chiw |
-| 2 Plants | 二~~𣜒~~(欉)花 | Naw ~~„~~(chang) hʼuey |
-| 3 Weeds | 三~~𣜒~~(欉)草 | Sa ~~„~~(chang) chaou |
-| ~~4~~(1) ~~Flowers~~(Flower) | 一蕊花 | Chĕk *lui* huey |
+| 2 Halls | 二間㕔 | Naw koi tia |
+| 3 Houses | 三間厝 | Sa koi chu |
+| 1 Tree | 一欉樹 | Chĕk *chang* chiw |
+| 2 Plants | 二欉花 | Naw chang hʼuey |
+| 3 Weeds | 三欉草 | Sa chang chaou |
+| 1 Flower | 一蕊花 | Chĕk *lui* huey |
 | 1 Compound | 一圍厝 | Chĕk *ui* chu |
-| 2 Flower gardens | 二圍花園 | Naw ~~„~~(ui) huey hñg |
-| 3 Vegetable gardens | 三圍菜園 | Sa ~~„~~(ui) chai hñg |
+| 2 Flower gardens | 二圍花園 | Naw ui huey hñg |
+| 3 Vegetable gardens | 三圍菜園 | Sa ui chai hñg |
 | 1 Book | 一本書冊 | Chĕk *pung* chŭr chĕ |
-| 2 Blank books | 二本書簿 | Naw ~~„~~(pung) siou pou |
+| 2 Blank books | 二本書簿 | Naw pung siou pou |
 | 1 Sentence | 一句書 | Chĕk *ku* chŭr |
-| 2 Remarks | 二句話 | Naw ~~„~~(ku) wey |
+| 2 Remarks | 二句話 | Naw ku wey |
 
 <!-- page:60 -->
 
@@ -1754,9 +1754,9 @@ aou | as ou in *plough, our, sour*. |
 | 11 to 1 A.M. | 子 | Chŭr |
 | 1 to 3 | 丑 | Tiw |
 | 3 to 5 | 寅 | In |
-| 5 to 7 | ~~邜~~(卯) | Baou |
+| 5 to 7 | 卯 | Baou |
 | 7 to 9 | 辰 | Sin |
-| 9 to 11 | ~~已~~(巳) | Chi |
+| 9 to 11 | 巳 | Chi |
 | 11 to 1 P.M. | 午 | Gñou |
 | 1 to 3 | 未 | Bi |
 | 3 to 5 | 申 | Sin |

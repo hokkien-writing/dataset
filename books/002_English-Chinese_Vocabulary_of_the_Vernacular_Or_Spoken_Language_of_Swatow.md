@@ -6396,7 +6396,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hatchet**, póu-thâu++(斧頭)++.
 
-**hate**, lóu++(惱)++; lóu-hṳ̃n++(惱恨)++; uàn-hṳ̃n++(怨恨)++; uàn-chhiû++(怨仇)++; ù++(煦)++. *hateful*, khó-ù++(可惡)++; khó-lóu++(可惱)++; khó-cheng khó-ù++(可憎可惡)++; tshūa-nâng-lóu++(𤆬人惱)++.
+**hate**, lóu++(惱)++; lóu-hṳ̃n++(惱恨)++; uàn-hṳ̃n++(怨恨)++; uàn-chhiû++(怨仇)++; ù++(惡)++. *hateful*, khó-ù++(可惡)++; khó-lóu++(可惱)++; khó-cheng khó-ù++(可憎可惡)++; tshūa-nâng-lóu++(𤆬人惱)++.
 
 **haughty**, kiau-ngãu++(驕傲)++; thóiⁿ-nâng m̄-khí++(睇人毋起)++; bô-lói-mãuⁿ++(無禮貌)++; ma̍k-khang khuah++(目空闊)++.
 
