@@ -268,7 +268,7 @@ aou | as ou in plough, our, sour. |
 | Bend this bow | ~~押~~(拗)彎~~只~~(此)弓 | A-wan chi keng |
 | Bring your book | ~~而~~(汝)~~個~~(个)冊挈來 | Lur kai chĕ,khiĕ lai |
 | Begin to-day | 今日起頭 | Kim jit khi taou |
-| By and by he will come | 霎時伊來 | Kun-kia i lai |
+| By and by he will come | ~~霎時~~(頃囝)伊來 | Kun-kia i lai |
 | Be attentive to your books | 謹心~~看~~(睇)冊 | Kurn sim toi chĕ |
 | Be obedient to your teacher | 孝順先生 | Haou sun sin-sey |
 | Come here | 來~~止~~(此) | Lai chi |
@@ -368,7 +368,7 @@ aou | as ou in plough, our, sour. |
 | Is it true | 有眞~~麽~~(咩) | U chia,mĕ |
 | Is your father well | ~~爾~~(汝)亞爹有好~~麽~~(咩) | Lur a-tia u haw,mĕ |
 | Is this your pencil | 此筆是~~爾~~(汝)~~箇~~(个)~~麽~~(咩) | Chi pit si lur kai mĕ |
-| It is past four o'clock | 有四點外鐘了 | U si tiem goa cheng |
+| It is past four o'clock | 有四點外鐘~~了~~ | U si tiem goa cheng |
 | Jump down | 跳落 | Thiou lŏ |
 | Japan is near to China | 日本近唐山 | Jit-pun kurn Tung-sua |
 | Knock at the door | ~~打~~(拍)門 | Pă mung |
@@ -436,7 +436,7 @@ aou | as ou in plough, our, sour. |
 | Very well, take it | ~~稱釆~~(凊彩)挈去 | Chin-chai,khiĕ khur |
 | What is your name | ~~爾~~(汝)是乜名 | Lur si mi mia |
 | What is your age | 有若~~多~~(㩼)歲 | U jiĕ choi huey |
-| Where do you live | ~~爾~~(汝)住值處 | Lua toa ti taw |
+| Where do you live | ~~爾~~(汝)住~~值~~(底)處 | Lua toa ti taw |
 | What do you want | ~~爾~~(汝)欲甚物 | Lur ai si muĕ |
 | Which is the one | ~~那~~(底)箇是 | Ti kai si |
 | When did you arrive | ~~爾~~(汝)~~值~~(底)時到 | Lur ti-si kaou |
@@ -692,7 +692,7 @@ aou | as ou in plough, our, sour. |
 | Loquacious | ~~多~~(㩼)話 | Choi wey |
 | Eloquent | 口才 | Kaou chai |
 | Stammering | 大舌 | Toa chĭ |
-| Obscene | 粗口 | Chou chui |
+| Obscene | 粗~~口~~(喙) | Chou chui |
 | A lean face | 面瘦 | Min san |
 | A smiling face | 笑面 | Chie min |
 | Having a reputation | 有面 | U min |
@@ -702,7 +702,7 @@ aou | as ou in plough, our, sour. |
 | Brothers are like hands and feet | 兄弟如手足 | Hia ti ju chiw chok |
 | Strike with the fist | 拳頭~~打~~(拍) | Kun taou pă |
 | He has not yet commenced | 未~~嘗~~(曾)開手 | Boe cheng kui chiw |
-| Pass from one hand to the other | 左手交右手 | Chia chiw kaou taw chiw |
+| Pass from one hand to the other | ~~左~~(正)手交~~右~~(倒)手 | Chia chiw kaou taw chiw |
 | He cannot move hand or foot | ~~脚~~(骹)手~~不~~(毋)能舉 | Kha chiw mʼoi tin tang |
 | He lives from hand to mouth | 左手挈、右手去 | Chaw chiw khiĕ,yiw chiw khur |
 | He is always busy | ~~脚~~(骹)手無時歇 | Kha chiw baw si hiă |
@@ -751,7 +751,7 @@ aou | as ou in plough, our, sour. |
 | Grief | 哀 | Ai |
 | Pleasure | 樂 | Lăk |
 | Jealousy | 疑惑 | Gi hok |
-| Compassion | 慈悲 | Chur p[illegible text] |
+| Compassion | 慈悲 | Chur p? |
 
 <!-- page:34 -->
 
@@ -838,13 +838,13 @@ aou | as ou in plough, our, sour. |
 | He is extremely covetous | 伊貪吝之極 | I tʼham lien chŭr kĕk |
 | He is very skillful | 伊有名家~~極~~(在) | I u mia key chai |
 | Having a wise man's capacity | 有賢人之才 | U gaou nang chŭr chai |
-| The word of the just can be relied upon | 義者話有定着 | Gni chia kai wey u tia tiŏ |
-| Frugality leads to plenty | 積儉正有銀存 | Chĕk kiem chia, u gñurn chun |
+| The word of the just can be relied upon | 義者++个++話有定着 | Gni chia kai wey u tia tiŏ |
+| Frugality leads to plenty | 積儉~~正~~(者)有銀存 | Chĕk kiem chia, u gñurn chun |
 | Faith in Jesus secures pardon for sin | 信耶穌得赦罪 | Sin Ya sou tĭt sia chuey |
 | God is infinitely just | 神天至公道 | Sin Tien chi kong taou |
 | Truly I do not deceive you | 眞實無騙~~爾~~(汝) | Chin sĭt baw pien lŭr |
 | The wicked have no peace | 惡人心無平安 | Ak nang sim baw peng an |
-| He is constantly doing thus | 常常伊行如此 | Sie sie i kia chiĕ say |
+| He is constantly doing thus | 常常伊行~~如此~~(這生) | Sie sie i kia chiĕ say |
 | Zealous in propagating the truth | 熱心傳眞道理 | Juă sim tuan chin taw li |
 
 <!-- page:37 -->
