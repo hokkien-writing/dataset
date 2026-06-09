@@ -1653,25 +1653,26 @@ aou | as ou in plough, our, sour. |
 
 |  |  |  |
 |---|---|---|
-| 1 Bed | 一張眠床 | *tie* min chŭng |
-| 2 Carriages | 二張馬車 | bey chia |
-| 3 Looms | 三張扣機 | kaou kui |
-| 4 Wheels | 四張紡車 | pang chia |
-| 5 Sheets of paper | 五張紙 | chua |
-| 6 Nets | 六張網 | mang |
-| 1 Room | 一間房 | *koi* pang |
-| 2 Halls | 二間㕔 | tia |
-| 3 Houses | 三間厝 | chu |
-| 1 Tree | 一~~𣜒~~(欉)樹 | *chang* chiw |
-| 2 Plants | 二~~𣜒~~(欉)花 | hʼuey |
-| 3 Weeds | 三~~𣜒~~(欉)草 | chaou |
-| 1 Compound | 一圍厝 | *ui* chu |
-| 2 Flower gardens | 二圍花園 | huey hñg |
-| 3 Vegetable gardens | 三圍菜園 | chai hñg |
-| 1 Book | 一本書冊 | *pung* chŭr chĕ |
-| 2 Blank books | 二本書簿 | siou pou |
-| 1 Sentence | 一句書 | *ku* chŭr |
-| 2 Remarks | 二句話 | wey |
+| 1 Bed | 一張眠床 | Chĕk *tie* min chŭng |
+| 2 Carriages | 二張馬車 | Naw ~~„~~(tie) bey chia |
+| 3 Looms | 三張扣機 | Sa ~~„~~(tie) kaou kui |
+| 4 Wheels | 四張紡車 | Si ~~„~~(tie) pang chia |
+| 5 Sheets of paper | 五張紙 | Gñou ~~„~~(tie) chua |
+| 6 Nets | 六張網 | Lak ~~„~~(tie) mang |
+| 1 Room | 一間房 | Chĕk *koi* pang |
+| 2 Halls | 二間㕔 | Naw ~~„~~(koi) tia |
+| 3 Houses | 三間厝 | Sa ~~„~~(koi) chu |
+| 1 Tree | 一~~𣜒~~(欉)樹 | Chĕk *chang* chiw |
+| 2 Plants | 二~~𣜒~~(欉)花 | Naw ~~„~~(chang) hʼuey |
+| 3 Weeds | 三~~𣜒~~(欉)草 | Sa ~~„~~(chang) chaou |
+| ~~4~~(1) ~~Flowers~~(Flower) | 一蕊花 | Chĕk *lui* huey |
+| 1 Compound | 一圍厝 | Chĕk *ui* chu |
+| 2 Flower gardens | 二圍花園 | Naw ~~„~~(ui) huey hñg |
+| 3 Vegetable gardens | 三圍菜園 | Sa ~~„~~(ui) chai hñg |
+| 1 Book | 一本書冊 | Chĕk *pung* chŭr chĕ |
+| 2 Blank books | 二本書簿 | Naw ~~„~~(pung) siou pou |
+| 1 Sentence | 一句書 | Chĕk *ku* chŭr |
+| 2 Remarks | 二句話 | Naw ~~„~~(ku) wey |
 
 <!-- page:58 -->
 
@@ -1718,7 +1719,7 @@ aou | as ou in plough, our, sour. |
 | 3 to 5 | 寅 | In |
 | 5 to 7 | 邜 | Baou |
 | 7 to 9 | 辰 | Sin |
-| 9 to 11 | 已 | Chi |
+| 9 to 11 | ~~已~~(巳) | Chi |
 | 11 to 1 P.M. | 午 | Gñou |
 | 1 to 3 | 未 | Bi |
 | 3 to 5 | 申 | Sin |
