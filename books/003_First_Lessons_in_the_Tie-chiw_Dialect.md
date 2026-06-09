@@ -1049,7 +1049,7 @@ aou | as ou in plough, our, sour. |
 | Post | 柱 | Tiou |
 | Brace | 抵 | Tu |
 | Rafters | 桷 | Kak |
-| Wall | 𫮰 | Chie |
+| Wall | ~~𫮰~~(牆) | Chie |
 | Partition | 壁 | Piăh |
 | Corner | 四角 | Si kak |
 | Roof | 厝頂 | Chu teng |
