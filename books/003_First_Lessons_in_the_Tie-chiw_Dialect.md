@@ -783,7 +783,7 @@ aou | as ou in *plough, our, sour*. |
 | To perspire freely | 汗流~~多~~(㩼) | Kua laou choi |
 | I don't see it | 我~~看~~(睇)~~不~~(毋)見 | Ua toi mʼkien |
 | I don't understand | 聽~~不~~(毋)~~識~~(別) | Tʼhia mʼpat |
-| Taste & see if it is good | ~~嘗~~(嚐)~看~~(睇)好 | Sie,toi haw |
+| Taste & see if it is good | ~~嘗~~(嚐)~~看~~(睇)好 | Sie,toi haw |
 | He is pleased | 伊心歡喜 | I sim hoa hi |
 | Love all men | 愛~~衆~~(眾)人 | Ai cheng nang |
 | He is very angry | 伊氣~~極~~(在) | I kʼhi chai |
