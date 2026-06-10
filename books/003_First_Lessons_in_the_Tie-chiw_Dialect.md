@@ -1238,7 +1238,7 @@ aou | as ou in *plough, our, sour*. |
 |  |  |  |
 |---|---|---|
 | Seal character | 篆字 | Toan ji |
-| German text | 𨽾書 | Tí chŭr |
+| German text | ~~𨽾~~(隸)書 | Tí chŭr |
 | Italic | 楷書 | Kʼhai chŭr |
 | Running hand | 行書 | Hang su |
 | Short hand | 草字 | Chaw ji |
