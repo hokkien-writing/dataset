@@ -142,8 +142,8 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Khṳ̀ ē,Kkur ey,,,去下,,Go down,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
 *Kia kí-khì tsò,Lur ka-ki chaw,,,汝家己去做,爾自己去做,Do it yourself,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
 *Kiau ngàu,Kiou gnaou,,,驕傲,,Pride,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
-*Kim-ji̍t i bô lâi,Kim-jit i baw lai,,,今日伊無來,,He did not come to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
-*Kim-ji̍t pit tiāⁿ àiⁿ khṳ̀,Kim-jit pit tia ai khur,,,今日必定欲去,,We shall surely go to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Kim-ji̍t i bô lâi,Kim-jit i baw lai,,,今日伊無來,,He did not come today,He did not come to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,22
+*Kim-ji̍t pit tiāⁿ àiⁿ khṳ̀,Kim-jit pit tia ai khur,,,今日必定欲去,,We shall surely go today,We shall surely go to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
 *Kong tãu,Kong taou,,,公道,,Justice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
 *Kut chi̍h lióu,Kŭt chĭ liou,,,骨折了,,The bone is broken,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
 *Kâi kài hûe-sièⁿ bô tsai,Lur kai hue-sie baw chai,,,汝個~~(个)和尙無知,爾~~箇~~(个)和尙無知,Your priests are ignorant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
@@ -177,7 +177,7 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Lṳ́ eng-kai hùe kói,Lur eng-kai huay koi,,,汝應該悔改,爾應該悔攺,You ought to repent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Lṳ́ ka sàu ũ jie̍h kú,Lur ka saou u jiĕ ku,,,汝咳嗽有若久,爾咳𠻳有若久,How long have you had a cough,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
 "*Lṳ́ khéng khṳ̀,meh","Lur kheng khur,mĕ",,,汝肯去咩,爾肯去麽,Will you go or not,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
-*Lṳ́ kim ji̍t kà àn lâi,Lur kim jit kă ua lai,,,汝今日較宴來,爾今日太宴來,You are late to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
+*Lṳ́ kim ji̍t kà ùaⁿ lâi,Lur kim jit kă ua lai,,,汝今日較晏來,爾今日太宴來,You are late today,You are late to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
 "*Lṳ́ kài chheh,khie̍h lâi","Lur kai chĕ,khiĕ lai",,,汝个冊挈來,而個冊挈來,Bring your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
 *Lṳ́ kài lêng-hûn ũ kùi,Lur kai leng-hun u kui,,,汝个靈魂有貴,爾個靈魂有貴,Your soul is precious,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Lṳ́ kài seⁿ-miāⁿ put kú,Lur kai sey-mia put ku,,,汝个生命不久,爾個生命不久,Your life is short,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
@@ -699,8 +699,8 @@ Kih kau,Tĭ kaou,,,頰溝,臉頣,Cheek,,,,003_First_Lessons_in_the_Tie-chiw_Dial
 Kim,,,,金,,Gold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,18
 Kim,,,,金,,Gold,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,50
 Kim ji̍t,Kim jit,,,今日,,To day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
-Kim ji̍t khí thâu,Kim jit khi taou,,,今日起頭,,Begin to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
-Kim ji̍t zua̍h tsãi,Kim jit juă chai,,,今日熱在,今日熱極,It is very hot to-day,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
+Kim ji̍t khí thâu,Kim jit khi taou,,,今日起頭,,Begin today,Begin to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect,19
+Kim ji̍t zua̍h tsãi,Kim jit juă chai,,,今日熱在,今日熱極,It is very hot today,It is very hot to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect,23
 Kim kue,,,,金瓜,,Pumpkin,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,51
 Kim nî,Kim ni,,,今年,,This year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,52
 "Kim nî,bí ũ kùi","Kim ni,bi u kui",,,今年米有貴,,Rice is dear this year,,,,003_First_Lessons_in_the_Tie-chiw_Dialect,25

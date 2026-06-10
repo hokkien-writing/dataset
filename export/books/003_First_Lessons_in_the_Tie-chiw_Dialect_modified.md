@@ -272,7 +272,7 @@ aou | as ou in *plough, our, sour*. |
 | Bring some water | 擔水 | Ta chui |
 | Bend this bow | 拗彎此弓 | A-wan chi keng |
 | Bring your book | 汝个冊挈來 | Lur kai chĕ,khiĕ lai |
-| Begin to-day | 今日起頭 | Kim jit khi taou |
+| Begin today | 今日起頭 | Kim jit khi taou |
 | By and by he will come | 頃囝伊來 | Kun-kia i lai |
 | Be attentive to your books | 謹心睇冊 | Kurn sim toi chĕ |
 | Be obedient to your teacher | 孝順先生 | Haou sun sin-sey |
@@ -352,7 +352,7 @@ aou | as ou in *plough, our, sour*. |
 | Has your brother recovered | 汝阿弟痊愈未 | Lur a-ti chuan-ju,bue |
 | How much money have you | 汝有若㩼銀 | Lur u jiĕ choi gnurn |
 | How long have you lived here | 汝住此若久 | Lur toa chi jiĕ-ku |
-| He did not come to-day | 今日伊無來 | Kim-jit i baw lai |
+| He did not come today | 今日伊無來 | Kim-jit i baw lai |
 | He cares for nobody | 伊毋畏人 | I mʼui nang |
 
 <!-- page:23 -->
@@ -368,7 +368,7 @@ aou | as ou in *plough, our, sour*. |
 | I have never seen him | 我毋別睇見伊 | Ua mʼpat toi ki i |
 | I can't understand | 我聽毋別 | Ua thia mʼpat |
 | I don't know | 我毋知 | Ua mʼchai |
-| It is very hot to-day | 今日熱在 | Kim jit juă chai |
+| It is very hot today | 今日熱在 | Kim jit juă chai |
 | It is hard as a stone | 共石平𠕆 | Kang chiĕ pe tʼoi |
 | Is it true | 有真咩 | U chia,mĕ |
 | Is your father well | 汝亞爹有好咩 | Lur a-tia u haw,mĕ |
@@ -463,7 +463,7 @@ aou | as ou in *plough, our, sour*. |
 | Who is going to Singapore | 底𫢗欲去實力 | Ti tiang ai khur Sit-lat |
 | When do you go on board | 底時落船 | Ti si lŏ chun |
 | What are you doing now | 現在汝做乜事 | Hien-chai lur chaw mi sur |
-| We shall surely go to-day | 今日必定欲去 | Kim-jit pit tia ai khur |
+| We shall surely go today | 今日必定欲去 | Kim-jit pit tia ai khur |
 | Who is interpreter | 底𫢗回話 | Ti-tiang huey wey |
 | We are all well | 我等攏總有好 | Ua-teng long chong u haw |
 | Whether I go or not is uncertain | 去毋去無定着 | Khur mʼkhur baw tia-tiŏ |
@@ -473,7 +473,7 @@ aou | as ou in *plough, our, sour*. |
 | You need not do it | 免用做 | Mien eng chaw |
 | You speak too loud | 汝講較大聲 | Lur kong kă toa sia |
 | Yes, you speak truly | 着、汝講實 | Tiŏ,lur kong sit |
-| You are late to-day | 汝今日較宴來 | Lur kim jit kă ua lai |
+| You are late today | 汝今日較晏來 | Lur kim jit kă ua lai |
 | You have not made it right | 做來毋着 | Chaw lai mʼtiŏ |
 | You don't speak to the point | 講毋對空 | Kong mʼtui khang |
 | You are mistaken | 汝睇錯了 | Lur toi ta liou |

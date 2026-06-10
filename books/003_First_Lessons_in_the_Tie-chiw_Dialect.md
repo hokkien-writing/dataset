@@ -272,7 +272,7 @@ aou | as ou in *plough, our, sour*. |
 | Bring some water | 擔水 | Ta chui |
 | Bend this bow | ~~押~~(拗)彎~~只~~(此)弓 | A-wan chi keng |
 | Bring your book | ~~而~~(汝)~~個~~(个)冊挈來 | Lur kai chĕ,khiĕ lai |
-| Begin to-day | 今日起頭 | Kim jit khi taou |
+| Begin ~~to-day~~(today) | 今日起頭 | Kim jit khi taou |
 | By and by he will come | ~~霎時~~(頃囝)伊來 | Kun-kia i lai |
 | Be attentive to your books | 謹心~~看~~(睇)冊 | Kurn sim toi chĕ |
 | Be obedient to your teacher | 孝順先生 | Haou sun sin-sey |
@@ -352,7 +352,7 @@ aou | as ou in *plough, our, sour*. |
 | Has your brother recovered | ~~爾~~(汝)~~亞弟~~(阿弟)痊愈~~否~~(未) | Lur a-ti chuan-ju,bue |
 | How much money have you | ~~爾~~(汝)有若~~多~~(㩼)銀 | Lur u jiĕ choi gnurn |
 | How long have you lived here | ~~爾~~(汝)住此若久 | Lur toa chi jiĕ-ku |
-| He did not come to-day | 今日伊無來 | Kim-jit i baw lai |
+| He did not come ~~to-day~~(today) | 今日伊無來 | Kim-jit i baw lai |
 | He cares for nobody | 伊~~不~~(毋)畏人 | I mʼui nang |
 
 <!-- page:23 -->
@@ -368,7 +368,7 @@ aou | as ou in *plough, our, sour*. |
 | I have never seen him | 我~~不~~(毋)~~識~~(別)~~看~~(睇)見伊 | Ua mʼpat toi ki i |
 | I can't understand | 我聽~~不~~(毋)~~識~~(別) | Ua thia mʼpat |
 | I don't know | 我~~不~~(毋)知 | Ua mʼchai |
-| It is very hot to-day | 今日熱~~極~~(在) | Kim jit juă chai |
+| It is very hot ~~to-day~~(today) | 今日熱~~極~~(在) | Kim jit juă chai |
 | It is hard as a stone | 共石平𠕆 | Kang chiĕ pe tʼoi |
 | Is it true | 有~~眞~~(真)~~麽~~(咩) | U chia,mĕ |
 | Is your father well | ~~爾~~(汝)亞爹有好~~麽~~(咩) | Lur a-tia u haw,mĕ |
@@ -463,7 +463,7 @@ aou | as ou in *plough, our, sour*. |
 | Who is going to Singapore | ~~誰人~~(底𫢗)欲去實力 | Ti tiang ai khur Sit-lat |
 | When do you go on board | ~~何~~(底)時落船 | Ti si lŏ chun |
 | What are you doing now | 現在~~爾~~(汝)做乜事 | Hien-chai lur chaw mi sur |
-| We shall surely go to-day | 今日必定欲去 | Kim-jit pit tia ai khur |
+| We shall surely go ~~to-day~~(today) | 今日必定欲去 | Kim-jit pit tia ai khur |
 | Who is interpreter | ~~誰人~~(底𫢗)~~囘~~(回)話 | Ti-tiang huey wey |
 | We are all well | 我等~~籠總~~(攏總)有好 | Ua-teng long chong u haw |
 | Whether I go or not is uncertain | 去~~不~~(毋)去無定着 | Khur mʼkhur baw tia-tiŏ |
@@ -473,7 +473,7 @@ aou | as ou in *plough, our, sour*. |
 | You need not do it | 免用做 | Mien eng chaw |
 | You speak too loud | ~~爾~~(汝)講~~太~~(較)大聲 | Lur kong kă toa sia |
 | Yes, you speak truly | 着、~~爾~~(汝)講實 | Tiŏ,lur kong sit |
-| You are late to-day | ~~爾~~(汝)今日~~太~~(較)宴來 | Lur kim jit kă ua lai |
+| You are late ~~to-day~~(today) | ~~爾~~(汝)今日~~太~~(較)~~宴~~(晏)來 | Lur kim jit kă ua lai |
 | You have not made it right | 做來~~不~~(毋)着 | Chaw lai mʼtiŏ |
 | You don't speak to the point | 講~~不~~(毋)對空 | Kong mʼtui khang |
 | You are mistaken | ~~爾~~(汝)~~看~~(睇)錯了 | Lur toi ta liou |
