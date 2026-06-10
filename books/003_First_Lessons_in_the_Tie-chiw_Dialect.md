@@ -324,7 +324,7 @@ aou | as ou in *plough, our, sour*. |
 | Empty this out | 倒出 | Taw chut |
 | Enter the school | 入書齋 | Jip chur-chey |
 | Follow me | 隨我 | Sui ua |
-| Find your book | 覓~~爾~~(汝)~~~~箇~~(個)~~(个)書冊 | Chuey lur kai chur-chĕ |
+| Find your book | 覓~~爾~~(汝)~~箇~~(个)書冊 | Chuey lur kai chur-chĕ |
 | Forgive your foes | 赦免~~爾~~(汝)敵 | Sia-mien lur tek |
 | Fill it full | 倒~~滿~~(漲) | Taw ti |
 | Feel of this | 摸~~只~~(此)~~箇~~(個)物 | Mong chi kai muĕ |
@@ -372,7 +372,7 @@ aou | as ou in *plough, our, sour*. |
 | It is hard as a stone | 共石平𠕆 | Kang chiĕ pe tʼoi |
 | Is it true | 有~~眞~~(真)~~麽~~(咩) | U chia,mĕ |
 | Is your father well | ~~爾~~(汝)亞爹有好~~麽~~(咩) | Lur a-tia u haw,mĕ |
-| Is this your pencil | 此筆是~~爾~~(汝)~~~~箇~~(個)~~(个)~~麽~~(咩) | Chi pit si lur kai mĕ |
+| Is this your pencil | 此筆是~~爾~~(汝)~~箇~~(个)~~麽~~(咩) | Chi pit si lur kai mĕ |
 | It is past four o'clock | 有四點外鐘~~了~~ | U si tiem goa cheng |
 | Jump down | 跳落 | Thiou lŏ |
 | Japan is near to China | 日本近唐山 | Jit-pun kurn Tung-sua |
@@ -498,7 +498,7 @@ aou | as ou in *plough, our, sour*. |
 | You have no merit | ~~爾~~(汝)無功勞 | Lur baw kong-laou |
 | Your sins are many | ~~爾~~(汝)有罪加加 | Lur u chuey key key |
 | Your gods cannot save you | ~~爾~~(汝)神不能救人 | Lur kai sin put neng kiw nang |
-| Your priests are ignorant | ~~爾~~(汝)~~~~箇~~(個)~~(个)和尙無知 | Lur kai hue-sie baw chai |
+| Your priests are ignorant | ~~爾~~(汝)~~箇~~(个)和尙無知 | Lur kai hue-sie baw chai |
 | Your religion is false | ~~爾~~(汝)教有假 | Lur kai ka,u key |
 | Your soul is precious | ~~爾~~(汝)~~個~~(个)靈魂有貴 | Lur kai leng-hun u kui |
 | Your life is short | ~~爾~~(汝)~~個~~(个)生命不久 | Lur kai sey-mia put ku |
@@ -924,7 +924,7 @@ aou | as ou in *plough, our, sour*. |
 | The mind of the foolish is unstable | ~~顚~~(痟)人心神無定 | Siow nang sim sin baw tia |
 | How long have you had a cough | ~~爾~~(汝)咳~~𠻳~~(嗽)有若久 | Lur ka saou u jiĕ ku |
 | He has a number of boils | 伊生幾粒~~瘣~~(㿗) | I sey kui liep tue |
-| Has your child had the small pox | ~~爾~~(汝)~~~~箇~~(個)~~(个)~~子~~(囝)出~~痘~~(珠)未 | Lur kai kia chut chu boe |
+| Has your child had the small pox | ~~爾~~(汝)~~箇~~(个)~~子~~(囝)出~~痘~~(珠)未 | Lur kai kia chut chu boe |
 | Do you understand inoculation | ~~爾~~(汝)能種~~痘~~(珠)~~麽~~(咩) | Lur oi cheng chu mĕ |
 | This child has worms | 此~~亞孥子~~(阿孥囝)疳癪 | Chi a nou kia u kam chek |
 | My eyes are sore & I can not read | ~~目珠~~(目睭)痛~~不~~(毋)能讀 | Măk chiw tia mʼoi tak |
