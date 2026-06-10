@@ -324,7 +324,7 @@ aou | as ou in *plough, our, sour*. |
 | Empty this out | 倒出 | Taw chut |
 | Enter the school | 入書齋 | Jip chur-chey |
 | Follow me | 隨我 | Sui ua |
-| Find your book | 覓爾箇(个)書冊 | Chuey lur kai chur-chĕ |
+| Find your book | 覓爾箇書冊 | Chuey lur kai chur-chĕ |
 | Forgive your foes | 赦免爾敵 | Sia-mien lur tek |
 | Fill it full | 倒滿 | Taw ti |
 | Feel of this | 摸只箇物 | Mong chi kai muĕ |
@@ -372,7 +372,7 @@ aou | as ou in *plough, our, sour*. |
 | It is hard as a stone | 共石平𠕆 | Kang chiĕ pe tʼoi |
 | Is it true | 有眞麽 | U chia,mĕ |
 | Is your father well | 爾亞爹有好麽 | Lur a-tia u haw,mĕ |
-| Is this your pencil | 此筆是爾箇(个)麽 | Chi pit si lur kai mĕ |
+| Is this your pencil | 此筆是爾箇麽 | Chi pit si lur kai mĕ |
 | It is past four o'clock | 有四點外鐘了 | U si tiem goa cheng |
 | Jump down | 跳落 | Thiou lŏ |
 | Japan is near to China | 日本近唐山 | Jit-pun kurn Tung-sua |
@@ -498,7 +498,7 @@ aou | as ou in *plough, our, sour*. |
 | You have no merit | 爾無功勞 | Lur baw kong-laou |
 | Your sins are many | 爾有罪加加 | Lur u chuey key key |
 | Your gods cannot save you | 爾神不能救人 | Lur kai sin put neng kiw nang |
-| Your priests are ignorant | 爾箇(个)和尙無知 | Lur kai hue-sie baw chai |
+| Your priests are ignorant | 爾箇和尙無知 | Lur kai hue-sie baw chai |
 | Your religion is false | 爾教有假 | Lur kai ka,u key |
 | Your soul is precious | 爾個靈魂有貴 | Lur kai leng-hun u kui |
 | Your life is short | 爾個生命不久 | Lur kai sey-mia put ku |
@@ -783,7 +783,7 @@ aou | as ou in *plough, our, sour*. |
 | To perspire freely | 汗流多 | Kua laou choi |
 | I don't see it | 我看不見 | Ua toi mʼkien |
 | I don't understand | 聽不識 | Tʼhia mʼpat |
-| Taste & see if it is good | 嘗~看~~(睇)好 | Sie,toi haw |
+| Taste & see if it is good | 嘗看好 | Sie,toi haw |
 | He is pleased | 伊心歡喜 | I sim hoa hi |
 | Love all men | 愛衆人 | Ai cheng nang |
 | He is very angry | 伊氣極 | I kʼhi chai |
@@ -924,7 +924,7 @@ aou | as ou in *plough, our, sour*. |
 | The mind of the foolish is unstable | 顚人心神無定 | Siow nang sim sin baw tia |
 | How long have you had a cough | 爾咳𠻳有若久 | Lur ka saou u jiĕ ku |
 | He has a number of boils | 伊生幾粒瘣 | I sey kui liep tue |
-| Has your child had the small pox | 爾箇(个)子出痘未 | Lur kai kia chut chu boe |
+| Has your child had the small pox | 爾箇子出痘未 | Lur kai kia chut chu boe |
 | Do you understand inoculation | 爾能種痘麽 | Lur oi cheng chu mĕ |
 | This child has worms | 此亞孥子疳癪 | Chi a nou kia u kam chek |
 | My eyes are sore & I can not read | 目珠痛不能讀 | Măk chiw tia mʼoi tak |

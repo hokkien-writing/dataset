@@ -42,12 +42,12 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Chiàⁿ chhiú kau tò chhiú,Chia chiw kaou taw chiw,,,正手交倒手,左手交右手,Pass from one hand to the other,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,34
 *Chiàⁿ gu̍eh,Chia guĕ,,,正月,,First month,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,52
 *Chiàⁿ gu̍eh,Chia guĕ,,,正月,,1st month Feb.,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,61
-*Chí chheh tî kò ìn,Chi chĕ ti taw in,,,此冊底塊印,此冊值處印,Where was this book printed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Chí chheh tî kò ìn,Chi chĕ ti taw in,,,此冊底塊？印,此冊值處印,Where was this book printed,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
 *Chí mue̍h chiè hó,Chi muĕ chie haw,,,此物照好,此物掌好,Keep this safely,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
 *Chí mue̍h khie̍h khṳ̀ lâu-téng,Chi muĕ khiĕ khur laou-teng,,,此物挈去樓頂,只物挈去樓頂,Carry this up stairs,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
 *Chí mue̍h khie̍h tńg khṳ̀,Chi muĕ khiĕ tung khur,,,此物挈轉去,只物挈轉去,Carry this back,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
 "*Chí mue̍h,khie̍h khṳ̀ pãu ji̍t","Chi muĕ,khiĕ khur pak jit",,,此物挈去曝日,,Put this in the sun,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
-*Chí pit sĩ lṳ́ kâi meh,Chi pit si lur kai mĕ,,,此筆是汝個咩,此筆是爾~~箇(个)~~麽,Is this your pencil,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
+*Chí pit sĩ lṳ́ kài meh,Chi pit si lur kai mĕ,,,此筆是汝个咩,此筆是爾箇麽,Is this your pencil,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,23
 "*Chí sieⁿ,khie̍h khí lâi","Chi sie,kiĕ ki lai",,,此箱挈起來,,Lift up this box,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
 "*Chí ti,lṳ́ tāu lâi liām","Chi kai,lur tak lai niem",,,此的汝讀來唸,此的爾讀來唸,You must learn this by heart,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Chí ēng tsò mi sṳ̄,Chi eng chaw mi sur,,,此用做乜事,,What is this for,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
@@ -80,7 +80,7 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *I chheⁿ mê thì m̃ kìⁿ,I chey mey toi mʼki,,,伊青盲看毋見,伊瞽目看不見,He is blind & cannot see,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
 *I ho̍k,I hok,,,衣服,,Clothes,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,53
 *I jī-tsa̍p gūa hùe,I ji-chap goa huey,,,伊二十外歲,,She is upwards of twenty,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25
-*I khṳ̀ tî-kò,I khur ti-taw,,,伊去底塊,伊去值處,Where has he gone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*I khṳ̀ tî-kò,I khur ti-taw,,,伊去底塊？,伊去值處,Where has he gone,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
 *I kiau ngàu m̃ khéng thiaⁿ,I kiou gnaou mʼkeng thia,,,伊驕傲毋肯聽,伊驕傲不肯聽,He is proud & will not listen,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
 *I kóng sĩm mi sṳ̄,I kong si mi sur,,,伊講甚乜事,,What does he say,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
 "*I kū ì, m̃ tāu","I ku i, mʼtak",,,伊故意毋讀,伊故意不讀,He is willful & will not read,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
@@ -146,7 +146,6 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Kim-ji̍t pit tiāⁿ àiⁿ khṳ̀,Kim-jit pit tia ai khur,,,今日必定欲去,,We shall surely go today,We shall surely go to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
 *Kong tãu,Kong taou,,,公道,,Justice,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,37
 *Kut chi̍h lióu,Kŭt chĭ liou,,,骨折了,,The bone is broken,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
-*Kâi kài hûe-sièⁿ bô tsai,Lur kai hue-sie baw chai,,,汝個~~(个)和尙無知,爾~~箇~~(个)和尙無知,Your priests are ignorant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Kìm chí,Kim chi,,,禁止,,Jailers,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
 *Kóng m̃ tùi khang,Kong mʼtui khang,,,講毋對空,講不對空,You don't speak to the point,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
 *Kóu bûn,Kou bun,,,古文,,Ancient literature,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,47
@@ -179,10 +178,10 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 "*Lṳ́ khéng khṳ̀,meh","Lur kheng khur,mĕ",,,汝肯去咩,爾肯去麽,Will you go or not,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
 *Lṳ́ kim ji̍t kà ùaⁿ lâi,Lur kim jit kă ua lai,,,汝今日較晏來,爾今日太宴來,You are late today,You are late to-day,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
 "*Lṳ́ kài chheh,khie̍h lâi","Lur kai chĕ,khiĕ lai",,,汝个冊挈來,而個冊挈來,Bring your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
+*Lṳ́ kài hûe-sièⁿ bô tsai,Lur kai hue-sie baw chai,,,汝个和尙無知,爾箇和尙無知,Your priests are ignorant,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
+*Lṳ́ kài kiáⁿ tshut tsu būe,Lur kai kia chut chu boe,,,汝个囝出珠未,爾箇子出痘未,Has your child had the small pox,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
 *Lṳ́ kài lêng-hûn ũ kùi,Lur kai leng-hun u kui,,,汝个靈魂有貴,爾個靈魂有貴,Your soul is precious,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Lṳ́ kài seⁿ-miāⁿ put kú,Lur kai sey-mia put ku,,,汝个生命不久,爾個生命不久,Your life is short,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
-*Lṳ́ kâi kiáⁿ tshut tsu būe,Lur kai kia chut chu boe,,,汝個囝出珠未,爾~~箇(个)~~子出痘未,Has your child had the small pox,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
-*Lṳ́ kâi kài tsṳ-chheh,Chuey lur kai chur-chĕ,,,覓汝個~~(个)書冊,覓爾~~箇~~(个)書冊,Find your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
 "*Lṳ́ kāng i sie pat,bô","Lur kang i sie pat,baw",,,汝共伊相別無,爾共伊相識麽,Do you know him?,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,20
 *Lṳ́ lêng chèng tsu meh,Lur oi cheng chu mĕ,,,汝能種珠咩,爾能種痘麽,Do you understand inoculation,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,40
 *Lṳ́ m̃ khéng hùe kói,Lur mʼkheng huey koi,,,汝毋肯悔改,爾不肯悔攺,You will not repent,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
@@ -190,7 +189,7 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Lṳ́ put lêng kiù ka kí,Lur put neng kiw ka ki,,,汝不能救家己,爾不能救自己,You cannot save yourself,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Lṳ́ sí-ji̍t chiang kṳ̃n,Lut si-jit chiang kurn,,,汝死日將近,爾死日將近,Your end is near,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,28
 *Lṳ́ thì tshò lióu,Lur toi ta liou,,,汝睇錯了,爾看錯了,You are mistaken,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
-*Lṳ́ tiū tî kò,Lua toa ti taw,,,汝住底塊,爾住值處,Where do you live,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Lṳ́ tiū tî kò,Lua toa ti taw,,,汝住底塊？,爾住值處,Where do you live,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
 *Lṳ́ tsò hó nâng,Lur chaw haw nang,,,汝做好人,爾做好人,Be a good boy,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,19
 *Lṳ́ tî-sî kàu,Lur ti-si kaou,,,汝底時到,爾值時到,When did you arrive,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
 *Mak chi mo,Măk chi maw,,,目眦毛,目𠞁毛,Eye-lash,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,33
@@ -273,6 +272,7 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Siang ha̍h,Siang hă,,,相合,,To agree,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
 *Sie̍h liû tsâng,Siĕ liw chang,,,石榴欉,石榴丨,Pomegranate,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,50
 *Siâng pín,Siang pin,,,上品,,First class,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,42
+"*Siêⁿ,thì hó","Sie,toi haw",,,嚐睇好,嘗看好,Taste & see if it is good,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
 *Siā chióu ma̍k,Sia chiou măk,,,射鳥目,邪鳥目,Squinting,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,39
 *Si̍h tsóiⁿ,Koi choi,,,食指,,Forefinger,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,33
 *So mung,Saw mung,,,鎻門,,Lock the door,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,24
@@ -299,7 +299,6 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Thng,Tŭng,,,湯,,Soup,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,51
 *Thng sî,Tŭng si,,,湯匙,,Spoon,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,45
 *Thng-sî che̍k ki m̃ kièn,Tung-si chek ki mʼkien,,,湯匙一枝毋見,湯匙一枝不見,One spoon is missing,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,24
-"*Thì,thì hó","Sie,toi haw",,,嚐~看~~(睇)好,嘗~看~~(睇)好,Taste & see if it is good,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,36
 *Ti tiang ai khṳ Sit-lat,Ti tiang ai khur Sit-lat,,,底𫢗欲去實力,誰人欲去實力,Who is going to Singapore,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,27
 *Ti-tiang hue we,Ti-tiang huey wey,,,底𫢗回話,誰人囘話,Who is interpreter,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,27
 *Ti-tiang oi kong,Ti-tiang oi kong,,,底𫢗能講,誰個能講,Who can tell,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,26
@@ -331,6 +330,7 @@ puj,puj_orig,poj,poj_orig,han,han_orig,en,en_orig,zh_TW,zh_CN,source,page_num
 *Tshu ngõu,Chiw gñou,,,初五,,5th,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,60
 *Tsháu me,Chaou mè,,,草蜢,,Grasshopper,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,49
 *Tshù ē,Chu ey,,,厝下,,Under the house,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,26
+*Tshūe lṳ́ kài tsṳ-chheh,Chuey lur kai chur-chĕ,,,覓汝个書冊,覓爾箇書冊,Find your book,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,21
 *Tso,Chaw,,,鎈,,File,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > rule,46
 *Tsá nîⁿ bô lêng tsò,I chaw ni mʼoi chaw,,,伊怎呢毋能做,伊怎呢不能做,Why can't he do it,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,27
 *Tsáu khṳ̀ khie̍h hõu-sùaⁿ,Chaou khur khiĕ hou-sua,,,走去挈雨傘,,Run and get the umbrella,,,,003_First_Lessons_in_the_Tie-chiw_Dialect > tiebreak,25

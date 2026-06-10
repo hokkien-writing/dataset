@@ -441,7 +441,7 @@ aou | as ou in *plough, our, sour*. |
 | Very well, take it | ~~稱釆~~(凊彩)挈去 | Chin-chai,khiĕ khur |
 | What is your name | ~~爾~~(汝)是乜名 | Lur si mi mia |
 | What is your age | 有若~~多~~(㩼)歲 | U jiĕ choi huey |
-| Where do you live | ~~爾~~(汝)住~~值~~(底)~~處~~(塊) | Lua toa ti taw |
+| Where do you live | ~~爾~~(汝)住~~值~~(底)~~處~~(塊？) | Lua toa ti taw |
 | What do you want | ~~爾~~(汝)欲甚物 | Lur ai si muĕ |
 | Which is the one | ~~那~~(底)~~箇~~(個)是 | Ti kai si |
 | When did you arrive | ~~爾~~(汝)~~值~~(底)時到 | Lur ti-si kaou |
@@ -450,10 +450,10 @@ aou | as ou in *plough, our, sour*. |
 | What does he say | 伊講甚乜事 | I kong si mi sur |
 | What more do you want | ~~爾~~(汝)欲加甚物 | Lur ai key si muĕ |
 | What is this for | 此用做乜事 | Chi eng chaw mi sur |
-| Where was this book printed | 此冊~~值~~(底)~~處~~(塊)印 | Chi chĕ ti taw in |
+| Where was this book printed | 此冊~~值~~(底)~~處~~(塊？)印 | Chi chĕ ti taw in |
 | Whose house is this | 此厝是~~誰~~(底𫢗)~~個~~(个) | Chi chu,si ti-tiang kai |
 | Who can tell | ~~誰個~~(底𫢗)能講 | Ti-tiang oi kong |
-| Where has he gone | 伊去~~值~~(底)~~處~~(塊) | I khur ti-taw |
+| Where has he gone | 伊去~~值~~(底)~~處~~(塊？) | I khur ti-taw |
 
 <!-- page:27 -->
 

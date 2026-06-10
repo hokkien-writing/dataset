@@ -324,7 +324,7 @@ aou | as ou in *plough, our, sour*. |
 | Empty this out | 倒出 | Taw chut |
 | Enter the school | 入書齋 | Jip chur-chey |
 | Follow me | 隨我 | Sui ua |
-| Find your book | 覓汝(个)書冊 | Chuey lur kai chur-chĕ |
+| Find your book | 覓汝个書冊 | Chuey lur kai chur-chĕ |
 | Forgive your foes | 赦免汝敵 | Sia-mien lur tek |
 | Fill it full | 倒漲 | Taw ti |
 | Feel of this | 摸此個物 | Mong chi kai muĕ |
@@ -372,7 +372,7 @@ aou | as ou in *plough, our, sour*. |
 | It is hard as a stone | 共石平𠕆 | Kang chiĕ pe tʼoi |
 | Is it true | 有真咩 | U chia,mĕ |
 | Is your father well | 汝亞爹有好咩 | Lur a-tia u haw,mĕ |
-| Is this your pencil | 此筆是汝(个)咩 | Chi pit si lur kai mĕ |
+| Is this your pencil | 此筆是汝个咩 | Chi pit si lur kai mĕ |
 | It is past four o'clock | 有四點外鐘 | U si tiem goa cheng |
 | Jump down | 跳落 | Thiou lŏ |
 | Japan is near to China | 日本近唐山 | Jit-pun kurn Tung-sua |
@@ -441,7 +441,7 @@ aou | as ou in *plough, our, sour*. |
 | Very well, take it | 凊彩挈去 | Chin-chai,khiĕ khur |
 | What is your name | 汝是乜名 | Lur si mi mia |
 | What is your age | 有若㩼歲 | U jiĕ choi huey |
-| Where do you live | 汝住底塊 | Lua toa ti taw |
+| Where do you live | 汝住底塊？ | Lua toa ti taw |
 | What do you want | 汝欲甚物 | Lur ai si muĕ |
 | Which is the one | 底個是 | Ti kai si |
 | When did you arrive | 汝底時到 | Lur ti-si kaou |
@@ -450,10 +450,10 @@ aou | as ou in *plough, our, sour*. |
 | What does he say | 伊講甚乜事 | I kong si mi sur |
 | What more do you want | 汝欲加甚物 | Lur ai key si muĕ |
 | What is this for | 此用做乜事 | Chi eng chaw mi sur |
-| Where was this book printed | 此冊底塊印 | Chi chĕ ti taw in |
+| Where was this book printed | 此冊底塊？印 | Chi chĕ ti taw in |
 | Whose house is this | 此厝是底𫢗个 | Chi chu,si ti-tiang kai |
 | Who can tell | 底𫢗能講 | Ti-tiang oi kong |
-| Where has he gone | 伊去底塊 | I khur ti-taw |
+| Where has he gone | 伊去底塊？ | I khur ti-taw |
 
 <!-- page:27 -->
 
@@ -498,7 +498,7 @@ aou | as ou in *plough, our, sour*. |
 | You have no merit | 汝無功勞 | Lur baw kong-laou |
 | Your sins are many | 汝有罪加加 | Lur u chuey key key |
 | Your gods cannot save you | 汝神不能救人 | Lur kai sin put neng kiw nang |
-| Your priests are ignorant | 汝(个)和尙無知 | Lur kai hue-sie baw chai |
+| Your priests are ignorant | 汝个和尙無知 | Lur kai hue-sie baw chai |
 | Your religion is false | 汝教有假 | Lur kai ka,u key |
 | Your soul is precious | 汝个靈魂有貴 | Lur kai leng-hun u kui |
 | Your life is short | 汝个生命不久 | Lur kai sey-mia put ku |
@@ -783,7 +783,7 @@ aou | as ou in *plough, our, sour*. |
 | To perspire freely | 汗流㩼 | Kua laou choi |
 | I don't see it | 我睇毋見 | Ua toi mʼkien |
 | I don't understand | 聽毋別 | Tʼhia mʼpat |
-| Taste & see if it is good | 嚐~看~~(睇)好 | Sie,toi haw |
+| Taste & see if it is good | 嚐睇好 | Sie,toi haw |
 | He is pleased | 伊心歡喜 | I sim hoa hi |
 | Love all men | 愛眾人 | Ai cheng nang |
 | He is very angry | 伊氣在 | I kʼhi chai |
@@ -924,7 +924,7 @@ aou | as ou in *plough, our, sour*. |
 | The mind of the foolish is unstable | 痟人心神無定 | Siow nang sim sin baw tia |
 | How long have you had a cough | 汝咳嗽有若久 | Lur ka saou u jiĕ ku |
 | He has a number of boils | 伊生幾粒㿗 | I sey kui liep tue |
-| Has your child had the small pox | 汝(个)囝出珠未 | Lur kai kia chut chu boe |
+| Has your child had the small pox | 汝个囝出珠未 | Lur kai kia chut chu boe |
 | Do you understand inoculation | 汝能種珠咩 | Lur oi cheng chu mĕ |
 | This child has worms | 此阿孥囝疳癪 | Chi a nou kia u kam chek |
 | My eyes are sore & I can not read | 目睭痛毋能讀 | Măk chiw tia mʼoi tak |

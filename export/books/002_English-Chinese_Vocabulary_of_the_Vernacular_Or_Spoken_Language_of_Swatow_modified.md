@@ -1154,7 +1154,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bard**, si-jîn(詩人); si-ong(詩翁); si-kheh(詩客).
 
-**bare**, kng(光); chhiah(赤). *body*, lòu-thói(露體); chhiah-sin(赤身); chhiah-ka-lit〔〕; chhiah-thói(赤體). *to strip bare*, *as robbers*, pak kàu sok-sok-theh〔〕; pak-kàu tñg-tiâu se-sùaⁿ〔〕. *to strip bare*, thn̍g-tiāu-saⁿ(褪掉衫). *barefoot*, pak-chhiah-kha(剝赤骹).
+**bare**, kng(光); chhiah(赤). *body*, lòu-thói(露體); chhiah-sin(赤身); chhiah-ka-lit〔〕; chhiah-thói(赤體). *to strip bare*, *as robbers*, pak kàu sok-sok-theh〔〕; pak-kàu tñg-tiâu se-sùaⁿ〔〕. *to strip bare*, thǹg-tiāu-saⁿ(褪掉衫). *barefoot*, pak-chhiah-kha(剝赤骹).
 
 **barefaced**, tek-sún-mīn(竹筍面); m̄-tsai siáu-lí(毋知少禮); bô-liâm-chhí(無廉恥); mīn-phûe kãu(面皮厚).
 
@@ -1275,7 +1275,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **befall**, ngõ-tie̍h-sṳ̄(遇着事). *a sickness has befallen him*, seⁿ-pēⁿ(生病); tì-pēⁿ(致病); tì-chèng(致症).
 
-**befool**, bú-lõng(舞弄); sie-pin-tn̍g(相摒擋); lóng-tshái(攏采).
+**befool**, bú-lõng(舞弄); sie-pin-tǹg(相摒擋); lóng-tshái(攏采).
 
 **before**, *in time*, tshông-tsôiⁿ(從前); tsṳ̃-tsôiⁿ(自前); ṳ̃-soiⁿ(預先); soiⁿ-tsôiⁿ(先前); soiⁿ(先); soiⁿ-ji̍t(先日). *in place*, tsôiⁿ-mīn(前面); mīn-tsôiⁿ(面前); thâu-mīn-tsôiⁿ(頭面前); thâu-tsôiⁿ(頭前). *before and behind*, soiⁿ-ãu(先後); tsôiⁿ-ãu(前後). *just before (time)*, thâng-soiⁿ(堂先); thâng-kùa(堂旰); tsá--tsûn(早陣). *as before*, jiông-kū(仍舊); jêng-kū(仍舊); i-ngûan(依原). *before the time*, sî būe-kàu tsṳ-soiⁿ(時未到之先); sî-hāu būe-chêng-kàu(時候未曾到); khah-soiⁿ(較先); khah-tsá(較早).
 
@@ -1491,7 +1491,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **bleat**, iêⁿ mehⁿ-mehⁿ-kiè(羊咩咩叫).
 
-**bleed**, *a patient*, pàng-tshut-hueh(放出血); thie-hueh(挑血); tshn̍g-hueh(穿血). *wound*, tshut-hueh(出血); lâu-hueh(流血).
+**bleed**, *a patient*, pàng-tshut-hueh(放出血); thie-hueh(挑血); tshǹg-hueh(穿血). *wound*, tshut-hueh(出血); lâu-hueh(流血).
 
 **blemish**, ũ-hiâ--tshù(有瑕疵). *on one's reputation*, miâⁿ-sek tiam-u(名色玷污).
 
@@ -1774,7 +1774,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **brittle**, sou(酥).
 
-**broad**, khuah(闊); khuah-khn̍g(闊曠); khùaⁿ(寬); khùaⁿ-chhēng〔〕. *broadwise*, hûeⁿ(橫); hûeⁿ--sì(橫勢); khuah-sì(闊勢).
+**broad**, khuah(闊); khuah-khǹg(闊曠); khùaⁿ(寬); khùaⁿ-chhēng〔〕. *broadwise*, hûeⁿ(橫); hûeⁿ--sì(橫勢); khuah-sì(闊勢).
 
 **brogue**, hiang-thâm(鄉談); thóu-ūe(土話); gṳ́(語); thóu-gṳ́(土語); thóu-thâm(土談).
 
@@ -2700,7 +2700,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **comet**, sàu-soi-chheⁿ(掃彗星); hũi-chheⁿ(彗星).
 
-**comfort**, *to*, uaⁿ-ùe(安慰); khn̍g-ùe(勸慰); khn̍g-kòi(勸解); bú-ùe(舞慰).
+**comfort**, *to*, uaⁿ-ùe(安慰); khǹg-ùe(勸慰); khǹg-kòi(勸解); bú-ùe(舞慰).
 
 **comfortable**, khùaⁿ-ua̍h(寬活); tsṳ̃-tsãi(自在); khin-sang(輕鬆); sóng-khuài(爽快).
 
@@ -2733,7 +2733,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **commodious**, piẽn(便); piẽn-ēng(便用); ha̍h-ēng(合用); khùaⁿ-chhēng〔〕; khuan-khuah(寬闊).
 
-**common**, *ordinary*, phêng-siêⁿ(平常); so̍k(俗). *in common*, sie-kāng(相共). *public*, kong-chèng(公眾). *people*, peh-sèⁿ(百姓); sù-mîn(庶民). *commoner*, phêng-siêⁿ-nâng(平常人). *interchangeable*, thong-ēng(通用). *commonly*, phêng-sî(平時); pâi-hûe(排回); pâi-tn̍g(排場); tãi-sì(大勢); siêⁿ-sî(常時); siêⁿ-siêⁿ(常常); tãi-khài(大概); tãi-hûam(大凡).
+**common**, *ordinary*, phêng-siêⁿ(平常); so̍k(俗). *in common*, sie-kāng(相共). *public*, kong-chèng(公眾). *people*, peh-sèⁿ(百姓); sù-mîn(庶民). *commoner*, phêng-siêⁿ-nâng(平常人). *interchangeable*, thong-ēng(通用). *commonly*, phêng-sî(平時); pâi-hûe(排回); pâi-tńg(排轉); tãi-sì(大勢); siêⁿ-sî(常時); siêⁿ-siêⁿ(常常); tãi-khài(大概); tãi-hûam(大凡).
 
 **communicate**, *thong-ta̍t; thong-sie-sit; thûan-sìn; thong-tsai*, pò-tsai(報知); kàu-tsai(告知); ta̍t-tsai(達知); sàng-siaⁿ(送聲).
 
@@ -2800,13 +2800,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **compunction**, siẽⁿ-hùe(想悔); siẽⁿ-sí-hùe(想死悔); thiàⁿ-hùe(痛悔); thiàⁿ-kói tsôiⁿ-hui(痛改前非).
 
-**compute**, sn̍g(算); siàu(少); ha̍h-sn̍g(合算); phah-sn̍g(拍算); kòi-sn̍g(計算).
+**compute**, sǹg(算); siàu(少); ha̍h-sǹg(合算); phah-sǹg(拍算); kòi-sǹg(計算).
 
 **comrade**, húe-kì(夥記); tâng-phũaⁿ(同伴); phêng-iú(朋友); tâng-liâu(同僚).
 
 **concave**, thap(塌); thap-tóu(塌肚); thap-uh〔〕. *spectacles*, ma̍k-kiàⁿ chhia-thap-tóu(目鏡車塌肚).
 
-**conceal**, khn̍g(囥); khn̍g-bûa(囥埋); khn̍g-miⁿ(囥密); tshâng-khn̍g(藏囥); tshâng-ne̍k(藏匿). *oneself*, tiàm(坫); tiàm-bûa(坫埋); siám-bûa(閃埋); tshâng-pī(藏避); tshâng-pī tsáu-siám(藏避走閃); tsáu-khui(走開); pī-bûa(避埋).
+**conceal**, khǹg(囥); khǹg-bûa(囥埋); khǹg-miⁿ(囥密); tshâng-khǹg(藏囥); tshâng-ne̍k(藏匿). *oneself*, tiàm(坫); tiàm-bûa(坫埋); siám-bûa(閃埋); tshâng-pī(藏避); tshâng-pī tsáu-siám(藏避走閃); tsáu-khui(走開); pī-bûa(避埋).
 
 **concede**, zún-na̍p(允納); tsún(准); khéng(肯); hàuⁿ(好); siang-jiãng(相讓); ngũan-chia̍h-khui jiãng--khṳt-i(願食虧讓乞伊).
 
@@ -2821,7 +2821,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **conch**, lô-khak(螺殼); pu-lô(蜅螺). *to blow*, pûn-pu-lô(歕蜅螺).
 
-**conciliate**, hûa(和); hûa-sṳ̄(和事); kiâⁿ-hûa(行和); khn̍g-hûa(勸和); khn̍g-sek(勸息). *conciliatory*, khuaⁿ-chiâⁿ(寬成).
+**conciliate**, hûa(和); hûa-sṳ̄(和事); kiâⁿ-hûa(行和); khǹg-hûa(勸和); khǹg-sek(勸息). *conciliatory*, khuaⁿ-chiâⁿ(寬成).
 
 **concise**, che̍k-kù thàu-thiet(一句透徹); káng-séⁿ(簡省); phièn-ngân kai-kuat(片言賅括).
 
@@ -2910,7 +2910,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **congregate**, chi̍p-hũe(集會); tsũ-chi̍p(聚集); hũe-chi̍p(會集); chi̍p-bûa(集埋).
 
-**conjecture**, phah-sn̍g(拍算); tá-sn̍g(打算); tá-sùan(打算); pheⁿ-phah〔〕; pān〔〕; iak(約); íak-pān〔〕.
+**conjecture**, phah-sn̍g(拍算); tá-sǹg(打算); tá-sùan(打算); pheⁿ-phah〔〕; pān〔〕; iak(約); íak-pān〔〕.
 
 **conjoin**, kap-bûa(合埋); tùa-bûa(帶埋); siang-liên(相連); tah-tùe(貼綴). *conjointly*, sie-kāng(相共).
 
@@ -2927,7 +2927,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **conanguinity**, chhin(親); chhin-so̍k(親屬); ngóu-ho̍k-lãi(五服內); káu-tso̍k(九族).
 
-**conscience**, liâng-sim(良心); pn̍g-sim(憑心). *awakened*, liâng-sim huat-hīn(良心發現). *conscientious*, ũ-pn̍g-sim(有憑心); ũ-liâng-sim(有良心). *reproofs of conscience*, sim-lãi tsṳ̃-sõng(心內自訟); tsṳ̃-cheh(自責); tsṳ̃-uàn(自怨).
+**conscience**, liâng-sim(良心); pńg-sim(本心). *awakened*, liâng-sim huat-hīn(良心發現). *conscientious*, ũ-pńg-sim(有本心); ũ-liâng-sim(有良心). *reproofs of conscience*, sim-lãi tsṳ̃-sõng(心內自訟); tsṳ̃-cheh(自責); tsṳ̃-uàn(自怨).
 
 **conscious**, *aware of*, tsṳ̃-kak(自覺); tsṳ̃-tsai(自知). *is he conscions (as sick person)*, ũ-hiáu-nâng--mé(有曉人咩); õi-tsai-nâng--mé(會知人咩).
 
@@ -2937,7 +2937,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **consent**, tsún(准); zún-na̍p(允納); khéng(肯); hàuⁿ(好); ìn-na̍p(應納); ìn-sêng(應承); na̍p-ì(納意).
 
-**consequences**, kuan-hĩ(關係). *bad*, khan-gāi(牽礙); liên-lūi(連累); po-lūi(波累); khan-thùa(牽帶); khan-thua(牽拖). *of no consequence*, bô-siang-kan(無相干); bô-siang(無相); bô-hûang(無妨); bô-bī(無味); mùiⁿ(𱐼); bô-kàu tî-kò-khṳ̀(無到底塊去); bô-chhiet-iàu(無切要). *consequently*, kù-tshṳ́(故此); só-íⁿ(所以); i̍n-tshṳ́(因此); sn̍g-lâi(算來).
+**consequences**, kuan-hĩ(關係). *bad*, khan-gāi(牽礙); liên-lūi(連累); po-lūi(波累); khan-thùa(牽帶); khan-thua(牽拖). *of no consequence*, bô-siang-kan(無相干); bô-siang(無相); bô-hûang(無妨); bô-bī(無味); mùiⁿ(𱐼); bô-kàu tî-kò-khṳ̀(無到底塊去); bô-chhiet-iàu(無切要). *consequently*, kù-tshṳ́(故此); só-íⁿ(所以); i̍n-tshṳ́(因此); sǹg-lâi(算來).
 
 **conserve**, pó-tshûan(保全).
 
@@ -2976,7 +2976,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **constrain**, mién-kiáng(勉強); ngẽ-lia̍h(硬掠). *oneself*, tsṳ̃-mién(自勉). *to stay*, khiâng-lâu(強留).
 
-**constriction**, tîⁿ-kín(纏緊); sn̍g-kín(算緊); tshui-kín(催緊).
+**constriction**, tîⁿ-kín(纏緊); sǹg-kín(算緊); tshui-kín(催緊).
 
 **construct**, tsò(做); tshàng(創); tsãu(造); tsõ(造). *a boat*, tsõ-tsûn(造船). *construction of a sentence*, tsò-bûn kâi-pit-huap(作文个筆法).
 
@@ -3017,7 +3017,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **continue**, chhiàng-tsò(倡做); chhiâng-kiâⁿ(長行); siêⁿ-tõ(常在); sî-sî-ũ(時時有); siêⁿ-tshûn(常存); hûan-tõ(還在); nãiⁿ-kú(耐久). *continual*, see **constant**. *continuous*, chih(接); chiap(接); liên-lo̍k(連絡); chiap-so̍k(接續); siang-liên(相連); bô-hiah(無歇); bô-tñg(無斷); bô-kòiⁿ(無間); bô-làng(無闌).
 
-**contortion**, tsũn-tshúa(捘歪); tsũn-tn̍g(捘場); tsũn--kùe--lâi(捘過來). *of face*, tshúa-mīn(歪面).
+**contortion**, tsũn-tshúa(捘歪); tsũn-tńg(捘轉); tsũn--kùe--lâi(捘過來). *of face*, tshúa-mīn(歪面).
 
 **contour**, hêng-sièⁿ(形像); iēⁿ(樣); hêng(形). *of distant hills*, hñg-kéng(遠景).
 
@@ -3027,7 +3027,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **contradict**, piẽn-poh(辯駁); poh-mn̄g(駁問). *oneself*, tsôiⁿ-ãu kâi-ūe m̄-siang-hû(前後个話毋相符). *contradictory*, m̄-tùi(毋對); m̄-sie-tùi(毋相對); m̄-siang-hû(毋相符); m̄-siang-ha̍h(毋相合); siang-huán(相反).
 
-**contrary**, siang-huán(相反); tò-huán(倒反); nge̍k(逆); m̄-ha̍h(毋合). *on the*, tin-tò(顛倒); huán-tn̍g(反場). *to sound doctrine*, pũe-tãu(背道). *wind*, nge̍k-huang(逆風).
+**contrary**, siang-huán(相反); tò-huán(倒反); nge̍k(逆); m̄-ha̍h(毋合). *on the*, tin-tò(顛倒); huán-tńg(反轉). *to sound doctrine*, pũe-tãu(背道). *wind*, nge̍k-huang(逆風).
 
 **contrast**, sie-tùi(相對); siang-pí(相比); tùi-chhiēⁿ(對[chhiēⁿ]); huán-chhiēⁿ(反[chhiēⁿ]); huán-chiè(反照).
 
@@ -3037,13 +3037,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **contrive**, siet-kòi(設計); siet-huap(設法); siẽⁿ-sim-sṳ̄(想心事); siẽⁿ-tshut kòi-chheh(想出計策). *contrivance*, kòi-chheh(計策); kòi-mông(計謀). *(mechanical)*, ie̍h-kúi(藥機).
 
-**control**, kuán(管); thóng-kuán(統管); kuán-hat(管轄); khu-sok(拘束); iak-sok(約束). *self*, siú-pn̍g-sim(守本心); tsṳ̃-kuán ka-kī(自管家己).
+**control**, kuán(管); thóng-kuán(統管); kuán-hat(管轄); khu-sok(拘束); iak-sok(約束). *self*, siú-pńg-sim(守本心); tsṳ̃-kuán ka-kī(自管家己).
 
 **controversy**, piẽn-lũn(辯論); piẽn-poh(辯駁); cheⁿ-lũn(爭論); sie-à(相詏).
 
 **contumacy**, ngóu-nge̍k(忤逆); m̄-sũn nâng-chhêng(毋順人情).
 
-**contumely**, lêng-zo̍k(凌辱); sit-zo̍k(失辱); ki-tshn̍g(欺牀).
+**contumely**, lêng-zo̍k(凌辱); sit-zo̍k(失辱); ki-tshǹg(譏刺).
 
 **contusion**, phah-sieⁿ(拍傷); tsuãng-sieⁿ(撞傷); ou-chheⁿ kek-hueh(烏青激血).
 
@@ -3058,7 +3058,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **converse**, tàⁿ-ūe(呾話); phue̍h-ūe(詖話); tsò-pû tàⁿ-ūe(做包呾話); thâm-lũn(談論); ngân-thâm(言談).
 
-**conversion**, hùe-kói(悔改); hûe-thâu chhéⁿ-ngõ(回頭醒悟); kói-ak chhien-siẽn(改惡遷善); kói-ak tshông-siẽn(改惡從善); khṳ̀-kū tshông-sin(去舊從新); khṳ̀-ak kui-siẽn(去惡歸善); hûe-tn̍g-thâu tsò-siẽn(回轉頭做善); hûe-sim tn̍g-ì(回心轉意); siẽⁿ-tn̍g(想轉).
+**conversion**, hùe-kói(悔改); hûe-thâu chhéⁿ-ngõ(回頭醒悟); kói-ak chhien-siẽn(改惡遷善); kói-ak tshông-siẽn(改惡從善); khṳ̀-kū tshông-sin(去舊從新); khṳ̀-ak kui-siẽn(去惡歸善); hûe-tńg-thâu tsò-siẽn(回轉頭做善); hûe-sim tńg-ì(回心轉意); siẽⁿ-tńg(想轉).
 
 **convex**, tsui(錐); tsui-tsui(錐錐); tìn-tang phû--khí-lâi(鎮東浮起來).
 
@@ -3180,7 +3180,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **counsel**, *a person*, khǹg(勸); khǹg-kòi(勸戒); kà(教); khai-tãu(開導).
 
-**count**, sn̍g(算); siàu(少); sn̍g-siàu(算數). *countless*, bô-huap-siàu(無法數); m̄-pat-kò-sn̍g(毋別塊算); bû-sù(無數).
+**count**, sn̍g(算); siàu(少); sǹg-siàu(算數). *countless*, bô-huap-siàu(無法數); m̄-pat-kò-sǹg(毋別塊算); bû-sù(無數).
 
 **countenance**, mīn(面); mīn-mãuⁿ(面貌); mīn-sek(面色); iông-mãuⁿ(容貌); iông-sek(容色). *to change*, mīn pièn-sek(面變色); mīn tsak-sek(面作色).
 
@@ -3382,7 +3382,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cudgel**, kùn(棍); tshâ-thûi(柴槌); tshâ-kùn(柴棍).
 
-**cuff**, *slap*, òng〔〕; piang〔〕. *with closed fist*, cheng〔〕; tshùaⁿ(閂). *of coat*, n̍g-kháu(硬口); siù-kháu(袖口).
+**cuff**, *slap*, òng〔〕; piang〔〕. *with closed fist*, cheng〔〕; tshùaⁿ(閂). *of coat*, ńg-kháu(䘼口); siù-kháu(袖口).
 
 **cuirass**, thih-kah(鐵甲); chia-heng-kah(遮胸甲).
 
@@ -3464,7 +3464,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 ### D
 
 <!-- page:75 -->
-**dabble**, *in water*, mak-tsúi(衊水); sn̍g-tsúi(算水). *learn superficially*, ēng m̄-kàu-kang(用毋夠工); chhién-ha̍k(淺學); tshó-lia̍k pat-lân-ló(草略別零些).
+**dabble**, *in water*, mak-tsúi(衊水); sńg-tsúi(耍水). *learn superficially*, ēng m̄-kàu-kang(用毋夠工); chhién-ha̍k(淺學); tshó-lia̍k pat-lân-ló(草略別零些).
 
 **dagger**, tó-kiàm(短劍).
 
@@ -3519,7 +3519,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dawn**, thiⁿ kng(天光); tang-pôiⁿ pe̍h(東爿白); tang-pôiⁿ tsò-sek(東爿作色); thiⁿ lâ-lân〔〕; thiⁿ lâ-lân-kng〔〕.
 
-**day**, ji̍t(日); thiⁿ(天). *first day of month*, chhiu-it(初一). *15th day*, tsa̍p-ngõu(十五). *another day*, ẽ-ji̍t(下日); ãu-ji̍t(後日). *every*, ji̍t-ji̍t(日日); múeⁿ-ji̍t(每日); siêⁿ-ji̍t(常日); pâi-ji̍t(排日). *day and night*, ji̍t-mêⁿ(日夜). *all day*, tsong-ji̍t(終日); thàng-ji̍t(通日). *day before yesterday*, tso̍h--ji̍t(昨日). *one day earlier still*, tōa-tso̍h--ji̍t(大昨日). *day after tomorrow*, ãu--ji̍t(後日). *today*, kim-ji̍t(今日); kiáⁿ-ji̍t(今旦日); hīn-ji̍t(現日); pn̍g-ji̍t(憑日). *day by day*, che̍k-ji̍t kùe-che̍k-ji̍t(一日過一日); liên-ji̍t(連日). *to make progress day by day*, che̍k-ji̍t kìⁿ-ji̍t-chìn(一日見日進). *to wait day after day*, che̍k-ji̍t mōⁿ-che̍k-ji̍t(一日望一日). *day-time*, ji̍t--kan(日間); ji̍t--kùa(日旰); pe̍h-ji̍t--kan(白日間); ji̍t--tsṳ́(日子). *several days*, kúi-ji̍t(幾日); sù-ji̍t(數日); kúi-uã-ji̍t(幾夥日). *within these few days*, chí-kṳ̃n-ji̍t(此近日); chí-kṳ̃n-ji̍t-lãi(此近日內). *day-labour*, lũn-ji̍t-kang(論日工). *day-book*, ji̍t-to̍k-phõu(日逐簿). *day-break*, see **dawn**. *to select a lucky day*, thóiⁿ-ji̍t(睇日); to̍h-ji̍t(擇日); suán-ji̍t(選日); pua̍h-ji̍t(跋日). *lucky day*, kit-ji̍t(吉日); siãng-ji̍t(上日). *unlucky*, hiong-ji̍t(凶日). *good-day(at meeting)*, hó-ngõ(好遇). *good-day(at parting)*, chhiáⁿ(請).
+**day**, ji̍t(日); thiⁿ(天). *first day of month*, chhiu-it(初一). *15th day*, tsa̍p-ngõu(十五). *another day*, ẽ-ji̍t(下日); ãu-ji̍t(後日). *every*, ji̍t-ji̍t(日日); múeⁿ-ji̍t(每日); siêⁿ-ji̍t(常日); pâi-ji̍t(排日). *day and night*, ji̍t-mêⁿ(日夜). *all day*, tsong-ji̍t(終日); thàng-ji̍t(通日). *day before yesterday*, tso̍h--ji̍t(昨日). *one day earlier still*, tōa-tso̍h--ji̍t(大昨日). *day after tomorrow*, ãu--ji̍t(後日). *today*, kim-ji̍t(今日); kiáⁿ-ji̍t(今旦日); hīn-ji̍t(現日); pńg-ji̍t(本日). *day by day*, che̍k-ji̍t kùe-che̍k-ji̍t(一日過一日); liên-ji̍t(連日). *to make progress day by day*, che̍k-ji̍t kìⁿ-ji̍t-chìn(一日見日進). *to wait day after day*, che̍k-ji̍t mōⁿ-che̍k-ji̍t(一日望一日). *day-time*, ji̍t--kan(日間); ji̍t--kùa(日旰); pe̍h-ji̍t--kan(白日間); ji̍t--tsṳ́(日子). *several days*, kúi-ji̍t(幾日); sù-ji̍t(數日); kúi-uã-ji̍t(幾夥日). *within these few days*, chí-kṳ̃n-ji̍t(此近日); chí-kṳ̃n-ji̍t-lãi(此近日內). *day-labour*, lũn-ji̍t-kang(論日工). *day-book*, ji̍t-to̍k-phõu(日逐簿). *day-break*, see **dawn**. *to select a lucky day*, thóiⁿ-ji̍t(睇日); to̍h-ji̍t(擇日); suán-ji̍t(選日); pua̍h-ji̍t(跋日). *lucky day*, kit-ji̍t(吉日); siãng-ji̍t(上日). *unlucky*, hiong-ji̍t(凶日). *good-day(at meeting)*, hó-ngõ(好遇). *good-day(at parting)*, chhiáⁿ(請).
 
 **dazzle**, ji̍t-kuang iàng-ma̍k(日光映目); kng chhiēⁿ-ma̍k(光搶目). *the lamp-light dazzling the eyes*, teng-kng chhiēⁿ-ma̍k(燈光搶目). *dazzling*, tāng-tāng-kng(堂堂光); ia̍p-ia̍p-sih(灼灼熠).
 
@@ -3675,7 +3675,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **delegate**, chhe-sái(差使); chhe-úi(差委). *a delegate*, úi-uân(委員); sài(使); sài-chiá(使者).
 
-**deliberate**, *to*, siang-liâng(商量); kàu-niêⁿ(告量); chim-chiak(斟酌); ngí-lũn(議論); siang-ngí(商議); kà-lũn(教論); tsham-siâng(參詳); hũe-ngí(會議); sn̍g-lâi sn̍g-khṳ̍(算來算去); siẽⁿ-lâi siẽⁿ-khṳ̍(想來想去); pí-lâi pí-khṳ̍(比來比去); chiak-ngí(酌議).
+**deliberate**, *to*, siang-liâng(商量); kàu-niêⁿ(告量); chim-chiak(斟酌); ngí-lũn(議論); siang-ngí(商議); kà-lũn(教論); tsham-siâng(參詳); hũe-ngí(會議); sǹg-lâi sǹg-khṳ̍(算來算去); siẽⁿ-lâi siẽⁿ-khṳ̍(想來想去); pí-lâi pí-khṳ̍(比來比去); chiak-ngí(酌議).
 
 **deliberately**, soiⁿ sṳ, ãu kiâⁿ(先思，後行); ũ-ì(有意); li̍p-ì(立意); tshut-tõ ũ-ì(出在有意).
 
@@ -3689,7 +3689,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **delirious**, kông(戇); kông-kông(戇戇); hun-kông(昏戇); m̄-tsai-nâng(毋知人); put-tsai nâng-sṳ̄(不知人事); hũn-tàⁿ(混呾); thèng-tàⁿ-ūe(聽呾話); sim hũn(心混); kông-tien kông-tien(戇癲戇癲).
 
-**deliver**, kiù(救); chín-kiù(拯救); kiù-iẽn(救援); kiù-tshut(救出); khan-kiù(牽救); kiù-tsõ(救助). *over*, kau(交); kau-hôiⁿ(交還); kau-hù(交付); kòi-sàng(計送). *up*, kiáu(攪); kiáu-hôiⁿ(攪還); hõng-hôiⁿ(奉還); kau-hûe(交回); khie̍h tn̍g-lâi-hôiⁿ(挈轉來還); khie̍h-hôiⁿ(挈還). *an order*, thûan-mẽng(傳命). *deliver up oneself*, ka-kī tshut--lâi jīn-tsũe(家己出來認罪); ka-kī sàng-ka-kī(家己送家己). *be delivered of a child*, seⁿ-kiáⁿ(生囝); a-nôuⁿ tshut-sì(阿孥出世).
+**deliver**, kiù(救); chín-kiù(拯救); kiù-iẽn(救援); kiù-tshut(救出); khan-kiù(牽救); kiù-tsõ(救助). *over*, kau(交); kau-hôiⁿ(交還); kau-hù(交付); kòi-sàng(計送). *up*, kiáu(攪); kiáu-hôiⁿ(攪還); hõng-hôiⁿ(奉還); kau-hûe(交回); khie̍h tńg-lâi-hôiⁿ(挈轉來還); khie̍h-hôiⁿ(挈還). *an order*, thûan-mẽng(傳命). *deliver up oneself*, ka-kī tshut--lâi jīn-tsũe(家己出來認罪); ka-kī sàng-ka-kī(家己送家己). *be delivered of a child*, seⁿ-kiáⁿ(生囝); a-nôuⁿ tshut-sì(阿孥出世).
 
 <!-- page:81 -->
 **delude**, mîⁿ-ho̍k(迷惑); iú-ho̍k(誘惑); mûaⁿ-phièn(瞞騙). *delusion*, àm-mũeⁿ(暗寐).
@@ -3698,7 +3698,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **delve**, ku̍t-thôu(掘塗); liú-thôu(㧕塗).
 
-**demand**, tshūe-nâng-thó(找人討); tshūe-nâng-khie̍h(覓人挈). *back*, thó-tn̍g(討轉). *money*, thó-chîⁿ(討錢); thó-siàu(討數). *restitution*, thó-pûe(討賠).
+**demand**, tshūe-nâng-thó(找人討); tshūe-nâng-khie̍h(覓人挈). *back*, thó-tńg(討轉). *money*, thó-chîⁿ(討錢); thó-siàu(討數). *restitution*, thó-pûe(討賠).
 
 **demeanour**, thí-thài(體態); nâng-khuán(人款); khuán-sek(款式); hêng-ûi(行爲); kṳ́-tõng(舉動); kiâⁿ-ûi(行爲); khì-siãng(氣像); hêng-siãng(形像).
 
@@ -3714,7 +3714,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **den**, suaⁿ-khang(山空); suaⁿ-tāng(山洞); suaⁿ-hua̍t(山穴).
 
-**denizen**, pn̍g-tī-nâng(本地人); pn̍g-chiã(本籍).
+**denizen**, pńg-tī-nâng(本地人); pńg-chiã(本籍).
 
 **Denmark**, N̂g-kî-kok(黃旗國).
 
@@ -3726,13 +3726,13 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dent**, thap(塌); phah-thap(拍塌); cheng-bih〔〕; pua̍h-bih〔〕; pua̍h-nap-uh〔〕; cheng-nap-uh〔〕.
 
-**denude**, thn̍g-tiāu saⁿ-khòu(褪掉衫褲); hien-tiāu(掀掉).
+**denude**, thǹg-tiāu saⁿ-khòu(褪掉衫褲); hien-tiāu(掀掉).
 
 **deny**, à(詏); à-bô(詏無); m̃-jīn(毋認). *refuse*, m̃-tsún(毋準).
 
 **depart**, khṳ̀(去); lī(離); lī-khui(離開); lī-pie̍t(離別). *this life*, kùe-sì(過世); sī-sì(逝世); kùe-khṳ̀(過去); tsò-kóu-nâng--liáu(做古人了); tsak-kóu(作古); sien-iû(仙遊); lãu--khṳ̀-liáu(老去了); sin-kù(身故).
 
-**department**, *of territory*, chiu(州); hú(府); kūiⁿ(縣). *one's duty*, sin-hūn(身分); cheh-hūn(職分); pn̍g-hūn(本分); hūn-lãi(分內).
+**department**, *of territory*, chiu(州); hú(府); kūiⁿ(縣). *one's duty*, sin-hūn(身分); cheh-hūn(職分); pńg-hūn(本分); hūn-lãi(分內).
 
 **depend**, *on*, kõu(靠); íⁿ-kõu(倚靠); íⁿ-nãiⁿ(倚賴); úa(倚); khùa-chiãng(掛仗); khùa-pn̄g(掛飯); tit-pn̄g(得飯); úa-kõu(倚靠). *it depends on you*, tõ-lṳ́ tsú-ì(在汝主意).
 
@@ -3747,7 +3747,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **depose**, keh-cheh(革職); thut-cheh(黜職); keh-khṳ̀ cheh-jĩm(革去職任). *from throne*, hùi-kun(廢君).
 
-**deposit**, pàng(放); thoh(托). *with any one*, tah--nâng khn̍g(搭人藏); thoh--nâng(託人). *in Bank at interest*, pàng-siàu seⁿ-sek(放數生色).
+**deposit**, pàng(放); thoh(托). *with any one*, tah--nâng khǹg(搭人囥); thoh--nâng(託人). *in Bank at interest*, pàng-siàu seⁿ-sek(放數生色).
 
 **depraved**, siâ(邪); siâ-phiah(邪僻); put-siàu(不肖).
 
@@ -3941,7 +3941,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **din**, *of gongs and drums*, kong-kuang-kiè(公光叫); kong-kong-kiè(公公叫).
 
-**dine**, chia̍h-tōa-tn̍g(食大場); chia̍h mêⁿ-àm-pn̄g(食夜暗飯). *at noon*, chia̍h-ji̍t-tàu(食日晝).
+**dine**, chia̍h-tōa-tǹg(食大頓); chia̍h mêⁿ-àm-pn̄g(食夜暗飯). *at noon*, chia̍h-ji̍t-tàu(食日晝).
 
 **dip**, *into water*, ùn-tsúi(揾水); ùn-tâm(揾㴷). *hot iron in water*, chhih-tsúi(彳水). *dip up water (with ladle)*, ēng-pû-hia lâi-ié-tsúi(用煲桸來舀水). *dip up water (from well)*, ēng pua̍h-tháng lâi kũaⁿ-tsúi(用跋桶來摜水). *dip up water (with bucket & well-sweep)*, ēng tiàu-o lâi-tiàu-tsúi(用吊鍋來吊水). *dip up water (with ladle having long handle)*, ēng hòu-táu lâi-hòu-tsúi(用戽斗來戽水). *a dipper*, tsúi-kóng(水管).
 
@@ -5513,7 +5513,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **foliage**, chhiū-hie̍h(樹葉). *dense*, chhiū-hie̍h mõng-sẽng(樹葉茂盛); ba̍t-tsa̍t(密實); tsa̍t-tsa̍t(實實); ap-ap〔〕; im-im(蔭蔭).
 
-**follow**, tshông(從); tùe(綴); kṳn-sûi(跟隨). *as successor*, chiap(接); chih(接). *one's example*, o̍h-iēⁿ(學樣); tùe-iēⁿ(綴樣); chiè-iēⁿ(照樣); hāu-o̍h(效學). *in one's steps*, tùe i kâi-kha-pōu(綴伊个骹步). *one's advice*, thiaⁿ nâng khn̍g-kòi(聽人勸戒); thiaⁿ-nâng-tàⁿ(聽人呾). *one's own inclination*, jĩm-ì(任意); jĩm ka-kī kâi-ì(任家己个意). *customs*, tshông-so̍k(從俗); tshông-sì-so̍k(從世俗). *follower or disciple*, mn̂g-jîn(門人); mn̂g-seng(門生); mn̂g-thû(門徒).
+**follow**, tshông(從); tùe(綴); kṳn-sûi(跟隨). *as successor*, chiap(接); chih(接). *one's example*, o̍h-iēⁿ(學樣); tùe-iēⁿ(綴樣); chiè-iēⁿ(照樣); hāu-o̍h(效學). *in one's steps*, tùe i kâi-kha-pōu(綴伊个骹步). *one's advice*, thiaⁿ nâng khǹg-kòi(聽人勸戒); thiaⁿ-nâng-tàⁿ(聽人呾). *one's own inclination*, jĩm-ì(任意); jĩm ka-kī kâi-ì(任家己个意). *customs*, tshông-so̍k(從俗); tshông-sì-so̍k(從世俗). *follower or disciple*, mn̂g-jîn(門人); mn̂g-seng(門生); mn̂g-thû(門徒).
 
 **folly**, ngà-sṳ̄(㦙事).
 
@@ -5525,7 +5525,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fool**, ngà(㦙); ngà-nâng(㦙人); chhi-ko(痴哥); chhi-chhi ngâi-ngâi(痴痴呆呆).
 
-**foot**, kha(骹). *sole of*, kha-tói(骹底). *barefoot*, thn̍g-chhiah-kha(褪赤骹); pak-chhiah-kha(剝赤骹). *walk on*, pōu-kiâⁿ(步行); kiâⁿ(行). *trample under*, ta̍h-tiāu(踏掉). *of hill*, suaⁿ-kha(山骹). *foot-ball*, that-kiû(踢球). *foot-path*, lōu-kiáⁿ(路囝); sié-lōu(小路). *foot-step (as seen)*, kha-chiah(骹跡). *foot-step (as heard)*, kha-pōu(骹步). *foot-stool*, kha-ta̍h(骹踏); ta̍h-póiⁿ-íⁿ(踏反椅). *measure*, chhieh(尺). *a foot and a half long*, chhieh-pùaⁿ-tn̂g(尺半長); tn̂g chhieh-pùaⁿ(長尺半).
+**foot**, kha(骹). *sole of*, kha-tói(骹底). *barefoot*, thǹg-chhiah-kha(褪赤骹); pak-chhiah-kha(剝赤骹). *walk on*, pōu-kiâⁿ(步行); kiâⁿ(行). *trample under*, ta̍h-tiāu(踏掉). *of hill*, suaⁿ-kha(山骹). *foot-ball*, that-kiû(踢球). *foot-path*, lōu-kiáⁿ(路囝); sié-lōu(小路). *foot-step (as seen)*, kha-chiah(骹跡). *foot-step (as heard)*, kha-pōu(骹步). *foot-stool*, kha-ta̍h(骹踏); ta̍h-póiⁿ-íⁿ(踏反椅). *measure*, chhieh(尺). *a foot and a half long*, chhieh-pùaⁿ-tn̂g(尺半長); tn̂g chhieh-pùaⁿ(長尺半).
 
 **fop**, bàuⁿ-phâi-chhiâng〔〕; hàuⁿ-pâi-chhiâng(好排場).
 
@@ -8865,7 +8865,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **nimble**, *kha khin-khiáu; kha khin*, chhiú khùe(手課).
 
-**nine**, káu(九); khùai(快). *nineteen*, tsa̍p-káu(十九).
+**nine**, káu(九); khùai〔〕. *nineteen*, tsa̍p-káu(十九).
 
 **nip**, nihⁿ〔〕. *(more severely)*, liàm(捻). *with nippers*, khîⁿ(鉗); koih(夾). *nippers*, thih-khîⁿ(鐵鉗); thih-kîⁿ(鐵鉗); niap-kiáⁿ(鑷囝); nihⁿ-kiáⁿ(眲囝); kia̍p-kiáⁿ(夾囝); koih-kiáⁿ(夾囝).
 
@@ -9199,7 +9199,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pace**, pōu(步); hua̍h(伐). *large*, tōa-hua̍h(大步).
 
-**pacify**, khn̍g-nâng màiⁿ-khì(勸人勿去); kiâⁿ-hûa(行和); khǹg-hûa(勸和); khǹg-tshú〔〕. *Pacific ocean*, thài-phêng-iêⁿ(太平洋).
+**pacify**, khǹg-nâng màiⁿ-khì(勸人勿去); kiâⁿ-hûa(行和); khǹg-hûa(勸和); khǹg-tshú〔〕. *Pacific ocean*, thài-phêng-iêⁿ(太平洋).
 
 **pack**, pau(包); phah-pau(拍包); tsuang(裝); siu-ss̍p-bûa(收拾埋). *tea*, tsuang-tê(裝茶). *in a box*, tsuang-lo̍h-sieⁿ(裝落箱). *packing box*, tsuang-sieⁿ(裝箱).
 
@@ -9582,7 +9582,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pier-glass**, chiè-sin-kiàⁿ(照身鏡); tshûan-sin pó-kiàⁿ(全身寶鏡).
 
-**pierce**, tshn̍g(刺). *(with boring instrument)*, tsn̍g(鑽).
+**pierce**, tshǹg(穿). *(with boring instrument)*, tsǹg(鑽).
 
 **piety**, *(idolatrous)*, kèng-ùi sîn-mêng(敬畏神明); sêng-kèng(誠敬). *filial*, hàu(孝); kiâⁿ-hàu(行孝); hàu-sũn pẽ-bó(孝順父母); hàu-kèng pẽ-bó(孝敬父母).
 
