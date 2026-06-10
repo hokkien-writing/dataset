@@ -9368,7 +9368,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pattern**, iēⁿ; mōⁿ; môⁿ-iēⁿ; bôu; sek; thói-sek.
 
-**pause**, hiah; hiah--khùn; thẽng-chē.
+**pause**, hiah; hiah--khùn; thẽng--chē.
 
 **pave**, phou-chie̍h; kih-chie̍h. *pavement*, chie̍h-lōu.
 
@@ -9564,7 +9564,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **piano**, khîm.
 
-**pick**, *out*, to̍h; súan-to̍h. *up*, khie̍h--khí; khie̍h-khí-lâi. *(find)*, khieh--tie̍h. *fruit, flowers, &c*, tiah. *the teeth*, thak-khí; kiah-khí. *the ears*, kau-hĩⁿ; kiah-hĩⁿ.
+**pick**, *out*, to̍h; súan-to̍h. *up*, khie̍h--khí; khie̍h--khí-lâi. *(find)*, khieh--tie̍h. *fruit, flowers, &c*, tiah. *the teeth*, thak-khí; kiah-khí. *the ears*, kau-hĩⁿ; kiah-hĩⁿ.
 
 **pick-axe**, kùan-súi.
 

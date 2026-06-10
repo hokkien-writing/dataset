@@ -9368,7 +9368,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pattern**, iēⁿ(樣); mōⁿ(望); môⁿ-iēⁿ(模樣); bôu(模); sek(式); thói-sek(體式).
 
-**pause**, hiah(歇); hiah--khùn(歇睏); thẽng-chē(停些).
+**pause**, hiah(歇); hiah--khùn(歇睏); thẽng--chē(停些).
 
 **pave**, phou-chie̍h(鋪石); kih-chie̍h(砌石). *pavement*, chie̍h-lōu(石路).
 
@@ -9564,7 +9564,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **piano**, khîm(琴).
 
-**pick**, *out*, to̍h(擇); súan-to̍h(選擇). *up*, khie̍h--khí(挈起); khie̍h-khí-lâi(挈起來). *(find)*, khieh--tie̍h(挈着). *fruit, flowers, &c*, tiah(摘). *the teeth*, thak-khí〔〕; kiah-khí(揭齒). *the ears*, kau-hĩⁿ(交耳); kiah-hĩⁿ(揭耳).
+**pick**, *out*, to̍h(擇); súan-to̍h(選擇). *up*, khie̍h--khí(挈起); khie̍h--khí-lâi(挈起來). *(find)*, khieh--tie̍h(挈着). *fruit, flowers, &c*, tiah(摘). *the teeth*, thak-khí〔〕; kiah-khí(揭齒). *the ears*, kau-hĩⁿ(交耳); kiah-hĩⁿ(揭耳).
 
 **pick-axe**, kùan-súi〔〕.
 
