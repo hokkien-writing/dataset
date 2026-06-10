@@ -33,6 +33,10 @@ _TONE_DIGIT_RE = re.compile(r"[1-8]$")
 _ENTERING_END_RE = re.compile(r"[ptk]$")
 _NN_RE = re.compile(r"nn$")
 _GLOTTAL_BOUNDARY_RE = re.compile(r"\u02bc(?=[bcdfgjklmnpqrstvwxyz])", re.IGNORECASE)
+_M_GLOTTAL_VOWEL_RE = re.compile(r"m\u02bc(?=[aeiou])", re.IGNORECASE)
+_DEAN_PUJ_OVERRIDES: dict[tuple[str, str], str] = {
+    ("能", "oi"): "õi",
+}
 _NASAL_CODA_RE = re.compile(r"(\u00f1h?|nnh?|m|ng|n)$")
 _CONSONANT_CODA_RE = re.compile(r"(ng|[ptkmn])$")
 
@@ -82,7 +86,9 @@ def parse_markdown(text: str) -> list[tuple[str, str, str, str, str, str]]:
 
 
 def _preprocess_dean(text: str) -> str:
-    return _GLOTTAL_BOUNDARY_RE.sub("\u02bc ", text)
+    text = _GLOTTAL_BOUNDARY_RE.sub("\u02bc ", text)
+    text = _M_GLOTTAL_VOWEL_RE.sub("m ", text)
+    return text
 
 
 def split_dean_syllables(text: str) -> list[str]:
@@ -236,6 +242,11 @@ def lookup_puj_for_row(
     result: list[str | None] = []
     tie_indices: set[int] = set()
     for idx, (han, raw_dean) in enumerate(zip(tail_han, tail_dean)):
+        norm_dean_raw = normalize_dean_syllable(raw_dean)
+        override = _DEAN_PUJ_OVERRIDES.get((han, norm_dean_raw))
+        if override:
+            result.append(override)
+            continue
         candidates = han_index[han]
         if len(candidates) == 1:
             result.append(candidates[0][0])
