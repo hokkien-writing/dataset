@@ -2,7 +2,7 @@
 # Generated from merged.csv - English reverse lookup
 ---
 name: teochew_dp_en
-version: "20260608.075912"
+version: "20260614.165049"
 sort: by_weight
 ...
 
@@ -147,7 +147,7 @@ piu³puê⁵	abrasion	50
 改罪 (goi²zuê⁶)	absolve	100
 釋放 (sêg⁴bang³)	absolve	100
 赦罪 (sia³zuê⁶)	absolve	100
-疏大 (so³da¹)	absorb	100
+疏灱 (so³da¹)	absorb	100
 用盡力 (êng⁷zin⁶lad⁸)	absorb-all-ones-energies	100
 疏水 (so³zui²)	absorb-water	100
 戒 (gai³)	abstain	100
@@ -764,6 +764,7 @@ ga¹nng⁵	all-all-at-once	50
 結會 (gad⁴huê⁶)	alliance-to-form	100
 拜會 (bai³huê⁶)	alliance-to-form	100
 拜盟 (bai³mêng⁵)	alliance-to-form	100
+鱷魚 (ngag⁸ he⁵)	alligator	100
 分派 (hun¹pai³)	allot	100
 科派 (kuê¹pai³)	allot	100
 分 (bun¹)	allot	100
@@ -883,6 +884,7 @@ giam¹gua⁶	also	50
 咸個 (ham⁶gai⁵)	altogether	100
 咸巴郎 (ham⁶ba¹lan¹)	altogether	100
 攏總 (long²zong²)	altogether	100
+所行皆是詐僞 (so² giaⁿ⁵ gai¹ si⁶ za³ ngui⁶)	altogether-hypocritical	100
 白矾 (bêh⁸huan⁵)	alum	100
 終久 (zong¹gu²)	always	100
 下下 (ê⁷ê⁷)	always	100
@@ -892,6 +894,7 @@ giam¹gua⁶	also	50
 排時 (bai⁵si⁵)	always	100
 時時 (si⁵si⁵)	always	100
 常時 (siêⁿ⁵si⁵)	always	100
+子 (ze²)	AM	100
 我是 (ua² si⁶)	am-I	100
 我會凊 (ua² oi⁶cin³)	am-I-am-cold	100
 我有病 (ua² u⁶bêⁿ⁷)	am-I-am-sick	100
@@ -1025,9 +1028,12 @@ kuaⁿ³cêng⁷	ample	50
 揪碇 (ciu⁵dêng³)	anchor-to-weigh	100
 起碇 (ki²dêng³)	anchor-to-weigh	100
 挈碇 (kiêh⁴dêng³)	anchor-to-weigh	100
+埠頭 (bou¹ tao⁵)	anchorage	100
 鼓 (gou²)	ancient	100
 古教 (gou²ga³)	ancient-doctrines	100
+書經 (ze¹giaⁿ¹)	ancient-history	100
 古人 (gou²nang⁵)	ancient-men	100
+古詩 (gou² si¹)	ancient-poetry	100
 古早 (gou²za²)	ancient-time	100
 古早 (gou²za²)	ancient-times	100
 古時 (gou²si⁵)	ancient-times	100
@@ -1069,6 +1075,7 @@ gua⁶	and	50
 牲口 (sêⁿ¹kao²)	animal	100
 眾牲 (zêng¹sêⁿ¹)	animal-domestic	100
 野獸 (ia²siu³)	animal-wild	100
+牲畜 (sêng¹ tiog⁴)	animals	100
 鼓舞 (gou²bhu²)	animate	100
 鼓合 (gou²gah⁴)	animate	100
 八角香 (boih⁴gag⁴hiêⁿ¹)	aniseed	100
@@ -1076,9 +1083,11 @@ gua⁶	and	50
 小茴 (siê²huê⁵)	aniseed-fennel-or-coriander	100
 骹目 (ka¹mag⁸)	ankle	100
 骹目 (ka¹mag⁸)	ankles	100
+骹環 (ka¹ huan⁵)	anklets	100
 歷代史鑑 (lêh⁸do⁷ se²gam³)	annals	100
 史冊 (se²cêh⁴)	annals	100
 史記 (se²gi³)	annals	100
+春秋 (cun¹ciu¹)	annals-by	100
 接 (ziab⁴)	annex	100
 貼 (dah⁴)	annex	100
 綴 (duê³)	annex	100
@@ -1378,6 +1387,7 @@ uan⁵mng⁵	arch-arched-door	50
 規除乘分 (gui¹de⁵ sêng⁵bun¹)	arithmetic	100
 算法 (sng³huab⁴)	arithmetic	100
 手 (ciu²)	arm	100
+手臂 (ciu² bi³)	arm	100
 攬 (lam²)	arm-clasp-in-the-arms	100
 抱 (po⁶)	arm-clasp-in-the-arms	100
 叉手 (ca¹ciu²)	arm-cross-the-arms	100
@@ -1610,9 +1620,10 @@ uan⁵mng⁵	arch-arched-door	50
 免疑 (miên²ghi⁵)	assuredly	100
 定着 (diaⁿ⁷diêh⁸)	assuredly	100
 菊花 (gêg⁴huê¹)	aster-China	100
-嘿喘 (hê¹cuan²)	asthma	100
-嘿氣 (hê¹ki³)	asthma	100
-嘿龜抽 (hê¹gu¹tiu¹)	asthma	100
+嗄 (hê¹)	asthma	100
+嗄喘 (hê¹cuan²)	asthma	100
+嗄氣 (hê¹ki³)	asthma	100
+嗄龜抽 (hê¹gu¹tiu¹)	asthma	100
 駭異人个耳目 (hai⁶i⁶ nang⁵ gai⁵ re²mag⁸)	astonish	100
 乞人駭異 (ked⁴nang⁵ hai⁶i⁶)	astonish	100
 使人奇異 (sai²nang⁵ ki⁵i⁶)	astonish	100
@@ -1721,6 +1732,7 @@ kang⁵kia⁵	attend-on-sick-person	50
 阿丈 (a¹diêⁿ⁶)	aunt-aunts-husband	100
 姑丈 (gou¹diêⁿ⁶)	aunt-aunts-husband	100
 母姨 (bho²i⁵)	aunt-maternal	100
+阿姆 (a¹ m²)	aunt-paternal	100
 阿姑 (a¹gou¹)	aunt-paternal	100
 吉 (gid⁴)	auspicious	100
 吉兆 (gid⁴diau⁶)	auspicious	100
@@ -1916,6 +1928,7 @@ ho²kiab⁴	bad-good-and-bad	50
 善惡 (siên⁶ag⁴)	bad-good-and-bad	100
 僥心 (hiou¹sim¹)	bad-hearted	100
 糜骹 (miⁿ⁵ka¹)	bad-leg	100
+惡人 (ag⁴ nang⁵)	bad-man	100
 天時毋孬 (tiⁿ¹si⁵ m⁷moⁿ²)	bad-weather	100
 號 (ho⁷)	badge	100
 字號 (ri⁷ho⁷)	badge	100
@@ -1991,6 +2004,8 @@ ho²kiab⁴	bad-good-and-bad	50
 竹笋 (dêg⁴sun²)	bamboo-shoots	100
 竹篾 (dêg⁴bhih⁸)	bamboo-slips-for-wicker-work	100
 竹器 (dêg⁴ki³)	bamboo-ware	100
+四枝竹 (si³ gi¹ dêg⁴)	Bamboos	100
+竹厝 (dêg⁴ cu³)	bambu-house	100
 弓蕉 (gêng¹ziê¹)	banana	100
 弓蕉 (gêng¹ziê¹)	bananas	100
 帶 (dua³)	band	100
@@ -2076,6 +2091,7 @@ ciah⁴ga¹lid⁴	bare-body	50
 露體 (lou³toi²)	bare-body	100
 褪裼裼 (tng³têh⁴têh⁴)	bare-body	100
 褪赤骹 (tng³ciah⁴ka¹)	bare-foot	100
+褪掉衫 (tng³diau⁷saⁿ¹)	bare-to-strip-bare	100
 無廉恥 (bho⁵liam⁵ci²)	barefaced	100
 毋知少禮 (m⁷zai¹ siau²li²)	barefaced	100
 面皮厚 (min⁷puê⁵ gao⁶)	barefaced	100
@@ -2088,6 +2104,7 @@ ciah⁴ga¹lid⁴	bare-body	50
 價錢呾定着 (gê³ziⁿ⁵ daⁿ³diaⁿ⁷diêh⁸)	bargain-to-fix	100
 立約 (lib⁸iêh⁴)	bargain-to-fix	100
 價錢呾定着 (gê³ziⁿ⁵ daⁿ³diaⁿ⁷diêh⁸)	bargain-to-make	100
+樹皮 (ciu⁷ puê⁵)	bark	100
 樹皮 (ciu⁷puê⁵)	bark	100
 吠 (bui⁷)	bark-as-dogs	100
 狗吠 (gao² bui⁷)	bark-dog	100
@@ -2166,6 +2183,7 @@ cun¹lui²	basket	50
 浴桶 (êg⁸tang²)	bathe-bath-tub	100
 骹桶 (ka¹tang²)	bathe-bath-tub	100
 洗浴桶 (soi²êg⁸tang²)	bathe-bath-tub	100
+三條浴布 (saⁿ¹ diou⁵ êg⁸ bou³)	Bathing-cloths	100
 炮臺 (pao³tai⁵)	battery	100
 拍破城 (pah⁴pua³siaⁿ⁵)	battery-batter-a-wall	100
 交戰 (gao¹ziên³)	battle	100
@@ -2181,9 +2199,13 @@ cun¹lui²	basket	50
 海角 (hai²gag⁴)	bay	100
 海澳 (hai²o³)	bay	100
 銃頭槍 (cêng³tao⁵ciêⁿ¹)	bayonet	100
+謹心睇冊 (gen² sim¹ toiⁿ² cêh⁴)	be-attentive-to-your-books	100
 病 (bêⁿ⁷)	be-ill-sickness	100
+孝順先生 (hao³ sun⁶ sin¹sêⁿ¹)	be-obedient-to-your-teacher	100
+猛猛 (mê² mê²)	be-quick	100
 未食先食 (bhuê⁷ziah⁸ soiⁿ¹ziah⁸)	be-taken-before-meals	100
 着力 (dih⁸lad⁸)	be-very-ill-almost-dying	100
+海墘 (hai² giⁿ⁵)	beach	100
 海墘 (hai²giⁿ⁵)	beach	100
 海坪 (hai²piaⁿ⁵)	beach	100
 煙堆 (in¹dun¹)	beacon	100
@@ -2208,9 +2230,11 @@ cun¹lui²	basket	50
 大棟楹 (dua⁷dang³êⁿ⁵)	beam-the-main-beam	100
 菜豆 (cai³dao⁷)	bean	100
 豆 (dao⁷)	bean	100
+荳 (dao⁷)	bean	100
 箍 (kou¹)	bean-cake	100
 豆箍 (dao⁷kou¹)	bean-cake	100
 豆乾 (dao⁷guaⁿ¹)	bean-curd	100
+四粒荳 (si³ liab⁸ dao⁷)	Beans	100
 熊 (him¹)	bear	100
 熊 (him⁵)	bear	100
 熊膽 (him⁵daⁿ²)	bear-bears-gall	100
@@ -2277,6 +2301,7 @@ gong¹sia⁷	bearer-in-addressing-them	50
 相拍 (siê¹pah⁴)	beat-one-another	100
 拍頭拍額 (pah⁴tao⁵ pah⁴hiah⁸)	beat-ones-own-head	100
 拍稻 (pah⁴diu⁶)	beat-rice	100
+拍阿孥囝 (pah⁴ a¹nou⁵ giaⁿ²)	beat-the-boy	100
 拍心肝 (pah⁴sim¹guaⁿ¹)	beat-the-breast	100
 捶胸 (dui⁵hêng¹)	beat-the-breast	100
 扣雀 (ka³ziauh⁴)	beat-the-time	100
@@ -2338,6 +2363,7 @@ hai²lo⁵puê⁵	beaver-skin	50
 眠床白布 (min⁵cng⁵ bêh⁸bou³)	bed-sheet	100
 落眠床夗 (loh⁸min⁵cng⁵ ghud⁸)	bed-to-go-to-bed	100
 鋪 (pou¹)	bed-tressel-bed	100
+眠床 (min⁵ cng⁵)	bedstead	100
 眠床 (min⁵cng⁵)	bedstead	100
 衊着塗粉 (mag⁴diêh⁸ tou⁵hun²)	bedust	100
 生煙塵 (sêⁿ¹êng¹dêng⁵)	bedust	100
@@ -2349,6 +2375,7 @@ hai²lo⁵puê⁵	beaver-skin	50
 蜜粕 (bhid⁸poh⁴)	bee-beeswax	100
 蜂蠟 (pang¹lah⁸)	bee-beeswax	100
 蜂蜜 (pang¹bhid⁸)	bee-honey	100
+牛肉 (ghu⁵ bhah⁴)	beef	100
 牛肉 (ghu⁵bhah⁴)	beef	100
 牛肉 (ghu⁵nêg⁸)	beef	100
 介蟲 (gai³tang⁵)	beetle	100
@@ -2356,6 +2383,7 @@ hai²lo⁵puê⁵	beaver-skin	50
 遇着事 (ngo⁶diêh⁸se⁷)	befall	100
 舞弄 (bhu²long⁶)	befool	100
 攏采 (long²cai²)	befool	100
+相摒擋 (siê¹bin¹dng³)	befool	100
 前 (zoiⁿ⁵)	before	100
 先 (soiⁿ¹)	before	100
 依原 (i¹nguan⁵)	before-as	100
@@ -2402,6 +2430,7 @@ hai²lo⁵puê⁵	beaver-skin	50
 行米 (giaⁿ⁵bhi²)	beggar	100
 討食 (to²ziah⁸)	beggar	100
 乞食樣 (ked⁴ziah⁸iêⁿ⁷)	beggar-beggarly	100
+乞食 (ked⁴ ziah⁸)	beggars	100
 初下做 (co¹ê⁷zo³)	begin	100
 起 (ki²)	begin	100
 起工 (ki²gang¹)	begin	100
@@ -2417,6 +2446,7 @@ hai²lo⁵puê⁵	beaver-skin	50
 初頭下 (co¹tao⁵ê⁷)	begin-beginning	100
 起初 (ki²co¹)	begin-beginning	100
 起先 (ki²soiⁿ¹)	begin-beginning	100
+今日起頭 (gim¹ rid⁸ ki² tao⁵)	begin-today	100
 起頭 (ki²tao⁵)	beginning	100
 縖帶 (ha⁵dua³)	begirt	100
 縛帶 (bag⁸dua³)	begirt	100
@@ -2510,6 +2540,7 @@ kou¹oh⁴	belch-hiccup	50
 趴腰 (pag⁴iê¹)	bend-the-back	100
 趴佝 (pag⁴gu¹)	bend-the-back	100
 頭曲趴下 (tao⁵kêg⁴ pag⁴gê⁶)	bend-the-body-forward	100
+拗彎此弓 (a²uan¹ zi² gêng¹)	bend-this-bow	100
 下 (ê⁶)	beneath	100
 下面 (ê⁶min⁷)	beneath	100
 下爿 (ê⁶boiⁿ⁵)	beneath	100
@@ -2713,6 +2744,7 @@ ti³niⁿ⁶	bigot	50
 收數 (siu¹siou³)	bill-collector	100
 開單 (kui¹duaⁿ¹)	bill-make-out	100
 鳥喙 (ziau²cui³)	bill-of-bird	100
+貨單 (huê³ duaⁿ¹)	bill-of-lading	100
 攬儎字 (nam²zai⁷ri⁷)	bill-of-lading	100
 書信 (ze¹sin³)	billet	100
 告字 (go³ri⁷)	billet	100
@@ -2734,6 +2766,7 @@ ti³niⁿ⁶	bigot	50
 合冊 (gab⁴cêh⁴)	bind-book	100
 夾書冊 (gab⁴ze¹cêh⁴)	bind-book	100
 纏骹 (diⁿ⁵ka¹)	bind-feet	100
+捆賊 (kun² cad⁸)	bind-the-thief	100
 鳥 (ziau²)	bird	100
 鳥 (ziou²)	bird	100
 鳥籠 (ziau²lang⁵)	bird-cage	100
@@ -2744,6 +2777,7 @@ ziau²ti¹	bird-lime	50
 鳥竇 (ziau²dao³)	bird-nest	100
 燕 (iên³)	birdnests	100
 燕窩 (iên³o¹)	birdnests	100
+鳥 (ziou²)	birds	100
 出世 (cud⁴si³)	birth	100
 生 (sêⁿ¹)	birth	100
 舊籍 (gu⁷zia⁶)	birth-birth-place	100
@@ -2753,6 +2787,8 @@ ziau²ti¹	bird-lime	50
 生日 (sêⁿ¹rid⁸)	birthday	100
 壽誕 (siu⁷dang³)	birthday	100
 共伊做生日 (gang⁷i¹zo³ sêⁿ¹rid⁸)	birthday-keep-ones	100
+餅 (biaⁿ²)	biscuit	100
+六塊餅 (lag⁸ go³ biaⁿ²)	Biscuits	100
 棕色 (zang¹sêg⁴)	bistre	100
 烏紅色 (ou¹ang⁵sêg⁴)	bistre	100
 豬肝色 (de¹guaⁿ¹sêg⁴)	bistre	100
@@ -2790,6 +2826,7 @@ ziau²ti¹	bird-lime	50
 拍鐵 (pah⁴tih⁴)	blacksmith	100
 拍鐵司阜 (pah⁴tih⁴ sai¹bê⁶)	blacksmith	100
 水脬 (zui²pa¹)	bladder	100
+尿胞 (riê⁷ bao¹)	bladder	100
 尿脬 (riê⁷pa¹)	bladder	100
 卵脬 (lan⁶pa¹)	bladder	100
 膀胱 (pang⁵guang¹)	bladder	100
@@ -2818,6 +2855,8 @@ ziau²ti¹	bird-lime	50
 麥粉粿 (bhêh⁸hun²guê²)	blanc-mange	100
 溫和 (un¹hua⁵)	bland	100
 溫柔 (un¹riu⁵)	bland	100
+簿 (pou⁶)	blank-book	100
+二本書簿 (no⁶ bng² su¹ pou⁶)	Blank-books	100
 氈條 (ziⁿ¹diau⁵)	blanket	100
 毯 (tang²)	blanket-for-bed	100
 咒天罵地 (ziu³tiⁿ¹ mêⁿ⁷di⁷)	blaspheme	100
@@ -2836,6 +2875,7 @@ huê² uang⁷uang⁷giê³	blaze	50
 糜目墘 (miⁿ⁵mag⁸giⁿ⁵)	bleareyed	100
 羊咩咩叫 (iêⁿ⁵ mehⁿ¹mehⁿ¹giê³)	bleat	100
 流血 (lao⁵huêh⁴)	bleed	100
+穿血 (cng³huêh⁴)	bleed-a-patient	100
 放出血 (bang³cud⁴huêh⁴)	bleed-a-patient	100
 挑血 (tiê¹huêh⁴)	bleed-a-patient	100
 出血 (cud⁴huêh⁴)	bleed-wound	100
@@ -2857,6 +2897,7 @@ huê² uang⁷uang⁷giê³	blaze	50
 乞霜雪凍死 (ked⁴ sng¹soh⁴ dang³si²)	blight-by-frost	100
 毋結實 (m⁷gad⁴sid⁸)	blight-in-grain	100
 毋結子 (m⁷gid⁴zi²)	blight-in-grain	100
+青盲 (cêⁿ¹ mê⁵)	blind	100
 青盲 (cêⁿ¹mêⁿ⁵)	blind	100
 失明 (sid⁴mêng⁵)	blind	100
 掠魚 (liah⁸he⁵)	blind-mans-buff	100
@@ -2990,6 +3031,7 @@ la¹gê³	boast	50
 舢板 (sam¹ban²)	boat	100
 艇囝 (têng²giaⁿ²)	boat	100
 寒船个人 (guaⁿ⁵zun⁵gai⁵nang⁵)	boat-boatman	100
+弓蓬 (gêng¹ pong⁵)	boat-cover	100
 橫渡 (huêⁿ⁵dou⁷)	boat-ferry	100
 過溪渡 (guê³koi¹dou⁷)	boat-ferry	100
 舵工 (dai⁶gong¹)	boat-head-ditto	100
@@ -2997,6 +3039,7 @@ la¹gê³	boast	50
 行船人 (giaⁿ⁵zun⁵nang⁵)	boatman	100
 肉身 (nêg⁸sin¹)	body	100
 身 (sin¹)	body	100
+身體 (sin¹ toi²)	body	100
 身分 (sin¹hun⁷)	body	100
 身體 (sin¹toi²)	body	100
 御林軍 (ghe⁷lim⁵gun¹)	bodyguard-imperial	100
@@ -3084,13 +3127,16 @@ lo⁷ho¹	bombastic	50
 一頂帽 (zêg⁸dêng²bho⁷)	bonnet-one	100
 戴帽 (di³bho⁷)	bonnet-to-put-on	100
 和尚 (huê⁵siêⁿ⁷)	bonze	100
+一本書冊 (zêg⁸ bng² ze¹ cêh⁴)	Book	100
 冊 (cêh⁴)	book	100
 書 (ze¹)	book	100
+書冊 (ze¹ cêh⁴)	book	100
 書冊 (ze¹cêh⁴)	book	100
 合冊 (gab⁴cêh⁴)	book-binding	100
 釘冊 (dêng³cêh⁴)	book-binding	100
 好讀書 (haoⁿ³tag⁸ze¹)	book-bookish	100
 冊櫥 (cêh⁴du⁵)	book-case	100
+書架 (ze¹ gê³)	book-case	100
 書櫥 (ze¹du⁵)	book-case	100
 經書 (giaⁿ¹ze¹)	book-classical-books	100
 著書 (du³ze¹)	book-compose-or-write-one	100
@@ -3146,6 +3192,7 @@ gêng¹su²	bore-borer	50
 重生 (dêng⁵sêⁿ¹)	born-again	100
 賒 (cia¹)	borrow	100
 借 (ziêh⁴)	borrow	100
+借船 (ziêh⁴ zun⁵)	borrow-the-boat	100
 借 (ziêh⁴)	borrow-to	100
 胸懷 (hêng¹huai⁵)	bosom	100
 懷 (huai⁵)	bosom	100
@@ -3200,6 +3247,7 @@ bho⁵ban⁷	boundless	50
 彈棉弓 (duaⁿ⁵miⁿ⁵gêng¹)	bow-bow-for-cotton	100
 弓箭手 (gêng¹ziⁿ³ciu²)	bow-bowman	100
 弓弦 (gêng¹hiⁿ⁵)	bow-bowstring	100
+磕頭 (kab⁴ tao⁵)	bow-down-the-head	100
 弓 (gêng¹)	bow-of-arrow	100
 作揖 (zag⁴ib⁴)	bow-to	100
 ib⁴za⁶	bow-to	50
@@ -3247,7 +3295,9 @@ tao⁵ diêⁿ³loh⁸lai⁵	bow-to	50
 奴囝豚 (nouⁿ⁵giaⁿ²tun⁵)	boy-boy-approaching-manhood-or	100
 四指呾無 (si³zoiⁿ² daⁿ³bho⁵)	boy-says	100
 小兒在耍 (nouⁿ¹giaⁿ² do⁶ sng²)	boys-are-playing	100
+抵 (di²)	brace	100
 手環 (ciu²huan⁵)	bracelet	100
+手環 (ciu² huan⁵)	bracelets	100
 kou³liau⁷	braces	50
 褲吊 (kou³diou³)	braces	100
 褲帶 (kou³dua³)	braces	100
@@ -3270,6 +3320,7 @@ la¹gê³	brag	50
 牽辮 (kan¹biⁿ⁶)	braid-put-on	100
 惱髓 (naoⁿ²cuê²)	brain	100
 頭殼髓 (tao⁵kag⁴cuê²)	brain	100
+頭殼髓 (tao⁵ kag⁴cuê²)	brains	100
 麥糠 (bhêh⁸kng¹)	bran	100
 麥麩 (bhêh⁸pou¹)	bran	100
 麥麩皮 (bhêh⁸pou¹puê⁵)	bran	100
@@ -3291,6 +3342,7 @@ la¹gê³	brag	50
 舞劍 (bhu²giam³)	brandish-a-sword	100
 弄劍 (mong⁶giam³)	brandish-a-sword	100
 紅銅 (ang⁵dang⁵)	brass	100
+黃銅 (ng⁵ dang⁵)	brass	100
 黃銅 (ng⁵dang⁵)	brass	100
 銅 (dang⁵)	brass	100
 銅薄 (dang⁵boh⁸)	brass-brass-leaf	100
@@ -3330,6 +3382,7 @@ uan¹gê¹ la⁵zê³	brawl	50
 沉信 (dim⁵sin³)	breach-of-trust	100
 失信 (sid⁴sin³)	breach-of-trust-faith	100
 拍破城 (pah⁴pua³siaⁿ⁵)	breach-of-wall	100
+麵包 (mi⁷ bao¹)	bread	100
 麵包 (miⁿ⁷bao¹)	bread	100
 煏麵包 (bêg⁴miⁿ⁷bao¹)	bread-toasted	100
 闊處 (kuah⁴cu³)	breadth	100
@@ -3363,6 +3416,7 @@ uan¹gê¹ la⁵zê³	brawl	50
 旺船 (uang⁶zun⁵)	bream-a-boat	100
 爁火 (naⁿ⁶huê²)	bream-to	100
 胸前 (hêng¹zoiⁿ⁵)	breast	100
+乳 (ni⁶)	breast	100
 心肝頭 (sim¹guaⁿ¹tao⁵)	breast	100
 奶虎 (niⁿ¹houⁿ²)	breast-abscess-in-female-breast	100
 胸前骨 (hêng¹zoiⁿ⁵gud⁴)	breast-breastbone	100
@@ -3409,16 +3463,19 @@ uan¹gê¹ la⁵zê³	brawl	50
 使用 (sai²êng⁷)	bribe-to	100
 食錢 (ziah⁸ziⁿ⁵)	bribe-to-receive	100
 受賄 (siu⁶iu⁶)	bribe-to-receive	100
+一塊磚 (zêg⁸ go³ zng¹)	Brick	100
 磚 (zng¹)	brick	100
 燒磚窯 (siê¹zng¹iê⁵)	brick-kiln	100
 鋪磚 (pou¹zng¹)	brick-to-lay	100
 相磚 (siê¹zng¹)	brick-to-make	100
 紅磚 (ang⁵zng¹)	bricks	100
+新娘 (sin¹ niêⁿ⁵)	bride	100
 新人 (sin¹nang⁵)	bride	100
 新娘 (sin¹niêⁿ⁵)	bride	100
 ciêh⁸tao⁵	bride-bridal-dress	50
 妝奩 (zng¹liam⁵)	bride-portion	100
 嫁妝 (gê³zng¹)	bride-portion	100
+新郎 (sin¹ nng⁵)	bridegroom	100
 新人爹 (sin¹nang⁵dia¹)	bridegroom	100
 新娘爹 (sin¹niêⁿ⁵dia¹)	bridegroom	100
 新郎 (sin¹nng⁵)	bridegroom	100
@@ -3482,6 +3539,7 @@ zah⁴lai⁵	bring	50
 大英國 (dai⁶êng¹ gog⁴)	britain	100
 酥 (sou¹)	brittle	100
 闊 (kuah⁴)	broad	100
+闊曠 (kuah⁴kng³)	broad	100
 寛 (kuaⁿ³)	broad	100
 寬 (kuaⁿ³)	broad	100
 kuaⁿ³cêng⁷	broad	50
@@ -3511,6 +3569,7 @@ uan¹gê¹ la⁵zê³	broil	50
 坑 (kêⁿ¹)	brook	100
 山坑 (suaⁿ¹kêⁿ¹)	brook	100
 耐毋去 (naiⁿ⁶m⁷ke³)	brook-cannot	100
+掃帚 (sao³ siu²)	broom	100
 掃帚 (sao³ziu²)	broom	100
 掃帚 (sao³siu²)	broom	100
 掃彗 (sao³soi¹)	broom	100
@@ -3520,7 +3579,9 @@ uan¹gê¹ la⁵zê³	broil	50
 妓館 (gi⁶guan²)	brothel	100
 騷館 (sao¹guan²)	brothel	100
 兄弟 (hiaⁿ¹di⁶)	brother-brothers	100
+阿兄 (a¹ hiaⁿ¹)	brother-elder	100
 阿兄 (a¹hiaⁿ¹)	brother-elder	100
+阿舅 (a¹ gu⁶)	brother-in-law	100
 妻舅 (ci¹gu⁶)	brother-in-law-wifes-brother	100
 兄 (hiaⁿ¹)	brother-older	100
 親兄弟 (cin¹hiaⁿ¹di⁶)	brother-ones-own	100
@@ -3583,6 +3644,7 @@ kan¹had⁸	bubo-non-venereal	50
 拔斗 (buah⁸dao²)	bucket-for-well	100
 拔桶 (buah⁸tang²)	bucket-for-well	100
 吊桶 (diau³tang²)	bucket-with-bow-handle	100
+鈕扣 (niu² kao³)	buckle	100
 手牌 (ciu²bai⁵)	buckler	100
 牌 (bai⁵)	buckler	100
 藤牌 (din⁵bai⁵)	buckler	100
@@ -3625,6 +3687,7 @@ biouh⁴sun²	bud-to	50
 塌入 (tab⁴rib⁸)	bulge-inwards	100
 lo⁵ho¹	bulky	50
 大 (dua⁷)	bulky	100
+牛牯 (ghu⁵ gou²)	bull	100
 牛牯 (ghu⁵gou²)	bull	100
 牛牯囝 (ghu⁵gou²giaⁿ²)	bull-young	100
 銃子 (cêng³zi²)	bullet	100
@@ -3757,19 +3820,24 @@ bid⁴kui¹	burst	50
 侍仔 (si⁶zai²)	butler	100
 相觸 (siê¹dag⁴)	butt	100
 觸 (dag⁴)	butt-to	100
+牛乳油 (ghu⁵ ni⁶ iu⁵)	butter	100
 牛奶油 (ghu⁵niⁿ⁶iu⁵)	butter	100
 牛奶朥 (ghu⁵niⁿ⁶la⁵)	butter	100
 尾蝶 (bhuê²iah⁸)	butterfly	100
 葉鍱 (hiab⁸diab⁸)	butterfly	100
+蝴蝶 (hu⁵ diab⁸)	butterfly	100
 蝴蝶 (hu⁵diab⁸)	butterfly	100
 尻川 (ka¹cng¹)	buttock	100
 尻川爿 (ka¹cng¹boiⁿ²)	buttock	100
 尻川爿 (ka¹cng¹boiⁿ⁵)	buttock	100
+一粒鈕 (zêg⁸ liab⁸ niu²)	Button	100
 鈕 (liu²)	button	100
+鈕 (niu²)	button	100
 紐 (niuⁿ²)	button	100
 衫紐 (saⁿ¹niuⁿ²)	button	100
 金扣 (gim¹kao³)	button-gold	100
 金紐 (gim¹niuⁿ²)	button-gold	100
+鈕縫 (niu² pang⁷)	button-hole	100
 紐襻 (niuⁿ²pang³)	button-hole	100
 鈕縫 (liu²pang⁷)	button-holes	100
 zo²niuⁿ²	button-made-of-cloth	50
@@ -3782,6 +3850,7 @@ zo²niuⁿ²	button-made-of-cloth	50
 牆盾 (ciêⁿ⁵dun²)	buttress	100
 橋礅 (giê⁵dun²)	buttress-of-bridge	100
 買 (bhoi²)	buy	100
+買衫褲 (bhoi² saⁿ¹ kou³)	buy-a-jacket-trowsers	100
 買賣 (bhoi²bhoi⁷)	buy-and-sell	100
 鉸布 (ga¹bou³)	buy-as-cloth	100
 沽酒 (gou¹ziu²)	buy-as-oil-wine	100
@@ -3799,6 +3868,7 @@ zo²niuⁿ²	button-made-of-cloth	50
 拍豬肉 (pah⁴de¹nêg⁸)	buy-pork	100
 糧米 (niêⁿ⁵bhi²)	buy-rice	100
 糴米 (diah⁸bhi²)	buy-rice	100
+糴米 (diah⁸ bhi²)	buy-some-rice	100
 雞卵買三十粒 (goi¹nng⁶ bhoi² saⁿ¹zab⁸ liab⁸)	buy-thirty-fowls-eggs	100
 沽酒 (gou¹ziu²)	buy-wine	100
 哼哼叫 (hng¹hng¹giê³)	buzz	100
@@ -3908,6 +3978,7 @@ so¹luah⁸	cajole	50
 昌蒲 (ciang¹pu⁵)	calamus	100
 才酌 (cai⁵ziag⁴)	calculate	100
 才達 (cai⁵dad⁸)	calculate	100
+拍算 (pah⁴ sng³)	calculate	100
 拍算 (pah⁴sng³)	calculate	100
 pêⁿ¹pah⁴	calculate	50
 算 (sng³)	calculate	100
@@ -3924,6 +3995,7 @@ pêⁿ¹pah⁴	calculate	50
 踏石 (dah⁸ziêh⁸)	calender-calender-stone	100
 踏布石 (dah⁸bou³ziêh⁸)	calender-calender-stone	100
 布軸 (bou³dêg⁸)	calender-the-pin	100
+牛囝 (ghu⁵ giaⁿ²)	calf	100
 牛囝 (ghu⁵giaⁿ²)	calf	100
 骹腸肚 (ka¹dng⁵dou²)	calf-calf-of-leg	100
 牛生囝 (ghu⁵ sêⁿ¹giaⁿ²)	calf-to-calve	100
@@ -3955,6 +4027,7 @@ sêⁿ¹lang¹	callous	50
 oh⁸ gao³gang¹ngê⁶	callous-heart	50
 心如鐵石 (sim¹ ru⁵tih⁴ziêh⁸)	callous-heart	100
 心硬 (sim¹ ngê⁶)	callous-heart	100
+無風 (bho⁵ huang¹)	calm	100
 無風 (bho⁵huang¹)	calm	100
 恬風靜浪 (diam⁷huang¹ zêⁿ⁶nng⁷)	calm	100
 從從容容 (cong⁵cong⁵ iong⁵iong⁵)	calm-taking-things-calmly	100
@@ -3963,6 +4036,7 @@ oh⁸ gao³gang¹ngê⁶	callous-heart	50
 bu³lu⁶	calumniate	50
 bu³lu⁶ miaⁿ⁵sêg⁴	calumniate	50
 駱駝 (loh⁸toh⁸)	camel	100
+駝 (toh⁸)	camel	100
 茶花 (dê⁵huê¹)	camellia	100
 羽毛 (u²moⁿ⁵)	camlet	100
 羽紗 (u²sê¹)	camlet	100
@@ -3985,6 +4059,7 @@ bu³lu⁶ miaⁿ⁵sêg⁴	calumniate	50
 樟柴 (ziêⁿ¹ca⁵)	camphor-wood	100
 能 (lêng⁵)	can	100
 會 (oi⁶)	can	100
+能 (oi⁶)	can	100
 會得 (oi⁶did⁴)	can	100
 阿毋別 (a¹m⁷bad⁴)	can-can-you-do-this	100
 汝做別地去 (le² zo³ bad⁴do³ke³)	can-can-you-do-this	100
@@ -4038,6 +4113,7 @@ bu³lu⁶ miaⁿ⁵sêg⁴	calumniate	50
 藤 (din⁵)	cane	100
 藤椅 (din⁵iⁿ²)	cane-cane-chair	100
 蔗 (zia³)	cane-sugar-cane	100
+十三枝棍 (zab⁸ saⁿ¹ gi¹ gun³)	Canes	100
 枷 (gê⁵)	cangue	100
 擔枷 (daⁿ¹gê⁵)	cangue-wear	100
 茶米罐 (dê⁵bhi²guan³)	canister-tea	100
@@ -4073,6 +4149,7 @@ bu³lu⁶ miaⁿ⁵sêg⁴	calumniate	50
 dao⁷bha⁵	cantharides	50
 目眥 (mag⁸ce⁵)	canthus-of-eye	100
 目頭目尾 (mag⁸tao⁵ mag⁸bhuê²)	canthus-of-eye	100
+州 (ziu¹)	Canton	100
 兩廣 (liang²guang²)	Canton-Canton-and-Kwang-si	100
 兩粵 (liang²uad⁸)	Canton-Canton-and-Kwang-si	100
 羊城 (iêⁿ⁵siaⁿ⁵)	Canton-city	100
@@ -4085,7 +4162,9 @@ dao⁷bha⁵	cantharides	50
 廣東省 (gng²dang¹sêⁿ²)	Canton-province	100
 粵東 (uad⁸dang¹)	Canton-province	100
 帆布 (pang⁵bou³)	canvas	100
+帆布 (pang⁵ bou³)	canvass	100
 帽 (bho⁷)	cap	100
+帽囝 (bho⁷ giaⁿ²)	cap	100
 帽囝 (bho⁷giaⁿ²)	cap	100
 小帽 (siê²bho⁷)	cap	100
 一頂帽 (zêg⁸dêng²bho⁷)	cap-one	100
@@ -4116,6 +4195,7 @@ cog⁸cog⁸tiau³	caper	50
 京都 (giaⁿ¹dou¹)	capital-city	100
 死罪 (si²zuê⁷)	capital-crime	100
 母錢 (bho²ziⁿ⁵)	capital-lent	100
+省城 (sêⁿ² siaⁿ⁵)	capital-of-a-province	100
 降服 (hang⁵hog⁸)	capitulate	100
 到免戰排 (gao³ miên²ziên³bai⁵)	capitulate	100
 投降 (dao⁵hang⁵)	capitulate	100
@@ -4239,6 +4319,7 @@ ao³gud⁴	caries	50
 木工司阜 (bhag⁸gang¹ sai¹bê⁶)	carpenter	100
 鋪氈 (pou¹ziⁿ¹)	carpet	100
 鋪地氈 (pou¹di⁷ziⁿ¹)	carpet	100
+馬車 (bhê² cia¹)	carriage	100
 馬車 (bhê²cia¹)	carriage	100
 樣 (iêⁿ⁷)	carriage-demeanour	100
 款 (kuan²)	carriage-demeanour	100
@@ -4266,6 +4347,7 @@ ia⁶	carry-on-the-back	50
 置在頭殼頂 (di³ do⁶tao⁵kag⁴dêng²)	carry-on-the-head	100
 背 (bi³)	carry-over-the-shoulder	100
 扛轎 (gng¹giê⁷)	carry-sedan-chair	100
+此物還先生 (zi² muêh⁸,haiⁿ⁵ sin¹sêⁿ¹)	carry-this-to-the-teacher	100
 zah⁴	carry-with-one	50
 帶 (dua³)	carry-with-one	100
 車 (cia¹)	cart	100
@@ -4364,6 +4446,7 @@ ao³ziⁿ⁵	cash-bad-or-light-cash	50
 鑄生 (zu³sêⁿ¹)	cast-metal	100
 鑄鐵 (zu³tih⁴)	cast-metal	100
 剝殼 (bag⁴kag⁴)	cast-the-skin	100
+鑄印 (zu³ in³)	cast-type	100
 扣雀 (ka³ziauh⁴)	castanets	100
 責罰 (zêh⁴huad⁸)	castigate	100
 責備 (zêh⁴bi⁶)	castigate	100
@@ -4456,9 +4539,11 @@ zang¹huê² lai⁵cih⁴	cauterize	50
 馬兵 (bhê²biaⁿ¹)	cavalry	100
 騎馬兵 (kia⁵bhê²biaⁿ¹)	cavalry	100
 石洞 (ziêh⁸dang⁷)	cave	100
+穴 (huad⁸)	cave	100
 山發 (suaⁿ¹huad⁴)	cave	100
 山空 (suaⁿ¹kang¹)	cave	100
 山洞 (suaⁿ¹dang⁷)	cave	100
+洞 (dang⁷)	cavern	100
 辯駁 (biên⁶boh⁴)	cavil	100
 相詏 (siê¹a³)	cavil	100
 鬥喙水 (dao³cui³zui²)	cavil	100
@@ -4509,6 +4594,7 @@ zang¹huê² lai⁵cih⁴	cauterize	50
 可責 (ko²zêh⁴)	censurable	100
 查家甲 (cê⁵gê¹gah⁴)	census-to-take	100
 查民籍 (cê⁵min⁵zia⁶)	census-to-take	100
+蜈蚣 (ghê⁵ gang¹)	centipede	100
 蜈蚣 (ghê⁵gang¹)	centipede	100
 鎮中 (din³dang¹)	centre	100
 在中央 (do⁶dong¹iang¹)	centre	100
@@ -4572,6 +4658,7 @@ zang¹huê² lai⁵cih⁴	cauterize	50
 鐵索 (tih⁴soh⁴)	chain-iron-chain	100
 鐵鍊 (tih⁴liên⁷)	chains	100
 椅 (iⁿ²)	chair	100
+交椅 (gao¹ i¹)	chair	100
 交椅 (gao¹iⁿ²)	chair	100
 高椅 (gao¹iⁿ²)	chair	100
 交椅 (gao¹iⁿ²)	chair-arm-chair	100
@@ -4585,6 +4672,8 @@ bhê²zah⁴iⁿ²	chair-camp-chair	50
 一頂轎 (zêg⁸dêng²giê⁷)	chair-one-sedan-chair	100
 轎 (giê⁷)	chair-sedan	100
 坐轎 (zo⁶giê⁷)	chair-sit-in	100
+十八隻椅 (zab⁸ boih⁴ ziah⁴ i¹)	Chairs	100
+笮 (zêg⁴)	chak	100
 水粉 (zui²hun²)	chalk	100
 火石粉 (huê²ziêh⁸hun²)	chalk	100
 粉線 (hun²suaⁿ³)	chalk-chalk-line	100
@@ -4593,6 +4682,7 @@ bhê²zah⁴iⁿ²	chair-camp-chair	50
 挑戰 (tiê¹ziên³)	challenge	100
 下戰書 (hê⁶ziên³ze¹)	challenge-give-a-challenge	100
 內房 (lai⁶bang⁵)	chamber	100
+樓頂 (lao⁵ dêng²)	chamber	100
 房間 (bang⁵goiⁿ¹)	chamber	100
 勘燈 (kam³dêng¹)	chamber-chamber-lamp	100
 尿壺 (riê⁷hu⁵)	chamber-utensil	100
@@ -4734,6 +4824,7 @@ pid⁸puêh⁸	chat	50
 呾閒話 (daⁿ³oiⁿ⁵uê⁷)	chat	100
 談論 (tam⁵lun⁶)	chat	100
 談言 (tam⁵ngan⁵)	chat	100
+二枝凉傘 (no⁶ gi¹ liang⁵ suaⁿ³)	Chattas	100
 家資 (gê¹ze¹)	chattels	100
 家伙 (gê¹huê²)	chattels	100
 家私六畜 (gê¹si¹ lag⁸tiog⁴)	chattels	100
@@ -4770,6 +4861,7 @@ pid⁸puêh⁸	chat	50
 住瀉 (zu⁶sia³)	check-diarrhoea	100
 遏止家己 (ad⁴zi² ga¹gi⁷)	check-oneself	100
 止痛 (zi²tiaⁿ³)	check-pain	100
+頰溝 (gih⁴ gao¹)	cheek	100
 頰溝 (gih⁴gao¹)	cheek	100
 頰溝 (gih⁴gao¹)	cheeks	100
 共人開心 (gang⁷nang⁵ kui¹sim¹)	cheer	100
@@ -4777,6 +4869,8 @@ pid⁸puêh⁸	chat	50
 安慰 (uaⁿ¹uê³)	cheer	100
 喜容 (hi²iong⁵)	cheer-cheerful	100
 爽快 (song²kuai³)	cheer-cheerful	100
+快樂 (kuai³ lag⁸)	cheerful	100
+牛乳餅 (ghu⁵ ni⁶ biaⁿ²)	cheese	100
 牛奶餅 (ghu⁵niⁿ⁶biaⁿ²)	cheese	100
 撫養 (bhu²iang²)	cherish	100
 囥在心內 (kng³ do⁶sim¹lai⁶)	cherish-in-the-mind	100
@@ -4787,6 +4881,7 @@ pid⁸puêh⁸	chat	50
 壓棋 (dêh⁴gi⁵)	chess-play	100
 經棋 (gêng¹gi⁵)	chess-to-consider-before-moving	100
 壓棋 (dêh⁴gi⁵)	chess-to-play	100
+胸 (hêng¹)	chest	100
 箱 (siêⁿ¹)	chest	100
 心肝頭 (sim¹guaⁿ¹tao⁵)	chest	100
 箱 (siêⁿ¹)	chest-box	100
@@ -4796,6 +4891,7 @@ pid⁸puêh⁸	chat	50
 心肝頭 (sim¹guaⁿ¹tao⁵)	chest-the-chest	100
 侯栗 (gao⁶lag⁸)	chestnut	100
 侯栗 (gao⁶lag⁸)	chestnuts	100
+三骹櫃 (saⁿ¹ ka¹ gui⁷)	Chests-of-drawers	100
 咬 (ga⁶)	chew	100
 哺 (bou⁷)	chew	100
 反草 (huan¹cao²)	chew-the-cud	100
@@ -4804,6 +4900,7 @@ pid⁸puêh⁸	chat	50
 奸詐 (gan¹za³)	chicanery	100
 詭計 (ngui⁶goi³)	chicanery	100
 心事㩼 (sim¹se⁷ zoi⁷)	chicanery	100
+雞囝 (goi¹ giaⁿ²)	chicken	100
 雞囝 (goi¹giaⁿ²)	chicken	100
 無膽 (bho⁵daⁿ²)	chicken-hearted	100
 蚊膽 (bhun¹daⁿ²)	chicken-hearted	100
@@ -4839,6 +4936,8 @@ pid⁸puêh⁸	chat	50
 無囝無兒 (bho⁵giaⁿ² bho⁵ri¹)	childless	100
 凊 (cin³)	chill	100
 寒 (guaⁿ⁵)	chill	100
+辣椒 (luah⁸ ziê¹)	chilli	100
+七粒辣椒 (cid⁴ liab⁸ luah⁸ ziê¹)	Chillies	100
 薟椒 (hiam¹ziê¹)	chillies	100
 金橄欖 (gim¹gaⁿ¹naⁿ²)	chillies	100
 薟椒是番爿來个 (hiam¹ziê¹ si⁶ huan¹boiⁿ⁵ lai⁵gai⁵)	chillies-come-from-foreign-countries	100
@@ -4887,6 +4986,7 @@ pid⁸puêh⁸	chat	50
 叫 (zih⁴ziauh⁸giê³)	chirp-bird	100
 竹蟀叫 (dêg⁴sud⁴ giang¹giang¹giê³)	chirp-crickets	100
 叫 (diang¹diang¹giê³)	chirp-crickets	100
+鑿囝 (cag⁸ giaⁿ²)	chisel	100
 鑿囝 (cag⁸giaⁿ²)	chisel	100
 鏨 (zam⁶)	chisel-for-cutting-iron	100
 鐵鏨 (tih⁴zam⁶)	chisel-for-cutting-iron	100
@@ -4930,6 +5030,7 @@ pid⁸puêh⁸	chat	50
 斫 (dog⁴)	chop-to	100
 方刀 (bang¹do¹)	chopper	100
 砧 (diam¹)	chopping-block	100
+箸 (de⁷)	chopstick	100
 箸 (de⁷)	chopsticks	100
 挾 (goih⁴)	chopsticks-lift-with	100
 騎箸 (kia⁵de⁷)	chopsticks-to-hold	100
@@ -4969,6 +5070,7 @@ kih⁴kih⁴ciê³	chuckle	50
 灰埕 (huê¹diaⁿ⁵)	chunam-floor	100
 灰路 (huê¹lou⁷)	chunam-road	100
 灰牆 (huê¹ciêⁿ⁵)	chunam-walls	100
+禮拜堂 (loi² bai³ dng⁵)	church	100
 禮拜堂 (loi²bai³dng⁵)	church	100
 聖堂 (sêng³dng⁵)	church	100
 會堂 (huê⁶dng⁵)	church-building	100
@@ -5110,6 +5212,7 @@ ga¹sud⁴	clamp	50
 班 (ban¹)	class-as-in-school	100
 歸類 (gui¹lui⁷)	class-classify	100
 經 (giaⁿ¹)	classics	100
+經書 (giaⁿ¹ ze¹)	classics	100
 經典 (giaⁿ¹diên²)	classics-classical-expression	100
 典故 (diên²gu³)	classics-classical-expression	100
 五經 (ngou²giaⁿ¹)	classics-the-five-Chinese	100
@@ -5152,6 +5255,7 @@ kid⁴kog⁴log⁸giê³	clatter	50
 明 (mêng⁵)	clear-of-affairs	100
 明白 (mêng⁵bêh⁸)	clear-of-affairs	100
 清 (cêng¹)	clear-of-water	100
+大字 (dua⁷ ri⁷)	clearance	100
 船排 (zun⁵bai⁵)	clearance-ships	100
 現 (hin⁷)	clearly	100
 明現 (mêng⁵hin⁷)	clearly	100
@@ -5168,6 +5272,7 @@ kid⁴kog⁴log⁸giê³	clatter	50
 慈心 (ce⁵sim¹)	clemency	100
 寬容 (kuan¹iong⁵)	clemency	100
 恩惠 (en¹hui⁶)	clemency	100
+財副 (cai⁵ hu³)	clerk	100
 財副 (cai⁵hu³)	clerk	100
 書辦 (ze¹poiⁿ⁷)	clerk	100
 阿本 (a¹bun²)	clerk-in-civil-court	100
@@ -5214,8 +5319,10 @@ kid⁴kog⁴log⁸giê³	clatter	50
 鉸 (ga¹)	clip	100
 鉸短 (ga¹do²)	clip	100
 布碎 (bou³cui³)	clip-clippings	100
+風幔 (huang¹ mua¹)	cloak	100
 幔 (muaⁿ¹)	cloak	100
 大袍 (dua⁷pao⁵)	cloak	100
+時鐘 (si⁵ zêng¹)	clock	100
 時鐘 (si⁵zêng¹)	clock	100
 時辰鐘 (si⁵sin⁵zêng¹)	clock	100
 九點鐘 (gao²diam²zêng¹)	clock-oclock	100
@@ -5235,6 +5342,7 @@ kid⁴kog⁴log⁸giê³	clatter	50
 關 (guêⁿ¹)	close-as-door	100
 封 (huang¹)	close-as-letter	100
 密 (bhad⁸)	close-as-texture	100
+一頂紗帽 (zêg⁸ dêng² sê¹ bho⁷)	Close-cap	100
 儉嗇 (kiam⁶siab⁴)	close-close-fisted	100
 慳吝 (giên¹liên⁶)	close-close-fisted	100
 終 (zong¹)	close-close-or-end	100
@@ -5294,6 +5402,7 @@ mag⁸ziu¹ diêⁿ³miⁿ¹	close-the-eyes	50
 蓋雲 (kam³hun⁵)	cloud-cloudy	100
 天時烏暗 (tiⁿ¹si⁵ ou¹am³)	cloud-cloudy-weather	100
 雲 (hun⁵)	clouds	100
+雲烏在 (hun⁵,ou¹ zai⁶)	clouds-are-very-dark	100
 丁香 (dêng¹hiêⁿ¹)	cloves	100
 鄉下人 (hiêⁿ¹ê⁶nang⁵)	clown	100
 做丑 (zo³tiu²)	clown-in-a-play	100
@@ -5370,6 +5479,7 @@ goh⁴lo⁵	coax	50
 蜘蛛絲 (di¹du¹si¹)	cobweb	100
 安南 (an¹lam⁵)	cochin-China	100
 胭脂米 (in¹zi¹bhi²)	cochineal	100
+雞翁 (goi¹ ang¹)	cock	100
 雞翁 (goi¹ang¹)	cock	100
 雞啼 (goi¹ ti⁵)	cock-cock-crow	100
 雞相拍 (goi¹ siê¹pah⁴)	cock-cock-fighting	100
@@ -5430,6 +5540,7 @@ goh⁴lo⁵	coax	50
 相對 (siang¹dui³)	coincide	100
 棕 (zang¹)	coir	100
 凊 (cin³)	cold	100
+寒 (han⁵)	cold	100
 寒 (guaⁿ⁵)	cold	100
 凝 (ngan⁵)	cold	100
 寒 (ngan⁵)	cold	100
@@ -5513,6 +5624,7 @@ kah⁴ciêⁿ¹	colour-dressed-in-glaring-colours	50
 烏 (ou¹)	colour-the-five-colours	100
 白 (bêh⁸)	colour-the-five-colours	100
 服色 (hog⁸sêg⁴)	coloured-clothes	100
+馬囝 (bhê² giaⁿ²)	colt	100
 碼囝 (bhê²giaⁿ²)	colt	100
 襊 (zuê⁷)	column-of-print	100
 降 (hang⁵)	column-of-print	100
@@ -5529,6 +5641,7 @@ kah⁴ciêⁿ¹	colour-dressed-in-glaring-colours	50
 梳頭毛 (siu¹tao⁵moⁿ⁵)	comb-combthe-hair	100
 蜜房 (bhid⁸bang⁵)	comb-honey-comb	100
 虱箆 (sad⁴bin³)	comb-small-toothed	100
+梳頭 (siu¹ tao⁵)	comb-the-head	100
 布梳 (bou³siu¹)	comb-weavers-comb	100
 交戰 (gao¹ziên³)	combat	100
 相拍 (siê¹pah⁴)	combat	100
@@ -5572,6 +5685,8 @@ ciau³gê³	comely	50
 掃彗星 (sao³soi¹cêⁿ¹)	comet	100
 安慰 (uaⁿ¹uê³)	comfort	100
 舞慰 (bhu²uê³)	comfort-to	100
+勸解 (kng³goi³)	comfort-to	100
+勸慰 (kng³uê³)	comfort-to	100
 安慰 (uaⁿ¹uê³)	comfort-to	100
 自在 (ze⁶zai⁶)	comfortable	100
 輕鬆 (kin¹sang¹)	comfortable	100
@@ -5656,6 +5771,7 @@ kuaⁿ³cêng⁷	commodious	50
 常 (siêⁿ⁵)	common	100
 平常人 (pêng⁵siêⁿ⁵nang⁵)	common-commoner	100
 排回 (bai⁵huê⁵)	common-commonly	100
+排轉 (bai⁵dng²)	common-commonly	100
 平時 (pêng⁵si⁵)	common-commonly	100
 常時 (siêⁿ⁵si⁵)	common-commonly	100
 常常 (siêⁿ⁵siêⁿ⁵)	common-commonly	100
@@ -5726,6 +5842,7 @@ kuaⁿ³cêng⁷	commodious	50
 羅經 (lo⁵gêⁿ¹)	compass-the-compass	100
 羅盤 (lo⁵buaⁿ⁵)	compass-the-compass	100
 周圍 (ziu¹ui⁵)	compass-to	100
+慈悲 (ce⁵ bi¹?)	compassion	100
 慈悲 (ce⁵bui¹)	compassion	100
 慈心 (ce⁵sim¹)	compassion	100
 仁慈 (rin⁵ce⁵)	compassion	100
@@ -5840,7 +5957,11 @@ cuang¹zuag⁸	compromise	50
 想死悔 (siêⁿ⁶si²huê³)	compunction	100
 痛悔 (tiaⁿ³huê³)	compunction	100
 痛改前非 (tiaⁿ³goi² zoiⁿ⁵hui¹)	compunction	100
+合算 (hah⁸sng³)	compute	100
+計算 (goi³sng³)	compute	100
+拍算 (pah⁴sng³)	compute	100
 少 (siau³)	compute	100
+算 (sng³)	compute	100
 夥記 (huê²gi³)	comrade	100
 朋友 (pêng⁵iu²)	comrade	100
 同僚 (dang⁵liau⁵)	comrade	100
@@ -5853,9 +5974,11 @@ cuang¹zuag⁸	compromise	50
 塌肚 (tab⁴dou²)	concave	100
 tab⁴uh⁴	concave	50
 目鏡車塌肚 (mag⁸giaⁿ³ cia¹tab⁴dou²)	concave-spectacles	100
+藏囥 (cang⁵kng³)	conceal	100
 藏匿 (cang⁵nêg⁸)	conceal	100
 囥 (kng³)	conceal	100
 囥埋 (kng³bhua⁵)	conceal	100
+囥密 (kng³miⁿ¹)	conceal	100
 走開 (zao²kui¹)	conceal-oneself	100
 藏避 (cang⁵bi⁷)	conceal-oneself	100
 藏避走閃 (cang⁵bi⁷ zao²siam²)	conceal-oneself	100
@@ -5898,6 +6021,8 @@ tab⁴uh⁴	concave	50
 歕蜅螺 (bun⁵bu¹lo⁵)	conch-to-blow	100
 和 (hua⁵)	conciliate	100
 和事 (hua⁵se⁷)	conciliate	100
+勸和 (kng³hua⁵)	conciliate	100
+勸息 (kng³sêg⁴)	conciliate	100
 行和 (giaⁿ⁵hua⁵)	conciliate	100
 寬成 (kuaⁿ¹ziaⁿ⁵)	conciliate-conciliatory	100
 一句透徹 (zêg⁸gu³ tao³tiêd⁴)	concise	100
@@ -6066,6 +6191,7 @@ re⁵riang²	confuse-confused	50
 戇 (gong⁵)	confuse-confused	100
 亂 (luan⁶)	confuse-confused	100
 挐 (re⁵)	confused	100
+亂 (luan⁶)	confusion	100
 詏得過 (a³did⁴guê³)	confute	100
 辯贏 (biên⁶iaⁿ⁵)	confute	100
 辯倒 (biên⁶do²)	confute	100
@@ -6076,6 +6202,7 @@ re⁵riang²	confuse-confused	50
 結𠕆 (gid⁴doiⁿ⁷)	congeal	100
 凝凍 (gen⁵dang³)	congeal	100
 凍 (dang³)	congeal	100
+糜 (muê⁵)	congee	100
 糜 (muêⁿ⁵)	congee	100
 糜 (muêⁿ⁵)	congee-soft-boiled-rice	100
 抱頭糜 (po⁶tao⁵muêⁿ⁵)	congee-thick	100
@@ -6100,6 +6227,7 @@ re⁵riang²	confuse-confused	50
 iag⁸ban⁷	conjecture	50
 ban⁷	conjecture	50
 pêⁿ¹pah⁴	conjecture	50
+打算 (da²sng³)	conjecture	100
 打算 (da²suan³)	conjecture	100
 合埋 (gab⁴bhua⁵)	conjoin	100
 相連 (siang¹liên⁵)	conjoin	100
@@ -6137,8 +6265,10 @@ pêⁿ¹pah⁴	conjecture	50
 勝敵 (sêng³dêg⁸)	conquer	100
 刣贏 (tai⁵iaⁿ⁵)	conquer	100
 良心 (liang⁵sim¹)	conscience	100
+本心 (bng²sim¹)	conscience	100
 良心發現 (liang⁵sim¹ huad⁴hin⁷)	conscience-awakened	100
 有良心 (u⁶liang⁵sim¹)	conscience-conscientious	100
+有本心 (u⁶bng²sim¹)	conscience-conscientious	100
 自責 (ze⁶zêh⁴)	conscience-reproofs-of-conscience	100
 自怨 (ze⁶uan³)	conscience-reproofs-of-conscience	100
 心內自訟 (sim¹lai⁶ ze⁶song⁶)	conscience-reproofs-of-conscience	100
@@ -6166,6 +6296,7 @@ pêⁿ¹pah⁴	conjecture	50
 連累 (liên⁵lui⁷)	consequences-bad	100
 波累 (bo¹lui⁷)	consequences-bad	100
 故此 (gu³ce²)	consequences-consequently	100
+算來 (sng³lai⁵)	consequences-consequently	100
 所以 (so²iⁿ²)	consequences-consequently	100
 無味 (bho⁵bhi⁷)	consequences-of-no-consequence	100
 無切要 (bho⁵ciêd⁴iau³)	consequences-of-no-consequence	100
@@ -6213,6 +6344,7 @@ pêⁿ¹pah⁴	consider	50
 差役 (cê¹hiah⁸)	constable	100
 查街 (cê⁵goi¹)	constable	100
 地保 (di⁷bo²)	constable	100
+常 (siêⁿ⁵)	constancy	100
 心堅固 (sim¹ giên¹gu³)	constant-in-mind	100
 有常心 (u⁶siêⁿ⁵sim¹)	constant-in-mind	100
 常常 (ciang⁵ciang⁵)	constantly	100
@@ -6254,6 +6386,7 @@ sin¹hun⁷ lam²	constitution-weak	50
 自勉 (ze⁶miên²)	constrain-oneself	100
 強留 (kiang⁵lao⁵)	constrain-to-stay	100
 催緊 (cui¹gin²)	constriction	100
+算緊 (sng³gin²)	constriction	100
 纏緊 (diⁿ⁵gin²)	constriction	100
 造 (zao⁶)	construct	100
 創 (cang³)	construct	100
@@ -6306,6 +6439,7 @@ uê³diêh⁸ lam⁵sab⁴	contaminate	50
 睇 (toiⁿ²)	contemplate-gaze-at	100
 同時 (dang⁵si⁵)	contemporary	100
 忽略 (hud⁴liag⁸)	contempt	100
+輕忽 (kin¹ hud⁴)	contempt	100
 輕忽 (kin¹hud⁴)	contempt	100
 掠賤 (liah⁸zuaⁿ⁷)	contempt	100
 藐視 (miau²si⁶)	contempt	100
@@ -6328,6 +6462,8 @@ uê³diêh⁸ lam⁵sab⁴	contaminate	50
 意足 (i³ zog⁴)	content-sim-ma	100
 過意 (guê³i³)	content-sim-ma	100
 安分 (uaⁿ¹hun⁷)	content-sim-ma	100
+相爭 (siê¹ zêⁿ¹)	contention	100
+知足 (zai¹ zog⁴)	contentment	100
 接界 (ziab⁴gai³)	conterminous	100
 做包 (zo³bu⁵)	conterminous	100
 連接 (liên⁵ziab⁴)	conterminous	100
@@ -6367,6 +6503,7 @@ uê³diêh⁸ lam⁵sab⁴	contaminate	50
 相連 (siang¹liên⁵)	continue-continuous	100
 捘過來 (zun⁶guê³lai⁵)	contortion	100
 捘歪 (zun⁶cua²)	contortion	100
+捘轉 (zun⁶dng²)	contortion	100
 歪面 (cua²min⁷)	contortion-of-face	100
 形 (hêng⁵)	contour	100
 形像 (hêng⁵siêⁿ³)	contour	100
@@ -6376,6 +6513,7 @@ uê³diêh⁸ lam⁵sab⁴	contaminate	50
 走餉 (zao²hiang³)	contraband-trade	100
 走私 (zao²sai¹)	contraband-trade	100
 漏稅 (lao⁷suê³)	contraband-trade	100
+合約 (hab⁸ iêh⁴)	contract	100
 合同 (hab⁸dang²)	contract	100
 合同 (hab⁸dang⁵)	contract	100
 約字 (iêh⁴ri⁷)	contract	100
@@ -6438,12 +6576,14 @@ uê³diêh⁸ lam⁵sab⁴	contaminate	50
 管轄 (guan²had⁴)	control	100
 統管 (tong²guan²)	control	100
 自管家己 (ze⁶guan² ga¹gi⁷)	control-self	100
+守本心 (siu²bng²sim¹)	control-self	100
 爭論 (zêⁿ¹lun⁶)	controversy	100
 辯論 (biên⁶lun⁶)	controversy	100
 辯駁 (biên⁶boh⁴)	controversy	100
 相詏 (siê¹a³)	controversy	100
 毋順人情 (m⁷sun⁶ nang⁵cêng⁵)	contumacy	100
 忤逆 (ngou²ngêg⁸)	contumacy	100
+譏刺 (gi¹cng³)	contumely	100
 凌辱 (lêng⁵rog⁸)	contumely	100
 失辱 (sid⁴rog⁸)	contumely	100
 撞傷 (zuang⁶siêⁿ¹)	contusion	100
@@ -6477,11 +6617,14 @@ gah⁴ban⁷	convenience-convenient	50
 呾話 (daⁿ³uê⁷)	converse	100
 談論 (tam⁵lun⁶)	converse	100
 悔改 (huê³goi²)	conversion	100
+回心轉意 (huê⁵sim¹ dng²i³)	conversion	100
 回頭醒悟 (huê⁵tao⁵ cêⁿ²ngo⁶)	conversion	100
+回轉頭做善 (huê⁵dng²tao⁵ zo³siên⁶)	conversion	100
 去惡歸善 (ke³ag⁴ gui¹siên⁶)	conversion	100
 去舊從新 (ke³gu⁷ cong⁵sin¹)	conversion	100
 改惡遷善 (goi²ag⁴ ciên¹siên⁶)	conversion	100
 改惡從善 (goi²ag⁴ cong⁵siên⁶)	conversion	100
+想轉 (siêⁿ⁶dng²)	conversion	100
 錐 (zui¹)	convex	100
 錐錐 (zui¹zui¹)	convex	100
 鎮東浮起來 (din³dang¹ pu⁵ki²lai⁵)	convex	100
@@ -6525,6 +6668,7 @@ gah⁴ban⁷	convenience-convenient	50
 熟 (sêg⁸)	cook-cooked	100
 煮食 (ze²ziah⁸)	cook-for-many	100
 煲食 (bu⁵ziah⁸)	cook-for-one-or-two	100
+火食 (huê² sid⁸)	cook-house	100
 煮食 (ze²ziah⁸)	cook-to-cook	100
 巴禮食 (ba¹loi²ziah⁸)	cook-to-cook	100
 凉 (liang⁵)	cool	100
@@ -6551,6 +6695,7 @@ gah⁴ban⁷	convenience-convenient	50
 加加 (gê¹gê¹)	copious	100
 上㩼 (siang⁶zoi⁷)	copious	100
 有賰 (u⁶cun⁵)	copious	100
+紅銅 (ang⁵ dang⁵)	copper	100
 紅銅 (ang⁵dang⁵)	copper	100
 銅 (dang⁵)	copper	100
 拍銅司阜 (pah⁴dang⁵ sai¹bê⁶)	copper-smith	100
@@ -6570,6 +6715,7 @@ gah⁴ban⁷	convenience-convenient	50
 仙瑚 (siên¹hu⁵)	coral	100
 珊瑚樹 (san¹hu⁵ciu⁷)	coral-coral-tree	100
 索 (soh⁴)	cord	100
+索囝 (soh⁴ giaⁿ²)	cord	100
 索囝 (soh⁴giaⁿ²)	cord	100
 絞索 (ga²soh⁴)	cord-make	100
 拍索 (pah⁴soh⁴)	cord-make	100
@@ -6607,6 +6753,7 @@ ka¹lang¹	corn-on-the-foot	50
 紅瑪瑙 (ang⁵ma²lao²)	cornelian	100
 角 (gag⁴)	corner	100
 角頭 (gag⁴tao⁵)	corner	100
+四角 (si³ gag⁴)	corner	100
 目角 (mag⁸gag⁴)	corner-of-the-eye	100
 目頭目尾 (mag⁸tao⁵ mag⁸bhuê²)	corner-of-the-eye	100
 牆頭線 (ciêⁿ⁵tao⁵suaⁿ³)	cornice-of-wall	100
@@ -6638,6 +6785,7 @@ ka¹lang¹	corn-on-the-foot	50
 校正 (ga³ziaⁿ³)	correct-a-person	100
 正經 (ziaⁿ³gêng¹)	correct-conduct	100
 端正 (duan¹ziaⁿ³)	correct-conduct	100
+換字 (uaⁿ⁷ ri⁷)	correct-proof	100
 秤正 (cin³ ciaⁿ³)	correct-scale	100
 改 (goi²)	correct-to	100
 成改 (ciaⁿ⁵goi²)	correct-to-correct	100
@@ -6695,10 +6843,12 @@ dai⁶biên⁶ gou¹giêd⁸	costive	50
 厝囝 (cu³giaⁿ²)	cottage	100
 棉 (miⁿ⁵)	cotton	100
 棉花 (miⁿ⁵huê¹)	cotton	100
+紗 (sê¹)	cotton	100
 膠𤿤 (ga¹bua³)	cotton-cloth	100
 布 (bou³)	cotton-cloth	100
 紗線 (sê¹suaⁿ³)	cotton-thread	100
 線 (suaⁿ³)	cotton-thread	100
+眠椅 (min⁵ i¹)	couch	100
 涼椅 (liang⁵iⁿ²)	couch-tshun-tng	100
 長椅 (dng⁵iⁿ²)	couch-tshun-tng	100
 咬嗽 (ga¹sao³)	cough	100
@@ -6718,8 +6868,10 @@ dai⁶biên⁶ gou¹giêd⁸	costive	50
 少 (siau³)	count	100
 數 (siou³)	count	100
 算 (sng³)	count	100
+算數 (sng³siau³)	count	100
 無法數 (bho⁵huab⁴siau³)	count-countless	100
 無數 (bhu⁵su³)	count-countless	100
+毋別塊算 (m⁷bad⁴go³sng³)	count-countless	100
 容貌 (iong⁵maoⁿ⁶)	countenance	100
 容色 (iong⁵sêg⁴)	countenance	100
 面 (min⁷)	countenance	100
@@ -6755,6 +6907,7 @@ dêⁿ³zo³	counterfeit	50
 賬房 (diêⁿ³bang⁵)	counting-house	100
 國 (gog⁴)	country	100
 蹦 (bang¹)	country	100
+山巴 (suaⁿ¹ ba¹)	country	100
 地方 (di⁷hng¹)	country	100
 鄉下 (hiêⁿ¹ê⁶)	country-as-dist-from-town	100
 外國 (ghua⁷gog⁴)	country-foreign-countries	100
@@ -6771,6 +6924,7 @@ dêⁿ³zo³	counterfeit	50
 夫妻 (hu¹ci¹)	couple-married	100
 夫婦 (hu¹hu⁶)	couple-married	100
 公婆 (gong¹pua⁵)	couple-married	100
+膽 (daⁿ²)	courage	100
 好膽 (ho²daⁿ²)	courage-to-have	100
 勇敢 (iong²gaⁿ²)	courage-to-have	100
 敢 (gaⁿ²)	courage-to-have	100
@@ -6835,6 +6989,7 @@ lao²ge²	courtesan	50
 立約 (lib⁸iêh⁴)	covenant-to-make	100
 遮 (zia¹)	cover	100
 蓋 (kam³)	cover	100
+盖 (koiⁿ³)	cover	100
 夾書冊 (gab⁴ze¹cêh⁴)	cover-a-book	100
 冚 (kam³)	cover-a-lid	100
 蓋 (koiⁿ³)	cover-a-lid	100
@@ -6865,8 +7020,10 @@ lao²ge²	courtesan	50
 貪心 (tam¹sim¹)	covet-covetous	100
 睇錢大个 (toiⁿ²ziⁿ⁵ dua⁷gai⁵)	covet-covetous	100
 貪心 (tam¹sim¹)	covetous	100
+吝 (liên⁶)	covetousness	100
 貪心 (tam¹sim¹)	covetousness	100
 牛 (ghu⁵)	cow	100
+牛母 (ghu⁵ bho²)	cow	100
 牛母 (ghu⁵bho²)	cow	100
 牛黃 (ghu⁵ng⁵)	cow-bezoar	100
 赤牛 (ciah⁴ghu⁵)	cow-common	100
@@ -6881,6 +7038,7 @@ lao²ge²	courtesan	50
 膽怯 (daⁿ² kiab⁴)	coward	100
 膽細 (daⁿ² soi³)	coward	100
 畏死 (ui³si²)	coward	100
+十七隻牛 (zab⁸ cid⁴ ziah⁴ ghu⁵)	Cows	100
 好裝做 (haoⁿ³zuang¹zo³)	coxcomb	100
 好裝潢 (haoⁿ³zuang¹huang⁵)	coxcomb	100
 好搖擺 (haoⁿ³iau⁵bai²)	coxcomb	100
@@ -7012,6 +7170,7 @@ bhun³kang¹	creep-through-a-hole	50
 縫 (pang⁷)	crevice	100
 縫隙 (pang⁷kiah⁴)	crevice	100
 水手 (zui²siu²)	crew-of-ship	100
+草蟀 (cao² sud⁴)	cricket	100
 竹蟀 (dêg⁴sud⁴)	cricket	100
 叫 (diang¹diang¹giê³)	cricket-chirping-of	100
 罪 (zuê⁶)	crime	100
@@ -7083,6 +7242,7 @@ mag⁸ziu¹ coh⁸coh⁸	cross-cross-eyed	50
 giab⁸kag⁴	cross-peevish	50
 毋爽快 (m⁷song²kuai³)	cross-peevish	100
 倒剃 (do³ti³)	cross-peevish	100
+過港 (guê³ gang²)	cross-the-canal	100
 過 (guê³)	cross-to	100
 拍參差 (pah⁴cam¹cê¹)	cross-to-make-or-write	100
 pah⁴cam⁶sia¹	cross-to-make-or-write	50
@@ -7091,6 +7251,7 @@ pah⁴cam⁶sia¹	cross-to-make-or-write	50
 嶇 (ku¹)	crouch	100
 趴 (pag⁴)	crouch	100
 伏地 (pag⁴di⁷)	crouch-as-tiger	100
+烏鳥 (ou¹ ziou²)	crow	100
 烏鴉 (ou¹a¹)	crow	100
 烏鴉鳥 (ou¹a¹ziau²)	crow	100
 啼 (ti⁵)	crow	100
@@ -7104,6 +7265,7 @@ pah⁴cam⁶sia¹	cross-to-make-or-write	50
 人物相擠 (nang⁵muêh⁸ siê¹ziⁿ³)	crowd-to-crowd	100
 挨挨攆攆 (oi¹oi¹ lêng²lêng²)	crowd-to-crowd	100
 密 (zad⁸)	crowded	100
+皇帝帽 (huang⁵ di³ bho⁷)	crown	100
 王帽 (uang⁵bho⁷)	crown	100
 官地 (guaⁿ¹di⁷)	crown-crown-land	100
 太子 (tai³ze²)	crown-crown-prince	100
@@ -7162,7 +7324,9 @@ daⁿ⁶diêh⁸	crush	50
 青頭 (cêⁿ¹tao⁵)	cuckold	100
 烏龜 (ou¹gu¹)	cuckold	100
 大鱉 (dua⁷bih⁴)	cuckold	100
+鳩鳩 (gu¹ gu¹)	cuckoo	100
 吊瓜 (diau³guê¹)	cucumber	100
+吊瓜 (diou³ guê¹)	cucumber	100
 吊瓜 (diou³guê¹)	cucumber	100
 瓜刨 (guê¹pao¹)	cucumber-slicer	100
 瓜抽 (guê¹tiu¹)	cucumber-slicer	100
@@ -7170,6 +7334,7 @@ daⁿ⁶diêh⁸	crush	50
 柴棍 (ca⁵gun³)	cudgel	100
 柴槌 (ca⁵tui⁵)	cudgel	100
 棍 (gun³)	cudgel	100
+䘼口 (ng²kao²)	cuff-of-coat	100
 袖口 (siu³kao²)	cuff-of-coat	100
 ong³	cuff-slap	50
 biang¹	cuff-slap	50
@@ -7187,6 +7352,7 @@ zêng¹	cuff-with-closed-fist	50
 耕田 (gêⁿ¹can⁵)	cultivate-fields	100
 耕作 (gêⁿ¹zoh⁴)	cultivate-fields	100
 修身 (siu¹sin¹)	cultivate-ones-conduct	100
+作田 (zoh⁴ can⁵)	cultivate-the-fields	100
 修心 (siu¹sim¹)	cultivate-the-heart	100
 修德 (siu¹dêg⁴)	cultivate-virtue	100
 鎮掉地方 (din³diau⁷ di⁷hng¹)	cumber-the-ground	100
@@ -7202,6 +7368,7 @@ zêng¹	cuff-with-closed-fist	50
 茶甌 (dê⁵ao¹)	cup-tea-cup	100
 茶盅 (dê⁵zêng¹)	cup-tea-cup	100
 茶杯 (dê⁵buê¹)	cup-tea-cup	100
+食櫥 (ziah⁸ du⁵)	cupboard	100
 食櫥 (ziah⁸du⁵)	cupboard	100
 盤碗櫥 (buaⁿ⁵uaⁿ²du⁵)	cupboard	100
 筒架 (dang⁶gê³)	cupboard	100
@@ -7269,10 +7436,12 @@ zêng¹	cuff-with-closed-fist	50
 斫斷 (dog⁴dng⁶)	curtail	100
 簾 (liam⁵)	curtain	100
 蠓帳 (mang²diêⁿ³)	curtain-mosquito	100
+蚊帳 (mang² diêⁿ³)	curtains	100
 彎曲 (uan¹kêg⁴)	curve	100
 彎過來 (uan¹guê³lai⁵)	curve-to-curve	100
 椅墊 (iⁿ²diên⁶)	cushion	100
 褥 (rog⁸)	cushion	100
+皮坐 (puê⁵ zo⁶)	cushion	100
 枕頭 (zim²tao⁵)	cushion-pillow	100
 痰盒 (tam⁵ab⁸)	cuspidor	100
 痰筒 (tam⁵dang⁶)	cuspidor	100
@@ -7334,6 +7503,7 @@ zêng¹	cuff-with-closed-fist	50
 鉸毛 (ga¹moⁿ⁵)	cut-the-hair	100
 鑿山路 (cag⁸suaⁿ¹lou⁷)	cut-through-a-hill	100
 斫碎碎 (dog⁴ cui³cui³)	cut-to-pieces	100
+割字 (guah⁴ ri⁷)	cut-type	100
 鉸 (ga¹)	cut-with-scissors	100
 劍 (giam³)	cutaneous	100
 刀 (do¹)	cutaneous	100
@@ -7353,11 +7523,13 @@ zêng¹	cuff-with-closed-fist	50
 鑔 (cê⁶)	cymbals-small	100
 zêg⁴bêh⁴ciu⁷	cypress	50
 衊水 (mag⁴zui²)	dabble-in-water	100
+耍水 (sng²zui²)	dabble-in-water	100
 淺學 (ciên²hag⁸)	dabble-learn-superficially	100
 草略別零些 (co²liag⁸ bad⁴lan⁵lo²)	dabble-learn-superficially	100
 用毋夠工 (êng⁷ m⁷gao³gang¹)	dabble-learn-superficially	100
 短劍 (do²giam³)	dagger	100
 一日過一日 (zêg⁸rid⁸ guê³zêg⁸rid⁸)	daily	100
+日日 (rid⁸ rid⁸)	daily	100
 日日 (rid⁸rid⁸)	daily	100
 每日 (muêⁿ²rid⁸)	daily	100
 排日 (bai⁵rid⁸)	daily	100
@@ -7419,6 +7591,7 @@ tao⁵kiu²	dandruff	50
 怎敢 (zo³gaⁿ²)	dare-how-dare	100
 怎敢當 (zo³gaⁿ²dng¹)	dare-how-dare	100
 敢是 (gaⁿ²si⁶)	dare-I-daresay	100
+汝敢做咩 (le² gaⁿ² zo³ mêh⁴)	dare-you-do-it	100
 暗 (am³)	dark	100
 烏暗 (ou¹am³)	dark	100
 深色 (cim¹sêg⁴)	dark-colour	100
@@ -7429,6 +7602,7 @@ tao⁵kiu²	dandruff	50
 夜烏暗 (mêⁿ⁵ ou¹am³)	dark-dark-night	100
 日愛暗 (rid⁸ aiⁿ³am³)	dark-it-is-getting-dark	100
 日暗 (rid⁸ am³)	dark-it-is-getting-dark	100
+暗 (am³)	darkness	100
 惜命命 (siêh⁴miaⁿ⁷miaⁿ⁷)	darling-my	100
 惜肉 (siêh⁴nêg⁸)	darling-my	100
 我个心肝 (ua²gai⁵ sim¹guaⁿ¹)	darling-my	100
@@ -7465,6 +7639,7 @@ zuah⁴ i¹gai⁵min⁷	dash-dash-in-the-face	50
 點掉 (diam²diau⁷)	daub-writing	100
 塗抹 (dou⁵bhuah⁴)	daub-writing	100
 塗掉 (dou⁵diau⁷)	daub-writing	100
+諸婦囝 (za¹ bhou² giaⁿ²)	daughter	100
 走囝 (zao²giaⁿ²)	daughter	100
 諸娘囝 (ze¹niêⁿ⁵giaⁿ²)	daughter	100
 女子 (nng²ze²)	daughter	100
@@ -7492,12 +7667,15 @@ tiⁿ¹ la⁵lan⁵	dawn	50
 tiⁿ¹ la⁵lan⁵gng¹	dawn	50
 天光 (tiⁿ¹gng¹)	dawn	100
 日 (rid⁸)	day	100
+今日 (gim¹ rid⁸)	day	100
 天 (tiⁿ¹)	day	100
+後日 (ao⁶ rid⁸)	day-after-tomorrow	100
 後日 (ao⁶rid⁸)	day-after-tomorrow	100
 終日 (zong¹rid⁸)	day-all-day	100
 通日 (tang³rid⁸)	day-all-day	100
 後日 (ao⁶rid⁸)	day-another-day	100
 下日 (ê⁶rid⁸)	day-another-day	100
+絶日 (zoh⁸ rid⁸)	day-before-yesterday	100
 日清 (rid⁸cêng¹)	day-book	100
 天光 (tiⁿ¹gng¹)	day-break-dawn	100
 後日 (ao⁶rid⁸)	day-day-after-tomorrow	100
@@ -7526,9 +7704,11 @@ tiⁿ¹ la⁵lan⁵gng¹	dawn	50
 幾夥日 (gui²ua⁶rid⁸)	day-several-days	100
 數日 (su³rid⁸)	day-several-days	100
 十五 (zab⁸ngou⁶)	day-th-day	100
+日間 (rid⁸ gan¹)	day-time	100
 現日 (hin⁷rid⁸)	day-today	100
 今旦日 (giaⁿ²rid⁸)	day-today	100
 今日 (gim¹rid⁸)	day-today	100
+本日 (bng²rid⁸)	day-today	100
 凶日 (hiong¹rid⁸)	day-unlucky	100
 此近日 (zi²gen⁶rid⁸)	day-within-these-few-days	100
 此近日內 (zi²gen⁶rid⁸lai⁶)	day-within-these-few-days	100
@@ -8020,6 +8200,7 @@ sin¹hun⁷ lam²	delicate-in-health	50
 計送 (goi³sang³)	deliver-over	100
 奉還 (hong⁶hoiⁿ⁵)	deliver-up	100
 交回 (gao¹huê⁵)	deliver-up	100
+挈轉來還 (kiêh⁸ dng²lai⁵hoiⁿ⁵)	deliver-up	100
 挈還 (kiêh⁸hoiⁿ⁵)	deliver-up	100
 攪 (giau²)	deliver-up	100
 攪還 (giau²hoiⁿ⁵)	deliver-up	100
@@ -8033,6 +8214,7 @@ sin¹hun⁷ lam²	delicate-in-health	50
 㧕塗 (liu²tou⁵)	delve	100
 覓人挈 (cuê⁷nang⁵kiêh⁸)	demand	100
 找人討 (cuê⁷nang⁵to²)	demand	100
+討轉 (to²dng²)	demand-back	100
 討錢 (to²ziⁿ⁵)	demand-money	100
 討數 (to²siau³)	demand-money	100
 討賠 (to²buê⁵)	demand-restitution	100
@@ -8074,6 +8256,8 @@ sin¹hun⁷ lam²	delicate-in-health	50
 山穴 (suaⁿ¹huad⁸)	den	100
 山空 (suaⁿ¹kang¹)	den	100
 山洞 (suaⁿ¹dang⁷)	den	100
+本籍 (bng²zia⁶)	denizen	100
+本地人 (bng²di⁷nang⁵)	denizen	100
 黃旗國 (ng⁵gi⁵gog⁴)	denmark	100
 稱做 (cêng¹zo³)	denominate	100
 稱呼 (cêng¹hu¹)	denominate	100
@@ -8106,6 +8290,7 @@ buah⁸bhih⁴	dent	50
 buah⁸nab⁴uh⁴	dent	50
 塌 (tab⁴)	dent	100
 掀掉 (hiên¹diau⁷)	denude	100
+褪掉衫褲 (tng³diau⁷ saⁿ¹kou³)	denude	100
 詏 (a³)	deny	100
 詏無 (a³bho⁵)	deny	100
 毋認 (m⁶rin⁷)	deny	100
@@ -8131,6 +8316,7 @@ buah⁸nab⁴uh⁴	dent	50
 縣 (guiⁿ⁷)	department-of-territory	100
 職分 (zêh⁴hun⁷)	department-ones-duty	100
 分內 (hun⁷lai⁶)	department-ones-duty	100
+本分 (bng²hun⁷)	department-ones-duty	100
 身分 (sin¹hun⁷)	department-ones-duty	100
 在汝主意 (do⁶le² zu²i³)	depend-it-depends-on-you	100
 倚靠 (iⁿ²gou⁶)	depend-on	100
@@ -8141,6 +8327,7 @@ buah⁸nab⁴uh⁴	dent	50
 得飯 (did⁴bng⁷)	depend-on	100
 倚 (ua²)	depend-on	100
 倚靠 (ua²gou⁶)	depend-on	100
+倚靠 (i² gou⁶)	dependence	100
 煩惱 (huan⁵lo²)	deplore	100
 哭 (kao³)	deplore	100
 悲哀 (bui¹ai¹)	deplore	100
@@ -8162,6 +8349,7 @@ buah⁸nab⁴uh⁴	dent	50
 托 (toh⁴)	deposit	100
 搭 (dah⁴)	deposit-entrust	100
 放數生色 (bang³siau³ sêⁿ¹sêg⁴)	deposit-in-Bank-at-interest	100
+搭人囥 (dah⁴nang⁵ kng³)	deposit-with-any-one	100
 託人 (toh⁴nang⁵)	deposit-with-any-one	100
 口供 (kao²gêng¹)	deposition	100
 不肖 (bud⁴siau³)	depraved	100
@@ -8268,6 +8456,7 @@ zam³zng³	derogate	50
 故意 (gu³i³)	design-with-design	100
 有意 (u⁶i³)	design-with-design	100
 愛 (aiⁿ³)	desire	100
+欲 (aiⁿ³)	desire	100
 愿 (nguan⁶)	desire	100
 可望 (ko²moⁿ⁷)	desire-desirable	100
 思藥 (se¹ioh⁸)	desire-evil-desires	100
@@ -8430,6 +8619,7 @@ lao⁵naⁿ⁷go³ ziah⁸	detain-as-guest	50
 右爿 (iu⁶boiⁿ⁵)	dextral	100
 樣 (iêⁿ⁷)	diagram	100
 八卦 (boih⁴kuê³)	diagram-the-eight-diagrams	100
+易經 (iah⁸giaⁿ¹)	diagrams	100
 日規 (rid⁸gui¹)	dial	100
 音語 (im¹ghe²)	dialect	100
 腔 (kiêⁿ¹)	dialect	100
@@ -8470,6 +8660,7 @@ lao⁵naⁿ⁷go³ ziah⁸	detain-as-guest	50
 字典 (ri⁷diên²)	dictionary	100
 減韻 (giam²un⁷)	dictionary-rhyming	100
 詩韻 (si¹un⁷)	dictionary-rhyming	100
+伊講照生無 (i¹ gong² ziê³sêⁿ¹,bho⁵)	did-he-say-so	100
 汝有去咩 (le² u⁶ke³ mê⁷?)	did-you-go	100
 汝有覓咩 (le² u⁶ cuê⁷ mê⁷?)	did-you-search-for-it	100
 門有關亞無 (mng⁵ u⁶ guêⁿ¹ a¹bho⁵?)	did-you-shut-the-door	100
@@ -8529,6 +8720,7 @@ zuah⁸m⁷ua⁶	differ-slightly	50
 掘塗 (gud⁸tou⁵)	dig	100
 㧕 (liu²)	dig	100
 挖 (liu²)	dig	100
+㧕溝 (liu² gao¹)	dig-a-ditch	100
 消食 (siau¹ziah⁸)	digest	100
 消 (siou¹)	digest	100
 補脾 (bou²bi⁵)	digest-digestive-tonic	100
@@ -8550,6 +8742,7 @@ tab⁴kang¹ hui³dui⁶	dilapidated	50
 慢 (man⁷)	dilatory	100
 躇慢 (tu⁵man⁷)	dilatory	100
 惰 (duaⁿ⁶)	dilatory	100
+勤 (ken⁵)	diligence	100
 出力 (cud⁴lad⁸)	diligent	100
 專工 (zuan¹gang¹)	diligent	100
 用工 (êng⁷gang¹)	diligent	100
@@ -8585,6 +8778,7 @@ tab⁴kang¹ hui³dui⁶	dilapidated	50
 公公叫 (gong¹gong¹giê³)	din-of-gongs-and-drums	100
 公光叫 (gong¹guang¹giê³)	din-of-gongs-and-drums	100
 食夜暗飯 (ziah⁸ mêⁿ⁵am³bng⁷)	dine	100
+食大頓 (ziah⁸dua⁷dng³)	dine	100
 食日晝 (ziah⁸rid⁸dao³)	dine-at-noon	100
 食房 (ziah⁸bang⁵)	dining-room	100
 食床 (ziah⁸cng⁵)	dining-table	100
@@ -8593,6 +8787,7 @@ tab⁴kang¹ hui³dui⁶	dilapidated	50
 揾 (un³)	dip-into-water	100
 揾水 (un³zui²)	dip-into-water	100
 揾㴷 (un³dam⁵)	dip-into-water	100
+舀水 (iê² zui²)	dip-out-the-water	100
 文憑 (bhun⁵bêng⁵)	diploma	100
 文憑 (bhun⁵pêng⁵)	diploma	100
 直 (did⁸)	direct	100
@@ -8814,6 +9009,7 @@ sêg⁴ m⁷zao⁵	discoloured	50
 致病 (di³bêⁿ⁷)	disease-have-disease	100
 有病 (u⁶bêⁿ⁷)	disease-have-disease	100
 生物 (sêⁿ¹muêh⁸)	disease-to-have-skin	100
+傷肺 (siêⁿ¹ hui³)	diseased-lungs	100
 上水 (ziêⁿ⁶zui²)	disembark	100
 上山 (ziêⁿ⁶suaⁿ¹)	disembark	100
 起水 (ki²zui²)	disembark	100
@@ -9176,6 +9372,7 @@ ao³miaⁿ⁵	disreputable	50
 分派 (hun¹pai³)	distribute	100
 派 (pai³)	distribute	100
 分 (bun¹)	distribute	100
+府 (hu²)	district	100
 縣 (guiⁿ⁷)	district	100
 縣城 (guiⁿ⁷siaⁿ⁵)	district-city	100
 縣 (guiⁿ⁷)	district-Hien-or-county	100
@@ -9183,6 +9380,7 @@ ao³miaⁿ⁵	disreputable	50
 縣主 (guiⁿ⁷zu²)	district-magistrate	100
 縣官 (guiⁿ⁷guaⁿ¹)	district-magistrate	100
 知縣 (di¹guiⁿ⁷)	district-magistrate	100
+潮州府 (diê⁵ziu¹ hu²)	district-of-Tio-chiw	100
 地方 (di⁷hng¹)	district-region	100
 猜疑 (cai¹ghi⁵)	distrust	100
 疑 (ghi⁵)	distrust	100
@@ -9283,7 +9481,10 @@ bun¹zao⁵	divide-equally	50
 袒 (tan²)	do-woollen	100
 汝知咩 (le² zai¹ mê⁷?)	do-you-know	100
 汝知亞毋知 (le² zai¹ a¹ m⁷zai¹?)	do-you-know-or-not	100
+汝好食果子無 (le² hao² ziah⁸ guê²zi²,bho⁵)	do-you-like-fruit	100
 汝有記得我咩 (le² u⁶ gi³did⁴ ua² mê⁷?)	do-you-remember-me	100
+汝有食薰無 (le² u⁶ ziah⁸ hun¹,bho⁵)	do-you-smoke	100
+汝講實話無 (le² gong² sid⁸ uê⁷,bho⁵)	do-you-speak-truly	100
 信皮愛咩 (sin³puê⁵ aiⁿ³ mê⁷?)	do-you-want-an-envelope	100
 教會熟 (ga³oi⁶sêg⁸)	docile	100
 易教示 (goi⁷ga³si⁷)	docile	100
@@ -9304,6 +9505,7 @@ bun¹zao⁵	divide-equally	50
 鹿母 (dêg⁸bho²)	doe	100
 伊敢去咩 (i¹ gaⁿ²ke² mê⁷?)	does-he-dare-to-go	100
 會癢亞袂 (oi⁷ziêⁿ⁶ a¹bhoi⁶?)	does-it-itch	100
+汝阿父知咩 (le² a¹bê⁶ zai¹ mêh⁴)	does-your-father-know-it	100
 狗 (gao²)	dog	100
 賤在 (zuaⁿ⁷zai⁶)	dog-dog-cheap	100
 偏到無人愛 (piⁿ¹ gao³ bho⁵nang⁵aiⁿ³)	dog-dog-cheap	100
@@ -9314,6 +9516,7 @@ bun¹zao⁵	divide-equally	50
 狗牯 (gao²gou²)	dog-male	100
 實毛狗 (sid⁸moⁿ⁵gao²)	dog-short-haired	100
 教條 (ga³diau⁵)	dogma	100
+十四隻狗 (zab⁸ si³ ziah⁴ gao²)	Dogs	100
 淒慘 (ci¹cam²)	doleful	100
 哀聲 (ai¹siaⁿ¹)	doleful-voice	100
 尪囝 (ang¹giaⁿ²)	doll	100
@@ -9348,13 +9551,19 @@ zo¹ ho²	done	50
 用了 (êng⁷liau²)	done-exhausted	100
 了 (liau²)	done-exhausted	100
 毋孬做賊 (m⁷moⁿ² zǒ¹cad⁸)	dont-be-a-thief	100
+免用驚 (miên² êng⁷ giaⁿ¹)	dont-be-afraid	100
 骹手勿㩼 (ka¹ciu² maiⁿ³zoi⁷)	dont-be-mischievous	100
 勿哭 (maiⁿ³kao³)	dont-cry	100
 勿食較㩼 (maiⁿ³ziah⁸ kah⁴zoi⁷)	dont-eat-too-much	100
+勿仆 (mai³ pog⁴)	dont-fall	100
 毋孬毋憶得 (m⁷moⁿ² m⁷id⁴did⁴)	dont-forget	100
 勿笑 (maiⁿ³ciê³)	dont-laugh	100
+隨手知關 (sui⁵ ciu² zai¹ guêⁿ¹)	dont-leave-the-door-open	100
+勿嚷 (mai³ riang²)	dont-make-a-noise	100
 勿佮伊相罵 (maiⁿ³ gah⁴ i¹ siê¹mêⁿ⁷)	dont-quarrel-with-him	100
+勿摸彼物 (mai³ mong⁵ he² muêh⁸)	dont-touch-that	100
 勿 (maiⁿ³)	dont-want-dont	100
+免寫向猛 (min² sia² hiêⁿ³ mê²)	dont-write-so-fast	100
 汝勿騙我 (le² maiⁿ³piên³ ua²)	dont-you-deceive-me	100
 議定罪名 (ngi²diaⁿ⁷ zuê⁶miaⁿ⁵)	doom	100
 審斷 (sim²duan³)	doom	100
@@ -9468,6 +9677,7 @@ cib⁸miⁿ⁷	dough-to-knead	50
 水溝 (zui²gao¹)	drain	100
 屎溝 (sai²gao¹)	drain	100
 澇掉水 (lao³diau⁷zui²)	drain-drain-a-place	100
+鴨公 (ah⁴ gang¹)	drake	100
 鴨雄 (ah⁴hêng⁵)	drake	100
 當風路 (dng¹huang¹lou⁷)	draught-in-a-draught	100
 一網魚 (zêg⁸mang⁶he⁵)	draught-of-fish	100
@@ -9540,6 +9750,7 @@ liau⁵	draw-out-of-the-water	50
 櫃格 (guiⁿ⁷gêh⁴)	drawer	100
 百指格 (bêh⁴zi²gêh⁴)	drawer-bureau-with-many-drawers	100
 開格 (kui¹gêh⁴)	drawer-open-a-drawer	100
+櫃 (gui⁷)	drawers	100
 身底褲 (sin¹doi²kou³)	drawers	100
 客廳 (kah⁴tiaⁿ¹)	drawing-room	100
 客廳 (kêh⁴tiaⁿ¹)	drawing-room	100
@@ -9786,6 +9997,7 @@ huê² kah⁴nng²	dull-fire	50
 袂呾話 (bhoi⁶daⁿ³uê⁷)	dumb	100
 啞 (ê²)	dumb	100
 啞口 (ê²kao²)	dumb	100
+啞 (êh⁴)	dumb	100
 憂鬱 (iu¹ud⁴)	dumpish	100
 心頭痛 (sim¹tao⁵ tiaⁿ³)	dumpish	100
 鬱卒 (ud⁴zud⁸)	dumpish	100
@@ -9846,6 +10058,7 @@ huê² kah⁴nng²	dull-fire	50
 沙塗 (sua¹tou⁵)	dust	100
 塗煙 (tou⁵êng⁵)	dust	100
 塗粉 (tou⁵hun²)	dust	100
+塵 (din⁵)	dust	100
 塵煙 (din⁵êng⁵)	dust	100
 拂掉沙煙 (buaⁿ⁶diau⁷ sua¹êng⁵)	dust-beat-off	100
 糞箕 (bun³gi¹)	dust-dust-basket	100
@@ -9949,6 +10162,7 @@ niⁿ¹hê¹	dyspnoea-infantine	50
 二家 (ri⁷gê¹)	each-each-other	100
 相 (siang¹)	each-each-other	100
 二家相護 (ri⁷gê¹ siê¹hu⁶)	each-help-each-other	100
+各人 (gag⁴ nang⁵)	each-man	100
 各人 (gag⁴nang⁵)	each-man	100
 相罵 (siê¹mêⁿ⁷)	each-scold-each-other	100
 兩家 (liang²gê¹)	each-side	100
@@ -9961,6 +10175,7 @@ niⁿ¹hê¹	dyspnoea-infantine	50
 猛 (mêⁿ²)	eager	100
 猛烈 (mêⁿ²liêd⁸)	eager	100
 迫切 (bêg⁴ciêd⁴)	eager	100
+鷹 (êng¹)	eagle	100
 鷹鳥 (êng¹ziau²)	eagle	100
 耳 (hiⁿ⁶)	ear	100
 耳箲 (hiⁿ⁶coiⁿ²)	ear-ear-brush	100
@@ -9975,6 +10190,7 @@ niⁿ¹hê¹	dyspnoea-infantine	50
 耳垂 (hiⁿ⁶dui⁵)	ear-earlap	100
 耳空 (hiⁿ⁶kang¹)	ear-orifice-of	100
 穿耳 (cng¹hiⁿ⁶)	ear-pierce-the-ear	100
+耳鈎 (hiⁿ⁶ gao¹)	ear-ring	100
 耳鈎 (hiⁿ⁶gao¹)	ear-ring	100
 耳邊呾話 (hiⁿ⁶biⁿ¹ daⁿ³uê⁷)	ear-whisper-in-ones-ear	100
 趴在耳空口呾 (pag⁴do⁶ hiⁿ⁶kang¹kao² daⁿ³)	ear-whisper-in-ones-ear	100
@@ -10020,11 +10236,13 @@ niⁿ¹hê¹	dyspnoea-infantine	50
 園塗 (hng⁵tou⁵)	earth-garden-earth	100
 塗 (tou⁵)	earth-ground	100
 天地 (tiⁿ¹di⁷)	earth-heaven-and-earth	100
+地圓 (di⁷ iⁿ⁵)	earth-is-round	100
 在土下 (do⁶tou²ê⁶)	earth-on-the-earth	100
 在地面上 (do⁶di⁷min⁷)	earth-on-the-earth	100
 地球 (di⁷giu⁵)	earth-the-earth	100
 普天下 (pou²tiⁿ¹ê⁶)	earth-the-whole-earth	100
 通天骹下 (tong¹ tiⁿ¹ka¹ê⁶)	earth-the-whole-earth	100
+地震 (di⁷ zin²)	earthquake	100
 止痛 (zi²tiaⁿ³)	ease	100
 自在 (ze⁶zai⁶)	ease	100
 寬活 (kuaⁿ³uah⁸)	ease	100
@@ -10050,6 +10268,7 @@ bain¹	ease	50
 向東 (hiang³dang¹)	east-eastward	100
 東 (niaⁿ³dang¹)	east-eastward	100
 對東 (dui³dang¹)	east-eastward	100
+東對西 (dang¹ dui³ sai¹)	east-is-opposite-to-west	100
 易 (goi⁷)	easy	100
 食 (ziah⁸)	eat	100
 喙食外 (cui³ziah⁸ ghua⁷)	eat-at-employers-expense	100
@@ -10174,6 +10393,7 @@ uê⁵uê⁵ zun⁶a¹zun⁶	effeminate-manner-of-walking	50
 卵仁 (nng⁶rin⁵)	egg-yolk	100
 卵 (nng⁶)	eggs	100
 八 (boih⁴)	eight	100
+捌 (boih⁴)	eight	100
 一枝八個錢 (gi¹ boih⁴gai⁵ ziⁿ⁵)	eight-cash-each	100
 十八 (zab⁸boih⁴)	eight-eighteen	100
 第八 (doiⁿ⁶boih⁴)	eight-eighth	100
@@ -10205,6 +10425,7 @@ uê⁵uê⁵ zun⁶a¹zun⁶	effeminate-manner-of-walking	50
 軟 (nng²)	elastic	100
 會伸會勼 (oi⁶cun¹ oi⁶giu¹)	elastic	100
 會伸會縮 (oi⁶sin¹ oi⁶sog⁴)	elastic	100
+手肘 (ciu² diu²)	elbow	100
 手肘 (ciu²tng⁶)	elbow	100
 u⁶go³ ho²cun¹lun⁵	elbow-elbow-room	50
 tng²nang⁵	elbow-to-elbow	50
@@ -10253,6 +10474,7 @@ tng⁶nang⁵	elbow-to-elbow	50
 妖精 (iau¹ziaⁿ¹)	elf-malignant	100
 妖怪 (iau¹guai³)	elf-malignant	100
 綴人走 (duê³nang⁵zao²)	elope	100
+口才 (kao² zai⁵)	eloquent	100
 名家呾話 (miaⁿ⁵gê¹ daⁿ³uê⁷)	eloquent	100
 會呾話 (oi⁶daⁿ³uê⁷)	eloquent	100
 有口才 (u⁶kao²cai⁵)	eloquent	100
@@ -10576,6 +10798,7 @@ sin¹hun⁷ lam²	enfeebled	50
 大英國 (dai⁶êng¹gog⁴)	england	100
 英國人 (êng¹gog⁴nang⁵)	england-The-English	100
 紅毛人 (ang⁵moⁿ⁵nang⁵)	england-The-English-vulgar	100
+英吉利話 (êng¹gid⁴li⁶ uê⁷)	English-language	100
 英國人就曉 (êng¹gog⁴nang⁵ ziu⁶hiou²)	English-understand	100
 刻 (kêg⁴)	engrave	100
 割 (guah⁴)	engrave	100
@@ -11009,6 +11232,7 @@ bai⁵zao⁵	even-evenly-arranged	50
 流水平 (lao⁵zui² bêⁿ⁵)	even-tide	100
 日暗 (rid⁸ am³)	evening	100
 日落山 (rid⁸ loh⁸suaⁿ¹)	evening	100
+夜昏 (mê⁵ hng¹)	evening	100
 夜暗 (mêⁿ⁵ am³)	evening	100
 夜昏 (mêⁿ⁵hng¹)	evening	100
 夜昏囝 (mêⁿ⁵hng¹giaⁿ²)	evening	100
@@ -11040,6 +11264,7 @@ bai⁵zao⁵	even-evenly-arranged	50
 各人 (gag⁴nang⁵)	every-body	100
 乜人 (mih⁴nang⁵)	every-body	100
 人人 (nang⁵nang⁵)	every-body	100
+日日 (rid⁸ rid⁸)	every-day	100
 日日 (rid⁸rid⁸)	every-day	100
 每日 (muêⁿ²rid⁸)	every-day	100
 排日 (bai⁵rid⁸)	every-day	100
@@ -11082,6 +11307,7 @@ bai⁵zao⁵	even-evenly-arranged	50
 善惡 (siên⁶ag⁴)	evil-good-and-evil	100
 災禍 (zai¹hua⁶)	evil-misfortune	100
 禍 (hua⁶)	evil-misfortune	100
+羊母 (iêⁿ⁵ bho²)	ewe	100
 羊母 (iêⁿ⁵bho²)	ewe	100
 水罐 (zui²guan³)	ewer	100
 精細 (zêng¹soi³)	exact-accurate	100
@@ -11156,6 +11382,7 @@ nêⁿ⁶ dui³dui³	exact-just-exactly	50
 大人 (dai⁶rin⁵)	excel-Your-Excellency	100
 太爺 (tai³ia⁵)	excel-Your-Excellency	100
 大老爺 (dua⁷lao⁶ia⁵)	excel-Your-Excellency	100
+君子 (gun¹ ze²)	excellent-man	100
 除 (de⁵)	except	100
 除外 (de⁵ghua⁷)	except	100
 交換 (gao¹uaⁿ⁷)	exchange	100
@@ -11218,6 +11445,7 @@ kiⁿ⁵cud⁴lai⁵	execute	50
 殺手 (suah⁴siu²)	execute-executioner	100
 當紅旗 (dng¹ang⁵gi⁵)	execute-executioner	100
 刣 (tai⁵)	execute-put-to-death	100
+殺手 (suah⁴ siu²)	executioners	100
 受付託个人 (siu⁶hu³toh⁴ gai⁵nang⁵)	executor	100
 託孤个人 (toh⁴gou¹ gai⁵nang⁵)	executor-guardian	100
 好樣 (ho²iêⁿ⁷)	exemplary	100
@@ -11562,10 +11790,13 @@ po³po³	exuberant-foliage	50
 蛇剝殼 (zua⁵ bag⁴kag⁴)	exuviae	100
 蟲剝殼 (tang⁵ bag⁴kag⁴)	exuviae	100
 目 (mag⁸)	eye	100
+目睭 (mag⁸ ziu¹)	eye	100
 目睭 (mag⁸ziu¹)	eye	100
 箭目 (suh⁸mag⁸)	eye-as-signal	100
+目睭仁 (mag⁸ ziu¹rin⁵)	eye-ball	100
 目睭仁 (mag⁸ziu¹rin⁵)	eye-ball	100
 目仁 (mag⁸rin⁵)	eye-ball	100
+目眉 (mag⁸ bhai⁵)	eye-brow	100
 目眉 (mag⁸bhai⁵)	eye-brow	100
 目眉 (mag⁸bhai⁵)	eye-brows	100
 飽心 (ba²sim¹)	eye-bulls-eye	100
@@ -11588,6 +11819,7 @@ po³po³	exuberant-foliage	50
 目頭 (mag⁸tao⁵)	eye-inner-corner	100
 目毛 (mag⁸ci³moⁿ⁵)	eye-lash	100
 目刺毛 (mag⁸ci³moⁿ⁵)	eye-lashes	100
+目骹皮 (mag⁸ ka¹ puê⁵)	eye-lid	100
 目皮 (mag⁸ziu¹puê⁵)	eye-lid	100
 目骹皮 (mag⁸ka¹puê⁵)	eye-lids	100
 目包 (mag⁸bao¹)	eye-lids	100
@@ -11697,6 +11929,7 @@ mag⁸ziu¹ kab⁴kab⁴nihⁿ¹	eye-wink	50
 歡喜做 (huaⁿ¹hi²zo³)	fain-to-do-anything	100
 苛燈愛 (ko¹lêng¹aiⁿ³)	fain-to-do-anything	100
 眩 (hin⁵)	faint	100
+虛眩 (he¹ hin⁵)	faint	100
 毋知人 (m⁷zai¹nang⁵)	faint	100
 淺色 (ciên²sêg⁴)	faint-colour	100
 淡色 (daⁿ⁶sêg⁴)	faint-colour	100
@@ -11798,6 +12031,7 @@ ga¹zuah⁸hin⁵	faint-to	50
 散掉 (suaⁿ³diau⁷)	fall-to-pieces	100
 瀑布泉 (pag⁸bou³zuaⁿ⁵)	fall-waterfall	100
 會錯 (oi⁶co³)	fallible	100
+水退 (zui² to³)	falling-tide	100
 田地拋荒 (can⁵di⁷ pao¹hng¹)	fallow-ground	100
 詐僞 (za³ngui⁶)	false	100
 花鳥 (huê¹niauⁿ¹)	false	100
@@ -11871,6 +12105,7 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 佚佗物 (tid⁴to⁵muêh⁸)	fancy-articles	100
 佚佗物 (tid⁴to⁵muêh⁸)	fancy-fancy-articles	100
 大牙 (dua⁷ghê⁵)	fang-tooth	100
+十四枝扇 (zab⁸ si³ gi¹ siⁿ³)	Fans	100
 鱟殼扇 (hao⁷kag⁴siⁿ³)	fans-cloth	100
 毛扇 (moⁿ⁵siⁿ³)	fans-feather	100
 葵扇 (guê⁵siⁿ³)	fans-palm-leaf	100
@@ -11965,6 +12200,7 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 無父个囝 (bho⁵bê⁶ gai⁵giaⁿ²)	father-fatherless	100
 孤子 (gou¹ze²)	father-fatherless	100
 大官 (da¹guaⁿ¹)	father-husbands-father	100
+岳父 (ngag⁸ bê⁶)	father-in-law	100
 家尊 (gê¹zun¹)	father-my-father	100
 家父 (gê¹hu⁶)	father-my-father	100
 我先父 (ua² soiⁿ¹hu⁶)	father-my-late-father	100
@@ -11984,6 +12220,7 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 恁大人 (nin² dua⁷nang⁵)	father-your-father	100
 令先尊 (lêng⁶soiⁿ¹zun¹)	father-your-late-father	100
 令先翁 (lêng⁶soiⁿ¹ong¹)	father-your-late-father	100
+阿叔 (a¹ zêg⁴)	fathers-younger-brother	100
 尋 (siam⁵)	fathom	100
 深無底 (cim¹bho⁵doi²)	fathom-fathomless	100
 毋好測達 (m⁷ho² cêg⁴dad⁸)	fathom-fathomless	100
@@ -12085,6 +12322,7 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 面相 (min⁷siang³)	features	100
 面像 (min⁷siêⁿ³)	features	100
 相貌 (siang³maoⁿ⁶)	features	100
+屎 (sai²)	feces	100
 茂盛 (mong⁶sêng⁶)	fecundity	100
 會生 (oi⁶sêⁿ¹)	fecundity	100
 生㩼 (sêⁿ¹zoi⁷)	fecundity	100
@@ -12129,9 +12367,11 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 捍脈 (huaⁿ⁷mehⁿ⁸)	feel-the-pulse	100
 脈睇 (mehⁿ⁸toiⁿ²)	feel-the-pulse	100
 摸脈 (mong⁵mehⁿ⁸)	feel-the-pulse	100
+拍脉 (pah⁴ mêh⁸)	feel-the-pulse	100
 拍脈 (pah⁴mehⁿ⁸)	feel-the-pulse	100
 捏脈 (dêⁿ⁶mehⁿ⁸)	feel-the-pulse	100
 睇脈 (toiⁿ²mehⁿ⁸)	feel-the-pulse	100
+摸 (mong⁵)	feeling	100
 裝做 (zuang¹zo³)	feign	100
 假做 (gê²zo³)	feign	100
 詐做 (dêⁿ³zo³)	feign	100
@@ -12176,8 +12416,10 @@ iaⁿ⁶siⁿ³	fan-to-use	50
 地氈 (di⁷ziⁿ¹)	felt-carpet	100
 氈帽 (ziⁿ¹bho⁷)	felt-hat	100
 氈纂 (ziⁿ¹ruan²)	felt-hat	100
+三頂毡帽 (saⁿ¹ dêng² ziⁿ¹ bho⁷)	Felt-hats	100
 做氈 (zo³ziⁿ¹)	felt-to-make	100
 氈 (iê²ziⁿ¹)	felt-to-make	100
+女 (nng²)	female	100
 走鬼 (zao²gui²)	female-attendants	100
 赤骹 (ciah⁴ka¹)	female-attendants	100
 女婢 (nng²bi⁶)	female-attendants	100
@@ -12278,6 +12520,7 @@ ha¹bhi⁷	fetid	50
 冤家 (uan¹gê¹)	feud	100
 共人做冤家 (gang⁷nang⁵ zo³uan¹gê¹)	feud-to-have-with-anyone	100
 有冤家 (u⁶uan¹gê¹)	feud-to-have-with-anyone	100
+發熱 (huad⁴ ruah⁸)	fever	100
 發熱 (huad⁴riêd⁸)	fever	100
 發燒 (huad⁴siê¹)	fever	100
 熱症 (riêd⁸zêng³)	fever	100
@@ -12310,6 +12553,7 @@ bho⁵ua⁶	few	50
 幾人 (gui²nang⁵)	few-a-few-people	100
 零人 (lan⁵nang⁵)	few-a-few-people	100
 數人 (su³nang⁵)	few-a-few-people	100
+梗 (gêⁿ²)	fiail	100
 假話 (gê²uê⁷)	fib	100
 la¹gê³	fib	50
 la¹san¹	fib	50
@@ -12335,6 +12579,7 @@ i⁵i⁵ êg⁸êg⁸	fickle	50
 字弦 (ri⁷hiⁿ⁵)	fiddle-with-two-strings	100
 無時恬 (bho⁵si⁵diam⁷)	fidget	100
 走 (dong³dong³zao²)	fidget	100
+田 (can⁵)	field	100
 戰場 (ziên³diêⁿ⁵)	field-battle-field	100
 can⁵huaⁿ⁷	field-boundary	50
 田 (can⁵)	field-cultivated-and-irrigated	100
@@ -12394,6 +12639,7 @@ can⁵huaⁿ⁷	field-boundary	50
 鐵屑 (tih⁴sud⁴)	file-iron-filings	100
 行孝 (giaⁿ⁵hao³)	filial	100
 有孝 (u⁶hao³)	filial	100
+孝經 (hao³giaⁿ¹)	filial-piety	100
 行孝 (giaⁿ⁵hao³)	filial-piety	100
 孝子 (hao³ze²)	filial-son	100
 塞空 (sad⁴kang¹)	fill-a-hole	100
@@ -12458,6 +12704,7 @@ cou¹lam⁵ ia²cui³	filthy-abuse	50
 罰銀 (huad⁸ngen⁵)	fine-to-money	100
 好天 (ho²tiⁿ¹)	fine-weather	100
 天時晴 (tiⁿ¹si⁵ zêⁿ⁵)	fine-weather	100
+手指 (ciu² zoiⁿ²)	finger	100
 手指 (ciu²zoiⁿ²)	finger	100
 一挼囝 (zêg⁸nuêh⁴giaⁿ²)	finger-a-pinch-so-taken	100
 洗手杯 (soi²ciu²buê¹)	finger-bowl	100
@@ -12468,9 +12715,11 @@ cou¹lam⁵ ia²cui³	filthy-abuse	50
 路碑 (lou⁷bi¹)	finger-finger-post	100
 鷄指 (goi¹zoiⁿ²)	finger-fore	100
 中手指 (dang¹zoiⁿ²)	finger-middle	100
+指甲 (zoiⁿ² gah⁴)	finger-nail	100
 將指頭指 (zang¹zng²tao⁵ gi²)	finger-point-with	100
 手指 (ciu² gi²)	finger-point-with	100
 屈手指算 (kud⁴zoiⁿ² sng³)	finger-reckon-on-fingers	100
+手節 (ciu² zad⁴)	finger-ring	100
 指頭 (zng²tao⁵)	finger-st-or-thumb	100
 指頭公 (zng²tao⁵gong¹)	finger-st-or-thumb	100
 尾指囝 (bhuê²zng²giaⁿ²)	finger-the-little	100
@@ -12517,6 +12766,7 @@ bid⁸	finish-finished	50
 huê²suh⁸	fire-fire-rocket	50
 火舌 (huê²zih⁸)	fire-flame-of	100
 火焰 (huê²iam⁶)	fire-flame-of	100
+火夜 (huê² mê⁵)	fire-fly	100
 火過去 (huê² guê³ke³)	fire-gone-out	100
 鬼火 (gui²huê²)	fire-ignis-fatuus	100
 着火 (doh⁸huê²)	fire-light	100
@@ -12556,6 +12806,8 @@ ngaih⁸	firm-steady	50
 第一 (doiⁿ⁶id⁴)	first	100
 初下 (co¹ê⁷)	first-at-first	100
 起頭 (ki²tao⁵)	first-at-first	100
+頭子 (tao⁵ ze²)	first-born	100
+初一 (cu¹ id⁴)	first-day	100
 初一 (ciu¹id⁴)	first-day-of-the-moon	100
 初生 (co¹sêⁿ¹)	first-first-born	100
 起頭生 (ki²tao⁵sêⁿ¹)	first-first-born	100
@@ -12611,6 +12863,7 @@ ri⁷he⁵	fish-catch-fishesvarious-methods	50
 魚卵 (he⁵nng⁶)	fish-roe-or-spawn-deposited	100
 鹹魚 (giam⁵he⁵)	fish-salt-fish	100
 臭臊 (cao³co¹)	fish-smell	100
+漁人 (he⁵ rin⁵)	fishermen	100
 魚鰾 (he⁵piê⁶)	fishmaws	100
 魚肚 (he⁵dou⁶)	fishmaws	100
 裂 (lih⁸)	fissure	100
@@ -12764,6 +13017,7 @@ so⁶	fling	50
 撼掉 (ham²diau⁷)	fling-away	100
 捔掉 (gag⁸diau⁷)	fling-away	100
 擲掉 (sêg⁴diau⁷)	fling-away	100
+火石 (huê² ziêh⁸)	flint	100
 火石 (huê²ziêh⁸)	flint	100
 輕浮 (kin¹pu⁵)	flippant	100
 毋謹言 (m⁷gen²ngan⁵)	flippant	100
@@ -12778,6 +13032,7 @@ buê⁵	flit	50
 浮 (pu⁵)	float	100
 浮水 (pu⁵zui²)	float	100
 杉排 (sam¹bai⁵)	float-a-float	100
+水桴 (zui² hu¹)	floating-house	100
 群 (kun⁵)	flock	100
 成群 (ziaⁿ⁵kun⁵)	flock-a-whole	100
 一群羊 (zêg⁸kun⁵iêⁿ⁵)	flock-of-sheep	100
@@ -12838,6 +13093,7 @@ buê⁵	flit	50
 流出 (lao⁵cud⁴)	flow-over-flow	100
 滿出 (muaⁿ²cud⁴)	flow-over-flow	100
 流到灱 (lao⁵gao³da¹)	flow-till-dry	100
+一蕊花 (zêg⁸ lui² huê¹)	Flower	100
 花 (huê¹)	flower	100
 一縛花 (zêg⁸bag⁸huê¹)	flower-a-bouquet-of	100
 一把花 (zêg⁸bê²huê¹)	flower-a-bouquet-of	100
@@ -12876,6 +13132,7 @@ i⁵i⁵ êg⁸êg⁸	fluctuate	50
 面紅起來 (min⁷ ang⁵ki²lai⁵)	flush	100
 橫笛 (huêⁿ⁵dêg⁸)	flute	100
 歕橫笛 (bun⁵huêⁿ⁵dêg⁸)	flute-to-play	100
+胡蠅 (hou⁵ sin⁵)	fly	100
 胡蠅 (hou⁵sin⁵)	fly	100
 飛 (buê¹)	fly	100
 一陣胡蠅 (zêg⁸din⁷ hou⁵sin⁵)	fly-a-cloud-of	100
@@ -12891,6 +13148,7 @@ i⁵i⁵ êg⁸êg⁸	fluctuate	50
 糧草 (niêⁿ⁵cao²)	fodder	100
 仇敵 (ciu⁵dêg⁸)	foe	100
 對頭 (dui³tao⁵)	foe	100
+霧 (bhu⁷)	fog	100
 雲霧 (hun⁵bhu⁷)	fog	100
 煙霧 (in¹bhu⁷)	fog	100
 濛霧 (mong⁵bhu⁷)	fog	100
@@ -12899,6 +13157,7 @@ i⁵i⁵ êg⁸êg⁸	fluctuate	50
 將計就計 (ziang¹goi³ ziu⁶goi³)	foil-frustrate-a-plot	100
 破計 (pua³goi³)	foil-frustrate-a-plot	100
 錫薄 (siah⁴boh⁸)	foil-tin-foil	100
+摺 (lah⁸)	fold	100
 重 (dêng⁵)	fold-as-of-paper	100
 摺 (zih⁴)	fold-clothes	100
 rih⁴	fold-clothes	50
@@ -12927,6 +13186,8 @@ ab⁴ab⁴	foliage-dense	50
 門生 (mng⁵sêng¹)	follow-follower-or-disciple	100
 門徒 (mng⁵tu⁵)	follow-follower-or-disciple	100
 綴伊个骹步 (duê³ i¹ gai⁵ka¹bou⁷)	follow-in-ones-steps	100
+隨我 (sui⁵ ua²)	follow-me	100
+聽人勸戒 (tiaⁿ¹ nang⁵ kng³goi³)	follow-ones-advice	100
 聽人呾 (tiaⁿ¹nang⁵daⁿ³)	follow-ones-advice	100
 照樣 (ziê³iêⁿ⁷)	follow-ones-example	100
 效學 (hao⁷oh⁸)	follow-ones-example	100
@@ -12950,8 +13211,11 @@ kao²siam⁵	food	50
 痴哥 (ci¹go¹)	fool	100
 㦙 (nga³)	fool	100
 㦙人 (nga³nang⁵)	fool	100
+㦙 (nga³)	foolish	100
+癲 (diên¹)	foolish	100
 骹 (ka¹)	foot	100
 剝赤骹 (bag⁴ciah⁴ka¹)	foot-barefoot	100
+褪赤骹 (tng³ciah⁴ka¹)	foot-barefoot	100
 踢球 (tad⁴giu⁵)	foot-foot-ball	100
 路囝 (lou⁷giaⁿ²)	foot-foot-path	100
 小路 (siê²lou⁷)	foot-foot-path	100
@@ -12962,6 +13226,7 @@ kao²siam⁵	food	50
 尺 (ciêh⁴)	foot-measure	100
 山骹 (suaⁿ¹ka¹)	foot-of-hill	100
 骹底 (ka¹doi²)	foot-sole-of	100
+骹踏椅 (ka¹ dah⁸ i¹)	foot-stool	100
 骹踏椅 (ka¹dah⁸iⁿ²)	foot-stool	100
 踏掉 (dah⁸diau⁷)	foot-trample-under	100
 尺 (ciêh⁴)	foot-Twelve-English-inches	100
@@ -13050,6 +13315,7 @@ e⁶dad⁸	forecast	50
 謙讓 (kiam¹riang⁶)	forego-humbly-ones-right	100
 受虧 (siu⁶kui¹)	forego-humbly-ones-right	100
 額 (hiah⁸)	forehead	100
+額頭 (hiah⁸ tao⁵)	forehead	100
 額門神 (hiah⁸mng⁵sin⁵)	forehead	100
 額頭 (hiah⁸tao⁵)	forehead	100
 額囟 (hiah⁸sin³)	forehead-higher	100
@@ -13125,11 +13391,15 @@ e⁶dad⁸	forecast	50
 赦罪 (sia³zuê⁶)	forgive	100
 赦免 (sia³miên²)	forgive	100
 相恕相赦 (siang¹su³ siang¹sia³)	forgive-mutually	100
+赦免汝敵 (sia³miên² le² dêg⁸)	forgive-your-foes	100
+赦罪 (sia³ zuê⁶)	forgiveness	100
+叉 (za¹)	fork	100
 叉 (cê¹)	fork	100
 阿叉 (a¹cê¹)	fork-forked	100
 gao⁵gê⁵	fork-forked	50
 開椏 (kui¹a¹)	fork-forked	100
 叉 (cê¹)	forks	100
+九枝鐵叉 (gao² gi¹ tih⁴ za¹)	Forks	100
 無好倚靠 (bho⁵ ho²iⁿ²gou⁶)	forlorn	100
 無好我飯 (bho⁵ ho²ua²bng⁷)	forlorn	100
 無人好交插 (bho⁵nang⁵ ho²gao¹cab⁴)	forlorn	100
@@ -13301,9 +13571,12 @@ têⁿ⁵tao⁵huang¹	foul-wind	50
 本源 (bng²nguan⁵)	fountain	100
 山泉 (suaⁿ¹zuaⁿ⁵)	fountain	100
 四 (si³)	four	100
+肆 (si³)	four	100
+四書 (si³su¹)	four-books	100
 四角 (si³gag⁴)	four-four-cornered	100
 四倍 (si³buê⁶)	four-four-fold	100
 四方 (si³bang¹)	four-four-square	100
+四時 (si³ si⁵)	four-season	100
 四季 (si³kui³)	four-seasons	100
 四更 (si³gêⁿ¹)	fourth-watch-from-to-am	100
 鳥 (ziau²)	fowl	100
@@ -13316,8 +13589,10 @@ goi¹	fowl-domestic	50
 射鳥 (sia⁷ziau²)	fowl-to	100
 黐鳥 (ti¹ziau²)	fowl-to	100
 水鳥 (zui²ziau²)	fowl-water	100
+十一隻雞 (zab⁸ id⁴ ziah⁴ goi¹)	Fowls	100
 狐狸 (hou⁵lai⁵)	fox	100
 猴來 (hou⁵lai⁵)	fox	100
+狐狸 (hu⁵ lai⁵)	fox	100
 山狗 (suaⁿ¹gao²)	fox	100
 纖碎 (cam³cui³)	fraction	100
 零碎 (lan⁵cui³)	fraction	100
@@ -13440,6 +13715,7 @@ ehⁿ⁸ehⁿ⁸giê³	fret-fret-child-intransitive	50
 密友 (bhad⁸iu²)	friend-very-close	100
 摯友 (zi³iu²)	friend-very-close	100
 好友 (ho²iu²)	friend-very-close	100
+朋友 (pêng⁵ iu²)	friends	100
 驚着人 (giaⁿ¹diêh⁸nang⁵)	frighten	100
 騙人驚 (piên³nang⁵giaⁿ¹)	frighten	100
 驚嚇 (giaⁿ¹hêh⁴)	frighten-by-threats	100
@@ -13470,6 +13746,7 @@ dag⁴nng⁷diau⁷ si⁵hao⁷	fritter-away-time	50
 刻 (kêg⁴)	frizzle	100
 刻刻 (kêg⁴kêg⁴)	frizzle	100
 轉刻 (ruan²kêg⁴)	frizzle-cause-to	100
+水蛙 (zui² i¹)	frog	100
 水雞 (zui²goi¹)	frog	100
 蛤虯 (gab⁴giu²)	frog	100
 蛤婆 (gab⁴bo⁵)	frog	100
@@ -13543,6 +13820,9 @@ niaⁿ³	front-stand-opposite-to	50
 儉約 (kiam⁶iag⁴)	frugal	100
 省 (sêⁿ²)	frugal	100
 省約 (sêⁿ²iag⁴)	frugal	100
+儉 (kiêⁿ⁷)	frugality	100
+積儉者有銀存 (zêg⁴ kiêⁿ⁷ zia², u⁶ ngen⁵ cun⁵)	frugality-leads-to-plenty	100
+果子 (guê² zi²)	fruit	100
 果子 (guê²zi²)	fruit	100
 果 (guêⁿ²)	fruit	100
 果子 (guêⁿ²zi²)	fruit	100
@@ -13751,6 +14031,7 @@ giaⁿ⁵ban⁷ uê⁵uê⁵ rê⁵rê⁵	gait-very-feeble	50
 絞枷 (ga²gê⁵)	gallows	100
 吊頷枷 (diau³am⁶gê⁵)	gallows	100
 甘蜜 (gam¹bhid⁸)	gambier	100
+賭棍 (du² gun³)	gamblers	100
 跋 (buah⁸)	gambling	100
 跋錢 (buah⁸ziⁿ⁵)	gambling	100
 跋繳 (buah⁸giau²)	gambling	100
@@ -13805,6 +14086,7 @@ ao³nêg⁸	gangrene	50
 喙 (lo⁷cui³)	gargle	100
 漱口 (sog⁴kao²)	gargle	100
 蒜 (sng³)	garlic	100
+蒜頭 (sng³ tao⁵)	garlic	100
 青蒜 (cêⁿ¹sng³)	garlic-fresh	100
 蒜 (sng³)	garlic-fresh	100
 蒜頭 (sng³tao⁵)	garlic-ripe-roots	100
@@ -13865,6 +14147,7 @@ hu⁵sêg⁴	garter	50
 睇到目袂𥍉 (toiⁿ² gao³ mag⁸ bhoi⁶nihⁿ¹)	gaze	100
 驚報 (giaⁿ¹bo³)	gazette-Peking	100
 家伙 (gê¹huê²)	gear-of-boat-c	100
+十三隻鵝 (zab⁸ saⁿ¹ ziah⁴ gho⁵)	Geese	100
 u⁶ga¹liam⁵	gelatinous	50
 u⁶dan¹dah⁴	gelatinous	50
 玉 (ghêg⁸)	gem	100
@@ -13945,19 +14228,20 @@ u⁶dan¹dah⁴	gelatinous	50
 地理志 (di⁷li²zi³)	geography-book-on	100
 地理書 (di⁷li²ze¹)	geography-book-on	100
 睇風水先生 (toiⁿ²huang¹zui² sin¹sêⁿ¹)	geomancer	100
-走地里 (zao²di⁷li²)	geomancy	100
-行地里 (giaⁿ⁵di⁷li²)	geomancy	100
+走地理 (zao²di⁷li²)	geomancy	100
+行地理 (giaⁿ⁵di⁷li²)	geomancy	100
 看風水 (toiⁿ²huang¹zui²)	geomancy	100
 看山 (toiⁿ²suaⁿ¹)	geomancy	100
-地里 (di⁶li²)	geomancy	100
+地理 (di⁶li²)	geomancy	100
 風水先生 (huang¹zui² sin¹sêⁿ¹)	geomancy-geomancer	100
-看山紳生 (toiⁿ²suaⁿ¹ sin¹sêⁿ¹)	geomancy-geomancer	100
+看山先生 (toiⁿ²suaⁿ¹ sin¹sêⁿ¹)	geomancy-geomancer	100
 量地法 (niêⁿ⁵di⁷huab⁴)	geometry	100
 芳葉 (pang¹hiêh⁸)	geranium-or-scented-leaves	100
 芽 (ghê⁵)	germ	100
 發芽 (huad⁴ghê⁵)	germ-germinate	100
 萌芽 (mêng⁵ghê⁵)	germ-germinate	100
 baoh⁴ghê⁵	germ-germinate	50
+隸書 (di⁶ ze¹)	German-text	100
 國 (zab⁸gang²gog⁴)	germany	100
 大德國 (dai⁶dêg⁴gog⁴)	germany	100
 骹摸手比 (ka¹ mong⁵, ciu² bi²)	gestures-to-use-in-speaking	100
@@ -14023,6 +14307,7 @@ ze²gim¹	gild	50
 金錠 (gim¹diaⁿ⁶)	gilt-paper-used-in-sacrifices	100
 銀錠 (ngen⁵diaⁿ⁶)	gilt-paper-used-in-sacrifices	100
 王寶 (uang⁵bo²)	gilt-paper-used-in-sacrifices	100
+鑽囝 (zng³ giaⁿ²)	gimlet	100
 鑽囝 (zng³giaⁿ²)	gimlet	100
 人參 (rin⁵siam¹)	gin-seng	100
 高麗 (gao¹li⁵)	gin-seng	100
@@ -14079,6 +14364,7 @@ giau²pu⁵ soih⁴dua⁷	gird-up	50
 捨命棄身 (sia²miaⁿ⁷ ki³sin¹)	give-ones-life	100
 交 (gao¹)	give-over-to	100
 交還 (gao¹hoiⁿ⁵)	give-over-to	100
+此物還我 (zi² muêh⁸ haiⁿ⁵ ua²)	give-that-to-me	100
 磨累 (bhua⁵lui⁷)	give-trouble	100
 還流 (huan⁵lao⁵)	give-trouble	100
 攪擾 (giau²riau²)	give-trouble	100
@@ -14108,6 +14394,7 @@ mag⁸ziu¹ lin³lin³kah⁴	glare-glare-with-the-eyes	50
 玻璃樽 (bo¹li⁵zun¹)	glass-bottle	100
 玻璃鐘 (bo¹li⁵zêng¹)	glass-for-drinking	100
 玻璃杯 (bo¹li⁵buê¹)	glass-for-drinking	100
+十一枝玻璃燈 (zab⁸ id⁴ gi¹ bo¹ li⁵ dêng¹)	Glass-lamps	100
 琉璃 (liu⁵li⁵)	glass-not-quite-the-same	100
 玻璃 (iê²bo¹li⁵)	glass-to-male	100
 歕玻璃 (bun⁵bo¹li⁵)	glass-to-male	100
@@ -14238,6 +14525,7 @@ hang⁵cêng⁵ tuaⁿ⁵	glut-in-the-market	50
 走猛 (zao²mêⁿ²)	go-quickly	100
 行猛 (giaⁿ⁵mêⁿ²)	go-quickly	100
 趕猛 (guaⁿ²mêⁿ²)	go-quickly	100
+慢慢行 (man⁷ man⁷ giaⁿ⁵)	go-slowly	100
 去到 (ke³gao³)	go-to	100
 應席 (êng³siah⁸)	go-to-a-feast	100
 赴席 (hu³siah⁸)	go-to-a-feast	100
@@ -14257,6 +14545,7 @@ hang⁵cêng⁵ tuaⁿ⁵	glut-in-the-market	50
 上廁 (ziêⁿ⁶cê³)	go-to-stool	100
 行大便 (giaⁿ⁵dai⁶biên⁶)	go-to-stool	100
 行動 (giaⁿ⁵dang⁶)	go-to-stool	100
+放屎 (bang³ sai²)	go-to-stool	100
 訪親訪友 (huang²cin¹ huang²iu²)	go-to-visit	100
 去拜候 (ke³bai³hao⁷)	go-to-visit	100
 去相巡 (ke³siê¹sun⁵)	go-to-visit	100
@@ -14273,6 +14562,7 @@ hang⁵cêng⁵ tuaⁿ⁵	glut-in-the-market	50
 伊去底塊 (i¹ ke³di⁵go³)	go-where-has-he-gone	100
 趕流 (guaⁿ²lao⁵)	go-with-the-tide	100
 順流 (sun⁶lao⁵)	go-with-the-tide	100
+羊 (iêⁿ⁵)	goat	100
 山羊 (suaⁿ¹iêⁿ⁵)	goat	100
 上帝 (siang⁶di³)	GOD	100
 上帝 (siang⁶di³)	God-called-by-Protestant-Christians	100
@@ -14285,6 +14575,8 @@ hang⁵cêng⁵ tuaⁿ⁵	glut-in-the-market	50
 拜上帝 (bai³ siang⁶di³)	GOD-to-worship	100
 媽祖 (maⁿ²zou²)	goddess-of-Sailors	100
 棧房 (zan³bang⁵)	godown	100
+樓底 (lao⁵ doi²)	godown	100
+水罐 (zui² guan³)	goglet	100
 大頷奎 (dua⁷am⁶gui¹)	goitre	100
 大頷胿 (dua⁷am⁶gui¹)	goitre	100
 赤金 (ciah⁴gim¹)	gold	100
@@ -14307,6 +14599,7 @@ hang⁵cêng⁵ tuaⁿ⁵	glut-in-the-market	50
 赤金 (ciah⁴gim¹)	gold-unalloyed	100
 足赤金 (zog⁴ciah⁴gim¹)	gold-unalloyed	100
 足成金 (zog⁴siaⁿ⁵gim¹)	gold-unalloyed	100
+欽 (kim¹)	gong	100
 鑼 (lo⁵)	gong	100
 銅鑼 (dang⁵lo⁵)	gong	100
 一面鑼 (zêg⁸min⁷lo⁵)	gong-one	100
@@ -14418,6 +14711,7 @@ pid⁸puêh⁸	gossip	50
 襖套 (o²tao³)	gown	100
 長袍 (dng⁵pao⁵)	gown	100
 長衫 (dng⁵saⁿ¹)	gown	100
+大領衫 (dua⁷ nia² saⁿ¹)	gown	100
 裙 (gun⁵)	gown-ladys	100
 恩 (en¹)	grace	100
 恩澤 (en¹zêg⁸)	grace	100
@@ -14453,6 +14747,7 @@ pid⁸puêh⁸	gossip	50
 一粒 (zêg⁸liab⁸)	grain-one-grain	100
 禾 (da⁵)	grain-rice-in-ear	100
 粟 (cêg⁴)	grain-rice-in-husk	100
+二粒米 (no⁶ liab⁸ bhi²)	Grains-of-rice	100
 作文法 (zo³bhun⁵huab⁴)	grammar	100
 粟倉 (cêg⁴cng¹)	granary	100
 倉 (cng¹)	granary	100
@@ -14476,6 +14771,7 @@ pid⁸puêh⁸	gossip	50
 女孫 (nng²sun¹)	grandchild-female	100
 男孫 (lam⁵sun¹)	grandchild-male	100
 姪孫 (dao¹sun¹)	grandchild-male	100
+阿公 (a¹ gong¹)	grandfather	100
 阿公 (a¹gong¹)	grandfather	100
 老公 (lao⁶gong¹)	grandfather-great	100
 外公 (ghua⁷gong¹)	grandfather-maternal	100
@@ -14535,6 +14831,7 @@ pid⁸puêh⁸	gossip	50
 忘情者多 (bhuang⁵cêng⁵zia² do¹)	grateful-gratitude-is-scarce	100
 知情者少 (zai¹cêng⁵zia² ziê²)	grateful-gratitude-is-scarce	100
 têng¹zi²	grating-of-window	50
+感恩 (gam² en¹)	gratitude	100
 免錢 (min²ziⁿ⁵)	gratuitous	100
 白白分人 (bêh⁸bêh⁸ bun¹nang⁵)	gratuitous	100
 風水 (huang¹zui²)	grave	100
@@ -14646,6 +14943,7 @@ hoi¹diêh⁸	graze-to-graze-anything	50
 磨刀 (bhua⁵do¹)	grind-grind-a-knife	100
 磨石 (bhua⁵ziêh⁸)	grind-grind-stone	100
 擂幼 (lui⁵iuⁿ³)	grind-in-a-mortar	100
+磨石 (bho⁷ ziêh⁸)	grind-stone	100
 研灰灰 (ngoi² hu¹hu¹)	grind-with-wheel-in-trough	100
 擒 (kim⁵)	grip	100
 拑 (kiⁿ⁵)	grip	100
@@ -14868,6 +15166,7 @@ liêd⁴kiêd⁴	guile	50
 落雹 (loh⁸pag⁸)	hail-hail-falling	100
 海南 (hai²lam⁵)	hainan	100
 毛 (moⁿ⁵)	hair	100
+頭毛 (tao⁵ mo⁵)	hair	100
 馬尾電 (bhê²bhuê²diên⁶)	hair-a-haircloth-cushion	100
 毛刷 (moⁿ⁵suêh⁴)	hair-hair-brush	100
 插釵 (cah⁴toi¹)	hair-hair-pin	100
@@ -14886,9 +15185,11 @@ liêd⁴kiêd⁴	guile	50
 頭毛 (tao⁵moⁿ⁵)	hair-of-head	100
 頭毛 (tao⁵moⁿ⁵)	hair-of-the-head-human	100
 頭毛揭起 (tao⁵moⁿ⁵ giah⁴ki²)	hair-on-end	100
+如意 (ru⁵ i³)	hair-pin	100
 編辮 (biⁿ⁶biⁿ¹)	hair-plait-the-queue	100
 梳頭毛 (siu¹tao⁵moⁿ⁵)	hair-to-comb	100
 㪗辮 (tao²biⁿ¹)	hair-unplait-the-queue	100
+九條頭毛 (gao² diou⁵ tao⁵ mo⁵)	Hairs	100
 叉 (cê¹)	halberd	100
 耙頭 (bê⁵tao⁵)	halberd	100
 枒 (ghê²)	halberd-prongs-of	100
@@ -14998,6 +15299,7 @@ m⁷tang³sim¹	half-half-cooked	50
 鎖手銬 (so²ciu²kao³)	hand-to-put-on-ditto	100
 手布 (ciu²bou³)	handkerchiefs	100
 手綢 (ciu²diu⁵)	handkerchiefs	100
+八條手巾 (boih⁴ diou⁵ ciu² gen¹)	Handkerchiefs	100
 柄 (bêⁿ³)	handle	100
 柄 (bêⁿ⁷)	handle	100
 耳 (hiⁿ⁶)	handle-of-vessel	100
@@ -15047,6 +15349,7 @@ gah⁴ban⁷	handy-convenient	50
 如愿 (ru⁵nguan⁶)	happily	100
 大幸 (dai⁶hêng⁶)	happily	100
 有幸 (u⁶hêng⁶)	happily	100
+福 (hog⁴)	happiness	100
 福氣 (hog⁴ki³)	happiness	100
 歡喜 (huaⁿ¹hi²)	happy	100
 快意 (kuai³i³)	happy	100
@@ -15202,10 +15505,12 @@ ko²kêg⁴	harsh	50
 倉口 (cng¹kao²)	hatch-hatchway	100
 倉門 (cng¹mng⁵)	hatch-hatchway	100
 開倉 (kui¹cng¹)	hatch-to-open	100
+斧頭 (bou² tao⁵)	hatchet	100
 斧頭 (bou²tao⁵)	hatchet	100
+七枝斧頭 (cid⁴ gi¹ bou² tao⁵)	Hatchets	100
 惱 (lou²)	hate	100
 惱恨 (lou²hen⁶)	hate	100
-煦 (u³)	hate	100
+惡 (u³)	hate	100
 怨仇 (uan³ciu⁵)	hate	100
 怨恨 (uan³hen⁶)	hate	100
 𤆬人惱 (cua⁷nang⁵lou²)	hate-hateful	100
@@ -15250,13 +15555,18 @@ piên¹liau²	have-I-have-dined	50
 自了毋別 (ze⁶liau² m⁷bad⁴)	have-I-have-not	100
 毋曾有 (m⁷zêng⁵u⁶)	have-I-have-not	100
 毋別 (m⁷bad⁴)	have-I-have-not	100
+久久忍耐 (gu² gu² rim² nai⁶)	have-long-patience	100
 未曾 (bhuê⁷zêng⁵)	have-not-yet	100
 因有去亞未 (in¹ u⁶ ke³ a¹bhuê⁷?)	have-they-gone	100
+還有加咩 (huan⁵ u⁶ gê¹,mêh⁴)	have-you-any-more	100
 荷蘭薯還了有亞無 (ho⁵lan⁵ze⁵ huan⁵liou² u⁶ a¹bho⁵?)	have-you-any-more-potatoes	100
 𤰉亞毋𤰉 (la⁶ a¹ m⁷la⁶?)	have-you-enough	100
 汝豈識食榴蓮咩 (le² kah⁴bad⁴ ziah⁸ liu⁵lian⁵ mê⁷?)	have-you-ever-eaten-durians	100
 汝此陣正來 (le² zi¹zun⁵ ziaⁿ³lai⁵?)	have-you-just-now-come	100
 有上大个咩 (u⁶ siang⁶dua⁷gai⁵ mê⁷?)	have-you-the-largest-one	100
+有面 (u⁶ min⁷)	having-a-reputation	100
+有賢人之才 (u⁶ ghao⁵ nang⁵ ze¹ zai⁵)	having-a-wise-mans-capacity	100
+失面 (sid⁴ min⁷)	having-lost-reputation	100
 鷹婆 (êng¹bo⁵)	hawk	100
 鷂鷹婆 (liau²êng¹bo⁵)	hawk	100
 搖鼓 (iê⁵gou²)	hawker	100
@@ -15300,15 +15610,29 @@ piên¹liau²	have-I-have-dined	50
 伊作有一個月 (i¹ zoh⁴ u⁶ zêg⁸gai⁵ ghuêh⁸)	he-has-worked-one-month	100
 未 (bhuê⁷)	he-hasnt	100
 伊還了未去 (i¹ huan⁵liou² bhuê⁷ke³)	he-hasnt-gone-yet	100
+伊是痞人 (i¹ si⁶ pai² nang⁵)	he-is-a-bad-man	100
 伊是新到个人 (i¹ si⁶ sin¹gao³gai⁵nang⁵)	he-is-a-new-comer	100
+骹手無時歇 (ka¹ ciu² bho⁵ si⁵ hiah⁴)	he-is-always-busy	100
+伊常常欲耍 (i¹ siêⁿ⁵ siêⁿ⁵ aiⁿ³ sng²)	he-is-always-for-play	100
 伊終久是此樣生 (i¹ zong¹gu² si⁶ ziêⁿ³sêⁿ¹)	he-is-always-like-this	100
+常常伊行照生 (siêⁿ⁵ siêⁿ⁵ i¹ giaⁿ⁵ ziê³ sêⁿ¹)	he-is-constantly-doing-thus	100
+伊有膽 (i¹ u⁶ daⁿ²)	he-is-courageous	100
 伊死了 (i¹ si²lo⁷)	he-is-dead	100
+伊貪吝之極 (i¹ tam¹ liên⁶ ze¹ gêg⁸)	he-is-extremely-covetous	100
+伊欲食鴉片 (i¹ aiⁿ³ ziah⁸ a¹piên³)	he-is-fond-of-opium	100
 伊愛轉去 (i¹ aiⁿ³dng²ke³)	he-is-going-home	100
+伊無知足 (i¹ bho⁵ zai¹ zog⁴)	he-is-never-contented	100
+伊心歡喜 (i¹ sim¹ huaⁿ¹ hi²)	he-is-pleased	100
+伊氣在 (i¹ ki³ zai⁶)	he-is-very-angry	100
+伊放惰在 (i¹ bang³do⁶ zai⁶)	he-is-very-lazy	100
+伊有名家在 (i¹ u⁶ miaⁿ⁵ gê¹ zai⁶)	he-is-very-skillful	100
 伊呾甚㩼話 (i¹ daⁿ³ hiaⁿ³ziaⁿ³zoi⁷ uê⁷)	he-made-a-long-statement	100
 伊毋好去 (i¹ m⁷haoⁿ³ ke³)	he-refuses-to-go	100
+伊輕忽此道理 (i¹ kin¹ hud⁴ zi² do⁶ li²)	he-rejects-this-doctrine	100
 伊呾伊愛去 (i¹ daⁿ³ i¹ aiⁿ³lai⁵)	he-says-he-is-coming	100
 伊 (i¹)	he-she-it-him-her	100
 伊愛 (i¹ aiⁿ³)	he-wants	100
+伊肉欲痛 (i¹ nêg⁸ aiⁿ³ tiaⁿ³)	he-wants-a-beating	100
 伊愛詏 (i¹ aiⁿ³a³)	he-wants-to-argue	100
 伊愛去 (i¹ aiⁿ³ke³)	he-wants-to-go	100
 伊愛翕番葛 (i¹ aiⁿ³hib⁴ huan¹guah⁴)	he-wants-to-steam-potatoes	100
@@ -15320,6 +15644,7 @@ piên¹liau²	have-I-have-dined	50
 伊毋來 (i¹ m⁷lai⁵)	he-wont-come	100
 頭 (tao⁵)	head	100
 陶 (tao⁵)	head	100
+頭殼 (tao⁵ kag⁴)	head	100
 頭殼 (tao⁵kag⁴)	head	100
 縖縐紗 (ha⁵riau³sê¹)	head-band	100
 額前圍 (hiah⁸zoiⁿ⁵ui⁵)	head-band	100
@@ -15376,6 +15701,7 @@ têⁿ⁵tao⁵huang¹	head-wind	50
 耳聞 (re²bhun⁶)	hear-hearsay	100
 聽見人呾 (tiaⁿ¹giⁿ³ nang⁵daⁿ³)	hear-hearsay	100
 聽毋見 (tiaⁿ¹m⁷giⁿ³)	hear-I-dont-hear	100
+聽 (tiaⁿ¹)	hearing	100
 打聽 (da²têng³)	hearken-hearken-secretly	100
 探聽 (tam³tiaⁿ¹)	hearken-hearken-secretly	100
 心 (sim¹)	heart	100
@@ -15402,6 +15728,7 @@ têⁿ⁵tao⁵huang¹	head-wind	50
 灶雞 (zao³goi¹)	hearth-cricket	100
 火氣 (huê²ki³)	heat	100
 熱氣 (riêd⁸ki³)	heat	100
+熱 (ruah⁸)	heat	100
 熱氣 (ruah⁸ki³)	heat	100
 燂燒 (dim¹siê¹)	heat-food	100
 燒紅紅 (siê¹ ang⁵ang⁵)	heat-red-heat	100
@@ -15421,6 +15748,8 @@ têⁿ⁵tao⁵huang¹	head-wind	50
 天理 (tiên¹li²)	heaven-justice-of	100
 指天盟誓 (zi²tiⁿ¹ mêng⁵si⁷)	heaven-swear-by	100
 當天咒誓 (dng¹tiⁿ¹ ziu³zua⁷)	heaven-swear-by	100
+天 (tiên¹)	heavens	100
+天有危 (tiên¹ u⁶ guiⁿ⁵)	heavens-are-high	100
 重 (dang⁶)	heavy	100
 心肝頭壓大石 (sim¹guaⁿ¹tao⁵ dêh⁴dua⁷ziêh⁸)	heavy-heavy-heartfeeling-of-responsibility	100
 憂鬱 (iu¹ud⁴)	heavy-heavy-heartsad	100
@@ -15441,6 +15770,7 @@ têⁿ⁵tao⁵huang¹	head-wind	50
 仔細 (ze²soi³)	heed-take	100
 謹慎 (gen²sin²)	heed-take	100
 小心 (siê²sim¹)	heed-take	100
+骹後蹬 (ka¹ ao⁶ dêⁿ¹)	heel	100
 骹後蹬 (ka¹ao⁶dêⁿ¹)	heel	100
 dah⁸do²dêⁿ¹	heel-down-at-the-heels	50
 鞋蹬 (oi⁵dêⁿ¹)	heel-of-shoes	100
@@ -15518,6 +15848,8 @@ do⁵long⁵	help	50
 蜂油 (pang¹iu⁵)	hemp-hemp-seed-oil	100
 鰻子 (muaⁿ⁵zi²)	hemp-seed	100
 鰻仁 (muaⁿ⁵rin⁵)	hemp-seed	100
+雞 (goi¹)	hen	100
+鷄母 (goi¹ bho²)	hen	100
 雞母 (goi¹bho²)	hen	100
 鷄籠 (goi¹lang⁵)	hen-hen-house	100
 鷄寮 (goi¹liau⁵)	hen-hen-house	100
@@ -15594,6 +15926,7 @@ do⁵long⁵	help	50
 草寮 (cao²liau⁵)	hermit-hermitage	100
 小腸氣 (siau²ciang⁵ki³)	hernia	100
 脫筋頭 (tud⁴gen¹tao⁵)	hernia	100
+英人 (êng¹ rin⁵)	hero	100
 英雄 (êng¹hiong⁵)	hero	100
 豪 (hao⁵)	hero	100
 傑 (giêd⁸)	hero	100
@@ -15734,12 +16067,14 @@ kiê⁷zu⁶	hinder	50
 上人露 (ciêⁿ⁶nang⁵lou³)	hire-hired	100
 雇 (gou³)	hire-to	100
 伊个伙頭會在 (i¹ gai⁵ huê²tao⁵ oi⁶zai⁶)	his-cook-is-very-clever	100
+伊阿父窮在 (i¹ a¹ bê⁶,gêng⁵ zai⁶)	his-father-is-very-poor	100
 伊个頭毛挐挐 (i¹ gai⁵ tao⁵moⁿ⁵ re⁵re⁵)	his-hair-is-rough	100
 伊个病重 (i¹gai⁵ bêⁿ⁷ dang⁶)	his-illness-is-serious	100
 伊个是此樣生 (i¹ gai⁵ si⁶ ziêⁿ³sêⁿ¹)	his-is-like-this	100
 伊个工是重在 (i¹ gai² kang¹kuê³ si⁶ dang³zai⁶)	his-work-is-very-heavy	100
 嘶些叫 (si¹zê⁷giê³)	hiss	100
 嘶嘶叫 (si¹si¹giê³)	hiss	100
+傳志 (dng⁷ zi³)	historical	100
 史官 (se²guaⁿ¹)	historiographer	100
 鑑史 (gam³se²)	history	100
 國史 (gog⁴se²)	history	100
@@ -15780,8 +16115,10 @@ giaⁿ⁵lou⁷ cim⁶a¹cim⁶	hobble	50
 聖人物 (siaⁿ³nang⁵muêh⁸)	hobgoblin	100
 糞箕 (bun³gi¹)	hod	100
 滑 (gud⁸)	hoe	100
+鋤頭 (de⁵ tao⁵)	hoe	100
 鋤頭 (de⁵tao⁵)	hoe	100
 豬 (de¹)	hog	100
+猪 (de¹)	hog	100
 豬牢 (de¹lo⁵)	hog-hog-sty	100
 污糟 (o¹zo¹)	hog-hoggish	100
 豬樣狗像 (de¹iêⁿ⁷ gao²siêⁿ³)	hog-hoggish	100
@@ -15875,6 +16212,7 @@ ui¹kang¹kag⁴	hollow-to-hollow-out	50
 洋商 (iêⁿ⁵siang¹)	hong-merchant	100
 香港 (hiang¹gang²)	hongkong	100
 裙大路 (gun⁵dua⁷lou⁷)	hongkong	100
+君子無相爭 (gun¹ ze² bho⁵ siê¹ zêⁿ¹)	honorable-man-is-not-quarrelsome	100
 空銜 (kang¹ham⁵)	honorary	100
 尊貴 (zun¹gui³)	honour	100
 榮華 (iong⁵hua⁵)	honour	100
@@ -15899,6 +16237,7 @@ ui¹kang¹kag⁴	hollow-to-hollow-out	50
 喝人 (duah⁴nang⁵)	hoot	100
 咄聲 (duah⁴siaⁿ¹)	hoot	100
 跳 (tiau³)	hop-to	100
+希望 (hi¹ mo⁷)	hope	100
 希望 (hi¹moⁿ⁷)	hope	100
 望 (moⁿ⁷)	hope	100
 仰 (ng³)	hope	100
@@ -15978,6 +16317,7 @@ zab⁸ri⁷ si⁵sin⁵	horary-characters-twelve	50
 高樓館 (gao¹lao⁵guan²)	hotel	100
 客店 (kêh⁴diam³)	hotel	100
 店舖 (diam³pou³)	hotel	100
+一點鐘 (zêg⁸ diam² zêng¹)	hour	100
 點鐘 (diam²zêng¹)	hour	100
 時辰 (si⁵sin⁵)	hour-Chinese	100
 時辰 (si⁵sin⁵)	hour-Chinese-hour	100
@@ -16045,6 +16385,8 @@ zab⁸ri⁷ si⁵sin⁵	horary-characters-twelve	50
 汝有若㩼個 (le² u⁶ riêh⁸zoi⁷ gai⁵?)	how-many-have-you	100
 汝出若㩼 (le² cud⁴ riêh⁸zoi⁶?)	how-much-do-you-offer	100
 汝有若㩼 (le² u⁶ riêh⁸zoi⁷?)	how-much-have-you	100
+汝有若㩼銀 (le² u⁶ riêh⁸ zoi⁷ ngen⁵)	how-much-money-have-you	100
+汝若㩼歲 (le² riêh⁸ zoi⁷ huê³)	how-old-are-you	100
 還要 (huan⁵iau²)	however	100
 還了 (huang⁵liau²)	however	100
 吼些叫 (haoⁿ²zê⁷giê³)	howl	100
@@ -16106,6 +16448,7 @@ la¹gê³	humbug	50
 㴷 (dam⁵)	humid	100
 㴷濕 (dam⁵sib⁴)	humid	100
 金腮鳥 (gim¹sai¹ziau²)	humid-humming-bird	100
+謙遜 (kiam¹ sun³)	humility	100
 性情 (sêⁿ³cêng⁵)	humour	100
 好笑談 (haoⁿ³ciê³tam⁵)	humour-humorous	100
 haoⁿ³cu¹	humour-humorous	50
@@ -16132,6 +16475,7 @@ iê¹ hao⁵hao⁵	humpbacked-more-slight	50
 肚困 (dou² kun³)	hungry	100
 拍獵 (pah⁴lah⁸)	hunt	100
 拍山豬 (pah⁴suaⁿ¹de¹)	hunt-the-wild-boar	100
+獵人 (lah⁸ rin⁵)	hunters	100
 隔 (gêh⁴)	hurdle	100
 湖 (ou⁵)	hurdle	100
 簟 (diam⁶)	hurdle	100
@@ -16191,6 +16535,7 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 私下和 (sai¹ê⁶hua⁵)	hush-up	100
 私和 (sai¹hua⁵)	hush-up	100
 私奇和 (sai¹kia¹hua⁵)	hush-up	100
+粗糠 (cu¹ kng¹)	husk	100
 殼 (kag⁴)	husk	100
 榱 (sui¹)	husk-as-of-cocoa-nut	100
 粗糠 (cou¹kng¹)	husk-chaff	100
@@ -16200,6 +16545,7 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 相挨相攆 (siê¹oi¹ siê¹lêng²)	hustle	100
 草寮 (cao²liau⁵)	hut	100
 厝囝 (cu³giaⁿ²)	hut	100
+寮囝 (liau⁵ giaⁿ²)	hut	100
 山寮 (suaⁿ¹liau⁵)	hut	100
 神詩 (sin⁵si¹)	hymn	100
 神詩 (sin⁵si¹)	hymn-book	100
@@ -16207,12 +16553,14 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 呾較過甚 (daⁿ³ kah⁴guê³sim⁶)	hyperbole	100
 呾較太過 (daⁿ³ kah⁴tai³guê³)	hyperbole	100
 呾過家 (daⁿ³guê³gê¹)	hyperbole	100
+詐僞 (za³ ngui⁶)	hypocrisy	100
 假好 (gê²ho²)	hypocrite	100
 口是，心非 (kao² si⁶, sim¹ hui¹)	hypocrite	100
 僞君子 (ngui⁶gun¹ze²)	hypocrite	100
 僞善 (ngui⁶siên⁶)	hypocrite	100
 假如同个話 (gia²ru⁵ gai⁵uê⁷)	hypothesis	100
 比方个話 (bi²huang¹ gai⁵uê⁷)	hypothesis	100
+一 (zêg⁸)	I	100
 我 (ua²)	I	100
 今旦日我毋閒 (giaⁿ²rid⁸ ua² m⁷ oiⁿ²)	I-am-busy-today	100
 我在批我个指甲 (ua² do⁶ poi¹ ua² gai² zng²gah⁴)	I-am-cutting-my-nails	100
@@ -16222,6 +16570,7 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 我一身流汗 (ua² zêg⁸sin¹ lao⁵guaⁿ⁷)	I-am-in-a-perspiration	100
 我毋去 (ua² m⁷ke³)	I-am-not-going	100
 我今旦日人毋孬 (ua² giaⁿ²rid⁸ nang⁵ m⁷moⁿ²)	I-am-unwell-today	100
+我歡喜在 (ua² huaⁿ¹hi² zai⁶)	I-am-very-glad	100
 人困在 (nang⁵ kun³zai⁶)	I-am-very-weak	100
 我在寫字 (ua² do⁶ sia²ri⁷)	I-am-writing	100
 我庵埠處 (ua² am¹bou¹ huê²)	I-belong-to-Am-pou	100
@@ -16243,6 +16592,7 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 人熱 (nang⁵ ruah⁸)	I-have-got-fever	100
 我請伊 (ua² ciaⁿ² i¹)	I-have-invited-him	100
 我在彼有一間 (ua² do⁶hiê² u⁶ zêg⁸goiⁿ¹)	I-have-one-house-there	100
+此冊我有讀過 (zi² cêh⁴ ua² u⁶ tag⁸ guê³)	I-have-read-this-book	100
 我無 (ua² bho⁵)	I-havnt-I-did-not	100
 我聽見伊哭 (ua² tiaⁿ¹giⁿ³ i¹ kao³)	I-heard-him-cry	100
 我曉 (ua² hiou²)	I-know	100
@@ -16260,6 +16610,7 @@ zo³se⁷ hih⁴huh⁴giê³	hurry-in-a-desperate	50
 我愛下貨 (ua² aiⁿ³hê⁶huê³)	I-want-to-ship-cargo	100
 我分伊拍 (ua² bun¹ i¹ pah⁴)	I-was-beaten-by-him	100
 冰霜 (biaⁿ¹sng¹)	ice	100
+霜 (sng¹)	ice	100
 冰霜箱 (biaⁿ¹sng¹siêⁿ¹)	ice-box	100
 冰霜是寒在 (biaⁿ¹sng¹ si⁶ ngan⁵zai⁶)	ice-is-very-cold	100
 粗皮 (cou¹puê⁵)	ichthyosis	100
@@ -16326,11 +16677,14 @@ gou²sêg⁴	if	50
 下作 (hia⁶zoh⁴)	ignoble	100
 下賤 (hia⁶zuaⁿ⁷)	ignoble	100
 下品 (hia⁶bin²)	ignoble	100
+無知 (bho⁵ zai¹)	ignorant	100
 無知 (bho⁵zai¹)	ignorant	100
 無見識 (bho⁵giên³sêg⁴)	ignorant	100
 毋曉 (m⁷hiau²)	ignorant	100
 毋曉 (m⁷hiou²)	ignorant	100
 毋別 (m⁷bad⁴)	ignorant	100
+二 (no⁶)	II	100
+三 (saⁿ¹)	III	100
 無向好 (bho⁵hiêⁿ³ho²)	ill	100
 無康健 (bho⁵kang¹giên⁶)	ill	100
 毋平安 (m⁷pêng⁵an¹)	ill	100
@@ -16687,6 +17041,7 @@ puh⁸	impotent	50
 見毋得人个話 (giⁿ³m⁷did⁴nang⁵ gai⁵uê⁷)	impure-conversation	100
 詖偏邪話 (puêh⁸ piên¹sia⁵uê⁷)	impure-conversation	100
 水羅羅 (zui² lo⁵lo⁵)	impure-water	100
+於 (i¹)	in	100
 在 (do⁶)	in	100
 夢中 (mang⁷dang¹)	in-a-dream	100
 在前 (do⁶zoiⁿ⁵)	in-front	100
@@ -17245,6 +17600,7 @@ guh⁴	inhale	50
 有損無益 (u⁶sun² bho⁵iah⁴)	injure-injurious	100
 非義 (hui¹ngi⁶)	injustice	100
 不義 (bud⁴ngi⁶)	injustice	100
+墨 (bhag⁸)	ink	100
 墨 (bhag⁸)	ink-Chinese	100
 墨水 (bhag⁸zui²)	ink-foreign	100
 墨水礶 (bhag⁸zui²guan³)	ink-ink-bottle	100
@@ -17257,6 +17613,7 @@ guh⁴	inhale	50
 墨 (bhag⁸)	ink-solid	100
 墨水罐 (bhag⁸zui²guan³)	ink-stand	100
 墨硯 (bhag⁸iⁿ⁷)	ink-stone	100
+刷墨 (suêh⁴ bhag⁸)	ink-the-type	100
 內地 (lai⁶di⁷)	inland	100
 山內 (suaⁿ¹lai⁶)	inland	100
 鑲 (siêⁿ¹)	inlay	100
@@ -17272,6 +17629,7 @@ guh⁴	inhale	50
 內面 (lai⁶min⁷)	inner	100
 內底 (lai⁶doi²)	inner	100
 底面 (doi²min⁷)	inner	100
+無罪 (bho⁵ zuê⁶)	innocence	100
 無罪 (bho⁵zuê⁶)	innocent	100
 無辜 (bho⁵gou¹)	innocent	100
 無過 (bho⁵guê³)	innocent	100
@@ -17590,6 +17948,7 @@ pêⁿ¹pah⁴	intend	50
 在鎮中 (do⁶din³dang¹)	intermediate	100
 間隔 (goiⁿ³gêh⁴)	intermit	100
 間斷 (goiⁿ³dng⁶)	intermit	100
+發寒 (huad⁴ guaⁿ⁵)	intermittent	100
 翻譯 (huan¹êg⁸)	interpret	100
 回 (huê⁵)	interpret	100
 回話 (huê⁵uê⁷)	interpret	100
@@ -17818,6 +18177,7 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 是亞毋是 (si⁶ a¹m⁷si⁶)	is-is-it-so	100
 水會深 (zui² oi⁶cim¹)	is-is-the-water-deep	100
 猛 (mê²)	is-is-the-water-deep	100
+有真咩 (u⁶ zin¹,mêh⁴)	is-it-true	100
 有燒水亞無 (u⁶ siê¹zui² a¹bho⁵?)	is-there-hot-water	100
 是此亞毋是 (si⁶ zia² a¹ m⁷si⁶?)	is-this-it	100
 汝个箱有鎖定亞無 (le² gai⁵ siêⁿ¹ u⁶ so²diaⁿ⁷ a¹bho⁵?)	is-your-box-locked	100
@@ -17827,6 +18187,7 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 海山 (hai²suaⁿ¹)	island	100
 海嶼 (hai²se⁶)	island	100
 海島 (hai²dao²)	island	100
+嶼 (se⁶)	island	100
 洲 (ziu¹)	island-in-river	100
 發命 (huad⁴mêng⁶)	issue-decree	100
 發出 (huad⁴cud⁴)	issue-forth	100
@@ -17839,11 +18200,14 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 行猛在 (giaⁿ⁵mêⁿ²zai⁶)	it-goes-very-fast	100
 還了有 (huan⁵liou² u⁶)	it-has-some-more	100
 流洘 (lao⁵ ko²)	it-is-ebb-tide	100
+熱之極 (ruah⁸ ze¹ gêg⁸)	it-is-extremely-hot	100
 是伊 (si⁶ i¹)	it-is-he	100
 是伊个 (si¹ i¹gai⁵)	it-is-his	100
 是此樣生 (si⁶ ziêⁿ³sêⁿ¹)	it-is-like-this	100
 日未暗 (rid⁸ bhuê⁷am³)	it-is-not-yet-dark	100
 是雅在 (si⁶ ngia²zai⁶)	it-is-very-beautiful	100
+暗在 (am³ zai⁶)	it-is-very-dark	100
+今日熱在 (gim¹ rid⁸ ruah⁸ zai⁶)	it-is-very-hot-today	100
 毋是汝个 (m⁷si⁶ le²gai⁵)	it-isnt-yours	100
 疥 (goi³)	itch	100
 癢 (ziêⁿ⁶)	itch-itchy	100
@@ -17858,9 +18222,11 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 路引 (lou⁷in²)	itinerate-itinerary	100
 路程冊 (lou⁷tiaⁿ⁵cêh⁴)	itinerate-itinerary	100
 毋是十一 (m⁷si⁶ zab⁸id⁴)	its-not-the-eleventh	100
+四 (si³)	IV	100
 象牙 (ciêⁿ⁶ghê⁵)	ivory	100
 牙 (ghê⁵)	ivory	100
 藤 (din⁵)	ivy	100
+九 (gao²)	IX	100
 芒膠 (mang⁷ga¹)	jack-fruit	100
 菠蘿蜜 (bo¹lo⁵bhid⁸)	jack-fruit	100
 衫 (saⁿ¹)	jacket	100
@@ -17887,6 +18253,7 @@ kuah⁴log⁴ tao⁵gen¹	irrelevant	50
 甜糕 (diam⁵go¹)	jam	100
 日本國 (rid⁸bng²gog⁴)	Japan	100
 東洋 (dang¹iêⁿ⁵)	Japan	100
+日本近唐山 (rid⁸bun² gen⁶ dng⁵suaⁿ¹)	Japan-is-near-to-China	100
 甕 (ang³)	jar	100
 缸 (gng¹)	jar	100
 bao⁶	jar	50
@@ -17973,6 +18340,7 @@ oi²oi² lêng²lêng²	jostle	50
 遠程 (iên²tiaⁿ⁵)	journey-long	100
 長程 (dng⁵tiaⁿ⁵)	journey-long	100
 行路 (giaⁿ⁵lou⁷)	journey-to-journey	100
+喜 (hi²)	joy	100
 喜樂 (hi²lag⁸)	joy	100
 喜心 (hi²sim¹)	joy	100
 歡喜 (huaⁿ¹hi²)	joy	100
@@ -18004,11 +18372,13 @@ oi²oi² lêng²lêng²	jostle	50
 跳舞 (tiau³bhu²)	jump	100
 跳躍 (tiau³iag⁴)	jump	100
 跳 (tiou³)	jump	100
+跳落 (tiou³ loh⁸)	jump-down	100
 跳過去 (tiau³guê³ke³)	jump-over	100
 跳起來 (tiau³ki²lai⁵)	jump-up	100
 刺林罩 (ci³naⁿ⁵da³)	jungle	100
 刺蔽 (ci³pê³)	jungle	100
 樹木陰穢 (ciu⁷bhag⁸ im¹uê³)	jungle	100
+曠野 (kuang³ ia²)	jungle	100
 少歲 (ziê²huê³)	junior	100
 減歲 (giam²huê³)	junior	100
 細 (soi³)	junior	100
@@ -18034,6 +18404,7 @@ tang⁵gua³	just-a-little-ago	50
 有道理 (u⁶do⁶li²)	just-just-so	100
 nêⁿ⁶ bêⁿ⁵bêⁿ⁵iêⁿ⁷	just-like	50
 肖在 (siau⁶zai⁶)	just-like	100
+義士 (ngi⁶ se⁶)	just-man	100
 此陣 (zi²zun⁵)	just-now	100
 正 (ziaⁿ³)	just-now	100
 現在 (hin⁷zai⁶)	just-now	100
@@ -18085,6 +18456,7 @@ nêⁿ⁶ bêⁿ⁵bêⁿ⁵iêⁿ⁷	just-like	50
 鍟鍋 (sêⁿ¹uê¹)	kettle	100
 鐵鍋 (tih⁴uê¹)	kettle	100
 茶鍋 (dê⁵uê¹)	kettle-tea	100
+鎖匙 (so² si⁵)	key	100
 鎖匙 (so²si⁵)	key	100
 鎖匙空 (so²si⁵kang¹)	key-hole	100
 鎖匙門 (so²si⁵mng⁵)	key-hole	100
@@ -18101,10 +18473,12 @@ tao¹gang⁷	kidnap	50
 腰子 (iê¹zi²)	kidney	100
 內腎 (lai⁶siên⁶)	kidney	100
 腎子 (siên⁶zi²)	kidney	100
+腎 (siên⁶)	kidnies	100
 拍死 (pah⁴si²)	kill	100
 殺 (suah⁴)	kill	100
 殺害 (suah⁴hai⁷)	kill	100
 刣 (tai⁵)	kill	100
+拍死彼蛇 (pah⁴si² he² zua⁵)	kill-that-snake	100
 磚窯 (zng¹iê⁵)	kiln	100
 燒磚窯 (siê¹zng¹iê⁵)	kiln-brick	100
 親戚 (cin¹cêg⁴)	kin	100
@@ -18140,15 +18514,19 @@ tao¹gang⁷	kidnap	50
 着火 (doh⁸huê²)	kindle-fire	100
 火艾 (huê²hiaⁿ⁷)	kindle-kindlings-tinder	100
 人情 (nang⁵cêng⁵)	kindness	100
+恩惠 (en¹ hui⁶)	kindness	100
 仁君 (rin⁵gun¹)	king	100
 國君 (gog⁴gun¹)	king	100
 君王 (gun¹uang⁵)	king	100
 王 (uang⁵)	king	100
+魚鴉 (he⁵ a¹)	king-fisher	100
 鱟 (hao⁷)	king-king-crab	100
 國 (gog⁴)	king-kingdom	100
 邦 (bang¹)	king-kingdom	100
 邦國 (bang¹gog⁴)	king-kingdom	100
 金腮鳥 (gim¹sai¹ziau²)	king-kingfisher	100
+國 (gog⁴)	kingdom	100
+暹羅國 (siam¹lo⁵ gog⁴)	kingdom-of-Siam	100
 唚 (zim¹)	kiss	100
 斟 (zim¹)	kiss	100
 相斟 (siê¹zim¹)	kiss	100
@@ -18162,6 +18540,7 @@ tao¹gang⁷	kidnap	50
 風禽 (huang¹kim⁵)	kite	100
 放風禽 (bang³huang¹kim⁵)	kite-to-fly	100
 貓囝 (ngiau¹giaⁿ²)	kitten	100
+貓囝 (ngiou¹ giaⁿ²)	kitten	100
 ao³nang⁵	knave	50
 賊囝 (cad⁸giaⁿ²)	knave	100
 光棍 (guang¹gun³)	knave	100
@@ -18171,6 +18550,7 @@ ao³nang⁵	knave	50
 緝 (cib⁴)	knead	100
 cib⁸miⁿ⁷	knead	50
 cib⁸miⁿ⁷zo⁵	knead-kneading-trough	50
+骹頭趺 (ka¹ tao⁵ u¹)	knee	100
 骹頭趺 (ka¹tao⁵u¹)	knee	100
 骹曲 (ka¹ kêg⁴)	knee-bend	100
 曲骹 (kêg⁴ka¹)	knee-bend	100
@@ -18196,11 +18576,13 @@ da²ciam¹	knee-bend	50
 眉頭結結 (bhai⁵tao⁵ gad⁴gad⁴)	knit-the-eyebrows	100
 眉頭張蹙蹙 (bhai⁵tao⁵ diêⁿ³cog⁴cog⁴)	knit-the-eyebrows	100
 皺眉 (niauⁿ³bhai⁵)	knit-the-eyebrows	100
+六枝刀 (lag⁸ gi¹ do¹)	Knives	100
 刀 (do¹)	knives	100
 一粒珠 (zêg⁸liab⁸zu¹)	knob	100
 扣 (ka³)	knock	100
 扣門 (ka³mng⁵)	knock-at-door	100
 拍門 (pah⁴mng⁵)	knock-at-door	100
+拍門 (pah⁴ mng⁵)	knock-at-the-door	100
 門環 (mng⁵huan⁵)	knock-knocker	100
 拍伊跋落塗下 (pah⁴ i¹ buah⁸loh⁸ tou⁵ê⁶)	knock-one-down	100
 磕頭 (kab⁸tao⁵)	knock-the-head-on-ground	100
@@ -18285,6 +18667,7 @@ tam²kad⁴	knot-to-tie	50
 可憐 (ko²liên⁵)	lament-lamentable	100
 可惜 (ko²siêh⁴)	lament-lamentable	100
 燈 (dêng¹)	lamp	100
+燈火 (dêng¹ huê²)	lamp	100
 燈樹 (dêng¹ciu⁷)	lamp	100
 燈火 (dêng¹huê²)	lamp	100
 燈檠 (dêng¹kêng⁵)	lamp	100
@@ -18295,6 +18678,7 @@ tam²kad⁴	knot-to-tie	50
 吊燈 (diau³dêng¹)	lamp-hanging	100
 燈下 (dêng¹ê⁶)	lamp-lamp-light	100
 燈心 (dêng¹sim¹)	lamp-lamp-wick	100
+十枝錫燈 (zab⁸ gi¹ siah⁴ dêng¹)	Lamp-stands	100
 上燈 (ziêⁿ⁶dêng¹)	lamp-to-light	100
 開燈 (kui¹dêng¹)	lamp-to-light	100
 斂燈 (liam²dêng¹)	lamp-to-light	100
@@ -18362,11 +18746,13 @@ tam²kad⁴	knot-to-tie	50
 lo⁷ho¹	large	50
 大 (dua⁷)	large	100
 大母个 (dua⁷bho²gai⁵)	large	100
+大船 (dua⁷ zun⁵)	large-boat	100
 碗公 (uaⁿ²gong¹)	large-bowls	100
 甕 (ang³)	large-jar	100
 海量 (hai²liang⁶)	large-large-hearted	100
 量度寬闊 (liang⁶dou⁷ kuan¹kuah⁴)	large-large-hearted	100
 河 (ho⁵)	large-river	100
+地方濶 (di⁷hng¹ kuah⁴)	large-territory	100
 慶賞 (kêng³siêⁿ²)	largess	100
 佈施 (bu³si¹)	largess	100
 bu³si³	largess	50
@@ -18400,6 +18786,7 @@ bu³si³	largess	50
 第尾 (doiⁿ⁶bhuê²)	last	100
 尾尾 (bhuê²bhuê²)	last-at-last	100
 繳尾 (giau²bhuê²)	last-at-last	100
+尾囝 (bhuê² giaⁿ²)	last-born	100
 氣斷 (kui³ dng⁶)	last-breathe-ones-last	100
 從頭到尾 (cong⁵tao⁵ gao³bhuê²)	last-from-first-to-last	100
 自始到終 (ze⁶si² gao³zong¹)	last-from-first-to-last	100
@@ -18479,6 +18866,7 @@ pah⁴pun²sai²	lavish	50
 相告 (siê¹go³)	law-to	100
 草埔 (cao²bou¹)	lawn	100
 草場 (cao²diêⁿ⁵)	lawn	100
+禮記 (loi²gi³)	laws-usages	100
 官司 (guaⁿ¹si¹)	lawsuit	100
 拍官司 (pah⁴guaⁿ¹si¹)	lawsuit-to-have	100
 相告 (siê¹go³)	lawsuit-to-have	100
@@ -18535,6 +18923,7 @@ pah⁴pun²sai²	lavish	50
 鉛墜 (in⁵tui⁷)	lead-weights	100
 砣子 (do⁵zi²)	lead-weights	100
 鉛粉 (in⁵hun²)	lead-white	100
+葉 (hiêh⁸)	leaf	100
 冊頁 (cêh⁴hiêh⁸)	leaf-book	100
 雙片門 (sang¹piⁿ³mng⁵)	leaf-double-leaved-door	100
 金薄 (gim¹boh⁸)	leaf-gold-leaf	100
@@ -18550,6 +18939,7 @@ pah⁴pun²sai²	lavish	50
 㾪 (san²)	lean	100
 㾪瘦 (san²sou³)	lean	100
 瘦 (sou³)	lean	100
+面㾪 (min⁷ san²)	lean-face	100
 掛 (kua³)	lean-to	100
 倚 (ua²)	lean-to	100
 跳 (tiau³)	leap	100
@@ -18620,6 +19010,7 @@ pah⁴pun²sai²	lavish	50
 來往 (lai⁵uang²)	ledger	100
 界 (gai³)	lee-make-leeway-under-sail	100
 風下爿 (huang¹ê⁶boiⁿ⁵)	lee-side	100
+蝴蜞 (hou⁵ ki⁵)	leech	100
 蜈蜞 (hou⁵ki⁵)	leech	100
 韭菜 (gu²cai³)	leek	100
 韭菜花 (gu²cai³huê¹)	leek-flowers-of	100
@@ -18662,11 +19053,13 @@ pah⁴pun²sai²	lavish	50
 借分人 (ziêh⁴bun¹nang⁵)	lend	100
 放賬 (bang³diêⁿ³)	lend-lender	100
 賬主 (diêⁿ³zu²)	lend-lender	100
+銀一箍借我 (ngen⁵ zêg⁸ kou¹,ziêh⁴ ua²)	lend-me-a-dollar	100
 此個借我 (zi²gai⁵ ziêh⁴ ua²)	lend-me-this	100
 生錢 (sêⁿ¹ziⁿ⁵)	lend-money-on-interest	100
 借 (ziêh⁴)	lend-to	100
 豹 (ba³)	leopard	100
 麻風 (muaⁿ⁵huang¹)	leprosy	100
+癩哥 (tai² go¹)	leprosy	100
 癩哥 (tai²go¹)	leprosy	100
 大風 (dua⁷huang¹)	leprosy	100
 少 (ziê²)	less	100
@@ -18751,6 +19144,7 @@ puê⁵ciang⁵	lever	50
 慷慨 (kang¹kai³)	liberal-with-money	100
 寬慨 (kuang¹kai³)	liberal-with-money	100
 大慷大慨 (dua⁷kang¹ dua⁷kai³)	liberal-with-money	100
+無吝 (bho⁵ liên⁶)	liberality	100
 放 (bang³)	liberate	100
 放伊去 (bang³i¹ke³)	liberate	100
 釋放 (sêg⁴bang³)	liberate	100
@@ -18998,12 +19392,15 @@ zoi³	linen-yarn	50
 布絨 (bou³rong⁵)	lint	100
 門楣 (mng⁵bhai⁵)	lintel	100
 獅 (sai¹)	lion	100
+獅公 (sai¹ gang¹)	lion	100
+獅母 (sai¹ bho²)	lioness	100
 喙臨皮 (cui³lim⁵puê⁵)	lip	100
 喙臨脣 (cui³lim⁵dun⁵)	lip	100
 喙脣 (cui³dun⁵)	lip	100
 脣 (dun⁵)	lip	100
 脣 (gam¹dun⁵)	lip-bite-the-lips-slightly	100
 喙臨皮 (cui³lim⁵puê⁵)	lips	100
+唇 (dun⁵)	lips	100
 靛 (doiⁿ⁷)	liquid	100
 烊 (iêⁿ⁵)	liquify	100
 消烊 (siau¹iêⁿ⁵)	liquify	100
@@ -19031,6 +19428,7 @@ zoi³	linen-yarn	50
 偷聽 (tao¹tiaⁿ¹)	listen-secretly	100
 聽人勸戒 (tiaⁿ¹nang⁵ kng³goi³)	listen-to-advice	100
 聽從 (tiaⁿ¹cong⁵)	listen-to-advice	100
+汝聽我講 (le² tiaⁿ¹ ua² gong²)	listen-to-what-I-say	100
 無精神 (bho⁵zêng¹sin⁵)	listless	100
 疲 (pi⁵)	listless	100
 疲睏 (pi⁵kun³)	listless	100
@@ -19067,6 +19465,7 @@ nihⁿ⁸nihⁿ⁸giaⁿ²	little	50
 點囝 (diam²giaⁿ²)	little	100
 稍稍 (ciau²ciau²)	little-a-little	100
 草略 (co²liag⁸)	little-a-little	100
+尾指 (bhuê² zoiⁿ²)	little-finder	100
 魚囝 (he⁵giaⁿ²)	little-fish	100
 漸漸 (ziam⁶ziam⁶)	little-little-by-little	100
 臼囝 (ku⁶giaⁿ²)	little-mortar	100
@@ -19094,6 +19493,8 @@ se⁷ngiab⁴	livelihood	50
 活潑 (uah⁸puah⁴)	lively	100
 肝 (guaⁿ¹)	liver	100
 肝大 (guaⁿ¹ dua⁷)	liver-enlarged	100
+肝經有病 (guaⁿ¹ gêng¹ u⁶ bêⁿ⁷)	liver-is-diseased	100
+蠐龍 (ziⁿ⁵ lêng⁵)	lizard	100
 蠐龍 (ziⁿ⁵lêng⁵)	lizard	100
 一儎 (zêg⁸zai⁷)	load	100
 一擔 (zêg⁸daⁿ³)	load-a-mans	100
@@ -19116,6 +19517,7 @@ ia³	loathe	50
 淒疑 (ci¹ghi⁵)	loathe-loathsome	100
 耳垂 (hiⁿ⁶dui⁵)	lobe-of-ear	100
 龍蝦 (lêng⁵hê⁵)	lobster	100
+鎖頭 (so² tao⁵)	lock	100
 鎖頭 (so²tao⁵)	lock	100
 番鎖頭 (huan¹so²tao⁵)	lock-foreign	100
 藥機 (iêh⁸gui²)	lock-foreign	100
@@ -19124,6 +19526,7 @@ ia³	loathe	50
 鳥囝 (ziau²giaⁿ²)	lock-of-a-gun	100
 鳥頭 (ziau²tao⁵)	lock-of-a-gun	100
 水閘 (zui²zah⁸)	lock-of-canal	100
+鎖船 (so² zun⁵)	lock-the-boat	100
 鎖門 (so²mng⁵)	lock-the-door	100
 禁 (gim³)	lock-up-to	100
 牙起咬緊 (ghê⁵ki² ga⁶gin²)	lockjaw	100
@@ -19135,6 +19538,7 @@ ia³	loathe	50
 稅厝寄居 (suê³cu³ gia³ge¹)	lodge-hire-a-lodging	100
 歇店 (hiah⁴diam³)	lodge-lodging	100
 客店 (kêh⁴diam³)	lodge-lodging	100
+層 (zan⁵)	loft	100
 樓 (lao⁵)	loft	100
 樓閣 (lao⁵goh⁴)	loft	100
 樓頂 (lao⁵dêng²)	loft	100
@@ -19163,6 +19567,7 @@ gou¹ziau¹	lonely	50
 長衫 (dng⁵saⁿ¹)	long-coat	100
 渴望 (kuah⁴moⁿ⁷)	long-great-longing	100
 月大 (ghuêh⁸ dua⁷)	long-moon	100
+頸長 (gêⁿ³ dng⁵)	long-neck	100
 長 (dng⁵)	long-not-short	100
 長 (dng⁵)	long-of-measure	100
 久 (gu²)	long-of-time	100
@@ -19190,6 +19595,7 @@ gou¹ziau¹	lonely	50
 傍邊睇个人 (pang⁵biⁿ¹toiⁿ² gai⁵nang⁵)	look-looker-on	100
 面鏡 (min⁷giaⁿ³)	look-looking-glass	100
 望樓 (moⁿ⁷lao⁵)	look-lookout-turret	100
+目睭睇冊 (mag⁸ziu¹ toiⁿ² cêh⁴)	look-on-your-book	100
 檢點 (giam²diam²)	look-over-many-items	100
 睇一下 (toiⁿ²zêg⁸ê⁷)	look-take	100
 睇一目 (toiⁿ²zêg⁸mag⁸)	look-take	100
@@ -19218,6 +19624,7 @@ gou¹ziau¹	lonely	50
 放鬆 (bang³sang¹)	loose-to-loosen	100
 斬樹枝 (zam²ciu⁷gi¹)	lop-off-branches	100
 喙㩼 (cui³ zoi⁷)	loquacious	100
+㩼話 (zoi⁷ uê⁷)	loquacious	100
 㩼喙 (zoi⁷cui³)	loquacious	100
 㩼話 (zoi⁷uê⁷)	loquacious	100
 好呾話 (haoⁿ³daⁿ³uê⁷)	loquacious	100
@@ -19309,6 +19716,7 @@ hiaⁿ³ki³	lose-flavour	50
 生虱母 (sêⁿ¹sad⁴bho²)	louse-breed	100
 掠虱 (liah⁸sad⁴)	louse-catch	100
 箆掉虱 (bin³diau⁷ sad⁴)	louse-comb-out	100
+愛 (ai³)	love	100
 惜 (siêh⁴)	love	100
 得人惜 (did⁴nang⁵siêh⁴)	love-beloved	100
 得懂 (did⁴dong²)	love-beloved	100
@@ -19328,6 +19736,7 @@ ziê¹si¹bêⁿ⁷	love-love-sick	50
 相愛 (siang¹ai³)	love-to-love	100
 寵愛 (tong²ai³)	love-to-love	100
 敬愛 (gêng³ai³)	love-to-love-and-respect	100
+愛汝仇敵 (ai³ le² ciu⁵ dêg⁸)	love-your-enemies	100
 下 (gê⁶)	low	100
 高低 (gao¹di¹)	low-high-and-low	100
 懸下 (guiⁿ⁵gê⁶)	low-high-and-low	100
@@ -19513,6 +19922,7 @@ un³ao³	macerate	50
 戰甲 (ziên³gah⁴)	mail-coat-of	100
 鐵甲 (tih⁴gah⁴)	mail-coat-of	100
 祖家信 (zou²gê¹sin³)	mail-from-Europe	100
+破相 (po³ siê¹)	maimed	100
 大概 (dai⁶kai³)	main-in	100
 大略 (dai⁶liag⁸)	main-in	100
 大勢 (dai⁶si³)	main-in	100
@@ -19669,6 +20079,7 @@ a¹ai⁵	mamma-ones	50
 馬槽 (bhê²zo⁵)	manger	100
 榱 (suaiⁿ⁷)	mango	100
 檨 (suaiⁿ⁷)	mango	100
+三粒榱 (saⁿ¹ liab⁸ suaiⁿ⁷)	Mangoes	100
 芒黑 (mang⁷hêg⁴)	mangoostine	100
 招彰 (ziau¹ziang¹)	manifest	100
 顯明 (hiên²mêng⁵)	manifest	100
@@ -19752,6 +20163,7 @@ a¹ai⁵	mamma-ones	50
 行軍 (giaⁿ⁵gun¹)	march-an-army	100
 行 (giaⁿ⁵)	march-to	100
 過路 (guê³lou⁷)	march-to	100
+馬母 (bhê² bho²)	mare	100
 馬母 (bhê²bho²)	mare	100
 墘 (giⁿ⁵)	margin	100
 邊 (biⁿ¹)	margin	100
@@ -19862,10 +20274,12 @@ gê⁶sib⁴	marsh	50
 厝人 (cu³nang⁵)	master	100
 主 (zu²)	master	100
 主人 (zu²rin⁵)	master	100
+家主 (gê¹ zu²)	master	100
 東家 (dong¹gê¹)	master	100
 家主 (gê¹zu²)	master-of-a-house	100
 教書先生 (ga³ze¹ sin¹sêⁿ¹)	master-of-a-school	100
 先生 (sin¹sêⁿ¹)	master-of-a-school	100
+草蓆 (cao² ciêh⁸)	mat	100
 蓆 (ciêh⁸)	mat	100
 篾蓆 (bhih⁸ciêh⁸)	mat-bamboo	100
 竹蓆 (dêg⁴ciêh⁸)	mat-bamboo	100
@@ -19914,6 +20328,7 @@ huê²hiaⁿ⁷	match	50
 精微个算法 (zêng¹muiⁿ⁵ gai⁵sng³huab⁴)	mathematics	100
 算法 (sng³huab⁴)	mathematics	100
 算司 (sng³si¹)	mathematics	100
+褥 (rog⁸)	matrass	100
 模 (bhou⁵)	matrix	100
 鉛反模 (in⁵boiⁿ²bhou⁵)	matrix-for-type	100
 銅反模 (dang⁵boiⁿ²bhou⁵)	matrix-for-type	100
@@ -20163,6 +20578,7 @@ haⁿ²nang⁵	menace	50
 商客 (siang¹kêh⁴)	merchant	100
 貨船 (huê³zun⁵)	merchant-ship	100
 生理船 (sêng¹li²zun⁵)	merchant-ship	100
+商人 (siang¹ rin⁵)	merchants	100
 慈 (ce⁵)	merciful	100
 水星 (zui²cêⁿ¹)	mercury	100
 水銀 (zui²ngen⁵)	mercury	100
@@ -20170,6 +20586,7 @@ haⁿ²nang⁵	menace	50
 慈心 (ce⁵sim¹)	mercy	100
 可憐 (ko²liên⁵)	mercy	100
 憐憫 (liên⁵miên²)	mercy	100
+恩 (en¹)	mercy	100
 工硬 (gang¹ngê⁶)	mercy-merciless	100
 鐵石心肝 (tih⁴ziêh⁸ sim¹guaⁿ¹)	mercy-merciless	100
 可憐 (ko²liên⁵)	mercy-to-have	100
@@ -20258,6 +20675,7 @@ lo¹li¹ lo¹lê¹	merry	50
 中央 (dong¹iang¹)	middle	100
 中間 (dong¹gan¹)	middle	100
 中心 (dong¹sim¹)	middle	100
+中指 (dang¹ zoiⁿ²)	middle-finger	100
 媒人 (bhuê⁵nang⁵)	middle-man	100
 夏至 (hê⁷zi³)	middle-mid-summer-day	100
 冬至 (dang¹zi³)	middle-mid-winter	100
@@ -20279,6 +20697,7 @@ tun⁵tun⁵	middle-middling-size	50
 半途 (buaⁿ³tu⁵)	middle-midway	100
 中 (dong¹)	middling	100
 中辦 (dong¹ban⁷)	middling	100
+半夜 (buaⁿ³ mê⁵)	midnight	100
 半夜 (buaⁿ³mêⁿ⁵)	midnight	100
 船鎮中 (zun⁵din³dang¹)	midship	100
 臍母 (zai⁵bho²)	midwife	100
@@ -20320,6 +20739,7 @@ tun⁵tun⁵	middle-middling-size	50
 軍法 (gun¹huab⁴)	military-laws	100
 軍令 (gun¹lêng⁶)	military-laws	100
 軍律 (gun¹lud⁸)	military-laws	100
+武官 (bhu² guaⁿ¹)	military-officer	100
 武官 (bhu²guaⁿ¹)	military-officers	100
 武藝 (bhu²ghoi⁷)	military-profession	100
 營盤 (iaⁿ⁵buaⁿ⁵)	military-station	100
@@ -20331,6 +20751,7 @@ tun⁵tun⁵	middle-middling-size	50
 招勇 (ziê¹iong²)	militia-to-raise	100
 僱勇 (gou³iong²)	militia-to-raise	100
 密勇 (mid⁸iong²)	militia-to-raise	100
+牛乳 (ghu⁵ ni⁶)	milk	100
 奶 (niⁿ⁶)	milk	100
 牛奶 (ghu⁵niⁿ⁶)	milk-cows	100
 牛奶罐 (ghu⁵niⁿ⁶guan³)	milk-jug	100
@@ -20566,6 +20987,7 @@ dag⁴nng⁷diau⁷ si⁵hao⁷	misspend-time	50
 發濛 (huad⁴mong⁵)	mist	100
 煙 (in¹)	mist	100
 煙霧 (in¹bhu⁷)	mist	100
+露 (lou⁷)	mist	100
 濛霧 (mong⁵bhu⁷)	mist	100
 濛煙 (mong⁵in¹)	mist	100
 差錯 (ca¹co³)	mistake	100
@@ -20582,6 +21004,7 @@ ca¹niuⁿ⁶	mistake	50
 不錯 (bud⁴co³)	mistake-no	100
 主母 (zu²bho²)	mistress	100
 夫人 (hu¹rin⁵)	mistress	100
+家主娘 (gê¹ zu² niêⁿ⁵)	mistress	100
 家主媽 (gê¹zu²ma²)	mistress	100
 疑 (ghi⁵)	mistrust	100
 毋信 (m⁷sin³)	mistrust	100
@@ -20655,6 +21078,7 @@ siê¹ciau¹ siê¹liau⁶	mix	50
 揾水 (un³zui²)	moist-moisten	100
 烊 (iêⁿ⁵)	moist-moisten-melt	100
 軟糖 (nng²tng⁵)	molasses	100
+糖水 (tng⁵ zui²)	molasses	100
 糖水 (tng⁵zui²)	molasses	100
 冬瓜露 (dang¹guê¹lou⁷)	molasses-of-melon	100
 田鼠 (can⁵ce²)	mole	100
@@ -20689,6 +21113,7 @@ siê¹ciau¹ siê¹liau⁶	mix	50
 和尚庵 (huê⁵siêⁿ⁷am¹)	monastery	100
 南庵 (lam⁵am¹)	monastery	100
 禮拜一 (loi²bai³id⁴)	Monday	100
+拜一 (bai³ id⁴)	Monday	100
 拜一 (bai³id⁴)	Monday	100
 錢 (ziⁿ⁵)	money	100
 錢銀 (ziⁿ⁵ngen⁵)	money	100
@@ -20731,10 +21156,16 @@ ziⁿ⁵guh⁴	money-box-earthenware	50
 怪惡 (guai³ag⁴)	monster-monstrous	100
 陋惡 (lou⁶ag⁴)	monster-monstrous	100
 月 (ghuêh⁸)	month	100
+三月 (saⁿ¹ ghuêh⁸)	month-Apl	100
+七月 (cid⁴ ghuêh⁸)	month-Aug	100
 初一 (ciu¹id⁴)	month-first-day-of	100
 閏月 (run⁷ghuêh⁸)	month-intercalary	100
+六月 (lag⁸ ghuêh⁸)	month-July	100
+四月 (si³ ghuêh⁸)	month-May	100
 每月 (muêⁿ²ghuêh⁸)	month-monthly	100
+九月 (gao² ghuêh⁸)	month-Oct	100
 一個月 (zêg⁸gai⁵ghuêh⁸)	month-one	100
+八月 (boih⁴ ghuêh⁸)	month-Sept	100
 正月 (ziaⁿ¹ghuêh⁸)	month-the-first	100
 月月 (ghuêh⁸ghuêh⁸)	monthly	100
 石碑 (ziêh⁸bi¹)	monument	100
@@ -20757,6 +21188,7 @@ ziⁿ⁵guh⁴	money-box-earthenware	50
 半爿月 (buaⁿ³boiⁿ⁵ghuêh⁸)	moon-half	100
 月暈 (ghuêh⁸ in⁷)	moon-halo	100
 月華 (ghuêh⁸hua⁵)	moon-halo	100
+月出了 (ghuêh⁸ cud⁴ liou²)	moon-has-risen	100
 月在浮 (ghuêh⁸ do⁶ pu⁵)	moon-is-rising	100
 月暗夜 (ghuêh⁸am³mêⁿ⁵)	moon-moonless-night	100
 月 (ghuêh⁸)	moon-or-month	100
@@ -20814,6 +21246,7 @@ bu⁶ao³	morose	50
 灰 (huê¹)	mortar	100
 灰塗 (huê¹tou⁵)	mortar	100
 臼 (ku⁶)	mortar	100
+臼囝 (ku⁶ giaⁿ²)	mortar	100
 塗沙 (tou⁵sua¹)	mortar	100
 舂臼 (zêng¹ku⁶)	mortar-for-pounding	100
 石臼 (ziêh⁸ku⁶)	mortar-for-pounding	100
@@ -20879,11 +21312,13 @@ a¹ai⁵	mother	50
 阿嬭 (a¹nêⁿ¹)	mother	100
 阿娘 (a¹niêⁿ⁵)	mother	100
 阿奶 (a¹niⁿ¹)	mother	100
+母 (bho²)	mother	100
 母親 (bho²cin¹)	mother	100
 老母 (lao⁶bho²)	mother	100
 養母 (iang²bho²)	mother-adoptive	100
 母舅 (bho²gu⁶)	mother-brother-of	100
 大家 (da¹gê¹)	mother-husbands-mother	100
+岳母 (ngag⁸ bho²)	mother-in-law	100
 蠔鏡殼 (o⁵giaⁿ³kag⁴)	mother-mother-of-pearl	100
 無𡟓囝 (bho⁵ai⁵giaⁿ²)	mother-motherless-child	100
 家母 (gê¹bho²)	mother-my	100
@@ -20945,6 +21380,7 @@ huaⁿ⁷	mound	50
 山 (suaⁿ¹)	mountain	100
 山岳 (suaⁿ¹ngag⁸)	mountain	100
 山陵 (suaⁿ¹lêng⁵)	mountain-chain-of	100
+山有危 (suaⁿ¹ u⁶ guiⁿ⁵)	mountain-is-high	100
 乾淨是山 (gan¹ zêng⁶ si⁶suaⁿ¹)	mountain-mountainous	100
 山嶺 (suaⁿ¹niaⁿ²)	mountain-top-of	100
 山頂 (suaⁿ¹dêng²)	mountain-top-of	100
@@ -21083,6 +21519,7 @@ nab⁴tou⁵	mud	50
 喙鬚 (cui³ciu¹)	mustache	100
 兩撥鬚 (noⁿ⁶puah⁴ciu¹)	mustache	100
 留鬚 (lao⁵ciu¹)	mustache-to-grow	100
+芥子 (gai³ zi²)	mustard	100
 芥辣 (gai³luah⁸)	mustard	100
 芥辣粉 (gai³luah⁸hun²)	mustard-powder	100
 芥子 (gai³zi²)	mustard-seed	100
@@ -21121,6 +21558,7 @@ zih⁴zuh⁴giê³	mutter	50
 套牛喙 (lab⁴ghu⁵cui³)	muzzle	100
 我个 (ua²gai⁵)	my	100
 小女 (siê²nng²)	my-daughter	100
+我目睭痛 (ua² mag⁸ziu¹ tiaⁿ³)	my-eyes-are-sore	100
 我个手指流血 (ua² gai⁵ ciu²zoiⁿ² lao⁵huêh⁴)	my-finger-is-bleeding	100
 我个頭毛長了 (ua² gai⁵ tao⁵moⁿ⁵ dng⁵lo⁷)	my-hair-is-long	100
 草舍 (cao²sia³)	my-house	100
@@ -21239,6 +21677,7 @@ lam⁵sab⁴	nasty	50
 近覷 (gen⁶ce³)	near-sighted	100
 近視目 (gen⁶si⁶mag⁸)	near-sighted	100
 近視 (gen⁶si⁷)	near-sighted	100
+東北 (dang¹ bag⁴)	NEast	100
 齊整 (ci⁵zêng²)	neat	100
 斬截 (ziam²zoih⁸)	neat	100
 齊整 (zoi⁵ziaⁿ²)	neat	100
@@ -21354,6 +21793,7 @@ noiⁿ⁵	net	50
 新款 (sin¹kuan²)	new-style	100
 新上 (sin¹siang⁶)	new-style	100
 新約 (sin¹iêh⁴)	new-Testament	100
+過年 (guê³ ni⁵)	new-year	100
 新年 (sin¹niⁿ⁵)	new-your	100
 消息 (siê¹sid⁴)	news	100
 新聞 (sin¹bhun⁶)	news	100
@@ -21368,6 +21808,7 @@ noiⁿ⁵	net	50
 後擺 (ao⁶bai²)	next-time	100
 下回 (ê⁶huê⁵)	next-time	100
 在順合隔壁 (do⁶ sun⁶hah⁸ gêh⁴biah⁴)	next-to-chop-Sun-hah	100
+明年 (mê⁵ ni⁵)	next-year	100
 明年 (mêng⁵niⁿ⁵)	next-year	100
 明年 (mêⁿ⁵niⁿ⁵)	next-year	100
 稱意 (cêng³i³)	nice	100
@@ -21386,16 +21827,19 @@ noiⁿ⁵	net	50
 譬像个名 (pi³siêⁿ³ gai⁵miaⁿ⁵)	nickname	100
 土名 (tou²miaⁿ⁵)	nickname	100
 女姪 (nng²diêd⁸)	niece	100
+姪女 (diêd⁸ nng²)	niece	100
 姪女 (diêd⁸nng²)	niece	100
 外甥女 (ghua⁷sêng¹nng²)	niece-sisters-daughter	100
 堂孫婿 (tang⁵sun¹sai³)	nieces-husband	100
 手頭𠕆 (ciu²tao⁵ doiⁿ⁷)	niggardly	100
+較儉 (kah⁴ kiêⁿ⁷)	niggardly	100
 鹹 (giam⁵)	niggardly	100
 鹹澀 (giam⁵siab⁴)	niggardly	100
 慳吝 (giên¹liên⁶)	niggardly	100
 吝嗇 (liên⁶siab⁴)	niggardly	100
 niauh⁴siauh⁴	niggardly	50
 siau²kiên³	niggardly	50
+夜 (mê⁵)	night	100
 夜 (mêⁿ⁵)	night	100
 夗衫 (ghud⁸saⁿ¹)	night-dress	100
 上半夜 (ziêⁿ⁷buaⁿ³mêⁿ⁵)	night-first-half-of-night	100
@@ -21409,12 +21853,14 @@ bhai²gui² dêh⁴	night-night-mare	50
 夢見鬼 (mang⁷giⁿ³gui²)	night-night-mare	100
 排夜 (bai⁵mêⁿ⁵)	night-nightly	100
 排夜暗 (bai⁵mêⁿ⁵am³)	night-nightly	100
+夜時 (mê⁵ si⁵)	night-time	100
 夜子 (mêⁿ⁵ze²)	night-time	100
 夜旰 (mêⁿ⁵gua³)	night-time	100
 今夜 (gim¹mêⁿ⁵)	night-to-night	100
 夜昏 (mêⁿ⁵hng¹)	night-to-night	100
 九 (gao²)	nine	100
-快 (kuai³)	nine	100
+玖 (gao²)	nine	100
+kuai³	nine	50
 十九 (zab⁸gao²)	nine-nineteen	100
 nihⁿ¹	nip	50
 捻 (liam³)	nip-more-severely	100
@@ -21448,6 +21894,7 @@ nihⁿ¹	nip	50
 慷慨 (kang²kai³)	noble-family-minded	100
 大佬 (dai⁶lao²)	noble-family-noble-man	100
 有爵位 (u⁶ziag⁴ui⁷)	noble-family-noble-man	100
+無人知 (bho⁵ nang⁵ zai¹)	nobody-knows-it	100
 點頭 (dag⁴tao⁵)	nod	100
 觸蟀夗 (dag⁴sud⁴ghud⁸)	nod-sleeping	100
 響 (hiang²)	noise	100
@@ -21489,6 +21936,7 @@ tam²sêⁿ¹kou¹	noose-to-make	50
 北頭 (bag⁴tao⁵)	north-of-China	100
 北極 (bag⁴gêg⁸ (bag⁴dao² is¹ ursa¹ major¹))	north-star	100
 北方 (bag⁴huang¹)	north-wind	100
+鼻 (pi³)	nose	100
 鼻 (piⁿ⁷)	nose	100
 流鼻空血 (lao⁵ piⁿ⁷kang¹huêh⁴)	nose-bleeding	100
 鼻龍骨 (piⁿ⁷lêng⁵gud⁴)	nose-bridge	100
@@ -21498,7 +21946,9 @@ tam²sêⁿ¹kou¹	noose-to-make	50
 鼻空 (piⁿ⁷kang¹)	nose-nostrils	100
 cêg⁴zui²	nose-running-coryza	50
 鼻塞 (piⁿ⁷ sad⁴)	nose-stuffed	100
+鼻孔 (pi³ kang¹)	nostril	100
 鼻空 (piⁿ⁷kang¹)	nostril	100
+非常 (hui¹ siêⁿ⁵)	not-always	100
 毋是彼樣生 (m⁷si⁶ hiêⁿ³sêⁿ¹)	not-like-that	100
 毋是 (m⁷si⁶)	not-no	100
 未 (bhuê⁷)	not-yet	100
@@ -21540,6 +21990,7 @@ cêg⁴zui²	nose-running-coryza	50
 想頭 (siêⁿ⁶tao⁵)	notion	100
 眾人所知个 (zêng³nang⁵ so²zai¹gai⁵)	notorious	100
 臭名 (cao³miaⁿ⁵)	notorious	100
+實字 (sid⁸ ri⁷)	nouns	100
 撫養 (bhu²iang²)	nourish	100
 飼 (ci⁷)	nourish	100
 養 (iang²)	nourish	100
@@ -21634,6 +22085,7 @@ lao⁶hao³zi²	nut-nutmeg	50
 屈桃 (kud⁴to⁵)	nut-walnut	100
 栳㭳 (lao⁶hao³)	nutmeg	100
 有補 (u⁶bou²)	nutritious	100
+西北 (sai¹ bag⁴)	NWest	100
 仙女 (siên¹nng²)	nymph	100
 上樹 (siang⁶ciu⁷)	oak	100
 槳 (ziêⁿ²)	oar	100
@@ -21648,6 +22100,7 @@ lao⁶hao³zi²	nut-nutmeg	50
 槳砧 (ziêⁿ²diam¹)	oar-pin-thole	100
 划槳 (go³ziêⁿ²)	oar-to-row-with	100
 甲槳 (gah⁴ziêⁿ²)	oar-to-ship-for-rowing	100
+槳 (ziêⁿ²)	oars	100
 誓 (si⁷)	oath	100
 咒誓 (ziu³zua⁷)	oath-an-imprecation	100
 發誓 (huad⁴si⁷)	oath-to-take	100
@@ -21662,6 +22115,7 @@ lao⁶hao³zi²	nut-nutmeg	50
 硬執 (ngê⁶zib⁴)	obdurate	100
 硬性 (ngê⁶sêⁿ³)	obdurate	100
 心腸硬 (sim¹dng⁵ ngê⁶)	obdurate	100
+順 (sun⁶)	obedience	100
 叩頭 (kao³tao⁵)	obeisance-pi-li-ki	100
 跪 (guiⁿ⁶)	obeisance-pi-li-ki	100
 拜跪 (bai³guiⁿ⁶)	obeisance-pi-li-ki	100
@@ -21723,6 +22177,7 @@ hu²diau⁷	obliterate	50
 謠謗 (iau⁵bang⁶)	obloquy	100
 凌辱 (lêng⁵rog⁸)	obloquy	100
 衊着人名聲 (mag⁴diêh⁸ nang⁵miaⁿ⁵siaⁿ¹)	obloquy	100
+粗喙 (cu¹ cui³)	obscene	100
 邪淫 (sia⁵im⁵)	obscene	100
 淫書 (im⁵ze¹)	obscene-books	100
 粗聲 (cou¹siaⁿ¹)	obscene-language	100
@@ -21862,6 +22317,7 @@ ti³niⁿ⁶	obstinate	50
 香 (hiang¹)	odour	100
 氣味 (ki³bhi⁷)	odour	100
 芳 (pang¹)	odour	100
+之 (ze¹)	of	100
 割斷 (guah⁴dng⁶)	off-cut	100
 遠遠 (hng⁶hng⁶)	off-far	100
 走去 (zao²ke²)	off-run	100
@@ -21993,6 +22449,7 @@ ti³niⁿ⁶	obstinate	50
 有意 (u⁶i³)	on-purpose	100
 反轉 (huan²dng²)	on-the-contrary	100
 顛倒 (din¹do³)	on-the-contrary	100
+在東畔 (do⁶ dang¹ boiⁿ⁵)	on-the-east	100
 在厝頂 (do⁶ cu³dêng²)	on-the-house-top	100
 在路上 (do⁶lou⁷ziêⁿ⁷)	on-the-road	100
 在水面 (do⁶zui²min⁷)	on-the-water	100
@@ -22008,6 +22465,7 @@ ti³niⁿ⁶	obstinate	50
 先當時 (soiⁿ¹diang⁵si⁵)	once-once-upon-a-time	100
 當時 (dng¹si⁵)	once-once-upon-a-time	100
 一 (zêg⁸)	one	100
+壹 (zêg⁸)	one	100
 獨目 (dog⁸mag⁸)	one-eyed	100
 單隻手 (duaⁿ¹ziah⁴ciu²)	one-handed	100
 一一 (id⁴id⁴)	one-one-by-one	100
@@ -22017,9 +22475,11 @@ ti³niⁿ⁶	obstinate	50
 家己 (ga¹gi⁷)	one-oneself	100
 本身 (bng²sin¹)	one-oneself	100
 三分取一 (saⁿ¹hun⁷ cu²zêg⁸)	one-third	100
+蔥頭 (cang¹ tao⁵)	onion	100
 蔥頭 (cang¹tao⁵)	onion	100
 蔥 (cang¹)	onion-fresh	100
 蔥頭 (cang¹tao⁵)	onion-root-dried	100
+六粒葱頭 (lag⁸ liab⁸ cang¹ tao⁵)	Onions	100
 只 (zi²)	only	100
 剛剛 (gan¹gan¹)	only	100
 不外 (bud⁴ghua⁷)	only	100
@@ -22027,6 +22487,7 @@ ti³niⁿ⁶	obstinate	50
 定定 (diaⁿ⁷diaⁿ⁷)	only	100
 獨獨 (dog⁸dog⁸)	only	100
 單單 (duaⁿ¹duaⁿ¹)	only	100
+獨一真神 (dog⁸ id⁴ zin¹ sin⁵)	only-one-true-God	100
 單個囝 (duaⁿ¹gai⁵giaⁿ²)	only-son	100
 單單生此個囝定 (duaⁿ¹duaⁿ¹ sêⁿ¹ zi²gai⁵giaⁿ² diaⁿ⁷)	only-son	100
 家伙相接 (gê¹huê² siê¹zih⁴)	onset	100
@@ -22068,6 +22529,7 @@ lang¹lang¹	open-openwork	50
 食凉瀉个藥 (ziah⁸ liang⁵sia³ gai⁵iêh⁸)	open-the-bowels	100
 食利藥 (ziah⁸li⁶iêh⁸)	open-the-bowels	100
 利大便 (li⁶dai⁶biên⁶)	open-the-bowels	100
+開目 (kui¹ mag⁸)	open-the-eyes	100
 做戲唱曲 (zo³hi³ ciê³kêg⁴)	opera	100
 目曝痛 (mag⁸ bao⁶tiaⁿ³)	ophthalmia	100
 目睭紅痛 (mag⁸ziu¹ ang⁵tiaⁿ³)	ophthalmia	100
@@ -22153,6 +22615,7 @@ lang¹lang¹	open-openwork	50
 前後 (zoiⁿ⁵ao⁶)	order	100
 令 (lêng⁶)	order	100
 命 (mêng⁶)	order	100
+領單 (niaⁿ² duaⁿ¹)	order	100
 頭尾 (tao⁵bhuê²)	order	100
 銀單 (ngen⁵duaⁿ¹)	order-an-order-for-money	100
 齊整 (zoi⁵ziaⁿ²)	order-in-order	100
@@ -22206,6 +22669,7 @@ siu¹sib⁸ iab⁴tiab⁴ gui¹ui⁷	order-put-in	50
 好睇 (ho²toiⁿ²)	ornamental	100
 無父無母 (bho⁵bê⁶ai⁵)	orphan	100
 無父無母 (bho⁵bê⁶bho⁵bho²)	orphan	100
+孤子 (gou¹ ze²)	orphan	100
 孤子 (gou¹ze²)	orphan	100
 孤兒 (gou¹ri⁵)	orphan	100
 正教 (ziaⁿ³ga³)	orthodox	100
@@ -22218,6 +22682,7 @@ siu¹sib⁸ iab⁴tiab⁴ gui¹ui⁷	order-put-in	50
 好蟲風 (haoⁿ³tang⁵huang¹)	ostentatious	100
 好搖擺 (haoⁿ³iê⁵bai²)	ostentatious-of-ones-walk	100
 鴕鳥 (to⁵ziau²)	ostrich	100
+駝鳥 (toh⁸ ziou²)	ostrich	100
 別 (bad⁸)	other	100
 還有亞無 (huan⁵u⁶ a¹bho⁵)	other-any-others	100
 別人 (bad⁸nang⁵)	other-others	100
@@ -22298,6 +22763,7 @@ bu⁵ kah⁴miⁿ⁵	over-overdone	50
 欠債 (kiam³zê³)	owe	100
 欠錢 (kiam³ziⁿ⁵)	owe	100
 貓頭鳥 (ngiau¹tao⁵ziau²)	owl	100
+貓頭鳥 (ngiou¹ tao⁵ ziou²)	owl	100
 貓頭鳥 (ngiou¹tao⁵ziou²)	owl	100
 親 (cin¹)	own	100
 家己个 (ga¹gi⁷gai⁵)	own	100
@@ -22306,6 +22772,7 @@ bu⁵ kah⁴miⁿ⁵	over-overdone	50
 本身 (bng²sin¹)	own-in-ones-own-person	100
 認 (rin⁷)	own-to	100
 親手 (cin¹ciu²)	own-with-ones-own-hand	100
+牛 (ghu⁵)	ox	100
 閹牛 (iam¹ghu⁵)	ox	100
 閹牛牯 (iam¹ghu⁵gou²)	ox	100
 蠔 (o⁵)	oyster	100
@@ -22318,6 +22785,7 @@ bu⁵ kah⁴miⁿ⁵	over-overdone	50
 大步 (dua⁷huah⁸)	pace-large	100
 kng³cu²	pacify	50
 勸和 (kng³hua⁵)	pacify	100
+勸人勿去 (kng³nang⁵ maiⁿ³ki³)	pacify	100
 行和 (giaⁿ⁵hua⁵)	pacify	100
 太平洋 (tai³pêng⁵iêⁿ⁵)	pacify-Pacific-ocean	100
 裝 (zuang¹)	pack	100
@@ -22334,6 +22802,7 @@ kng³cu²	pacify	50
 扒龍船 (pê⁶lêng⁵zun⁵)	paddle-a-dragon-boat	100
 陽車火船 (iang⁵cia¹ huê²zun⁵)	paddle-steamer	100
 扒船 (pê⁶zun⁵)	paddle-to	100
+橈囝 (riê⁵ giaⁿ²)	paddles	100
 粟 (cêg⁴)	paddy	100
 白鷺鷥 (bêh⁸liau⁶si¹)	paddy-bird	100
 田 (can⁵)	paddy-fields	100
@@ -22406,15 +22875,15 @@ suah⁴cui³	palataole	50
 手掌 (ciu²ziêⁿ²)	palm-of-hand	100
 手心 (ciu²sim¹)	palm-of-hand	100
 手底 (ciu²doi²)	palm-of-hand	100
+手掌 (ciu² ziêⁿ²)	palm-of-the-hand	100
 相手痕 (siêⁿ³ciu²hun⁵)	palm-palmistry	100
 心跳 (sim¹ tiau³)	palpitate	100
 心肝卜卜跳 (sim¹guaⁿ¹ bog⁴bog⁴tiau³)	palpitate	100
 心肝頭卜卜跳 (sim¹guaⁿ¹tao⁵ bog⁴bog⁴tiau³)	palpitate	100
-痒癲 (guan³biên¹)	palsy	100
 軟風 (nng²huang¹)	palsy	100
 軟疕 (nng²niⁿ⁵)	palsy	100
-凍風 (dong³huang¹)	palsy	100
-痒癲 (guan³biên¹)	palsy-one-side	100
+中風 (dong³huang¹)	palsy	100
+guan³biên¹	palsy-one-side	50
 鍟鍋 (sêⁿ¹uê¹)	pan	100
 鐵鍋 (tih⁴uê¹)	pan	100
 鼎 (diaⁿ²)	pan	100
@@ -22430,6 +22899,7 @@ suah⁴cui³	palataole	50
 驚到戇去 (giaⁿ¹gao³gong⁵ke³)	panic	100
 喘 (cuan²)	pant	100
 喘大氣 (cuan²dua⁷kui³)	pant	100
+褲 (kou³)	pantaloons	100
 褲 (kou³)	pants	100
 褲橛 (kou³guêh⁸)	pants-short-for-bathing	100
 紙 (zua²)	paper	100
@@ -22445,6 +22915,8 @@ dang⁶gong³	paper-common-writing-better	50
 噴金 (pun³gim¹)	paper-gilt	100
 花紙 (huê¹zua²)	paper-marbled	100
 箋紙 (ziên¹zua²)	paper-note-thick	100
+三包白糖 (saⁿ¹ bao¹ bêh⁸ tng⁵)	Paper-of-sugar	100
+一包茶米 (zêg⁸ bao¹ dê⁵ bhi²)	Paper-of-tea	100
 案卷 (uaⁿ³guan³)	paper-official	100
 錢紙 (ziⁿ⁵zua²)	paper-paper-money	100
 紙錢 (zua²ziⁿ⁵)	paper-paper-money	100
@@ -22458,6 +22930,7 @@ dang⁶gong³	paper-common-writing-better	50
 棉藤 (miⁿ⁵din⁵)	paper-tough	100
 毛邊 (moⁿ⁵biⁿ¹)	paper-tough	100
 鞭州 (biên¹ziu¹)	paper-tough	100
+二包藥 (no⁶ bao¹ iêh⁸)	Papers-of-medicine	100
 譬如 (pi³ru⁵)	parable	100
 譬喻 (pi³ru⁶)	parable	100
 比喻 (bi²ru⁶)	parable	100
@@ -22515,6 +22988,7 @@ huê¹	paragraph	50
 客廳 (kah⁴tiaⁿ¹)	parlour	100
 客廳 (kêh⁴tiaⁿ¹)	parlour	100
 弒父 (ci³bê⁶)	parricide	100
+鸚哥 (êng¹ go¹)	parrot	100
 鸚鵡 (êng¹bhu²)	parrot	100
 鸚歌 (êng¹go¹)	parrot	100
 goh⁴zu⁶	parry	50
@@ -22560,6 +23034,7 @@ goh⁴zu⁶	parry	50
 偏愛 (piên¹ai³)	partial-to-any-one	100
 一屑囝 (zêg⁸sud⁴giaⁿ²)	particle-a-small	100
 虛字 (he¹ri⁷)	particle-in-grammar	100
+虛字 (he¹ ri⁷)	particles-c	100
 花瓏色 (huê¹long¹sêg⁴)	particoloured	100
 花斑 (huê¹boiⁿ¹)	particoloured	100
 花點雜色 (huê¹diam² zab⁸sêg⁴)	particoloured	100
@@ -22571,6 +23046,7 @@ goh⁴zu⁶	parry	50
 一件一件 (zêg⁸giaⁿ⁶ zêg⁸giaⁿ⁶)	particular-the-particulars	100
 情由 (cêng⁵iu⁵)	particular-the-particulars	100
 細詳 (soi³siang⁵)	particulars	100
+壁 (biah⁴)	partition	100
 隔牆 (gêh⁴ciêⁿ⁵)	partition-lime	100
 隔壁 (gêh⁴biah⁴)	partition-lime	100
 壁 (biah⁴)	partition-lime	100
@@ -22583,6 +23059,7 @@ goh⁴zu⁶	parry	50
 火伴 (huê²puaⁿ⁶)	partner-in-business	100
 插夥記 (cab⁴huê²gi³)	partner-to-join-with	100
 合火 (hah⁸huê²)	partner-to-join-with	100
+鷓鴣 (zia³ gou¹)	partridge	100
 鷓姑 (zia³gou¹)	partridge	100
 過 (guê³)	pass	100
 由此過 (dui³ziê² guê³)	pass-by-this-way	100
@@ -22620,8 +23097,10 @@ goh⁴zu⁶	parry	50
 客 (kêh⁴)	passenger	100
 搭客 (dah⁴kêh⁴)	passenger	100
 客 (kêh⁴)	passengers	100
+火性 (huê² sêⁿ³)	passionate	100
 哀 (ai¹)	passions	100
 愛 (ai³)	passions	100
+七情 (cid⁴ cêng⁵)	passions	100
 七情 (cid⁴cêng⁵)	passions	100
 喜 (hi²)	passions	100
 慾 (iog⁸)	passions	100
@@ -22670,6 +23149,7 @@ goh⁴zu⁶	parry	50
 路徑 (lou⁷gêⁿ³)	path	100
 路囝 (lou⁷giaⁿ²)	path	100
 小路 (siê²lou⁷)	path	100
+忍耐 (rim² nai⁶)	patience	100
 忍耐 (rim²naiⁿ⁶)	patience	100
 刻苦忍 (kad⁴kou²lun²)	patience	100
 刻耐 (kad⁴naiⁿ⁶)	patience	100
@@ -22747,6 +23227,7 @@ goh⁴zu⁶	parry	50
 豆 (dao⁷)	pea	100
 荷蘭豆 (ho⁵lan⁵dao⁷)	pea-foreign	100
 綠豆 (lêg⁸dao⁷)	pea-small-green	100
+平安 (pêng⁵ an¹)	peace	100
 平安 (pêng⁵an¹)	peace	100
 平和 (pêng⁵hua⁵)	peace	100
 太平 (tai³pêng⁵)	peace	100
@@ -22759,6 +23240,7 @@ goh⁴zu⁶	parry	50
 桃花 (to⁵huê¹)	peach-flower	100
 白飯桃 (bêh⁸bng⁷to⁵)	peach-loose-stone	100
 桃核 (to⁵hud⁸)	peach-stone	100
+孔雀 (kong² ziah⁴)	peacock	100
 孔雀 (kong²ciêh⁴)	peacock	100
 孔雀翎 (kong²ciêh⁴lêng⁵)	peacock-feather	100
 山尖 (suaⁿ¹ziam¹)	peak-mountain	100
@@ -22809,6 +23291,7 @@ goh⁴zu⁶	parry	50
 笋 (sun²)	peg	100
 北京 (bag⁴giaⁿ¹)	peking	100
 上京 (ziêⁿ⁶giaⁿ¹)	peking-go-to	100
+海鵝 (hai² gho⁵)	pelican	100
 彈子 (tan⁵zi²)	pellet	100
 彈子 (duaⁿ⁵zi²)	pellet	100
 將石來捔 (zang¹ziêh⁸ lai⁵gag⁸)	pelt	100
@@ -22826,6 +23309,7 @@ goh⁴zu⁶	parry	50
 筆鋒 (bid⁴hong¹)	pen-point-of	100
 含筆 (gam⁵bid⁴)	pen-put-in-mouth	100
 鵝毛筆 (gho⁵moⁿ⁵bid⁴)	pen-quill	100
+筆池 (bid⁴ di⁵)	pen-stand	100
 筆架 (bid⁴gê³)	pen-stand	100
 bid⁴cuê¹	pen-stem-of-pen	50
 律例 (lud⁸li⁷)	penal-code	100
@@ -22834,6 +23318,7 @@ bid⁴cuê¹	pen-stem-of-pen	50
 將公補過 (ziang¹gong¹ bou²guê³)	penance	100
 補過修行 (bou²guê³ siu¹hêng⁶)	penance	100
 檳榔嶼 (bin¹noⁿ⁵se⁶)	penang	100
+筆架 (bid⁴ gia³)	pencil-frame	100
 鉛筆 (in⁵bid⁴)	pencil-lead	100
 隨下 (sui⁵hia⁶)	pendant	100
 隨落 (sui⁵loh⁸)	pendant	100
@@ -22972,6 +23457,7 @@ can¹can¹	perforate-perforated-with-many-holes	50
 規例銀 (gui¹li⁷ngen⁵)	perquisites	100
 陷害 (ham⁷hai⁷)	persecute	100
 毒 (kun²dog⁸)	persecute	100
+至終 (zi³ zong¹)	perseverance	100
 袂失落常心 (bhoi⁶sid⁴loh⁸ siêⁿ⁵sim¹)	persevere	100
 刻苦 (kad⁴kou²)	persevere	100
 始終如一 (si²zong¹ ru⁵id⁴)	persevere	100
@@ -23005,6 +23491,7 @@ can¹can¹	perforate-perforated-with-many-holes	50
 疏汗 (so³guaⁿ⁷)	perspiration-to-absorb	100
 發汗 (huad⁴guaⁿ⁷)	perspiration-to-encourage	100
 流汗 (lao⁵guaⁿ⁷)	perspire	100
+汗流㩼 (guaⁿ⁷ lao⁵ zoi⁷)	perspire-freely	100
 勸 (kng³)	persuade	100
 勸戒 (kng³goi³)	persuade	100
 goh⁴lo⁵	persuade	50
@@ -23044,17 +23531,21 @@ goh⁴lo⁵	persuade	50
 光棍 (guang¹gun³)	pettifogger	100
 漏囝 (lao²giaⁿ²)	pettifogger	100
 訟棍 (song⁶gun³)	pettifogger	100
+訟師 (song⁶ se¹)	pettifoggers	100
 小 (siê²)	petty	100
 細 (soi³)	petty	100
 小可个事 (siê²ko² gai⁵se⁷)	petty-affair	100
+青面 (cêⁿ¹ min⁷)	petulant	100
 錫 (siah⁴)	pewter	100
 錫器 (siah⁴ki³)	pewter-articles	100
 拍錫 (pah⁴siah⁴)	pewter-to-work-in	100
 製藥个法 (zi³iêh⁸ gai⁵huab⁴)	pharmacy	100
+山鷄 (suaⁿ¹ goi¹)	pheasant	100
 山雞 (suaⁿ¹goi¹)	pheasant	100
 啼雞 (ti⁵goi¹)	pheasant	100
 天象 (tiên¹siang⁶)	phenomena-of-the-heavens	100
 天象 (tiⁿ¹siang⁶)	phenomena-of-the-heavens	100
+仁人 (rin⁵ nang⁵)	philanthropist	100
 仁德 (rin⁵dêg⁴)	philanthropy	100
 行仁德 (giaⁿ⁵rin⁵dêg⁴)	philanthropy	100
 講究文字 (gang²giu³ bhun⁵ri⁷)	philology	100
@@ -23088,6 +23579,7 @@ ho³siou²iaⁿ²	photograph-to-take	50
 先生 (sin¹sêⁿ¹)	physician	100
 醫內地 (ui¹lai⁶di⁷)	physician	100
 醫生 (ui¹sêng¹)	physician	100
+醫生 (ui¹ sêng¹)	physicians	100
 樣相 (iêⁿ⁷siêⁿ³)	physiognomy	100
 容貌 (iong⁵maoⁿ⁶)	physiognomy	100
 面樣 (min⁷iêⁿ⁷)	physiognomy	100
@@ -23134,12 +23626,16 @@ tag⁴ki²	pick-the-teeth	50
 篇 (piên¹)	piece-composition	100
 布路 (bou³lou⁷)	piece-goods	100
 布疋 (bou³pid⁴)	piece-goods	100
+一疋布 (zêg⁸ pid⁴ bou³)	Piece-of-cloth	100
 一疋 (zêg⁸pid⁴)	piece-of-cloth	100
 布疋 (bou³pid⁴)	piece-piece-goods	100
 碎碎 (cui³cui³)	piece-piecemeal	100
+九塊猪肉 (gao² go³ de¹ bhah⁴)	Pieces-of-pork	100
 全身寶鏡 (cuan⁵sin¹ bo²giaⁿ³)	pier-glass	100
 照身鏡 (ziê³sin¹giaⁿ³)	pier-glass	100
 刺 (cng³)	pierce	100
+穿 (cng³)	pierce	100
+鑽 (zng³)	pierce-with-boring-instrument	100
 孝 (hao³)	piety-filial	100
 孝敬父母 (hao³gêng³ bê⁶bho²)	piety-filial	100
 孝順父母 (hao³sun⁶ bê⁶bho²)	piety-filial	100
@@ -23147,9 +23643,12 @@ tag⁴ki²	pick-the-teeth	50
 敬畏神明 (gêng³ui³ sin⁵mêng⁵)	piety-idolatrous	100
 誠敬 (sêng⁵gêng³)	piety-idolatrous	100
 豬 (de¹)	pig	100
+猪囝 (de¹ giaⁿ²)	pig	100
 粉鳥 (hun²ziau²)	pigeon	100
 粉鳥 (hun²ziou²)	pigeon	100
+鴒鳥 (lêng⁵ ziou²)	pigeon	100
 人矮細 (nang⁵ oi²soi³)	pigmy	100
+十六隻猪 (zab⁸ lag⁸ ziah⁴ de¹)	Pigs	100
 長槍 (ciang⁵ciêⁿ¹)	pike	100
 槍哥 (ciêⁿ¹go¹)	pike-staff	100
 竹哥聳 (dêg⁴go¹song²)	pike-staff	100
@@ -23178,17 +23677,20 @@ tiab⁸	pile-to	50
 拍劫 (pah⁴giab⁴)	pillage	100
 柱 (tiau⁶)	pillar	100
 柱 (tiou⁶)	pillar-a-post	100
+枕頭 (zim² tao⁵)	pillow	100
 枕頭 (zim²tao⁵)	pillow	100
 枕頭箱 (zim²tao⁵siêⁿ¹)	pillow-box-used-for	100
 枕頭囊 (zim²tao⁵long⁵)	pillow-case	100
 枕頭亦着曝 (zim²tao⁵ ia⁷ diêh⁸ pag⁸)	pillows-must-be-aired-too	100
 藥丸 (iêh⁸iⁿ²)	pills	100
+九粒藥丸 (gao² liab⁸ iêh⁸ iⁿ⁵)	Pills	100
 𤆬水 (cua⁷zui²)	pilot	100
 𤆬船 (cua⁷zun⁵)	pilot	100
 引船 (in²zun⁵)	pilot	100
 烏龜大鱉 (u¹gui¹ dua⁷bih⁴)	pimp	100
 肉鮡 (nêg⁸tiau⁵)	pimple	100
 鮡 (tiou⁵)	pimples	100
+針 (zam¹)	pin	100
 針鑽 (zam¹zng³)	pin	100
 骨針 (gud⁴zam¹)	pin-bone	100
 牙針 (ghê⁵zam¹)	pin-ivory-hair-pin	100
@@ -23205,6 +23707,7 @@ tiab⁸	pile-to	50
 nihⁿ¹	pinch	50
 挼 (nuêh⁴)	pinch	100
 一挼鼻薰 (zêg⁸nuêh⁴ piⁿ⁷hun¹)	pinch-of-snuff	100
+捻鼻 (liam³ pi³)	pinch-the-nose	100
 捘 (zun⁶)	pinch-twist	100
 番梨 (huan¹lai⁵)	pine-pine-apple	100
 菠蘿麻 (bo¹lo⁵muaⁿ⁵)	pine-pine-apple-cloth	100
@@ -23420,6 +23923,7 @@ suah⁴cui³	please-the-palate	50
 喜樂 (hi²lag⁸)	pleasure	100
 歡喜 (huaⁿ¹hi²)	pleasure	100
 快樂 (kuai³lag⁸)	pleasure	100
+樂 (lag⁸)	pleasure	100
 色情 (sêg⁴cêng⁵)	pleasure	100
 好風流 (haoⁿ³huang¹liu⁵)	pleasure-man-of	100
 按 (an³)	pledge	100
@@ -23489,6 +23993,7 @@ lu¹ciêⁿ²	plunder	50
 嚴君 (ngiam⁵gun¹)	pluto	100
 閻羅天子 (ngiam⁵lo⁵ tiên¹ze²)	pluto	100
 嚴羅王 (ngiam⁵lo⁵uang⁵)	pluto	100
+午 (ngou²)	PM	100
 面斑 (min⁷boiⁿ¹)	pock-mark	100
 斑 (boiⁿ¹)	pock-mark	100
 荷包 (ho⁵bao¹)	pocket	100
@@ -23635,6 +24140,7 @@ lu¹ciêⁿ²	plunder	50
 毛空 (moⁿ⁵kang¹)	pores	100
 毛管瘡 (moⁿ⁵gng²cng¹)	pores	100
 毛管空 (moⁿ⁵gng²kang¹)	pores	100
+猪肉 (de¹ bhah⁴)	pork	100
 豬肉 (de¹bhah⁴)	pork	100
 豬肉 (de¹nêg⁸)	pork	100
 白肉 (bêh⁸nêg⁸)	pork-fat-of	100
@@ -23694,6 +24200,7 @@ bêh⁸ghou⁵he⁵	porpoise	50
 敢無影 (gaⁿ²bho⁵iaⁿ²)	possible-can-it-be-possible	100
 ked⁸	post	50
 柱 (tiau⁶)	post	100
+柱 (tiou⁶)	post	100
 寄信 (gia³sin³)	post-a-letter	100
 批館 (poi¹guan²)	post-office	100
 信關 (sin³guan¹)	post-office	100
@@ -23745,6 +24252,7 @@ kam³	pot-lid	50
 番薯 (huan¹ze⁵)	potato-sweet	100
 番葛 (huan¹guah⁴)	potato-sweet	100
 地瓜 (di⁷guê¹)	potato-sweet	100
+蕃葛 (huan¹ guah⁴)	potatoe	100
 荷蘭薯 (ho⁵lan⁵ze⁵)	potatoes	100
 番薯 (huan¹ze⁵)	potatoes-sweet	100
 番葛 (huan¹guah⁴)	potatoes-sweet	100
@@ -23817,6 +24325,16 @@ sun²zai²	pox-small-	50
 種珠 (zêng³zu¹)	pox-vaccinate-for	100
 種羊痘 (zêng³iêⁿ⁵dao⁷)	pox-vaccinate-for	100
 種痘 (zêng³dao⁷)	pox-vaccinate-for	100
+三對手~~𤨔~~(環) (saⁿ¹ dui³ ciu² huan⁵)	Pr-of-bracelets	100
+七雙箸 (cid⁴ sang¹ de⁷)	Pr-of-chop-sticks	100
+四對門~~𤨔~~(環) (si³ dui³ mng⁵ huan⁵)	Pr-of-door-handles	100
+二對耳環 (no⁶ dui³ hiⁿ⁶ huan⁵)	Pr-of-ear-rings	100
+六雙耳 (lag⁸ sang¹ hiⁿ⁶)	Pr-of-ears	100
+三雙骹 (saⁿ¹ sang¹ ka¹)	Pr-of-feet	100
+四雙手 (si³ sang¹ ciu²)	Pr-of-hands	100
+一對對聯 (zêg⁸ dui³ dui³ liên⁵)	Pr-of-ornamental-papers	100
+一雙鞋 (zêg⁸ sang¹ oi⁵)	Pr-of-shoes	100
+二雙襪 (no⁶ sang¹ bhuêh⁸)	Pr-of-socks	100
 學習 (hag⁸sib⁸)	practice	100
 行爲 (giaⁿ⁵ui⁵)	practice	100
 練習 (liên⁷sib⁸)	practice	100
@@ -23997,6 +24515,7 @@ bin⁶ziaⁿ³	prepare-prepared	50
 暗兆 (am³diau⁶)	presentiment	100
 心機 (sim¹gi¹)	presentiment	100
 心當機兆 (sim¹dang¹ gi¹diau⁶)	presentiment	100
+霎時 (siab⁴ si⁵)	presently	100
 存 (cun⁵)	preserve	100
 保 (bo²)	preserve	100
 保全 (bo²cuan⁵)	preserve	100
@@ -24160,9 +24679,11 @@ bui³	prickly-heat	50
 印 (in³)	print	100
 印冊 (in³cêh⁴)	print	100
 印之 (in³ze¹)	print	100
+印冊 (in³ cêh⁴)	print-books	100
 印板 (in³boiⁿ²)	print-printing-blocks	100
 書方 (ze¹hng¹)	print-printing-house	100
 活字版 (uah⁸ri⁷boiⁿ²)	print-types	100
+印書舘 (in³ ze¹ guan²)	printing-office	100
 監 (gam¹)	prison	100
 監獄 (gam¹ghêg⁸)	prison	100
 監管 (gam¹guan²)	prison	100
@@ -24470,6 +24991,7 @@ lao²ge²	prostitute	50
 小心 (siê²sim¹)	provident	100
 先想 (soiⁿ¹siêⁿ⁶)	provident	100
 省 (sêⁿ²)	province	100
+廣東省 (gng²dang¹ sêⁿ²)	province-of-Canton	100
 省城 (sêⁿ²siaⁿ⁵)	province-provincial-city	100
 乾糧 (gan¹niêⁿ⁵)	provision	100
 糧草 (niêⁿ⁵cao²)	provision	100
@@ -24549,8 +25071,12 @@ oi⁶tiau⁵uêh⁸	prudence	50
 拔起 (boih⁸ki²)	pull-up-or-out	100
 拔掉 (boih⁸diau⁷)	pull-up-or-out	100
 抽出 (tiu¹cud⁴)	pull-up-or-out	100
+此草挽丢 (zi² cao²,man² diu¹)	pull-up-these-bushes	100
+鷄卵 (goi¹ nng⁶)	pullet	100
 膠碌 (ga¹lag⁴)	pulley	100
+果子肉 (guê² zi² nêg⁸)	pulp	100
 果子肉 (guêⁿ²zi²nêg⁸)	pulp-of-fruit	100
+脉 (mêh⁸)	pulse	100
 脈 (mehⁿ²)	pulse	100
 脈 (mehⁿ⁸)	pulse	100
 按脈 (an³mehⁿ⁸)	pulse-feel	100
@@ -24570,6 +25096,7 @@ zui²giuh⁴	pump	50
 giuh⁴	pump-to	50
 抽 (tiu¹)	pump-to	100
 抽水 (tiu¹zui²)	pump-to-pump-water	100
+金瓜 (gim¹ guê¹)	pumpkin	100
 瓜 (guê¹)	pumpkin	100
 匏 (bu⁵)	pumpkin	100
 番瓜 (huan¹guê¹)	pumpkin-red	100
@@ -24602,6 +25129,7 @@ giuh⁴	pump-to	50
 風扇 (huang¹siⁿ³)	punkah	100
 拖風 (dui²huang¹)	punkah-to-pull	100
 縋風 (dui²huang¹)	punkah-to-pull	100
+瞳仁 (tong⁵ rin⁵)	pupil	100
 仙人 (siên¹nang⁵)	pupil-of-the-eye	100
 瞳仁 (tong⁵rin⁵)	pupil-of-the-eye	100
 學生 (hag⁸sêng¹)	pupil-or-scholar	100
@@ -24641,6 +25169,7 @@ giuh⁴	pump-to	50
 召專 (diou⁶zuan¹)	purposely	100
 荷包 (ho⁵bao¹)	purse	100
 腰肚 (iê¹dou⁶)	purse	100
+銀桶 (ngen⁵ tong²)	purse	100
 銀袋 (ngen⁵do⁷)	purse	100
 荷包 (ho⁵bao¹)	purse-worn-on-the-waist	100
 肚腰 (dou²iê¹)	purse-worn-on-the-waist	100
@@ -24721,6 +25250,7 @@ ao³	putrid	50
 四重 (si³dêng⁵)	quadruple	100
 坔 (lam³)	quagmire	100
 坔塗 (lam³tou⁵)	quagmire	100
+鵪鶉 (an¹ cun¹)	quail	100
 鵪鶉 (ang¹cun¹)	quail	100
 鷯鶉 (liau⁶tun⁵)	quail	100
 鸕鶉 (lou⁷tun⁵)	quail	100
@@ -24792,9 +25322,11 @@ zang⁵guê³huê²	quench-fire-with-water	50
 編辮 (biⁿ⁶biⁿ¹)	queue-to-plait	100
 快 (kuê³)	quick	100
 緊 (gin²)	quick	100
+猛 (mê²)	quick	100
 猛 (mêⁿ²)	quick	100
 聰明 (cong¹mêng⁵)	quick-in-intelligence	100
 伶俐 (lêng⁵lai⁷)	quick-in-intelligence	100
+猛猛 (mê² mê²)	quickly	100
 水銀 (zui²ngen⁵)	quicksilver	100
 靜 (zêⁿ⁶)	quiet	100
 靜靜 (zêⁿ⁶zêⁿ⁶)	quiet	100
@@ -24835,6 +25367,7 @@ ki³ gao³ ka¹ sih⁴ ciu² sih⁴	quiver-with-rage	50
 錢 (ziⁿ¹)	quoin	100
 引書 (in²ze¹)	quote	100
 引經據典 (in²giaⁿ¹ ge⁶diên²)	quote	100
+石鼠 (ziêh⁸ ce²)	rabbit	100
 石鼠 (ziêh⁸ce²)	rabbit	100
 月鼠 (ghuêh⁸ce²)	rabbit	100
 白兔 (bêh⁸tou³)	rabbit	100
@@ -24870,6 +25403,7 @@ ki³ gao³ ka¹ sih⁴ ciu² sih⁴	quiver-with-rage	50
 竹牌 (dêg⁴bai⁵)	raft	100
 竹排 (dêg⁴bai⁵)	raft	100
 楹 (êⁿ⁵)	rafter	100
+桷 (gag⁴)	rafters	100
 布碎 (bou³cui³)	rag	100
 破衫褲 (pua³saⁿ¹kou³)	rag-ragged-clothes	100
 發惱 (huad⁴naoⁿ²)	rage	100
@@ -24881,6 +25415,7 @@ ki³ gao³ ka¹ sih⁴ ciu² sih⁴	quiver-with-rage	50
 咒罵 (ziu³mêⁿ⁷)	rail-at	100
 罵 (mêⁿ⁷)	rail-at	100
 捌罵 (boih⁴mêⁿ⁷)	rail-at	100
+欄杆 (lan⁵ gan¹)	railing	100
 欄杆 (lan⁵gan¹)	railing	100
 廊干 (lang⁵gan¹)	railing	100
 廊干子 (lang⁵gan¹zi²)	railing	100
@@ -24897,11 +25432,13 @@ ki³ gao³ ka¹ sih⁴ ciu² sih⁴	quiver-with-rage	50
 雨愛來 (hou⁶ aiⁿ³lai⁵)	rain-is-coming	100
 雨來 (hou⁶lai⁵)	rain-it-rains	100
 落雨 (loh⁸hou⁶)	rain-it-rains	100
+三十領棕蓑 (saⁿ¹ zab⁸ nia² zang¹ sui¹)	Rain-jackets	100
 天時落雨 (tiⁿ¹si⁵ loh⁸hou⁶)	rain-rainy-weather	100
 雨水 (hou⁶zui²)	rain-water	100
 沃着雨 (ag⁴diêh⁸hou⁶)	rain-wetted-by	100
 虹 (kêng⁶)	rainbow	100
 虹有加加色 (kêng⁶ u⁶ gê¹gê¹ sêg⁴)	rainbow-has-many-colours	100
+虹是雅 (kêng⁶,si⁶ ngia²)	rainbow-is-beautiful	100
 出虹 (cud⁴kêng⁶)	rainbow-there-is	100
 扶起 (hu⁵ki²)	raise	100
 扶浮 (hu⁵pu⁵)	raise	100
@@ -24931,10 +25468,12 @@ pi¹pi¹êng¹	raise-dust	50
 粟耙 (cêg⁴bê⁵)	rake	100
 薅耙 (kao¹bê⁵)	rake	100
 耙 (bê⁵)	rake	100
+鐵耙 (tih⁴ bê⁵)	rake	100
 耙 (bê⁵)	rake-to	100
 兵再合埋 (biaⁿ¹ zai³hah⁸bhua⁵)	rally-soldiers	100
 兵再復聚 (biaⁿ¹ zai³hog⁸zu⁶)	rally-soldiers	100
 兵再合陣 (biaⁿ¹ zai³gab⁴din⁷)	rally-soldiers	100
+羊牯 (iêⁿ⁵ gou²)	ram	100
 羊牯 (iêⁿ⁵gou²)	ram	100
 遊行 (iu⁵giaⁿ⁵)	ramble	100
 滿塊獵 (muaⁿ²go³lah⁸)	ramble	100
@@ -25020,6 +25559,7 @@ maiⁿ³ tih⁴tuh⁴giê³	rash-do-not-be	50
 勿聽做 (maiⁿ³têng³zo³)	rash-do-not-be	100
 虎莓 (houⁿ²m⁷)	raspberry	100
 貓鼠 (ngiou²ce²)	rat	100
+鳥鼠 (niau² ce²)	rat	100
 鳥鼠 (niauⁿ²ce²)	rat	100
 將就 (ziang¹ziu⁶)	rather-nice	100
 略略 (liag⁸liag⁸)	rather-nice	100
@@ -25064,6 +25604,7 @@ maiⁿ³ tih⁴tuh⁴giê³	rash-do-not-be	50
 剃刀 (ti³do¹)	razor	100
 喝剃刀皮 (huah⁴ti³do¹puê⁵)	razor-razor-strop	100
 喝刀皮 (huah⁴do¹puê⁵)	razor-razor-strop	100
+第三 (doiⁿ⁶ saⁿ¹)	rd	100
 到 (gao³)	reach	100
 及 (gib⁸)	reach	100
 帶到 (tua³gao³)	reach	100
@@ -25075,6 +25616,7 @@ maiⁿ³ tih⁴tuh⁴giê³	rash-do-not-be	50
 睇書 (toiⁿ²ze¹)	read-a-book	100
 讀 (tag⁸)	read-aloud	100
 密訟 (mid⁸song⁶)	read-in-a-low-voice	100
+讀細聲 (tag⁸ soi³ siaⁿ¹)	read-in-a-low-voice	100
 睇書 (toiⁿ²ze¹)	read-mentally	100
 唸經 (liam⁷gêng¹)	read-prayers	100
 睇 (toiⁿ²)	read-silently	100
@@ -25146,6 +25688,7 @@ maiⁿ³ tih⁴tuh⁴giê³	rash-do-not-be	50
 退步 (to³bou⁷)	recede	100
 退縮 (to³sog⁴)	recede	100
 倒退 (do³to³)	recede	100
+收單 (siu¹ duaⁿ¹)	receipt	100
 收單 (siu¹duaⁿ¹)	receipt	100
 照單 (ziê³duaⁿ¹)	receipt-money-receipt	100
 執照 (zib⁴ziê³)	receipt-money-receipt	100
@@ -25327,6 +25870,7 @@ giaⁿ⁵ gao³ ka¹pong⁶pêng¹	reel-to-stagger	50
 還 (hoiⁿ⁵)	refund-to	100
 毋好 (m⁷haoⁿ³)	refuse	100
 垃圾 (nahⁿ¹sab⁴)	refuse	100
+不悦 (bud⁴ ruad⁸)	refuse	100
 塗糞 (dou⁵bun³)	refuse	100
 蔗粕 (zia³poh⁴)	refuse-of-sugar-cane	100
 茶烌 (dê⁵hu¹)	refuse-of-tea	100
@@ -25384,6 +25928,7 @@ giaⁿ⁵ gao³ ka¹pong⁶pêng¹	reel-to-stagger	50
 錄籍 (log⁸zia⁶)	register-to	100
 登籍 (dêng¹zia⁶)	register-to	100
 煩惱 (huan⁵lo²)	regret	100
+憂悶 (iu¹ bhun⁷)	regret	100
 憂悶 (iu¹bhun⁷)	regret	100
 想守悔 (siêⁿ⁶siu²huê³)	regret	100
 可憐 (ko²liên⁵)	regret-matter-for	100
@@ -25548,6 +26093,7 @@ naⁿ⁷	remain-stay	50
 思念 (se¹liam⁶)	remember	100
 毋憶得 (m⁷id⁴did⁴)	remember-do-not	100
 毋記得 (m⁷gi³did⁴)	remember-do-not	100
+汝記得共伊講 (le² gi³did⁴ gang⁷ i¹ gong²)	remember-to-tell-him	100
 汝共我相輔憶得 (le² gang⁷ua² siê¹hu⁶ id⁴did⁴)	remind-me	100
 汝代我憶得 (le² toi³ua² id⁴did⁴)	remind-me	100
 凊彩 (cin³cai²)	remiss	100
@@ -25614,6 +26160,7 @@ ba¹loi²ho²	repair	50
 補 (bou²)	repair	100
 修整 (siu¹ziaⁿ²)	repair	100
 收拾 (siu¹sib⁸)	repair	100
+收船 (siu¹ zun⁵)	repair-the-boat	100
 還 (haiⁿ⁵)	repay	100
 還 (hoiⁿ⁵)	repay	100
 交還 (gao¹hoiⁿ⁵)	repay	100
@@ -25826,6 +26373,7 @@ coh⁴liam⁷	repeat-ad-aperturam	50
 敬 (gêng³)	respect-to	100
 敬重 (gêng³dong⁶)	respect-to	100
 睇重 (toiⁿ²dong⁶)	respect-to	100
+孝順父母 (hao³ sun⁶ bê⁶ bho²)	respect-to-parents	100
 至到 (zi³gao³)	respect-with-respect-to	100
 論到 (lun⁶gao³)	respect-with-respect-to	100
 論及 (lun⁶gib⁸)	respect-with-respect-to	100
@@ -25996,6 +26544,7 @@ do³gag⁴	retire-retired-place	50
 敬奉 (gêng³hong⁶)	revere	100
 敬畏 (gêng³ui³)	revere	100
 恭敬 (giong¹gêng³)	revere	100
+敬畏 (gêng³ ui³)	reverence	100
 夢想 (mang⁷siang²)	reverie	100
 siêⁿ⁶gao³ gng⁵ cêⁿ¹mêⁿ⁵mang⁷	reverie	50
 反轉 (huan²dng²)	reverse	100
@@ -26053,6 +26602,7 @@ buêh⁴mêⁿ⁷	revile	50
 賞善罰惡 (siêⁿ²siên⁶ huad⁸ag⁴)	reward-good-and-evil	100
 出賞格 (cud⁴siêⁿ²gêh⁴)	reward-to-offer	100
 出賞貼 (cud⁴siêⁿ²tiab⁴)	reward-to-offer	100
+骨節痠痛 (gud⁴ zad⁴ sng¹ tiaⁿ³)	rheumatic-pains	100
 風 (huang¹)	rheumatism	100
 風氣 (huang¹ki³)	rheumatism	100
 瘋痛 (huang¹tiaⁿ³)	rheumatism	100
@@ -26063,6 +26613,7 @@ buêh⁴mêⁿ⁷	revile	50
 手風 (ciu²huang¹)	rheumatism-in-arm	100
 頭風 (tao⁵huang¹)	rheumatism-in-head	100
 骨節風 (gud⁴zad⁴huang¹)	rheumatism-in-the-joints	100
+犀牛 (sai¹ ghu⁵)	rhinoceros	100
 犀牛 (sai¹ghu⁵)	rhinoceros	100
 大黃 (dua⁷ng⁵)	rhubarb	100
 韻 (un⁷)	rhyme	100
@@ -26081,6 +26632,7 @@ buêh⁴mêⁿ⁷	revile	50
 絲帶 (si¹dua³)	ribbon-silk	100
 帶囝 (dua³giaⁿ²)	ribbon-small	100
 大反帶 (dua⁷boiⁿ²dua³)	ribbon-wide	100
+米 (bhi²)	rice	100
 煮飯 (ze²bng⁷)	rice-boil	100
 煲飯 (bu⁵bng⁷)	rice-boil	100
 飯 (bng⁶)	rice-boiled	100
@@ -26094,6 +26646,7 @@ buêh⁴mêⁿ⁷	revile	50
 粟 (cêg⁴)	rice-grain-paddy	100
 米粞 (bhi²coi³)	rice-ground	100
 米 (bhi²)	rice-husked	100
+今年米有貴 (gim¹ ni⁵,bhi² u⁶ gui³)	rice-is-dear-this-year	100
 糙米 (co³bhi²)	rice-not-cleaned-from-bran	100
 米 (bhi²)	rice-raw	100
 糶米 (tiê³bhi²)	rice-sell	100
@@ -26160,6 +26713,7 @@ can⁵huaⁿ⁷	ridge-between-fields	50
 公義 (gong¹ngi⁶)	righteous	100
 義 (ngi⁶)	righteous	100
 稱義 (cêng¹ngi⁶)	righteous-to-declare	100
+行義 (giaⁿ⁵ ngi⁶)	righteousness	100
 堅硬 (giên¹ngê⁶)	rigid	100
 硬 (ngê⁶)	rigid	100
 嚴 (ngiam⁵)	rigid	100
@@ -26169,12 +26723,14 @@ can⁵huaⁿ⁷	ridge-between-fields	50
 喙 (cui³)	rim	100
 墘 (giⁿ⁵)	rim	100
 車輪墘 (cia¹lun⁵giⁿ⁵)	rim-of-wheel	100
+皮 (puê⁵)	rind	100
 手指 (ciu²zi²)	ring	100
 環 (huan⁵)	ring	100
 箍 (kou¹)	ring	100
 圈 (kuan¹)	ring	100
 手環 (ciu²huan⁵)	ring-arm	100
 耳環 (hiⁿ⁶huan⁵)	ring-ear-round	100
+無名指 (bho⁵ miaⁿ⁵ zoiⁿ²)	ring-finger	100
 手節 (ciu²zad⁴)	ring-finger	100
 手指 (ciu²zi²)	ring-finger	100
 戒指 (gai³zi²)	ring-finger	100
@@ -26194,6 +26750,7 @@ can⁵huaⁿ⁷	ridge-between-fields	50
 做頭 (zo³tao⁵)	ringleader	100
 頭人 (tao⁵nang⁵)	ringleader	100
 賊頭 (cad⁸tao⁵)	ringleader-of-thieves-or-rebels	100
+門環 (mng⁵ huan⁵)	rings	100
 癬 (siên²)	ringworm	100
 盪 (dng⁶)	rinse	100
 盪喙 (dng⁶cui³)	rinse-as-the-mouth	100
@@ -26234,6 +26791,7 @@ can⁵huaⁿ⁷	ridge-between-fields	50
 早起 (zao²ki²)	rise-up	100
 起身 (ki²sin¹)	rise-up	100
 徛起來 (kia⁶ki²lai⁵)	rise-up	100
+水大 (zui² dua⁷)	rising-tide	100
 險當徛 (hiam²dang¹ kia⁶)	risk	100
 貌險 (maoⁿ⁶hiam²)	risk	100
 冒命 (maoⁿ⁶miaⁿ⁷)	risk-ones-life	100
@@ -26262,6 +26820,7 @@ can⁵huaⁿ⁷	ridge-between-fields	50
 港 (gang²)	river-little	100
 一條河 (zêg⁸diau⁵ho⁵)	river-one	100
 溪 (koi¹)	river-small	100
+溪邊 (koi¹ biⁿ¹)	rivers-side	100
 hou⁵ki⁵dah⁴	rivet	50
 釘尾拍平 (dêng¹bhuê² pah⁴bêⁿ⁵)	rivet	100
 溪囝 (koi¹giaⁿ²)	rivulet	100
@@ -26317,6 +26876,7 @@ gê¹suaⁿ¹	rock-rockery	50
 huê²suh⁸	rocket	50
 bang³huê²suh⁸	rocket-to-fire	50
 火箭 (huê²suh⁸)	rockets	100
+倚腰椅 (ua² iê¹ i¹)	rocking-chair	100
 大石 (dua⁷ziêh⁸)	rocks	100
 箠 (cuê⁵)	rod	100
 竿 (go¹)	rod	100
@@ -26338,6 +26898,7 @@ lin²++碾++	roll	50
 碾來碾去 (lin²lai⁵ lin²ke³)	roll-about	100
 bhai²	roll-as-boat	50
 軋麵 (koih⁴miⁿ⁷)	roll-dough	100
+一捆布 (zêg⁸ kun² bou³)	Roll-of-cloth	100
 一枝 (zêg⁸gi¹)	roll-of-cloth	100
 目睭碾來碾去 (mag⁸ziu¹ lin³lai⁵ lin³ke³)	roll-the-eyes	100
 引線 (in¹suaⁿ³)	roll-thread	100
@@ -26350,6 +26911,9 @@ ziêh⁸kah⁴	roller	50
 石碾 (ziêh⁸lin²)	roller	100
 踏布石 (dah⁸bou³ziêh⁸)	roller-for-cloth	100
 麵槌 (miⁿ⁷tui⁵)	roller-for-dough	100
+二捆草蓆 (no⁶ kun² cao² ciêh⁸)	Rolls-of-mats	100
+宋體 (song³ toi²)	roman-letters	100
+厝頂 (cu³ dêng²)	roof	100
 厝頂 (cu³dêng²)	roof	100
 房 (bang⁵)	room	100
 夗房 (ud⁸bang⁵)	room-a-bed-room	100
@@ -26375,6 +26939,7 @@ ziêh⁸kah⁴	roller	50
 絞索 (ga²soh⁴)	rope-to-make	100
 拍索 (pah⁴soh⁴)	rope-to-make	100
 行索 (giaⁿ⁵soh⁴)	rope-walk-on	100
+十條索 (zab⁸ diou⁵ soh⁴)	Ropes	100
 索 (soh⁴)	ropes	100
 唸珠 (liam⁷zu¹)	rosary	100
 月記 (ghuêh⁸gi³)	rose	100
@@ -26427,6 +26992,7 @@ huan⁵	rotten	50
 行 (hang⁵)	row	100
 划 (go³)	row	100
 列 (liêd⁸)	row	100
+扒船 (bê⁵ zun⁵)	row	100
 撐去火船邊 (têⁿ¹ke³ huê²zun⁵biⁿ¹)	row-along-the-steamer	100
 行 (hang⁵)	row-in	100
 歴 (lêg⁸)	row-in	100
@@ -26595,6 +27161,7 @@ liau⁶zao²	run	50
 起群 (ki²kun⁵)	rutting-time-of-animals	100
 安息日 (an¹sêg⁴rid⁸)	sabbath	100
 禮拜日 (loi²bai³rid⁸)	sabbath	100
+禮拜日 (loi² bai³ rid⁸)	sabbath-day	100
 麻皮袋 (muaⁿ⁵puê⁵do⁷)	sack	100
 麻袋 (muaⁿ⁵do⁷)	sack	100
 布袋 (bou³do⁷)	sack	100
@@ -26604,6 +27171,7 @@ liau⁶zao²	run	50
 穿麻 (cêng⁷muaⁿ⁵)	sackcloth-to-wear	100
 穿麻布 (cêng⁷muaⁿ⁵bou³)	sackcloth-to-wear	100
 聖 (siaⁿ³)	sacred	100
+詩經 (si¹giaⁿ¹)	sacred-odes	100
 祭 (zi³)	sacrifice	100
 祭物 (zi³muêh⁸)	sacrifice	100
 奉 (hong⁶)	sacrifice	100
@@ -26641,6 +27209,7 @@ zi³	sacrifice-to	50
 會想 (oi⁶siêⁿ⁶)	sagacious	100
 有心事 (u⁶sim¹se⁷)	sagacious	100
 賢人 (ghao⁵nang⁵)	sage	100
+聖人 (siaⁿ³ nang⁵)	sage	100
 西谷圓 (sai¹gog⁴iⁿ⁵)	sago	100
 斜莪粉 (sia⁵gho⁷hun²)	sago	100
 斜莪圓 (sia⁵gho⁷iⁿ⁵)	sago-in-pills	100
@@ -26660,7 +27229,9 @@ zi³	sacrifice-to	50
 hêh⁴pang⁵	sail-to-take-in	50
 pang⁵ hêh⁴soi³	sail-to-take-in	50
 二十隻船 (ri⁷zab⁸ziah⁴zun⁵)	sail-twenty-sail	100
+夥長 (huê² diêⁿ²)	sailing-master	100
 夾板 (gab⁴ban²)	sailing-vessel	100
+水手 (zui² siu²)	sailor	100
 水手 (zui²siu²)	sailors	100
 帆 (pang⁵)	sails	100
 因爲 (in¹ui⁶)	sake-for-the-sake-of	100
@@ -26773,6 +27344,7 @@ niⁿ⁵huê³ pêng⁵giên¹	same-age	50
 飽 (ba²)	satiated	100
 緞 (dng⁷)	satin	100
 緞鞋 (dng⁷oi⁵)	satin	100
+二頂緞帽 (no⁶ dêng² dng⁷ bho⁷)	Satin-caps	100
 譏刺个話 (gi¹cng³ gai⁵uê⁷)	satire	100
 譏議 (gi¹ngi²)	satire-satirize	100
 甘愿 (gam¹nguan⁶)	satisfied	100
@@ -26784,12 +27356,14 @@ niⁿ⁵huê³ pêng⁵giên¹	same-age	50
 浸 (zim³)	saturate	100
 浸水 (zim³zui²)	saturate	100
 禮拜六 (loi²bai³lag⁸)	Saturday	100
+拜六 (bai³ lag⁸)	Saturday	100
 拜六 (bai³lag⁸)	Saturday	100
 土星 (tou²cêⁿ¹)	saturn	100
 醬 (ziêⁿ³)	sauce	100
 豉油 (si⁷iu⁵)	sauce	100
 鍋 (uê¹)	sauce-sauce-pan	100
 盤囝 (buaⁿ⁵giaⁿ²)	saucer	100
+茶船 (dê⁵ zun⁵)	saucer	100
 茶船 (dê⁵zun⁵)	saucer	100
 茶碟 (dê⁵dih⁸)	saucer	100
 慢步 (man⁷bou⁷)	saunter	100
@@ -26810,6 +27384,7 @@ niⁿ⁵huê³ pêng⁵giên¹	same-age	50
 救援 (giu³iên⁶)	save	100
 救主 (giu³zu²)	save-Saviour	100
 救世主 (giu³si³zu²)	save-Saviour	100
+此留放明起 (zi² lao⁵ bang³ mê⁵ki²)	save-this-for-to-morrow	100
 救 (giu³)	save-to	100
 儉 (kiam⁶)	saving	100
 儉樸 (kiam⁶pog⁴)	saving	100
@@ -27011,6 +27586,7 @@ nag⁸	scoop-with-one-hand	50
 睇輕 (toiⁿ²kin¹)	scorn	100
 睇毋起 (toiⁿ²m⁷ki²)	scorn	100
 蝎 (hiêd⁴)	scorpion	100
+蠍 (hiêd⁴)	scorpion	100
 蝎囝 (hiêd⁴giaⁿ²)	scorpion	100
 匪類 (huiⁿ²lui⁷)	scoundrel	100
 匪徒 (huiⁿ²tu⁵)	scoundrel	100
@@ -27105,6 +27681,7 @@ liau⁵puêh⁸	scum-to	50
 行船人 (giaⁿ⁵zun⁵nang⁵)	sea-faring-man	100
 水戰 (zui²ziên³)	sea-fight	100
 出海 (cud⁴hai²)	sea-go-to	100
+海無涌 (hai² bho⁵ êng²)	sea-is-smooth	100
 眩船 (hin⁵zun⁵)	sea-sick	100
 眩船 (hin⁵zun⁵)	sea-sickness	100
 海狗 (hai²gao²)	seal	100
@@ -27112,6 +27689,7 @@ liau⁵puêh⁸	scum-to	50
 印色 (in³sêg⁴)	seal	100
 蓋印 (kab⁴in³)	seal	100
 圖書 (tu⁵su¹)	seal	100
+篆字 (duan⁶ ri⁷)	seal-character	100
 玉璽 (ghêg⁸re²)	seal-imperial	100
 官印 (guaⁿ¹in³)	seal-official	100
 八分書 (boih⁴hun¹su¹)	seal-seal-characters	100
@@ -27151,6 +27729,7 @@ ziam⁵cuê⁷	search-ones-pockets	50
 熱天時 (ruah⁸tiⁿ¹si⁵)	season-the-warm	100
 菜合 (cai³gah⁴)	season-to-food	100
 調味 (tiau⁵bhi⁷)	season-to-food	100
+東南 (dang¹ nam⁵)	SEast	100
 坐位 (zo⁶ui⁷)	seat	100
 位 (ui⁷)	seat	100
 倚个位處 (ua² gai⁵ ui⁷ce³)	seat-my	100
@@ -27264,6 +27843,7 @@ ziam⁵cuê⁷	search-ones-pockets	50
 睇見 (toiⁿ²giⁿ³)	see-to	100
 種 (zêng²)	seed	100
 種子 (zêng²zi²)	seed	100
+核 (hud⁸)	seed	100
 種 (zêng²)	seed-for-sowing	100
 子 (zi²)	seed-of-fruit	100
 秧 (ng¹)	seed-of-rice	100
@@ -27272,6 +27852,7 @@ ziam⁵cuê⁷	search-ones-pockets	50
 花栽 (huê¹zai¹)	seed-seedling	100
 播種 (ia⁷zêng²)	seed-to-sow	100
 落種 (loh⁸zêng²)	seed-to-sow	100
+睇 (toiⁿ²)	seeing	100
 查 (cê⁵)	seek	100
 尋 (cim⁵)	seek	100
 揣 (cuê⁷)	seek	100
@@ -27469,6 +28050,7 @@ zu³giong¹	servile	50
 放火 (bang³huê²)	set-fire-to	100
 着火 (doh⁸huê²)	set-fire-to	100
 失火 (sid⁴huê²)	set-fire-to-accidentally	100
+放在此 (bang³ do⁶ zi²)	set-it-down-here	100
 注意 (zu³i³)	set-ones-heart-on	100
 注念 (zu³liam⁶)	set-ones-heart-on	100
 專心 (zuan¹sim¹)	set-ones-heart-on	100
@@ -27489,6 +28071,7 @@ zu³giong¹	servile	50
 開手 (kui¹ciu²)	set-to-set-about	100
 立 (lib⁸)	set-up	100
 設立 (siêd⁴lib⁸)	set-up	100
+擇字 (doh⁸ ri⁷)	set-up-type	100
 買成 (bhoi²sêng⁵)	settle-a-bargain	100
 和息 (hua⁵sêg⁴)	settle-a-quarrel	100
 押數 (ab⁴siau³)	settle-accounts	100
@@ -27504,6 +28087,7 @@ zu³giong¹	servile	50
 着落 (diêh⁴loh⁸)	settle-settled	100
 直 (did⁸)	settle-to	100
 七 (cid⁴)	seven	100
+㭍 (cid⁴)	seven	100
 十七 (zab⁸cid⁴)	seven-seventeen	100
 寡個 (gua²gai⁵)	several	100
 幾個 (gui²gai⁵)	several	100
@@ -27614,6 +28198,7 @@ kiu⁷	shake-tremble	50
 分 (hun⁷)	share	100
 份 (hun⁷)	share	100
 分做三分 (bun¹zo³ saⁿ¹hun⁷)	share-divided-into-three-shares	100
+鯊魚 (sua¹ he⁵)	shark	100
 鯊魚 (sua¹he⁵)	shark	100
 魚翅 (he⁵ci³)	shark-fins	100
 魚翼 (he⁵sid⁸)	shark-fins	100
@@ -27636,6 +28221,7 @@ kiu⁷	shake-tremble	50
 剃 (ti³)	shave	100
 剃頭呾 (ti³tao⁵daⁿ³)	shave-shaving-outfitbarbers	100
 剃鬚 (koi¹ciu¹)	shave-the-beard	100
+剃頭 (ti³ tao⁵)	shave-the-head	100
 剃頭 (ti³tao⁵)	shave-the-head	100
 頭毛囝 (tao⁵moⁿ⁵giaⁿ²)	shavings-of-hair	100
 藤絲 (din⁵si¹)	shavings-of-rattan	100
@@ -27656,6 +28242,7 @@ kiu⁷	shake-tremble	50
 大絞刀 (dua⁷ga¹do¹)	shear-shears	100
 剪毛 (ziên²moⁿ⁵)	shear-to	100
 鉸毛 (ga¹moⁿ⁵)	shear-to	100
+絞刀 (ga² do¹)	shears	100
 殼 (kag⁴)	sheath	100
 鞘 (siêⁿ³)	sheath	100
 刀殼 (do¹kag⁴)	sheath-of-a-sword	100
@@ -27666,6 +28253,7 @@ kiu⁷	shake-tremble	50
 棚廠 (pang⁵ciang²)	shed	100
 棚棚 (pang⁵bêⁿ⁵)	shed	100
 流血 (lao⁵huêh⁴)	shed-blood	100
+流目汁 (lao⁵ mag⁸ zab⁴)	shed-tears	100
 流目汁 (lao⁵mag⁸zab⁴)	shed-tears	100
 換牙 (uaⁿ⁷ghê⁵)	shed-to-teeth	100
 換齒 (uaⁿ⁷ki²)	shed-to-teeth	100
@@ -27715,6 +28303,7 @@ kiu⁷	shake-tremble	50
 徙 (sua²)	shift	100
 徙位 (sua²ui⁷)	shift	100
 無變 (bho⁵biên³)	shift-shiftless	100
+骹臁 (ka¹ liam⁵)	shin	100
 骹臁 (ka¹liam⁵)	shin	100
 照 (ziê³)	shine	100
 照光 (ziê³gng¹)	shine	100
@@ -27742,6 +28331,7 @@ kiu⁷	shake-tremble	50
 汗衫 (guaⁿ⁷saⁿ¹)	shirt	100
 近身衣 (gen⁶sin¹i¹)	shirt	100
 內衫 (lai⁶saⁿ¹)	shirt	100
+身底衫 (sin¹ doi² saⁿ¹)	shirt	100
 身底衫 (sin¹doi²saⁿ¹)	shirt	100
 身底衫 (sin¹doi²saⁿ¹)	shirt-or-singlet	100
 kiu⁷	shiver	50
@@ -27800,6 +28390,7 @@ baoh⁴ghê⁵	shoot-up-as-plant	50
 在山頂 (do⁶suaⁿ¹dêng²)	shore-on	100
 短 (do²)	short	100
 酥 (sou¹)	short-as-cake	100
+草字 (co² ri⁷)	short-hand	100
 月小 (ghuêh⁸ siê²)	short-moon	100
 草字 (co²ri⁷)	short-short-hand-writing	100
 減筆字 (giam²bid⁴ri⁷)	short-short-hand-writing	100
@@ -27823,6 +28414,7 @@ baoh⁴ghê⁵	shoot-up-as-plant	50
 應當 (êng¹dng¹)	should	100
 本等着 (bng²dêng² diêh⁸)	should	100
 着 (diêh⁸)	should	100
+肩頭 (goiⁿ¹ tao⁵)	shoulder	100
 肩頭 (goiⁿ¹tao⁵)	shoulder	100
 騎在肩頭 (kia⁵ do⁶goiⁿ¹tao⁵)	shoulder-carry-on	100
 擔 (daⁿ¹)	shoulder-carry-on	100
@@ -27981,6 +28573,7 @@ iên¹siên⁵	sick-slightly	50
 米籮 (bhi²lo⁵)	sieve	100
 米篩 (bhi²tai¹)	sieve	100
 篩 (tai¹)	sieve	100
+篩斗 (tai¹ dao²)	sieve	100
 簸箕 (bua³gi¹)	sieve-for-winnowing	100
 篩 (tai¹)	sift	100
 篩 (tai¹)	sift-to	100
@@ -28046,6 +28639,7 @@ iên¹siên⁵	sick-slightly	50
 密密無言 (mid⁸mid⁸ bho⁵ngan⁵)	silent	100
 恬靜 (diam⁷zêⁿ⁶)	silent	100
 恬恬 (diam⁷diam⁷)	silent	100
+綾 (lin⁵)	silk	100
 絲 (si¹)	silk	100
 絲綢綾緞 (si¹diu⁵ lin⁵dng⁷)	silk	100
 絲綢綾緞 (si¹diu⁵ lin⁵dng⁷)	silk-goods	100
@@ -28130,6 +28724,7 @@ cang¹	simmer-as-water	50
 沉落 (dim⁵loh⁸)	sink	100
 沉肉在惡 (dim⁵nêg⁸ do⁶ag⁴)	sink-in-vice	100
 沉水 (dim⁵zui²)	sink-in-water	100
+沉船 (dim⁵ zun⁵)	sink-the-boat	100
 啜 (cuêh⁴)	sip	100
 啉 (lim¹)	sip	100
 尊駕 (zun¹gê³)	sir	100
@@ -28140,8 +28735,10 @@ cang¹	simmer-as-water	50
 先生 (sin¹sêⁿ¹)	sir	100
 姐妹 (zê²muêⁿ⁷)	sister	100
 姊妹 (zi²muêⁿ⁷)	sister	100
+阿姐 (a¹ zê²)	sister-elder	100
 阿姐 (a¹zê²)	sister-elder	100
 阿姑 (a¹gou¹)	sister-husbands	100
+阿姨 (a¹ i⁵)	sister-in-law	100
 母姨 (bho²i⁵)	sister-mothers	100
 妻姨 (ci¹i⁵)	sister-wifes-sister	100
 阿妹 (a¹muêⁿ⁷)	sister-younger	100
@@ -28165,6 +28762,7 @@ cang¹	simmer-as-water	50
 職任 (zêh⁴rim⁶)	situation	100
 地位 (di⁷ui⁷)	situation	100
 六 (lag⁸)	six	100
+陸 (lag⁸)	six	100
 六斤四 (lag⁸gen¹si³)	six-catties-and-four-taels	100
 六角 (lag⁸gag⁴)	six-hexagonal	100
 量度 (liang⁶dou⁷)	size	100
@@ -28188,6 +28786,7 @@ cang¹	simmer-as-water	50
 好手藝 (ho²ciu²ghoi⁷)	skill	100
 巧藝 (ka²ghoi⁷)	skill	100
 機巧 (gi¹ka²)	skill	100
+名家 (miaⁿ⁵ gê¹)	skill	100
 會想心事 (oi⁶siêⁿ⁶ sim¹se⁷)	skill-in-managing	100
 精巧 (zêng¹ka²)	skill-skilled	100
 精工 (zêng¹gong¹)	skill-skilled	100
@@ -28223,6 +28822,7 @@ siê¹la⁶	skirmish	50
 蒼天 (cang¹tiⁿ¹)	sky	100
 青天 (cêⁿ¹tiⁿ¹)	sky	100
 半天 (buaⁿ³tiⁿ¹)	sky	100
+辰 (sin⁵)	sky	100
 天空 (tiên¹kong¹)	sky	100
 天 (tiⁿ¹)	sky	100
 天中 (tiⁿ¹dang¹)	sky	100
@@ -28263,6 +28863,7 @@ bu³lu⁶	slander	50
 石瓦 (ziêh⁸hia⁶)	slate	100
 石板 (ziêh⁸boiⁿ²)	slate	100
 粉排石 (hun²bai⁵ziêh⁸)	slate-for-writing	100
+欄杆枳 (lan⁵ gan¹ zi²)	slats	100
 骹纏拂死雞 (ka¹diⁿ⁵ buaⁿ⁶si²goi¹)	slattern	100
 邋遢諸娘 (lah⁴dah⁴ ze¹niêⁿ⁵)	slattern	100
 頭毛如掃彗 (tao⁵moⁿ⁵ ru⁵sao³soi¹)	slattern	100
@@ -28277,6 +28878,8 @@ bu³lu⁶	slander	50
 走鬼 (zao²gui²)	slave-female	100
 女婢 (nng²bi⁶)	slave-female	100
 奴婢 (nouⁿ⁵bi⁶)	slave-female	100
+婢 (bi⁶)	slave-female	100
+僕 (bog⁸)	slave-male	100
 僕婢 (bog⁸bi⁶)	slave-slaves-male-and-female	100
 拖轎 (tua¹giê⁷)	sledge-for-ice	100
 塗跳 (tou⁵tiau³)	sledge-for-mud	100
@@ -28388,6 +28991,7 @@ lang²tang²	slovenly	50
 慢慢 (man⁷man⁷)	slow-slowly	100
 勻勻 (un⁵un⁵)	slow-slowly	100
 寬寬 (kuaⁿ¹kuaⁿ¹)	slowly	100
+慢慢 (man⁷ man⁷)	slowly	100
 紜紜 (un⁵un⁵)	slowly-and-carefully	100
 水閘 (zui²zah⁸)	sluice	100
 水拴 (zui²cêng⁷)	sluice	100
@@ -28400,6 +29004,7 @@ dab⁴kao²siaⁿ¹	smack-of-the-lips	50
 微 (muiⁿ⁵)	small	100
 小 (siau²)	small	100
 細 (soi³)	small	100
+船囝 (zun⁵ giaⁿ²)	small-boat	100
 鑤 (bao³)	small-jar	100
 出珠 (cud⁴zu¹)	small-pox	100
 賢阿娘 (ghao⁵a¹niêⁿ⁵)	small-pox	100
@@ -28418,6 +29023,7 @@ sun²zai²	small-pox	50
 厘秤 (li⁵cin³)	small-scale	100
 天平 (tiên¹pêng⁵)	small-scale	100
 茶几 (dê⁵gi²)	small-tea-table	100
+細縣 (soi³ guiⁿ⁷)	small-village	100
 梅 (bhuê⁵)	small-yellow-plums	100
 骹手輕快矯捷 (ka¹ciu² kin¹kuê³ giau¹giah⁴)	smart	100
 骹手會 (ka¹ciu² oi⁶)	smart	100
@@ -28442,12 +29048,14 @@ ha¹bhi⁷	smell-offensive	50
 酸味 (sng¹bhi⁷)	smell-sour	100
 鼻 (piⁿ⁶)	smell-to	100
 鼻着 (piⁿ⁷diêh⁸)	smell-to	100
+鼻 (pi³)	smelling	100
 牽揀 (kan¹goiⁿ²)	smelt-iron-ore	100
 牽爐 (kan¹lou⁵)	smelt-iron-ore	100
 鑄 (zu³)	smelt-to	100
 貓呅笑 (bha¹bhun¹ciê³)	smile	100
 笑 (ciê³)	smile	100
 貓呅笑 (muiⁿ⁵ciê³)	smile	100
+笑面 (ciê³ min⁷)	smiling-face	100
 拍鐵司阜 (pah⁴tih⁴ sai¹bê⁶)	smith-black-	100
 拍銀司阜 (pah⁴ngen⁵ sai¹bê⁶)	smith-silver-	100
 拍鐵舖 (pah⁴tih⁴pou³)	smith-smithy	100
@@ -28568,6 +29176,7 @@ zng⁵gai⁵ ze³guê³	soak-thoroughly-soaked	50
 拜社 (bai³sia⁶)	society-to-enter	100
 插會 (cab⁴huê⁶)	society-to-join	100
 入會 (rib⁸huê⁶)	society-to-join	100
+襪 (bhuêh⁸)	sock	100
 燭管 (zêg⁴gong²)	socket-of-candle	100
 門臼 (mng⁵ku⁶)	socket-of-door	100
 草𠱀 (cao²puêh⁸)	sod	100
@@ -28619,9 +29228,11 @@ un²	solder	50
 兵勇 (biaⁿ¹iong²)	soldier-soldiers	100
 勇將 (iong²ziang³)	soldiers	100
 兵 (biaⁿ¹)	soldiers	100
+兵丁 (biaⁿ¹ dêng¹)	soldiers	100
 鞋底魚 (oi⁵doi²he⁵)	sole-fish	100
 骹底 (ka¹doi²)	sole-of-foot	100
 鞋底 (oi⁵doi²)	sole-of-shoe	100
+骹底 (ka¹ doi²)	sole-of-the-foot	100
 搭鞋底 (dah⁴oi⁵doi²)	sole-to-sole-a-shoe	100
 嚴肅 (ngiam⁵sog⁴)	solemn	100
 威嚴 (ui¹ngiam⁵)	solemn	100
@@ -28678,6 +29289,7 @@ u⁶nang⁵	some-somebody	50
 拋輾斗 (pa¹lin³dao²)	somersault-to-turn	100
 拋沙輪 (pa¹sa¹lin¹)	somersault-to-turn	100
 囝 (giaⁿ²)	son	100
+丈夫囝 (da¹ bou¹ giaⁿ²)	son	100
 丈夫囝 (da¹bou¹giaⁿ²)	son	100
 兜囝 (dao¹giaⁿ²)	son	100
 外孫 (ghua⁷sun¹)	son-daughters	100
@@ -28740,6 +29352,7 @@ u⁶nang⁵	some-somebody	50
 骹糜 (ka¹ miⁿ⁵)	sore-leg	100
 愁悶 (cou⁵bhun⁷)	sorrow	100
 愁心 (cou⁵sim¹)	sorrow	100
+煩惱 (huan⁵ lo²)	sorrow	100
 煩惱 (huan⁵lo²)	sorrow	100
 煩心 (huan⁵sim¹)	sorrow	100
 憂悶 (iu¹bhun⁷)	sorrow	100
@@ -28763,6 +29376,7 @@ ki²	sort	50
 百樣 (bêh⁴iêⁿ⁷)	sort-all-sorts	100
 此一起 (zi²zêg⁸ki²)	sort-this-sort	100
 此起 (zi²ki²)	sort-this-sort	100
+靈魂 (lêng⁵ hun⁵)	soul	100
 靈魂 (lêng⁵hun⁵)	soul	100
 叫 (giê³)	sound	100
 聲 (siaⁿ¹)	sound	100
@@ -28827,6 +29441,7 @@ ki²	sort	50
 寬 (kuaⁿ³)	spacious	100
 kuaⁿ³cêng⁷	spacious	50
 puê⁵ciang⁵	spade	50
+鐵橫 (tih⁴ huê⁵)	spade	100
 鐵鑱 (tih⁴ciam⁵)	spade	100
 鐵鍁 (tih⁴ciang⁵)	spade	100
 大呂宋國 (dua⁷le⁶song³ gog⁴)	spain	100
@@ -28851,6 +29466,7 @@ puê⁵ciang⁵	spade	50
 惜物 (siêh⁴muêh⁸)	sparing	100
 火明 (huê²mêⁿ⁵)	spark	100
 灼灼熠 (iab⁸iab⁸sih⁴)	spark-sparkling	100
+麻雀 (ma⁵ ziah⁴)	sparrow	100
 麻雀 (muaⁿ⁵ziah⁴)	sparrow	100
 麻雀鳥 (muaⁿ⁵ziah⁴ziau²)	sparrow	100
 麻雀鳥 (muaⁿ⁵ziah⁴ziou²)	sparrow	100
@@ -28936,6 +29552,7 @@ puê⁵ciang⁵	spade	50
 胡蠅虎 (hou⁵sin⁵houⁿ²)	spider	100
 蟧蜈 (la⁵ghia⁵)	spider	100
 siau³ziⁿ⁵ang¹	spider	50
+蜘蛛 (di¹ du¹)	spider	100
 蜘蛛 (di¹du¹)	spider	100
 馬龍騎 (bhê²lêng⁵kia⁵)	spider-large	100
 蜘蛛 (di¹du¹)	spider-little	100
@@ -28960,6 +29577,7 @@ zêh⁴zoi³	spin	50
 腰龍骨 (iê¹lêng⁵gud⁴)	spine	100
 尾龍骨 (bhuê²lêng⁵gud⁴)	spine-end-of	100
 豪豬刺 (ho⁵de¹ci³)	spines-of-porcupine	100
+靈 (lêng⁵)	spirit	100
 神 (sin⁵)	spirit	100
 神魂 (sin⁵hun⁵)	spirit	100
 神靈 (sin⁵lêng⁵)	spirit	100
@@ -28967,6 +29585,7 @@ zêh⁴zoi³	spin	50
 邪毛 (sia⁵moⁿ⁵)	spirit-evil-spirits	100
 邪神 (sia⁵sin⁵)	spirit-evil-spirits	100
 靈 (lêng⁵)	spirit-spiritual	100
+酒 (ziu²)	spirits	100
 火叉 (huê²cê¹)	spit	100
 呸 (pui³)	spit	100
 呸涎 (pui³nuaⁿ⁶)	spit	100
@@ -28982,6 +29601,7 @@ zêh⁴zoi³	spin	50
 啐 (pui³)	spit-to	100
 呸涎 (pui³nuaⁿ⁶)	spit-to	100
 怨恨 (uan³hen⁶)	spite	100
+涎 (nua⁶)	spittle	100
 涎 (nuaⁿ⁶)	spittle	100
 痰呸 (tam⁵pui³)	spittoon	100
 痰筒 (tam⁵dang⁷)	spittoon	100
@@ -29130,6 +29750,7 @@ dag⁴nng⁷diau⁷ziⁿ⁵	squander	50
 押數 (ab⁴siau³)	square-to-square-accounts	100
 數目清楚 (siau³bhag⁸ cêng¹co²)	square-to-square-accounts	100
 瓜 (guê¹)	squash	100
+冬瓜 (dang¹ guê¹)	squash	100
 壓破 (iab⁴pua³)	squash-to	100
 壓着 (dêh⁴diêh⁸)	squash-to	100
 壓破 (dêh⁴pua³)	squash-to	100
@@ -29151,12 +29772,15 @@ dêⁿ⁶	squeeze-with-the-hand	50
 斜目鳥 (sia⁵mag⁸ziou²)	squinting	100
 霧水 (bhu⁷zui²)	squirt	100
 噴水 (pun³zui²)	squirt	100
+初一 (cu¹ id⁴)	st	100
+第一 (doiⁿ⁶ id⁴)	st	100
 刺 (cng³)	stab	100
 剌 (cng³)	stab	100
 行剌 (giaⁿ⁵cng³)	stab	100
 剌 (cng³)	stab-to	100
 馬房 (bhê²bang⁵)	stable	100
 cao²kng⁵	stack-of-straw	50
+杖 (ziang⁶)	staff	100
 拐杖 (guai²ziang⁶)	staff	100
 棍 (gun³)	staff-a-club	100
 箠 (cuê⁵)	staff-thin	100
@@ -29181,20 +29805,24 @@ po¹lo¹sia¹giaⁿ⁵	stagger-to	50
 爬上樓 (bêh⁴ziêⁿ⁶lao⁵)	stair-go-upstairs	100
 升樓 (sêng¹lao⁵)	stair-go-upstairs	100
 登樓 (dêng¹lao⁵)	stair-go-upstairs	100
+梯頭 (tui¹ tao⁵)	stairs	100
 ghu⁵ked⁸	stake-for-fastening-cattle-to	50
 杇 (ao³)	stale	100
 失味 (sid⁴bhi⁷)	stale	100
 着捲 (diêh⁸gaoh⁴)	stale-mouldy	100
 麥稿 (bhêh⁸go²)	stalk	100
 稻稿 (diu⁶go²)	stalk	100
+牛寮 (ghu⁵ liau⁵)	stall	100
 牛間 (ghu⁵goiⁿ¹)	stall	100
 牛欄 (ghu⁵nuaⁿ⁵)	stall	100
 牛條 (ghu⁵diau⁵)	stall	100
+馬牯 (bhê² gou²)	stallion	100
 馬牯 (bhê²gou²)	stallion	100
 花鬚 (huê¹ciu¹)	stamens	100
 呾話重句 (daⁿ³uê⁷ dêng⁵gu³)	stammer	100
 大舌 (dua⁷zih⁸)	stammer	100
 呾話重句 (daⁿ³uê⁷ dêng⁵gu³)	stammering	100
+大舌 (dua⁷ zih⁸)	stammering	100
 大舌 (dua⁷zih⁸)	stammering	100
 蓋 (kab⁴)	stamp-to	100
 蓋印 (kab⁴in³)	stamp-to	100
@@ -29217,6 +29845,7 @@ têng¹zi²	stanchion-in-window	50
 kia⁷kia⁷	stand-erect	50
 衫架 (saⁿ¹gê³)	stand-for-clothes	100
 衣架 (ui¹gê³)	stand-for-clothes	100
+墨碟 (bhag⁸ dih⁸)	stand-for-ink	100
 免仔細 (min²ze²soi³)	stand-not-stand-on-ceremony	100
 不拘禮數 (bud⁴ku¹ loi²siau³)	stand-not-stand-on-ceremony	100
 徛起來 (kia⁶ki²lai⁵)	stand-up	100
@@ -29239,6 +29868,7 @@ ga¹sud⁴	staple	50
 目國國金 (mag⁸ gog⁴gog⁴gim¹)	stare-staring-about-all-round	100
 目睇到 (mag⁸ toiⁿ² gao³iaⁿ¹iaⁿ¹)	stare-staring-about-all-round	100
 鷯哥鳥 (liau⁶go¹ziau²)	starling	100
+星 (zêⁿ¹)	stars	100
 星 (cêⁿ¹)	stars	100
 星灼灼熠 (cêⁿ¹ iab⁸iab⁸sih⁴)	stars-are-twinkling	100
 開藥機 (kui¹ iêg⁸gui²)	start-engine	100
@@ -29301,6 +29931,7 @@ tao¹so¹	steal	50
 拐逃子女 (guai²do⁵ ze²nng²)	steal-children	100
 拍白撞 (pah⁴bêh⁸zuang⁶)	steal-in-the-daytime	100
 拍白日 (pah⁴bêh⁸rid⁸)	steal-in-the-daytime	100
+偷船 (tao¹ zun⁵)	steal-the-boat	100
 偷挈 (tao¹kiêh⁸)	steal-to	100
 暗靜 (am³zêⁿ⁶)	stealthily	100
 私下 (sai¹ê⁶)	stealthily	100
@@ -29329,6 +29960,7 @@ tao¹so¹	steal	50
 崎 (gia⁷)	steep	100
 浸水 (zim³zui²)	steep-in-water	100
 浸 (zim³)	steep-to	100
+掠尾 (liah⁸ bhuê²)	steer	100
 掠舵 (liah⁸dua⁶)	steer	100
 舵工 (dai⁶gong¹)	steer-steersman	100
 捍舵 (huaⁿ⁷dua⁶)	steer-to-a-ship	100
@@ -29342,6 +29974,8 @@ tao¹so¹	steal	50
 身 (sin¹)	stem	100
 臭羶 (cao³hiên³)	stench	100
 步 (bou⁷)	step	100
+繼父 (gi³ bê⁶)	step-father	100
+後母 (ao⁶ bho²)	step-mother	100
 後母 (ao⁶bho²)	step-mother	100
 繼母 (gi³bho²)	step-mother	100
 繼囝 (gi³giaⁿ²)	step-mother-step-son	100
@@ -29458,12 +30092,15 @@ la⁶pu⁵	stir-to	50
 肚痛 (dou²tiaⁿ³)	stomachache	100
 石 (ziêh⁸)	stone	100
 石部 (ziêh⁸bou⁶)	stone	100
+石有重 (ziêh⁸,u⁶ dang⁶)	stone-is-heavy	100
 核 (hud⁸)	stone-of-fruits	100
 拍石山 (pah⁴ziêh⁸suaⁿ¹)	stone-stone-quarry	100
 將石捔 (zang¹ziêh⁸ gag⁸)	stone-to-stone	100
 捔石 (gag⁸ziêh⁸)	stone-to-stone	100
 石 (ziêh⁸)	stones	100
 石部 (ziêh⁸bou⁶)	stones	100
+二塊石 (no⁶ go³ ziêh⁸)	Stones	100
+椅頭 (i¹ tao⁵)	stool	100
 椅頭 (iⁿ²tao⁵)	stool	100
 東司椅 (dang¹si¹iⁿ²)	stool-close	100
 骹踏椅 (ka¹dah⁸iⁿ²)	stool-foot-stool	100
@@ -29503,6 +30140,7 @@ la⁶pu⁵	stir-to	50
 庫房 (kou³bang⁵)	store-a-store-house	100
 棧 (zang³)	store-house	100
 棧房 (zang³bang⁵)	store-house	100
+棧 (zan³)	store-room	100
 囤貨房 (dun¹huê³bang⁵)	store-room	100
 積聚 (zêg⁴zu⁶)	store-up	100
 積蓄 (zêg⁴tiog⁴)	store-up	100
@@ -29519,6 +30157,7 @@ la⁶pu⁵	stir-to	50
 風颱 (huang¹tai¹)	storm	100
 狂風 (kuang⁵huang¹)	storm	100
 透大風 (tao³dua⁷huang¹)	storm	100
+大風 (dua⁷ huang¹)	storm	100
 大風 (dua⁷huang¹)	storm	100
 浮大風 (pu⁵dua⁷huang¹)	storm-to-rise	100
 透大風 (tao³dua⁷huang¹)	storm-to-rise	100
@@ -29668,6 +30307,7 @@ hm²	strike	50
 舞 (bhu²)	strike-with-a-stick	100
 bhud⁸	strike-with-a-stick	50
 舂 (zêng¹)	strike-with-the-fist	100
+拳頭拍 (kun⁵ tao⁵ pah⁴)	strike-with-the-fist	100
 包索 (bao¹soh⁴)	string	100
 索囝 (soh⁴giaⁿ²)	string	100
 線 (suaⁿ³)	string	100
@@ -29831,6 +30471,7 @@ tih⁸tih⁸giê³	stutter	50
 順服 (sun⁶hog⁸)	subject-to-be	100
 高大 (gao¹dai⁶)	sublime	100
 沉水 (dim⁵zui²)	submerge	100
+甘心 (gam¹ sim¹)	submission	100
 降 (hang⁵)	submit	100
 降服 (hang⁵hog⁸)	submit	100
 服 (hog⁸)	submit	100
@@ -30077,8 +30718,10 @@ min⁷ bu⁶ao³ bu⁶ao³	sullen	50
 太陽 (tai³iang⁵)	sun	100
 日針 (rid⁸zam¹)	sun-beams	100
 日斜西 (rid⁸ sia⁵sai¹)	sun-declining-Westward	100
+日落 (rid⁸ loh⁸)	sun-down	100
 日蝕 (rid⁸ sih⁸)	sun-eclipse	100
 日氣 (rid⁸ki³)	sun-heat	100
+日有光 (rid⁸ u⁶ gng¹)	sun-is-bright	100
 日光 (rid⁸guang¹)	sun-light	100
 日 (rid⁸)	sun-or-day	100
 日影 (rid⁸iaⁿ²)	sun-shadow	100
@@ -30091,6 +30734,7 @@ min⁷ bu⁶ao³ bu⁶ao³	sullen	50
 當暑 (dong³su²)	sun-sun-stroke	100
 日曝死 (rid⁸ pag⁸si²)	sun-sun-stroke-fatal	100
 借日 (ziêh⁴rid⁸)	sun-to-sun-oneself	100
+禮拜 (loi² bai³)	Sunday	100
 禮拜 (loi²bai³)	Sunday	100
 禮拜日 (loi²bai³rid⁸)	Sunday	100
 什貨 (zab⁸huê³)	sundries	100
@@ -30100,6 +30744,8 @@ min⁷ bu⁶ao³ bu⁶ao³	sullen	50
 入外事 (rib⁸ghua⁷se⁷)	sunk-in-vice	100
 目遢遢 (mag⁸ tab⁴tab⁴)	sunk-sunken-eyes	100
 目睭深凹 (mag⁸ziu¹ cim¹ao¹)	sunk-sunken-eyes	100
+日出 (rid⁸ cud⁴)	sunrise	100
+船主 (zun⁵ zu²)	super-cargo	100
 出海 (cud⁴hai²)	supercargo	100
 頭目 (tao⁵mag⁸)	supercargo	100
 目冬無人 (mag⁸dang¹ bho⁵nang⁵)	supercilious	100
@@ -30363,6 +31009,7 @@ sa¹bhua⁵	sweep-together-with-fingers	50
 腫 (zêng⁵)	swell-to	100
 hab⁴	swell-to	50
 腫 (zêng²)	swelling	100
+西南 (sai¹ nam⁵)	SWest	100
 雄 (hiong³)	swift	100
 快 (kuê³)	swift	100
 猛 (mêⁿ²)	swift	100
@@ -30386,6 +31033,7 @@ so⁶lai⁵ so⁶ke³	swing-to	50
 毋知人 (m⁷zai¹nang⁵)	swoon	100
 失神 (sid⁴sin⁵)	swoon	100
 劍 (giam³)	sword	100
+長刀 (dng⁵ do¹)	sword	100
 刀 (do¹)	sword	100
 舞刀弄劍 (bhu²do¹ mong⁶giam³)	sword-exercise	100
 拔刀 (boih⁸do¹)	sword-to-draw	100
@@ -30423,6 +31071,7 @@ zu³giong¹	sycophant	50
 床 (cng⁵)	table	100
 桌 (doh⁴)	table	100
 床布 (cng⁵bou³)	table-cloth	100
+遮床布 (zia¹ cng⁵ bou³)	table-cloth	100
 床擺未好 (cng⁵ bai² bhuê⁷ho²)	table-is-not-ready	100
 燈盞个火熄去 (lêng¹zuaⁿ² gai⁵ huê² guê³ke³)	table-lamp-has-gone-out	100
 几床 (gi²cng⁵)	table-long-and-high	100
@@ -30430,7 +31079,9 @@ zu³giong¹	sycophant	50
 目錄 (mag⁸log⁸)	table-or-index	100
 坐席 (zo⁶siah⁸)	table-sit-at	100
 擺床 (bai²cng⁵)	table-to-lay	100
+十九隻床 (zab⁸ gao² ziah⁴ cng⁵)	Tables	100
 床落凍石 (cng⁵ loh⁸ dang³ziêh⁸)	tables-with-marble-top	100
+粉牌 (hun² bai⁵)	tablet	100
 木主 (bhag⁸zu²)	tablet-ancestral	100
 家神 (gê¹sin⁵)	tablet-ancestral	100
 神主 (sin⁵zu²)	tablet-ancestral	100
@@ -30560,6 +31211,7 @@ niⁿ¹	take-with-two-fingers	50
 符 (hu⁵)	talisman	100
 掛符 (gua³hu⁵)	talisman-to-wear	100
 講 (gang²)	talk	100
+講 (gong²)	talk	100
 pid⁸puêh⁸	talk	50
 詖 (puêh⁸)	talk	100
 詖話 (puêh⁸uê⁷)	talk	100
@@ -30605,6 +31257,7 @@ ku¹kêg⁴ i¹gai⁵sêⁿ³ loh⁸	tame-to	50
 水槽 (zui²zo⁵)	tank	100
 水櫃 (zui²guiⁿ⁷)	tank	100
 水斗 (zui²dao²)	tank	100
+淈 (kud⁴)	tank	100
 道臺 (dao⁶tai⁵)	tao-tai	100
 拍門 (pah⁴mng⁵)	tap-at-door	100
 搭 (dah⁴)	tap-to	100
@@ -30636,6 +31289,7 @@ ku¹kêg⁴ i¹gai⁵sêⁿ³ loh⁸	tame-to	50
 完工 (uan⁵gang¹)	task-to-finish	100
 紅纓 (ang⁵êng¹)	tassel-of-cap	100
 一纓 (zêg⁸pao¹êng¹)	tassel-of-cap	100
+四頂纓帽 (si³ dêng² êng¹ bho⁷)	Tasseld-caps	100
 味 (bhi⁷)	taste	100
 味素 (bhi⁷sou³)	taste	100
 氣味 (ki³bhi⁷)	taste	100
@@ -30652,6 +31306,7 @@ ku¹kêg⁴ i¹gai⁵sêⁿ³ loh⁸	tame-to	50
 試 (ci³)	taste-to-try	100
 無味 (bho⁵bhi⁷)	tasteless	100
 白䭕無味 (bêh⁸ziaⁿ²bho⁵bhi⁷)	tasteless	100
+嚐 (siêⁿ⁵)	tasting	100
 衣衫襤褸 (i¹saⁿ¹ lam⁵lu²)	tattered	100
 破 (pua³)	tattered	100
 破碎 (pua³cui³)	tattered	100
@@ -30684,10 +31339,12 @@ ku¹kêg⁴ i¹gai⁵sêⁿ³ loh⁸	tame-to	50
 納糧 (nab⁸niêⁿ⁵)	tax-to-pay	100
 完糧 (uan⁵niêⁿ⁵)	tax-to-pay	100
 茶 (dê⁵)	tea	100
+茶盤 (dê⁵ buaⁿ⁵)	tea-board	100
 一箱茶 (zêg⁸siêⁿ¹dê⁵)	tea-box-of	100
 錫罐 (siah⁴guan³)	tea-canister	100
 茶米罐 (dê⁵bhi²guan³)	tea-canister	100
 蓋甌 (gai³ao¹)	tea-cup	100
+茶鐘 (dê⁵ zêng¹)	tea-cup	100
 茶甌 (dê⁵ao¹)	tea-cup	100
 茶盅 (dê⁵zêng¹)	tea-cup	100
 茶杯 (dê⁵buê¹)	tea-cup	100
@@ -30699,9 +31356,11 @@ ku¹kêg⁴ i¹gai⁵sêⁿ³ loh⁸	tame-to	50
 him³dê⁵	tea-infuse-in-covered-cup	50
 請茶 (ciaⁿ²dê⁵)	tea-invite-one-to-take	100
 茶鍋 (dê⁵uê¹)	tea-kettle	100
+茶米 (dê⁵ bhi²)	tea-leaf	100
 茶米 (dê⁵bhi²)	tea-leaves	100
 茶葉 (dê⁵hiêh⁸)	tea-leaves	100
 冲罐 (cong¹guan³)	tea-pot	100
+茶罐 (dê⁵ guan³)	tea-pot	100
 茶罐 (dê⁵guan³)	tea-pot	100
 司茶 (sai¹dê⁵)	tea-pour-out	100
 茶船 (dê⁵zun⁵)	tea-saucer	100
@@ -30739,6 +31398,7 @@ him³dê⁵	tea-infuse-in-covered-cup	50
 老師 (lao²se¹)	teach-teacher	100
 先生 (sin¹sêⁿ¹)	teach-teacher	100
 師 (se¹)	teach-teacher	100
+先生 (sin¹ sêⁿ¹)	teacher	100
 先生 (sin¹sêⁿ¹)	teacher	100
 li³	tear	50
 攦 (li³)	tear	100
@@ -30747,6 +31407,8 @@ li³	tear	50
 破 (pua³)	tear	100
 破裂 (pua³lih⁸)	tear	100
 剃 (ti³)	tear	100
+破皮 (po³ puê⁵)	tear-the-flesh	100
+目汁 (mag⁸ zab⁴)	tears	100
 目汁 (mag⁸zab⁴)	tears	100
 目淚 (mag⁸lui⁶)	tears	100
 流目汁 (lao⁵mag⁸zab⁴)	tears-to-shed	100
@@ -30813,10 +31475,12 @@ de⁵	tease-annoy	50
 風颱 (huang¹tai¹)	tempest	100
 狂風猛雨 (kuang⁵huang¹ mêⁿ²hou⁶)	tempest	100
 庵 (am¹)	temple	100
+廟 (bhiê⁷)	temple	100
 廟堂 (bhiê⁷dng⁵)	temple	100
 宮 (gêng¹)	temple	100
 宮廟 (gêng¹bhiê⁷)	temple	100
 老爺宮 (lao⁶ia⁵gêng¹)	temple	100
+鬢邊 (bin³ biⁿ¹)	temple	100
 殿堂 (doiⁿ⁷dng⁵)	temple	100
 祠堂 (se⁵dng⁵)	temple-ancestral	100
 寺 (ri⁷)	temple-Confucian	100
@@ -30912,6 +31576,24 @@ siê¹lun¹ siê¹lun¹	tepid	50
 證言 (zêng³ngan⁵)	testimony	100
 指證 (zi²zêng³)	testimony	100
 干證 (gan¹zêng³)	testimony	100
+十七 (zab⁸ cid⁴)	th	100
+十一 (zab⁸ id⁴)	th	100
+十九 (zab⁸ gao²)	th	100
+初十 (cu¹ zab⁸)	th	100
+初七 (cu¹ cid⁴)	th	100
+初九 (cu¹ gao²)	th	100
+初六 (cu¹ lag⁸)	th	100
+初八 (cu¹ boih⁴)	th	100
+初四 (cu¹ si³)	th	100
+三十 (saⁿ¹ zab⁸)	th	100
+第十 (doiⁿ⁶ zab⁸)	th	100
+第七 (doiⁿ⁶ cid⁴)	th	100
+第九 (doiⁿ⁶ gao²)	th	100
+第六 (doiⁿ⁶ lag⁸)	th	100
+第八 (doiⁿ⁶ boih⁴)	th	100
+第四 (doiⁿ⁶ si³)	th	100
+十一月 (zab⁸ id⁴ ghuêh⁸)	th-month-Dec	100
+十月 (zab⁸ ghuêh⁸)	th-month-Nov	100
 㩼過 (zoi⁷guê³)	than-more	100
 還敬家 (huan⁵gêng³gê¹)	than-more	100
 還了家 (huan⁵liau²gê¹)	than-more	100
@@ -31027,6 +31709,7 @@ siê¹lun¹ siê¹lun¹	tepid	50
 在許骹頭 (do⁶he² ka¹tao⁵)	there	100
 在許塊 (do⁶he²go³)	there	100
 在許爿 (do⁶he²boiⁿ⁵)	there	100
+星有㩼在 (zêⁿ¹,u⁶ zoi⁷ zai⁶)	there-are-many-stars	100
 有五個定定 (u⁶ ngou⁶gai⁵ diaⁿ⁷diaⁿ⁷)	there-are-only-five	100
 有 (u⁶)	there-there-are	100
 無 (bho⁵)	there-there-are-not	100
@@ -31053,6 +31736,7 @@ he²ziaⁿ³ gai⁵nang⁵	they	50
 伊 (i¹)	they	100
 𪜶 (in¹)	they	100
 薟過胡椒 (hiam¹guê³ hou⁵ziê¹)	they-are-hotter-than-pepper	100
+伊是厝邊人 (i¹ si⁶,cu³biⁿ¹ nang⁵)	they-are-neighbors	100
 是趣味在 (si⁶ cu³bhi⁷ zai⁶)	they-are-very-funny-indeed	100
 因到了 (in¹ gao³lo⁷)	they-have-arrived	100
 因未去 (in¹ bhuê⁷ ke³)	they-have-not-gone	100
@@ -31068,6 +31752,9 @@ ged⁸	thick-consistency	50
 賊馬 (cad⁸bhê²)	thief	100
 賊囝 (zad⁸giaⁿ²)	thief-thievish	100
 鼠賊 (ce²cad⁸)	thief-thievish	100
+賊囝 (cad⁸ giaⁿ²)	thieves	100
+三隻手 (saⁿ¹ ziah⁴ ciu²)	thievish-hand	100
+骹大腿 (ka¹ dua⁷ tui²)	thigh	100
 骹腿 (ka¹tui²)	thigh	100
 腿 (tui²)	thigh	100
 腿頭 (tui²tao⁵)	thigh	100
@@ -31099,6 +31786,7 @@ ga³	thin-as-paste-congee	50
 拍算 (pah⁴sng³)	think	100
 pêⁿ¹pah⁴	think	50
 想 (siêⁿ⁶)	think	100
+心想 (sim¹ siêⁿ⁶)	think	100
 思念 (se¹liam⁶)	think	100
 思想 (se¹siêⁿ⁶)	think	100
 gao⁵giê³	think-erroneously	50
@@ -31129,11 +31817,14 @@ ua² gao⁵giê³	think-I-thought-erroneously	50
 此個 (zia²)	this	100
 者個 (zia²gai⁵)	this	100
 此隻船好駛 (zi²ziah⁴zun⁵ ho²sai²)	this-boat-sails-well	100
+此布有㴷 (zi² bou³,u⁶ dam⁵)	this-cloth-is-wet	100
 現日 (hin⁷rid⁸)	this-day	100
 今旦日 (giaⁿ²rid⁸)	this-day	100
 今日 (gim¹rid⁸)	this-day	100
 本日 (bng²rid⁸)	this-day	100
+此雞無熟 (zi² goi¹ bho⁵ sêg⁸)	this-fowl-is-not-done	100
 此個稍大 (zi²gai⁵ iou²dua⁷)	this-is-a-little-larger	100
+此無用 (zi² bho⁵ êng⁷)	this-is-good-for-nothing	100
 此個敬長過彼個 (zi²gai⁵ gêng³dng⁵ guê³ he²gai⁵)	this-is-longer-than-that	100
 此個是我个 (zi²gai⁵ si⁶ ua²gai⁵)	this-is-mine	100
 此毋是 (zia² m⁷si⁶)	this-is-not-it	100
@@ -31151,6 +31842,7 @@ ua² gao⁵giê³	think-I-thought-erroneously	50
 此個賊是離經 (zi²gai⁵ cad⁸ si⁶ li⁵gêng¹)	this-thief-is-dangerous	100
 此年 (zi²niⁿ⁵)	this-year	100
 現年 (hin⁷niⁿ⁵)	this-year	100
+今年 (gim¹ ni⁵)	this-year	100
 今年 (gim¹niⁿ⁵)	this-year	100
 今年 (gin¹niⁿ⁵)	this-year	100
 本年 (bng²niⁿ⁵)	this-year	100
@@ -31189,6 +31881,7 @@ kud⁸tao⁵hang⁷	thoroughfare-no-a-blind-alley	50
 天天 (tiên¹tiên¹)	thought-thoughtless	100
 一千 (zêg⁸coiⁿ¹)	thousand	100
 千 (coiⁿ¹)	thousand	100
+一條線 (zêg⁸ diou⁵ suaⁿ³)	Thread	100
 線 (suaⁿ³)	thread	100
 金線 (gim¹suaⁿ³)	thread-gold	100
 絲線 (si¹suaⁿ³)	thread-silk	100
@@ -31201,6 +31894,7 @@ kud⁸tao⁵hang⁷	thoroughfare-no-a-blind-alley	50
 驚嚇 (giaⁿ¹hêh⁴)	threaten	100
 驚着人 (giaⁿ¹diêh⁸nang⁵)	threaten	100
 三 (saⁿ¹)	three	100
+叁 (saⁿ¹)	three	100
 三牲 (saⁿ¹sêⁿ¹)	three-kinds-of-offerings	100
 三角 (saⁿ¹gag⁴)	three-three-cornered	100
 三股索 (saⁿ¹gou²soh⁴)	three-three-ply-rope	100
@@ -31301,6 +31995,7 @@ daⁿ⁶	throw-to	50
 ge⁵	thrust-into	50
 手指頭 (ciu²zoiⁿ²tao⁵)	thumb	100
 指頭公 (zng²tao⁵gong¹)	thumb	100
+指頭公 (zoiⁿ² tao⁵gong¹)	thumb	100
 指頭公 (zoiⁿ²tao⁵gong¹)	thumb	100
 大指 (dua⁷zoiⁿ²)	thumb	100
 扳指 (ban¹zi²)	thumb-thumb-ring	100
@@ -31324,6 +32019,7 @@ cuaⁿ³	thump	50
 雷公响 (lui⁵gong¹ dan²)	thunder-roars	100
 雷公鏨 (lui⁵gong¹zam⁶)	thunder-thunder-bolt	100
 禮拜四 (loi²bai³si³)	Thursday	100
+拜四 (bai³ si³)	Thursday	100
 拜四 (bai³si³)	Thursday	100
 按此樣 (an³ziêⁿ³)	thus	100
 按此樣生 (an³ziêⁿ³sêⁿ¹)	thus	100
@@ -31346,6 +32042,7 @@ hui¹	ticket-pawn	50
 niouⁿ¹	tickle	50
 鳥閣當下 (niauⁿ¹ goh⁴dang¹ê⁶)	tickle-ones-side	100
 流水 (lao⁵zui²)	tide	100
+潮 (diê⁵)	tide	100
 潮水 (diê⁵zui²)	tide	100
 逆流 (ngêg⁸lao⁵)	tide-adverse	100
 têⁿ⁵lao⁵	tide-adverse	50
@@ -31359,6 +32056,7 @@ têⁿ⁵lao⁵	tide-adverse	50
 流水飽 (lao⁵zui² ba²)	tide-full	100
 流水漲 (lao⁵zui² diⁿ⁶)	tide-full	100
 趕流水 (guaⁿ²lao⁵zui²)	tide-go-with	100
+水猛在 (zui² mê² zai⁶)	tide-is-very-strong	100
 小流水 (siê²lao⁵zui²)	tide-neap-tide	100
 du¹lao⁵	tide-sail-against	50
 大流水 (dua⁷lao⁵zui²)	tide-spring-tide	100
@@ -31400,6 +32098,7 @@ dui²an⁵an⁵	tight-to-draw	50
 瓦筒 (hia⁶dang⁵)	tile-semi-cylindrical	100
 瓦筒 (hia⁶tang⁵)	tile-semi-cylindrical	100
 天通瓦 (tiⁿ¹tang³hia⁶)	tile-with-hole-for-skylight	100
+三塊瓦 (saⁿ¹ go³ hia⁶)	Tiles	100
 磚 (zng¹)	tiles-floor	100
 厝瓦 (cu³hia⁶)	tiles-roof	100
 至 (zi³)	till-till-until	100
@@ -31471,6 +32170,7 @@ dua⁶bêⁿ⁵	tiller-of-boat	50
 驚生驚死 (giaⁿ¹sêⁿ¹ giaⁿ¹si²)	timid	100
 貪生怕死 (tam¹sêⁿ¹ paⁿ³si²)	timid	100
 畏頭畏尾 (ui³tao⁵ ui³bhuê²)	timid	100
+白鐵 (bêh⁸ tih⁴)	tin	100
 白鐵 (bêh⁸tih⁴)	tin	100
 錫 (siah⁴)	tin-pewter	100
 錫薄 (siah⁴boh⁸)	tin-tin-foil	100
@@ -31530,7 +32230,17 @@ lêng³ki²ka¹ kia⁶	tip-to-stand-on-tiptoe	50
 冊標 (cêh⁴piau¹)	title-title-page	100
 標頭 (piau¹tao⁵)	title-title-page	100
 封爵 (hong¹ziag⁴)	title-to-confer	100
+卯 (bhao²)	to	100
+未 (bhi⁷)	to	100
+巳 (zi⁶)	to	100
+亥 (hai⁶)	to	100
+寅 (in⁵)	to	100
+酉 (iu²)	to	100
 到 (gao³)	to	100
+申 (sin¹)	to	100
+辰 (sin⁵)	to	100
+戌 (sud⁴)	to	100
+丑 (tiu²)	to	100
 夜昏囝 (mêⁿ⁵hng¹giaⁿ²)	to-night-early	100
 今夜 (gê¹mêⁿ⁵)	to-night-rather-late	100
 蛤婆 (gab⁴bo⁵)	toad	100
@@ -31555,6 +32265,7 @@ lêng³ki²ka¹ kia⁶	tip-to-stand-on-tiptoe	50
 骹趾 (ka¹zoiⁿ²)	toe	100
 骹趾頭公 (ka¹zng²tao⁵gong¹)	toe-the-big	100
 骹趾頭 (ka¹zoiⁿ²tao⁵)	toe-the-big	100
+骹趾 (ka¹ zi²)	toes	100
 骹趾 (ka¹zoiⁿ²)	toes	100
 做包 (zo³bu⁵)	together	100
 共 (gang⁷)	together	100
@@ -31601,6 +32312,7 @@ lêng³ki²ka¹ kia⁶	tip-to-stand-on-tiptoe	50
 墳墓 (pun⁵moⁿ⁶)	tomb	100
 山 (suaⁿ¹)	tomb	100
 明旦起 (maⁿ³ki²)	tomorrow	100
+明早 (mê⁵ za²)	tomorrow	100
 明日 (mêng⁵rid⁸)	tomorrow	100
 明早 (muaⁿ³za²)	tomorrow	100
 明起 (muaⁿ³ki²)	tomorrow	100
@@ -31727,6 +32439,7 @@ niaⁿ³	towards	50
 布 (bou³)	towel	100
 浴布 (êg⁸bou³)	towel-for-bath	100
 面布 (min⁷bou³)	towel-for-the-face	100
+七條面巾 (cid⁴ diou⁵ min⁷ gen¹)	Towels	100
 望樓 (moⁿ⁷lao⁵)	tower	100
 塔 (tah⁴)	tower	100
 埔 (bou¹)	town	100
@@ -31890,6 +32603,7 @@ sêng¹tiau¹	transfer-as-burden-or-responsibility	50
 庫房 (kou³bang⁵)	treasure-house	100
 銀庫 (ngen⁵kou³)	treasure-house	100
 銀房 (ngen⁵bang⁵)	treasure-house	100
+庫 (kou³)	treasury	100
 庫房 (kou³bang⁵)	treasury	100
 銀庫 (ngen⁵kou³)	treasury	100
 輕待 (kin¹tai⁶)	treat-ill	100
@@ -31901,6 +32615,7 @@ sêng¹tiau¹	transfer-as-burden-or-responsibility	50
 厚待 (gao⁶tai⁶)	treat-well	100
 和約 (hua⁵iêh⁴)	treaty	100
 約 (iêh⁴)	treaty	100
+盟約 (mêng⁵ iêh⁴)	treaty	100
 條約 (diau⁵iêh⁴)	treaty	100
 約條 (iêh⁴diau⁵)	treaty-the-terms-of	100
 議約 (ngi²iêh⁴)	treaty-to-discuss	100
@@ -31966,6 +32681,7 @@ giaⁿ⁵gao³kiu⁷	tremble-with-fear	50
 小可事 (siê²kua²se⁷)	trifling-affair	100
 鳥囝 (ziau²giaⁿ²)	trigger	100
 繃鳥囝 (bêⁿ¹ziau²giaⁿ²)	trigger-to-pull	100
+截冊 (zoih⁸ cêh⁴)	trim-books	100
 揭燈 (giah⁴dêng¹)	trim-to-a-lamp	100
 挑燈 (tiê¹dêng¹)	trim-to-a-lamp	100
 三位一體 (saⁿ¹ui⁷ zêg⁸toi²)	trinity	100
@@ -32044,6 +32760,8 @@ gag⁴dang⁵	trumpet	50
 bun⁵bu¹	trumpet-conch	50
 嘀嗒 (di¹da⁵)	trumpet-conch	100
 歕 (bun⁵)	trumpet-to-blow	100
+一骹箱 (zêg⁸ ka¹ siêⁿ¹)	Trunk	100
+樹身 (ciu⁷ sin¹)	trunk	100
 箱 (siêⁿ¹)	trunk	100
 皮箱 (puê⁵siêⁿ¹)	trunk-leathern	100
 樹身 (ciu⁷sin¹)	trunk-of-a-tree	100
@@ -32071,6 +32789,7 @@ bun⁵bu¹	trumpet-conch	50
 好相信 (ho²siang¹sin³)	trust-trustworthy	100
 可信 (ko²sin³)	trust-trustworthy	100
 妥當 (to²dang³)	trust-trustworthy	100
+真實 (zin¹ sid⁸)	truth	100
 實話呾 (sid⁸uê⁷ daⁿ³)	truth-speak	100
 呾實話 (daⁿ³sid⁸uê⁷)	truth-to-speak	100
 正道 (ziaⁿ³dao⁶)	truth-true-doctrine	100
@@ -32125,15 +32844,18 @@ riang²gi⁵ga¹	tumult	50
 地道 (di⁷dao⁶)	tunnel-also-pitfall	100
 地底个路 (di⁷doi² gai⁵lou⁷)	tunnel-also-pitfall	100
 山洞 (suaⁿ¹dang⁷)	tunnel-cave	100
+頭布 (tao⁵ bou³)	turban	100
 頭布 (tao⁵bou³)	turban	100
 權頭布 (kuan⁵tao⁵bou³)	turban-to-put-on	100
 盤頭布 (puan⁵tao⁵bou³)	turban-to-put-on	100
+四條頭布 (si³ diou⁵ tao⁵ bou³)	Turbans	100
 潦 (lo⁵)	turbid	100
 垃圾 (nah⁴sab⁴)	turbid	100
 躁急 (cao³gib⁴)	turbulent	100
 暴躁性 (bao⁶cao³sêⁿ³)	turbulent	100
 浮躁 (pu⁵cao³)	turbulent	100
 草𠱀 (cao²puêh⁸)	turf	100
+火鷄 (huê² goi¹)	turkey	100
 火雞 (huê²goi¹)	turkey	100
 土耳其 (tou²re²ki⁵)	turkey	100
 薑黃 (giêⁿ¹ng⁵)	turmeric	100
@@ -32184,6 +32906,7 @@ huiⁿ²	turn-revolve	50
 反過來反過去 (huan¹guê³lai⁵ huan¹guê³ke³)	turn-round-in-bed	100
 huan¹lai⁵ kah⁴ke³	turn-round-in-bed	50
 翻身 (huan¹sin¹)	turn-round-in-bed	100
+回頭 (huê⁵ tao⁵)	turn-round-the-head	100
 回頭 (huê⁵tao⁵)	turn-the-head	100
 斡轉頭 (ud⁴dng²tao⁵)	turn-the-head	100
 夗歪 (ud⁸cua²)	turn-the-head	100
@@ -32202,6 +32925,7 @@ niaⁿ³	turn-towards	50
 顛倒倒 (din¹do³dao²)	turn-upside-down	100
 倒頭倒 (din³do³tao⁵dao²)	turn-upside-down	100
 輪着底誰 (lun⁵diêh⁸di⁵diang⁵)	turn-whose	100
+菜頭 (cai³ tao⁵)	turnip	100
 菜頭 (cai³tao⁵)	turnip	100
 菜脯 (cai³bou²)	turnips-salted	100
 禁子 (gim³zi²)	turnkey	100
@@ -32211,6 +32935,7 @@ niaⁿ³	turn-towards	50
 疊樓 (tah⁸lao⁵)	turret	100
 魴龜 (hang¹gu¹)	turtle	100
 骹魚 (ka¹he⁵)	turtle	100
+龜 (gu¹)	turtle	100
 鱉 (bih⁴)	turtle	100
 咕咕 (gu⁶gu¹)	turtledove	100
 斑鳩 (ban¹kiu¹)	turtledove	100
@@ -32260,6 +32985,7 @@ dua⁶	twine-twine-about	50
 一目眲久 (zêg⁸mag⁸nihⁿ¹gu²)	twinkle-in-a-twinkling	100
 目眲 (mag⁸ nihⁿ¹)	twinkle-of-the-eye	100
 𥍉目 (nihⁿ¹mag⁸)	twinkle-of-the-eye	100
+雙生 (sang¹ sêⁿ¹)	twins	100
 雙生 (sang¹sêⁿ¹)	twins	100
 徛一隻骹夗來夗去 (kia⁶ zêg⁸ziah⁴ka¹ ud⁸lai⁵ ud⁸ke³)	twirl-round-on-one-leg	100
 挈在飛 (kiêh⁸do⁶hui¹)	twirl-to-round	100
@@ -32278,6 +33004,7 @@ dua⁶	twine-twine-about	50
 gi¹gu¹lu⁶giê³	twittering	50
 gih⁴giauh⁴giê³	twittering	50
 兩 (liang²)	two	100
+貳 (no⁶)	two	100
 兩 (noⁿ⁶)	two	100
 雙 (sang¹)	two	100
 劍 (giam³)	two-a-two-edged-sword	100
@@ -32453,13 +33180,16 @@ bho⁵cam³zab⁸	unadulterated	50
 無仁愛 (bho⁵rin⁵ai³)	uncharitable	100
 無人情 (bho⁵nang⁵cêng⁵)	uncharitable	100
 ko²kêg⁴	uncharitable	50
+叔 (zêg⁴)	uncle	100
 阿丈 (a¹diêⁿ⁶)	uncle-aunts-husband	100
 母舅 (bho²gu⁶)	uncle-maternal	100
+阿伯 (a¹ bêh⁴)	uncle-paternal	100
 阿伯 (a¹bêh⁴)	uncle-paternal-older-than-father	100
 阿叔 (a¹zêg⁴)	uncle-paternal-younger-c	100
 邪鬼 (sia⁵gui²)	unclean-spirit	100
 邪魅 (sia⁵muêⁿ⁶)	unclean-spirit	100
 邪神 (sia⁵sin⁵)	unclean-spirit	100
+阿嬸 (a¹ sim²)	uncles-wife	100
 垢穢 (gao⁶uêh⁸)	uncomfortable	100
 毋寬活 (m⁷kuaⁿ³uah⁸)	uncomfortable	100
 毋爽快 (m⁷song²kuai³)	uncomfortable	100
@@ -32866,6 +33596,7 @@ gou¹bhao⁷	unsociable	50
 在面上 (do⁶min⁷ziêⁿ⁷)	upon	100
 在頂 (do⁶dêng²)	upon	100
 在頂面 (do⁶dêng²min⁷)	upon	100
+架頂 (gê³ dêng²)	upon-the-shelf	100
 頂个 (dêng²gai⁵)	upper	100
 頂位 (dêng²ui⁷)	upper-seat	100
 大位 (dua⁷ui⁷)	upper-seat	100
@@ -32877,6 +33608,7 @@ gou¹bhao⁷	unsociable	50
 放直 (bang³did⁸)	upright-to-place-a-thing	100
 sai²kia⁶	upright-to-place-a-thing	50
 直徛 (did⁸kia⁶)	upright-to-place-a-thing	100
+誠實 (sêng⁵ sid⁸)	uprightness	100
 吵嚷 (cao³riang²)	uproar	100
 吵鬧 (cao³naoⁿ⁶)	uproar	100
 推掉 (lêng²diau⁷)	upset	100
@@ -33038,6 +33770,7 @@ sai²kia⁶	upright-to-place-a-thing	50
 敢 (gaⁿ²)	valiant-valour	100
 果敢 (guaⁿ²gaⁿ²)	valiant-valour	100
 深坑 (cim¹kêⁿ¹)	valley	100
+坑 (kêⁿ¹)	valley	100
 山空 (suaⁿ¹kang¹)	valley	100
 山谷 (suaⁿ¹gog⁴)	valley	100
 山谷落 (suaⁿ¹gog⁴log⁴)	valley	100
@@ -33059,6 +33792,7 @@ sai²kia⁶	upright-to-place-a-thing	50
 定風針 (diaⁿ⁷huang¹zam¹)	vane-wind	100
 規做無 (gui¹zo³bho⁵)	vanish	100
 升空 (sêng¹kong¹)	vanish-into-the-sky	100
+好名 (hao² miaⁿ⁵)	vanity	100
 氣 (ki³)	vapour	100
 雲霧 (hun⁵bhu⁷)	vapour-cloudy	100
 煙霧 (in¹bhu⁷)	vapour-cloudy	100
@@ -33152,6 +33886,7 @@ lab⁴dag⁸	venereal-disease	50
 金星 (gim¹cêⁿ¹)	venus-the-planet	100
 馬樓 (bhê²lao⁵)	verandah	100
 走馬樓 (zao²bhê²lao⁵)	verandah	100
+廊 (lang⁵)	verandah	100
 廊下 (lang⁵ê⁶)	verandah	100
 走馬樓 (zao²bhê²lao⁵)	verandah-up-stairs	100
 活字 (uah⁸ri⁷)	verb	100
@@ -33166,6 +33901,7 @@ lab⁴dag⁸	venereal-disease	50
 囉嗦 (lo¹so¹)	verbose	100
 麵線話 (miⁿ⁷suaⁿ³uê⁷)	verbose	100
 多言 (do¹ngan⁵)	verbose	100
+活字 (uah⁸ ri⁷)	verbs	100
 公判 (gong¹puan³)	verdict	100
 批判 (poi¹puan³)	verdict	100
 銅青 (dang⁵cêⁿ¹)	verdigris	100
@@ -33209,6 +33945,7 @@ lab⁴dag⁸	venereal-disease	50
 大毋同 (dua⁷m⁷dang⁵)	very-different	100
 早早 (za²za²)	very-early	100
 最要 (zuê³iau³)	very-important	100
+㩼在 (zoi⁷ zai⁶)	very-many	100
 甚㩼 (sim⁶zoi⁷)	very-many	100
 煩惱在 (huan⁵lo²zai⁶)	very-sorry	100
 堵堵彼一日 (du²du² he²zêg⁸rid⁸)	very-that-very-day	100
@@ -33218,6 +33955,7 @@ lab⁴dag⁸	venereal-disease	50
 器具 (ki³gu⁶)	vessel	100
 一隻船 (zêg⁸ziah⁴zun⁵)	vessel-ship	100
 船 (zun⁵)	vessel-ship	100
+袷囝 (gah⁴ giaⁿ²)	vest	100
 袷囝 (gah⁴giaⁿ²)	vest	100
 答背 (dah⁴buê³)	vest	100
 痕跡 (hun⁵ziah⁴)	vestige	100
@@ -33239,6 +33977,7 @@ lab⁴dag⁸	venereal-disease	50
 憂鬱 (iu¹ud⁴)	vex-vexed	100
 苦心 (kou²sim¹)	vex-vexed	100
 鬱結 (ud⁴gag⁴)	vex-vexed	100
+六 (lag⁸)	VI	100
 玻璃罐 (bo¹li⁵guan³)	vial	100
 細个玻璃樽 (soi³ gai⁵bo¹li⁵zun¹)	vial	100
 sih⁴	vibrate-to-vibrate	50
@@ -33258,6 +33997,7 @@ dun³	vibrate-to-vibrate	50
 相連 (siang¹liên⁵)	vicinity	100
 ao³nang⁵	vicious-man	50
 人歹 (nang⁵dai²)	vicious-man	100
+痞人 (pai² nang⁵)	vicious-man	100
 痞人 (paiⁿ²nang⁵)	vicious-man	100
 戰贏 (ziên³iaⁿ⁵)	victory	100
 戰勝 (ziên³sêng³)	victory	100
@@ -33291,6 +34031,8 @@ ao³nang⁵	vicious-man	50
 有精力 (u⁶zêng¹lad⁸)	vigorous	100
 有精神 (u⁶zêng¹sin⁵)	vigorous	100
 有氣力 (u⁶ki³lad⁸)	vigorous	100
+七 (cid⁴)	VII	100
+八 (boih⁴)	VIII	100
 醜惡 (ciu²ag⁴)	vile-hi-tsa	100
 小人 (siau²rin⁵)	vile-person	100
 誹謗 (huiⁿ²bang⁶)	vilify	100
@@ -33301,6 +34043,7 @@ bu³lu⁶	vilify	50
 鄉寨 (hiêⁿ¹zê⁷)	village	100
 鄉村 (hiêⁿ¹cng¹)	village	100
 鄉里 (hiêⁿ¹li²)	village	100
+縣 (guiⁿ⁷)	village	100
 鄉老 (hiêⁿ¹lao²)	village-headmen	100
 鄉紳 (hiêⁿ¹sin¹)	village-headmen	100
 約正 (iêh⁴ziaⁿ³)	village-headmen	100
@@ -33324,6 +34067,7 @@ bu³lu⁶	vilify	50
 葡萄樹 (pu⁵to⁵ciu⁷)	vine	100
 葡萄園 (pu⁵to⁵hng⁵)	vine-vineyard	100
 醋 (cou³)	vinegar	100
+醋 (cu³)	vinegar	100
 酸醋 (sng¹cou³)	vinegar	100
 強姦 (kiang⁵gan¹)	violate-a-woman	100
 犯約 (huam⁶iêh⁴)	violate-an-engagement	100
@@ -33365,6 +34109,7 @@ bu³lu⁶	vilify	50
 信 (sin³)	virtue-the-five-virtues	100
 智 (di³)	virtue-the-five-virtues	100
 德行 (dêg⁴hêng⁶)	virtue-virtuous-conduct	100
+善人 (siên⁶ nang⁵)	virtuous-man	100
 惡毒 (ag⁴dag⁸)	virulent	100
 毒 (dag⁸)	virulent	100
 容貌 (iong⁵maoⁿ⁶)	visage	100
@@ -33469,6 +34214,7 @@ siê⁵sun⁵	visit	50
 土談 (tou²tam⁵)	vulgar-dialect	100
 土土 (tou²tou²)	vulgar-language	100
 粗話 (cou¹uê⁷)	vulgar-language-vile	100
+死人鳥 (si² nang⁵ ziou²)	vulture	100
 棉 (miⁿ⁵)	wadding	100
 棉花 (miⁿ⁵huê¹)	wadding	100
 入棉 (rib⁸miⁿ⁵)	wadding-to-put-in-wadding	100
@@ -33637,6 +34383,8 @@ kiau¹sia⁵	warp-to-warp-as-boards	50
 洗 (soi²)	wash	100
 洗衫人 (soiⁿ²saⁿ¹nang⁵)	wash-a-washerman	100
 面盆 (min⁷pun⁵)	wash-basin	100
+面盆 (min⁷ pun⁵)	wash-bowl	100
+面盆架 (min⁷ pun⁵ gê³)	wash-stand	100
 洗鐵 (soi²tih⁴)	wash-to-wash-iron-dust	100
 鐵沙 (dua⁵tih⁴sua¹)	wash-to-wash-iron-dust	100
 ze²gim¹	wash-to-wash-with-gold	50
@@ -33663,12 +34411,15 @@ dag⁴nng⁷diau⁷ si⁵hao⁷	waste-time	50
 虛費 (he¹hui³)	waste-to	100
 dag⁴nng⁷	waste-to	50
 pah⁴pun²êng⁷	waste-to-use-wastefully	50
+庵 (am¹)	wat	100
+時辰錶 (si⁵ sin⁵ biê¹)	watch	100
 時鏢 (si⁵biê¹)	watch	100
 時錶 (si⁵biê¹)	watch	100
 巡防 (sun⁵huang⁵)	watch-as-sentry	100
 更 (gêⁿ¹)	watch-of-the-night	100
 更鼓 (gêⁿ¹gou²)	watch-of-the-night	100
 更點 (gêⁿ¹diam²)	watch-of-the-night	100
+掌船 (ziêⁿ² zun⁵)	watch-the-boat	100
 安更 (an¹gêⁿ¹)	watch-the-first	100
 掌 (ziêⁿ²)	watch-to	100
 守 (siu²)	watch-to	100
@@ -33688,6 +34439,9 @@ pah⁴pun²êng⁷	waste-to-use-wastefully	50
 海个水 (hai² gai⁵zui²)	water-of-the-sea	100
 海水 (hai²zui²)	water-of-the-sea	100
 海底个水 (hai²doi² gai⁵zui²)	water-of-the-sea	100
+四骹水桶 (si³ ka¹ zui² tang²)	Water-pails	100
+水摜 (zui² guaⁿ⁶)	water-pot	100
+水碟 (zui² dih⁸)	water-stand	100
 沃 (ag⁴)	water-to	100
 沃水 (ag⁴zui²)	water-to	100
 沃水 (ag⁴zui²)	water-to-water	100
@@ -33709,6 +34463,7 @@ ga³ga³	water-watery	50
 long²long²	water-watery	50
 生水 (sêⁿ¹zui²)	water-watery	100
 㴷㴷漉漉淖 (dam⁵dam⁵ log⁴log⁴ciêh⁴)	water-watery	100
+西瓜 (si¹ guê¹)	watermelon	100
 淖淖 (ciêh⁴ciêh⁴)	watery	100
 竹柵 (dêg⁴zah⁸)	wattles	100
 竹圍 (dêg⁴ui⁵)	wattles	100
@@ -33831,6 +34586,7 @@ bai⁵ciêⁿ¹	weapon	50
 支緊 (ziⁿ¹gin²)	wedge-to-wedge	100
 支細 (ziⁿ¹soih⁴)	wedge-to-wedge	100
 禮拜三 (loi²bai³saⁿ¹)	Wednesday	100
+拜三 (bai³ saⁿ¹)	Wednesday	100
 拜三 (bai³saⁿ¹)	Wednesday	100
 草 (cao²)	weed	100
 白發个草 (bêh⁸huad⁴ gai⁵cao²)	weed	100
@@ -33838,6 +34594,7 @@ bai⁵ciêⁿ¹	weapon	50
 薅草 (kao¹cao²)	weed-to	100
 挽草 (man²cao²)	weed-to	100
 白發 (bêh⁸huad⁴)	weeds	100
+禮拜 (loi² bai³)	week	100
 一個禮拜 (zêg⁸gai⁵ loi²bai³)	week-one	100
 七日 (cid⁴rid⁸)	week-one	100
 哭 (kao³)	weep-to	100
@@ -33885,6 +34642,7 @@ pêⁿ¹pah⁴	weigh-a-matter	50
 爽快 (song²kuai³)	well-in-health	100
 調和 (tiau⁵hua⁵)	well-in-health	100
 安然 (uaⁿ¹riên⁵)	well-in-health	100
+井有深 (zêⁿ² u⁶ cim¹)	well-is-deep	100
 出名 (cud⁴miaⁿ⁵)	well-known	100
 顯名 (hiên²miaⁿ⁵)	well-known	100
 著名 (du³miaⁿ⁵)	well-known	100
@@ -33932,11 +34690,15 @@ dam⁵im⁶	wet-damp	50
 底個 (di⁵gai⁵)	what	100
 汝在批底個 (le² do⁶ poi¹ di⁵gai⁵?)	what-are-you-cutting	100
 伊在審是乜案 (i¹ do⁶ sim² si⁶mih⁴ uaⁿ³?)	what-case-is-he-trying	100
+汝欲甚物 (le² aiⁿ³ sim⁶ muêh⁸)	what-do-you-want	100
 汝愛底個 (le² aiⁿ³ di⁵gai⁵?)	what-do-you-want	100
 甕底貯底個 (ang³doi² co⁷ di⁵gai⁵?)	what-does-the-jar-contain	100
 底個 (di⁵gai⁵)	what-is-it	100
 此個是底個 (zi²gai⁵ si⁶ di⁵gai⁵?)	what-is-this	100
 今旦日底當時 (giaⁿ²rid⁸ diang¹si⁵?)	what-is-to-day	100
+有若㩼歲 (u⁶ riêh⁸ zoi⁷ huê³)	what-is-your-age	100
+汝是乜名 (le² si⁶ mi¹ miaⁿ⁵)	what-is-your-name	100
+汝欲加甚物 (le² aiⁿ³ gê¹ sim⁶ muêh⁸)	what-more-do-you-want	100
 汝有是乜毛病 (le² u⁶ si⁶mih⁸ maoⁿ⁵bêⁿ⁷?)	what-sickness-have-you	100
 因爲怎呢 (in¹ui⁶ zo³niⁿ⁵)	what-what-cause	100
 是乜緣故 (si⁶mih⁴ uan⁵gu³)	what-what-cause	100
@@ -33962,8 +34724,8 @@ dam⁵im⁶	wet-damp	50
 手車 (ciu²cia¹)	wheel-wheel-barrow	100
 輦車 (lêng²cia¹)	wheel-wheel-barrow	100
 喉頭塊塊叫 (ao⁵tao⁵ go⁷go⁷giê³)	wheeze	100
-嘿 (hê¹)	wheeze	100
-嘿聲 (hê¹siaⁿ¹)	wheeze	100
+嗄 (hê¹)	wheeze	100
+嗄聲 (hê¹siaⁿ¹)	wheeze	100
 叫 (hm⁷hm⁷giê³)	wheeze	100
 是乜時候 (si⁶mih⁴ si⁵hao⁷)	when	100
 底个時候 (di⁵gai⁵ si⁵hao⁷)	when	100
@@ -34015,6 +34777,7 @@ hiuⁿ¹hiuⁿ¹giê³	whimper	50
 叫 (hng¹hng¹giê³)	whimper	100
 叫 (hngh⁴hngh⁴giê³)	whimper	100
 馬鞭 (bhê²biⁿ¹)	whip	100
+鞭 (biⁿ¹)	whip	100
 鞭索 (biⁿ¹soh⁴)	whip-lash-of-whip	100
 蚊拂 (mang²buaⁿ⁶)	whip-mosquito-whip	100
 拂 (buaⁿ⁶)	whip-to	100
@@ -34041,6 +34804,7 @@ zui² ga²bun⁷	whirlpool	50
 白 (bêh⁸)	white	100
 白蟻 (bêh⁸hia⁶)	white-ants	100
 白布 (bêh⁸bou³)	white-cloth	100
+白銅 (bêh⁸ dang⁵)	white-copper	100
 卵清 (nng⁶cêng¹)	white-of-an-egg	100
 卵白 (nng⁶bêh⁸)	white-of-an-egg	100
 卵皮 (nng⁶puê⁵)	white-of-an-egg	100
@@ -34108,6 +34872,7 @@ ga¹nng⁵gai⁵	whole	50
 怎呢無呢 (zo³niⁿ⁵ bho⁵nê⁷?)	why-not	100
 何必此樣生 (ho⁵bid⁴ ziêⁿ³sêⁿ¹)	why-so	100
 彼個 (hia²)	why-so-why	100
+燈心 (dêng¹ sim¹)	wick	100
 燈心 (dêng¹sim¹)	wick	100
 燈心了囉 (dêng¹sim¹ liou²lo⁷)	wick-is-burnt-down	100
 惡 (ag⁴)	wicked	100
@@ -34115,6 +34880,7 @@ ga¹nng⁵gai⁵	whole	50
 痞 (pai²)	wicked	100
 痞 (paiⁿ²)	wicked	100
 邪 (sia⁵)	wicked	100
+惡人心無平安 (ag⁴ nang⁵ sim¹ bho⁵ pêng⁵ an¹)	wicked-have-no-peace	100
 藤籃 (din⁵naⁿ⁵)	wicker-basket	100
 藤盛 (din⁵siaⁿ⁷)	wicker-basket-with-divisions	100
 闊 (kuah⁴)	wide	100
@@ -34168,6 +34934,8 @@ ga¹nng⁵gai⁵	whole	50
 假頭毛 (gê²tao⁵moⁿ⁵)	wig	100
 野 (ia²)	wild	100
 野獸 (ia²siu³)	wild-beast	100
+獸 (siu³)	wild-beasts	100
+水鴨 (zui² ah⁴)	wild-duck	100
 水鳥 (zui²ziau²)	wild-fowl	100
 海鵝 (hai²gho⁵)	wild-goose	100
 自生 (ze⁶sêⁿ¹)	wild-growing-wild	100
@@ -34235,6 +35003,7 @@ huang¹ iau²siêh⁸	wind-wind-lighter	50
 窗屜 (têng¹tuah⁴)	window-a-sliding-one	100
 窗門 (têng¹mng⁵)	window-shutters	100
 têng¹zi²	window-stanchions	50
+汁 (zab⁴)	wine	100
 酒甌 (ziu²ao¹)	wine-cup	100
 酒鍾 (ziu²zêng¹)	wine-cup	100
 酒酌 (ziu²ziag⁴)	wine-cup	100
@@ -34276,6 +35045,7 @@ cng²sid⁸	wings-to-dress	50
 銅線 (dang⁵suaⁿ³)	wire	100
 鐵線 (tih⁴suaⁿ³)	wire	100
 賢 (ghao²)	wise	100
+賢 (ghao⁵)	wise	100
 賢 (hiên⁵)	wise	100
 高明 (gao¹mêng⁵)	wise	100
 有才學 (u⁶cai⁵hag⁸)	wise	100
@@ -34283,6 +35053,7 @@ cng²sid⁸	wings-to-dress	50
 有見識 (u⁶giên³sêg⁴)	wise	100
 有智慧 (u⁶di³hui⁶)	wise	100
 有智識 (u⁶di³sêg⁴)	wise	100
+賢人 (ghao⁵ nang⁵)	wise-man	100
 愛 (aiⁿ³)	wish	100
 歆羨 (him¹iên⁶)	wish	100
 一着 (id⁴diêh⁸)	wish	100
@@ -34380,6 +35151,7 @@ cng²sid⁸	wings-to-dress	50
 禍災 (hua⁶zai¹)	woe	100
 禍患 (hua⁶huam⁶)	woe	100
 窮苦 (kiong⁵kou²)	woe	100
+豺狼 (cai⁵ lang⁵)	wolf	100
 豺狼 (cai⁵lang⁵)	wolf	100
 阿媽人 (a¹ma²nang⁵)	woman	100
 諸娘 (ze¹niêⁿ⁵)	woman	100
@@ -34451,6 +35223,7 @@ cng²sid⁸	wings-to-dress	50
 搖櫓 (iê⁶lou²)	work-a-scull	100
 用工 (êng⁷gang¹)	work-at-work	100
 冒工 (maoⁿ⁶gang¹)	work-contract-for	100
+出力 (cud⁴ lad⁸)	work-fast	100
 精巧 (zêng¹ka²)	work-fine	100
 精工 (zêng¹gong¹)	work-fine	100
 幼工 (iuⁿ³gang¹)	work-fine	100
@@ -34488,6 +35261,7 @@ cib⁴tou⁵	work-to-work-clay	50
 塵世 (din⁵si³)	world-this-dusty-weary-world	100
 世務 (si³bhu⁶)	world-worldly-affairs	100
 世情 (si³cêng⁵)	world-worldly-affairs	100
+蚯蚓 (kiu¹ un²)	worm	100
 蟲 (tang⁵)	worm	100
 蚯厚蚓 (gao⁶un²)	worm-earth-worm	100
 冊魚 (cêh⁴he⁵)	worm-in-books	100
@@ -34537,6 +35311,7 @@ in⁵din⁵	wormwood	50
 毋中用 (m⁷dêng³êng⁷)	worthless	100
 小人 (siau²rin⁵)	worthless-fellow	100
 下等 (hia⁶dêng²)	worthless-of-people	100
+賢人 (hiên⁵ rin⁵)	worthy	100
 堪該 (kam¹gai¹)	worthy	100
 傷口 (siêⁿ¹kao²)	wound	100
 槍口 (ciêⁿ¹kao²)	wound-a-wound	100
@@ -34612,6 +35387,7 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 捘阿捘 (zun⁶a¹zun⁶)	writhe-to	100
 倦阿倦 (guan⁶a¹guan⁶)	writhe-to	100
 頭尾 (tao⁵hiⁿ³ bhuê²hiⁿ³)	writhe-to	100
+硯盤 (iⁿ⁷ buaⁿ⁵)	writing-tray	100
 走絀 (zao²zuah⁸)	wrong	100
 差錯 (ca¹co³)	wrong	100
 錯 (co³)	wrong	100
@@ -34632,6 +35408,15 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 歪 (cua²)	wry	100
 毋正 (m⁷ziaⁿ³)	wry	100
 大薯 (dua⁷ze⁵)	wry-yam	100
+十 (zab⁸)	X	100
+十一 (zab⁸ id⁴)	XI	100
+十三 (zab⁸ saⁿ¹)	XIII	100
+十四 (zab⁸ si³)	XIV	100
+十九 (zab⁸ gao²)	XIX	100
+十六 (zab⁸ lag⁸)	XVI	100
+十七 (zab⁸ cid⁴)	XVII	100
+十八 (zab⁸ boih⁴)	XVIII	100
+大薯 (dua⁷ ze⁵)	yam	100
 大薯 (dua⁷ze⁵)	yam	100
 衙門 (ghê⁵mng⁵)	yamen	100
 碼 (bha⁷)	yard	100
@@ -34641,10 +35426,12 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 一碼 (zêg⁸bhê²)	yard-yardmeasure	100
 棉紗 (miⁿ⁵sê¹)	yarn	100
 紗 (sê¹)	yarn	100
+呵呬 (huah⁴ hi³)	yawn	100
 伸輪 (cun¹lun⁵)	yawn-and-stretch	100
 呵呬 (huah⁴hi³)	yawn-to	100
 一年 (zêg⁸niⁿ⁵)	year	100
 周年 (ziu¹niⁿ⁵)	year	100
+年 (ni⁵)	year	100
 年 (niⁿ⁵)	year	100
 終年 (zong¹niⁿ⁵)	year-all-the-year	100
 通年 (tang³niⁿ⁵)	year-all-the-year	100
@@ -34673,6 +35460,7 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 赤 (ciah⁴)	yellow	100
 黃 (ng⁵)	yellow	100
 黃色 (ng⁵sêg⁴)	yellow	100
+黃河 (ng⁵ ho⁵)	yellow-river	100
 淺黃 (ciên²ng⁵)	yellow-yellowish	100
 是 (si⁶)	yes	100
 着 (diêh⁸)	yes	100
@@ -34707,6 +35495,7 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 卵仁 (nng⁶rin⁵)	yolk-of-egg	100
 向頭 (hiêⁿ³tao⁵)	yonder	100
 許塊 (he²go³)	yonder	100
+汝 (le²)	you	100
 恁是我个朋友 (nin² si⁶ ua² gai⁵ pêng⁵iu²)	you-are-my-friends	100
 汝在彼塊 (le² do⁶ he²go³)	you-are-there	100
 汝掠伊 (le² liah⁸i¹)	you-catch-him	100
@@ -34716,20 +35505,27 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 汝去 (le² ke³)	you-go	100
 汝去趭伊 (le² ke³riou⁷ i¹)	you-go-and-chase-him	100
 汝亦有 (le² ia⁷ u⁶)	you-have-got-it-too	100
+汝得罪 (le² did⁴ zuê⁶)	you-have-sinned	100
 汝無 (le² bho⁵)	you-havnt	100
+真理汝知了 (zin¹ li²,le² zai¹ liou²)	you-know-the-truth	100
 汝好去 (le² ho²ke³)	you-may-go	100
+現在汝能得救 (hiên⁷zai⁶ le² oi⁶ did⁴ giu³)	you-may-now-be-saved	100
 着早些 (diêh⁸ za²zê⁷)	you-must-be-early	100
 着選鮮个 (diêh⁸ suan² ciⁿ¹gai⁵)	you-must-choose-fresh-ones	100
+必定汝死 (bid⁴ diaⁿ⁷ le² si²)	you-must-die	100
 汝毋孬去 (le² m⁷moⁿ² ke³)	you-must-not-go	100
 着預夠 (diêh⁸ e⁶gao³)	you-must-prepare-enough	100
 汝免用來 (le² min²êng⁷ lai⁵)	you-need-not-come	100
+免用做 (miên² êng⁷ zo³)	you-need-not-do-it	100
 恁 (nin²)	you-plural	100
 恁來 (nin² lai⁵)	you-plural-come	100
 汝着認汝个毋着 (le² diêh⁸rin⁷ le² gai⁵ m⁷diêh⁸)	you-should-admit-your-fault	100
 恁毋孬詏 (nin² m⁷moⁿ² a³)	you-should-not-argue	100
 汝 (le²)	you-singular	100
+汝講較大聲 (le² gong² kah⁴ dua⁷ siaⁿ¹)	you-speak-too-loud	100
 請汝教我 (ciaⁿ² le² ga³ ua²)	you-teach-me-please	100
 貴姓 (gui³sêⁿ³)	you-what-is-your-surname	100
+汝寫較猛 (le² sia² kah⁴ mê²)	you-write-too-fast	100
 尊駕 (zun¹gê³)	you-you-Sir	100
 諸位 (zu¹ui⁷)	you-you-Sirs	100
 稚 (ziⁿ²)	young	100
@@ -34748,11 +35544,13 @@ cib⁸niauⁿ³	wrinkled-wrinkles	50
 阿嬸 (a¹sim²)	younger-paternal-uncles-wife	100
 汝个脈猛 (le² gai⁵ mehⁿ² mêⁿ²)	your-pulse-is-fast	100
 汝枝秤閃 (le² gi¹ cin³ siam²)	your-scale-is-not-correct	100
+汝有罪加加 (le² u⁶ zuê⁶ gê¹ gê¹)	your-sins-are-many	100
 恁个生理酷熱 (nin²gai⁵ sêng¹li² hoh⁴riêd⁸)	your-trade-is-pretty-brisk	100
 老爺 (lao⁶ia⁵)	your-Worship	100
 太爺 (tai³ia⁵)	your-Worship	100
 大人 (dai⁶rin⁵)	your-Worship-Excellency	100
 汝个毋是此樣生 (le²gai⁵ m⁷si⁶ ziêⁿ³sêⁿ¹)	yours-is-not-like-his	100
+發奮 (huad⁴ hun³)	zeal	100
 出力 (cud⁴lad⁸)	zealous	100
 發忿 (huad⁴hun²)	zealous	100
 熱心 (riêd⁸sim¹)	zealous	100

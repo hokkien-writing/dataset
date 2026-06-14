@@ -4,7 +4,7 @@
 schema:
   schema_id: hokkien_bp
   name: 福建話·拼音
-  version: "20260608.081749"
+  version: "20260614.165049"
   author:
     - Hokkien Writing Project(https://github.com/hokkien-writing)
   dependencies:

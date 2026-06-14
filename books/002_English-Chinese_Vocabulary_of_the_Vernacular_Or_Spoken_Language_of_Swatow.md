@@ -5929,7 +5929,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **geography**, tī-lí++(地理)++. *book on*, tī-lí-chì++(地理志)++; tī-lí-tsṳ++(地理書)++.
 
-**geomancy**, tĩ-lí++(地里)++; thóiⁿ-suaⁿ++(看山)++; tsáu-tī-lí++(走地里)++; kiâⁿ-tī-lí++(行地里)++; thóiⁿ-huang-tsúi++(看風水)++. *geomancer*, thóiⁿ-suaⁿ sin-seⁿ++(看山紳生)++; huang-tsúi sin-seⁿ++(風水先生)++.
+**geomancy**, tĩ-lí++(地理)++; thóiⁿ-suaⁿ++(看山)++; tsáu-tī-lí++(走地理)++; kiâⁿ-tī-lí++(行地理)++; thóiⁿ-huang-tsúi++(看風水)++. *geomancer*, thóiⁿ-suaⁿ sin-seⁿ++(看山先生)++; huang-tsúi sin-seⁿ++(風水先生)++.
 
 **geometry**, niêⁿ-tī-huap++(量地法)++.
 

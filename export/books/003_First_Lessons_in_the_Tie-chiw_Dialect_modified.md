@@ -1521,8 +1521,8 @@ aou | as ou in *plough, our, sour*. |
 |---|---|---|
 | Clothes | 衣服 | I hok |
 | Crown | 皇帝帽 | Hwang ti baw |
-| Hat | 㡌 | Baw |
-| Cap | 㡌囝 | Baw kia |
+| Hat | 帽 | Baw |
+| Cap | 帽囝 | Baw kia |
 | Turban | 頭布 | Taou pou |
 | Jacket | 衫 | Sa |
 | Pantaloons | 褲 | Khou |
@@ -1600,11 +1600,11 @@ aou | as ou in *plough, our, sour*. |
 | 28 | 二八領籐蓆 | Ji poĭ nia tin chiĕ |
 | 29 | 二九領京捫蓆 | Ji kaou nia kia bun chiĕ |
 | 30 Rain jackets | 三十領棕蓑 | Sa chap nia chang sui |
-| 1 Close cap | 一頂紗㡌 | Chĕk *teng* sey baw |
-| 2 Satin caps | 二頂緞㡌 | Naw teng tŭng baw |
-| 3 Felt hats | 三頂毡㡌 | Sa teng chi baw |
-| 4 Tassel'd caps | 四頂纓㡌 | Si teng eng baw |
-| 5 Straw hats | 五頂草㡌 | Gñou teng chaou baw |
+| 1 Close cap | 一頂紗帽 | Chĕk *teng* sey baw |
+| 2 Satin caps | 二頂緞帽 | Naw teng tŭng baw |
+| 3 Felt hats | 三頂毡帽 | Sa teng chi baw |
+| 4 Tassel'd caps | 四頂纓帽 | Si teng eng baw |
+| 5 Straw hats | 五頂草帽 | Gñou teng chaou baw |
 | 6 Bamboo hats | 六頂葵笠 | Lak teng kuey loĭ |
 | 1 Trunk | 一骹箱 | Chĕk *kʼha* sie |
 | 2 Baskets | 二骹囊 | Naw kʼha lang |

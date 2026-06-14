@@ -2,7 +2,7 @@
 # Generated from merged.csv - decomposed character table
 ---
 name: hokkien_chars
-version: "20260608.081749"
+version: "20260614.165049"
 sort: by_weight
 ...
 
@@ -12067,7 +12067,6 @@ sort: by_weight
 鵾	khun1	100
 麋	khun1	100
 麕	khun1	100
-丨	khun2	100
 侰	khun2	100
 僒	khun2	100
 囷	khun2	100

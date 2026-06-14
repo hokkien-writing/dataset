@@ -1521,8 +1521,8 @@ aou | as ou in *plough, our, sour*. |
 |---|---|---|
 | Clothes | 衣服 | I hok |
 | Crown | 皇帝帽 | Hwang ti baw |
-| Hat | 㡌 | Baw |
-| Cap | ~~丨~~(㡌)~~子~~(囝) | Baw kia |
+| Hat | ~~㡌~~(帽) | Baw |
+| Cap | ~~丨~~(帽)~~子~~(囝) | Baw kia |
 | Turban | 頭布 | Taou pou |
 | Jacket | 衫 | Sa |
 | Pantaloons | 褲 | Khou |
@@ -1600,11 +1600,11 @@ aou | as ou in *plough, our, sour*. |
 | 28 | 二八領籐~~丨~~(蓆) | Ji poĭ ~~„~~(nia) tin chiĕ |
 | 29 | 二九領京捫蓆 | Ji kaou ~~„~~(nia) kia bun chiĕ |
 | 30 Rain jackets | 三十領棕蓑 | Sa chap ~~„~~(nia) chang sui |
-| 1 Close cap | 一頂紗㡌 | Chĕk *teng* sey baw |
-| 2 Satin caps | 二頂~~縀~~(緞)~~丨~~(㡌) | Naw ~~„~~(teng) tŭng baw |
-| 3 Felt hats | 三頂毡~~丨~~(㡌) | Sa ~~„~~(teng) chi baw |
-| 4 Tassel'd caps | 四頂纓㡌 | Si ~~„~~(teng) eng baw |
-| 5 Straw hats | 五頂草㡌 | Gñou ~~„~~(teng) chaou baw |
+| 1 Close cap | 一頂紗~~㡌~~(帽) | Chĕk *teng* sey baw |
+| 2 Satin caps | 二頂~~縀~~(緞)~~丨~~(帽) | Naw ~~„~~(teng) tŭng baw |
+| 3 Felt hats | 三頂毡~~丨~~(帽) | Sa ~~„~~(teng) chi baw |
+| 4 Tassel'd caps | 四頂纓~~㡌~~(帽) | Si ~~„~~(teng) eng baw |
+| 5 Straw hats | 五頂草~~㡌~~(帽) | Gñou ~~„~~(teng) chaou baw |
 | 6 Bamboo hats | 六~~丨~~(頂)葵笠 | Lak ~~„~~(teng) kuey loĭ |
 | 1 Trunk | 一~~脚~~(骹)箱 | Chĕk *kʼha* sie |
 | 2 Baskets | 二~~脚~~(骹)囊 | Naw ~~„~~(kʼha) lang |

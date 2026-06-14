@@ -222,6 +222,17 @@ def _pre_coda(s: str) -> str:
     return _NASAL_CODA_RE.sub("", _base_form(s))
 
 
+def _collapse_aspiration(s: str) -> str:
+    return (s.replace("tsh", "ts")
+             .replace("th", "t")
+             .replace("ph", "p")
+             .replace("kh", "k"))
+
+
+def _dean_rhyme_norm(s: str) -> str:
+    return s.replace("ung", "ng")
+
+
 def lookup_puj_for_row(
     han_chars: list[str],
     dean_syllables: list[str],
@@ -251,16 +262,19 @@ def lookup_puj_for_row(
         if len(candidates) == 1:
             result.append(candidates[0][0])
         else:
-            norm_dean = normalize_dean_syllable(raw_dean)
-            dean_len = len(norm_dean)
-            scored = [(
-                levenshtein(norm_dean, _base_form(c[1])),
-                _has_consonant_coda(c[1]),
-                abs(len(_base_form(c[1])) - dean_len),
-                -_common_prefix_len(norm_dean, _base_form(c[1])),
-                -c[2],
-                c,
-            ) for c in candidates]
+            dean_cmp = _dean_rhyme_norm(_collapse_aspiration(normalize_dean_syllable(raw_dean)))
+            dean_cmp_len = len(dean_cmp)
+            scored = []
+            for c in candidates:
+                base_cmp = _dean_rhyme_norm(_collapse_aspiration(_base_form(c[1])))
+                scored.append((
+                    levenshtein(dean_cmp, base_cmp),
+                    _has_consonant_coda(c[1]),
+                    -_common_prefix_len(dean_cmp, base_cmp),
+                    abs(len(base_cmp) - dean_cmp_len),
+                    -c[2],
+                    c,
+                ))
             scored.sort(key=lambda x: (x[0], x[1], x[2], x[3], x[4], x[5][0]))
             if len(scored) > 1 and scored[0][:4] == scored[1][:4]:
                 tie_indices.add(idx)
@@ -327,7 +341,7 @@ class Processor(BookProcessor):
             if not han_chars:
                 continue
 
-            dean_latn_clean = _OCR_ARTIFACT_RE.sub(r"\1", dean_latn)
+            dean_latn_clean = _OCR_ARTIFACT_RE.sub(r"\1", dean_latn).replace("*", "")
             dean_preprocessed = _preprocess_dean(dean_latn_clean)
             dean_syllables = split_dean_syllables(dean_latn_clean)
 
