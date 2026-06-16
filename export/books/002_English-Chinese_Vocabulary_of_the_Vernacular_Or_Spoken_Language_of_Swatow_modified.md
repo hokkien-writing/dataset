@@ -5652,7 +5652,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fowl**, koi(雞); chiáu(鳥). *water*, tsúi-chiáu(水鳥). *domestic*, koi. *to*, lia̍h-chiáu(掠鳥); phah-chiáu(拍鳥); thi-chiáu(黐鳥); iap-chiáu(壓鳥); siā-chiáu(射鳥). *fowling-piece*, chiáu-chhèng(鳥銃).
 
-**fox**, hôu-lâi(猴來); suaⁿ-káu(山狗).
+**fox**, hôu-lâi(狐狸); suaⁿ-káu(山狗).
 
 **fraction**, lân-ló〔〕; lân-tshùi(零碎); tshàm-tshùi(纖碎).
 
