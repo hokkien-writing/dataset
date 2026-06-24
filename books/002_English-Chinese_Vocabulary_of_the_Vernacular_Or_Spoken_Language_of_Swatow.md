@@ -13497,7 +13497,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unprofitable**, bô-iah++(無益)++; bô-lĩ-iah++(無利益)++; bô-ēng++(無用)++. *as business*, bô-lĩ++(無利)++; bô-thàn++(無趁)++.
 
-**unravel**, *a matter*, chhîm-thâu-sû++(尋頭緒)++; tshūe-thâu-sû++(揣頭緒)++. *thread*, to̍h-ti̍t++(擇直)++; tháu-ti̍t++(㪗直)++.
+**unravel**, *a matter*, chhîm-thâu-sû++(尋頭緒)++; tshūe-thâu-sû++(覓頭緒)++. *thread*, to̍h-ti̍t++(擇直)++; tháu-ti̍t++(㪗直)++.
 
 **unreasonable**, m̄-chiũ-lí++(毋就理)++; bô-chhêng-lí++(無情理)++. *hope*, chhi-siẽⁿ++(痴想)++.
 
@@ -13868,7 +13868,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wagon**, chhia++(車)++.
 
-**wail**, khàu++(哭)++; ai-khàu++(哀哭)++; thî-khàu++(啼哭)++. *for the dead*, khàu-sí-sng++(哭死䘮)++. *for death of son*, khàu-kiáⁿ++(哭囝)++.
+**wail**, khàu++(哭)++; ai-khàu++(哀哭)++; thî-khàu++(啼哭)++. *for the dead*, khàu-sí-sng++(哭死喪)++. *for death of son*, khàu-kiáⁿ++(哭囝)++.
 
 **waist**, ie++(腰)++; pùaⁿ-ie++(半腰)++; sin-ie++(身腰)++. *to gird the*, hâ-ie++(縖腰)++; sok-ie++(束腰)++. *waistcoat*, tah-pùe++(貼背)++; kah-kiáⁿ++(甲囝)++.
 
@@ -14021,7 +14021,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **whimper**, hiuⁿ-hiuⁿ-kiè++(咻咻叫)++; hngh-hngh-kiè++(哼哼叫)++; hng-hng-kiè++(㕫㕫叫)++.
 
-**whip**, *a*, bé-piⁿ++(馬鞭)++. *to strike with a*, pũaⁿ++(拌)++; hiuh++(蠓拌)++; sut++(摔)++; piⁿ-phah++(鞭拍)++. *mosquito whip*, máng-pũaⁿ++(蚊拂)++. *lash of whip*, piⁿ-soh++(鞭索)++.
+**whip**, *a*, bé-piⁿ++(馬鞭)++. *to strike with a*, pũaⁿ++(拌)++; hiuh++(蠓拌)++; sut++(摔)++; piⁿ-phah++(鞭拍)++. *mosquito whip*, máng-pũaⁿ++(蠓拂)++. *lash of whip*, piⁿ-soh++(鞭索)++.
 
 **whirlpool**, tsúi ká-tsn̄g++(水攪旋)++; tsúi ká-pūn++(水攪瀵)++; suân-lâu-tsúi++(旋流水)++.
 
