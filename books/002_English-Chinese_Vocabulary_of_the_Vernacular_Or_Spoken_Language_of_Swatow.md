@@ -3331,7 +3331,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cross**, *the*, tsa̍p--jī kè++(十二駕)++. *to make or write a*, phah-tsham-chhe++(拍參差)++; phah-tshãm-sia++(拍毚斜)++.
 
-**cross**, *to*, kùe++(過)++. *a river*, kùe-khoi++(過溪)++. *cross-wise*, hûeⁿ++(橫)++. *to be cross with one*, hia̍p-hiâm++(挾嫌)++. *peevish*, tshou-siap++(粗澀)++; kia̍p-khak++(倒滯)++; tò-thì++(睉目)++; m̄-sóng-khùai++(毋爽快)++. *cross-bar*, mn̂g-tshùaⁿ++(門閂)++; hûeⁿ-tshùaⁿ++(橫閂)++. *cross-bow*, nãuⁿ++(鬧)++. *cross-examine*, poh-mn̄g++(駁問)++; mn̄g-lâi mn̄g-khṳ̀++(問來問去)++; kháu-piẽn++(口辯)++. *cross-eyed*, siâ-chiáu-ma̍k++(斜雀目)++; tsho̍h-ma̍k++(目珠睉睉)++; ma̍k-chiu tsho̍h-tsho̍h++++. *cross-legged*, phûan-khí-kha++(盤起骹)++; phûan-thúi-tsõ++(盤腿坐)++. *both legs crossed*, sang-kha phûan-khí++(雙骹盤起)++. *cross-way*, hûeⁿ-lōu++(橫路)++.
+**cross**, *to*, kùe++(過)++. *a river*, kùe-khoi++(過溪)++. *cross-wise*, hûeⁿ++(橫)++. *to be cross with one*, hia̍p-hiâm++(挾嫌)++. *peevish*, tshou-siap++(粗澀)++; kia̍p-khak++(倒滯)++; tò-thì++(睉目)++; m̄-sóng-khùai++(毋爽快)++. *cross-bar*, mn̂g-tshùaⁿ++(門閂)++; hûeⁿ-tshùaⁿ++(橫閂)++. *cross-bow*, nãuⁿ++(鬧)++. *cross-examine*, poh-mn̄g++(駁問)++; mn̄g-lâi mn̄g-khṳ̀++(問來問去)++; kháu-piẽn++(口辯)++. *cross-eyed*, siâ-chiáu-ma̍k++(斜雀目)++; tsho̍h-ma̍k++(睉睉)++; ma̍k-chiu tsho̍h-tsho̍h++(目珠睉睉)++. *cross-legged*, phûan-khí-kha++(盤起骹)++; phûan-thúi-tsõ++(盤腿坐)++. *both legs crossed*, sang-kha phûan-khí++(雙骹盤起)++. *cross-way*, hûeⁿ-lōu++(橫路)++.
 
 **croton**, *oil*, pa-tāu-iû++(巴豆油)++.
 
@@ -3382,7 +3382,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cudgel**, kùn++(棍)++; tshâ-thûi++(柴槌)++; tshâ-kùn++(柴棍)++.
 
-**cuff**, *slap*, òng++(勜)++; piang++(揙)++. *with closed fist*, cheng++(穿)++; tshùaⁿ++(閂)++. *of coat*, ńg-kháu++(硬口)++; siù-kháu++(袖口)++.
+**cuff**, *slap*, òng++(勜)++; piang++(揙)++. *with closed fist*, cheng++(穿)++; tshùaⁿ++(閂)++. *of coat*, ńg-kháu++(䘼口)++; siù-kháu++(袖口)++.
 
 **cuirass**, thih-kah++(鐵甲)++; chia-heng-kah++(遮胸甲)++.
 
@@ -3656,7 +3656,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **degenerate**, *times*, hong-so̍k pí-soiⁿ m̄-tâng++(風俗比先毋同)++. *children*, put-siàu-tsṳ́++(不肖子)++; put-siàu kiáⁿ-tĩ++(不肖囝弟)++.
 
-**degrade**, *officially*, kàng-khip++(降級)++. *three degrees*, kàng-saⁿ-khip++(降三級)++. *without dismissal*, khṳ̍-cheh lâu-jīm++(去職留任)++. *entirely*, thut-cheh++(黜職)++; le̍h-cheh++(𠠝 職)++.
+**degrade**, *officially*, kàng-khip++(降級)++. *three degrees*, kàng-saⁿ-khip++(降三級)++. *without dismissal*, khṳ̍-cheh lâu-jīm++(去職留任)++. *entirely*, thut-cheh++(黜職)++; le̍h-cheh++(𠠝職)++.
 
 <!-- page:80 -->
 **degree**, téng++(頂)++; téng-khip++(頂級)++; pín-khip++(品級)++. *to have a degree*, ũ-kong-miâⁿ++(有功名)++. *to get the 1st literary degree*, ji̍p-o̍h++(入學)++; ji̍p-siù-tsâi++(入秀才)++. *the 2nd*, tèng-kṳ́-jîn++(中舉人)++. *the 3rd*, tèng-chìn-sṳ̃++(中進士)++. *the 4th*, tiám-hân-lîm++(點翰林)++. *a purchased degree*, kàm-seng++(監生)++. *to buy such*, ~~kiẽn~~(kien)-kàm-seng++(捐監生)++. *a graduate by competition*, chiàⁿ-thû++(正途)++; chiàⁿ-lōu++(正路)++. *a graduate by purchase*, phien-thû++(偏途)++; ĩ-lōu++(異路)++. *degrees of relationship*, káu-tso̍k++(九族)++; ngóu-ho̍k++(五服)++; chhin-so++(親疏)++. *by degrees*, chiãm-chiãm++(漸漸)++; che̍k-tsâng che̍k-tsâng++(一層一層)++; che̍k-tsãm che̍k-tsãm++(一站一站)++.
@@ -4429,7 +4429,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **duplicity**, nõⁿ-sim++(兩心)++; sie-phièn++(相騙)++; che̍k-mīn-to nõⁿ-mīn-sái++(一面刀兩面使)++.
 
-**durable**, *nãiⁿ-kú; kien-kù; tōiⁿ*, khiàng++(勥)++. *this cloth is very*, chí-kâi-pòu siãng-nãiⁿ-chhēng++(橂)++.
+**durable**, nãiⁿ-kú++(耐久)++; kien-kù++(堅固)++; tōiⁿ++(橂)++, khiàng++(勥)++. *this cloth is very*, chí-kâi-pòu siãng-nãiⁿ-chhēng++(只個布上耐穿)++.
 
 **duration**, kú++(久)++; kú-tn̂g++(久長)++; chhiâng-kú++(長久)++. *endless*, ióng-kú++(永久)++; ióng-ién++(永遠)++; kú-uán++(久遠)++; kú-ién++(久遠)++; bõi-liáu++(袂了)++.
 
@@ -4481,7 +4481,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **earn**, thàn++(趁)++; thó-thàn++(討趁)++. *money*, thàn-chîⁿ++(趁錢)++. *one's living*, thàn-chia̍h++(趁食)++. *much*, tōa-thàn++(大趁)++. *easily*, kōi-thàn++(易趁)++.
 
-**earnest**, *tsuan-sim; chhiet-chhiet; pek-chhiet; sim kien*, ì chhiet++(心堅意切)++; tsuan-it++(專一)++; jie̍t-sim++(熱心)++. *speak in*, tàⁿ-si̍t-ūe++(呾實話)++. *earnest money*, tiāⁿ-ngṳ̂n++(定銀)++; tiāⁿ-chîⁿ++(定錢)++; tiāⁿ-thâu++(定頭)++; tǹg++(當)++. *accept earnest money*, siu-tiāⁿ++(收定)++.
+**earnest**, tsuan-sim++(專心)++; chhiet-chhiet++(切切)++; pek-chhiet++(迫切)++; sim kien, ì chhiet++(心堅，意切)++; tsuan-it++(專一)++; jie̍t-sim++(熱心)++. *speak in*, tàⁿ-si̍t-ūe++(呾實話)++. *earnest money*, tiāⁿ-ngṳ̂n++(定銀)++; tiāⁿ-chîⁿ++(定錢)++; tiāⁿ-thâu++(定頭)++; tǹg++(當)++. *accept earnest money*, siu-tiāⁿ++(收定)++.
 
 **earth**, tī++(地)++; thôu++(塗)++; thóu++(土)++. *the earth*, tī-kiû++(地球)++. *heaven and earth*, thiⁿ-tī++(天地)++. *on the earth*, tõ-tī-mīn++(在地面上)++; tõ-thóu-ẽ++(在土下)++. *the whole earth*, phóu-thiⁿ-ẽ++(普天下)++; thong thiⁿ-kha-ẽ++(通天骹下)++. *garden-earth*, hn̂g-thôu++(園塗)++. *earth-nut*, tī-tāu++(地豆)++. *earth-worm*, kãu-ún++(蚯蚓)++. *earth-quake*, tī chín++(地震)++; tī tín-tãng++(地振動)++; tī-gû ūaⁿ-koiⁿ++(地牛換肩)++. *earthenware*, hûi-khì++(缶器)++; jiâu-khì++(饒器)++; au-úaⁿ pûaⁿ-ti̍h++(甌碗盤碟)++.
 
