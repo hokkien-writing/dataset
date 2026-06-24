@@ -2966,7 +2966,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **constellation**, chheⁿ-siù++(星宿)++. *the constellations*, jī-tsa̍p-poih siù++(二十八宿)++.
 
-**consternation**, kiaⁿ kàu hûn phiau++(驚到魂飄)++ ~~(or, pue)~~(kiaⁿ kàu hûn pue(驚到魂飛)), phek sùaⁿ++(驚到魂飛，魄散)++.
+**consternation**, kiaⁿ kàu hûn phiau, phek sùaⁿ++(驚到魂飄，魄散)++; kiaⁿ kàu hûn pue, phek sùaⁿ++(驚到魂飛，魄散)++.
 
 **constipation**, tóu-lãi zua̍h++(肚內熱)++; tãi-piẽn pì-kín++(大便閉緊)++; tóu pì-kat++(肚閉結)++; tóu kat-ngẽ++(肚結硬)++; tóu kat-kín++(肚結緊)++.
 
@@ -3003,7 +3003,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 **contend**, sie-cheⁿ++(相爭)++. *for anything*, sie-cheⁿ-àiⁿ++(相爭愛)++. *quarrel*, poh-khùi++(駁氣)++; sie-à++(相詏)++. *contentious*, hàuⁿ-à++(好詏)++; hàuⁿ-poh-khùi++(好駁氣)++.
 
 <!-- page:66 -->
-**content**, *sim múaⁿ*, ì tsok++(心滿，意足)++; tsai-tsok++(知足)++; kùe-ì++(過意)++; uaⁿ-hūn++(安分)++. *contents of book*, ma̍k-lo̍k++(目錄)++; tôi-thâu++(題頭)++.
+**content**, sim múaⁿ, ì tsok++(心滿，意足)++; tsai-tsok++(知足)++; kùe-ì++(過意)++; uaⁿ-hūn++(安分)++. *contents of book*, ma̍k-lo̍k++(目錄)++; tôi-thâu++(題頭)++.
 
 **conterminous**, sie-kau-kài++(相交界)++; sie-kiam-kài++(相兼界)++; chiap-kài++(接界)++; tsò-pû++(做匏)++; liên-chiap++(連接)++; siang-liên++(相連)++. *(near)*, lîn-kṳ̃n++(鄰近)++.
 
@@ -3192,7 +3192,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **counterfeit**, ké++(假)++; ké-tsò++(假做)++; ngũi-ûi++(偽爲)++; tsuang-tsò++(裝做)++; tèⁿ-tsò++(詐做)++; tsò--kâi++(做个)++. *dollar*, ké-ngṳ̂n++(假銀)++; ngũi-ngṳ̂n++(偽銀)++.
 
-**countermand**, *chiau lẽng*, sek kói++(朝令，夕改)++.
+**countermand**, chiau lẽng, sek kói++(朝令，夕改)++.
 
 **counterpane**, phũe-toaⁿ++(被單)++.
 
@@ -3392,9 +3392,9 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **cumber**, *the ground*, tìn-tiāu tī-hng++(鎮掉地方)++; tìn-tò++(鎮地)++.
 
-**cumbersome**, *chhin-chhiẽⁿ taⁿ-tãng-tàⁿ; tãng-jĩm*, hûang-gāi++(重任，妨礙)++; thua-lūi++(拖累)++.
+**cumbersome**, chhin-chhiẽⁿ taⁿ-tãng-tàⁿ++(親像擔重擔)++; tãng-jĩm, hûang-gāi++(重任，妨礙)++; thua-lūi++(拖累)++.
 
-**cunning**, to-sim kek-sṳ̄++(刀心激事)++; sim-sṳ̄ tsōi++(心事㩼)++; ũ-sim-sṳ̄++(有心事)++; khî-khá++(奇巧)++.
+**cunning**, to-sim kek-sṳ̄++(多心激事)++; sim-sṳ̄ tsōi++(心事㩼)++; ũ-sim-sṳ̄++(有心事)++; khî-khá++(奇巧)++.
 
 **cup**, cheng++(盅)++; pue++(杯)++. *tea cup*, tê-cheng++(茶盅)++; tê-pue++(茶杯)++; tê-au++(茶甌)++.
 
@@ -7135,7 +7135,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **inevitable**, bô-nãiⁿ-hô++(無奈何)++; bô-khó nãiⁿ-hô++(無可奈何)++; mién-put-tit++(免不得)++; m̄-hó tô-pī++(毋好逃避)++.
 
-**inexcusable**, *bô-hó hun-sù; lí khut*, sṳ̂ khiông++(理屈，詞窮)++.
+**inexcusable**, bô-hó hun-sù; lí khut, sṳ̂ khiông++(理屈，詞窮)++.
 
 **inexperienced**, chheⁿ-hūn++(生分)++; chheⁿ-chhiú++(生手)++; m̄-se̍k-chhiú++(毋熟手)++; bô-liēn++(無練)++; m̄-pat liēn-si̍p++(毋別練習)++.
 
@@ -7235,7 +7235,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **insane**, siáu++(痟)++; huat-tien++(發癲)++; huat-khuâng++(發狂)++; sim-sîn m̄-tiāⁿ++(心神毋定)++; sim m̄-tiāⁿ++(心毋定)++; tien-khuâng++(癲狂)++; sit-sim++(失心)++.
 
-**insatiable**, *m̄-tsai-tsok; tham-sim bô-iam; chéⁿ-tsúi pìⁿ-tsò-chiú*, iũ-hiâm tṳ bô-tsau++(井水變做酒，又嫌豬無糟)++.
+**insatiable**, m̄-tsai-tsok; tham-sim bô-iam; chéⁿ-tsúi pìⁿ-tsò-chiú, iũ-hiâm tṳ bô-tsau++(井水變做酒，又嫌豬無糟)++.
 
 **inscription**, pi-kì++(碑記)++; pâi-pín++(牌匾)++; pín-hia̍h++(匾額)++.
 
@@ -8738,7 +8738,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **muslin**, se++(紗)++; mîⁿ-se++(棉紗)++.
 
-**must**, *bũ-pit*, eng-kai++(不必，應該)++; tie̍h++(着)++; bõi-tit-mién++(袂得免)++; put-tit-íⁿ++(不得已)++. *why must*, hô-pit++(何必)++. *must not*, m̄-hó++(毋好)++.
+**must**, bũ-pit, eng-kai++(不必，應該)++; tie̍h++(着)++; bõi-tit-mién++(袂得免)++; put-tit-íⁿ++(不得已)++. *why must*, hô-pit++(何必)++. *must not*, m̄-hó++(毋好)++.
 
 **mustache**, chhiu++(鬚)++; tshùi-chhiu++(喙鬚)++; nõⁿ-phuah-chhiu++(兩撥鬚)++. *to grow a*, lâu-chhiu++(留鬚)++.
 
@@ -8863,7 +8863,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **night**, mêⁿ++(夜)++. *last*, ~~tsà~~(tsa)-mêⁿ++(昨夜)++. *to-night*, kim-mêⁿ++(今夜)++; mêⁿ-hng++(夜昏)++. *journey by*, kiâⁿ-mêⁿ-lōu++(行夜路)++. *time*, mêⁿ--kùa++(夜旰)++; mêⁿ--tsṳ́++(夜子)++. *late at*, mêⁿ-~~âm~~(àm)++(夜暗)++; keⁿ chhim++(更深)++; àm++(暗)++. *dress*, gu̍t-saⁿ++(夗衫)++. *night-mare*, māng-kìⁿ-kúi++(夢見鬼)++; chin-kìⁿ-kúi++(真見鬼)++; bái-kúi teh++(蝞鬼矺)++. *nightly*, pâi-mêⁿ++(排夜)++; pâi-mêⁿ-àm++(排夜暗)++. *first half of night*, chiēⁿ-pùaⁿ-mêⁿ++(上半夜)++.
 
-**nimble**, *kha khin-khiáu; kha khin*, chhiú khùe++(骹輕，手快)++.
+**nimble**, kha khin-khiáu; kha khin, chhiú khùe++(骹輕，手快)++.
 
 **nine**, káu++(九)++; khùai++(九)++. *nineteen*, tsa̍p-káu++(十九)++.
 
@@ -11092,7 +11092,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **satire**, ki-tshǹg kâi-ūe++(譏刺个話)++. *satirize*, ki-ngí++(譏議)++.
 
-**satisfied**, *sim múaⁿ*, ì tsok++(心滿，意足)++; kùe-ì++(過意)++; tit-ì++(得意)++; tsai-tsok++(知足)++.
+**satisfied**, sim múaⁿ, ì tsok++(心滿，意足)++; kùe-ì++(過意)++; tit-ì++(得意)++; tsai-tsok++(知足)++.
 
 **saturate**, chìm++(浸)++; chìm-tsúi++(浸水)++.
 
@@ -11209,7 +11209,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **scowl**, náuⁿ-sek++(惱色)++; náuⁿ-ma̍k++(惱目)++; náuⁿ-iông++(惱容)++.
 
-**scramble**, *peh-chiẽⁿ; thek-chiẽⁿ; chhiú mán*, kha thek++(手挽，骹剔)++.
+**scramble**, peh-chiẽⁿ; thek-chiẽⁿ; chhiú mán, kha thek++(手挽，骹剔)++.
 
 **scrap**, tshùi++(碎)++; kò-kiáⁿ++(塊囝)++.
 
@@ -13951,7 +13951,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wear**, *to wear clothes*, chhēng-saⁿ++(穿衫)++. *wear a hat*, tì-bō++(戴帽)++. *wear a ring (armlet)*, kùa-chhiú-hûan++(掛手環)++. *wear a finger-ring*, kùa-chhiú-tsat++(掛手節)++. *wear holes in one's clothes*, chhēng-phùa saⁿ-khòu++(穿破衫褲)++. *as (for example) grind-stone*, siám-si̍h++(閃蝕)++; siau-si̍h++(消蝕)++. *worn out*, chhēng-kàu-phùa++(穿到破)++; lau-se++(摎紗)++; thiau-se++(挑紗)++; phùa-mo̍hⁿ++(破膜)++.
 
-**weary**, *khùn; kha sng; kha sng*, chhiú nńg++(骹酸，手軟)++.
+**weary**, khùn++(困)++; kha sng++(骹酸)++; kha sng, chhiú nńg++(骹酸，手軟)++.
 
 **weather**, thîⁿ-sî++(天時)++; thiⁿ++(天)++; thiⁿ-khì++(天氣)++. *mild*, thiⁿ-sî un-hûa++(天時溫和)++; thiⁿ-sî thiâu-hûa++(天時調和)++. *hot*, thiⁿ-sî zua̍h++(天時熱)++. *fair*, thiⁿ-sî chêⁿ++(天時晴)++. *weather-beaten*, mīn pha̍k-ou++(面曝烏)++; huang khau-ou++(風攷烏)++. *weather-cock*, sũn-huang-kî++(順風旗)++; tiāⁿ-huang-tsam++(定風針)++; huang-sìn-kî++(風信旗)++.
 
@@ -14004,7 +14004,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 *whence*. tshông-tî-kò-lâi++(從底塊來)++; iû-tî-kò-lâi++(由底塊來)++; tõ-tî-kò-lâi++(在底塊來)++.
 
-**whenever**, put-lũn tiâng-sî++(不論當時)++. *whenever I think of it tears come into my eyes*, sim che̍k-ē-siẽⁿ++(心一下想，目汁就愛流)++, ma̍k-tsap chiũ-àiⁿ-lâu++(目汁就愛流)++.
+**whenever**, put-lũn tiâng-sî++(不論當時)++. *whenever I think of it tears come into my eyes*, sim che̍k-ē-siẽⁿ, ma̍k-tsap chiũ-àiⁿ-lâu++(心一下想，目汁就愛流)++.
 
 **where**, tî-kò++(底塊)++; tõ-tî-kò++(在底塊)++. *where I was born*, uá tshut-sì kâi-ūi-tshṳ̀++(我出世个位處)++; uá tshut-sin kâi-tī++(我出身个地)++. *wherever*, put-lũn tî-kò++(不論底塊)++; put-lũn hô-tshù++(不論何處)++.
 
