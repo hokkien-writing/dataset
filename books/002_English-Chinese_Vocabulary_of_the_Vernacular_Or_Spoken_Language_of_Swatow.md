@@ -2683,7 +2683,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **column**, *pillar*, thiãu++(柱)++. *of print*, tsūe++(襊)++; hâng++(行)++; tiâu++(條)++.
 
-**comb**, siu++(梳)++; tshâ-siu++(柴梳)++; kak-siu++(角梳)++. *small-toothed*, sat-pìn++(虱箆)++. *comb**the hair*, siu-thâu++(梳頭)++; siu-thâu-môⁿ++(梳頭毛)++; siu-piⁿ++(梳辮)++; pìn-môⁿ++(篦毛)++. *weaver's comb*, pòu-siu++(布梳)++. *cockscomb*, koi-kùe++(雞髻)++. *honey-comb*, bi̍t-pâng++(蜜房)++.
+**comb**, siu++(梳)++; tshâ-siu++(柴梳)++; kak-siu++(角梳)++. *small-toothed*, sat-pìn++(虱箆)++. *comb the hair*, siu-thâu++(梳頭)++; siu-thâu-môⁿ++(梳頭毛)++; siu-piⁿ++(梳辮)++; pìn-môⁿ++(篦毛)++. *weaver's comb*, pòu-siu++(布梳)++. *cockscomb*, koi-kùe++(雞髻)++. *honey-comb*, bi̍t-pâng++(蜜房)++.
 
 <!-- page:59 -->
 **combat**, tá-chièn++(打戰)++; kau-chièn++(交戰)++; sie-thâi++(相刣)++; sie-phah++(相拍)++.
@@ -2955,7 +2955,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **conspicuous**, hién-mêng++(顯明)++; tshut-chèng++(出眾)++; tshut-thoh++(出托)++. *too*, khah-hién-iâng++(較顯陽)++.
 
-**conspire**, mông-lũan++(謀亂)++; mông-húan++(謀反)++; kat-táng++(結黨)++. *for the**throne*, cheⁿ-ūi to̍h-kok++(爭位奪國)++; cheⁿ-ūi to̍h-ki++(爭位奪畿)++.
+**conspire**, mông-lũan++(謀亂)++; mông-húan++(謀反)++; kat-táng++(結黨)++. **for the throne*, cheⁿ-ūi to̍h-kok++(爭位奪國)++; cheⁿ-ūi to̍h-ki++(爭位奪畿)++.
 
 <!-- page:65 -->
 **constable**, tī-pó++(地保)++; a-tsóng++(阿總)++; chhê-koi++(查街)++; chhe-hia̍h++(差役)++.
@@ -4232,7 +4232,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dizziness**, thâu-khak hîn++(頭殼眩)++; thâu hîn++(頭眩)++; hîn++(眩)++.
 
-**do**, tsò++(做)++; tsak++(作)++; ûi++(爲)++; kiâⁿ++(行)++; tsãu++(造)++. *do business*, tsò-seng-lí++(做生理)++. *a favour*, si-ṳn++(施恩)++; tsò-nâng-chhêng++(做人情)++. *to do as we would be**done by*, thãi-nâng zû-kí++(待人如己)++. *do away with*, tṳ̂-khṳ̀++(除去)++; ka̍k-tiāu++(捔掉)++; kói++(解)++. *how do you do*, lṳ́ khin-kiāⁿ++(汝輕健)++. *do not*, màiⁿ++(勿)++; m̄-hó++(毋好)++; mín++(免)++. *I have nothing to do with it*, ṳ́-úa bô-kan++(與我無干)++; bô-tāi++(無事)++; bô-hūn++(無份)++. *this will never do*, m̄-tsò-tit++(毋做得)++. *it will do*, tsò-tit++(做得)++; õi--tsò-tit++(會做得)++. *what shall I do*, aìⁿ-tsò-nî-mue̍h++(愛怎呢物)++. *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ++(就是走一門定定)++, bô-pa̍t-lōu++(無別路)++. *do one's duty*, chĩn-pńg-hūn++(盡本分)++. *what is all this to do about*, kā-kā-jiáng sĩ-mih ûan-kù++(咬咬嚷是乜緣故)++.
+**do**, tsò++(做)++; tsak++(作)++; ûi++(爲)++; kiâⁿ++(行)++; tsãu++(造)++. *do business*, tsò-seng-lí++(做生理)++. *a favour*, si-ṳn++(施恩)++; tsò-nâng-chhêng++(做人情)++. *to do as we would be done by*, thãi-nâng zû-kí++(待人如己)++. *do away with*, tṳ̂-khṳ̀++(除去)++; ka̍k-tiāu++(捔掉)++; kói++(解)++. *how do you do*, lṳ́ khin-kiāⁿ++(汝輕健)++. *do not*, màiⁿ++(勿)++; m̄-hó++(毋好)++; mín++(免)++. *I have nothing to do with it*, ṳ́-úa bô-kan++(與我無干)++; bô-tāi++(無事)++; bô-hūn++(無份)++. *this will never do*, m̄-tsò-tit++(毋做得)++. *it will do*, tsò-tit++(做得)++; õi--tsò-tit++(會做得)++. *what shall I do*, aìⁿ-tsò-nî-mue̍h++(愛怎呢物)++. *I can do nothing but run away*, chiũ-sĩ tsáu--che̍k-mn̂g tiāⁿ-tiāⁿ++(就是走一門定定)++, bô-pa̍t-lōu++(無別路)++. *do one's duty*, chĩn-pńg-hūn++(盡本分)++. *what is all this to do about*, kā-kā-jiáng sĩ-mih ûan-kù++(咬咬嚷是乜緣故)++.
 
 <!-- page:92 -->
 **docile**, kōi-kà-sī++(易教示)++; sũn-sũn++(順順)++; thiaⁿ-nâng-tàⁿ++(聽人呾)++.
@@ -4439,7 +4439,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dusk**, mêⁿ-hng++(夜昏)++; háⁿ-hun++(黃昏)++; siè-siè-àm++(少少暗)++; siè-siè thóiⁿ-m̄-kìⁿ nâng-mīn++(少少睇毋見人面)++; háⁿ-hun-kiáⁿ++(黃昏囝)++; háⁿ-bū++(黃霧)++.
 
-**dust**, thôu-êng++(塗塋)++; thôu-hún++(塗粉)++; tîn-êng++(塵塋)++; sua-êng++(沙塋)++; sua-thôu++(沙塗)++. *dusty*, seⁿ-thôu-hún++(生塗粉)++. *raise*, eng++(煙)++; kiauh-sua++(撽沙)++; iauh-sua++(仸沙)++. *beat off*, pũaⁿ-tiāu sua-êng++(搫掉沙塋)++. *shake off*, hĩⁿ-tiāu thôu-hún++(伭掉塗粉)++. *to**dust*, tshóiⁿ-tiāu tîn-ai++(筅掉塵埃)++. *duster (of feathers)*, koi-môⁿ-tshóiⁿ++(雞毛筅)++. *dust-pan*, pùn-táu++(糞斗)++. *dust-basket*, pùn-ki++(糞箕)++.
+**dust**, thôu-êng++(塗塋)++; thôu-hún++(塗粉)++; tîn-êng++(塵塋)++; sua-êng++(沙塋)++; sua-thôu++(沙塗)++. *dusty*, seⁿ-thôu-hún++(生塗粉)++. *raise*, eng++(煙)++; kiauh-sua++(撽沙)++; iauh-sua++(仸沙)++. *beat off*, pũaⁿ-tiāu sua-êng++(搫掉沙塋)++. *shake off*, hĩⁿ-tiāu thôu-hún++(伭掉塗粉)++. *to dust*, tshóiⁿ-tiāu tîn-ai++(筅掉塵埃)++. *duster (of feathers)*, koi-môⁿ-tshóiⁿ++(雞毛筅)++. *dust-pan*, pùn-táu++(糞斗)++. *dust-basket*, pùn-ki++(糞箕)++.
 
 <!-- page:97 -->
 **dutiful**, kiâⁿ-hàu++(行孝)++; hàu-tsṳ́++(孝子)++; chĩn-pńg-hūn++(盡本分)++; hàu-sũn++(孝順)++; sũn-tshông++(順從)++.
@@ -4656,7 +4656,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **empower**, hù-thoh++(付托)++; úi++(委)++; thoh++(托)++; pun-khûan-jĩm khṳ̃-i++(分權任乞伊)++.
 
-**empty**, khang++(空)++; khang-khak++(空殼)++; khang-hṳ++(空虛)++; khang-phàⁿ++(空冇)++. *handed*, khang-chhiú++(空手)++. *to empty out*, tò-tiāu++(倒掉)++. *empty from**one vessel to another, backwards and forwards*, tò-kùe-lâi tò-kùe-khṳ̀++(倒過來倒過去)++; piâⁿ-lâi piâⁿ-khṳ̀++(捠來捠去)++. *empty show*, hṳ-hua++(虛花)++.
+**empty**, khang++(空)++; khang-khak++(空殼)++; khang-hṳ++(空虛)++; khang-phàⁿ++(空冇)++. *handed*, khang-chhiú++(空手)++. *to empty out*, tò-tiāu++(倒掉)++. *empty from one vessel to another, backwards and forwards*, tò-kùe-lâi tò-kùe-khṳ̀++(倒過來倒過去)++; piâⁿ-lâi piâⁿ-khṳ̀++(捠來捠去)++. *empty show*, hṳ-hua++(虛花)++.
 
 <!-- page:102 -->
 **emulate**, o̍h++(學)++; o̍h-iēⁿ++(學樣)++; hãu-o̍h++(效學)++; hãu-huap++(效法)++.
@@ -9996,7 +9996,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **print**, ìn++(印)++; ìn-chheh++(印冊)++; ìn-tsṳ++(印書)++. *printing blocks*, ìn-póiⁿ++(印板)++. *types*, ua̍h-jī-póiⁿ++(活字板)++. *printing-house*, tsṳ-hng++(書坊)++.
 
-**prison**, kam++(監)++; kam-ge̍k++(監獄)++; lô-ge̍k++(牢獄)++; kam-kuán++(監管)++; kuán++(管)++. *put**in*, kìm-kam++(禁監)++; siu-kam++(收監)++. *get out of*, tshut-kam++(出監)++. *prisoner*, kam-huãm++(監犯)++; huãm-jîn++(犯人)++; siu-kam++(收監)++. *of war*, pĩ-lû++(被虜)++; pĩ-lia̍h++(被掠)++.
+**prison**, kam++(監)++; kam-ge̍k++(監獄)++; lô-ge̍k++(牢獄)++; kam-kuán++(監管)++; kuán++(管)++. *put in*, kìm-kam++(禁監)++; siu-kam++(收監)++. *get out of*, tshut-kam++(出監)++. *prisoner*, kam-huãm++(監犯)++; huãm-jîn++(犯人)++; siu-kam++(收監)++. *of war*, pĩ-lû++(被虜)++; pĩ-lia̍h++(被掠)++.
 
 <!-- page:224 -->
 **private**, sṳ++(私)++; sai++(私)++; sai-ẽ++(私下)++; sai-khia-ẽ++(私奇下)++. *privately*, àm-chẽⁿ++(暗靜)++; sai-ẽ++(私下)++; ba̍t-ba̍t++(密密)++; ṳ́n-ba̍t++(隱密)++; ṳ́n-tshâng++(隱藏)++. *private conversation*, kau-thâu chiap-gṳ́++(交頭接語)++.
