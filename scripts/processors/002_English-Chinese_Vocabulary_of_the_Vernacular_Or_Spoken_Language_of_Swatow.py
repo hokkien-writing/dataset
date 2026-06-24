@@ -111,11 +111,6 @@ class Processor(BookProcessor):
                         if not puj:
                             continue
 
-                        puj = _VARIANT_FIX_RE.sub(r"\2", puj)
-                        puj = _VARIANT_NOTE_RE.sub("", puj).strip()
-                        if not puj:
-                            continue
-
                         for item in self._split_annotated_items(puj):
                             self._emit_entry(item, en, source_label, current_page, entries)
 
@@ -140,28 +135,38 @@ class Processor(BookProcessor):
         return [puj]
 
     @staticmethod
-    def _emit_entry(puj: str, en: str, source_label: str, page_num: str, entries: list[Entry]) -> None:
-        han_match = HAN_ANN_RE.search(puj)
+    def _emit_entry(puj_raw: str, en: str, source_label: str, page_num: str, entries: list[Entry]) -> None:
+        puj_fixed = _VARIANT_FIX_RE.sub(r"\2", puj_raw)
+        puj_fixed = _VARIANT_NOTE_RE.sub("", puj_fixed).strip()
+
+        han_match = HAN_ANN_RE.search(puj_fixed)
         han = han_match.group(1) if han_match else ""
 
         if not han:
-            plain = PLAIN_HAN_RE.search(puj)
+            plain = PLAIN_HAN_RE.search(puj_fixed)
             if plain:
                 han = plain.group(1)
 
-        puj = HAN_ANN_RE.sub("", puj).strip()
+        puj = HAN_ANN_RE.sub("", puj_fixed).strip()
         puj = PLAIN_HAN_RE.sub("", puj).strip()
         puj = re.sub(r"\+\+\+\+", "", puj).strip()
         puj = puj.rstrip(": ")
         if not puj:
             return
 
+        puj_orig = _VARIANT_FIX_RE.sub(r"\1", puj_raw)
+        puj_orig = _VARIANT_NOTE_RE.sub("", puj_orig).strip()
+        puj_orig = HAN_ANN_RE.sub("", puj_orig).strip()
+        puj_orig = PLAIN_HAN_RE.sub("", puj_orig).strip()
+        puj_orig = re.sub(r"\+\+\+\+", "", puj_orig).strip()
+        puj_orig = puj_orig.rstrip(": ")
+
         entries.append(
             Entry(
                 han=han,
                 han_orig=han,
                 puj=BookProcessor.clean(puj),
-                puj_orig="",
+                puj_orig=BookProcessor.clean(puj_orig) if puj_orig != puj else "",
                 en=BookProcessor.clean(en),
                 en_orig="",
                 source=source_label,
