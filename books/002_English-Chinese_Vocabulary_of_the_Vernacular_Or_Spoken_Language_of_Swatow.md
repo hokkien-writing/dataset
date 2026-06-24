@@ -5203,7 +5203,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **fathom**, *water*, thàm-thóiⁿ tsúi jie̍h-chhim++(探睇水若深)++. *one fathom*, che̍k-chhíⁿ++(一齒)++; che̍k-siâm++(一尋)++. *fathomless*, m̄-hó chhek-ta̍t++(毋好測度)++; chhim-bô-tói++(深無底)++.
 
-**fatigue**, he̍k++(乏)++; phî-kũan++(疲倦)++; kha sng++(骹酸)++; siên++(𤺪)++; khùn-siên++(困𤺪)++. *fatigue oneself*, lâu-la̍t++(勞力)++; bûa-lâu++(磨勞)++.
+**fatigue**, he̍k++(乏)++; phî-kũan++(疲倦)++; kha sng++(骹痠)++; siên++(𤺪)++; khùn-siên++(困𤺪)++. *fatigue oneself*, lâu-la̍t++(勞力)++; bûa-lâu++(磨勞)++.
 
 **fault**, kùe++(過)++; kùe-sit++(過失)++; tshò++(錯)++; m̄-tie̍h++(毋着)++; tshò-gōu++(錯誤)++; put-si++(不是)++. *fault-finding*, hàuⁿ-hiâm nâng m̄-tie̍h++(好嫌人毋着)++; hàuⁿ ngí-lũn-nâng++(好議論人)++; hàuⁿ phoi-tso̍ih-nâng++(好批截人)++. *faultless*, bô-hó-hiâm++(無好嫌)++; bô-hó-hiâm--tshù++(無好嫌處)++; bô-m̄-tie̍h++(無毋着)++; bô-kùe-sit++(無過失)++; bô-hiâ-tshṳ̂++(無瑕疵)++.
 
@@ -6559,7 +6559,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hoard**, tun-chek++(囤積)++; chek-thiok++(積蓄)++. *wealth*, chek-tshâi++(積財)++; tun-kim chek-ge̍k++(囤金積玉)++.
 
-**hoarfrost**, sng++(酸)++.
+**hoarfrost**, sng++(霜)++.
 
 **hoarse**, bô-siaⁿ++(無聲)++; âu-lêng bô-siaⁿ++(喉嚨無聲)++; sau-siaⁿ++(哨聲)++; siaⁿ m̄-liãng++(聲毋亮)++.
 
@@ -9313,7 +9313,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **partake**, ũ-hūn++(有份)++. *of a meal*, tsò-pû-chia̍h++(做匏食)++.
 
-**partial**, phien-sim++(偏心)++; phien-sṳ++(偏私)++; tōa-sòi-sim++(大細心)++; khin-tãng-sim++(輕重心)++; khuah-o̍ih-sim++(闊狹心)++. *to any one*, phien-ài++(偏愛)++. *not*, bô-i bô-lṳ́++(無伊無汝)++; bô-chhin bô-so++(無親無疏)++; bô-tshṳ́ bô-pí++(無此無彼)++; chhiú-pûaⁿ iā-sĩ-ne̍k++(手盤也是肉，手底也是肉)++, chhiú-tói iā-sĩ-ne̍k++(手底亦是肉)++. *partially*, būe-uân++(未完)++; būe-tshûan++(未全)++; būe-chheng-tshó++(未清楚)++; kúi-siâⁿ++(幾成)++.
+**partial**, phien-sim++(偏心)++; phien-sṳ++(偏私)++; tōa-sòi-sim++(大細心)++; khin-tãng-sim++(輕重心)++; khuah-o̍ih-sim++(闊狹心)++. *to any one*, phien-ài++(偏愛)++. *not*, bô-i bô-lṳ́++(無伊無汝)++; bô-chhin bô-so++(無親無疏)++; bô-tshṳ́ bô-pí++(無此無彼)++; chhiú-pûaⁿ iā-sĩ-ne̍k, chhiú-tói iā-sĩ-ne̍k++(手盤也是肉，手底也是肉)++. *partially*, būe-uân++(未完)++; būe-tshûan++(未全)++; būe-chheng-tshó++(未清楚)++; kúi-siâⁿ++(幾成)++.
 
 **particle**, *(in grammar)*, hṳ-jī++(虛字)++. *a small*, che̍k-sut-kiáⁿ++(一屑囝)++.
 
@@ -9921,7 +9921,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **prefect**, ti-hú++(知府)++; hú-thài-iâ++(府太爺)++; hú-hièn++(府？)++. *prefecture*, hú++(府)++.
 
-**prefer**, kèng-hàuⁿ++(更好)++; zú-kèng huaⁿ-hí++(愈更歡喜)++. *I prefer Swatow to Shanghai*, ṳ́-khî khiã-khí Siãng-hái uá lêng-tsò khiã-khí Sùaⁿ-thâu++(與其徛起上海我寧做徛起汕頭)++; pí khiã-khí Siãng-hái uá lêng-ngũan khiã-khí Sùaⁿ-thâu++(比徛起上海我寧願徛起汕頭)++. *do you prefer living in Swatow or in Shanghai*, lṳ́ sĩ khiã-khí Sùaⁿ-thâu--hó++(汝是徛起汕頭好，阿是徛起上海好)++, a-sĩ khiã-khí Siãng-hái--hó++(阿是徛起上海好)++.
+**prefer**, kèng-hàuⁿ++(更好)++; zú-kèng huaⁿ-hí++(愈更歡喜)++. *I prefer Swatow to Shanghai*, ṳ́-khî khiã-khí Siãng-hái uá lêng-tsò khiã-khí Sùaⁿ-thâu++(與其徛起上海我寧做徛起汕頭)++; pí khiã-khí Siãng-hái uá lêng-ngũan khiã-khí Sùaⁿ-thâu++(比徛起上海我寧願徛起汕頭)++. *do you prefer living in Swatow or in Shanghai*, lṳ́ sĩ khiã-khí Sùaⁿ-thâu--hó, a-sĩ khiã-khí Siãng-hái--hó++(汝是徛起汕頭好，阿是徛起上海好)++.
 
 **pregnant**, ũ-sin-hūn++(有身分)++; ũ-tho++(有胎)++; ũ-ẽng++(有孕)++; ũ-a-nôuⁿ++(有阿孥)++; huâi-tho++(懷胎)++; ũ-la̍k-kah++(有六甲)++; ũ-hí-sṳ̄++(有喜事)++.
 
@@ -10800,7 +10800,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **reward**, siéⁿ++(賞)++; pò++(報)++; pò-siéⁿ++(報賞)++; pò-tap++(報答)++. *good and evil*, siéⁿ-siẽn hua̍t-ak++(賞善罰惡)++. *to offer a*, tshut-siéⁿ-keh++(出賞格)++; tshut-siéⁿ-thiap++(出賞帖)++.
 
-**rheumatism**, sng-nńg++(酸軟)++; sng-nńg-thiàⁿ++(酸軟痛)++; huang++(風)++; huang-thiàⁿ++(風痛)++; huang-khì++(風氣)++. *in head*, thâu-huang++(頭風)++. *in arm*, chhiú-huang++(手風)++; chhiú sng-thiàⁿ++(手酸痛)++. *in the joints*, kut-tsat-huang++(骨節風)++.
+**rheumatism**, sng-nńg++(痠軟)++; sng-nńg-thiàⁿ++(痠軟痛)++; huang++(風)++; huang-thiàⁿ++(風痛)++; huang-khì++(風氣)++. *in head*, thâu-huang++(頭風)++. *in arm*, chhiú-huang++(手風)++; chhiú sng-thiàⁿ++(手痠痛)++. *in the joints*, kut-tsat-huang++(骨節風)++.
 
 <!-- page:240 -->
 **rhinoceros**, sai-gû++(犀牛)++.
@@ -11940,7 +11940,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **speed**, khùe++(快)++; méⁿ++(猛)++.
 
-**spell**, *a*, hû. hû-chiù++(符)++; chiù-gṳ́++(咒語)++. *to utter*, liām-chiù++(念咒)++.
+**spell**, *a*, hû++(符)++; hû-chiù++(符咒)++; chiù-gṳ́++(咒語)++. *to utter*, liām-chiù++(念咒)++.
 
 **spell**, *to*, chhiet-im++(切音)++; húan-chhiet++(反切)++.
 
@@ -12111,7 +12111,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **starch**, chieⁿ++(漿)++. *(paste)*, kôu++(糊)++. *to*, kùe-chieⁿ++(過漿)++; kùe-ám++(過飲)++.
 
-**stare**, ma̍k kim-kim-thóiⁿ++(目金金睇)++; ma̍k-chiu tsù-tsù tõ-thóiⁿ++(目珠注注在睇)++. *staring about all round*, ma̍k thóiⁿ kàu-iaⁿ-iaⁿ++(目睇到暻暻)++; ma̍k kok-kok-kim++(目國國金)++. *what are you staring about for*, õ++(哦，汝做猴猴眏)++, lṳ́ tsò kâu-kâu-iang++++.
+**stare**, ma̍k kim-kim-thóiⁿ++(目金金睇)++; ma̍k-chiu tsù-tsù tõ-thóiⁿ++(目珠注注在睇)++. *staring about all round*, ma̍k thóiⁿ kàu-iaⁿ-iaⁿ++(目睇到暻暻)++; ma̍k kok-kok-kim++(目國國金)++. *what are you staring about for*, õ, lṳ́ tsò kâu-kâu-iang++(哦，汝做猴猴眏)++.
 
 **starling**, liãu-ko-chiáu++(鷯哥鳥)++.
 
@@ -12307,7 +12307,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **stroke**, *to*, *the hair*, so-môⁿ++(挲毛)++; chhiú-môⁿ++(杻毛)++. *to stroke a man down*, so-lu̍ah++(挲擸)++; moⁿ-so++(摸挲)++. *the beard*, lu̍t-chhiu++(捋鬚)++.
 
-**stroll**, *about*, thit-thô++(佚佗)++; lau++(煙遊)++; in-iû++([in]遊)++; ôiⁿ-iû++(閒遊)++; ôiⁿ-kiâⁿ++(閒行)++.
+**stroll**, *about*, thit-thô++(佚佗)++; lau++(？)++; in-iû++(煙遊)++; ôiⁿ-iû++(閒遊)++; ôiⁿ-kiâⁿ++(閒行)++.
 
 **strombus**, chhiú-tsat-lô++(手節螺)++.
 
@@ -12542,7 +12542,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **suspense**, khùa-sim++(掛心)++; khùa-lṳ̃++(掛慮)++; khùa-liãm++(掛念)++; khùa-mōⁿ++(掛望)++; hûiⁿ-mōⁿ++(懸望)++; hûiⁿ-hûiⁿ tõ-mōⁿ++(懸懸在望)++.
 
-**suspicious**, khó-gî++(可疑)++; hó-gî++(好疑)++; móng-móng++(懵)++. *person*, to-gî++(多疑)++.
+**suspicious**, khó-gî++(可疑)++; hó-gî++(好疑)++; móng-móng++(懵懵)++. *person*, to-gî++(多疑)++.
 
 **sustain**, hû-khí++(扶起)++; hû-tsõ++(扶助)++; tsài++(載)++. *can*, káⁿ-tng++(敢當)++. *I cannot sustain it*, uá m̄-káⁿ-tng++(我毋敢當)++; sêng-tsài m̄-khí++(承載毋起)++.
 
@@ -12940,7 +12940,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 <!-- page:285 -->
 **tipsy**, tsùi++(醉)++; chia̍h-chiú-tsùi++(食酒醉)++; tsùi-chiú++(醉酒)++. *slightly*, ba-bun-tsùi++(夿蚊醉)++; mah-moh-tsùi++(㑻麼醉)++.
 
-**tired**, he̍k++(乏)++; khùn++(困)++; khùn-tõaⁿ++(困惰)++; khùn-kũan++(困倦)++; khùn-he̍k++(困乏)++; phî-kũan++(疲倦)++; phî-khùn++(疲困)++; phî-tõaⁿ++(疲惰)++; kha sng*++(骹酸)++, chhiú nńg++(手軟)++. *very tired with walking*, kiâⁿ-kàu-hẽng++(行到胘)++. *to be tired of*, iàm++(厭)++; ùi++(畏)++; lóu++(惱)++; màiⁿ++(勿)++. *tiresome*, khṳt--nâng seⁿ-iàm++(乞人生厭)++; tshūa-nâng-ùi++(𤆬人畏)++.
+**tired**, he̍k++(乏)++; khùn++(困)++; khùn-tõaⁿ++(困惰)++; khùn-kũan++(困倦)++; khùn-he̍k++(困乏)++; phî-kũan++(疲倦)++; phî-khùn++(疲困)++; phî-tõaⁿ++(疲惰)++; kha sng*++(骹痠)++, chhiú nńg++(手軟)++. *very tired with walking*, kiâⁿ-kàu-hẽng++(行到胘)++. *to be tired of*, iàm++(厭)++; ùi++(畏)++; lóu++(惱)++; màiⁿ++(勿)++. *tiresome*, khṳt--nâng seⁿ-iàm++(乞人生厭)++; tshūa-nâng-ùi++(𤆬人畏)++.
 
 **tithe**, thiu tsa̍p-hūn tsṳ-che̍k++(抽十分之一)++; tsa̍p-hūn thiu-che̍k++(十分抽一)++; tsa̍p tshú-khî-che̍k++(十取其一)++; tsa̍p-hūn tshú-che̍k++(十分取一)++; ke-it-thiu++(加一抽)++.
 
@@ -13951,7 +13951,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wear**, *to wear clothes*, chhēng-saⁿ++(穿衫)++. *wear a hat*, tì-bō++(戴帽)++. *wear a ring (armlet)*, kùa-chhiú-hûan++(掛手環)++. *wear a finger-ring*, kùa-chhiú-tsat++(掛手節)++. *wear holes in one's clothes*, chhēng-phùa saⁿ-khòu++(穿破衫褲)++. *as (for example) grind-stone*, siám-si̍h++(閃蝕)++; siau-si̍h++(消蝕)++. *worn out*, chhēng-kàu-phùa++(穿到破)++; lau-se++(摎紗)++; thiau-se++(挑紗)++; phùa-mo̍hⁿ++(破膜)++.
 
-**weary**, khùn++(困)++; kha sng++(骹酸)++; kha sng, chhiú nńg++(骹酸，手軟)++.
+**weary**, khùn++(困)++; kha sng++(骹痠)++; kha sng, chhiú nńg++(骹痠，手軟)++.
 
 **weather**, thîⁿ-sî++(天時)++; thiⁿ++(天)++; thiⁿ-khì++(天氣)++. *mild*, thiⁿ-sî un-hûa++(天時溫和)++; thiⁿ-sî thiâu-hûa++(天時調和)++. *hot*, thiⁿ-sî zua̍h++(天時熱)++. *fair*, thiⁿ-sî chêⁿ++(天時晴)++. *weather-beaten*, mīn pha̍k-ou++(面曝烏)++; huang khau-ou++(風攷烏)++. *weather-cock*, sũn-huang-kî++(順風旗)++; tiāⁿ-huang-tsam++(定風針)++; huang-sìn-kî++(風信旗)++.
 
