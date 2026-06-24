@@ -251,7 +251,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **abound**, hoh-tsōi++(酷㩼)++; tōa-bó-mue̍h++(大母物)++; tsōi-tsōi++(㩼㩼)++; sẽng++(盛)++; mõng-sẽng++(茂盛)++; hong-sẽng++(豐盛)++; tshù-tshù to-tsōi++(處處多㩼)++.
 
-**about**, tsha-m̄-to++(差毋多)++; kâi-pan-bó++(個班母)++; lím-lím++(凜凜)++; ũ chí-kâi-pān++(有只個范)++; tsáu-tsua̍h bô-ki++(走絀無幾)++; chìn-thò ũ-hãn++(進退有限)++.
+**about**, tsha-m̄-to++(差毋多)++; kâi-pan-bó++(個班母)++; lím-lím++(凜凜)++; ũ chí-kâi-pān++(有只個範)++; tsáu-tsua̍h bô-ki++(走絀無幾)++; chìn-thò ũ-hãn++(進退有限)++.
 
 **above**, tõ-téng++(在頂)++; tõ-chiēⁿ++(在上)++; tõ-mīn-chiēⁿ++(在面上)++.
 
@@ -375,7 +375,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **adage**, so̍k-gṳ́++(俗語)++; ngân-gṳ́++(言語)++.
 
-**adapt**, sie-kah++(相佮)++; kah-kùa++(佮蓋)++; kah-pān++(佮范)++; tsún-thâu++(準頭)++. *able to adapt oneself to circumstances*, ũ-khûan-pièn++(有權變)++.
+**adapt**, sie-kah++(相佮)++; kah-kùa++(佮蓋)++; kah-pān++(佮範)++; tsún-thâu++(準頭)++. *able to adapt oneself to circumstances*, ũ-khûan-pièn++(有權變)++.
 
 **add**, thiam++(添)++; ke++(加)++; thiⁿ-ke++(添加)++; lo̍h-ke++(落加)++; póu-ke++(補加)++; sǹg-bûa++(算摩)++; lia̍h-bûa++(掠摩)++; tshòu-ha̍h++(湊合)++.
 
@@ -1646,7 +1646,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **boundary**, kau-kài++(交界)++; kéng-kài++(境界)++; tī-kài++(地界)++; kài-hãn++(界限)++.
 
-**boundless**, bô-hãn++(無限)++; sǹg m̄-pat tò-khṳ̀++(算毋別地去)++; bô-pān++(無范)++; bô-liáu++(無了)++.
+**boundless**, bô-hãn++(無限)++; sǹg m̄-pat tò-khṳ̀++(算毋別地去)++; bô-pān++(無範)++; bô-liáu++(無了)++.
 
 **bounty**, ṳn-hũi++(恩惠)++. *bountiful*, si-hũi++(施惠)++; sṳ̀-ṳn++(賜恩)++; tōa-pù-si++(大佈施)++.
 
@@ -2910,7 +2910,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **congregate**, chi̍p-hũe++(集會)++; tsũ-chi̍p++(聚集)++; hũe-chi̍p++(會集)++; chi̍p-bûa++(集摩)++.
 
-**conjecture**, phah-sn̍g++(拍算)++; tá-sǹg++(打算)++; tá-sùan++(打算)++; pheⁿ-phah++(拚拍)++; pān++(范)++; iak++(約)++; íak-pān++(約范)++.
+**conjecture**, phah-sn̍g++(拍算)++; tá-sǹg++(打算)++; tá-sùan++(打算)++; pheⁿ-phah++(拚拍)++; pān++(範)++; iak++(約)++; íak-pān++(約範)++.
 
 **conjoin**, kap-bûa++(合摩)++; tùa-bûa++(帶摩)++; siang-liên++(相連)++; tah-tùe++(貼綴)++. *conjointly*, sie-kāng++(相共)++.
 
@@ -6980,7 +6980,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **inborn**, seⁿ-sêng++(生成)++; seⁿ-chieh++(生質)++; só-seⁿ++(所生)++. *wisdom*, seⁿ-tsai++(生知)++.
 
-**incalculable**, sǹg m̄-pat tò-khṳ̀++(算毋別地去)++; bû-sù++(無數)++; m̄-hó-siàu++(毋好數)++; bô-pān++(無范)++; lân-íⁿ tshui-chhek++(難以推測)++; lân-íⁿ chheng-chhê++(難以清查)++.
+**incalculable**, sǹg m̄-pat tò-khṳ̀++(算毋別地去)++; bû-sù++(無數)++; m̄-hó-siàu++(毋好數)++; bô-pān++(無範)++; lân-íⁿ tshui-chhek++(難以推測)++; lân-íⁿ chheng-chhê++(難以清查)++.
 
 **incapable**, bô-lêng-ûi++(無能爲)++; bô-pōu++(無步)++; bô-tshâi-chhêng++(無才情)++; bô-pún-sṳ̄++(無本事)++. see INABILITY.
 
@@ -7131,7 +7131,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **inequality**, m̄-tsôi++(毋齊)++; m̄-tsâu++(毋勻)++; m̄-pêⁿ++(毋平)++; tsham-tsha++(參差)++; tn̂g-tó++(長短)++; kûiⁿ-kẽ++(懸下)++.
 
-**inestimable**, bô-kè-pó++(無價寶)++; bô-pān-siàu++(無范數)++.
+**inestimable**, bô-kè-pó++(無價寶)++; bô-pān-siàu++(無範數)++.
 
 **inevitable**, bô-nãiⁿ-hô++(無奈何)++; bô-khó nãiⁿ-hô++(無可奈何)++; mién-put-tit++(免不得)++; m̄-hó tô-pī++(毋好逃避)++.
 
@@ -7221,7 +7221,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **innocent**, bô-tsũe++(無罪)++; bô-kùe++(無過)++; bô-kou++(無辜)++. *harmless*, láu-si̍t++(老實)++.
 
-**innumerable**, bû-sù++(無數)++; put-lêng hó-siàu++(不能好數)++; lân-íⁿ chĩn-sǹg++(難以盡算)++; lân-íⁿ sǹg-kòi++(難以算計)++; sǹg-kòi m̄-chĩn++(算計毋盡)++; sǹg-m̄-liáu++(算毋了)++; sǹg m̄-pat tò-khṳ̀++(算毋別地去)++; bô-hãn-tsōi++(無限㩼)++; bô-pān++(無范)++.
+**innumerable**, bû-sù++(無數)++; put-lêng hó-siàu++(不能好數)++; lân-íⁿ chĩn-sǹg++(難以盡算)++; lân-íⁿ sǹg-kòi++(難以算計)++; sǹg-kòi m̄-chĩn++(算計毋盡)++; sǹg-m̄-liáu++(算毋了)++; sǹg m̄-pat tò-khṳ̀++(算毋別地去)++; bô-hãn-tsōi++(無限㩼)++; bô-pān++(無範)++.
 
 **inodorous**, bô-bī++(無味)++; bô-phang-tshàu++(無芳臭)++; bõi-phang++(袂芳)++; bô-phang-thâu++(無芳頭)++.
 
