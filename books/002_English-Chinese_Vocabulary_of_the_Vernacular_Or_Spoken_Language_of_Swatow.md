@@ -105,7 +105,7 @@ m and ng will be found written without any vowel (e.g. n̂g, m̃); often also pr
 
 Any attempt to write the colloquial language of Swatow without indicating the tones carries its condemnation on the face of it. It is utterly impossible to speak intelligibly while disregarding this essential feature.
 
-There are *four* great classes of tones—1st, Phêⁿ *(*or, Pêⁿ*)*; 2d, Siãng; 3d, Khṳ̀; 4th, Ji̍p. In the Swatow Colloquial *eight* separate tones are distinguished from one another:—
+There are *four* great classes of tones—1st, Phêⁿ *(or, Pêⁿ)*; 2d, Siãng; 3d, Khṳ̀; 4th, Ji̍p. In the Swatow Colloquial *eight* separate tones are distinguished from one another:—
 
 |      |            |      |                  |
 | ---- | ---------- | ---- | ---------------- |
@@ -2683,7 +2683,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **column**, *pillar*, thiãu++(柱)++. *of print*, tsūe++(襊)++; hâng++(行)++; tiâu++(條)++.
 
-**comb**, siu++(梳)++; tshâ-siu++(柴梳)++; kak-siu++(角梳)++. *small-toothed*, sat-pìn++(虱箆)++. *comb**the hair*, siu-thâu++(梳頭)++; siu-thâu-môⁿ++(梳頭毛)++; siu-piⁿ++(梳辮)++; pìn-môⁿ++(篦毛)++. *weaver's comb*, pòu-siu++(布梳)++. *cockscomb*, koi-kùe++(雞*髻*)++. *honey-comb*, bi̍t-pâng++(蜜房)++.
+**comb**, siu++(梳)++; tshâ-siu++(柴梳)++; kak-siu++(角梳)++. *small-toothed*, sat-pìn++(虱箆)++. *comb**the hair*, siu-thâu++(梳頭)++; siu-thâu-môⁿ++(梳頭毛)++; siu-piⁿ++(梳辮)++; pìn-môⁿ++(篦毛)++. *weaver's comb*, pòu-siu++(布梳)++. *cockscomb*, koi-kùe++(雞髻)++. *honey-comb*, bi̍t-pâng++(蜜房)++.
 
 <!-- page:59 -->
 **combat**, tá-chièn++(打戰)++; kau-chièn++(交戰)++; sie-thâi++(相刣)++; sie-phah++(相拍)++.
@@ -4656,7 +4656,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **empower**, hù-thoh++(付托)++; úi++(委)++; thoh++(托)++; pun-khûan-jĩm khṳ̃-i++(分權任乞伊)++.
 
-**empty**, khang++(空)++; khang-khak++(空殼)++; khang-hṳ++(空虛)++; khang-phàⁿ++(空冇)++. *handed*, khang-chhiú++(空手)++. *to empty out*, tò-tiāu++(倒掉)++. *empty from**one vessel to another, backwards and forwards*, tò-kùe-lâi tò-kùe-khṳ̀++(倒過來倒過去)++; piâⁿ-lâi piâⁿ-khṳ̀++(*捠*來*捠*去)++. *empty show*, hṳ-hua++(虛花)++.
+**empty**, khang++(空)++; khang-khak++(空殼)++; khang-hṳ++(空虛)++; khang-phàⁿ++(空冇)++. *handed*, khang-chhiú++(空手)++. *to empty out*, tò-tiāu++(倒掉)++. *empty from**one vessel to another, backwards and forwards*, tò-kùe-lâi tò-kùe-khṳ̀++(倒過來倒過去)++; piâⁿ-lâi piâⁿ-khṳ̀++(捠來捠去)++. *empty show*, hṳ-hua++(虛花)++.
 
 <!-- page:102 -->
 **emulate**, o̍h++(學)++; o̍h-iēⁿ++(學樣)++; hãu-o̍h++(效學)++; hãu-huap++(效法)++.
