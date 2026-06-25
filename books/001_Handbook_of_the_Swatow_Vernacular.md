@@ -4270,7 +4270,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **Cheek** Kih-kau ... ... ... ~~頰~~(頰溝)
 - **Chess, to play** Teh-kî ... ... ... ~~磧~~(壓)棋
 - **Chest, breast** Sim-kuaⁿ-thâu ... ... ... 心肝頭
-- **Chestnut** Kãu-lák ... ... ... ~~侯綠~~(侯栗)
+- **Chestnut** Kãu-lák ... ... ... ~~厚綠~~(侯栗)
 - **Chew** Pōu ... ... ... ~~齧~~(哺)
 - **Chicken** Koi-kiáⁿ ... ... ... ~~鷄~~(雞)~~子~~(囝)
 - **Child** A-nôuⁿ; kiáⁿ ... ... ... ~~小兒~~(阿孥)  ~~子~~(囝)

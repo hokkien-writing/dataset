@@ -4439,7 +4439,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dusk**, mêⁿ-hng; háⁿ-hun; siè-siè-àm; siè-siè thóiⁿ-m̄-kìⁿ nâng-mīn; háⁿ-hun-kiáⁿ; háⁿ-bū.
 
-**dust**, thôu-êng; thôu-hún; tîn-êng; sua-êng; sua-thôu. *dusty*, seⁿ-thôu-hún. *raise*, eng; kiauh-sua; iauh-sua. *beat off*, pũaⁿ-tiāu sua-êng. *shake off*, hĩⁿ-tiāu thôu-hún. *to dust*, tshóiⁿ-tiāu tîn-ai. *duster (of feathers)*, koi-môⁿ-tshóiⁿ. *dust-pan*, pùn-táu. *dust-basket*, pùn-ki.
+**dust**, thôu-êng; thôu-hún; tîn-êng; sua-êng; sua-thôu. *dusty*, seⁿ-thôu-hún. *raise*, eng; kiauh-sua; iauh-sua. *beat off*, pũaⁿ-tiāu sua-êng. *shake off*, hìⁿ-tiāu thôu-hún. *to dust*, tshóiⁿ-tiāu tîn-ai. *duster (of feathers)*, koi-môⁿ-tshóiⁿ. *dust-pan*, pùn-táu. *dust-basket*, pùn-ki.
 
 <!-- page:97 -->
 **dutiful**, kiâⁿ-hàu; hàu-tsṳ́; chĩn-pńg-hūn; hàu-sũn; sũn-tshông.
@@ -9666,7 +9666,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **plague**, un-mu̍t; sî-lẽng.
 
-**plain**, *level*, phêng; pêⁿ; phêng-ngûan; pêⁿ-tī. *clear*, mêng; mêng-pe̍h. *simple*, láu-si̍t; phok-si̍t; chieh-phok; phok-sù. *speaking*, tit-tàⁿ bô-pau-tshâng.
+**plain**, *level*, phêng; pêⁿ; phêng-ngûan; pêⁿ-tī. *clear*, mêng; mêng-pe̍h. *simple*, láu-si̍t; phok-si̍t; chieh-phok; phok-sù. *speaking*, ti̍t-tàⁿ bô-pau-tshâng.
 
 **plaintiff**, ngûan-kò.
 
@@ -12987,7 +12987,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 <!-- page:286 -->
 **tongue**, chi̍h. *tip of*, chi̍h-thâu. *to put out the*, chi̍h tshun--tshut-lâi. *to scrape the*, kueh-chi̍h. *tongue scraper*, chi̍h-kueh. *mother-tongue*, pńg-tī-ūe; pńg-thôu-ūe; thôu-im.
 
-**tonic**, *a*, póu-ie̍h; póu-pî-ie̍h; póu-khì-kueh.
+**tonic**, *a*, póu-ie̍h; póu-pî-ie̍h; póu-khì-hueh.
 
 **tonight**, kim-mêⁿ; mêⁿ-hng; kim mńg; kim-siau.
 
