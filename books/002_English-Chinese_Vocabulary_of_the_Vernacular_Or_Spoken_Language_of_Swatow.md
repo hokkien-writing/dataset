@@ -1265,7 +1265,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 <!-- page:32 -->
 **bed**, tshn̂g++(床)++; mîn-tshn̂g++(眠床)++. *tressel-bed*, phou++(鋪)++. *bed-boards*, phou-pang++(鋪枋)++. *bed-fellow*, tâng-phou++(同鋪)++; tsò-pô-u̍t++(做匏夗)++. *make ready a bed*, phah-phou++(拍鋪)++. *to go to bed*, lo̍h-mîn-tshn̂g gu̍t++(落眠床夗)++. *brought to bed*, lîm-phûn++(臨盆)++; seⁿ-kiáⁿ++(生囝)++; lîm-súaⁿ++(臨產)++. *bed-room*, u̍t-pâng++(夗房)++; mîn-pâng++(眠房)++; õ-pâng++(臥房)++. *bed-clothes*, phũe++(被)++. *bed-clothes (thin)*, phũe-toaⁿ++(被單)++. *bed-post*, mîn-tshn̂g-thiãu++(眠床柱)++. *potato-bed*, huan-~~tsṳ~~(tsṳ̂)-sieⁿ++(番薯廂)++.
 
-**bedust**, seⁿ-eng-têng++(生煙塵)++; mak--tie̍h thôu-hún++(摱着塗粉)++; seⁿ-tîn-ai++(生塵埃)++.
+**bedust**, seⁿ-eng-têng++(生煙塵)++; mak--tie̍h thôu-hún++(衊着塗粉)++; seⁿ-tîn-ai++(生塵埃)++.
 
 **bee**, phang++(蜂)++; bi̍t-phang++(蜜蜂)++. *honey*, phang-bi̍t++(蜂蜜)++. *beehive*, phang-tû++(蜂櫥)++; phang-tàu++(蜂竇)++. *beeswax*, phang-la̍h++(蜂蠟)++; bi̍t-phoh++(蜜粕)++.
 
@@ -1279,7 +1279,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **before**, *in time*, tshông-tsôiⁿ++(從前)++; tsṳ̃-tsôiⁿ++(自前)++; ṳ̃-soiⁿ++(預先)++; soiⁿ-tsôiⁿ++(先前)++; soiⁿ++(先)++; soiⁿ-ji̍t++(先日)++. *in place*, tsôiⁿ-mīn++(前面)++; mīn-tsôiⁿ++(面前)++; thâu-mīn-tsôiⁿ++(頭面前)++; thâu-tsôiⁿ++(頭前)++. *before and behind*, soiⁿ-ãu++(先後)++; tsôiⁿ-ãu++(前後)++. *just before (time)*, thâng-soiⁿ++(同先)++; thâng-kùa++(同旰)++; tsá--tsûn++(早陣)++. *as before*, jiông-kū++(仍舊)++; jêng-kū++(仍舊)++; i-ngûan++(依原)++. *before the time*, sî būe-kàu tsṳ-soiⁿ++(時未到之先)++; sî-hāu būe-chêng-kàu++(時候未曾到)++; khah-soiⁿ++(較先)++; khah-tsá++(較早)++.
 
-**befoul**, bua̍h--tie̍h nah-sap++(抹着垃圾)++; mak--tie̍h nah-sap++(摱着垃圾)++; hú--tie̍h nap-sap++(捬着垃圾)++.
+**befoul**, bua̍h--tie̍h nah-sap++(抹着垃圾)++; mak--tie̍h nah-sap++(衊着垃圾)++; hú--tie̍h nap-sap++(捬着垃圾)++.
 
 **beg**, khiû++(求)++; khṳ́n-khiû++(懇求)++; koh-lô++(閣羅)++. *for alms*, khṳt-chia̍h++(乞食)++. *beg pardon*, m̄-tsai-thâu++(毋知頭)++; sù-tsūe++(恕罪)++; tit-tsũe++(得罪)++; sù--chē++(恕些)++; sit-lói++(失禮)++; tit-tsõ--tie̍h-lṳ́++(得罪着汝)++.
 
@@ -2992,7 +2992,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **contain**, tshō++(貯)++; iông++(容)++; siũ++(受)++. *what heaven and earth contain*, thiⁿ hiûⁿ, tī tsài++(天覆，地載)++.
 
-**contaminate**, ùe--tie̍h lâm-sap++(穢著襤圾)++; mak--tie̍h nah-sap++(摱着垃圾)++; jiám--tie̍h++(染着)++; hú--tie̍h++(捬着)++; hìⁿ-tie̍h++(伭着)++; u-ùe--tie̍h++(污穢着)++.
+**contaminate**, ùe--tie̍h lâm-sap++(穢著襤圾)++; mak--tie̍h nah-sap++(衊着垃圾)++; jiám--tie̍h++(染着)++; hú--tie̍h++(捬着)++; hìⁿ-tie̍h++(伭着)++; u-ùe--tie̍h++(污穢着)++.
 
 **contemplate**, àm-chẽⁿ-siẽⁿ++(暗靜想)++; khuaⁿ-nē-siẽⁿ++(寬呢想)++. *gaze at*, thóiⁿ++(睇)++; ma̍k thóiⁿ++(目睇)++; ma̍k kim-kim thóiⁿ++(目金金睇)++.
 
@@ -3949,7 +3949,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **direct**, ti̍t++(直)++; ti̍t-ti̍t++(直直)++. *direct route*, ti̍t-lōu++(直路)++. *directly*, khùn-kiáⁿ++(困囝)++; sûi-sî++(隨時)++; sûi-chiet++(隨即)++. *I will come directly after you*, úa sûi-ãu chiũ-lâi++(我隨後就來)++. *to direct*, chí-ín++(指引)++. *order*, hun-hù++(吩咐)++; mẽng++(命)++. *control*, kúan-lí++(管理)++; kúan++(管)++. *a letter*, siá-huang-phûe++(寫封皮)++. *directions*, mẽng-lẽng++(命令)++; kui-tiâu++(規條)++.
 
-**dirt**, nah-sap++(垃圾)++; lâm-sap++(襤圾)++. *dirty*, nah-sap++(垃圾)++; nah-sap-sièⁿ++(垃圾相)++; o-tso++(呵糟)++; u-ùe++(污穢)++; m̄-chheng-khih++(毋清潔)++; m̄-chheng-kiet++(毋清潔)++; o-lâm o-lī++(呵湳呵悷)++. *to dirty*, mak--tie̍h nah-sap++(摱着垃圾)++; hú--tie̍h nah-sap++(拊着垃圾)++.
+**dirt**, nah-sap++(垃圾)++; lâm-sap++(襤圾)++. *dirty*, nah-sap++(垃圾)++; nah-sap-sièⁿ++(垃圾相)++; o-tso++(呵糟)++; u-ùe++(污穢)++; m̄-chheng-khih++(毋清潔)++; m̄-chheng-kiet++(毋清潔)++; o-lâm o-lī++(呵湳呵悷)++. *to dirty*, mak--tie̍h nah-sap++(衊着垃圾)++; hú--tie̍h nah-sap++(拊着垃圾)++.
 
 **disabled**, hùi-chi̍t++(廢疾)++; phùa-sièⁿ++(破相)++; hùi-jîn++(廢人)++.
 
@@ -8982,7 +8982,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **oblong**, tn̂g-huang++(長方)++.
 
-**obloquy**, mak--tie̍h nâng-miâⁿ-siaⁿ++(摱着人名聲)++; húiⁿ-pãng++(誹謗)++; iâu-pãng++(謠謗)++; lêng-zo̍k++(凌辱)++.
+**obloquy**, mak--tie̍h nâng-miâⁿ-siaⁿ++(衊着人名聲)++; húiⁿ-pãng++(誹謗)++; iâu-pãng++(謠謗)++; lêng-zo̍k++(凌辱)++.
 
 **obscene**, siâ-îm++(邪淫)++. *language*, tshou-siaⁿ++(粗聲)++; káng-tshou lô-tshò++(講粗潦糙)++. *books*, îm-tsṳ++(淫書)++. *plays*, îm-hì++(淫戲)++.
 
@@ -9766,7 +9766,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pollen**, hue-hún++(花粉)++.
 
-**pollute**, mak--tie̍h nah-sap++(摱着垃圾)++; u-jiám++(污染)++; jiám-u++(染污)++; jiám--tie̍h nah-sap++(染着垃圾)++; u-ùe--tie̍h++(污穢着)++.
+**pollute**, mak--tie̍h nah-sap++(衊着垃圾)++; u-jiám++(污染)++; jiám-u++(染污)++; jiám--tie̍h nah-sap++(染着垃圾)++; u-ùe--tie̍h++(污穢着)++.
 
 **polypus**, *in the nose*, phīⁿ-lêng++(鼻棱)++; phīⁿ-tsûa++(鼻蛇)++.
 
@@ -11757,7 +11757,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **smuggle**, tsáu-hiàng++(走餉)++; tsáu-sai++(走私)++.
 
-**smutty**, hun-ou++(薰烏)++; mak--tie̍h húe-thûn++(摱着火尘)++.
+**smutty**, hun-ou++(薰烏)++; mak--tie̍h húe-thûn++(衊着火尘)++.
 
 **snail**, lô++(螺)++; tshân-lô++(田螺)++.
 
@@ -12075,7 +12075,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **stagnant**, *water*, sí-tsúi++(死水)++; bõi-kiâⁿ-lâu kâi-tsúi++(袂行流个水)++.
 
-**stain**, jiám-u++(染污)++; mak--tie̍h nah-sap++(摱着垃圾)++. *with ink*, ba̍k-u++(墨污)++. *with blood*, hueh-u++(血污)++. see DYE.
+**stain**, jiám-u++(染污)++; mak--tie̍h nah-sap++(衊着垃圾)++. *with ink*, ba̍k-u++(墨污)++. *with blood*, hueh-u++(血污)++. see DYE.
 
 **stair**, lâu-thui++(樓梯)++; ta̍h-pōu-tsâng++(踏步層)++. *go upstairs*, teng-lâu++(登樓)++; seng-lâu++(升樓)++; chiẽⁿ-lâu++(上樓)++; peh-chiẽⁿ-lâu++(爬上樓)++; khṳ̀-lâu-téng++(去樓頂)++.
 
@@ -12627,7 +12627,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **tailor**, tshâi-hông++(裁縫)++; thīⁿ-saⁿ sai-pẽ++(縫衫師父)++.
 
-**taint**, tiam-u++(沾污)++; jiám++(染)++; jiám-u++(染污)++; ma̍k--tie̍h++(摱着)++. *tainted, as fish*, ien++(蔫)++; sie̍h-bī++(液味)++.
+**taint**, tiam-u++(沾污)++; jiám++(染)++; jiám-u++(染污)++; ma̍k--tie̍h++(衊着)++. *tainted, as fish*, ien++(蔫)++; sie̍h-bī++(液味)++.
 
 **take**, khie̍h++(挈)++; tshú++(取)++; niⁿ++(拈)++; lah++(擸)++; put++(不)++; tsang++(將)++. *your book*, khie̍h lṳ́-pńg-chheh++(挈汝本冊)++. *a fort*, phah-phùa phàu-thâi++(拍破炮台)++. *a standard*, chhiéⁿ-kî++(搶旗)++; to̍h-kî++(奪旗)++. *away*, khie̍h-khṳ̀++(挈去)++; siu-khí++(收起)++; to̍h-tiāu++(擇掉)++. *along with tea, &c*, phùe-tê++(配茶)++; phùe-tê-chia̍h++(配茶食)++. *with one*, thùa-khie̍h++(夰挈)++. *the air*, lā-liâng++(晾凉)++. *an inventory*, tiám-hùe-mue̍h++(點貨物)++; kiám-tiám++(檢點)++. *by lot*, khiah-khau++(抾鬮)++. *care*, tsṳ́-sòi++(仔細)++; kṳ́n-sín++(謹慎)++; sié-sim++(小心)++; kṳ́n-sim++(謹心)++; sòi-jī++(細膩)++. *care of*, thóiⁿ-siú++(睇守)++; chiàu-kù++(照顧)++; liāu-lí++(料理)++. *care of oneself*, tsṳ̃-kí pó-tõng++(自己保重)++. *down*, khie̍h--lo̍h-lâi++(挈落來)++; pak--lo̍h-lâi++(剝落來)++. *exercise*, khṳ̀-thit-thô++(去佚佗)++; kiâⁿ-thit-thô++(行佚佗)++; kiâⁿ-siau-iâu++(行逍遙)++; ôiⁿ-pōu++(閒步)++; kîn-kiâⁿ++(？行)++; kiâⁿ-lâi kiâⁿ-khṳ̀++(行來行去)++. *one by the hand*, khan-chhiú++(牽手)++. *leave of*, kàu-sî++(告辭)++; sî-pie̍t++(辭別)++; siang-pie̍t++(相别)++; chiãm-pie̍t++(暫別)++; kàu-pie̍t++(告別)++. *one in (cheat)*, tshuah++(撮)++; phièn++(騙)++; kuang-phièn++(誆騙)++. *medicine*, chia̍h-ie̍h++(食藥)++. *out of the water*, liâu--tie̍h++(撩着)++. *off, shoes or clothes*, thǹg-tiāu++(褪掉)++. *off, a hat*, pak-tiāu++(剝掉)++; hien-tiāu++(掀掉)++. *one's hat to any one*, hien-khí-bō tsò-lói-siàu++(掀起帽做禮數)++. *off a cover*, iãuⁿ-khòiⁿ++(扷蓋)++; iãuⁿ-khàm++(扷篕)++; iãuⁿ-khui++(扷開)++. *out a splinter*, thie-tshuaⁿ++(挑栓)++; kiah-chhì++(揭刺)++. *take snuff*, chia̍h-phīⁿ-hun++(食鼻薰)++; hngh-phīⁿ-hun++(哼鼻薰)++. *take snuff (out of bottle)*, thie-phīⁿ-hun++(挑鼻薰)++. *up, with chopsticks*, koih++(挾)++. *with two fingers*, nuehⁿ++(挼)++; niⁿ++(拈)++. *under the arm*, ko̍ih tõ koh-ẽ++(夾在胳下)++. *the right hand path*, tùi-chiàⁿ-chhiú-pôiⁿ khṳ̀++(對正手畔去)++. *a disease*, tie̍h-pēⁿ++(着病)++; ùe-tie̍h-pēⁿ++(穢着病)++; jiám-tie̍h-pēⁿ++(染着病)++; thûan-jiám++(傳染)++. *upon oneself*, ka-kī tam-sêng++(家己擔承)++; taⁿ-tng++(擔當)++. *take upon oneself (without authority)*, tsṳ̃-tsuan++(自專)++. *fire*, to̍h-húe++(着火)++. *a wife*, tshūa-chhin++(娶親)++; tshūa-bóu++(娶婦)++; tì-ke++(置家)++. *hold of*, chhiú lia̍h++(手掠)++; khie̍h-kín++(挈緊)++; khîⁿ++(鉗)++; khîⁿ-kín++(鉗緊)++; mán-kín++(挽緊)++; khan-kín++(牽緊)++. *hold of one's queue*, khím-piⁿ++(坅邊)++; tsáng-piⁿ++(總邊)++; mán-piⁿ++(挽邊)++.
 
