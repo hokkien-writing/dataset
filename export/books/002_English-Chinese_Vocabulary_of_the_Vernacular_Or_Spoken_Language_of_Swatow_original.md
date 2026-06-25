@@ -4865,7 +4865,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **essay**, *an*, bûn-chieⁿ. *write*, tsò-bûn-chieⁿ; tsò-bûn. *a moral*, siẽn-tsṳ. *a moral tract*, khǹg-sì-bûn.
 
-**essence**, pńg-chie; ngûan-khì.
+**essence**, pńg-chieh; ngûan-khì.
 
 **essential**, chhiet-iàu; put-khó-bô; bõi-tit-mién; pit-pit tie̍h-ũ.
 
@@ -13442,7 +13442,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **uniform**, che̍k-iēⁿ; sie-tâng; tâng-sek; tsôi-chiáⁿ; tsâu. *a soldier's*, hō-kùa; hō-i.
 
-**uninhabited**, bô-nâng khiã-khí; bô-nâng só-tõ; bô-nâng-in; bô-búe-tsàu; phau-hng; tñg-nâng-in.
+**uninhabited**, bô-nâng khiã-khí; bô-nâng só-tõ; bô-nâng-in; bô-húe-tsàu; phau-hng; tñg-nâng-in.
 
 **unintentional**, bô-ì; bô-kù-ì; bô-siẽⁿ; bô-tshûn-siẽⁿ.
 
