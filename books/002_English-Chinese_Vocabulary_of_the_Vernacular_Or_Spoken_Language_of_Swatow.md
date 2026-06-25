@@ -5929,7 +5929,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **geography**, tī-lí++(地理)++. *book on*, tī-lí-chì++(地理志)++; tī-lí-tsṳ++(地理書)++.
 
-**geomancy**, tĩ-lí++(地理)++; thóiⁿ-suaⁿ++(看山)++; tsáu-tī-lí++(走地理)++; kiâⁿ-tī-lí++(行地理)++; thóiⁿ-huang-tsúi++(睇風水)++. *geomancer*, thóiⁿ-suaⁿ sin-seⁿ++(睇山先生)++; huang-tsúi sin-seⁿ++(風水先生)++.
+**geomancy**, tĩ-lí++(地理)++; thóiⁿ-suaⁿ++(睇山)++; tsáu-tī-lí++(走地理)++; kiâⁿ-tī-lí++(行地理)++; thóiⁿ-huang-tsúi++(睇風水)++. *geomancer*, thóiⁿ-suaⁿ sin-seⁿ++(睇山先生)++; huang-tsúi sin-seⁿ++(風水先生)++.
 
 **geometry**, niêⁿ-tī-huap++(量地法)++.
 
@@ -6287,7 +6287,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **half**, pùaⁿ++(半)++. *one*, che̍k-pùaⁿ++(一半)++; che̍k-pôiⁿ++(一畔)++; che̍k-ûe++(一半)++; che̍k-kue̍h++(一橛)++. *half-moon*, gue̍h îⁿ-che̍k-pùaⁿ++(月圓一半)++. *half-way*, pùaⁿ-lōu++(半路)++; pùaⁿ-thû++(半途)++. *half-cooked*, pùaⁿ-chheⁿ-se̍k++(半生熟)++; m̄-thàng-sim++(半通心)++; khiū++(糗)++. *half-done*, tsò kàu-pùaⁿ-kue̍h++(做到半橛)++.
 
-**hall**, tn̂g++(堂)++; thiaⁿ++(廳)++. *of justice*, kong-tn̂g++(公堂)++. *of assembly*, hũe-tn̂g++(會堂)++. *of audience*, kim-luân-tōiⁿ++(金鑾殿)++; tì-tōiⁿ++(置殿)++; gṳ̄-tōiⁿ++(御殿)++. *examination hall*, kháu-īⁿ++(考院)++; kháu-tiêⁿ++(考場)++. *examination hall (for Kujin examinations)*, kòng-īⁿ++(貢院)++.
+**hall**, tn̂g++(堂)++; thiaⁿ++(廳)++. *of justice*, kong-tn̂g++(公堂)++. *of assembly*, hũe-tn̂g++(會堂)++. *of audience*, kim-luân-tōiⁿ++(金鑾殿)++; tì-tōiⁿ++(帝殿)++; gṳ̄-tōiⁿ++(御殿)++. *examination hall*, kháu-īⁿ++(考院)++; kháu-tiêⁿ++(考場)++. *examination hall (for Kujin examinations)*, kòng-īⁿ++(貢院)++.
 
 **halliards**, lu̍t-soh++(捋索)++.
 
@@ -6634,7 +6634,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **hornet**, n̂g-phang++(黃蜂)++.
 
-**horoscope**, sì-thiãu++(四柱)++; poih-jī++(八字)++. *to look up one's*, lũn-poih-jī++(論八字)++; thóiⁿ-sì-thiãu++(看四柱)++.
+**horoscope**, sì-thiãu++(四柱)++; poih-jī++(八字)++. *to look up one's*, lũn-poih-jī++(論八字)++; thóiⁿ-sì-thiãu++(睇四柱)++.
 
 **horrible**, khó-ùi++(可畏)++; khó-kiaⁿ++(可驚)++; tshūa-nâng-kiaⁿ++(𤆬人驚)++; kiaⁿ-ĩ++(驚異)++; hãi-ĩ++(駭異)++.
 
@@ -8761,7 +8761,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **muzzle**, lâng-tshùi++(籠喙)++; kùa-tshùi-lâng++(掛喙籠)++; lap-gû-tshùi++(套牛喙)++.
 
-**my**, uá--kâi++(我个)++. *name*, pĩ-sèⁿ++(鄙姓)++; sié-miâⁿ++(小名)++. *house*, pĩ-sià++(鄙舎)++; tsháu-sià++(草舍)++. *son*, úa siáu-jî-kiáⁿ++(我小兒囝)++. *daughter*, sié-nńg++(小女)++. *wife*, úa kâi-lãi-tsuat++(我個內拙)++. *self*, ka-kī++(家己)++; pńg-sin++(本身)++. *I saw it with my own eyes*, úa chhin-ma̍k thóiⁿ-kìⁿ++(我親目睇見)++.
+**my**, uá--kâi++(我个)++. *name*, pĩ-sèⁿ++(鄙姓)++; sié-miâⁿ++(小名)++. *house*, pĩ-sià++(鄙舎)++; tsháu-sià++(草舍)++. *son*, úa siáu-jî-kiáⁿ++(我小兒囝)++. *daughter*, sié-nńg++(小女)++. *wife*, úa kâi-lãi-tsuat++(我个內拙)++. *self*, ka-kī++(家己)++; pńg-sin++(本身)++. *I saw it with my own eyes*, úa chhin-ma̍k thóiⁿ-kìⁿ++(我親目睇見)++.
 
 **myrrh**, mu̍t-ie̍h++(疫藥)++.
 
@@ -9743,7 +9743,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **point**, chiam++(尖)++; hong++(鋒)++; búe++(尾)++; tshùi++(喙)++. *cut to a*, phoi-chiam++(批尖)++; siah-chiam++(削尖)++. *of a knife*, to-chiam++(刀尖)++; to-hong++(刀鋒)++; to-búe++(刀尾)++. *pointed*, chiam-chiam++(尖尖)++.
 
-**point**, *to*, chí++(指)++; kí++(指)++; kí-thóiⁿ++(指看)++; chí-tiāⁿ++(指定)++; kí-tiāⁿ++(指定)++. *a book*, tiám-tsṳ++(點書)++; tiám-tsṳ-chheh++(點書冊)++. *out an error*, chí-mîⁿ++(指迷)++; kí-phùa++(指破)++.
+**point**, *to*, chí++(指)++; kí++(指)++; kí-thóiⁿ++(指睇)++; chí-tiāⁿ++(指定)++; kí-tiāⁿ++(指定)++. *a book*, tiám-tsṳ++(點書)++; tiám-tsṳ-chheh++(點書冊)++. *out an error*, chí-mîⁿ++(指迷)++; kí-phùa++(指破)++.
 
 **poison**, ta̍k++(毒)++; ta̍k-ie̍h++(毒藥)++. *to*, lo̍h-ta̍k-ie̍h++(落毒藥)++; ie̍h-sí-nâng++(藥死人)++. *fish*, ie̍h-hṳ̂++(藥魚)++. *calculated to prove fatal in a certain time*, hãn-ie̍h++(限藥)++.
 
