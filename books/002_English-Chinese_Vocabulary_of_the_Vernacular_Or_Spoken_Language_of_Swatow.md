@@ -8323,7 +8323,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **means**, huang-huap++(方法)++; huap-tsat++(法節)++; huap-tōu++(法度)++. *no*, bô-huap++(無法)++; bô-pōu++(無步)++; bô-lêng-ûi++(無能爲)++; bõi-tit ji̍p-chhiú++(袂得入手)++. *capital*, tsṳ-pńg++(資本)++; pńg-chîⁿ++(本錢)++.
 
-**meantime**, tng-sî++(當時)++; hṳ́-sî++(彼時)++.
+**meantime**, tng-sî++(當時)++; hṳ́-sî++(許時)++.
 
 **measles**, mûeⁿ-chèng++(糜症)++. *to have*, chia̍h-mûeⁿ++(食糜)++; tshut-mûeⁿ++(出糜)++.
 
@@ -12781,7 +12781,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **testimony**, chèng-kṳ̃++(證據)++; kan-chèng++(干證)++; chèng-ngân++(證言)++; chí-chèng++(指證)++.
 
-**than**, *more*, put-chí++(不止)++; m̄-chheng++(毋清)++; put-to̍k++(不獨)++; m̄-khéng++(毋肯)++; tsōi--kùe++(㩼過)++; ke--kùe++(家過)++; huân-liáu-ke++(還了家)++; huân-kèng-ke++(還更加)++; siãng-chhiáⁿ-ũ++(尚且有)++. *he is older than I*, i tōa--uá++(伊大我)++; i tōa-kùe-uá++(伊大過我)++. *no more than*, put-kùe++(不過)++. *more than ten*, tsa̍p-gūa++(十外)++; tsa̍p-tshut++(十出)++; tsa̍p-ṳ̂++(十餘)++; tsa̍p-tshûn++(十存)++.
+**than**, *more*, put-chí++(不止)++; m̄-chheng++(毋清)++; put-to̍k++(不獨)++; m̄-khéng++(毋肯)++; tsōi--kùe++(㩼過)++; ke--kùe++(加過)++; huân-liáu-ke++(還了加)++; huân-kèng-ke++(還更加)++; siãng-chhiáⁿ-ũ++(尚且有)++. *he is older than I*, i tōa--uá++(伊大我)++; i tōa-kùe-uá++(伊大過我)++. *no more than*, put-kùe++(不過)++. *more than ten*, tsa̍p-gūa++(十外)++; tsa̍p-tshut++(十出)++; tsa̍p-ṳ̂++(十餘)++; tsa̍p-tshûn++(十存)++.
 
 **thank**, siā++(謝)++; kám-siā++(感謝)++. *many thanks*, tsōi-siā++(㩼謝)++; to-siā++(多謝)++; kám-mông++(感蒙)++. *thank you*, lâu--lṳ́++(勞汝)++; huân-lṳ́++(煩汝)++; huân-lâu--lṳ́++(煩勞汝)++; bûa-lūi--lṳ́++(磨累汝)++; lūi--lṳ́++(累汝)++; tōa-lãu-nâng++(大勞人)++; chhit-lãu poih-tōa++(七勞八大)++; siũ-hũi++(受惠)++; niáⁿ-hũi++(領惠)++; niáⁿ-chhêng++(領情)++; kám-chhêng++(感情)++; hùi-sim++(費心)++; phièn--lṳ́ hùi-sîn++(騙汝費神)++; lâu-tõng--tie̍h lṳ́++(勞動着汝)++; lãu-tõng--tie̍h tãi-kè++(勞動着大駕)++. *I will thank you to come*, lūi-lṳ́-lâi++(累汝來)++; chhiáⁿ-lṳ́-lâi++(請汝來)++. *no need for thanks*, tàⁿ-kàu-lūi--kâi-ūe++(呾到累个話)++; sĩ-pńg-téng++(是本等)++; sĩ-pńg-hūn++(是本分)++; khí-káⁿ++(豈敢)++; huaⁿ-hí++(歡喜)++; hó-ūe++(好話)++; kōi-kōi++(易易)++; kâi-ì-sṳ̀ tiāⁿ-tiāⁿ++(個意思定定)++; mién-kám-siā++(免感謝)++. *to return thanks*, tap-siā++(答謝)++. *letter of thanks*, siā-thiap++(謝帖)++. *thankful*, kám-ṳn put-buâng++(感恩不忘)++; kám-ṳn put-chhién++(感恩不淺)++; kám-liãm tõ-sim++(感念在心)++; mông-ṳn tài-tek++(蒙恩戴德)++; kám-ṳn tài-tek++(感恩戴德)++; pò-ṳn++(報恩)++; tsai-ṳn++(知恩)++. *thankless*, buâng-ṳn++(忘恩)++; buâng-ṳn hũ-ngĩ++(忘恩負義)++; hiau-chhêng tso̍h-ngĩ++(梟情絕義)++; bô-jîn-ngĩ++(無仁義)++; buâng-chhêng++(忘情)++; kùe-kèⁿ thiu-kúai++(過徑抽拐)++. *thankworthy*, kai-siā++(該謝)++.
 
@@ -12798,7 +12798,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **theme**, tôi-ma̍k++(題目)++. *to give out a*, tshut-tôi++(出題)++; tshut-tôi-thâu++(出題頭)++.
 
-**then**, jiên-ãu++(然後)++; ãu++(後)++; chiũ++(就)++; chiàⁿ++(正)++. *at that time*, tng-sî++(當時)++; hṳ́-tsûn++(許陣)++; hṳ́-sî++(彼時)++; hṳ́-hûe++(許回)++; hṳ́-tsûn-mue̍h++(許陣物)++.
+**then**, jiên-ãu++(然後)++; ãu++(後)++; chiũ++(就)++; chiàⁿ++(正)++. *at that time*, tng-sî++(當時)++; hṳ́-tsûn++(許陣)++; hṳ́-sî++(許時)++; hṳ́-hûe++(許回)++; hṳ́-tsûn-mue̍h++(許陣物)++.
 
 **thence**, tshông-hṳ́-kò++(從許塊)++; iû-hṳ́-kò++(由許塊)++.
 
@@ -12921,7 +12921,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **timber**, sam-sāi++(杉楈)++; sam-liāu++(杉料)++; tshâ-sāi++(柴楈)++; ba̍k-liāu++(木料)++. *merchant*, khui-sam-phòu++(開杉舖)++; khui-sam-chhiáng++(開杉廠)++; khui-sam-hâng++(開杉行)++; tshâ-sāi-phòu++(柴楈舖)++.
 
-**time**, sî++(時)++; sî-hāu++(時候)++. *at that*, tng-sî++(當時)++; hṳ́-sî++(許時)++; hṳ́--kâi sî-hāu++(許個時候)++; tng-khî-sî++(當期時)++. *what is the*, ũ-sĩ-mih sî-sîn++(有是乜時辰)++; kúi-tiám-cheng++(幾點鐘)++. *at what*, tî-sî++(底時)++; sĩ-mih sî-hāu++(是乜時候)++. *have no*, m̄-ôiⁿ++(毋閒)++; bô-ôiⁿ++(無閒)++. *to fix a*, tiāⁿ-khî++(定期)++; tiāⁿ-tie̍h ji̍t-chí++(定着日子)++; ieh-tiāⁿ ji̍t-khî++(約定日期)++. *at any*, put-lũn tî-sî++(不論底時)++; m̄-lũn sĩ-mih sî-hāu++(毋論是乜時候)++. *when the time comes*, thãi sî-hāu kàu++(待時候到)++. *in time*, bõi-mān++(袂慢)++; hù--tie̍h++(赴着)++. *not in time*, hù-m̄-tie̍h++(赴毋着)++. *time flies*, sî-ji̍t zû-so++(時日如梭)++, kuang-im sṳ̃-chìⁿ++(光陰似箭)++. *in the time of Confucius*, tng Khóng-tsṳ́ kâi-sî-hāu++(當孔子个時候)++; Khóng-tsṳ́ tiâng-sî++(孔子當時)++. *another*, ẽ-ji̍t++(下日)++; ẽ-sî++(下時)++. *a long*, kú++(久)++. *a short*, chiãm-sî++(暫時)++. *any time wil do*, bô-lũn tiâng-sî tou-hó++(無論當時都好)++; put-khu tî-kâi sî-hāu tou-hó++(不拘底个時候都好)++; sûi-piẽn tî-kâi sî-hāu tou-hó++(隨便底个時候都好)++. *three times*, saⁿ-pái++(三擺)++; saⁿ-tshṳ̀++(三次)++; saⁿ-hãng++(三項)++; saⁿ-hûe++(三回)++; saⁿ-tsúi++(三水)++. *many times*, ē-ē++(下下)++; sî-sî++(時時)++; lú-lú++(屢屢)++; lú-tshṳ̀++(屢次)++. *ten times better*, iâⁿ-kùe tsa̍p-pũe++(贏過十倍)++. *timely*, ha̍h-sî++(合時)++; tùi-sî++(對時)++; tng-sî++(當時)++; tú-tiám++(堵點)++. *time-serving*, sûi-sî-pièn++(隨時變)++.
+**time**, sî++(時)++; sî-hāu++(時候)++. *at that*, tng-sî++(當時)++; hṳ́-sî++(許時)++; hṳ́--kâi sî-hāu++(許個時候)++; tng-khî-sî++(當其時)++. *what is the*, ũ-sĩ-mih sî-sîn++(有是乜時辰)++; kúi-tiám-cheng++(幾點鐘)++. *at what*, tî-sî++(底時)++; sĩ-mih sî-hāu++(是乜時候)++. *have no*, m̄-ôiⁿ++(毋閒)++; bô-ôiⁿ++(無閒)++. *to fix a*, tiāⁿ-khî++(定期)++; tiāⁿ-tie̍h ji̍t-chí++(定着日子)++; ieh-tiāⁿ ji̍t-khî++(約定日期)++. *at any*, put-lũn tî-sî++(不論底時)++; m̄-lũn sĩ-mih sî-hāu++(毋論是乜時候)++. *when the time comes*, thãi sî-hāu kàu++(待時候到)++. *in time*, bõi-mān++(袂慢)++; hù--tie̍h++(赴着)++. *not in time*, hù-m̄-tie̍h++(赴毋着)++. *time flies*, sî-ji̍t zû-so++(時日如梭)++, kuang-im sṳ̃-chìⁿ++(光陰似箭)++. *in the time of Confucius*, tng Khóng-tsṳ́ kâi-sî-hāu++(當孔子个時候)++; Khóng-tsṳ́ tiâng-sî++(孔子當時)++. *another*, ẽ-ji̍t++(下日)++; ẽ-sî++(下時)++. *a long*, kú++(久)++. *a short*, chiãm-sî++(暫時)++. *any time wil do*, bô-lũn tiâng-sî tou-hó++(無論當時都好)++; put-khu tî-kâi sî-hāu tou-hó++(不拘底个時候都好)++; sûi-piẽn tî-kâi sî-hāu tou-hó++(隨便底个時候都好)++. *three times*, saⁿ-pái++(三擺)++; saⁿ-tshṳ̀++(三次)++; saⁿ-hãng++(三項)++; saⁿ-hûe++(三回)++; saⁿ-tsúi++(三水)++. *many times*, ē-ē++(下下)++; sî-sî++(時時)++; lú-lú++(屢屢)++; lú-tshṳ̀++(屢次)++. *ten times better*, iâⁿ-kùe tsa̍p-pũe++(贏過十倍)++. *timely*, ha̍h-sî++(合時)++; tùi-sî++(對時)++; tng-sî++(當時)++; tú-tiám++(堵點)++. *time-serving*, sûi-sî-pièn++(隨時變)++.
 
 **timid**, bô-táⁿ++(無膽)++; ùi-thâu ùi-búe++(畏頭畏尾)++; tham-seⁿ phàⁿ-sí++(貪生怕死)++; kiaⁿ-seⁿ kiaⁿ-sí++(驚生驚死)++.
 
@@ -13442,7 +13442,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **uniform**, che̍k-iēⁿ++(一樣)++; sie-tâng++(相同)++; tâng-sek++(同式)++; tsôi-chiáⁿ++(齊整)++; tsâu++(勻)++. *a soldier's*, hō-kùa++(號褂)++; hō-i++(號衣)++.
 
-**uninhabited**, bô-nâng khiã-khí++(無人徛起)++; bô-nâng só-tõ++(無人所在)++; bô-nâng-in++(無人煙)++; bô-búe-tsàu++(無火灶)++; phau-hng++(拋荒)++; tñg-nâng-in++(斷人煙)++.
+**uninhabited**, bô-nâng khiã-khí++(無人徛起)++; bô-nâng só-tõ++(無人所在)++; bô-nâng-in++(無人煙)++; bô-húe-tsàu++(無火灶)++; phau-hng++(拋荒)++; tñg-nâng-in++(斷人煙)++.
 
 **unintentional**, bô-ì++(無意)++; bô-kù-ì++(無故意)++; bô-siẽⁿ++(無想)++; bô-tshûn-siẽⁿ++(無存想)++.
 
@@ -13554,7 +13554,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **unworthy**, m̄-kham-kai++(毋堪該)++; put-kham++(不堪)++; put-kai++(不該)++; m̄-kai++(毋該)++; m̄-eng-kai++(毋應該)++; m̄-eng-tng++(毋應當)++; m̄-kham-tng++(毋堪當)++. *of notice*, put-tsok-kuan++(不足觀)++; m̄-tèng hó-thóiⁿ++(毋中好睇)++.
 
-**unyielding**, ngẽ-sèⁿ++(硬性)++; chip-sèⁿ++(執性)++; m̃-ho̍k++(唔服)++; m̃-sũn++(唔順)++; kang-ngẽ++(工硬)++.
+**unyielding**, ngẽ-sèⁿ++(硬性)++; chip-sèⁿ++(執性)++; m̃-ho̍k++(唔服)++; m̃-sũn++(唔順)++; kang-ngẽ++(剛硬)++.
 
 **up**, chiẽⁿ++(上)++; khí++(起)++. *up and down*, chiẽⁿ-lo̍h++(上落)++. *to get*, tsáu-khí++(早起)++. *is the sun up*, ji̍t-thâu tshut a-būe++(日頭出也未)++. *does not come up to*, būe-ki̍p++(未及)++; būe-kàu++(未到)++; m̄-chhin-chhiẽⁿ++(毋親像)++; būe-hó-pí++(未好比)++; lân-pí++(難比)++; oh-pí++(僫比)++; hûan-su++(還輸)++. *not quite up to*, bô-hièⁿ-chiẽⁿ++(無向上)++.
 
@@ -14086,7 +14086,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **wind**, *to (as thread)*, în++(縈)++; tîⁿ++(纏)++; tsāng++(摠)++. *wind the queue round the head*, khûan-piⁿ++(鬈辮)++; phûan-piⁿ++(絆辮)++; *wind the queue round the head (at the back of the head)*, tá tsang-kiáⁿ-lô++(打鬃囝螺)++. *a clock*, khui-sî-cheng++(開時鐘)++. *a winding road*, lōu uan++(路彎)++; lōu uan-khek++(路彎曲)++; i-uan khit-khek++(迂彎缺曲)++.
 
-**window**, theng++(窗)++. *a sliding one*, theng-thuah++(窗屜)++. *shutters*, theng-mn̂g++(窗門)++. *stanchions*, theng-chí++(窗)++.
+**window**, theng++(窗)++. *a sliding one*, theng-thuah++(窗屜)++. *shutters*, theng-mn̂g++(窗門)++. *stanchions*, theng-chí++(窗子)++.
 
 <!-- page:310 -->
 **wine**, *(spirituous liquor)*, chiú++(酒)++. *(grape)*, phû-thô-chiú++(葡萄酒)++. *flagon*, chiú-pân++(酒瓶)++; chiú-tsun++(酒樽)++. *cup*, chiú-pue++(酒杯)++; chiú-cheng++(酒盅)++; chiú-tsúaⁿ++(酒盞)++; chiú-chiak++(酒酌)++, chiú-au++(酒甌)++. *shop*, chiú-tiàm++(酒店)++; chiú-phòu++(酒舖)++. *press*, chiú-tsa̍h++(酒閘)++.
