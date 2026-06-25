@@ -4865,7 +4865,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **essay**, *an*, bûn-chieⁿ++(文章)++. *write*, tsò-bûn-chieⁿ++(做文章)++; tsò-bûn++(做文)++. *a moral*, siẽn-tsṳ++(善書)++. *a moral tract*, khǹg-sì-bûn++(勸世文)++.
 
-**essence**, pńg-chie++(本質)++; ngûan-khì++(元氣)++.
+**essence**, pńg-chieh++(本質)++; ngûan-khì++(元氣)++.
 
 **essential**, chhiet-iàu++(切要)++; put-khó-bô++(不可無)++; bõi-tit-mién++(袂得免)++; pit-pit tie̍h-ũ++(必必着有)++.
 
