@@ -70,7 +70,7 @@ def _load_merged_rows(csv_path: Path) -> list[dict]:
             if "*" in puj_val:
                 continue
             han_val = (row.get("han") or "").strip()
-            if "丨" in han_val:
+            if "丨" in han_val or "？" in han_val:
                 continue
             latn_norm = (row.get("latn_norm") or "").strip()
             if not latn_norm:
