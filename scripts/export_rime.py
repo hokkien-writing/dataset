@@ -1082,7 +1082,7 @@ def write_system_dict(
         "sort: by_weight",
     ]
     if pkg == "teochew":
-        header.append("use_preset_vocabulary: true")
+        header.append("use_preset_vocabulary: false")
         header.append("min_phrase_weight: 100  # 僅導入八股文中詞頻 >= 100 个詞")
         header.append("max_phrase_length: 4   # 僅導入 4 字以內个詞")
     header += [
