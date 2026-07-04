@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<title>Proofread: __TITLE__</title>
+<style>
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Noto Sans CJK SC", sans-serif; }
+  body { display: flex; flex-direction: column; background: #1e1e1e; color: #ddd; }
+  header { padding: 8px 12px; background: #2a2a2a; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; border-bottom: 1px solid #444; }
+  header .title { font-weight: 600; color: #fff; }
+  header button, header input, header select { background: #333; color: #ddd; border: 1px solid #555; padding: 6px 10px; border-radius: 4px; font-size: 14px; }
+  header button { cursor: pointer; }
+  header button:hover:not(:disabled) { background: #444; }
+  header button:disabled { opacity: .4; cursor: not-allowed; }
+  header input[type=number] { width: 80px; }
+  #status { margin-left: auto; font-size: 13px; color: #aaa; }
+  #status.saved { color: #6c6; }
+  #status.dirty { color: #fc6; }
+  #status.error { color: #f66; }
+  main { flex: 1; display: flex; overflow: hidden; min-height: 0; }
+  #imgwrap { flex: 1; overflow: auto; background: #111; padding: 8px; display: flex; align-items: flex-start; justify-content: center; min-height: 0; }
+  #imgwrap img { max-width: 100%; max-height: 100%; object-fit: contain; display: block; user-select: none; -webkit-user-drag: none; }
+  #imgwrap.zoom { display: block; text-align: left; cursor: grab; }
+  #imgwrap.zoom.dragging { cursor: grabbing; }
+  #imgwrap.zoom img { max-height: none; max-width: none; width: auto; height: auto; margin: 0; }
+  #imgwrap:not(.zoom) img { cursor: zoom-in; }
+  #editorwrap { flex: 1; display: flex; flex-direction: column; border-left: 1px solid #444; min-width: 320px; }
+  textarea {
+    flex: 1; width: 100%; background: #181818; color: #eee; border: 0; padding: 12px;
+    font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 15px; line-height: 1.7; resize: none; outline: none;
+  }
+  .hint { padding: 4px 12px; font-size: 12px; color: #888; background: #222; border-top: 1px solid #333; }
+</style>
+</head>
+<body>
+<header>
+  <span class="title">__TITLE__</span>
+  <button id="prev" title="Previous page (Cmd/Ctrl + ←)">&larr; Prev</button>
+  <input id="pageInput" type="number" min="1" />
+  <span>/ <span id="totalPages">?</span></span>
+  <button id="next" title="Next page (Cmd/Ctrl + →)">Next &rarr;</button>
+  <select id="pageSelect"></select>
+  <button id="saveBtn" title="Save (Cmd/Ctrl + S)">Save</button>
+  <button id="reloadBtn" title="Discard local changes and reload page from disk">Reload</button>
+  <span id="status">loading&hellip;</span>
+</header>
+<main>
+  <div id="imgwrap"><img id="pageImg" alt=""></div>
+  <div id="editorwrap">
+    <textarea id="editor" spellcheck="false" placeholder="(no content for this page)"></textarea>
+    <div class="hint">Cmd/Ctrl+S save · Cmd/Ctrl+←/→ prev/next · click image to toggle zoom</div>
+  </div>
+</main>
+<script>
+const state = { pages: [], current: null, dirty: false, saving: false };
+const $ = (id) => document.getElementById(id);
+
+function setStatus(msg, cls) {
+  const el = $("status");
+  el.textContent = msg;
+  el.className = cls || "";
+}
+
+async function fetchJSON(url, opts) {
+  const r = await fetch(url, opts);
+  const text = await r.text();
+  if (!r.ok) throw new Error(text || r.statusText);
+  return text ? JSON.parse(text) : {};
+}
+
+async function init() {
+  const meta = await fetchJSON("/api/pages");
+  state.pages = meta.pages;
+  $("totalPages").textContent = state.pages.length;
+  if (state.pages.length) $("pageInput").max = Math.max.apply(null, state.pages);
+  const sel = $("pageSelect");
+  for (const p of state.pages) {
+    const opt = document.createElement("option");
+    opt.value = p;
+    opt.textContent = "page " + p;
+    sel.appendChild(opt);
+  }
+  const qp = parseInt(new URLSearchParams(location.search).get("p"), 10);
+  const startPg = (qp && state.pages.includes(qp)) ? qp : state.pages[0];
+  await loadPage(startPg);
+}
+
+async function loadPage(pg) {
+  if (state.dirty && !confirm("Unsaved changes on page " + state.current + ". Discard?")) return;
+  const data = await fetchJSON("/api/page/" + pg);
+  state.current = data.page;
+  state.dirty = false;
+  $("pageInput").value = data.page;
+  $("pageSelect").value = data.page;
+  $("pageImg").src = data.image_url || "";
+  $("pageImg").alt = data.image_url ? "" : "(no image for page " + data.page + ")";
+  $("editor").value = data.body;
+  const idx = state.pages.indexOf(data.page);
+  $("prev").disabled = idx <= 0;
+  $("next").disabled = idx < 0 || idx >= state.pages.length - 1;
+  setStatus("loaded page " + data.page, "saved");
+  const url = new URL(location);
+  url.searchParams.set("p", data.page);
+  history.replaceState(null, "", url);
+  $("imgwrap").classList.remove("zoom");
+  $("imgwrap").scrollTop = 0;
+}
+
+async function save() {
+  if (state.saving || state.current == null) return;
+  state.saving = true;
+  setStatus("saving\u2026");
+  try {
+    await fetchJSON("/api/page/" + state.current, {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ body: $("editor").value }),
+    });
+    state.dirty = false;
+    setStatus("saved page " + state.current, "saved");
+  } catch (e) {
+    setStatus("save failed: " + e.message, "error");
+  } finally {
+    state.saving = false;
+  }
+}
+
+function goto(delta) {
+  const idx = state.pages.indexOf(state.current);
+  if (idx < 0) return;
+  const next = state.pages[idx + delta];
+  if (next != null) loadPage(next);
+}
+
+$("pageImg").addEventListener("click", (e) => {
+  if (imgwrapDragged) { imgwrapDragged = false; return; }
+  const wrap = $("imgwrap");
+  const wasZoom = wrap.classList.contains("zoom");
+  wrap.classList.toggle("zoom");
+  if (!wasZoom) {
+    const img = $("pageImg");
+    const rect = wrap.getBoundingClientRect();
+    const relX = (e.clientX - rect.left) / rect.width;
+    const relY = (e.clientY - rect.top) / rect.height;
+    requestAnimationFrame(() => {
+      wrap.scrollLeft = Math.max(0, img.naturalWidth * relX - rect.width / 2);
+      wrap.scrollTop = Math.max(0, img.naturalHeight * relY - rect.height / 2);
+    });
+  }
+});
+
+let imgwrapDragged = false;
+(function setupPan() {
+  const wrap = $("imgwrap");
+  let dragging = false;
+  let startX = 0, startY = 0, scrollX = 0, scrollY = 0;
+  wrap.addEventListener("mousedown", (e) => {
+    if (!wrap.classList.contains("zoom")) return;
+    if (e.button !== 0) return;
+    dragging = true;
+    imgwrapDragged = false;
+    startX = e.clientX; startY = e.clientY;
+    scrollX = wrap.scrollLeft; scrollY = wrap.scrollTop;
+    wrap.classList.add("dragging");
+    e.preventDefault();
+  });
+  window.addEventListener("mousemove", (e) => {
+    if (!dragging) return;
+    const dx = e.clientX - startX;
+    const dy = e.clientY - startY;
+    if (Math.abs(dx) + Math.abs(dy) > 3) imgwrapDragged = true;
+    wrap.scrollLeft = scrollX - dx;
+    wrap.scrollTop = scrollY - dy;
+  });
+  window.addEventListener("mouseup", () => {
+    if (!dragging) return;
+    dragging = false;
+    wrap.classList.remove("dragging");
+  });
+})();
+
+$("prev").onclick = () => goto(-1);
+$("next").onclick = () => goto(1);
+$("saveBtn").onclick = save;
+$("reloadBtn").onclick = () => { state.dirty = false; if (state.current != null) loadPage(state.current); };
+$("pageInput").addEventListener("change", (e) => {
+  const p = parseInt(e.target.value, 10);
+  if (state.pages.includes(p)) loadPage(p);
+  else setStatus("no such page: " + p, "error");
+});
+$("pageSelect").addEventListener("change", (e) => loadPage(parseInt(e.target.value, 10)));
+$("editor").addEventListener("input", () => {
+  if (!state.dirty) { state.dirty = true; setStatus("modified (unsaved)", "dirty"); }
+});
+document.addEventListener("keydown", (e) => {
+  if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === "s") { e.preventDefault(); save(); return; }
+  const inEditor = document.activeElement === $("editor");
+  if ((e.metaKey || e.ctrlKey) && e.key === "ArrowLeft") { e.preventDefault(); goto(-1); return; }
+  if ((e.metaKey || e.ctrlKey) && e.key === "ArrowRight") { e.preventDefault(); goto(1); return; }
+  if (!inEditor && e.key === "ArrowLeft") { goto(-1); }
+  if (!inEditor && e.key === "ArrowRight") { goto(1); }
+});
+window.addEventListener("beforeunload", (e) => {
+  if (state.dirty) { e.preventDefault(); e.returnValue = ""; }
+});
+init().catch((e) => setStatus("init failed: " + e.message, "error"));
+</script>
+</body>
+</html>
