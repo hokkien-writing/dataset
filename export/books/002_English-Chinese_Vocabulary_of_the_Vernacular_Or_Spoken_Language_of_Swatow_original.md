@@ -8054,7 +8054,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lord**, tsú.
 
-**lose**, sit; sit-lo̍h; sàng-tiāu; m̄-kìⁿ; zũi-sit. *a battle*, thâi-su; pāi-tīn; chièn-pāi. *the way*, kiâⁿ-tāⁿ-lōu; kiâⁿ-tshò-lōu; tsáu-tshò lōu-thû; m̄-pat-lōu. *one's pains*, uáng-hùi cheng-sîn; uáng-hùi kang-hu; thû-hùi sim-la̍t; thû-lâu bô-kong. *time*, sit-sî; hṳ-iẽn nîⁿ-gue̍h; hṳ-iẽn ji̍t-sî. *courage*, sàng-táⁿ; táⁿ lo̍h; phùa-táⁿ. *heart*, lî-sim; sim lî. *flavour*, hiàⁿ-khì; sia̍p-khì; tsáu-khì; tsáu-bī. *colour*, lo̍h-sek; thò-sek. *in gambling*, pua̍h-su. *capital*, si̍h-pńg; khui-pńg; khui-si̍h; khui-khòng; m̄-kàu-pńg.
+**lose**, sit; sit-lo̍h; pàng-tiāu; m̄-kìⁿ; zũi-sit. *a battle*, thâi-su; pāi-tīn; chièn-pāi. *the way*, kiâⁿ-tāⁿ-lōu; kiâⁿ-tshò-lōu; tsáu-tshò lōu-thû; m̄-pat-lōu. *one's pains*, uáng-hùi cheng-sîn; uáng-hùi kang-hu; thû-hùi sim-la̍t; thû-lâu bô-kong. *time*, sit-sî; hṳ-iẽn nîⁿ-gue̍h; hṳ-iẽn ji̍t-sî. *courage*, sàng-táⁿ; táⁿ lo̍h; phùa-táⁿ. *heart*, lî-sim; sim lî. *flavour*, hiàⁿ-khì; sia̍p-khì; tsáu-khì; tsáu-bī. *colour*, lo̍h-sek; thò-sek. *in gambling*, pua̍h-su. *capital*, si̍h-pńg; khui-pńg; khui-si̍h; khui-khòng; m̄-kàu-pńg.
 
 **lot**, *of ground*, che̍k-kò-tī; che̍k-phiâⁿ-tī. *of people*, ke-ke-nâng. *contented with one's lot*, siú-hūn uaⁿ-mẽng; tsai-tsok. *cast, or draw, lots*, thiu-chhiam; khieh-khau; po̍ih-chhiam; lok-chhiam; pua̍h-pue.
 

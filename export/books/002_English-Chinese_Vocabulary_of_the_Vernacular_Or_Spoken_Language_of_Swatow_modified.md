@@ -8054,7 +8054,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **lord**, tsú(主).
 
-**lose**, sit(失); sit-lo̍h(失落); sàng-tiāu(喪掉); m̄-kìⁿ(毋見); zũi-sit(遺失). *a battle*, thâi-su(刣輸); pāi-tīn(敗陣); chièn-pāi(戰敗). *the way*, kiâⁿ-tāⁿ-lōu(行賺路); kiâⁿ-tshò-lōu(行錯路); tsáu-tshò lōu-thû(走錯路途); m̄-pat-lōu(毋別路). *one's pains*, uáng-hùi cheng-sîn(枉費精神); uáng-hùi kang-hu(枉費功夫); thû-hùi sim-la̍t(徒費心力); thû-lâu bô-kong(徒勞無功). *time*, sit-sî(失時); hṳ-iẽn nîⁿ-gue̍h(虛延年月); hṳ-iẽn ji̍t-sî(虛延日時). *courage*, sàng-táⁿ(喪膽); táⁿ lo̍h(膽落); phùa-táⁿ(破膽). *heart*, lî-sim(離心); sim lî(心離). *flavour*, hiàⁿ-khì(向氣); sia̍p-khì(洩氣); tsáu-khì(走氣); tsáu-bī(走味). *colour*, lo̍h-sek(落色); thò-sek(褪色). *in gambling*, pua̍h-su(跋輸). *capital*, si̍h-pńg(蝕本); khui-pńg(虧本); khui-si̍h(虧蝕); khui-khòng(虧空); m̄-kàu-pńg(毋夠本).
+**lose**, sit(失); sit-lo̍h(失落); pàng-tiāu(放掉); m̄-kìⁿ(毋見); zũi-sit(遺失). *a battle*, thâi-su(刣輸); pāi-tīn(敗陣); chièn-pāi(戰敗). *the way*, kiâⁿ-tāⁿ-lōu(行賺路); kiâⁿ-tshò-lōu(行錯路); tsáu-tshò lōu-thû(走錯路途); m̄-pat-lōu(毋別路). *one's pains*, uáng-hùi cheng-sîn(枉費精神); uáng-hùi kang-hu(枉費功夫); thû-hùi sim-la̍t(徒費心力); thû-lâu bô-kong(徒勞無功). *time*, sit-sî(失時); hṳ-iẽn nîⁿ-gue̍h(虛延年月); hṳ-iẽn ji̍t-sî(虛延日時). *courage*, sàng-táⁿ(喪膽); táⁿ lo̍h(膽落); phùa-táⁿ(破膽). *heart*, lî-sim(離心); sim lî(心離). *flavour*, hiàⁿ-khì(向氣); sia̍p-khì(洩氣); tsáu-khì(走氣); tsáu-bī(走味). *colour*, lo̍h-sek(落色); thò-sek(褪色). *in gambling*, pua̍h-su(跋輸). *capital*, si̍h-pńg(蝕本); khui-pńg(虧本); khui-si̍h(虧蝕); khui-khòng(虧空); m̄-kàu-pńg(毋夠本).
 
 **lot**, *of ground*, che̍k-kò-tī(一塊地); che̍k-phiâⁿ-tī(一坪地). *of people*, ke-ke-nâng(加加人). *contented with one's lot*, siú-hūn uaⁿ-mẽng(守分安命); tsai-tsok(知足). *cast, or draw, lots*, thiu-chhiam(抽籤); khieh-khau(抾䰗); po̍ih-chhiam(拔籤); lok-chhiam(淥籤); pua̍h-pue(跋杯).
 
