@@ -9201,7 +9201,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **pacify**, khǹg-nâng màiⁿ-khì; kiâⁿ-hûa; khǹg-hûa; khǹg-tshú. *Pacific ocean*, thài-phêng-iêⁿ.
 
-**pack**, pau; phah-pau; tsuang; siu-ss̍p-bûa. *tea*, tsuang-tê. *in a box*, tsuang-lo̍h-sieⁿ. *packing box*, tsuang-sieⁿ.
+**pack**, pau; phah-pau; tsuang; siu-si̍p-bûa. *tea*, tsuang-tê. *in a box*, tsuang-lo̍h-sieⁿ. *packing box*, tsuang-sieⁿ.
 
 **paddle**, jiê. *to*, phẽ-tsûn. *a dragon-boat*, phẽ-lêng-tsûn.
 
