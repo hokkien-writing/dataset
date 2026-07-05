@@ -3429,7 +3429,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **curtain**, liâm(簾). *mosquito*, máng-tièⁿ(蠓帳).
 
-**curve**, uan-khek(彎曲). *to curve*, uan-kùe-lâi(彎過來); tshúa-kùe-khṳ̍(歪過去); uan-lâi khek-khṳ̍(彎來曲去).
+**curve**, uan-khek(彎曲). *to curve*, uan-kùe-lâi(彎過來); tshúa-kùe-khṳ̀(歪過去); uan-lâi khek-khṳ̀(彎來曲去).
 
 **cushion**, íⁿ-tiẽn(椅墊); zo̍k(褥). *pillow*, chím-thâu(枕頭).
 
@@ -3656,7 +3656,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **degenerate**, *times*, hong-so̍k pí-soiⁿ m̄-tâng(風俗比先毋同). *children*, put-siàu-tsṳ́(不肖子); put-siàu kiáⁿ-tĩ(不肖囝弟).
 
-**degrade**, *officially*, kàng-khip(降級). *three degrees*, kàng-saⁿ-khip(降三級). *without dismissal*, khṳ̍-cheh lâu-jīm(去職留任). *entirely*, thut-cheh(黜職); le̍h-cheh(𠠝職).
+**degrade**, *officially*, kàng-khip(降級). *three degrees*, kàng-saⁿ-khip(降三級). *without dismissal*, khṳ̀-cheh lâu-jīm(去職留任). *entirely*, thut-cheh(黜職); le̍h-cheh(𠠝職).
 
 <!-- page:80 -->
 **degree**, téng(頂); téng-khip(頂級); pín-khip(品級). *to have a degree*, ũ-kong-miâⁿ(有功名). *to get the 1st literary degree*, ji̍p-o̍h(入學); ji̍p-siù-tsâi(入秀才). *the 2nd*, tèng-kṳ́-jîn(中舉人). *the 3rd*, tèng-chìn-sṳ̃(中進士). *the 4th*, tiám-hân-lîm(點翰林). *a purchased degree*, kàm-seng(監生). *to buy such*, kien-kàm-seng(捐監生). *a graduate by competition*, chiàⁿ-thû(正途); chiàⁿ-lōu(正路). *a graduate by purchase*, phien-thû(偏途); ĩ-lōu(異路). *degrees of relationship*, káu-tso̍k(九族); ngóu-ho̍k(五服); chhin-so(親疏). *by degrees*, chiãm-chiãm(漸漸); che̍k-tsâng che̍k-tsâng(一層一層); che̍k-tsãm che̍k-tsãm(一站一站).
@@ -3675,7 +3675,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **delegate**, chhe-sái(差使); chhe-úi(差委). *a delegate*, úi-uân(委員); sài(使); sài-chiá(使者).
 
-**deliberate**, *to*, siang-liâng(商量); kàu-niêⁿ(告量); chim-chiak(斟酌); ngí-lũn(議論); siang-ngí(商議); kà-lũn(教論); tsham-siâng(參詳); hũe-ngí(會議); sǹg-lâi sǹg-khṳ̍(算來算去); siẽⁿ-lâi siẽⁿ-khṳ̍(想來想去); pí-lâi pí-khṳ̍(比來比去); chiak-ngí(酌議).
+**deliberate**, *to*, siang-liâng(商量); kàu-niêⁿ(告量); chim-chiak(斟酌); ngí-lũn(議論); siang-ngí(商議); kà-lũn(教論); tsham-siâng(參詳); hũe-ngí(會議); sǹg-lâi sǹg-khṳ̀(算來算去); siẽⁿ-lâi siẽⁿ-khṳ̀(想來想去); pí-lâi pí-khṳ̀(比來比去); chiak-ngí(酌議).
 
 **deliberately**, soiⁿ sṳ, ãu kiâⁿ(先思，後行); ũ-ì(有意); li̍p-ì(立意); tshut-tõ ũ-ì(出在有意).
 
@@ -3896,7 +3896,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dictionary**, jī-tién(字典); jī-lūi(字彙). *rhyming*, si-ūn(詩韻); kiám-ūn(檢韻).
 
-**die**, *to*, sí(死); kùe-sì(過世); sī-sì(逝世); khùi tñg(氣斷); lãu--khṳ̍(老去); tsak-kóu(作古). see **decease**. *by one's own hand*, tsṳ̃-chĩn(自盡). *of disease*, pēⁿ-sí(病死). *of hunger*, gō-sí(餓死). *of cold*, kûaⁿ-sí(寒死).
+**die**, *to*, sí(死); kùe-sì(過世); sī-sì(逝世); khùi tñg(氣斷); lãu--khṳ̀(老去); tsak-kóu(作古). see **decease**. *by one's own hand*, tsṳ̃-chĩn(自盡). *of disease*, pēⁿ-sí(病死). *of hunger*, gō-sí(餓死). *of cold*, kûaⁿ-sí(寒死).
 
 **die**, *a*, chîⁿ-bôu(錢模); jī-bôu(字模).
 
@@ -3922,7 +3922,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dilate**, pùa-iâng(播揚); tièⁿ-khui(脹開); chiãm-khùaⁿ(漸寬).
 
-**dilatory**, tũaⁿ(惰); mān(慢); în-tîⁿ(延纏); kau-tîⁿ-lâi kau-tîⁿ-khṳ̍(交纏來交纏去); thû-mān(躇慢).
+**dilatory**, tũaⁿ(惰); mān(慢); în-tîⁿ(延纏); kau-tîⁿ-lâi kau-tîⁿ-khṳ̀(交纏來交纏去); thû-mān(躇慢).
 
 **diligent**, ēng-kang(用功); khṳ̂n-kang(勤工); khṳ̂n(勤); tsuan-kang(專工); la̍t-kang(力功); tshut-la̍t(出力).
 
@@ -3930,7 +3930,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **dilute**, thàu-po̍h(透薄); thàu-tsúi(透水); tshong-tsúi(沖水); tshong-po̍h(沖薄).
 
-**dim**, àm(暗); sit-kng m̄-hīn(息光毋現); bū-bū(霧霧). *dim-sighted*, ma̍k-chiu hue(目珠花); ma̍k hue(目花); ma̍k bū(目霧). *grow dim*, *as picture*, hùe--khṳ̍(化去). *dimly seen*, ṳ́n-ṳ́n iak-iak(隱隱約約).
+**dim**, àm(暗); sit-kng m̄-hīn(息光毋現); bū-bū(霧霧). *dim-sighted*, ma̍k-chiu hue(目珠花); ma̍k hue(目花); ma̍k bū(目霧). *grow dim*, *as picture*, hùe--khṳ̀(化去). *dimly seen*, ṳ́n-ṳ́n iak-iak(隱隱約約).
 
 **diminish**, kiám(減); tṳ̂-kiám(除減); khà-kiám(扣減); kiám-chié(減少). *the population, as epidemic*, kiám-nâng-kháu(減人口).
 
@@ -4321,7 +4321,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 **draught**, see **draft**. *of fish*, che̍k-mãng-hṳ̂(一網魚). *of wind*, thong-huang(通風). *in a draught*, tng-huang-lōu(當風路).
 
 <!-- page:94 -->
-**draw**, thua(拖); po̍ih(拔); túi(搥). *water*, kũaⁿ-tsúi(擐水); pua̍h-tsúi(跋水). *out*, po̍ih-tshut(拔出); mán-tshut(挽出); thua-tshut(拖出). *teeth*, khieh-khí(抾齒). *a sliding window*, thuah(屜). *a sword*, po̍ih-kiàm(拔劍); po̍ih-to(拔刀). *poison*, po̍ih-ta̍k(拔毒). *a bow*, khui-keng(開弓); mán-keng(挽弓). *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ(勼勼扭扭). *draw up one's legs*, kha kiu--khí-lâi(骹勼起來). *draw breath (also, to sigh)*, tháu-khùi(㪗氣). *opium-smoke*, kuh-hun(呴薰); po̍k-hun(卟薰). *lots*, khieh-khau(抾䰗); po̍ih-chhiam(拔籤); thiu-chhiam-kiáⁿ(抽籤囝). *a carriage*, thua-chhia(拖車). *nails*, po̍ih-teng(拔燈); kiãu-teng(撬釘). *a net*, po̍ih-mãng(拔網); chhiû-mãng(扏網). *draw near*, túi-bûa(搥摩). *near (approach)*, kiâⁿ-bûa(行摩); chiũ-kṳ̃n(就近); kṳ̃n-bûa(近摩). *attention*, ín-tõng nâng-sim(引動人心); tõng nâng-sim-ma̍k(動人心目). *up a line of battle*, pâi-tīn(排陣). *a list*, khui-mêng kak-mue̍h(開明各物); kiám-tiám(檢點). *as loadstone*, hiap-bûa(劦摩). *out of the water*, liâu(撩); kou(罟). *a splinter*, liàm-tshut(捻出); túi-tshut(搥出). *a splinter (with a needle)*, thie-tshut(挑出). *blood*, lâu-hueh(流血); pàng-tshut-hueh(放出血). *money from bank*, khṳ̍-ngṳ̂n-hâng khie̍h-ngṳ̂n(去銀行挈銀); tùi-ngṳ̂n(對銀). *a curtain*, liâm sa-khui(帘挲開); liâm kiáu-phû(帘𢅎浮). *draw away*, ín-tshūa(引𤆬). *entice*, ín-iú(引誘); iú-ho̍k(誘惑). *draw on stockings*, chhēng-bue̍h(穿襪). *draw back*, tò-thò(倒退); thò(退); thò-pōu(退步).
+**draw**, thua(拖); po̍ih(拔); túi(搥). *water*, kũaⁿ-tsúi(擐水); pua̍h-tsúi(跋水). *out*, po̍ih-tshut(拔出); mán-tshut(挽出); thua-tshut(拖出). *teeth*, khieh-khí(抾齒). *a sliding window*, thuah(屜). *a sword*, po̍ih-kiàm(拔劍); po̍ih-to(拔刀). *poison*, po̍ih-ta̍k(拔毒). *a bow*, khui-keng(開弓); mán-keng(挽弓). *oneself together in a heap*, kiu-kiu niuⁿ-niuⁿ(勼勼扭扭). *draw up one's legs*, kha kiu--khí-lâi(骹勼起來). *draw breath (also, to sigh)*, tháu-khùi(㪗氣). *opium-smoke*, kuh-hun(呴薰); po̍k-hun(卟薰). *lots*, khieh-khau(抾䰗); po̍ih-chhiam(拔籤); thiu-chhiam-kiáⁿ(抽籤囝). *a carriage*, thua-chhia(拖車). *nails*, po̍ih-teng(拔燈); kiãu-teng(撬釘). *a net*, po̍ih-mãng(拔網); chhiû-mãng(扏網). *draw near*, túi-bûa(搥摩). *near (approach)*, kiâⁿ-bûa(行摩); chiũ-kṳ̃n(就近); kṳ̃n-bûa(近摩). *attention*, ín-tõng nâng-sim(引動人心); tõng nâng-sim-ma̍k(動人心目). *up a line of battle*, pâi-tīn(排陣). *a list*, khui-mêng kak-mue̍h(開明各物); kiám-tiám(檢點). *as loadstone*, hiap-bûa(劦摩). *out of the water*, liâu(撩); kou(罟). *a splinter*, liàm-tshut(捻出); túi-tshut(搥出). *a splinter (with a needle)*, thie-tshut(挑出). *blood*, lâu-hueh(流血); pàng-tshut-hueh(放出血). *money from bank*, khṳ̀-ngṳ̂n-hâng khie̍h-ngṳ̂n(去銀行挈銀); tùi-ngṳ̂n(對銀). *a curtain*, liâm sa-khui(帘挲開); liâm kiáu-phû(帘𢅎浮). *draw away*, ín-tshūa(引𤆬). *entice*, ín-iú(引誘); iú-ho̍k(誘惑). *draw on stockings*, chhēng-bue̍h(穿襪). *draw back*, tò-thò(倒退); thò(退); thò-pōu(退步).
 
 **draw**, *pictures*, ūe-ūe(畫畫); ūe-ang-kiáⁿ(畫尪囝); ūe-sièⁿ(畫像). *a line*, ūe-hûn(畫痕); phah-keh(拍格). *a landscape*, ūe-suaⁿ-tsúi(畫山水). *a map*, ūe-tôu(畫圖). *one's portrait*, ūe-sièⁿ(畫像); ūe-hí-sîn(畫喜神); ūe-siáu-iáⁿ(畫小影).
 
@@ -9129,7 +9129,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **opprobrium**, lêng-zo̍k(凌辱); sit-zo̍k(失辱).
 
-**or**, ho̍k(或); ho̍k-sĩ(或是); at-ho̍k(抑或). *is it or not*, sĩ a-m̄-sĩ(是亞毋是). *either you or I must go*, lṳ́-uá nõⁿ-nâng tie̍h-ũ che̍k-nâng-khṳ̀(汝我兩人着有一人去); lṳ́ m̃-khṳ̍ uà chiũ-tie̍h-khṳ̀(汝唔去我就着去).
+**or**, ho̍k(或); ho̍k-sĩ(或是); at-ho̍k(抑或). *is it or not*, sĩ a-m̄-sĩ(是亞毋是). *either you or I must go*, lṳ́-uá nõⁿ-nâng tie̍h-ũ che̍k-nâng-khṳ̀(汝我兩人着有一人去); lṳ́ m̃-khṳ̀ uà chiũ-tie̍h-khṳ̀(汝唔去我就着去).
 
 **opulent**, ũ-chîⁿ(有錢); huat-tshâi(發財); pù(富); pù-ũ(富有); pù-kãu(富厚); pù-tsok(富足).
 
@@ -9825,7 +9825,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 
 **Portugal**, Phû-thô-giâ(葡萄牙).
 
-**position**, tī-ūi(地位); ūi-tshṳ̍(位處).
+**position**, tī-ūi(地位); ūi-tshṳ̀(位處).
 
 **positive**, tuàn(斷); tiāⁿ(定); tuàn-tiāⁿ(斷定).
 
@@ -9866,7 +9866,7 @@ On the next page are a few errors, chiefly misprints, which have been observed. 
 **pound**, *to*, cheng(舂); tûi(捶).
 
 <!-- page:221 -->
-**pour**, *out*, tò(倒). *out (as useless)*, tò-tiāu(倒掉). *tea*, sai-tê(篩茶). *wine*, sai-chiú(篩酒). *in*, tò--lo̍h-khṳ̍(倒落去). *as down the throat*, kùan(灌).
+**pour**, *out*, tò(倒). *out (as useless)*, tò-tiāu(倒掉). *tea*, sai-tê(篩茶). *wine*, sai-chiú(篩酒). *in*, tò--lo̍h-khṳ̀(倒落去). *as down the throat*, kùan(灌).
 
 **pout**, tshùi khiàu-khiàu(喙翹翹); tshùi tu-tu(喙嘟嘟).
 
