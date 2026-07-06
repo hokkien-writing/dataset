@@ -16,8 +16,12 @@ Then open http://localhost:8765/ in your browser.
 from __future__ import annotations
 
 import argparse
+import base64
+import binascii
+import hmac
 import json
 import mimetypes
+import os
 import re
 import sys
 import threading
@@ -31,9 +35,10 @@ TEMPLATE_PATH = Path(__file__).resolve().parent / "ui.html"
 
 
 class Book:
-    def __init__(self, md_path: Path, pages_dir: Path) -> None:
+    def __init__(self, md_path: Path, pages_dir: Path | None, image_base_url: str | None = None) -> None:
         self.md_path = md_path
         self.pages_dir = pages_dir
+        self.image_base_url = image_base_url.rstrip("/") if image_base_url else None
         self.lock = threading.Lock()
         self.preamble: str = ""
         self.pages: list[list] = []
@@ -61,10 +66,19 @@ class Book:
         return None
 
     def image_path(self, pg: int):
+        if not self.pages_dir:
+            return None
         for name in (f"{pg:04d}.webp", f"{pg:03d}.webp", f"{pg}.webp"):
             c = self.pages_dir / name
             if c.exists():
                 return c
+        return None
+
+    def image_url(self, pg: int) -> str | None:
+        if self.image_base_url:
+            return f"{self.image_base_url}/{pg:04d}.webp"
+        if self.image_path(pg):
+            return f"/image/{pg}"
         return None
 
     def save_page(self, pg: int, new_body: str) -> bool:
@@ -88,10 +102,34 @@ class Book:
         return True
 
 
-def build_handler(book: Book, html: str):
+def build_handler(book: Book, html: str, auth_user: str | None, auth_pass: str | None):
     class Handler(BaseHTTPRequestHandler):
         def log_message(self, fmt, *args):
             sys.stderr.write(f"[{self.log_date_time_string()}] {fmt % args}\n")
+
+        def _authorized(self) -> bool:
+            if not auth_user or not auth_pass:
+                return True
+            header = self.headers.get("Authorization", "")
+            if not header.startswith("Basic "):
+                return False
+            try:
+                decoded = base64.b64decode(header[6:]).decode("utf-8")
+            except (binascii.Error, UnicodeDecodeError):
+                return False
+            user, sep, password = decoded.partition(":")
+            if not sep:
+                return False
+            return hmac.compare_digest(user, auth_user) and hmac.compare_digest(password, auth_pass)
+
+        def _unauthorized(self) -> None:
+            body = b'{"error":"unauthorized"}'
+            self.send_response(401)
+            self.send_header("WWW-Authenticate", 'Basic realm="proofread"')
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.send_header("Content-Length", str(len(body)))
+            self.end_headers()
+            self.wfile.write(body)
 
         def _json(self, status: int, payload) -> None:
             data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
@@ -111,6 +149,9 @@ def build_handler(book: Book, html: str):
             self.wfile.write(body)
 
         def do_GET(self):
+            if not self._authorized():
+                self._unauthorized()
+                return
             path = urlparse(self.path).path
             if path in ("/", "/index.html"):
                 self._raw(200, html.encode("utf-8"), "text/html; charset=utf-8")
@@ -126,11 +167,10 @@ def build_handler(book: Book, html: str):
                     self._json(404, {"error": f"page {pg} not found"})
                     return
                 p, body = result
-                img = book.image_path(p)
                 self._json(200, {
                     "page": p,
                     "body": body,
-                    "image_url": f"/image/{p}" if img else None,
+                    "image_url": book.image_url(p),
                 })
                 return
             m = re.match(r"^/image/(\d+)$", path)
@@ -146,6 +186,9 @@ def build_handler(book: Book, html: str):
             self._raw(404, b"not found", "text/plain")
 
         def do_POST(self):
+            if not self._authorized():
+                self._unauthorized()
+                return
             path = urlparse(self.path).path
             length = int(self.headers.get("Content-Length", "0"))
             raw = self.rfile.read(length) if length else b""
@@ -174,29 +217,38 @@ def build_handler(book: Book, html: str):
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--md", required=True, type=Path, help="Markdown file with <!-- page:N --> markers")
-    parser.add_argument("--pages", required=True, type=Path, help="Directory containing NNNN.webp page images")
+    parser.add_argument("--pages", type=Path, default=None, help="Directory containing NNNN.webp page images")
+    parser.add_argument("--image-base-url", default=None, help="Base URL for remote page images (NNNN.webp); used instead of --pages")
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8765)
     args = parser.parse_args()
 
     md_path = args.md.resolve()
-    pages_dir = args.pages.resolve()
     if not md_path.exists():
         parser.error(f"markdown not found: {md_path}")
-    if not pages_dir.is_dir():
+    pages_dir = args.pages.resolve() if args.pages else None
+    if args.pages and not pages_dir.is_dir():
         parser.error(f"pages dir not found: {pages_dir}")
+    if not pages_dir and not args.image_base_url:
+        parser.error("must provide --pages or --image-base-url")
     if not TEMPLATE_PATH.exists():
         parser.error(f"UI template not found: {TEMPLATE_PATH}")
 
-    book = Book(md_path, pages_dir)
+    auth_user = os.environ.get("PROOFREAD_USER") or None
+    auth_pass = os.environ.get("PROOFREAD_PASSWORD") or None
+
+    book = Book(md_path, pages_dir, args.image_base_url)
     html = TEMPLATE_PATH.read_text(encoding="utf-8").replace("__TITLE__", md_path.name)
 
     print(f"markdown: {md_path}")
-    print(f"pages:    {pages_dir}")
+    print(f"pages:    {pages_dir or '(remote)'}")
+    if args.image_base_url:
+        print(f"images:   {args.image_base_url} (remote)")
     print(f"pages found in md: {len(book.pages)}")
+    print(f"auth:     {'enabled' if auth_user and auth_pass else 'disabled'}")
     print(f"serving on http://{args.host}:{args.port}/")
 
-    handler = build_handler(book, html)
+    handler = build_handler(book, html, auth_user, auth_pass)
     server = ThreadingHTTPServer((args.host, args.port), handler)
     try:
         server.serve_forever()
