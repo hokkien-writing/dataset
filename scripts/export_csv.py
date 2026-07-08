@@ -24,6 +24,7 @@ CSV_FIELDS = [
     "poj_orig",
     "han",
     "han_orig",
+    "fanqie",
     "en",
     "en_orig",
     "zh_TW",
@@ -31,6 +32,15 @@ CSV_FIELDS = [
     "source",
     "page_num",
 ]
+
+def _get_field(field: str, entry) -> str:
+    val = getattr(entry, field, "")
+    if field.endswith("_orig"):
+        base = field.replace("_orig", "")
+        orig = val
+        main = getattr(entry, base, "")
+        return orig if orig != main else ""
+    return val
 
 
 def find_processor(stem: str):
@@ -91,29 +101,24 @@ def main():
             entries = processor.extract_entries(text, source_name)
             entries.sort(key=lambda e: (e.puj or e.poj or "").lower())
 
+            active = [f for f in CSV_FIELDS if any(getattr(e, f, "") for e in entries)]
+
             csv_path = out_dir / f"{md_file.stem}.csv"
             with open(csv_path, "w", newline="", encoding="utf-8") as f:
                 writer = csv.writer(f)
-                writer.writerow(CSV_FIELDS)
+                writer.writerow(active)
                 for entry in entries:
-                    writer.writerow(
-                        [
-                            entry.puj,
-                            entry.puj_orig if entry.puj_orig != entry.puj else "",
-                            entry.poj,
-                            entry.poj_orig if entry.poj_orig != entry.poj else "",
-                            entry.han,
-                            entry.han_orig if entry.han_orig != entry.han else "",
-                            entry.en,
-                            entry.en_orig if entry.en_orig != entry.en else "",
-                            entry.zh_TW,
-                            entry.zh_CN,
-                            entry.source,
-                            entry.page_num,
-                        ]
-                    )
+                    row = []
+                    for field in active:
+                        val = getattr(entry, field, "")
+                        if field.endswith("_orig"):
+                            base = field.replace("_orig", "")
+                            if val == getattr(entry, base, ""):
+                                val = ""
+                        row.append(val)
+                    writer.writerow(row)
 
-            print(f"  ✓ {md_file.stem} → {md_file.stem}.csv ({len(entries)} entries)")
+            print(f"  ✓ {md_file.stem} → {md_file.stem}.csv ({len(entries)} entries, {len(active)} cols)")
             any_processed = True
 
     if not any_processed:

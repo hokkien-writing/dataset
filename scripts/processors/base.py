@@ -25,6 +25,7 @@ class Entry:
     zh_CN: str = ""
     zh_TW: str = ""
     page_num: str = ""
+    fanqie: str = ""
 
 
 def generate_original(text: str) -> str:
