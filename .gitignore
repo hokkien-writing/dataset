@@ -1,4 +1,5 @@
 .ruff_cache/
+.progress/
 __pycache__/
 *.pyc
 .env

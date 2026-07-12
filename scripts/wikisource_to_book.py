@@ -1,327 +1,733 @@
 #!/usr/bin/env python3
-"""Download a book from Wikisource Page namespace and convert to markdown.
+"""Fetch a Wikisource Page-namespace book and convert to markdown.
+
+Uses pywikibot for fetching and mwparserfromhell for wikitext conversion.
+Currently specialised for the Fielde 1883 Swatow dictionary.
 
 Usage:
     PYTHONPATH=. python3 scripts/wikisource_to_book.py \
-        "First Lessons in the Tie-chiw Dialect.pdf" 10 61 \
-        books/003_First_Lessons_in_the_Tie-chiw_Dialect.md
-
-This script:
-1. Downloads pages from Wikisource Page namespace via API (batch + HTML fallback)
-2. Converts wikitext/HTML to clean markdown with <!-- page:N --> markers
-3. Formats definition lists and tables as markdown pipe tables
-4. Expands ditto marks (丨) using previous-line context
+        --title "Dictionary of the Swatow dialect.djvu" \
+        --start 1 --end 648 \
+        --output books/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.md
 """
 
 from __future__ import annotations
 
 import argparse
-import html as html_mod
-import json
+import os
 import re
 import sys
 import time
-import urllib.parse
-import urllib.request
 from pathlib import Path
 
+import mwparserfromhell as mwfh
+from mwparserfromhell.nodes import (
+    Comment,
+    ExternalLink,
+    HTMLEntity,
+    Tag,
+    Template,
+    Text,
+    Wikilink,
+)
+
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
-BASE_URL = "https://en.wikisource.org/w/api.php"
-UA = "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0"
-BATCH_SIZE = 5
-BATCH_DELAY = 3
-RETRY_DELAY = 30
+PAGE_PREFIX = "Page:"
+BATCH_SIZE = 50
+SLEEP_BETWEEN_BATCHES = 5.0
+MAX_ATTEMPTS = 4
+
+DROP_TPL = {
+    "multicol", "multicol-break", "multicol-end",
+    "anchor", "rh", "runningheader", "rvh",
+    "nop", "nopt", "ts", "right", "noprint", "core",
+}
+HR_TPL = {"dhr", "rule", "custom rule"}
+FORMATTING_TPL = {
+    "sc", "asc", "center", "larger", "x-larger", "xx-larger",
+    "xxx-larger", "xxxx-larger", "x-larger block", "smaller",
+    "small-caps", "uc", "em", "ti", "ae", "brace2", "sfrac", "c",
+}
+
+_HEADWORD_RE = re.compile(r"^\*?\s*\*\*(.+?)\*\*(\([^)]*\))?\s+(.+)$")
 
 
-def fetch_batch(pdf_title: str, page_nums: list[int]) -> dict[int, str]:
-    titles = "|".join(f"Page:{pdf_title}/{n}" for n in page_nums)
-    params = urllib.parse.urlencode({
-        "action": "query",
-        "titles": titles,
-        "prop": "revisions",
-        "rvprop": "content",
-        "format": "json",
-    })
-    req = urllib.request.Request(f"{BASE_URL}?{params}", headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        data = json.loads(resp.read())
-    result: dict[int, str] = {}
-    for page_data in data["query"]["pages"].values():
-        m = re.search(r"/(\d+)$", page_data["title"])
-        if m and "revisions" in page_data:
-            result[int(m.group(1))] = page_data["revisions"][0]["*"]
-    return result
+def _positional(tpl: Template) -> list:
+    return [p.value for p in tpl.params if p.name.strip().isdigit()]
 
 
-def fetch_page_html(pdf_title: str, page_num: int) -> str:
-    encoded = urllib.parse.quote(f"Page:{pdf_title}/{page_num}", safe=":/")
-    url = f"https://en.wikisource.org/wiki/{encoded}"
-    req = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+def wikicode_to_text(wc) -> str:
+    if wc is None:
+        return ""
+    parts = []
+    for node in getattr(wc, "nodes", [wc]):
+        parts.append(node_to_text(node))
+    return "".join(parts)
 
 
-def download_pages(pdf_title: str, start: int, end: int) -> dict[int, str]:
+def node_to_text(node) -> str:
+    if isinstance(node, Text):
+        return str(node)
+    if isinstance(node, Template):
+        return template_to_text(node)
+    if isinstance(node, Wikilink):
+        if node.text is not None:
+            return wikicode_to_text(node.text)
+        return wikicode_to_text(node.title)
+    if isinstance(node, HTMLEntity):
+        return node.normalize()
+    if isinstance(node, Comment):
+        return ""
+    if isinstance(node, ExternalLink):
+        if node.title is not None:
+            return wikicode_to_text(node.title)
+        return str(node.url)
+    if isinstance(node, Tag):
+        return tag_to_text(node)
+    stripped = getattr(node, "strip_code", None)
+    if callable(stripped):
+        return stripped() or ""
+    return ""
+
+
+def template_to_text(tpl: Template) -> str:
+    name = str(tpl.name).strip().lower()
+    pos = _positional(tpl)
+
+    if name in DROP_TPL:
+        return ""
+    if name == "shc":
+        return wikicode_to_text(pos[0]).strip() if pos else ""
+    if name == "swatow entry":
+        if len(pos) >= 5:
+            nums = f"({wikicode_to_text(pos[2])}|{wikicode_to_text(pos[3])}|{wikicode_to_text(pos[4])})"
+            return f"**{wikicode_to_text(pos[0])}**{nums} {wikicode_to_text(pos[1])}".strip()
+        if len(pos) >= 2:
+            return f"**{wikicode_to_text(pos[0])}** {wikicode_to_text(pos[1])}".strip()
+        return wikicode_to_text(pos[0]).strip() if pos else ""
+    if name == "sic":
+        if len(pos) >= 2:
+            orig = wikicode_to_text(pos[0]).replace("\n", " ").strip()
+            corr = wikicode_to_text(pos[1]).replace("\n", " ").strip().replace(")", "")
+            return f"~~{orig}~~({corr})"
+        if len(pos) == 1:
+            a = wikicode_to_text(pos[0]).replace("\n", " ").strip().replace(")", "")
+            return f"~~{a}~~({a})"
+        return ""
+    if name in ("chinese rtl", "crl"):
+        return wikicode_to_text(pos[0]).strip() if pos else ""
+    if name == "species name":
+        return f"*{wikicode_to_text(pos[0])}*" if pos else ""
+    if name == "suspect":
+        return wikicode_to_text(pos[0]).strip() if pos else ""
+    if name == "illegible":
+        return "[illegible]"
+    if name == "hws":
+        return wikicode_to_text(pos[-1]).strip() if pos else ""
+    if name == "hwe":
+        return ""
+    if name == "br":
+        return "\n"
+    if name in HR_TPL:
+        return "\n\n---\n\n"
+    if name == "ltc tone":
+        return ""
+    if name in FORMATTING_TPL:
+        return wikicode_to_text(pos[-1]) if pos else ""
+    return wikicode_to_text(pos[-1]) if pos else ""
+
+
+def tag_to_text(node: Tag) -> str:
+    raw_tag = str(node.tag).strip()
+    if raw_tag.lower() in ("li", "dt", "dd", "ol", "ul", "dl"):
+        return str(node)
+    name = raw_tag.lower()
+    if name == "br":
+        return "\n"
+    if name in ("section", "pagequality", "ref", "references", "noinclude",
+                "includeonly", "gallery", "math", "nowiki"):
+        return ""
+    if name in ("h1", "h2", "h3", "h4"):
+        level = int(name[1])
+        inner = wikicode_to_text(node.contents) if node.contents else ""
+        return f"\n\n{'#' * level} {inner.strip()}\n\n"
+    if node.contents is not None:
+        return wikicode_to_text(node.contents)
+    return ""
+
+
+def preprocess(raw: str) -> str:
+    text = raw
+    text = re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL)
+    text = re.sub(r"<pagequality\b[^>]*>", "", text)
+    text = re.sub(r"<section\b[^>]*>", "", text)
+    text = re.sub(r"</section>", "", text)
+    text = re.sub(r"</?noinclude>", "", text)
+    text = re.sub(r"\{\{nopt?\}\}", "", text)
+    return text
+
+
+def cleanup(text: str) -> str:
+    text = text.replace("\xa0", " ")
+    lines = [ln.rstrip() for ln in text.split("\n")]
+    out: list[str] = []
+    blank = 0
+    for ln in lines:
+        if ln.strip() == "":
+            blank += 1
+            if blank <= 1:
+                out.append("")
+        else:
+            blank = 0
+            out.append(ln)
+    while out and out[0] == "":
+        out.pop(0)
+    while out and out[-1] == "":
+        out.pop()
+    return "\n".join(out)
+
+
+def _find_table_end(text: str, start: int) -> int:
+    depth = 0
+    i = start
+    while i < len(text):
+        if text[i:i + 2] == "{|":
+            depth += 1
+            i += 2
+        elif text[i:i + 2] == "|}":
+            depth -= 1
+            if depth == 0:
+                return i
+            i += 2
+        else:
+            i += 1
+    return -1
+
+
+def _convert_templates(text: str) -> str:
+    if not text:
+        return ""
+    return wikicode_to_text(mwfh.parse(text))
+
+
+def _restore(text: str, placeholders: list[str]) -> str:
+    for i, md in enumerate(placeholders):
+        text = text.replace(f"@@TBL{i}@@", md)
+    return text
+
+
+def _process(text: str) -> str:
+    parts: list[str] = []
+    i = 0
+    while True:
+        idx = text.find("{|", i)
+        if idx == -1:
+            parts.append(_convert_templates(text[i:]))
+            break
+        parts.append(_convert_templates(text[i:idx]))
+        end = _find_table_end(text, idx)
+        if end == -1:
+            parts.append(_convert_templates(text[idx:]))
+            break
+        parts.append(_table_to_markdown(text[idx:end + 2]))
+        i = end + 2
+    return "".join(parts)
+
+
+def _convert_inner(text: str, placeholders: list[str]) -> str:
+    parts: list[str] = []
+    i = 0
+    while True:
+        idx = text.find("{|", i)
+        if idx == -1:
+            parts.append(text[i:])
+            break
+        parts.append(text[i:idx])
+        end = _find_table_end(text, idx)
+        if end == -1:
+            parts.append(text[idx:])
+            break
+        md = _table_to_markdown(text[idx:end + 2])
+        placeholders.append(md)
+        parts.append(f"@@TBL{len(placeholders) - 1}@@")
+        i = end + 2
+    return "".join(parts)
+
+
+def _parse_cell_line(line: str):
+    is_header = line.startswith("!")
+    rest = line[1:].lstrip()
+    depth = 0
+    for i, c in enumerate(rest):
+        if c == "{":
+            depth += 1
+        elif c == "}":
+            depth -= 1
+        elif c == "|" and depth <= 0:
+            return rest[:i], rest[i + 1:].strip(), is_header
+    return "", rest.strip(), is_header
+
+
+def _split_inline(line: str) -> list[str]:
+    lead = line[0]
+    dbl = "!!" if lead == "!" else "||"
+    out: list[str] = []
+    buf = ""
+    depth = 0
+    i = 0
+    while i < len(line):
+        c = line[i]
+        if c == "{":
+            depth += 1
+            buf += c
+            i += 1
+        elif c == "}":
+            depth -= 1
+            buf += c
+            i += 1
+        elif depth <= 0 and line[i:i + 2] == dbl:
+            out.append(buf)
+            buf = lead
+            i += 2
+        else:
+            buf += c
+            i += 1
+    out.append(buf)
+    return out
+
+
+def _md_escape(cell: str) -> str:
+    return cell.replace("|", "\\|").replace("\n", " ").strip()
+
+
+def _is_cjk(s: str) -> bool:
+    s = s.strip()
+    if not (0 < len(s) <= 6):
+        return False
+    return any(ord(c) > 0x2E00 for c in s)
+
+
+def _parse_table_rows(block: str):
+    caption = ""
+    rows: list[list[list]] = []
+    cur: list[list] = []
+    for ln in block.split("\n"):
+        s = ln.strip()
+        if not s or s.startswith("{|"):
+            continue
+        if s.startswith("|}"):
+            break
+        if s.startswith("|+"):
+            caption = s[2:].strip()
+            continue
+        if s.startswith("|-"):
+            if cur:
+                rows.append(cur)
+                cur = []
+            continue
+        if s.startswith("!") or s.startswith("|"):
+            for piece in _split_inline(s):
+                attrs, content, is_header = _parse_cell_line(piece)
+                cur.append([attrs, content, is_header])
+        elif cur:
+            cur[-1][1] = (cur[-1][1] + " " + s).strip()
+    if cur:
+        rows.append(cur)
+    return caption, rows
+
+
+def _table_to_markdown(block: str) -> str:
+    is_radical = "Anchor+|radical" in block
+    m_open = re.match(r"\s*\{\|[^\n]*\n?", block)
+    shell = block[m_open.end():] if m_open else block
+    shell = re.sub(r"\|\}\s*$", "", shell)
+
+    placeholders: list[str] = []
+    shell = _convert_inner(shell, placeholders)
+    caption_raw, rows = _parse_table_rows(shell)
+    caption = _restore(_convert_templates(caption_raw), placeholders).strip()
+    if not rows:
+        return f"##### {caption}" if caption else ""
+    ncols = max(len(r) for r in rows)
+
+    is_grid = any("@@TBL" in c[1] for r in rows for c in r)
+    if is_grid:
+        out: list[str] = []
+        if caption:
+            out.append(f"##### {caption}")
+            out.append("")
+        for r in rows:
+            for attrs, content, _ in r:
+                md = _restore(_convert_templates(content), placeholders).strip()
+                if md:
+                    out.append(md)
+                    out.append("")
+        return "\n".join(out).strip()
+
+    sections: list[tuple[str, list]] = []
+    cur_title = ""
+    cur_rows: list = []
+    for row in rows:
+        if len(row) == 1 and "colspan" in row[0][0].lower():
+            if cur_rows:
+                sections.append((cur_title, cur_rows))
+                cur_rows = []
+            cur_title = _restore(_convert_templates(row[0][1]), placeholders).strip(":. ")
+            continue
+        cur_rows.append(row)
+    if cur_rows:
+        sections.append((cur_title, cur_rows))
+
+    out = []
+    for title, srows in sections:
+        first_converted = [_restore(_convert_templates(c[1]), placeholders) for c in srows[0]] if srows else []
+        has_header = bool(srows) and len(srows[0]) == ncols and all(c[2] for c in srows[0])
+        if has_header:
+            header_cells = [_md_escape(first_converted[i]) for i in range(len(srows[0]))]
+            body = srows[1:]
+        elif is_radical and ncols == 6:
+            header_cells = ["No.", "Radical", "Page", "Name", "Designation", "Meaning"]
+            body = srows
+        elif ncols == 2 and srows and _is_cjk(first_converted[0]):
+            header_cells = ["字", "音"]
+            body = srows
+        else:
+            header_cells = [f"Col {i + 1}" for i in range(ncols)]
+            body = srows
+        if title:
+            out.append("")
+            out.append(f"#### {title}")
+            out.append("")
+        out.append("| " + " | ".join(header_cells) + " |")
+        out.append("|" + "|".join([" --- "] * ncols) + "|")
+        for r in body:
+            cells = [_md_escape(_restore(_convert_templates(c[1]), placeholders)) for c in r]
+            while len(cells) < ncols:
+                cells.append("")
+            out.append("| " + " | ".join(cells[:ncols]) + " |")
+        out.append("")
+    return "\n".join(out).strip()
+
+
+def fix_orphaned_semicolons(text: str) -> str:
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+    while i < n:
+        s = lines[i].strip()
+        if s.startswith(";") and not s.startswith("; ---"):
+            phrase = s.lstrip(";").strip().rstrip(";").strip()
+            if phrase:
+                j = i + 1
+                while j < n and lines[j].strip() == "":
+                    j += 1
+                if j < n and lines[j].strip().startswith(":"):
+                    gloss = lines[j].strip().lstrip(":").strip()
+                    out.append(f"  - *{phrase}* — {gloss}" if gloss else f"  - *{phrase}*")
+                    i = j + 1
+                    continue
+        if s.endswith(";") and not s.startswith((";", ":", "*", "#", "-")):
+            phrase = s.rstrip(";").strip()
+            if phrase:
+                j = i + 1
+                while j < n and lines[j].strip() == "":
+                    j += 1
+                if j < n and lines[j].strip().startswith(":"):
+                    gloss = lines[j].strip().lstrip(":").strip()
+                    out.append(f"  - *{phrase}* — {gloss}" if gloss else f"  - *{phrase}*")
+                    i = j + 1
+                    continue
+        if s and not s.startswith((";", ":", "*", "#", "-")) and not s.endswith(";"):
+            accumulated = s
+            j = i + 1
+            merged = False
+            while j < n:
+                sj = lines[j].strip()
+                if sj == "":
+                    j += 1
+                    continue
+                if sj.endswith(";") and not sj.startswith((";", ":", "*", "#", "-")):
+                    accumulated += " " + sj.rstrip(";").strip()
+                    k = j + 1
+                    while k < n and lines[k].strip() == "":
+                        k += 1
+                    if k < n and lines[k].strip().startswith(":"):
+                        gloss = lines[k].strip().lstrip(":").strip()
+                        out.append(f"  - *{accumulated.strip()}* — {gloss}" if gloss else f"  - *{accumulated.strip()}*")
+                        i = k + 1
+                        merged = True
+                    break
+                if sj.startswith((";", ":", "*", "#", "-")):
+                    break
+                accumulated += " " + sj
+                j += 1
+            if merged:
+                continue
+        out.append(lines[i])
+        i += 1
+    return "\n".join(out)
+
+
+def _is_blank_or_marker(line: str) -> bool:
+    s = line.strip()
+    return s == "" or s.startswith("<!-- page:")
+
+
+def reformat_entries(text: str) -> str:
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+    while i < n:
+        s = lines[i].strip()
+        m = _HEADWORD_RE.match(s)
+        if not m:
+            if s == ";":
+                i += 1
+                continue
+            out.append(lines[i])
+            i += 1
+            continue
+        hanzi = m.group(1)
+        nums = m.group(2) or ""
+        latn_parts = m.group(3).rstrip(";").strip().split()
+        latn = latn_parts[0] if latn_parts else ""
+        trailing_phrase = " ".join(latn_parts[1:]).rstrip(";").strip() if len(latn_parts) > 1 else ""
+        defn = ""
+        j = i + 1
+        while j < n and _is_blank_or_marker(lines[j]):
+            if lines[j].strip().startswith("<!-- page:"):
+                out.append(lines[j])
+            j += 1
+        if j < n:
+            cand = lines[j].strip()
+            if cand.startswith("*") and not _HEADWORD_RE.match(cand):
+                defn = cand.lstrip("*").strip()
+                j += 1
+        while j < n:
+            s3 = lines[j].strip()
+            if _is_blank_or_marker(lines[j]):
+                if s3.startswith("<!-- page:"):
+                    out.append(lines[j])
+                j += 1
+                continue
+            if s3.startswith((";", ":", "*", "#", "-")):
+                break
+            defn = (defn + " " + s3).strip() if defn else s3
+            j += 1
+        examples: list[tuple[str, str]] = []
+        if trailing_phrase:
+            examples.append((trailing_phrase, ""))
+        k = j
+        while k < n:
+            s2 = lines[k].strip()
+            if _is_blank_or_marker(lines[k]):
+                if s2.startswith("<!-- page:"):
+                    out.append(lines[k])
+                k += 1
+                continue
+            if s2.startswith(";"):
+                phrase = s2.lstrip(";").strip().rstrip(";").strip()
+                gloss = ""
+                kk = k + 1
+                while kk < n and _is_blank_or_marker(lines[kk]):
+                    if lines[kk].strip().startswith("<!-- page:"):
+                        out.append(lines[kk])
+                    kk += 1
+                if kk < n and lines[kk].strip().startswith(":"):
+                    gloss = lines[kk].strip().lstrip(":").strip()
+                    kk += 1
+                    while kk < n and _is_blank_or_marker(lines[kk]):
+                        if lines[kk].strip().startswith("<!-- page:"):
+                            out.append(lines[kk])
+                        kk += 1
+                    if kk < n:
+                        nxt = lines[kk].strip()
+                        if nxt and not nxt.startswith((";", ":", "*", "#", "-")):
+                            look = kk + 1
+                            while look < n and (lines[look].strip() == "" or lines[look].strip().startswith("<!-- page:")):
+                                look += 1
+                            if not (look < n and lines[look].strip().endswith(";") and not lines[look].strip().startswith((";", ":", "*", "#", "-"))):
+                                gloss = (gloss + " " + nxt).strip()
+                                kk += 1
+                    k = kk
+                else:
+                    if kk < n and lines[kk].strip():
+                        nxt = lines[kk].strip()
+                        if not nxt.startswith((";", ":", "*", "#", "-")):
+                            gloss = nxt
+                            kk += 1
+                    k = kk
+                examples.append((phrase, gloss))
+            elif s2.startswith(":"):
+                k += 1
+            else:
+                break
+        head = f"- **{hanzi}**{nums} {latn}"
+        if defn:
+            head += f" — {defn}"
+        out.append(head)
+        for ph, gl in examples:
+            if gl:
+                out.append(f"  - *{ph}* — {gl}")
+            else:
+                out.append(f"  - *{ph}*")
+        i = k
+    return "\n".join(out)
+
+
+def convert_page(raw: str) -> str:
+    text = preprocess(raw)
+    if not text.strip():
+        return ""
+    return _process(text)
+
+
+def fetch_wikitext(site, title: str) -> dict[int, str]:
+    from pywikibot.data import api
+
+    results: dict[int, str] = {}
+    req = api.Request(
+        site=site,
+        parameters={
+            "action": "query",
+            "prop": "revisions",
+            "rvprop": "content",
+            "rvslots": "main",
+            "titles": "|".join(title),
+            "maxage": 0,
+        },
+    )
+    data = req.submit()
+    pages = data.get("query", {}).get("pages", {})
+    if isinstance(pages, list):
+        pages = {p["pageid"]: p for p in pages}
+    for pageinfo in pages.values():
+        t = pageinfo.get("title", "")
+        try:
+            n = int(t.rsplit("/", 1)[-1])
+        except ValueError:
+            continue
+        revs = pageinfo.get("revisions", [])
+        if not revs:
+            continue
+        rev0 = revs[0]
+        text = rev0.get("slots", {}).get("main", {}).get("*")
+        if text is None:
+            text = rev0.get("*")
+        if text is not None:
+            results[n] = text
+    return results
+
+
+def fetch_batch(site, numbers: list[int], page_prefix: str) -> dict[int, str]:
+    titles = [f"{page_prefix}{n}" for n in numbers]
+    return fetch_wikitext(site, titles)
+
+
+def run_fetch(site, page_prefix: str, start: int, end: int, cache_dir: Path) -> dict[int, str]:
+    cache_dir.mkdir(parents=True, exist_ok=True)
     all_pages: dict[int, str] = {}
     all_nums = list(range(start, end + 1))
-    failed: list[int] = []
+    batches = [all_nums[i:i + BATCH_SIZE] for i in range(0, len(all_nums), BATCH_SIZE)]
 
-    for i in range(0, len(all_nums), BATCH_SIZE):
-        batch = all_nums[i:i + BATCH_SIZE]
-        try:
-            data = fetch_batch(pdf_title, batch)
-            all_pages.update(data)
-            print(f"  API batch {batch}: OK ({len(data)} pages)", file=sys.stderr)
-        except Exception as e:
-            print(f"  API batch {batch}: FAILED - {e}", file=sys.stderr)
-            failed.extend(batch)
-        time.sleep(BATCH_DELAY)
+    for bi, batch in enumerate(batches, 1):
+        cached = {}
+        to_fetch = []
+        for n in batch:
+            p = cache_dir / f"p{n:03d}.wikitext"
+            if p.exists():
+                cached[n] = p.read_text(encoding="utf-8")
+            else:
+                to_fetch.append(n)
 
-    if failed:
-        print(f"Retrying {len(failed)} pages via HTML...", file=sys.stderr)
-        time.sleep(RETRY_DELAY)
-        for pn in failed:
-            try:
-                html = fetch_page_html(pdf_title, pn)
-                all_pages[pn] = html
-                print(f"  HTML page {pn}: OK ({len(html)} bytes)", file=sys.stderr)
-            except Exception as e:
-                print(f"  HTML page {pn}: FAILED - {e}", file=sys.stderr)
-            time.sleep(BATCH_DELAY)
+        all_pages.update(cached)
+
+        if to_fetch:
+            attempt = 0
+            result = None
+            while attempt < MAX_ATTEMPTS:
+                attempt += 1
+                try:
+                    result = fetch_batch(site, to_fetch, page_prefix)
+                    break
+                except Exception as exc:
+                    print(f"  batch {bi} attempt {attempt} error: {exc}", file=sys.stderr)
+                    if attempt >= MAX_ATTEMPTS:
+                        break
+                    time.sleep(2 ** attempt)
+
+            if result:
+                for n in to_fetch:
+                    text = result.get(n)
+                    if text is not None:
+                        all_pages[n] = text
+                        p = cache_dir / f"p{n:03d}.wikitext"
+                        p.write_text(text, encoding="utf-8")
+
+        ok = sum(1 for n in batch if n in all_pages)
+        print(f"  batch {bi}/{len(batches)}: {ok}/{len(batch)} pages", file=sys.stderr)
+        time.sleep(SLEEP_BETWEEN_BATCHES)
 
     return all_pages
 
 
-def strip_noinclude(text: str) -> str:
-    return re.sub(r"<noinclude>.*?</noinclude>", "", text, flags=re.DOTALL)
-
-
-def clean_wikitext(text: str) -> str:
-    text = strip_noinclude(text)
-    templates = [
-        (r"\{\{c\|(.*?)\}\}", r"\1"),
-        (r"\{\{xxx-larger\|(.*?)\}\}", r"\1"),
-        (r"\{\{xx-larger\|(.*?)\}\}", r"\1"),
-        (r"\{\{x-larger\|(.*?)\}\}", r"\1"),
-        (r"\{\{larger\|(.*?)\}\}", r"\1"),
-        (r"\{\{smaller\|(.*?)\}\}", r"\1"),
-        (r"\{\{small\|(.*?)\}\}", r"\1"),
-        (r"\{\{sc\|(.*?)\}\}", r"\1"),
-        (r"\{\{blackletter\|(.*?)\}\}", r"\1"),
-        (r"\{\{lsp\|[^|]*?\|(.*?)\}\}", r"\1"),
-        (r"\{\{right\|(.*?)\}\}", r"\1"),
-        (r"\{\{right\|(.*?)\|[^}]*\}\}", r"\1"),
-    ]
-    for pattern, repl in templates:
-        text = re.sub(pattern, repl, text, flags=re.DOTALL)
-
-    text = re.sub(r"\{\{dhr\|[^}]*\}\}", "", text)
-    text = re.sub(r"\{\{dhr\}\}", "", text)
-    text = re.sub(r"\{\{rule\|[^}]*\}\}", "\n------\n", text)
-    text = re.sub(r"\{\{rule\}\}", "\n------\n", text)
-    text = re.sub(r"\{\{sfrac nobar\|([^|]*)\|([^}]*)\}\}", r"\1/\2", text)
-    text = re.sub(r"\{\{rh\|[^}]*\}\}", "", text)
-    text = re.sub(r"\{\{pagequality[^}]*\}\}", "", text)
-
-    text = re.sub(
-        r"<h([23])[^>]*>(.*?)</h\1>",
-        lambda m: "#" * int(m.group(1)) + " " + m.group(2).strip(),
-        text, flags=re.DOTALL,
-    )
-    text = re.sub(r"<i>(.*?)</i>", r"*\1*", text, flags=re.DOTALL)
-    text = re.sub(r"<b>(.*?)</b>", r"**\1**", text, flags=re.DOTALL)
-    text = re.sub(r"<br\s*/?>", "\n", text)
-    text = re.sub(r"<ref[^>]*>.*?</ref>", "", text, flags=re.DOTALL)
-    text = re.sub(r"\[\[([^|\]]+)\|([^\]]+)\]\]", r"\2", text)
-    text = re.sub(r"\[\[([^|\]]+)\]\]", r"\1", text)
-    text = re.sub(r"\{\{.*?\}\}", "", text, flags=re.DOTALL)
-    text = re.sub(r"<!--.*?-->", "", text, flags=re.DOTALL)
-    return text.strip()
-
-
-def convert_dl_to_pipe(text: str) -> str:
-    lines = text.split("\n")
-    result: list[str] = []
-    eng = ""
-    han = ""
-    roman = ""
-
-    def flush():
-        nonlocal eng, han, roman
-        if eng and (han or roman):
-            parts = [eng]
-            if han:
-                parts.append(han)
-            if roman and roman != han:
-                parts.append(roman)
-            result.append(" | ".join(parts))
-        eng = han = roman = ""
-
-    for line in lines:
-        s = line.strip()
-        if not s:
-            flush()
-            continue
-        semi = re.match(r"^;\s*(.*)", s)
-        colon = re.match(r"^::?\s*(.*)", s)
-        if semi:
-            flush()
-            eng = semi.group(1).strip()
-        elif colon:
-            val = colon.group(1).strip()
-            if not han:
-                han = val
-            else:
-                roman = val
-    flush()
-    return "\n".join(result)
-
-
-def process_wikitext_page(page_num: int, wikitext: str) -> str:
-    text = clean_wikitext(wikitext)
-    text = re.sub(r'<section end="[^"]*"\s*/?>', '', text)
-    if re.search(r"^;", text, re.MULTILINE):
-        text = convert_dl_to_pipe(text)
-    return re.sub(r"\n{3,}", "\n\n", text).strip()
-
-
-def _html_clean(s: str) -> str:
-    s = re.sub(r"<[^>]+>", "", s)
-    return s.strip()
-
-
-def process_html_page(html: str) -> str:
-    html = html_mod.unescape(html)
-    html = re.sub(r"<style[^>]*>.*?</style>", "", html, flags=re.DOTALL)
-
-    m = re.search(r'<div class="pagetext">(.*?)</div>\s*</div>\s*</div>', html, re.DOTALL)
-    content = m.group(1) if m else html
-
-    text_parts: list[str] = []
-    for h in re.finditer(r"<h[23][^>]*>(.*?)</h[23]>", content):
-        level = 2 if "h2" in h.group(0)[:10] else 3
-        text_parts.append(f"\n{'#' * level} {_html_clean(h.group(1))}")
-
-    entries: list[str] = []
-    nested = re.findall(
-        r"<dl>\s*<dt>(.*?)</dt>\s*<dd>(.*?)<dl>\s*<dd>(.*?)</dd>\s*</dl>\s*</dd>\s*</dl>",
-        content, re.DOTALL,
-    )
-    for dt, dd1, dd2 in nested:
-        dt_c = _html_clean(dt)
-        dd1_c = _html_clean(dd1)
-        dd2_c = _html_clean(dd2)
-        if dt_c:
-            parts = [dt_c]
-            if dd1_c:
-                parts.append(dd1_c)
-            if dd2_c and dd2_c != dd1_c:
-                parts.append(dd2_c)
-            entries.append(" | ".join(parts))
-
-    if not nested:
-        for tr in re.finditer(r"<tr[^>]*>(.*?)</tr>", content, re.DOTALL):
-            cells = [_html_clean(td.group(1)) for td in re.finditer(r"<t[hd][^>]*>(.*?)</t[hd]>", tr.group(1), re.DOTALL)]
-            if cells:
-                entries.append(" | ".join(cells))
-
-    result = "\n".join(text_parts)
-    if entries:
-        result += "\n\n" + "\n".join(entries)
-    return re.sub(r"\n{3,}", "\n\n", result).strip()
-
-
-def format_tables(content: str) -> str:
-    lines = content.split("\n")
-    result: list[str] = []
-    in_table = False
-
-    for line in lines:
-        s = line.strip()
-        is_entry = bool(re.match(r"^[^|#<\n].*\|.*\|", s)) and not s.startswith("|")
-        if is_entry:
-            cols = s.count("|") - 1
-            if not in_table:
-                header = "| " + " | ".join([""] * cols) + " |"
-                sep = "|" + "|".join(["---"] * cols) + "|"
-                result.append(header)
-                result.append(sep)
-                in_table = True
-            result.append("| " + s + " |")
-        else:
-            in_table = False
-            result.append(line)
-
-    return "\n".join(result)
-
-
-def expand_ditto(content: str) -> str:
-    lines = content.split("\n")
-    result: list[str] = []
-    prev_hanzi = None
-
-    for line in lines:
-        m = re.match(r"^\|[^|]*\|([^|]*)\|[^|]*\|$", line)
-        if m:
-            hanzi = m.group(1).strip()
-            if "丨" in hanzi and prev_hanzi:
-                expanded = hanzi
-                offset = 0
-                for i, ch in enumerate(hanzi):
-                    if ch == "丨" and i < len(prev_hanzi):
-                        ditto_val = prev_hanzi[i]
-                        ins = f"~~丨~~({ditto_val})"
-                        expanded = expanded[:i + offset] + ins + expanded[i + offset + 1:]
-                        offset += len(ins) - 1
-                line = line.replace(hanzi, expanded, 1)
-                prev_hanzi = expanded.replace("~~丨~~(", "").replace(")", "")
-            else:
-                prev_hanzi = hanzi
-        else:
-            prev_hanzi = None
-        result.append(line)
-
-    return "\n".join(result)
-
-
 def build_markdown(pages: dict[int, str], start: int, end: int) -> str:
-    sections: list[str] = []
+    chunks: list[str] = []
     for pn in range(start, end + 1):
         raw = pages.get(pn, "")
-        if not raw:
-            continue
-        if raw.lstrip().startswith("<"):
-            body = process_html_page(raw)
-        else:
-            body = process_wikitext_page(pn, raw)
-        if body:
-            sections.append(f"<!-- page:{pn} -->\n\n{body}")
-    return "\n\n".join(sections) + "\n"
+        chunks.append(f"<!-- page:{pn} -->")
+        if raw:
+            body = convert_page(raw)
+            if body:
+                chunks.append("")
+                chunks.append(body)
+        chunks.append("")
+    return "\n".join(chunks)
+
+
+def postprocess(text: str) -> str:
+    out = reformat_entries(text)
+    out = fix_orphaned_semicolons(out)
+    out = cleanup(out)
+    out = re.sub(r"\n{3,}", "\n\n", out)
+    out = re.sub(r"(?:\n---\n){2,}", "\n---\n", out)
+    out = re.sub(r"\n{3,}", "\n\n", out)
+    return out.strip() + "\n"
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Download Wikisource book to markdown")
-    parser.add_argument("pdf_title", help="Wikisource PDF index title")
-    parser.add_argument("start", type=int, help="First page number")
-    parser.add_argument("end", type=int, help="Last page number")
-    parser.add_argument("output", help="Output markdown file path")
+    parser = argparse.ArgumentParser(description="Fetch Wikisource book to markdown")
+    parser.add_argument("--title", required=True, help="Wikisource index title (without Page: prefix)")
+    parser.add_argument("--start", type=int, required=True, help="First page number")
+    parser.add_argument("--end", type=int, required=True, help="Last page number")
+    parser.add_argument("--output", required=True, help="Output markdown file path")
+    parser.add_argument("--cache-dir", default=None, help="Directory for cached wikitext pages")
     args = parser.parse_args()
 
-    print(f"Downloading {args.pdf_title} pages {args.start}-{args.end}...", file=sys.stderr)
-    pages = download_pages(args.pdf_title, args.start, args.end)
+    page_prefix = f"{PAGE_PREFIX}{args.title}/"
+    output = Path(args.output)
+    cache_dir = Path(args.cache_dir) if args.cache_dir else PROJECT_ROOT / "tmp" / args.title.replace(".djvu", "").replace(" ", "_")
+
+    sys.argv = ["fetch", f"-dir:{PROJECT_ROOT / '.progress' / 'swatow-dict-fetch'}"]
+    import pywikibot
+    site = pywikibot.Site("en", "wikisource")
+
+    print(f"Fetching pages {args.start}-{args.end}...", file=sys.stderr)
+    pages = run_fetch(site, page_prefix, args.start, args.end, cache_dir)
 
     missing = [n for n in range(args.start, args.end + 1) if n not in pages]
     if missing:
-        print(f"Warning: missing pages: {missing}", file=sys.stderr)
+        print(f"Warning: {len(missing)} missing pages", file=sys.stderr)
 
     print("Building markdown...", file=sys.stderr)
     content = build_markdown(pages, args.start, args.end)
-    content = format_tables(content)
-    content = expand_ditto(content)
+    content = postprocess(content)
 
-    output = Path(args.output)
+    output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(content, encoding="utf-8")
-    print(f"Written {len(content)} chars to {output}", file=sys.stderr)
+    print(f"Wrote {len(content):,} bytes, {content.count(chr(10)) + 1} lines to {output}", file=sys.stderr)
 
 
 if __name__ == "__main__":
