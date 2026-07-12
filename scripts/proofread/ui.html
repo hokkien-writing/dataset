@@ -19,13 +19,15 @@
   #status.dirty { color: #fc6; }
   #status.error { color: #f66; }
   main { flex: 1; display: flex; overflow: hidden; min-height: 0; }
-  #imgwrap { flex: 1; overflow: auto; background: #111; padding: 8px; display: flex; align-items: flex-start; justify-content: center; min-height: 0; }
+  #imgwrap { overflow: auto; background: #111; padding: 8px; display: flex; align-items: flex-start; justify-content: center; min-height: 0; width: 50%; }
   #imgwrap img { max-width: 100%; max-height: 100%; object-fit: contain; display: block; user-select: none; -webkit-user-drag: none; }
   #imgwrap.zoom { display: block; text-align: left; cursor: grab; }
   #imgwrap.zoom.dragging { cursor: grabbing; }
   #imgwrap.zoom img { max-height: none; max-width: none; width: auto; height: auto; margin: 0; }
   #imgwrap:not(.zoom) img { cursor: zoom-in; }
-  #editorwrap { flex: 1; display: flex; flex-direction: column; border-left: 1px solid #444; min-width: 320px; }
+  #divider { width: 5px; cursor: col-resize; background: #444; flex-shrink: 0; }
+  #divider:hover, #divider.active { background: #6af; }
+  #editorwrap { display: flex; flex-direction: column; min-width: 200px; flex: 1; }
   textarea {
     flex: 1; width: 100%; background: #181818; color: #eee; border: 0; padding: 12px;
     font-family: "SF Mono", Menlo, Consolas, monospace; font-size: 15px; line-height: 1.7; resize: none; outline: none;
@@ -47,6 +49,7 @@
 </header>
 <main>
   <div id="imgwrap"><img id="pageImg" alt=""></div>
+  <div id="divider"></div>
   <div id="editorwrap">
     <textarea id="editor" spellcheck="false" placeholder="(no content for this page)"></textarea>
     <div class="hint">Cmd/Ctrl+S save · Cmd/Ctrl+←/→ prev/next · click image to toggle zoom</div>
@@ -177,6 +180,34 @@ let imgwrapDragged = false;
     if (!dragging) return;
     dragging = false;
     wrap.classList.remove("dragging");
+  });
+})();
+
+(function setupDivider() {
+  const divider = $("divider");
+  const imgwrap = $("imgwrap");
+  const editorwrap = $("editorwrap");
+  const main = imgwrap.parentElement;
+  let dragging = false;
+  divider.addEventListener("mousedown", (e) => {
+    dragging = true;
+    divider.classList.add("active");
+    e.preventDefault();
+  });
+  window.addEventListener("mousemove", (e) => {
+    if (!dragging) return;
+    const rect = main.getBoundingClientRect();
+    const offset = e.clientX - rect.left;
+    const total = rect.width;
+    const pct = Math.min(Math.max(offset / total * 100, 10), 90);
+    imgwrap.style.width = pct + "%";
+    editorwrap.style.flex = "none";
+    editorwrap.style.width = (100 - pct) + "%";
+  });
+  window.addEventListener("mouseup", () => {
+    if (!dragging) return;
+    dragging = false;
+    divider.classList.remove("active");
   });
 })();
 
