@@ -49,7 +49,7 @@ FORMATTING_TPL = {
     "small-caps", "uc", "em", "ti", "ae", "brace2", "sfrac", "c",
 }
 
-_HEADWORD_RE = re.compile(r"^\*?\s*\*\*(.+?)\*\*(\([^)]*\))?\s+(.+)$")
+_HEADWORD_RE = re.compile(r"^\*?\s*\*\*(.+?)\*\*\s+(\S+)(?:\s+(\([^)]*\)))?\s*$")
 
 
 def _positional(tpl: Template) -> list:
@@ -101,7 +101,7 @@ def template_to_text(tpl: Template) -> str:
     if name == "swatow entry":
         if len(pos) >= 5:
             nums = f"({wikicode_to_text(pos[2])}|{wikicode_to_text(pos[3])}|{wikicode_to_text(pos[4])})"
-            return f"**{wikicode_to_text(pos[0])}**{nums} {wikicode_to_text(pos[1])}".strip()
+            return f"**{wikicode_to_text(pos[0])}** {wikicode_to_text(pos[1])} {nums}".strip()
         if len(pos) >= 2:
             return f"**{wikicode_to_text(pos[0])}** {wikicode_to_text(pos[1])}".strip()
         return wikicode_to_text(pos[0]).strip() if pos else ""
@@ -347,7 +347,7 @@ def _table_to_markdown(block: str) -> str:
     caption_raw, rows = _parse_table_rows(shell)
     caption = _restore(_convert_templates(caption_raw), placeholders).strip()
     if not rows:
-        return f"##### {caption}" if caption else ""
+        return f"**{caption}**" if caption else ""
     ncols = max(len(r) for r in rows)
 
     is_grid = any("@@TBL" in c[1] for r in rows for c in r)
@@ -392,7 +392,7 @@ def _table_to_markdown(block: str) -> str:
             header_cells = ["字", "音"]
             body = srows
         else:
-            header_cells = [f"Col {i + 1}" for i in range(ncols)]
+            header_cells = [""] * ncols
             body = srows
         if title:
             out.append("")
@@ -490,15 +490,16 @@ def reformat_entries(text: str) -> str:
             i += 1
             continue
         hanzi = m.group(1)
-        nums = m.group(2) or ""
-        latn_parts = m.group(3).rstrip(";").strip().split()
-        latn = latn_parts[0] if latn_parts else ""
-        trailing_phrase = " ".join(latn_parts[1:]).rstrip(";").strip() if len(latn_parts) > 1 else ""
+        latn = m.group(2) or ""
+        nums = m.group(3) or ""
+        trailing_phrase = ""
         defn = ""
+        pre_head_markers: list[str] = []
+        post_entry_markers: list[str] = []
         j = i + 1
         while j < n and _is_blank_or_marker(lines[j]):
             if lines[j].strip().startswith("<!-- page:"):
-                out.append(lines[j])
+                pre_head_markers.append(lines[j])
             j += 1
         if j < n:
             cand = lines[j].strip()
@@ -509,7 +510,7 @@ def reformat_entries(text: str) -> str:
             s3 = lines[j].strip()
             if _is_blank_or_marker(lines[j]):
                 if s3.startswith("<!-- page:"):
-                    out.append(lines[j])
+                    pre_head_markers.append(lines[j])
                 j += 1
                 continue
             if s3.startswith((";", ":", "*", "#", "-")):
@@ -524,7 +525,7 @@ def reformat_entries(text: str) -> str:
             s2 = lines[k].strip()
             if _is_blank_or_marker(lines[k]):
                 if s2.startswith("<!-- page:"):
-                    out.append(lines[k])
+                    post_entry_markers.append(lines[k])
                 k += 1
                 continue
             if s2.startswith(";"):
@@ -533,14 +534,14 @@ def reformat_entries(text: str) -> str:
                 kk = k + 1
                 while kk < n and _is_blank_or_marker(lines[kk]):
                     if lines[kk].strip().startswith("<!-- page:"):
-                        out.append(lines[kk])
+                        post_entry_markers.append(lines[kk])
                     kk += 1
                 if kk < n and lines[kk].strip().startswith(":"):
                     gloss = lines[kk].strip().lstrip(":").strip()
                     kk += 1
                     while kk < n and _is_blank_or_marker(lines[kk]):
                         if lines[kk].strip().startswith("<!-- page:"):
-                            out.append(lines[kk])
+                            post_entry_markers.append(lines[kk])
                         kk += 1
                     if kk < n:
                         nxt = lines[kk].strip()
@@ -564,7 +565,8 @@ def reformat_entries(text: str) -> str:
                 k += 1
             else:
                 break
-        head = f"- **{hanzi}**{nums} {latn}"
+        out.extend(pre_head_markers)
+        head = f"- **{hanzi}** {latn} {nums}"
         if defn:
             head += f" — {defn}"
         out.append(head)
@@ -573,6 +575,7 @@ def reformat_entries(text: str) -> str:
                 out.append(f"  - *{ph}* — {gl}")
             else:
                 out.append(f"  - *{ph}*")
+        out.extend(post_entry_markers)
         i = k
     return "\n".join(out)
 
@@ -687,9 +690,68 @@ def build_markdown(pages: dict[int, str], start: int, end: int) -> str:
     return "\n".join(chunks)
 
 
+def convert_section_titles(text: str) -> str:
+    lines = text.split("\n")
+    out: list[str] = []
+    i = 0
+    n = len(lines)
+    in_body = False
+    pending_title: str | None = None
+    while i < n:
+        s = lines[i].strip()
+        if not in_body:
+            if s == "PREFACE.":
+                in_body = True
+                out.append(f"## {s}")
+            else:
+                out.append(lines[i])
+            i += 1
+            continue
+        if pending_title is not None:
+            if s == "":
+                out.append("")
+                i += 1
+                continue
+            if s == "of the":
+                pending_title += " OF THE"
+                i += 1
+                continue
+            if s.startswith("SWATOW DIALECT"):
+                out.append(f"## {pending_title} SWATOW DIALECT.")
+                pending_title = None
+                i += 1
+                continue
+            out.append(f"## {pending_title}")
+            pending_title = None
+            continue
+        if s == "ALPHABETIC DICTIONARY":
+            pending_title = s
+            i += 1
+            continue
+        if s in ("Vowels.", "Consonants."):
+            out.append(f"**{s}**")
+            i += 1
+            continue
+        if s == "The radicals.—jī-bó̤.":
+            out.append(f"### {s}")
+            i += 1
+            continue
+        if s and s.endswith(".") and s == s.upper() and len(s) > 3 \
+                and not s.startswith(("-", "*", "#", ";", ":", "|")) \
+                and not re.match(r"^\d", s):
+            level = 2 if s in ("PREFACE.", "INTRODUCTION.") else 3
+            out.append(f"{'#' * level} {s}")
+            i += 1
+            continue
+        out.append(lines[i])
+        i += 1
+    return "\n".join(out)
+
+
 def postprocess(text: str) -> str:
     out = reformat_entries(text)
     out = fix_orphaned_semicolons(out)
+    out = convert_section_titles(out)
     out = cleanup(out)
     out = re.sub(r"\n{3,}", "\n\n", out)
     out = re.sub(r"(?:\n---\n){2,}", "\n---\n", out)

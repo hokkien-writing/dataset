@@ -11,7 +11,7 @@ from scripts.processors.base import (
 
 PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
 HEADWORD_RE = re.compile(r"^- \*\*(.+?)\*\*(\([^)]*\))?\s+(\S+)(?:\s*—\s*(.*))?$")
-EXAMPLE_RE = re.compile(r"^\s+- \*(.+?)\*\*(?:\s*—\s*(.*))?$")
+EXAMPLE_RE = re.compile(r"^- \*(.+?)\*(?:\s*—\s*(.*))?$")
 
 
 class Processor(BookProcessor):
