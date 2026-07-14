@@ -17,8 +17,18 @@ def register_system(config: LatnSystemConfig, converter_class=LatnConverter):
     """Register a latn system in the global registry."""
     _registry.register(config.name, config, converter_class)
 
-def create_converter(system: str = "PUJ") -> LatnConverter:
-    """Create a latn converter for the specified system."""
+def create_converter(system: str = "PUJ", system_class=None) -> LatnConverter:
+    """Create a latn converter for the specified system.
+
+    Args:
+        system: System name for registry lookup (e.g., "PUJ").
+        system_class: Optional system class or instance (e.g., FieldePUJSystem()).
+            When provided, creates converter directly from this system instead of registry.
+    """
+    if system_class is not None:
+        sys_obj = system_class if not isinstance(system_class, type) else system_class()
+        config = sys_obj.create_config()
+        return LatnConverter(config)
     return _registry.create_converter(system)
 
 def list_systems() -> list:

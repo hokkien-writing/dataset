@@ -73,6 +73,12 @@ class LatnSystemConfig:
 
     superscript_tones: bool = False
 
+    variant: str = ""
+    """Named variant of this system (e.g., 'fielde')."""
+
+    normalize_input: Optional[Callable[[str], str]] = None
+    """Optional input normalization function for variant-specific preprocessing."""
+
     def __post_init__(self):
         """Build reverse mappings automatically from forward mappings."""
         if self.reverse_vowel_map is None:

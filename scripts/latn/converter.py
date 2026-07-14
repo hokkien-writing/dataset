@@ -324,11 +324,13 @@ class LatnConverter(ABC):
                     if stem[i : i + len(vowel)] == vowel:
                         k = f"{vowel}{tone_num}"
                         if k in self.vowel_dict:
-                            stem = (
-                                stem[:i] + self.vowel_dict[k] + stem[i + len(vowel) :]
-                            )
-                            marked = True
-                            break
+                            marked_char = self.vowel_dict[k]
+                            if marked_char != vowel:
+                                stem = (
+                                    stem[:i] + marked_char + stem[i + len(vowel) :]
+                                )
+                                marked = True
+                                break
                 if marked:
                     break
             if marked:
