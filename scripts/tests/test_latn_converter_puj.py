@@ -1,5 +1,7 @@
 import unittest
 from scripts.tests.test_converter_base import ConverterTestBase
+from scripts.latn import create_converter
+from scripts.latn.systems.puj import FieldePUJSystem
 
 
 class TestPUJConverter(ConverterTestBase):
@@ -244,6 +246,45 @@ class TestPUJConverter(ConverterTestBase):
                 ("lai5--lo7", "lâi--lō"),
             ]
         )
+
+
+class TestFieldePUJConverter(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.converter = create_converter("PUJ", system_class=FieldePUJSystem())
+
+    def test_breve_tone6_recognition(self):
+        for breve, tilde_base in [
+            ("sĭm", "sim6"),
+            ("bŭ", "bu6"),
+            ("hŭn", "hun6"),
+            ("hă", "ha6"),
+            ("hĕ", "he6"),
+            ("hŏ", "ho6"),
+        ]:
+            with self.subTest(breve=breve):
+                self.assertEqual(self.converter.to_keyboard(breve), tilde_base)
+
+
+class TestFieldePUJNormalizeBookText(unittest.TestCase):
+    def setUp(self):
+        self.system = FieldePUJSystem()
+
+    def test_oa_to_ua_with_tone_marks(self):
+        result = self.system.normalize_book_text("tōa")
+        self.assertEqual(result, "tūa")
+
+    def test_hyphenated_word(self):
+        result = self.system.normalize_book_text("tōa-bó̤-mûeh")
+        self.assertEqual(result, "tūa-bó-mue̍h")
+
+    def test_o_nasalized_becomes_ou(self):
+        result = self.system.normalize_book_text("hóⁿ")
+        self.assertEqual(result, "hóuⁿ")
+
+    def test_plain_o_becomes_ou(self):
+        result = self.system.normalize_book_text("bó")
+        self.assertEqual(result, "bóu")
 
 
 if __name__ == "__main__":
