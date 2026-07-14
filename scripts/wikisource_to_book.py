@@ -18,6 +18,7 @@ import os
 import re
 import sys
 import time
+import unicodedata
 from pathlib import Path
 
 import mwparserfromhell as mwfh
@@ -50,6 +51,21 @@ FORMATTING_TPL = {
 }
 
 _HEADWORD_RE = re.compile(r"^\*?\s*\*\*(.+?)\*\*\s+(\S+)(?:\s+(\([^)]*\)))?\s*$")
+
+_PUJ_OCR_FIXES: dict[str, str] = {}
+
+_BOOK_PUJ_OCR_FIXES: dict[str, dict[str, str]] = {
+    "Dictionary of the Swatow dialect.djvu": {
+        "n6ang": "nâng",
+        "b2 tôi": "bé tôi",
+        "3aⁿ": "ùaⁿ",
+        "1âi": "lâi",
+        "c5k": "cêk",
+        "t6ng": "tn̆g",
+        "al5i": "lâi",
+        "ka1-thì": "ka-thì",
+    },
+}
 
 
 def _positional(tpl: Template) -> list:
@@ -101,6 +117,9 @@ def template_to_text(tpl: Template) -> str:
     if name == "swatow entry":
         if len(pos) >= 5:
             nums = f"({wikicode_to_text(pos[2])}|{wikicode_to_text(pos[3])}|{wikicode_to_text(pos[4])})"
+            return f"**{wikicode_to_text(pos[0])}** {wikicode_to_text(pos[1])} {nums}".strip()
+        if len(pos) >= 3:
+            nums = f"({wikicode_to_text(pos[2])})"
             return f"**{wikicode_to_text(pos[0])}** {wikicode_to_text(pos[1])} {nums}".strip()
         if len(pos) >= 2:
             return f"**{wikicode_to_text(pos[0])}** {wikicode_to_text(pos[1])}".strip()
@@ -169,6 +188,7 @@ def preprocess(raw: str) -> str:
 
 def cleanup(text: str) -> str:
     text = text.replace("\xa0", " ")
+    text = "".join(ch for ch in text if unicodedata.category(ch) != "Cf")
     lines = [ln.rstrip() for ln in text.split("\n")]
     out: list[str] = []
     blank = 0
@@ -416,7 +436,7 @@ def fix_orphaned_semicolons(text: str) -> str:
     n = len(lines)
     while i < n:
         s = lines[i].strip()
-        if s.startswith(";") and not s.startswith("; ---"):
+        if s.startswith(";") and not s.startswith("; ---") and not re.fullmatch(r";\s*\d+\s*;", s):
             phrase = s.lstrip(";").strip().rstrip(";").strip()
             if phrase:
                 j = i + 1
@@ -517,7 +537,7 @@ def reformat_entries(text: str) -> str:
                 break
             defn = (defn + " " + s3).strip() if defn else s3
             j += 1
-        examples: list[tuple[str, str]] = []
+        examples: list[tuple[str, str] | str] = []
         if trailing_phrase:
             examples.append((trailing_phrase, ""))
         k = j
@@ -534,7 +554,15 @@ def reformat_entries(text: str) -> str:
                 kk = k + 1
                 while kk < n and _is_blank_or_marker(lines[kk]):
                     if lines[kk].strip().startswith("<!-- page:"):
-                        post_entry_markers.append(lines[kk])
+                        look = kk + 1
+                        while look < n and _is_blank_or_marker(lines[look]):
+                            look += 1
+                        if look < n and lines[look].strip().startswith(":"):
+                            post_entry_markers.append(lines[kk])
+                        else:
+                            examples.append((phrase, ""))
+                            examples.append(lines[kk].strip())
+                            phrase = ""
                     kk += 1
                 if kk < n and lines[kk].strip().startswith(":"):
                     gloss = lines[kk].strip().lstrip(":").strip()
@@ -554,27 +582,65 @@ def reformat_entries(text: str) -> str:
                                 kk += 1
                     k = kk
                 else:
-                    if kk < n and lines[kk].strip():
-                        nxt = lines[kk].strip()
-                        if not nxt.startswith((";", ":", "*", "#", "-")):
-                            gloss = nxt
+                    while kk < n:
+                        if _is_blank_or_marker(lines[kk]):
+                            if lines[kk].strip().startswith("<!-- page:"):
+                                if phrase:
+                                    examples.append((phrase, ""))
+                                examples.append(lines[kk].strip())
+                                phrase = ""
                             kk += 1
+                            continue
+                        nxt = lines[kk].strip()
+                        if nxt.startswith((";", ":", "*", "#", "-")):
+                            break
+                        phrase = (phrase + " " + nxt).strip()
+                        kk += 1
+                        while kk < n and _is_blank_or_marker(lines[kk]):
+                            if lines[kk].strip().startswith("<!-- page:"):
+                                post_entry_markers.append(lines[kk])
+                            kk += 1
+                        if kk < n and lines[kk].strip().startswith(":"):
+                            gloss = lines[kk].strip().lstrip(":").strip()
+                            kk += 1
+                            while kk < n and _is_blank_or_marker(lines[kk]):
+                                if lines[kk].strip().startswith("<!-- page:"):
+                                    post_entry_markers.append(lines[kk])
+                                kk += 1
+                            break
                     k = kk
                 examples.append((phrase, gloss))
             elif s2.startswith(":"):
                 k += 1
             else:
                 break
+        merged: list[tuple[str, str] | str] = []
+        for item in examples:
+            if isinstance(item, tuple) and re.fullmatch(r"\d+", item[0]):
+                if merged and isinstance(merged[-1], tuple):
+                    ph, gl = merged[-1]
+                    merged[-1] = (ph, (gl + " " + item[0]).strip() if gl else item[0])
+                elif defn:
+                    defn = (defn + " " + item[0]).strip()
+                else:
+                    merged.append(item)
+            else:
+                merged.append(item)
+        examples = merged
         out.extend(pre_head_markers)
         head = f"- **{hanzi}** {latn} {nums}"
         if defn:
             head += f" — {defn}"
         out.append(head)
-        for ph, gl in examples:
-            if gl:
-                out.append(f"  - *{ph}* — {gl}")
+        for item in examples:
+            if isinstance(item, str):
+                out.append(item)
             else:
-                out.append(f"  - *{ph}*")
+                ph, gl = item
+                if gl:
+                    out.append(f"  - *{ph}* — {gl}")
+                else:
+                    out.append(f"  - *{ph}*")
         out.extend(post_entry_markers)
         i = k
     return "\n".join(out)
@@ -748,7 +814,15 @@ def convert_section_titles(text: str) -> str:
     return "\n".join(out)
 
 
-def postprocess(text: str) -> str:
+def fix_puj_ocr_digits(text: str, title: str) -> str:
+    fixes = {**_PUJ_OCR_FIXES, **_BOOK_PUJ_OCR_FIXES.get(title, {})}
+    for wrong, correct in fixes.items():
+        text = text.replace(wrong, correct)
+    return text
+
+
+def postprocess(text: str, title: str = "") -> str:
+    text = fix_puj_ocr_digits(text, title)
     out = reformat_entries(text)
     out = fix_orphaned_semicolons(out)
     out = convert_section_titles(out)
@@ -766,18 +840,27 @@ def main():
     parser.add_argument("--end", type=int, required=True, help="Last page number")
     parser.add_argument("--output", required=True, help="Output markdown file path")
     parser.add_argument("--cache-dir", default=None, help="Directory for cached wikitext pages")
+    parser.add_argument("--offline", action="store_true", help="Read from cache only, no network requests")
     args = parser.parse_args()
 
     page_prefix = f"{PAGE_PREFIX}{args.title}/"
     output = Path(args.output)
     cache_dir = Path(args.cache_dir) if args.cache_dir else PROJECT_ROOT / "tmp" / args.title.replace(".djvu", "").replace(" ", "_")
 
-    sys.argv = ["fetch", f"-dir:{PROJECT_ROOT / '.progress' / 'swatow-dict-fetch'}"]
-    import pywikibot
-    site = pywikibot.Site("en", "wikisource")
+    pages: dict[int, str] = {}
+    if args.offline:
+        for n in range(args.start, args.end + 1):
+            p = cache_dir / f"p{n:03d}.wikitext"
+            if p.exists():
+                pages[n] = p.read_text(encoding="utf-8")
+        print(f"Read {len(pages)} pages from cache", file=sys.stderr)
+    else:
+        sys.argv = ["fetch", f"-dir:{PROJECT_ROOT / '.progress' / 'swatow-dict-fetch'}"]
+        import pywikibot
+        site = pywikibot.Site("en", "wikisource")
 
-    print(f"Fetching pages {args.start}-{args.end}...", file=sys.stderr)
-    pages = run_fetch(site, page_prefix, args.start, args.end, cache_dir)
+        print(f"Fetching pages {args.start}-{args.end}...", file=sys.stderr)
+        pages = run_fetch(site, page_prefix, args.start, args.end, cache_dir)
 
     missing = [n for n in range(args.start, args.end + 1) if n not in pages]
     if missing:
@@ -785,7 +868,7 @@ def main():
 
     print("Building markdown...", file=sys.stderr)
     content = build_markdown(pages, args.start, args.end)
-    content = postprocess(content)
+    content = postprocess(content, args.title)
 
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(content, encoding="utf-8")

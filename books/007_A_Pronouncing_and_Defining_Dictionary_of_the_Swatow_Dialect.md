@@ -1091,7 +1091,9 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **愛** ài (619|61|9) — The exhibition of humanity in the actions; to love; fond of; tender toward; sparing of; beloved.
   - *ài-sieh~~,~~(;)* — kindness.
   - *chin-ài* — friendship.
-  - *jîn-ai* — benevolent.
+  - *jîn-ai*
+<!-- page:28 -->
+  - *benevolent.*
   - *lĕng ài* — your daughter.
   - *mông lṳ́ kùe ài* — many thanks for your great kindness.
   - *nek-ài* — blind love.
@@ -1103,7 +1105,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ài mîn jîak cṳ́* — loved the people as if they were his children.
   - *ài-sieh thài kùe* — too indulgent affection.
   - *ài-sieh kuang-im* — sparing of time.
-<!-- page:28 -->
 - **隘** ài (2|170|10) — A defile; a pass.
   - *ài-kháu* — a gorge.
   - *híam ài* — a dangerous pass.
@@ -1203,17 +1204,17 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *am-bô am-bô nē* — convex on the upper surface and concave on the under.
   - *màiⁿ cò̤ khah am-bô* — do not make it too arching.
   - *cò̤ lâi am-am nē* — made very concave.
-- **蝸牛** am-lo̤  — A garden slug; a snail.
+- **蝸牛** am-lo̤ (466) — A garden slug; a snail.
   - *nŏ̤ kâi a-noⁿ-kíaⁿ tó̤ kă am-lo̤* — two children are trying to make snails fight.
   - *am-lo̤ khak* — snail shells.
   - *am-lo̤ thâng* — the snails themselves.
 - **諳** am (621|149|9) — Versed in; knowing about.
   - *am-līen* — skilled in any craft or art.
   - *m̄ am sì sṳ̄* — ignorant of the world.
-- **骯髒** am-cam  — Obese; fat; dirty.
+- **骯髒** am-cam (949) — Obese; fat; dirty.
   - *am-cam pûi* — corpulent.
   - *am-cam cîah* — to eat hoggishly.
-- **飯水** ám  — Water in which rice has been boiled.
+- **飯水** ám (127) — Water in which rice has been boiled.
   - *cìm ám* — soak in rice-water.
   - *cîah ám* — drink rice-water.
 - **暗** àm (622|72|9) — Dark; obscure; secret; clandestine; stealthily.
@@ -1311,7 +1312,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ang-tùn kàu hó̤-hó̤* — well provided for.
   - *ang-jîen cṳ̆-căi* — in quiet ease and comfort.
   - *ang-lôk-kong* — a mere man of pleasure.
-- **鵪鶉** ang-chun  — A quail.
+- **鵪鶉** ang-chun (621) — A quail.
   - *phah ang-chun* — to fight quails.
   - *lîah ang-chun* — to carry around a quail that is being trained to fight.
   - *ang-chun khuang* — a quail pen.
@@ -1378,7 +1379,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *àng hìeⁿ khî!* — How strange!
   - *àng kúi cĭu kṳ́* — in conformity to established custom.
   - *lṳ́ àng cìeⁿ-seⁿ, úa àng hìeⁿ-seⁿ* — you do thus, and I do so.
-  - *àng* — mêh;
+  - *àng*
+<!-- page:31 -->
+  - *mêh;* — feel the pulse.
   - *chíu àng sim-kuaⁿ-thâu* — lay the hand on the heart.
   - *àng kìam tŏ̤ chíu~~,~~(;)* — grasped the sword in his hand.
   - *àng gûeh cîⁿ-ngṳ̂n* — to fix the monthly stipend.
@@ -1397,7 +1400,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *àng pō lâi kîaⁿ* — set your steps carefully as you go.
   - *àng-chak* — the provincial judge.
   - *cò̤ tîeh àng-chak, mīn cĭu o* — if you do the work of a provincial judge, you will become dark visaged.
-<!-- page:31 -->
 - **紅** âng (235|120|3) — Red; rosy; ruddy; the blood; lucky, pleasant, because red is the color used for marriage sedans, the highest official buttons, and other tokens of rank.
   - *âng sek* — a red color.
   - *tōa âng* — deep red.
@@ -1683,7 +1685,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tàⁿ tîeh, i auⁿ-auⁿ chang* — if you say anything about it he makes a great fuss.
 ### auh
 
-- **懊惱** auh-pâuh  — Vexed, angry, irritated.
+- **懊惱** auh-pâuh (625) — Vexed, angry, irritated.
   - *tó lăi auh-pâuh* — is at heart much displeased about it.
   - *tó lăi auh-auh pâuh-pâuh* — very grouty.
 ### ~~bà~~(ba)
@@ -1900,7 +1902,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khí bé* — the horse that leads the procession.
   - *cîeh nâng, cîeh bé* — statue of a man on horse back.
   - *hùam bé hùam nâng khîa* — refractory horses find reckless riders.
-  - *hó̤ bé m̄ cîah hûe* — thâu cháu;
+  - *hó̤ bé m̄ cîah hûe*
+<!-- page:36 -->
+  - *thâu cháu;* — gentle horses do not turn their heads to eat from stalls behind them.
   - *saⁿ-kha-bé* — a three legged stool.
   - *phah khui saⁿ-kha-bé* — to unfold a stand having jointed legs.
   - *ì bé, sim ŵn* — a restless mind.
@@ -1919,7 +1923,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bô̤ siu bô̤ sîp, kio bé-lîu-sîn hìeⁿ-seⁿ* — as unkempt as a roving sprite.
   - *cêk ngân ìn chut, sì bé lâng tui* — when a word is once spoken, a team of horses cannot bring it back.
   - *úa tó̤ kuah bé cháu, lṳ́ tó̤ cíeⁿ mî-îeⁿ, chap lṳ́ cò̤-pû lío, úa kâi tó bŏi pá* — I cut grass for horses, and you tend sheep; if I stay along with you my stomach will never be filled.
-<!-- page:36 -->
 - **碼** bé (572|112|10) — Weights for weighing money or goods; figures, numerals
   - *huap bé-chìn* — standard balances.
   - *si-bé-chìn* — balances that weigh sixteen taels to the catty.
@@ -1991,7 +1994,9 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **味** bī (1053|30|5) — To relish; to take pleasure in; a dainty; taste, flavor, seasoning, relish.
   - *ngŏ-bī-kè* — a cruet-stand.
   - *ngŏ-bī cí* — the seed of the ~~*Kadsura Chinensis*~~(Kadsura chinensis), in which the five tastes are supposed to reside: it is used in medicine.
-  - *kîam, sng, tîam, hiam, khó, cĭu sĭ* — ngŏ bī;
+  - *kîam, sng, tîam, hiam, khó, cĭu sĭ*
+<!-- page:37 -->
+  - *ngŏ bī;* — salt, sour, sweet, pungent, and bitter, are the five tastes.
   - *bô̤ bī bô̤ sò* — insipid.
   - *hó̤ bī-sò* — delicious.
   - *hó̤ cṳ bī* — very toothsome.
@@ -2020,7 +2025,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lău bī* — old fruits.
   - *múi bī* — well-flavored.
   - *chù-bī* — pretty, amusing, interesting.
-<!-- page:37 -->
 ### ~~bîe~~(bie)
 
 - **描** bîe (591|64|9) — To trace, to limn, to sketch.
@@ -2183,7 +2187,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bói chân-hn̂g chù-ok* — buy land and houses.
   - *i tó̤ bó̤i bōi* — he is engaged in trade.
 <!-- page:39 -->
-- **不能** bŏi  — Cannot; unable; incapable.
+- **不能** bŏi (616) — Cannot; unable; incapable.
   - *i ŏi a bŏi?* — Can he or can he not?
   - *úa bŏi* — I cannot do it.
   - *hāi i bŏi cîah bŏi ût* — caused him to lose both appetite and sleep.
@@ -2502,6 +2506,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bûa kìaⁿ* — polish a mirror.
   - *bûa kàu nĕ kim-kim* — polish to a great brilliancy.
   - *ēng îeh*
+<!-- page:42 -->
+  - **
   - *bûa kàn nĕ kng-kng, cìe-kiⁿ nang* — use powder and rub it till it is very smooth, so you can see your face in it.
   - *cîeh bûa kàu kng-kût kng-kût* — polish stones so that they shine.
   - *bûa hun-kuah hún* — make potato flour.
@@ -2512,7 +2518,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bûa-lūi nâng* — to overbear people.
   - *bûa kàu sí* — to treat so harshly as to kill.
   - *kang ji chut thân, bûa cîaⁿ lău kâu* — when working people make themselves conspicuous they will get reduced to the condition of apes.
-<!-- page:42 -->
 - **勞** bûa (507|18|10) — To drudge; to toil hard; to moil.
   - *bûa mêⁿ* — to do night work.
   - *màiⁿ bûa khah thíam* — do not toil too closely.
@@ -2774,7 +2779,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bûn-lí* — the literary style of writing.
   - *bûn-thông* — a student.
   - *i sĭ bûn sìu-câi a bṳ́ sìu-câi?* — Is he a literary or a military graduate?
-- **玫瑰** bûn-kùi  — A red gem; a red rose.
+- **玫瑰** bûn-kùi (584) — A red gem; a red rose.
   - *bûn-kùi lō* — rose water.
   - *bûn-kùi îu* — attar of roses.
   - *nín kâi bûn-kùi lō kâi ngṳ̂n kúi ki?* — How many bottles of rosewater do you give for a dollar?
@@ -3156,10 +3161,11 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *siu cāi* — take in cargo.
   - *cêk cāi siu kàu lío* — the cargo is all taken in.
   - *lô̤h cāi* — lade the ship.
-  - *cêk* — cāi cêk cāi;
+  - *cêk*
+<!-- page:49 -->
+  - *cāi cêk cāi;* — boat-load by boat-load.
   - *pùaⁿ cāi* — half a cargo.
   - *lô̤h jîeh cōi cāi cìaⁿ kàu?* — How many boat-loads will be required for it?
-<!-- page:49 -->
 - **哉** cāi (940|30|6) — An exclamation, implying a high degree of emotion.
   - *ai cāi!* — Alas!
   - *u hū ai cāi!* — Alas, how sad!
@@ -3244,6 +3250,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tîeh bâk cam cē* — you must sew it more finely.
   - *cí kâi hŭ-jîn hó̤ cam-cí* — this woman is a good sewer.
   - *hâng-sú-cam*
+<!-- page:50 -->
+  - **
   - ** — a thermometer.
   - *huang-hŏ-cam* — a barometer.
   - *sî-ceng cam* — the hands of a clock.
@@ -3256,7 +3264,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cam-tùi* — point to point.
   - *cam-tùi móng nâng tàⁿ* — it refers to what a certain person said.
   - *thih póiⁿ bûa cîaⁿ sìu-hue cam* — an iron ferule may be ground down into an embroidery needle.
-<!-- page:50 -->
 - **簪** cam (945|118|12) — To stick in the hair, or hat.
   - *cam hue* — to put flowers in the hair.
   - *cam ēng* — to put a tassel into a cap.
@@ -3402,12 +3409,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tîeh ŭ câng chṳ̀* — there must be gradations.
   - *tâh-pō-câng* — a stairway.
   - *saⁿ câng lâu* — a building of three diminishing storeys.
-  - *peh kàu tŏiⁿ ngŏ câng* — climbed to the fifth storey.
+  - *peh kàu tŏiⁿ ngŏ câng*
+<!-- page:52 -->
+  - *climbed to the fifth storey.*
   - *tû àiⁿ kêh cò̤ kúi câng?* — How many shelves will you have put into the cupboard?
   - *pàng tŏ̤ tŏiⁿ saⁿ câng* — put it on the third shelf.
   - *thui-keh jîeh cōi câng?* — How many steps are there in the stairs?
   - *hṳ̂ kâi thah tŏ̤ cí ĕ kàu hṳ́ téng ŭ nŏ̤ peh gūa keh tâh-pō-câng* — that pagoda has over two hundred steps in its stairway.
-<!-- page:52 -->
 - **淋** câng (540|85|8) — To drench by pouring from above.
   - *pun hŏ câng kàu cêk sin* — drenched by the rain.
   - *câng-êk* — take shower baths.
@@ -3589,7 +3597,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thau cáu* — ran slyly away.
   - *cáu khṳ̀ tìam* — ran and hid.
   - *cáu kàu bô̤ hûn bô̤ ía* — gone and left no trace behind.
-  - *méⁿ-méⁿ* — phŏ̤ i cáu khui;
+  - *méⁿ-méⁿ*
+<!-- page:54 -->
+  - *phŏ̤ i cáu khui;* — quickly caught him up in his arms and ran aside.
   - *khek lâi cáu sîn* — carved off, so as to destroy its significance, (as in cutting letters).
   - *cáu keh, tîeh cai mûeh hó̤* — the lines made have run over the limits, they must be readjusted.
   - *taⁿ khí, pòng-pòng cáu* — just now got up and clattered off.
@@ -3652,7 +3662,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *pìaⁿ cáu* — run fast.
   - *li-li cáu* — run right on without stopping.
   - *cheⁿ cáu* — rushes off.
-<!-- page:54 -->
 - **笊** cáu (34|118|4) — A bamboo skimmer.
   - *cáu-lōi* — a splint ladle.
   - *khîeh cáu-lōi khṳ̀ hô pn̄g* — take the bamboo skimmer and dip out the rice.
@@ -3833,7 +3842,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cṳ̆-sòi cē* — be more careful.
   - *ùaⁿ cē* — later.
   - *cá cē* — earlier.
-- **一下** cē
+- **一下** cē (183)
   - *A contraction of cêk ē; once; a little while; for a while.*
   - *khṳt úa thóiⁿ cē* — let me take a look at it.
   - *thĕng cē* — wait a bit.
@@ -3862,7 +3871,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ceⁿ chi tô̤h châng* — wrangle about the wife, and seize upon the land.
   - *só̤ ceⁿ ŭ hăn* — the difference is a slight one.
   - *sie ceⁿ* — to contend.
-  - *sie* — ceⁿ boí, sie ceⁿ bōi;
+  - *sie*
+<!-- page:57 -->
+  - *ceⁿ boí, sie ceⁿ bōi;* — rivals in trade.
   - *sie ceⁿ ke-húe* — a squabble about tools.
   - *sie ceⁿ kíaⁿ* — a contention in regard to their children.
   - *sie ceⁿ sie ji'́ng* — disputing in loud tones.
@@ -3870,7 +3881,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *nín só̤ ceⁿ kâi to sĭ bô̤-siang-kang kâi sṳ̄* — what you are contending about is a very unimportant matter.
   - *cía to míen sie ceⁿ kâi* — this is something that there need be no debate about.
   - *àiⁿ sie ceⁿ mih sṳ̄?* — What occasion is there for wrangling about it?
-<!-- page:57 -->
 - **井** céⁿ (993|7|2) — A well; a deep pit.
   - *céⁿ cúi* — well-water.
   - *chĭ-ceⁿ kâi nâng* — a huckster; a loafer.
@@ -4471,6 +4481,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cía cèng bô̤ ui* — there is no cure for this disease.
   - *cía cèng hó̤ ui a m̄ hó̤ ui?* — Is this disease curable or incurable?
   - *thái-ko̤ cèng ŏi ùe tîeh nâng*
+<!-- page:63 -->
+  - **
   - *a bŏi?* — Is leprosy contagious?
   - *nín màiⁿ kiaⁿ, cí kâi pēⁿ cèng bŏi ùe nâng* — you need not fear, this disease is not infectious.
   - *m̄ hó̤ khṳ̀ khṳt i kâi khì chong tîeh cí īeⁿ cèng sĭ lĭ-hāi* — you should not breath in the exhalations from his person and bedding: this disease is of a malignant type.
@@ -4484,7 +4496,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *mn̄g cèng hwt îeh* — attend upon and prescribe for.
   - *hng m̄ tùi cèng* — this prescription is not applicable to that disease.
   - *mêh m̄ kah cèng* — the pulse is not such as accords with the symptoms of that disease.
-<!-- page:63 -->
 - **衆** cèng (108|109|6) — All; a concourse.
   - *cèng nâng* — every one.
   - *cèng ūi* — all of you gentlemen.
@@ -5078,11 +5089,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *o ciaⁿ* — smoky quartz.
   - *tê ciaⁿ* — cairngorm stone.
   - *lâm ciaⁿ* — beryl.
-  - *mô̤ⁿ* — ciaⁿ;
+  - *mô̤ⁿ*
+<!-- page:69 -->
+  - *ciaⁿ;* — moss-agales.
   - *mô̤ⁿ-ciaⁿ phīⁿ-hun hû* — a snuff-bottle of agate.
   - *o ciaⁿ mâk-kìaⁿ* — colored spectacles.
   - *cúi-ciaⁿ ìn* — a crystal seal.
-<!-- page:69 -->
 - **正** ciaⁿ (75|77|1) — The beginning of the year.
   - *ciaⁿ gûeh* — the first month of the year.
   - *mêⁿ nî ciaⁿ gûeh* — the first month of next year.
@@ -5244,7 +5256,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **雀** ciah (997|172|3) — A swallow.
   - *mûaⁿ-ciah-cío* — a swallow.
   - *lîah mûaⁿ-ciah su ēng khîm hóⁿ lâk* — in catching a swallow you have to use the same skill as in catching a wild beast.
-- **鴣** ciah-ko  — A partridge or grouse.
+- **鴣** ciah-ko (39) — A partridge or grouse.
   - *kâi suaⁿ thâu cêk ciah ciah-ko* — each mountain has its champion partridge.
   - *ciah-ko bô̤ nêk, kut īa so* — though a partridge have little meat, its bones are crisp.
 - **食** cîah (766|184|0) — To eat; to consume; to live upon; to drink; to devour; to imbibe; to absorb.
@@ -5936,6 +5948,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lâh cien* — glazed note paper.
   - *kòng cien; sìn cien; letter paper.*
 <!-- page:78 -->
+  - **
 - **剪** cíen (978|18|9) — To cut and trim with shears.
   - *ŏi châi ŏi cíen* — can cut and fit garments.
   - *cíen kàu chùi-chùi* — snip it up fine with shears.
@@ -6109,6 +6122,8 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **枕** cím (16|75|4) — A pillow; to lean upon; adjacent.
   - *cím-thâu* — a pillow.
   - *tek cím-thâu, hûi cím-thâu, phûe cím-thâu*
+<!-- page:80 -->
+  - **
   - *thâu, châ cím-thâu, tîn cím-thâu* — bamboo, earthen, leathern, wooden and rattan pillows.
   - *sìu hue cím-thâu* — an embroidered pillow.
   - *cí kâi cím-thâu sĭ jîp mîⁿ kâi, cí kâi cím-thâu sĭ tìeⁿ lêk-tāu khak* — this pillow is stuffed with cotton, and the other one with pea-pods.
@@ -6128,7 +6143,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sie cím* — conterminous.
   - *cím m̄ tîeh* — cannot make them lie end to end.
   - *cang cí kâi suaⁿ cò̤ ău cím* — take this hill as a background.
-<!-- page:80 -->
 - **浸** cìm (989|85|7) — To merge in; to imbue; to soak.
   - *cìm cíu* — to soak in spirits.
   - *cìm thn̂g kâi* — preserved in sugar.
@@ -6281,6 +6295,8 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **招** cio (31|64|5) — To let people know; to own to; to wait on.
   - *i m̄ khéng cio-jīn* — he is unwilling to own to it.
   - *cêk pôiⁿ li cē phah cĭu cio, cêk pôiⁿ*
+<!-- page:82 -->
+  - **
   - *li phah sí m̄ khéng cio* — one party owned it on being beaten, the other party would not own it though beaten to death.
   - *cio-îo cŭang-phìen* — to beguile.
   - *mín mn̄g cṳ̆ cio* — confessed it unquestioned.
@@ -6288,7 +6304,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cio-kè m̄ cŭ* — unequal to resist.
   - *cio-hu* — to wait upon.
   - *khut phah sêng cio* — criminate one's self falsely because of being beaten.
-<!-- page:82 -->
 - **膲** cio (970|130|12) — Imaginary organs or passages which are supposed to encircle the cavities of the thorax and abdomen, and connect the viscera. Chinese physiologists have used them as a convenient force to explain the obscure operations of digestion and secretion, and say they have no form.
   - *cīeⁿ cio, tong cio, ĕ cio, kìe-cò̤ sam cio* — the upper, middle, and lower portions of the body between the heart and the groin, are thus called.
 - **朝** cio (32|74|8) — Suddenly; early; morning.
@@ -6356,7 +6371,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cìo kàu thiⁿ ĕ* — proclaim throughout the earth.
   - *hŏng cìo* — received the announcement.
   - *hâng-lîm īⁿ thăi cìo* — an officer in the National Academy.
-- **皂隷** cío-lĭ  — Lictors; criers in a cortege; underlings; official attendants; runners, who accompany the retinue of an official.
+- **皂隷** cío-lĭ (524) — Lictors; criers in a cortege; underlings; official attendants; runners, who accompany the retinue of an official.
   - *sang pôiⁿ kâi cío-lĭ îa* — the attendant images standing on either side of an idol.
 - **怦** cīo (661|61|5) — Ardent; earnest; vehement.
   - *cí hûe tó lăi cīo-cīo-kìe, bŏi khṳ̀ lí pât sṳ̄* — am now full of this affair, and cannot go and attend to any thing else.
@@ -6428,7 +6443,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **嫉** cît (984|38|10) — Envy.
   - *cît-kò* — jealousy.
   - *cí kâi nâng cît-kò căi* — this person is of a very jealous disposition.
-- **蒺藜** cît-lî  — Gorse; furze.
+- **蒺藜** cît-lî (984) — Gorse; furze.
   - *pêh cît-lî* — gorse, used in medicine.
   - *thih cît-lî* — iron caltrops used in war.
   - *cît-lî cí* — gorse seed.
@@ -6474,7 +6489,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **稠** ciu (51|115|8) — Thickset; dense; crowded.
   - *nâng in ciu-bâk* — the population is dense.
   - *chù-thâu ciu-bâk* — the houses are crowded close together.
-- **舟舡** ciu-kang  — A river transport boat, with a high prow.
+- **舟舡** ciu-kang (189) — A river transport boat, with a high prow.
   - *ún kò cêk ciah ciu-kang-kíaⁿ, cìaⁿ câp kâi ngṳ̂n* — we hired a small transport boat for ten dollars.
   - *ciu-kang-kíaⁿ phīⁿ li pó ío ôih* — the cheapness of a transport boat makes up for its narrowness.
 - **偢** ciu (972|9|9) — To look at; to regard.
@@ -6630,8 +6645,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hô-sîn tó̤ cn̂g* — the fly is feeding.
   - *cîah-tû tîeh siu cheng-khih, cìaⁿ bô̤ bun lâi cn̂g* — the food safe must be cleaned, then it will not attract the small flies.
   - *hĭa tó̤ cn̂g tîo thâng* — the ants are eating a worm.
-  - *gû-nêk* — tieh khîeh-khí màiⁿ khṳt hĭa lâi cn̂g;
+  - *gû-nêk*
 <!-- page:86 -->
+  - *tieh khîeh-khí màiⁿ khṳt hĭa lâi cn̂g;* — the beef must be put away so that the ants will not get at it.
 - **旋** cn̄g (821|70|7) — To eddy, to whirl; ~~cnrling~~(curling).
   - *cúi ká-cn̄g* — a whirlpool.
   - *lâu kàu hṳ́-kò̤ cū ká-cn̄g* — the current there eddies.
@@ -7314,6 +7330,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khṳt lṳ́ kâi úa cú-ì* — let you decide for me.
   - *m̄ cai cò̤-nî cú-ì* — do not know what to decide upon.
   - *lṳ́ cú-ì lâi*
+<!-- page:93 -->
+  - **
   - *tîeh* — you have decided rightly.
   - *ka-kī put lêng cú-ì* — cannot herself decide.
   - *cú sṳ̄* — manages the affair; a director in a Board.
@@ -7332,7 +7350,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hu-cú* — the husband.
   - *kŭn-cú* — the sisters and daughters of princes.
   - *ìuⁿ cú* — the young ruler.
-<!-- page:93 -->
 - **蛀** cù (89|142|5) — To eat as insects do; destructive insects.
   - *cù thâng* — weevils, moths, grubs, bookworms, and the like.
   - *khṳt thâng cù kàu khang-khak* — hollowed out by grubs.
@@ -8635,7 +8652,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tùi cí-kò̤ chăm-sia chăm-sia kùe khṳ̀* — cut across here diagonally.
   - *chăm-kah* — diagonally opposite.
 <!-- page:107 -->
-- **斜對** chăm-chûah  — Nearly but not quite opposite.
+- **斜對** chăm-chûah (796) — Nearly but not quite opposite.
   - *cŏ̤ chăm-chûah tŏ̤ kò̤* — sat facing but not in front of him.
   - *i kâi mn̂g kio i chăm-chûah* — the two entrances are nearly opposite each other.
   - *chăm-chûah sie hìang* — facing each other, but not quite in line.
@@ -8877,7 +8894,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cháu-thâu kit-hwt* — the chief wife.
   - *gû tó̤ hwn cháu* — the cattle are chewing the cud.
   - *pâk kâi cháu nâng* — make a scarecrow.
-- **螳螂** cháu-kau  — An insect, the common mantis.
+- **螳螂** cháu-kau (504) — An insect, the common mantis.
   - *cháu-kâu phīⁿ* — the point carved in the shape of a mantis.
 - **藻** cháu (953|140|16) — Aquatic grasses; elegant, graceful, polished; fine composition.
   - *hái cháu* — sea-weed.
@@ -9044,7 +9061,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cheⁿ-hūn* — bashful.
   - *cheⁿ-cheⁿ hūn-hūn* — very diffident.
   - *khṳ̀ kàu cheⁿ thâu m̄ pat mīn* — did not know each other when they met.
-- **瞎眼** cheⁿ-mêⁿ  — Blind.
+- **瞎眼** cheⁿ-mêⁿ (185) — Blind.
   - *cheⁿ-mêⁿ kíaⁿ* — a blind fellow.
   - *cêk cîah mâk cheⁿ-mêⁿ* — blind in one eye.
   - *i kâi mâk cheⁿ-mêⁿ khṳ̀* — she has become blind.
@@ -9243,7 +9260,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chek-ŏ̤* — leans over to one side.
 ### cheng
 
-- **韆鞦** cheng-chiu  — A swing.
+- **韆鞦** cheng-chiu (981) — A swing.
   - *cheng-chiu pêⁿ* — the frame from which a swing is suspended.
   - *thóiⁿ nâng phah cheng-chiu* — see people swinging.
   - *peh m̄ cĭeⁿ cheng-chiu pêⁿ* — could not climb into the swing.
@@ -9426,7 +9443,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tah tîeh i kâi chi-kó i cū cáu m̄ khṳ̀* — if you hook him in the gill he cannot get away.
   - *hṳ̂ chi tîeh líu tīo* — you must take out the gills.
 <!-- page:116 -->
-- **猙獰** chi-gî  — Repulsive, horrid, loathsome, hideous.
+- **猙獰** chi-gî (29) — Repulsive, horrid, loathsome, hideous.
   - *i kâi mīn chi-gî căi* — he has a very repulsive face.
   - *seⁿ kàu kâi mīn khî-khî kùai-kùai, chi-gî căi* — his face is very queer, being hairy, fierce, and unpleasant to look at.
 - **悽** chi (966|61|8) — Suffering.
@@ -9461,7 +9478,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hṳ́-kò̤ kâi chù-thêh chia-chí căi* — the houses there are very luxurious.
   - *chia-chí kùiⁿ-sìⁿ* — accustomed to luxury.
   - *i kâi hôk-sek khah kùe chia-chí* — his clothing is too expensive; he dresses extravagantly.
-- **俊俏** chí-chío  — Winsome; attractive; vivacious; genial and shrewd.
+- **俊俏** chí-chío (972) — Winsome; attractive; vivacious; genial and shrewd.
   - *cí kâi ío chí-chío, hṳ́ kâi li ío tōa-pang* — the one is the more pleasing, the other the more admirable.
   - *lêng-lāi chí-chío* — witty and charming.
 - **恥** chí (65|61|6) — Shame.
@@ -9670,7 +9687,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chia kâi cōi kùe hīu kâi* — those who buy on credit are more than those who pay cash.
   - *phìen chia* — buy on credit without meaning to pay.
   - *chia sin hâi kū* — to incure a new debt in order to settle an old one.
-- **硨磲** chia-khṳ̂  — Veined stone, used for the opaque white buttons of officers of the sixth rank.
+- **硨磲** chia-khṳ̂ (444) — Veined stone, used for the opaque white buttons of officers of the sixth rank.
   - *i sĭ tì chia-khṳ téng, a sĭ tì cúi-ciaⁿ téng?* — Does he wear a white stone button, or one of crystal?
   - *lú kâi sìⁿ pèⁿ àiⁿ tàu chia-khṳ̂ hó̤ a tàu gê hó̤?* — Which do you prefer having the handle of your fan made from, white stone or ivory?
 - **請** chíaⁿ (996|149|8) — To invite; to request courteously
@@ -10189,7 +10206,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *màiⁿ chĭm tîeh chn̂g* — do not jog the table.
 ### chin
 
-- **相似** chin-chĭeⁿ  — Like, similar, resembling; as if.
+- **相似** chin-chĭeⁿ (837) — Like, similar, resembling; as if.
   - *seⁿ lâi chin-chĭeⁿ* — they are much alike.
   - *cò̤ lâi m̄ chin-chĭeⁿ* — they are very unlike.
   - *i chin-chĭeⁿ i âi* — he resembles his mother.
@@ -10208,6 +10225,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sêng chin* — to consummate marriage.
   - *kîaⁿ chin-ngêng kâi lói-sìo* — perform the marriage rites.
   - *sì mâk bô̤*
+<!-- page:125 -->
+  - **
   - *chin* — among entire strangers.
   - *chin kṳ̆n* — near akin.
   - *sang chin tŏ̤ tn̂g* — both parents are still alive.
@@ -10227,8 +10246,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tho̤h i cò̤ cêk mn̂g chin* — entrust to him the business of procuring a wife for you.
   - *chin nâng* — a cousin.
   - *saⁿ hun chin kîeⁿ pât jîn* — one slightly akin is better than one who is not at all related.
-<!-- page:125 -->
-- **草畧** chìn-chái  — Not exact; in general; not following any strict rule or pattern; not precise; slightly.
+- **草畧** chìn-chái (956) — Not exact; in general; not following any strict rule or pattern; not precise; slightly.
   - *i sĭ chìn-chái cò̤* — he slights what he does.
   - *chìn-chái sía to hó* — to write it off almost any way will do.
   - *chìn-chái thiaⁿ* — listen in a haphazard way.
@@ -10402,7 +10420,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thau cîah m̄ cai chit chùi* — purloin edibles and forget to wipe the mouth after eating them.
   - *chit tīo nah-sap* — wipe off the dirt.
   - *khîeh mīn-pò lâi chit* — get a towel and wipe it.
-- **彳亍** chît-chôk  — The motion of walking.
+- **彳亍** chît-chôk (73) — The motion of walking.
   - *chît-chôk-kìe* — the clatter of feet.
   - *chît-chît chôk-chôk kìe tùi cí-kò̤ kùe* — went clattering past here.
   - *màiⁿ kîaⁿ kàu chît-chôk-kìe* — do not walk noisily.
@@ -10640,7 +10658,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chng îeh* — salve for ulcerated scalp.
   - *pêh tâk chng* — malignant white ulcers.
   - *teng chng* — small projecting ulcers.
-  - *ciang-1âi cí kâi chng-kháu káⁿ tîeh phùa kìaⁿ* — this ulcer will leave a scar.
+  - *ciang-lâi cí kâi chng-kháu káⁿ tîeh phùa kìaⁿ* — this ulcer will leave a scar.
 - **倉** chng (949|9|8) — A granary.
   - *chng-pâng* — a storehouse.
   - *chek-chng* — a granary.
@@ -10789,7 +10807,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chô-îong múaⁿ mīⁿ* — a rueful face.
 ### choi
 
-- **米粉** chòi  — Rice flour.
+- **米粉** chòi (590) — Rice flour.
   - *ceng chòi* — to make rice flour.
 ### choiⁿ
 
@@ -11366,7 +11384,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tṳ chùi-tûn* — a pig's snout.
   - *cíu pâng chùi* — the spout of a wine pitcher.
   - *nĭoⁿ-hóⁿ chùi* — a tiger's mouth.
-  - *hun* — tàng chùi;
+  - *hun*
+<!-- page:138 -->
+  - *tàng chùi;* — the mouth-piece of a pipe.
   - *gê chùi, gêk chùi, kak chùi, kut chùi* — ivory, jade, horn and bone mouth-pieces.
   - *cim-chùi* — to kiss.
   - *cang chùi khù cim i* — kissed him.
@@ -11421,7 +11441,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chiah chùi chiah cîh* — it puckers up one's mouth.
   - *chùi tu-tu* — with her mouth puckered up.
   - *chùi-lîm-phûe* — the lips.
-<!-- page:138 -->
 - **碎** chùi (827|112|8) — Fragments; small remnants.
   - *khà chùi* — to knock in pieces.
   - *pò chùi* — rags.
@@ -11499,7 +11518,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tn̂g ke ŭ nŏ̤ chùn kèng hó̤* — it would be better if it were two inches longer.
   - *chǹg nŏ̤ saⁿ chùn chim jîp khṳ̀* — punched it in two or three inches deep.
   - *chùn-tú* — a small folded paper slate.
-- **寒顫** chùn-lūn  — Chilled; tremors.
+- **寒顫** chùn-lūn (163) — Chilled; tremors.
   - *kûaⁿ kàu phah-chùn-lūn* — so cold that she shivered.
 - **存** chûn (1020|39|3) — To retain; to preserve; remaining.
   - *chûn ŭ jîeh cōi?* — How much is there left?
@@ -11832,7 +11851,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cīeⁿ chíu pôiⁿ, ĕ chíu pôiⁿ* — up and down in a landscape.
   - *tŏ̤ hṳ́ ĕ sì* — down there on the lower level.
   - *huang ĕ pôiⁿ, huang ĕ pôiⁿ* — to windward and to leeward.
-  - *cīeⁿ lâu pôiⁿ, ĕ lâu* — pôiⁿ;
+  - *cīeⁿ lâu pôiⁿ, ĕ lâu*
+<!-- page:143 -->
+  - *pôiⁿ;* — the side from which the tide comes in, and the opposite side.
   - *tŏ̤ chīu ĕ la-lîang* — under a tree, enjoying the coolness.
   - *cûn tùi kîe ĕ keng-kùe* — the boat passed under the bridge.
   - *cōi nâng chut i kâi mn̂g ĕ* — many have been under his instruction.
@@ -11847,7 +11868,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *pak ĕ* — the belly.
   - *cûn pak ĕ* — under the boat.
   - *suaⁿ kha ĕ* — at the base of the hill.
-<!-- page:143 -->
 - **下** ē (183|1|2) — A stroke; a time.
   - *cêk ē* — all together.
   - *cêk ē cêk ē* — stroke by stroke.
@@ -11894,7 +11914,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *eh-cò̤-nî lṳ́ tîeh lâi* — you must come without fail.
   - *eh-cò̤-nî to ŭ cûn* — the boats run under all circumstances.
   - *eh-cò̤-nî, úa to àiⁿ* — no matter what the case may be, I shall do so.
-- **咳敇** ehⁿ-hem  — To make the sound represented by the word.
+- **咳敇** ehⁿ-hem (429) — To make the sound represented by the word.
   - *cí gūa cē ehⁿ-hém hṳ́ lăi cū chut lâi* — as soon as some one outside hems, some of those inside come out.
   - *cē ehⁿ-hém i cū cai* — when he hems they know it to be the signal agreed on.
 ### ~~êk~~(ek)
@@ -12012,12 +12032,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ciah eng sût lô̤h lâi tìo koi-kíaⁿ* — an eagle swooped down and carried off a chicken.
   - *eng-îang* — soaring falcons; warriors who at first were private soldiers.
   - *cò̤-pû khṳ̀ cîah eng-îang àng* — go together to the soldiers' banquet.
-- **塵埃** eng-têng  — Dust; motes in the air.
+- **塵埃** eng-têng (1082) — Dust; motes in the air.
   - *pŭaⁿ tīo eng-têng* — brush off the dust.
   - *pŭaⁿ tīo eng-têng pue cêk koiⁿ* — after the dusting, the dust flies all through the room.
   - *hìeⁿ kú bô̤ sàu i cū chĭe eng-têng* — it has not been swept for so long a time that the dust has settled over everything.
   - *eng-têng chóiⁿ cheng-khih lío cē sàu cū seⁿ eng-teng* — when you have brushed off all the dust, as soon as you sweep again it is dusty.
-- **罌粟** eng-sok  — The poppy.
+- **罌粟** eng-sok (823) — The poppy.
   - *eng-sok khak* — the capsules of the poppy plant.
   - *eng-sok bí* — poppy seeds.
   - *a-phìen-hun sĭ eng-sok cò̤ kâi* — opium is made from the poppy.
@@ -12151,10 +12171,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *si-kùe ùi bà gê* — watermelons fear prominent teeth.
   - *gê kṳn kă kín* — the teeth set.
   - *gê-kwn kín-pĭ* — lockjaw.
-- **斒斕** gê-lang  — * Striped, variegated in color.
+- **斒斕** gê-lang (501) — * Striped, variegated in color.
   - *gê-lang so̤h* — colored cotton cord, sold in many colors.
   - *gê-lang pĭⁿ* — colored braids.
-- **蜈蚣** gê-kang  — A centipede.
+- **蜈蚣** gê-kang (1063) — A centipede.
   - *cheⁿ kha gê-kang, âng kha gê-kang* — green footed and red footed centipedes.
   - *gê-kang-kíaⁿ* — a young centipede.
   - *gê-kang kî* — a long narrow flag.
@@ -12619,7 +12639,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bô̤ ĕ-hâi* — a very short chin.
 - **亥** hăi (161|8|4) — The last of the twelve branches.
   - *hăi nî, hăi gûeh, ~~hâi~~(hăi) jît, hăi ~~sî,~~(sî;)* — the last year, month, day, or hour in the cycle of twelve.
-- **獬豸** hăi-căi  — A fabulous animal, half deer, half unicorn. It dwells in the desert and gores wicked men when it sees them.
+- **獬豸** hăi-căi (187) — A fabulous animal, half deer, half unicorn. It dwells in the desert and gores wicked men when it sees them.
   - *hăi-căi pó-sim* — an embroidered unicorn worn on the breast by officials of a certain rank.
 - **駭** hăi (187|187|6) — Startled; suddenly alarmed.
   - *~~kăi~~(kăi)-ĭ* — startled.
@@ -13017,10 +13037,11 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cí hûe tó hau tŏ̤ kò̤* — he belly is now empty.
 - **哮** háu (192|30|7) — To howl, to bellow, to breath hard.
   - *phâu-háu* — clamor.
-  - *hùaⁿ nâng cē phâu-háu, i* — cū cáu;
+  - *hùaⁿ nâng cē phâu-háu, i*
+<!-- page:156 -->
+  - *cū cáu;* — as soon as they all began to scream at him, he fled.
   - *i khì căi, jw̆n phâu-háu, jw̆n thìo* — he was in a great rage, and screamed and jumped about frantically.
   - *chẃn-háu* — to pant, to breathe with difficulty.
-<!-- page:156 -->
 - **吼** háu (175|30|4) — The cries of animals.
   - *hóⁿ tó̤ háu* — the tigers are roaring.
   - *hô̤ tang sai háu* — the lions are roaring on the east side of the river; the old woman is scolding like Xanthippe.
@@ -13389,7 +13410,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hi-cíe* — few.
   - *hi-háng* — seldom.
   - *hi-háng căi* — very infrequent.
-- **犧牲** hi-seng  — Victims offered in sacrifice.
+- **犧牲** hi-seng (177) — Victims offered in sacrifice.
   - *cì-sṳ̂ só̤ ēng kâi hi-seng sĭ tīaⁿ-tîeh kâi* — there is a fixed rule concerning the animals that are offered in sacrifice.
 - **稀** hi (177|115|7) — Sparse; sleazy; not close and thick.
   - *hi-lang* — sleazy.
@@ -13777,6 +13798,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lăng-híam* — reckless of danger.
   - *hàuⁿ lăng-híam* — likes to rush into danger.
   - *i*
+<!-- page:165 -->
+  - **
   - *ún-ún kâi sṳ̄ to m̄ cò̤, mńg hàuⁿ lăng-híam* — he never will do what is safe, but always seeks what is hazardous.
   - *i cêk seⁿ bô̤ kîaⁿ híam lō, to sĭ kîaⁿ ún-tàng kâi sṳ̄* — all his life he has never gone into danger, but has done what was perfectly safe.
   - *híam cèng* — dangerous diseases.
@@ -13784,7 +13807,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *măuⁿ híam* — looks wicked.
   - *híam-híam tîeh* — came very near hitting it.
   - *cí kĭaⁿ sṳ̄ khah híam, m̄-hó̤ cò̤* — this is too dangerous, do not do it.
-<!-- page:165 -->
 - **嫌** hîam (197|38|10) — To find fault with; to dislike; to depreciate.
   - *hîap-hîam* — to be prejudiced.
   - *i cē hîap-hîam cū tàⁿ kàu i jîeh m̄ hó̤* — he is prejudiced and so tells how bad he is.
@@ -13857,7 +13879,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i sĭ hìang lṳ́ tàⁿ a sĭ hìang i tàⁿ?* — Is he inclined to heed what you say or what she says?
   - *sĭ hìang úa tàⁿ kâi* — he is inclined to my view of the case.
   - *lêng-ūaⁿ ût jī hìang* — change the direction so as to face another point of the compass.
-  - *jī-câp-sì* — hìang;
+  - *jī-câp-sì*
+<!-- page:166 -->
+  - *hìang;* — the twenty-four points of compass.
   - *jī-câp-sì hìang sûi nâng hìang* — one may face any point of the compass.
   - *m̄ cai àiⁿ hìang tī-kò̤ hó̤* — do not know which way it would be well to face.
   - *lṳ́ thóiⁿ i kâi sim ŭ hìang úa a bô̤?* — Do you think his regard is directed toward me?
@@ -13876,7 +13900,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cē phû khí lâi thiⁿ ĕ kâi nâng lóng-lóng hìang-èng* — as soon as he becames prominent, all in the empire turned to him.
   - *hìang pŭe* — to incline toward or from.
   - *sṳ̄ sêng a m̄ sêng sĭ tŏ̤ nâng sim kâi hìang pŭe kò̤ cū hó̤ thóiⁿ chut* — whether the thing will be accomplished or not, may be discovered by observation of the inclinations of people's minds.
-<!-- page:166 -->
 - **餉** hìang (190|184|6) — Taxes; duties; excise; fixed allowances.
   - *piaⁿ hìang* — the pay and allowances of soldiers.
   - *kun hìang* — rations for troops.
@@ -13930,7 +13953,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kìam hîap* — a sword which aids a friend in need.
   - *hîap kheh* — a supernatural advocate.
   - *hâu-hîap* — a hero.
-- **浹洽** hîap-ciap  — Blended in views or feelings.
+- **浹洽** hîap-ciap (976) — Blended in views or feelings.
   - *hîap-cîap; hîap-hîap cîap-cîap* — making an unbroken story or circuit; pervading.
   - *kà-hùe ~~hîah~~(hîap)-cîap* — imbued with these teachings.
 ### hieⁿ
@@ -14222,7 +14245,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **驍** hio (191|187|12) — Brave; heroic, valorous.
   - *cí kúi kâi bú kuaⁿ sĭ hio-íong căi* — these military officers are very courageous.
   - *hio-íong kâi cìang* — a brave leader.
-- **儌倖** hio-hĕng  — Lucky; beyond one's deserts or expectations; prosperous.
+- **儌倖** hio-hĕng (368) — Lucky; beyond one's deserts or expectations; prosperous.
   - *cía sǹg sĭ hío-hĕng căi* — this is indeed a stroke of luck.
   - *sṳ̄ tîeh cò̤ ún-tàng, mó̤ sĭeⁿ hio-hĕng* — one must do things in a safe way, and not depend on having a stroke of luck.
   - *i cìeⁿ-seⁿ sǹg sĭ tó̤ thû hio-hĕng* — he is then depending on a stroke of luck.
@@ -14448,25 +14471,25 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hô chiu* — a full beard.
   - *câp hô káu put jîu* — of ten bearded men, nine are uncharitable.
   - *chiu li hô-hô* — his beard is very bushy.
-- **葫蘆** hô-lô  — A flagon shaped ornament, commonly seen on the apex of pagodas.
+- **葫蘆** hô-lô (222) — A flagon shaped ornament, commonly seen on the apex of pagodas.
   - *hô-lô pû* — the bottle gourd.
   - *i-īeⁿ ūe hô-lô* — imitate the gourd in its shape and marks.
   - *m̄ cai i hô-lô tói bōi sĭm-mih îeh* — do not know what medicine he sells out of his gourd; do not know what he is around here for.
   - *châ hô-lô* — wooden floats, tied on boat children to keep them afloat in the water.
-- **泥鰍** hô-liu  — Fresh water eels.
+- **泥鰍** hô-liu (1001) — Fresh water eels.
   - *hô-liu àiⁿ pû a àiⁿ chá?* — Do you want the eels boiled or fried?
-- **狐狸** hô-lâi  — A fox.
+- **狐狸** hô-lâi (223) — A fox.
   - *hô-lâi ciaⁿ* — the fox brownie, or vampire fairy.
   - *hô-lâi phûe* — a fox's pelt.
   - *hô-lâi phûe hîuⁿ* — a tunic of fox fur.
   - *i chin-chĭeⁿ hô-lâi ciaⁿ, mîaⁿ-ke mîⁿ nâng* — he is as expert as the fox elfin in bewitching people.
   - *hô-lâi ngio* — a weasel.
-- **蒼蠅** hô-sîn  — A house-fly.
+- **蒼蠅** hô-sîn (1107) — A house-fly.
   - *kim hô-sîn* — a horse-fly; a glossy fly.
   - *hô-sîn hng-hng-kìe* — flies buzz.
   - *màiⁿ khṳt hô-sîn tó̤ cn̂g* — do not let the flies get at it.
   - *hô-sîn-hóⁿ* — a small spider that weaves no web and pounces upon flies.
-- **螞蟥** hô-khî  — A leech; a bloodsucker.
+- **螞蟥** hô-khî (572) — A leech; a bloodsucker.
   - *cêk tîo hô-khî tah tŏ̤ i kha tèng cuh hueh* — a leech fastened upon his leg and was sucking the blood.
   - *hô-khî tah* — an iron staple.
   - *cìm cúi hô-khî* — a leech in the water; a noxious person in quiescense.
@@ -14524,7 +14547,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **否** hóⁿ (141|30|4) — Not; not so.
   - *sĭ hóⁿ hó̤ sía jī khṳt úa cai* — whether affirmative or negative, write and let me know.
   - *sĭ hóⁿ cò̤-nî?* — What is the affirmative and what the negative side of the question?
-- **琥珀** hóⁿ-phek  — Amber, said by the Chinese to be transformed from resin.
+- **琥珀** hóⁿ-phek (224) — Amber, said by the Chinese to be transformed from resin.
   - *àiⁿ jīn hóⁿ-phek ŭ sĭm-mih huang-huap?* — What is the way of telling whether a substance is amber?
   - *hóⁿ-phek ŏi sîp kâi* — amber will collect electricity.
   - *cìaⁿ hóⁿ-phek chìu jîet ŏi kit teng-sim cháu* — real amber when heated by friction will attract lamp-wicks or straws.
@@ -15019,7 +15042,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hō̤-lang cṳ̂* — Irish potatoes.
   - *hō̤-lang bé-kùa* — a riding jacket of azure camlet.
 <!-- page:179 -->
-- **示衆** hō̤-nīa  — To admonish the people, as by an execution; to use as a warning to others; to deter by a warning.
+- **示衆** hō̤-nīa (763) — To admonish the people, as by an execution; to use as a warning to others; to deter by a warning.
   - *kê tŏ̤ cìe-piah côiⁿ hō̤-nīa* — wearing the cangue, before the wall that screens the door of the yamun, in order to admonish others not to do likewise.
   - *cai hĭⁿ-cìⁿ lío, khang khṳ̀ kak îaⁿ hō̤-nīa* — having had an arrow thrust through his ear, was lead around to each of the garrisons as a warning.
   - *màiⁿ tó̤ hō̤-nīa* — do not be one whose career is a warning to others.
@@ -15072,7 +15095,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hwt-hu* — the cuticle and fine hairs.
   - *sin-thói hwt-hu sĭ pĕ-bó̤ seⁿ kâi, m̄ káⁿ sieⁿ tîeh i* — the body is given us by our parents, and we must not wound it.
   - *phûe-hu kâi pēⁿ* — a skin disease; a slight ailment.
-- **號筒** hu-tû  — A horn, a speaking trumpet.
+- **號筒** hu-tû (934) — A horn, a speaking trumpet.
   - *pun tek hu-tû* — blow a bamboo trumpet.
   - *hu-tu híang cĭe pêⁿ lío* — the horn sounds, indicating that the performance is about to begin.
 - **腐** hu (145|130|8) — Rotten; carius; spoiled.
@@ -15357,7 +15380,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bûang ~~ṳu~~(ṳn) hŭ ngĭ* — forget benefits.
   - *i sĭ koiⁿ-thio pùe-hŭ kâi nâng* — he is a burden-bearer.
   - *phău-hŭ put hûam* — more able than common men.
-  - *cí kâi nâng sĭm sĭ* — phău-hŭ;
+  - *cí kâi nâng sĭm sĭ*
+<!-- page:183 -->
+  - *phău-hŭ;* — this is a very able and learned person.
   - *i hŭ ieh* — he breaks the contract.
   - *sèng hŭ* — succeed or fail.
   - *m̄ cai sèng hŭ jû hô̤* — do not know whether he has succeeded or failed.
@@ -15366,7 +15391,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khi-hŭ* — to impose upon.
   - *m̄ khi-hŭ nâng, īa ~~bô~~(bô̤) thang pun nâng khi-hŭ* — does not impose upon anybody, and does not allow any body to impose upon him.
   - *hûang thiⁿ put hŭ khó sim nâng* — high Heaven never turns away from the sorrowful in heart.
-<!-- page:183 -->
 - **腐** hū (145|130|8) — Flour made from beans or peas.
   - *tāu-hū* — bean-curd.
   - *oi tāu-hū* — grind peas for making curd.
@@ -15510,7 +15534,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bói phêng-seⁿ lâi kap hūaⁿ-thâu* — buy borax and make solder.
 ### huah
 
-- **呵欠** huah-hì  — To gape or yawn.
+- **呵欠** huah-hì (215) — To gape or yawn.
   - *lṳ́ huah-hì sĭ mâk siap a m̄ sĭ?* — You yawn because you are sleepy do you not?
   - *i cŏ̤ lío huah-hì huah-hăi sĭ nâng khùn-kw̆n mâk-siap, a sĭ hun-ngìen?* — Having sat down he keeps yawning: is it from the sleepiness produced by fatigue, or is it because the time for him to take his opium has come?
   - *thâu huah-hì, thâu chun-lûn* — yawning and stretching at the same time.
@@ -15600,7 +15624,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 <!-- page:186 -->
 ### huang
 
-- **謊唐** huang-thâng  — Boasting talk, gasconade, exaggeration.
+- **謊唐** huang-thâng (861) — Boasting talk, gasconade, exaggeration.
   - *i kâi ūe huang-thâng căi* — his language is very extravagant.
   - *só̤ tàⁿ kâi ūe huang-huang thâng-thâng, bô̤ kù sît* — what was said was the wildest exaggeration, without a word of truth in it.
 - **慌** huang (253|61|10) — Nervous; alarmed; agitated.
@@ -15724,12 +15748,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *húang tîu* — thick pongee.
   - *tōa húang* — repped pongee.
   - *síe húang* — fine pongee.
-- **彷彿** húang-hut  — Resembling; seeming; like.
+- **彷彿** húang-hut (135) — Resembling; seeming; like.
   - *húang-hut* — somewhat like.
   - *thóiⁿ tîeh húang-hut* — it appears like it.
   - *húang-hut chin-chĭeⁿ sĭ* — it bears a resemblance to it.
   - *úa hṳ́ hûe thóiⁿ khṳ̀ húang-húang hut-hut, m̄ tīaⁿ* — I then saw it indistinctly.
-- **恍惚** húang-hut  — Disturbed; fluttered; unable to collect one's thoughts.
+- **恍惚** húang-hut (253) — Disturbed; fluttered; unable to collect one's thoughts.
   - *húang-hut, thóiⁿ bô̤ hìeⁿ tīaⁿ* — being flurried, did not see it distinctly.
   - *húang-húang hut-hut àiⁿ khṳ̀ tī-kò̤?* — Where are you going in such trepidation?
   - *thiaⁿ khṳ̀ húang-hut, m̄ tīaⁿ* — listened in a confused way, and was not certain about it.
@@ -15844,10 +15868,11 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i sĭ m̄ pat huap* — he does not know how it should be done.
   - *m̄ hío huap, m̄ hío lût, thèng cò̤* — ignorant of usages and rules, doing almost any way.
   - *mío-sĭ ûang huap* — contempt of court.
-  - *i sĭ mío-huap* — căi, tîeh tăng phōiⁿ;
+  - *i sĭ mío-huap*
+<!-- page:189 -->
+  - *căi, tîeh tăng phōiⁿ;* — he holds the laws in contempt, and must be severely dealt with.
   - *i cìeⁿ-seⁿ bô̤ huap bô̤ lût, tîeh cai kéng-kài i* — being thus lawless, he must be put under restraint.
   - *khṳt nâng hó̤ hāu huap* — be a good example for others.
-<!-- page:189 -->
 - **灰** hue (260|86|2) — Lime; mortar.
   - *cîeh hue* — stone lime.
   - *sap hue* — lime made from shells.
@@ -16227,12 +16252,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hûe lói* — reciprocate a politeness; return a present.
   - *hûe-hûe kà* — Mohammedanism.
   - *huang á hûe lâm* — the wind is verging to the south.
-  - *i lâi ŭ ho̤h cōi* — hûe lío;
+  - *i lâi ŭ ho̤h cōi*
+<!-- page:193 -->
+  - *hûe lío;* — he has been here a great many times.
   - *i khṳt nâng mēⁿ lío bô̤ hûe chùi* — after being scolded, he says nothing.
   - *hûe chíu khṳ̀ phah i* — struck back.
   - *tîeh ŭ kâi nâng tó̤ hûe ūe* — there must be some one to interpret.
   - *siu hûe pńg cîⁿ* — received back the original sum.
-<!-- page:193 -->
 - **會** hŭe (264|73|9) — To assemble; to convene; to meet with; a club; to know after being informed.
   - *hŭe-tn̂g* — a hall where meetings are held.
   - *cŭ-hŭe* — to congregate.
@@ -16573,13 +16599,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hun cò̤ nŏ̤ ē* — separate it into two portions.
   - *úa téng-tîeh saⁿ-hun-pùaⁿ tăng* — I weighed it, and it is three and a half tenths of an tael in weight.
   - *lṳ́ cêk tǹg cîah kúi hun bí?* — How much rice do you eat at a meal?
-  - *lṳ́ àiⁿ ēng hun pang a àiⁿ ēng chùn* — pang?
+  - *lṳ́ àiⁿ ēng hun pang a àiⁿ ēng chùn*
+<!-- page:197 -->
+  - *pang?* — Do you wish to use boards that are under or over an inch in thickness?
   - *i ŭ kúi hun hàuⁿ* — he is partly willing.
   - *hek pêh lâng hun* — it is difficult to distinguish between the black and the white.
   - *sṳ̄ cōi căi, bŏi tit hun sin khṳ̀ nín kò̤* — I have so much to do that I cannot get away to go to your house.
   - *kak nâng hun thâu khṳ̀ lí* — let each go about his particular business.
   - *ūe hun líang thâu* — tell each separately what he is to do.
-<!-- page:197 -->
 - **烟** hun (1082|86|6) — Opium; tobacco.
   - *hun-tâng* — a tobacco or opium pipe.
   - *cîah hun cē* — take a smoke.
@@ -17193,7 +17220,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hêng-hŵt* — punishment.
   - *síeⁿ hŵt hun mêng* — the rewards and punishments are distinctly set forth.
   - *hŵt cíu saⁿ pue* — forfeit three glasses of wine (by being made to drink them).
-  - *hŵt* — hóng;
+  - *hŵt*
+<!-- page:204 -->
+  - *hóng;* — forfeit a part of one's salary.
   - *úa àiⁿ hŵt lṳ́* — I am going to mulct you.
   - *hŵt i nŏ̤ kâi ngṳ̂n* — fined him two dollars.
   - *tōa-tōa tîeh khṳt i hŵt* — let him mulct you to any amount.
@@ -17201,7 +17230,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ceh-hwt* — to punish.
   - *hŵt tîeh i m̄ su-hôk* — he would not submit to the fine.
   - *khin hŵt, tăng hŵt m̄ sie tâng, to tîeh hŵt* — some pay a light penalty and some a heavy one, but all must be punished.
-<!-- page:204 -->
 - **穴** hŵt (230|116|0) — A cave; a hole in the earth or hillside; a burial place; a den.
   - *châu-hŵt* — a lurking place.
   - *sĭang kó tiang-sî cū sĭ hŵt-kṳ* — in the most ancient times were the cave dwellers.
@@ -17372,14 +17400,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chùn pō lâng î* — it is very difficult for me to get away a single step.
   - *put lêng î-êk* — it cannot be altered.
   - *î hue ciap bâk* — to graft flowers on a tree.
-  - *î hŭa tha nâng; î hŭa* — pàng pât nâng;
+  - *î hŭa tha nâng; î hŭa*
+<!-- page:206 -->
+  - *pàng pât nâng;* — shift the trouble off upon another.
   - *î si thû-lūa* — lay a corpse at a person's door in order to criminate him.
   - *cêk cẃn î cṳ kang cū hó̤-hó̤* — just transpose them and they will be all right.
   - *cē tàⁿ tīaⁿ-tîeh cū bô̤ kói-î* — after having settled the point there is to be no change.
   - *bô̤ î bô̤ êk* — without change or alteration.
   - *i kâi khueh-hūn lâi î khṳt lṳ́, lṳ́ kâi khueh-hūn lâi î khṳt i* — transfer his liabilities to you, and yours to him.
   - *thih pit, bô̤ î* — written with an iron pen and unalterable.
-<!-- page:206 -->
 - **貤** î (274|154|3) — To reward the worthy; to obtain promotion for another; to get reward due to one's self transferred to another.
   - *î-cāng peh-cek pĕ-bó̤* — gain rank for uncles and parents after their death.
   - *î-hong saⁿ tō̤* — he got his ancestors for three generations ennobled.
@@ -17500,7 +17529,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ìⁿ tàu* — swallows' nests.
   - *pêh ìⁿ* — a white martin.
   - *o nêk ìⁿ* — the ray.
-- **薏苡** ìⁿ-bí  — Pearl barley.
+- **薏苡** ìⁿ-bí (278) — Pearl barley.
   - *ìⁿ-bí-jîn* — maise.
   - *ìⁿ-bí mûeⁿ* — barley water.
   - *bói cho̤h khĭam-sĭt ìⁿ-bí lâi pû tṳ-kha* — buy some water-lily root, and some barley to cook with the pigs' feet.
@@ -17985,12 +18014,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i lăi bô̤ nâng cieⁿ-íeⁿ i* — he has no one in his home to take care of him.
 - **烊** îeⁿ (1071|86|6) — To fuse; to assay; to melt.
   - *îeⁿ kim, îeⁿ ngṳ̂n, îeⁿ siak, îeⁿ tâng* — fuse gold, silver, pewter or brass.
-  - *m̄* — sĭ ēng im húe îeⁿ m̄ khṳ̀;
+  - *m̄*
+<!-- page:213 -->
+  - *sĭ ēng im húe îeⁿ m̄ khṳ̀;* — it cannot be melted in other than a covered fire.
   - *cí īeⁿ tîeh ēng îeh cìaⁿ hó̤ îeⁿ* — in order to melt this a chemical preparation must be used.
   - *îeⁿ ka* — melt glue.
   - *cía tîeh îeⁿ kò̤ hŵn lâi ún cìaⁿ hó̤* — this must have some melted alum to dip it in.
   - *tŏ̤ huang-lô tīm kàu îeⁿ khṳ̀* — it has been heated in the furnace till it is melted.
-<!-- page:213 -->
 - **楊** îeⁿ (1071|75|9) — The arbutus.
   - *îeⁿ-bûe* — the Chinese strawberry.
   - *îeⁿ-bûe pó* — the dried fruit of the arbutus tree.
@@ -18198,7 +18228,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cang cúi khṳ̀ ih i jŭn cē* — take some water and moisten it.
   - *hieⁿ-ko khîeh khṳ̀ cúi têng ih phò̤* — wet the mushrooms with water and let them swell.
   - *m̄ soiⁿ ih tâm cē ēng cū cîh* — if you do not first dampen it, it will break when used.
-- **囁濡** îh-ṳh  — To mutter because of discontent.
+- **囁濡** îh-ṳh (632) — To mutter because of discontent.
   - *îh-îh ṳ̂h-ṳ̂h, àiⁿ tàⁿ m̄ káⁿ tàⁿ* — muttered, but dared not speak out.
   - *îh-ṳ̂h kìe, tàⁿ m̄ chṳt* — struggled to speak, but failed through fear of consequences.
 ### im
@@ -18357,13 +18387,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tîeh ŭ nâng lâi cò̤ ín-sùaⁿ* — some one must furnish a clue.
   - *khang-ín* — induce.
   - *îeh ín* — the active principle in a preparation.
-  - *ín-tŏng kàu tōa-bó̤-mûeh* — nâng;
+  - *ín-tŏng kàu tōa-bó̤-mûeh*
+<!-- page:217 -->
+  - *nâng;* — disturbed a great many people.
   - *ín-tŏng i kâi sim* — brought on a disturbance of mind.
   - *ín-íu i khṳ̀ cò̤ m̄-hó̤ kâi sṳ̄* — deluded him into evil doing.
   - *màiⁿ ín-íu i khṳ̀ thit-thô̤* — do not induce him to go off for amusement.
   - *ín lō* — conduct on the way.
   - *lō-ín* — a guide-post.
-<!-- page:217 -->
 - **應** ìn (1106|61|13) — To answer; to respond.
   - *úa mn̄g lṳ́, lṳ́ cò̤-nî m̄ ìn-tap?* — Why do you not answer when I speak to you?
   - *úa mn̄g i, i ìn-tap m̄ lâi* — I asked him but he could not answer.
@@ -18519,7 +18550,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chūe kâi ío sòi kâi kèng hó̤* — to seek out a smaller one would be better.
   - *cá m̄ pat, hīn-kim ío pat* — formerly he did not understand, but now he partially understands.
   - *hṳ́ tiang-sî ē-ē àiⁿ phah i, taⁿ ío sieh i* — she then frequently beat him, but now she is kinder to him.
-- **窕窈** ío-thío  — Quiet; retiring; tranquil.
+- **窕窈** ío-thío (1077) — Quiet; retiring; tranquil.
   - *seⁿ lâi ío-thío căi* — she is naturally very refined.
   - *thóiⁿ tîeh i ío-ío thío-thío cū huaⁿ-hí* — when he saw that she had a refined appearance, he rejoiced.
 <!-- page:219 -->
@@ -18713,7 +18744,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kŭn ip* — walled towns.
   - *káu ip* — the nine district cities.
   - *síu ip* — the chief district city in a prefecture.
-- **浥濕** ip-cîp  — Dank.
+- **浥濕** ip-cîp (1097) — Dank.
   - *ip-ip cîp-cîp* — close and damp.
   - *khah ip-cîp, khĭa-khí lío cū seⁿ pēⁿ* — it is too close and damp and one would become ill in living there.
 - **揖** ip (1097|64|9) — To bow with the hands joined.
@@ -18783,11 +18814,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sĭm sĭ íu-ài* — is very fraternal.
   - *cíu nêk phêng-íu* — boon companions.
   - *cū sĭ tâng*
+<!-- page:222 -->
+  - **
   - *theng phêng-íu* — fellow students, studying by the same window.
   - *i kâi phêng-íu chêng hó̤* — his disposition is very friendly.
   - *ciu jît to sĭ saⁿ phêng sì íu múaⁿ-tī-kó̤ khṳ̀* — all day they go about together in close companionship.
   - *kau phêng chú íu* — chums.
-<!-- page:222 -->
 - **酉** íu (1114|164|0) — The tenth of the twelve branches, represented by the cock.
   - *íu-sî* — from 5 to 7 o'clock p.m.
   - *cīeⁿ teng íu* — early candle-light.
@@ -19123,11 +19155,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *m̄ cai i jîeh cōi hùe* — do not know how old he is.
   - *i ŭ jîeh cōi kâi kíaⁿ?* — How many children has she?
   - *bói kàu taⁿ ŭ jîeh kú lío?* — How long ago did you buy it?
-  - *i to siu ŭ jîeh cōi cîⁿ tŏ̤ kò̤, cò̤-nî m̄ hàuⁿ hâiⁿ* — úa?
+  - *i to siu ŭ jîeh cōi cîⁿ tŏ̤ kò̤, cò̤-nî m̄ hàuⁿ hâiⁿ*
+<!-- page:226 -->
+  - *úa?* — He is all the time taking in ever so much money, so why will he not pay me?
   - *íⁿ-keng lâi jîeh kú lío hẃn-lío tàⁿ m̄ pat tò̤ khṳ̀* — came ever so long ago and is still unable to talk.
   - *úa bô̤ jîeh cōi* — I have no great number.
   - *téng thóiⁿ jîeh tăng* — weigh it and see how heavy it is.
-<!-- page:226 -->
 ### jîen
 
 - **然** jîen (285|86|8) — An adverbial particle, implying it is so.
@@ -19572,12 +19605,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *jú thóiⁿ jú hŭn* — the more I study it, the more confused I am.
   - *jú ke* — still more.
   - *jú cíe* — still less.
-  - *cìeⁿ-seⁿ jú-kèng* — khùaⁿ-ûah;
+  - *cìeⁿ-seⁿ jú-kèng*
+<!-- page:231 -->
+  - *khùaⁿ-ûah;* — that is more comfortable.
   - *cía jú ìuⁿ* — this is still finer.
   - *cìm jú kú, jú hó̤* — the longer you soak it the better.
   - *i chŵn-jú a būe?* — Is he convalescent yet?
   - *i chŵn-jú lío* — he is already convalescent.
-<!-- page:231 -->
 - **諛** jû (1121|149|8) — To praise one to his face; to adulate.
   - *i sĭ thíam-mĭ mīn-jû kâi nâng* — he is a sycophant and flatterer.
   - *châm thíam mīn-jû* — to curry favor by depreciating others and bepraising the one addressed.
@@ -19725,7 +19759,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sĭ kó nâng kâi jŭi kà* — it is the instruction bequeathed to us from the ancients.
   - *sĭ soiⁿ có kâi jŭi ngân* — those were the dying words of his ancestor.
   - *i a-pĕ jŭi-mĕng cang cí koiⁿ phò pun cí kâi kíaⁿ* — his father left orders that this shop be given to this son.
-  - *cía sĭ tâng soiⁿ jŭi* — lô̤h lâi kâi;
+  - *cía sĭ tâng soiⁿ jŭi*
+<!-- page:233 -->
+  - *lô̤h lâi kâi;* — this was handed down from former times.
   - *jŭi sit mûeh-kĭaⁿ* — articles left behind and lost.
   - *jŭi chûn jîeh cōi cṳ-cheh pun kíaⁿ-sun-hùe thâk* — left many books for his descendants to study.
   - *tăi-hŭam kíaⁿ-sun to hó̤ tàⁿ-cò̤ sĭ có-pĕ kâi jŭi thói* — all the descendants may say that they are the relicts of their ancestor.
@@ -19734,7 +19770,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *jŭi pak kíaⁿ* — a posthumous son.
   - *có jŭi kâi mûeh-ngîap* — property inherited from ancestors.
   - *toaⁿ-toaⁿ jŭi-chûn cí kâi kíaⁿ* — left only this son.
-<!-- page:233 -->
 ### jún
 
 - **允** jún (1143|10|2) — To assent; to permit.
@@ -19898,11 +19933,11 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ka-sàu khṳ̀ thíam căi* — coughs violently.
   - *cá mêⁿ ka-sàu cêk mêⁿ* — coughed all last night.
   - *ka-sàu khṳ̀ ŭ thâm a bô̤?* — Do you raise phlegm when you cough?
-- **屁股** ka-chng  — The rump.
+- **屁股** ka-chng (681) — The rump.
   - *phah ka-chng* — to spank.
-- **鉸鉞** ka-sut  — A clamp; a staple.
+- **鉸鉞** ka-sut (372) — A clamp; a staple.
   - *ka-sut khak sòi, m̄-hó̤ só̤* — the staple is too small and it cannot be locked.
-- **自已** ka-kī  — Self.
+- **自已** ka-kī (1031) — Self.
   - *úa ka-kī ŭ* — I myself have some.
   - *lṳ́ ka-kī khṳ̀ khîeh* — go yourself and get it.
   - *i ka-kī kio úa tàⁿ* — he told me so himself.
@@ -19911,14 +19946,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ēng lṳ́ ka-kī kâi hó̤* — use your own.
   - *i ka-kī m̄ cai sío-lí* — he is not ashamed of himself.
   - *i sĭ ka-kī hāi ka-kī* — he injures himself.
-- **狡蚤** ka-cáu  — A flea.
+- **狡蚤** ka-cáu (953) — A flea.
   - *ka-cáu thìo cáu khṳ̀* — the flea jumped away.
   - *hṳ́ tói ŭ kâi ka-cáu tŏ̤ kă kâi īeⁿ* — it seems as if there were a flea biting me.
   - *ka-cáu bô̤ nŭaⁿ lîah m̄ tîeh* — without spittle fleas cannot be caught.
-- **噴嚔** ka-thì  — A sneeze.
+- **噴嚔** ka-thì (880) — A sneeze.
   - *phah ka-thì* — to sneeze.
   - *cêk lîen phah ku-ā kâi ka-thì* — sneezed several times in succession.
-- **囫圇** ka-n̂ng  — The whole, entire, round, said of fruits and roundish objects.
+- **囫圇** ka-n̂ng (267) — The whole, entire, round, said of fruits and roundish objects.
   - *ka-n̂ng kâi* — a whole one.
   - *ka-n̂ng thun lô̤h khṳ̀, mín pō* — swallow it whole, and do not chew it.
   - *khṳt i ún chò cū ka-n̂ng thun lô̤h khṳ̀* — he dipped it in vinegar and then swallowed it whole.
@@ -20031,7 +20066,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cía mng sĭ kaⁿ-kíaⁿ* — these are dwarf oranges.
   - *cía kaⁿ khah cheⁿ, būe sêk* — these oranges are too green, they are not yet ripe.
   - *cía kit sĭ ciap kaⁿ kâi, cìaⁿ ŏi tîam* — ~~there~~(these) limes are grafted on an orange and that is what makes them sweet.
-- **橄欖** kaⁿ-ná  — The olive.
+- **橄欖** kaⁿ-ná (312) — The olive.
   - *cêk câng kaⁿ-ná chīu* — an olive tree.
   - *kám cêk lîap kaⁿ-ná tŏ̤ chùi* — holding an olive in her mouth.
   - *nín hieⁿ-lí cèng ŭ jîeh cōi kaⁿ-ná?* — In your village how many olives have been planted?
@@ -20051,7 +20086,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *íong-káⁿ* — valiant.
   - *khí káⁿ, khí káⁿ* — how dare I do so; I ought not to receive such an honor.
   - *hía i cìaⁿ m̄ káⁿ, a!* — Would not dare to do it, would be!
-  - *i cē lâi in cū m̄* — káⁿ;
+  - *i cē lâi in cū m̄*
+<!-- page:237 -->
+  - *káⁿ;* — as soon as he comes they will desist.
   - *cía nâng thó káⁿ cîah káⁿ tàⁿ* — this man dare do any sort of thing.
   - *úa cò̤ káⁿ? úa căi tit káⁿ?* — How dare I?
   - *bô̤ nâng káⁿ* — none dare do it.
@@ -20059,7 +20096,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lṳ́ káⁿ thiaⁿ úa cū hó̤* — if you will venture to follow my advice, all will be well.
   - *m̄ káⁿ, m̄ káⁿ* — dare not presume to do so.
   - *káⁿ-káⁿ nē* — walk up to boldly.
-<!-- page:237 -->
 - **酵** kàⁿ (372|164|7) — Leaven; yeast.
   - *khṳ̀ bói cíu-píaⁿ lâi cò̤ kàⁿ-bó̤* — go and buy some cakes made from malt and make some yeast.
   - *khîeh lâi hwt kàⁿ* — bring them for starting the yeast.
@@ -20280,7 +20316,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sî-ceng kâi cam* — the hands of the clock.
 - **個** kâi (423|9|8) — One; a classifier of wide application
   - *cêk kâi a nŏ̤ kâi?* — Is there one or two?
-  - *kâi* — tōa, kâi sòi;
+  - *kâi*
+<!-- page:240 -->
+  - *tōa, kâi sòi;* — one is large and the other small.
   - *cí kâi hó̤ a hṳ́ kâi hó̤?* — Which is he better of the two?
   - *nŏ̤ kâi tī kâi tōa?* — Which of the two is the larger.
   - *ŭ kâi nâng tŏ̤* — there is a person there.
@@ -20324,7 +20362,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ŭ kâi ŭ, ŭ kâi bô̤* — some have them, and some have not.
   - *sĭ tī cêk kâi?* — Which one is it?
   - *tŏ̤ mn̂g kha ŭ kâi nâng tó̤ khĭa* — a man was standing by the door.
-<!-- page:240 -->
 - **同** kâi (933|30|3) — With; together with; for.
   - *úa kâi lṳ́ tàⁿ* — I will tell you about it.
   - *úa kâi lṳ́ cò̤ kàu hó̤-hó̤* — I will do it nicely for you.
@@ -20528,9 +20565,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kang-mâk* — a general outline.
   - *kang-kàm* — annals.
   - *kang nía* — the leading points.
-  - *sam* — kang, ngŏ sîang;
-  - *cò̤ mih sṳ̂ tîeh ŭ kang sîang* — in whatever one does the obligations of morality must be remembered.
+  - *sam*
 <!-- page:243 -->
+  - *kang, ngŏ sîang;* — the three duties and the five relationships.
+  - *cò̤ mih sṳ̂ tîeh ŭ kang sîang* — in whatever one does the obligations of morality must be remembered.
 - **工** kang (460|48|0) — Work; labor; workmen; the day's work.
   - *kang-jîn* — workmen.
   - *bâk kang* — carpentery.
@@ -20672,7 +20710,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sĭ káng cṳ lí a sĭ káng mûeh lí?* — Is he discoursing of literature or of practical affairs?
   - *káng sĭm-mih tŏ̤-lí?* — What doctrine does he preach?
   - *cí kâi sin-seⁿ bô̤ mih káng-kìu* — this teacher does not explain much.
-  - *i toaⁿ pat káng-kìu cîah, káng-kìu chēng tīaⁿ-tīaⁿ, cìaⁿ-keng* — kâi tŏ̤-lí i chŵn bŏi káng-kìu pùaⁿ lî;
+  - *i toaⁿ pat káng-kìu cîah, káng-kìu chēng tīaⁿ-tīaⁿ, cìaⁿ-keng*
+<!-- page:245 -->
+  - *kâi tŏ̤-lí i chŵn bŏi káng-kìu pùaⁿ lî;* — he can discuss only what pertains to food and clothing, correct principles he cannot discourse upon at all.
   - *i sĭ tó̤ káng kó a* — lie is narrating old stories; is talking about old times.
   - *lṳ́ màiⁿ tó̤ káng kó* — do not talk irrelevantly.
   - *màiⁿ tó̤ káng kó cṳ* — do not talk about what is remote from the subject; do not beat about the bush.
@@ -20685,7 +20725,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *m̄-hó̤ káng cho, lō̤-chò̤ mēⁿ nâng* — do not use obscene words when scolding people.
   - *màiⁿ thiaⁿ i káng tang, káng sai* — do not heed his carping at this and at that.
   - *i káng lâi sĭm sĭ thong-thiet* — his speech is to the point.
-<!-- page:245 -->
 - **簡** káng (384|118|12) — Terse, brief, concise; to condense.
   - *i kâi ēng-tō ío káng-séⁿ* — his expenditures are less.
   - *i kúi kù ūe tàⁿ khṳ̀ káng* — his sentences were tersely put.
@@ -20794,7 +20833,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **釘** kap (904|167|2) — To bind.
   - *kap cṳ-cheh* — to bind books.
   - *kap cò̤ cêk pńg* — bind them into one volume.
-- **蟆蝦** kap-pô̤  — A toad.
+- **蟆蝦** kap-pô̤ (182) — A toad.
   - *kap-pô̤ thìo hn̆g sīm kú* — after a long leap, the toad rests a long time.
   - *kap-pô̤ thìo kâi phûn* — a grave with a scalloped front.
 - **夾** kap (356|37|4) — Connected, as a side chamber or recess.
@@ -20816,12 +20855,12 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **抅** kau (328|64|4) — To get; to grasp; to lug-along,
   - *hàm nâng khṳ̀ kau i lâi* — tell some one to go and bring him here.
   - *úa lâi khṳ̀ kau i lâi mn̄g* — I will go and fetch him here to be questioned.
-- **轇輵** kau-kuah  — Something indistinctly seen in the distance; perplexed and unsettled.
+- **轇輵** kau-kuah (369) — Something indistinctly seen in the distance; perplexed and unsettled.
   - *kau-kuah, m̄ cheng-chó̤* — vague and incomplete.
   - *i kio i pit sĭ ŭ sĭm-mih kau-kuah* — there is certainly some antagonism between them.
   - *sìo-bâk kau-kuah, m̄ cheng* — the accounts are juggled, and remain unbalanced.
   - *cĭeⁿ chíu kio ĕ chíu kau-kuah, m̄ cheng* — the foregoing and the following are inconsistent with each other, and confusion arises from the lack of clearness.
-- **泥垢** kau-koih  — Scurf ; grime.
+- **泥垢** kau-koih (630) — Scurf ; grime.
   - *háng sói-êk, cêk sin cĕng-cĕng kau-koih* — he seldom bathes, and his whole body is covered with grime.
   - *sói cheng-khih lío hŵn-lío ŭ kau-koih bô̤ kùe tàⁿ nâng sĭ thô cò̤ kâi* — having washed one's self clean, one can still rub up the grime, so no wonder it is said that man is made from clay.
   - *hía kau-koih m̄ tîeh chìu cheng-khih?* — Why do you not scour off all the scurf?
@@ -20939,7 +20978,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cìeⁿ-sî cîah lâi kâi mĭn sek ko-káu* — his face is very thin lately.
   - *ko-káu* — attenuated; forlorn looking.
   - *sía lâi kâi pit ûeh khah ko-káu* — the strokes in the writing are too fine and thin.
-- **枸杞** káu-kí  — The barberry.
+- **枸杞** káu-kí (329) — The barberry.
   - *káu-kí cí* — the seeds of the Berberis lycium, used as a febrifuge.
   - *káu-kí chài* — a plant whose leaves are edible, and are used as greens.
   - *lì ke choiⁿ lí màiⁿ cîah káu-kí* — when a thousand miles from home, one should not eat barberry preserves.
@@ -20947,7 +20986,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kang-káu* — tricky.
   - *káu-kût* — wily.
   - *tàⁿ ūe to sĭ kang-kang káu-káu* — he is very cunning in his speech.
-- **颳𬱽** káu-kâⁿ  — A revolving wind.
+- **颳𬱽** káu-kâⁿ (821) — A revolving wind.
   - *káu-kâⁿ-huang* — a whirl-wind, which carries the dust on high: the people say the gods use such for ascending and descending.
   - *khṳt cêk cūn káu-kâⁿ huang lâi kàu, cū lóng-lóng khṳt i chue tīo khṳ̀* — if a whirlwind comes, it will blow the whole away.
   - *cūn káu-kâⁿ-huang lâi kàu tùi i kâi pò ká tŏ̤ pùaⁿ-thiⁿ tó̤ pue* — a whirlwind came and took her cloth into the air and whirled it round and round.
@@ -21036,9 +21075,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ŵn-kâu* — a baboon.
   - *kim-si-kâu* — a small gray monkey.
   - *ní-kâu* — an ape.
-- **蚯蚓** kău-ún  — The common earth-worm.
+- **蚯蚓** kău-ún (416) — The common earth-worm.
   - *líu kúi tîo kău-ún lâi chī ah* — dig a few earth-worms to feed to the ducks.
-- **栗子** kău-lâk  — The chestnut, and some kinds of oak.
+- **栗子** kău-lâk (539) — The chestnut, and some kinds of oak.
   - *kău-lâk chut a būe?* — Has the season for chestnuts arrived yet?
   - *cheⁿ kău-lâk* — raw chestnuts.
   - *ko̤-sie kău-lâk* — steamed chestnuts.
@@ -21166,7 +21205,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ke cêk pŭe* — double the amount.
   - *ke it thiu* — add one tenth.
   - *kàu cí-kò̤ lâi tîeh ke saⁿ sì cîⁿ sṳ-hùi* — in getting it here three or four mace must be added for expenses.
-- **袈裟** ke-se  — A cassock, worn by Buddhist priests, made of coarse, sleazy camlet.
+- **袈裟** ke-se (350) — A cassock, worn by Buddhist priests, made of coarse, sleazy camlet.
   - *i kâi hûe-sīeⁿ cò̤-nî bô̤ chēng ke-se?* — Why do not these priests wear priests' robes?
   - *i tîeh cò̤ hût sṳ̄ cíaⁿ ŭ chēng ke-se* — when they are performing priestly rites then they must wear their cassocks.
 - **假** ké (352|9|9) — False; fictitious; unreal; to feign; illusory.
@@ -21186,7 +21225,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tàⁿ hṳ-ké kâi ūe* — speak falsely.
   - *i kâi mûeh to sĭ ké kha ké chíu* — all his things are imitations.
   - *lăng ké sêng cin* — from jest to earnest; to fulfill what was begun as a joke.
-- **稼穡** kè-sek  — Grain ; cereals.
+- **稼穡** kè-sek (354) — Grain ; cereals.
   - *kè-sek mûeh-kĭaⁿ lóng-cóng pun cúi cìm tīo* — the grain is all spoiled by being merged in the water.
   - *kim nî mih īeⁿ kè-sek mûeh-kĭaⁿ tōa siu sêng* — large crops of all sorts of cereals have been gathered in this year.
 - **假** kè (352|9|9) — A leave of absence; a furlough; an interim in a long session.
@@ -21365,7 +21404,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *keh hái* — on the other side the sea.
 - **挌** keh (427|64|6) — To strike; to attack; to ward off a blow.
   - *i sĭ îu keh-tò tì mīaⁿ* — he lost his life in a brawl.
-  - *kíaⁿ-jît n6ang lâi phùa mīaⁿ ùaⁿ, sĭ keh-suah kâi* — the case that is brought forward to-day, is that of a man slain in a brawl.
+  - *kíaⁿ-jît nâng lâi phùa mīaⁿ ùaⁿ, sĭ keh-suah kâi* — the case that is brought forward to-day, is that of a man slain in a brawl.
   - *keh-suah kâi le sĭ kui piaⁿ-pâng, a sĭ kui hîaⁿ pâng?* — Is the case of a murder in a brawl carried before the military tribunal or before the provincial branch of the Board of Punishment?
 - **隔** kêh (427|170|10) — To obstruct; to embarrass; to hinder.
   - *kò̤-kêh* — to delay, to impede.
@@ -21528,7 +21567,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tau cò̤ kâi keng* — bend and fasten it in the shape of a bow.
   - *keng pù* — the curve of a bow.
   - *cĭeⁿ keng hîⁿ* — to string a bow.
-- **驚蟄** keng-têk  — The beginning of spring, from the 5th to the 20th of March.
+- **驚蟄** keng-têk (67) — The beginning of spring, from the 5th to the 20th of March.
   - *keng-têk lûi* — spring thunder showers.
   - *keng-têk būe kùe lûi soiⁿ híang* — you will always hear thunder before spring sets in.
 - **宮** keng (462|40|7) — A palace; a mansion; an ancestral temple.
@@ -21823,9 +21862,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hue-kî-kok* — a common name for the United ~~tates~~(tates).
   - *~~Stăi~~(Stăi)-cheng-kok kâi kî-hō̤ sĭ ēng saⁿ-kak n̂g kî, tìn-tang ūe lêng kâi* — the Chinese flag is a yellow triangular one, with a dragon in the centre.
   - *ngŏ sek kî* — a many colored flag.
-  - *nĭoⁿ-hóⁿ cùe àiⁿ kă khîa tōa kî* — kâi;
-  - *kî-jîn sǐ hun cò̤ poih kî* — the bannermen are divided into eight corps.
+  - *nĭoⁿ-hóⁿ cùe àiⁿ kă khîa tōa kî*
 <!-- page:261 -->
+  - *kâi;* — the tiger always falls upon the chief flag-bearer.
+  - *kî-jîn sǐ hun cò̤ poih kî* — the bannermen are divided into eight corps.
 - **技** kĭ (347|64|4) — Skill; dexterity.
   - *i cêk chíu hó̤ kĭ gōi* — he is very dextrous.
   - *lâi thóiⁿ nâng phah kĭ íong* — come and see these sleight of hand performances.
@@ -22039,7 +22079,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kiaⁿ kàu khâp-cêk-tùn; kiaⁿ kàu phah-chùn-lūn* — quivering with fear.
   - *kiaⁿ kàu sim-kuaⁿ-thâu pîak-pîak phah* — so frightened that my heart throbbed violently.
   - *i m̄ cai kiaⁿ* — he is unconscious of fear.
-  - *kiaⁿ* — kàu sim-kuaⁿ-thâu pôk-pôk thìo;
+  - *kiaⁿ*
+<!-- page:264 -->
+  - *kàu sim-kuaⁿ-thâu pôk-pôk thìo;* — so frightened that my heart leaped into my throat.
   - *thóiⁿ tîeh kiaⁿ sí* — was almost frightened to death when I saw it.
   - *lṳ́ ŏi kiaⁿ a bŏi?* — Are you alarmed?
   - *i cò̤ sṳ̄ ío ŭ kiaⁿ sim* — he acts with caution.
@@ -22060,7 +22102,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kiaⁿ kiu* — shrink through fear.
   - *ku kâi thâu kiaⁿ kiu khṳ̀* — the tortoise draws in its head when scared.
   - *màiⁿ kiaⁿ cìeⁿ kiaⁿ hìeⁿ* — do not be disturbed by every thing.
-<!-- page:264 -->
 - **麖** kiaⁿ (404|198|8) — A large deer, described as having one horn and a cow's tail, probably referring to the nylghau.
   - *têk-kiaⁿ* — the chevrotain, or mouse-deer; a small antelope.
   - *têk-kiaⁿ nêk* — antelope flesh.
@@ -22438,6 +22479,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hîam tîeh, i hŵn-lío ngau-ngau-kìe, tó̤ pĭen* — if you reprove him he still keeps on complaining and contradicting.
   - *kio i tàⁿ tîeh, i ngau-ngau-kìe, tàⁿ tōa-bó̤-mûeh ūe* — if you say any thing to him about it, he will argue and dispute, and talk on endlessly about it.
   - *cèng nâng ngau-ngau-kìe,*
+<!-- page:269 -->
+  - **
   - *m̄ su-hôk* — they all murmured at it, and would not submit.
   - *kìe-sī* — on that account; says it is for this reason; to complain of.
   - *i kùai kìe sĭ i m̄ thiaⁿ i kâi ūe* — she blames him because he does not heed what she says.
@@ -22562,7 +22605,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ngi-ngau-kìe* — muttering.
   - *kuh-kŭai-kìe* — warbling.
   - *ōng-ōng-kìe* — bawling.
-<!-- page:269 -->
 <!-- page:270 -->
 - **茄** kîe (376|140|5) — The egg plant.
   - *bói kúi kâi kîe* — buy a few egg-plants.
@@ -22739,7 +22781,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sói kàu kiet-kiet pêh* — wash it white.
   - *thong koiⁿ sàu kàu kiet-cṳ̀* — sweep the whole space perfectly clean.
   - *thong koiⁿ siu kàu cheng-kiet căi, tn̆g tíam hûn hê* — cleansed throughout, and with every spot, crease and blemish removed.
-- **拮据** kiet-kṳ̆  — Hampered; perplexed; embarrassed.
+- **拮据** kiet-kṳ̆ (376) — Hampered; perplexed; embarrassed.
   - *i cìeⁿ-sî kiet-kṳ̆ căi* — he has lately had more to do than he could attend to.
   - *cí hûe câp hun kiet-kṳ̆ tŏ̤ kò̤* — he now has more than he can do and is greatly pressed.
 - **結** kiet (376|120|6)
@@ -22778,7 +22820,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cang chíu khṳ̀ piang i kâi kih-kau* — he slapped her on the cheek.
   - *kih-kau-thâu* — cheek bones.
   - *buah kàu nŏ̤ pôiⁿ kih-kau âng-âng* — smeared both cheeks till they were red.
-- **囁嚅** kîh-kṳ̂h  — To stammer.
+- **囁嚅** kîh-kṳ̂h (632) — To stammer.
   - *kîh-kṳ̂h-kìe, tàⁿ m̄ chut* — stammered and hesitated, and could not utter it.
   - *àiⁿ tàⁿ, m̄ káⁿ tàⁿ, kîh-kîh kṳ̂h-kṳ̂h* — wanted to tell it, but dared not, and so stammered and stuttered.
 <!-- page:273 -->
@@ -22943,9 +22985,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kio-kio keng-keng* — very presumptuous.
   - *tîeh cai kẃn-hak i, màiⁿ khṳt i kio-chia, îm-ît* — you must keep him under control, and not allow him to be proud and self-indulgent.
   - *i kâi tàⁿ ūe kio căi* — he talks in a very conceited way.
-  - *sĭen* — kio cía cū pit-tīaⁿ sĭen mĭⁿ;
-  - *hía m̄ kio-ngău nâng kâi, i cū bô̤ mih thíam-mĭⁿ nâng* — he who is not supercilious toward people, is not apt to be subservient to people.
+  - *sĭen*
 <!-- page:275 -->
+  - *kio cía cū pit-tīaⁿ sĭen mĭⁿ;* — the haughty are sure to be sycophantic.
+  - *hía m̄ kio-ngău nâng kâi, i cū bô̤ mih thíam-mĭⁿ nâng* — he who is not supercilious toward people, is not apt to be subservient to people.
 - **矯** kío (370|111|12) — To exercise undue authority; obstinate.
   - *màiⁿ kió-kíang i* — do not force him to it.
   - *cìeⁿ-seⁿ sǹg sĭ kío jîu caŭ cak; that is acting as the exigencies suggest* — being firm or yielding as one's interest demands.
@@ -23117,7 +23160,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kîam kit* — pickled oranges.
 ### kiu
 
-- **㑉傗** kiu-niu  — Bent down; compelled to stoop; unable to extricate one's self.
+- **㑉傗** kiu-niu (99) — Bent down; compelled to stoop; unable to extricate one's self.
   - *màiⁿ kiu-niu* — do not double yourself down into a heap.
   - *i cò̤-nî kiu-kiu niu-niu, cn̂g kâi m̄ chun-chṳ?* — Why is it that he is bent down double, and does does not straighten himself up at all?
 - **縮** kiu (780|120|11) — To shrink up; to contract; to draw in; to pucker up; to recoil.
@@ -23243,9 +23286,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khîeh ki cúi-kiuh khṳ̀ kiuh* — take a syringe and force the water from it.
   - *hía cúi kiuh kâi cúi sĭ lô̤h îeh kâi* — the fluid in the syringe is medicated.
   - *mâk khṳt i kiuhl*
+<!-- page:279 -->
+  - **
   - *tîeh cū cheⁿ-mêⁿ* — if you get a spurt from it into your eyes, it will blind you.
   - *cía tîeh ēng cúi-kiuh, lâi kiuh, cúi cìaⁿ ŭ lâk* — we must take a syringe and spurt the fluid out from that, then it will enter with force.
-<!-- page:279 -->
 - **膪** kiuh (112|130|12) — Fat; gross; stout.
   - *pûi kàu kiuh-kiuh* — stout to corpulence.
 ### kng
@@ -23414,7 +23458,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí kâi mâuⁿ-pēⁿ sĭ hueh-ko tì kâi* — this ailment arises from poverty of the blood.
   - *cĭam-cĭam ko-ta* — gradually dried up and withered away.
   - *ko chīu hông chun cài hwt ki* — at the coming of spring the old tree again puts forth branches.
-- **骷髏** ko-lô  — Fleshless human bones.
+- **骷髏** ko-lô (436) — Fleshless human bones.
   - *tôi cîⁿ lâi siu ko-lô* — contribute money to pay for burying old human bones.
   - *cí kâi tī-hng sĭ cǹg ko-lô kâi* — this is a place where old human bones are interred.
 - **辜** ko (432|160|5) — A failure of duty; to hold to be guilty.
@@ -23610,6 +23654,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sie phah koi* — to fight cocks.
   - *koi thî a būe?* — Is it cock-crowing yet.
   - *koi*
+<!-- page:284 -->
+  - **
   - *thî nŏ̤ saⁿ lô̤h lío* — the cocks have crowed two or three times.
   - *thî-koi* — a pheasant.
   - *kím-koi* — the golden pheasant.
@@ -23664,8 +23710,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *koi si mī* — fritters with shredded fowls' flesh in them.
   - *ngŏ hiang koi* — spiced fowl.
   - *hō̤-pau koi* — boned chicken.
-<!-- page:284 -->
-- **鸂鶒** koi-thek  — The pied duck, a beautiful water bird, with a broad and upright fan tail.
+- **鸂鶒** koi-thek (73) — The pied duck, a beautiful water bird, with a broad and upright fan tail.
   - *chit pín kuaⁿ kâi pó-sim sĭ sìn koi-thek kâi* — mandarins of the seventh grade have the pied duck embroidered on their official gowns.
 - **街** koi (359|144|6) — A thoroughfare; a street; an avenue; a place where markets are held; abroad; out of doors; in the street.
   - *koi chĭ* — streets where wares are sold.
@@ -23914,7 +23959,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cêk kok* — a country of which a large portion of the surface is watered.
   - *thó kok* — a country which contains a large proportion of dry land.
   - *cṳ̆ khui kok íⁿ lâi, būe ŭ* — from the foundation of the state until now it has not been so.
-  - *kok sṳ̄ sĭ tī-tîang tó̤ cóng-* — lí?
+  - *kok sṳ̄ sĭ tī-tîang tó̤ cóng-*
+<!-- page:288 -->
+  - *lí?* — Who is managing the national affairs?
   - *i kâi kok-cèng hó̤ mē?* — Are their national affairs in good condition?
   - *kok thài, mîn uaⁿ* — when the country is at peace, the people are comfortable.
   - *thŵn kok jîeh cōi tŏ̤* — handed down the throne to many generations.
@@ -23934,7 +23981,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thó-jṳ́-ki-kok* — Turkey.
   - *ai-kîp-kok* — Egypt.
   - *îu-thài-kok* — Judea.
-<!-- page:288 -->
 - **穀** kok (453|115|10) — Corn; grains; cereals; virtuous ; in medicine, fecal matter.
   - *ngŏ kok* — all kinds of grain.
   - *peh kok* — every sort of cereal.
@@ -24143,7 +24189,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *phŏ̤-kò̤ sī tī-tîang?* — Who is to plead the case?
   - *chut kò̤-sī* — issue a proclamation.
   - *i kò̤ lṳ́ mih sṳ̄?* — What does he charge you with?
-  - *i pun móng nâng khòng-* — kò̤ tîeh;
+  - *i pun móng nâng khòng-*
+<!-- page:291 -->
+  - *kò̤ tîeh;* — he has been accused by a certain person.
   - *i ŭ kò̤, úa ŭ sù* — he has a charge, and I have a refutation.
   - *cía kò̤ m̄ cĭeⁿ cúa* — this accusation is not worth the paper it takes to write iton.
   - *m̄-hó̤ bú-kò̤ nâng* — bring no false charges.
@@ -24155,7 +24203,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kò̤ kía cêk kâi gûeh* — ask a month’s leave of absence.
   - *i hīn-khek kò̤ pēⁿ lío tŏ̤ ke thîo ui* — having got leave of absence on account of sickness, he is at home nursing his health.
   - *i khṳ̀ kò̤ cong-ĭang, kò̤ m̄ cún* — he went to get leave of absence on account of his duties to his parents, but did not get it.
-<!-- page:291 -->
 - **棹** kò̤ (34|75|8) — To row with an oar.
   - *kò̤ méⁿ cē* — row faster.
   - *kò̤ cíeⁿ* — to row.
@@ -24271,7 +24318,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kâi ie ku-ku* — he is much bent.
   - *phak-ku lô̤h khṳ̀ khîeh* — stoop down and pick it up.
   - *sin cē ku kĕ cū íam kìⁿ* — as soon as he bent down he espied it.
-- **好幾** ku-ā  — Several; many.
+- **好幾** ku-ā (171) — Several; many.
   - *ku-ā hûe* — ever so many times.
   - *ku-ā tńg* — several times.
   - *ku-ā kâi* — quite a number of them.
@@ -24441,7 +24488,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sĭm sĭ ~~kù~~(kŭ)-phàⁿ i* — is in great dread of him.
   - *bô̤ kiaⁿ bô̤ kŭ* — in no fear of.
   - *ùi-kŭ, kùe sĭm* — overmastering awe.
-- **斑鳩** kŭ-ku  — The turtle-dove, the wood-pigeon.
+- **斑鳩** kŭ-ku (412) — The turtle-dove, the wood-pigeon.
   - *kŭ-ku tó̤ kìe* — the wood-dove is calling.
   - *kŭ-ku ŭ sî sĭ kìe cêⁿ, ŭ sî kìe hŏ* — the turtle-dove sometimes utters its note when it is going to clear, and sometimes when it is going to rain.
   - *kŭ-~~kŭ~~(ku) ku* — the calling of wood-doves.
@@ -24859,12 +24906,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cò̤-nî tin-tò̤ lâi kùai lṳ́?* — Why does he turn about and blame you?
   - *lṳ́ màiⁿ kùai* — do not deem it surprising.
   - *úa bô̤ kùai lṳ́* — I do not find fault with you therefor.
-  - *i kùai i bô̤ pât sṳ̄,* — kùai kìe sĭ i m̄ thiaⁿ i kâi ūe;
+  - *i kùai i bô̤ pât sṳ̄,*
+<!-- page:300 -->
+  - *kùai kìe sĭ i m̄ thiaⁿ i kâi ūe;* — she does not find fault with him for anything else, but blames him simply for not heeding what she says.
   - *kùai put tit i m̄ hàuⁿ* — it is not surprising that he is unwilling.
   - *kùai tăng kâi sṳ̄* — it passes belief; it is incredibly strange.
   - *bô̤ kùai i cìeⁿ-seⁿ cò̤* — I do not blame him for doing so.
   - *môk kùai i cìeⁿ-seⁿ* — it is no fault of his that he is thus.
-<!-- page:300 -->
 - **儈** kùai (485|9|13) — One who acts as broker; to keep up or settle the price of goods.
   - *chĭ kùai* — one who studies the markets, and acts as agent in sales; a bull or a bear in the stock market.
   - *cí pang chĭ-kùai hùe, sim pí nâng to m̄ tâng* — these stock brokers have not hearts like other people.
@@ -25083,14 +25131,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kueh tīo mô̤ⁿ* — scrape off the fuzz.
   - *kueh tīo phûe* — scraped off the rind.
   - *kueh lío, cêk têng cêk têng chut lâi* — scrape it, and then take it off layer by layer.
-  - *kueh tīo i* — kâi mô̤h;
+  - *kueh tīo i*
+<!-- page:303 -->
+  - *kâi mô̤h;* — scrape off the thin skin.
   - *cêk têng o khíu tîeh kueh tīo* — you must scrape off the layer of scurf.
   - *cí cêk ûeh kueh tīo, lêng-ūaⁿ chîaⁿ* — erase this stroke by scraping, and then write it in correctly.
   - *kueh phùa khṳ̀* — scraped so hard as to make a hole through it.
   - *kueh tīo tek cheⁿ* — scrape off the green surface of the bamboo.
   - *kueh pô̤h-pô̤h* — scrape it down thin.
   - *kueh khṳ̀ m̄ kng* — it is not scraped bare.
-<!-- page:303 -->
 - **半** kûeh (651|24|3) — A half; a large part of.
   - *tok cò̤ nŏ̤ kûeh* — chop it in two pieces.
   - *chûn cêk kûeh tŏ̤ kò̤* — have half of it left.
@@ -25297,13 +25346,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i nâng kûiⁿ tōa* — he is a large man.
   - *kàu sì ngŏ chùn kûiⁿ* — it is four or five inches high.
   - *i ŏi chēng kûiⁿ kîah-thô̤* — she wears high heels.
-  - *cía īa-sĭ tîⁿ sang kha,* — siu kâi thâu lô̤h khṳ̀ to kio tōa nâng pêⁿ-pêⁿ kûiⁿ ló;
+  - *cía īa-sĭ tîⁿ sang kha,*
+<!-- page:306 -->
+  - *siu kâi thâu lô̤h khṳ̀ to kio tōa nâng pêⁿ-pêⁿ kûiⁿ ló;* — if she were to bind her feet, and arrange a coiffure, she would be as tall as a grown person.
   - *peh cĭeⁿ kûiⁿ-kûiⁿ kâi suaⁿ téng* — climb a high hill.
   - *tah kâi pêⁿ kûiⁿ-kûiⁿ* — make a high platform.
   - *jît chut ho̤h kûiⁿ lío* — the sun is already high.
   - *kûiⁿ suaⁿ kûiⁿ chîo tùi* — high hills have high hills to face them.
   - *uang-uang kûiⁿ* — tall and personable.
-<!-- page:306 -->
 - **縣** kūiⁿ (201|120|10) — A political division answering to a district; the fifth order of territorial divisions, sometimes called a county.
   - *i kíaⁿ tó̤ cò̤ kūiⁿ kuaⁿ* — his son is district magistrate.
   - *hīn jīm móng kò̤ kâi ti-kūiⁿ* — is now filling the office of district magistrate in a certain place.
@@ -25868,7 +25918,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i ŭ bw̄n ke châi* — he is very rich.
   - *cí kù cṳ kâi ì-sṳ̀ kẁn kàu thong phien* — the meaning of this sentence is connected with all that is on this page.
   - *i kàu cí-kò̤ lâi cŭe-ak kẁn-îong* — having reached this point, his iniquity is full.
-- **癱瘓** kẁn-pien  — Paralysis, or stiffness of the tendons.
+- **癱瘓** kẁn-pien (854) — Paralysis, or stiffness of the tendons.
   - *i kẁn-pien kàu cí-kò̤ lâi ku-ā nî lío* — he has been paralyzed for many years.
 - **券** kẁn (453|18|6) — Legal documents.
   - *tìo cīeⁿ-jît kâi ùaⁿ-kẁn lâi thóiⁿ* — call for the documents relating to the case and see.
@@ -26028,13 +26078,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khá sĭ mē?* — Can it be?
   - *úa khá m̄ pat i?* — Can it be that I do not know him?
   - *khá hó̤ cìeⁿ-seⁿ?* — How can that be desirable?
-  - *i khá sĭ* — gâu kùe lṳ́?
+  - *i khá sĭ*
+<!-- page:316 -->
+  - *gâu kùe lṳ́?* — How can it be that he is wiser than you?
   - *khá ŭ chṳ́ lí?* — Whence such a rule?
   - *lṳ́ thóiⁿ khá m̄ sĭ sie tâng* — you consider whether they can be otherwise than identical.
   - *i khá káⁿ m̄ lâi?* — How could he dare do otherwise than come?
   - *khá jîak cìeⁿ-seⁿ kèng hó̤?* — How can that be the better way?
   - *hìeⁿ-seⁿ hó̤ khá chin-chĭeⁿ cìeⁿ-seⁿ hó̤?* — If that way is good, why should not this be still better?
-<!-- page:316 -->
 - **擊** khà (395|64|18) — To strike; to beat upon; to rap hard.
   - *lûi khà sí ciah gû* — a cow was struck by lightning and killed.
   - *khîeh ki tek-ko̤ khà i kâi thâu* — took a bamboo pole and struck him on the head.
@@ -26110,7 +26161,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khái-chiet* — with assiduity.
   - *kò̤-sī tàⁿ lâi khái-chiet căi* — the proclamation sets it forth very fully.
   - *khái-khái chiet-chiet hío-jŭ peh-sèⁿ* — let all the people clearly understand this (a phrase common in edicts).
-- **覬覦** khái-jû  — To covet; to envy; to desire to obtain, though by foul means.
+- **覬覦** khái-jû (1124) — To covet; to envy; to desire to obtain, though by foul means.
   - *nâng tó̤ khái-jû i kâi tī-hng* — people envy him the possession of his place.
   - *cèng nâng m̄ káⁿ khai-jû* — others dare not aspire to the possession of it.
   - *i cē cìeⁿ-seⁿ nâng cū seⁿ khái-jû kâi sim* — if he acts thus, people will have their envy aroused.
@@ -26250,7 +26301,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tì-kó̤ kâi mn̂g khăm-khăm-kìe?* — What door is it that is banging?
 ### khang
 
-- **工夫** khang-khùe  — Labor; work.
+- **工夫** khang-khùe (460) — Labor; work.
   - *i tó̤ cò̤ ~~khàng~~(khang)-khùe* — he is at work.
   - *i kâi khang-khùe lō tn̂g căi* — he is able to do a vast amount of work.
   - *ciu jît gîap-gîap to sĭ cò̤ khang-khue* — is at work incessantly all day long.
@@ -26453,7 +26504,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cò̤ cêk kháu tī, cò̤ tīo cêk choiⁿ ngṳ̂n* — spent a thousand dollars in making a burial place.
   - *hái-lô̤ sìu kháu* — seal skin cuffs.
   - *ńg-kháu* — the bottom of a sleeve; a cuff.
-  - *ìo* — kháu;
+  - *ìo*
+<!-- page:322 -->
+  - *kháu;* — an important pass.
   - *tòa piaⁿ khṳ̀ tŭ-kháu* — lead troops to defend the pass.
   - *cham- che lō kháu* — cross-roads; the point where several roads meet.
   - *ūi kháu* — the pylorus.
@@ -26466,7 +26519,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cía sĭ tī-kò̤ kâi kháu im?* — In what place do they pronounce their words in this way?
   - *kháu kak hó̤* — clear enunciation.
   - *kháu pêh hó̤* — has a pleasant mode of telling things; eloquent.
-<!-- page:322 -->
 - **考** kháu (327|125|0) — To question, as candidates at a competitive examination; ancestors.
   - *kháu mn̄g i kâi cṳ* — examine him in his lessons.
   - *sùe kháu* — an examination at which candidates for both literary and military degrees are examined.
@@ -26627,9 +26679,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i tó̤ khui kheng-si-phò* — he keeps an assayer's office.
   - *sĭ chŵn tó̤ kheng ûang pó̤ kâi* — it is one where nothing but silver shoes are smelted.
   - *kheng-tîeh câp-cok* — ascertained by assaying it that it was wholly pure.
-  - *kheng chut lâi saⁿ sîaⁿ* — ngṳ̂n chit sîaⁿ tâng;
-  - *cē lô̤h lô khṳ̀ kheng cū mêng-pêh* — if you put it in the crucible and assay it, you will know just what it is.
+  - *kheng chut lâi saⁿ sîaⁿ*
 <!-- page:324 -->
+  - *ngṳ̂n chit sîaⁿ tâng;* — found by assaying it that it was three parts silver to seven of copper.
+  - *cē lô̤h lô khṳ̀ kheng cū mêng-pêh* — if you put it in the crucible and assay it, you will know just what it is.
 - **卿** kheng (407|26|9) — A noble; a lord; a high officer.
   - *pêh ok chut kong-kheng* — a house of unstained reputation sends forth noblemen.
   - *put hâk cía kong-kheng cṳ cṳ́ ûi sù mîn, to̤ hâk cía sù mîn cṳ cṳ́ ûi kong-kheng* — the sons of noblemen, if they do not study, become common people, while the sons of common people, if diligent in learning, become noblemen.
@@ -26706,7 +26759,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí kâi sieⁿ m̄-hó̤ phŏ̤ khi* — do not tip this box in lifting it.
   - *àiⁿ taⁿ īa m̄-hó̤ khi* — and do not tilt it sidewise in carrying it.
   - *sît khi-khi, koiⁿ-thâu khi-khi* — wings and shoulders tilted, ready for a fight.
-- **崎嶇** khi-khu  — Irregular, as a stony road; uneven; rough.
+- **崎嶇** khi-khu (342) — Irregular, as a stony road; uneven; rough.
   - *lō khi-khu tîeh hàm nâng khṳ̀ pho pêⁿ* — the road is very rough, we must call a man to mend it.
   - *khi-khi khu-khu* — very uneven.
   - *khi-khu nap-uh* — full of knolls and holes, as after an inundation.
@@ -26777,7 +26830,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thî-khí cí kĭa sṳ̄* — introduce this subject.
   - *máng khí lâi* — pull it up, using both hands.
   - *kâu khí khṳ̀* — climb up, using hands and feet.
-  - *thek* — khí khṳ̀;
+  - *thek*
+<!-- page:326 -->
+  - *khí khṳ̀;* — go up by treading.
   - *pôih khí lâi* — pull it out.
   - *thoa khí lâi* — haul it out.
   - *cheⁿ-pie khí lâi* — dart up.
@@ -26808,7 +26863,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i chin nâng cò̤-nî khang-khieh, khang-khieh i m̄ khi* — however much his relatives train him, they cannot bring him to any good.
   - *cē thî-phû khí lâi úa cū it-tit* — as soon as it was spoken of I remembered it.
   - *cía sĭ lṳ́ tàⁿ khí le, úa cìaⁿ tàⁿ* — since you have spoken of it, I will.
-<!-- page:326 -->
 - **齒** khí (65|211|0) — The teeth; notches.
   - *hwt khí* — to teeth.
   - *būe hwt khí* — has not cut his teeth yet.
@@ -26991,7 +27045,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **祗** khî (345|113|4) — The god or spirit which animates the earth.
   - *hŭam sôk thiⁿ kâi sîn kìe-cò̤ sîn, sôk tī kâi sîn kìe-cò̤ khî, kù-chṳ́ kìe-cò̤ sîn-khî, īa kìe-cò̤ thiⁿ-sîn tī-khî* — all spirits pertaining to the heavens are called gods, and all pertaining to the earth are called divinities; therefore they are called deities, and are also called gods and goddesses.
   - *tong-kok kâi cì huap ŭ saⁿ khí cêk khí sĭ thiⁿ-sîn, cêk khí sĭ tī-khî, cêk khí sĭ nâng-kúi* — the Chinese have three sorts of sacrificial rites, one for the gods of heaven, one for gods of the land, and one for the spirits of the dead.
-- **麒麟** khî-lîn  — A fabulous animal, like a piebald horse, with one horn and a cow's tail.
+- **麒麟** khî-lîn (344) — A fabulous animal, like a piebald horse, with one horn and a cow's tail.
   - *it phín kâi bú kuaⁿ, i kâi pó-sim cū sĭ sìu khî-lîn kâi* — military officials of the first grade have a unicorn embroidered on the square patch which ornaments the breast and back of their official robes.
   - *khî-lîn síam* — folding doors having carved unicorns as their ornamentation.
 - **奇** khî (344|37|5) — Extraordinary; rare; strange.
@@ -27227,10 +27281,11 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **掯** khīe (324|64|8) — To detain illegally.
   - *cū sĭ i tó̤ khīe lêk* — he is levying black-mail.
   - *kò̤ i khīe sôk* — charge him with detaining by force what belongs to another when redeemed.
-  - *có̤-có̤ khīe-khīe,* — tī-kò̤ có̤ m̄ sêng;
+  - *có̤-có̤ khīe-khīe,*
+<!-- page:332 -->
+  - *tī-kò̤ có̤ m̄ sêng;* — obstructing the taking away of this and of that, but in each case unsuccessful.
   - *khīe bô̤ i chíu* — retain by force, not allowing him to redeem his own.
   - *khṳt i khīe-cŭ tó̤ kò̤* — illegally held in detention by him.
-<!-- page:332 -->
 ### khieⁿ
 
 - **腔** khieⁿ (365|130|8) — The tune or air of a ballad; the patois or brogue of a place.
@@ -27295,18 +27350,19 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kâi chíu khîeh sih-mûeh?* — What has she got in her hand?
 ### khíen
 
-- **繾綣** khíen-khẃn  — Cordial; hospitable; friendly.
+- **繾綣** khíen-khẃn (391) — Cordial; hospitable; friendly.
   - *khṳ̀ kàu, i sĭm sĭ khíen-khẃn* — on our arrival he gave us a cordial reception.
   - *màiⁿ tó̤ khíen-khẃn* — don't be ceremonious.
   - *i kẃn-thăi lṳ́ jîeh ŭa kâi khíen-khẃn, lṳ́ kẃn-thăi i cò̤-nî hìeⁿ bô̤ chêng* — he treats you with great cordiality, so why do you show him so little kindness.
   - *i kâi chin-chêng sĭm sĭ hó̤ khṳ̀ kàu i to sĭ khíen-khíen khẃn-khẃn* — his friendliness is very delightful: when you go there he is hospitality itself.
 - **遣** khíen (390|162|10) — To commission; to send away.
   - *hong chîo-thêng che-khíen lâi kâi* — one sent by order of the government.
-  - *khíen-sái i khṳ̀* — tī-kò̤ i cū tîeh khṳ̀;
+  - *khíen-sái i khṳ̀*
+<!-- page:333 -->
+  - *tī-kò̤ i cū tîeh khṳ̀;* — he must go wherever he is sent.
   - *khíen ke-jîn khṳ̀ mn̄g-hāu i* — send a servant to inquire after him.
   - *ngí tīaⁿ cò̤ khíen cŭe* — adjudged to be a crime that should be punished by exile.
   - *cîah cíu sio-khíen cē* — drink wine to dissipate care.
-<!-- page:333 -->
 - **讉** khíen (391|149|14) — To blame angrily.
   - *ā-sĭ káⁿ jw̆n cò̤ cū pit cau thien khíen* — if one dare act recklessly, he will surely provoke the displeasure of Heaven.
 - **犬** khíen (452|94|0) — A dog, especially a large one; it is a metaphor for wickedness and treason.
@@ -27597,14 +27653,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *jû tó̤ khǹg châng phò khòi cêk īeⁿ* — as carefully as you would put away the title deeds of fields and shops.
   - *lṳ́ thóiⁿ khǹg ŭ sĭm-mûeh tŏ̤* — you look and see what there is put away there.
   - *àm-cĕⁿ khǹg ki to̤ tŏ̤ sin tèng* — secretly concealed a knife upon his person.
-  - *khǹg-pàng* — tī-kò̤?
+  - *khǹg-pàng*
+<!-- page:338 -->
+  - *tī-kò̤?* — Where is is laid away?
   - *khǹg ŭ ku-ā cun* — he has put away several bottles of it.
   - *i khǹg ŭ tōa-bó̤-mûeh cîⁿ* — he has a large amount of money laid away.
   - *khǹg tŏ̤ càng tèng* — stored in the go-down.
   - *lṳ́ hó̤ kio úa khǹg hó̤* — you keep it carefully for me.
   - *bô̤ kò̤ hó̤ khǹg* — I have no place to keep it.
   - *hṳ́ ciah tû khǹg sĭm-mûeh?* — What is in that cupboard?
-<!-- page:338 -->
 - **勸** khǹg (453|19|18) — To exhort; to expostulate with; to urge.
   - *khǹg kòi kàu i hûe sim tńg ì* — plead with him till he changes his mind.
   - *khǹg ì hûa* — exhort to peace.
@@ -27745,7 +27802,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kâk kò̤ kut khṳt i khòi* — throw him a bone to gnaw.
 ### ~~khóiⁿ~~(khoiⁿ)
 
-- **輕槌** khóiⁿ  — To beat with a hammer lightly.
+- **輕槌** khóiⁿ (102) — To beat with a hammer lightly.
   - *i tó̤ cò̤ khóiⁿ ôi-hue kâi khang-khùe* — he is employed in making the ornaments that are used upon silk shoes.
   - *saⁿ-sì cho̤h chòi-thâu cò̤ cêk ē khîeh khṳ̀ khŭ kò̤ khóiⁿ* — take the three or four lumps of dough and pound them up together in the mortar.
 <!-- page:340 -->
@@ -27809,9 +27866,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khṳ̀ kuaⁿ-hú kò̤ khòng-kò̤* — go before the magistrate and accuse him.
   - *cía sǹg sĭ bû khòng i* — this is probably a false charge against him.
   - *niap-khòng* — to trump up a charge against.
-  - *tī-hng kuaⁿ tẁn m̄ tît, ciang-lâi tîeh tì-kàu* — sĭang-khòng;
-  - *àiⁿ sĭang-khòng tîeh îu cí ĕ cêk câng cêk câng khòng khí khṳ̀, put lêng hó̤ wt-khòng* — in appealing, one must carry the case step by step from the lower to the higher courts, one cannot appeal directly to the high officers.
+  - *tī-hng kuaⁿ tẁn m̄ tît, ciang-lâi tîeh tì-kàu*
 <!-- page:341 -->
+  - *sĭang-khòng;* — if the local magistrate does not decide the case rightly, it must in the future be appealed to a higher court.
+  - *àiⁿ sĭang-khòng tîeh îu cí ĕ cêk câng cêk câng khòng khí khṳ̀, put lêng hó̤ wt-khòng* — in appealing, one must carry the case step by step from the lower to the higher courts, one cannot appeal directly to the high officers.
 - **空** khòng (464|116|3) — Unoccupied; vacant; empty; void.
   - *bô̤ kâi sî-hāu ŏi tit khòng* — have no time unemployed.
   - *i sái khui khòng jîeh cōi ngṳ̂n* — expended a large amount of money.
@@ -28140,7 +28198,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hṳ́ cho̤h ngṳ̂n mng khṳt úa khîeh lô̤h khue-kíaⁿ îeⁿ khṳ̀* — I have put that silver into the crucible and melted it up.
 - **科** khue (424|115|4) — Rank; gradation, series; to class, to estimate; to practice, as in medicine; literary examinations, for the two lower degrees.
   - *khue-kháu kháu ŵn cū hûe sé kháu khue-kṳ́, khue-kṳ́ siu ŵn cū cĭeⁿ kiaⁿ hôk-cí* — the examinations for the first degree having been passed through in their order, one repairs to the provincial city for examination for the second degree, and having passed that he goes to the capital to return thanks for the imperial favor.
-  - *thâu nî sĭ sùe kháu, tŏiⁿ jī nî sĭ khue-kháu* — the first year is the examination for both civil and military candidates, and the second year is the examination for civil degrees only.
+  - *thâu nî sĭ sùe kháu, tŏiⁿ jī nî sĭ khue-kháu*
+<!-- page:346 -->
+  - *the first year is the examination for both civil and military candidates, and the second year is the examination for civil degrees only.*
   - *hṳ́ kúi nî in-ûi kak chù hẃn-lw̆n bô̤ khui khue* — during those years, no examinations wore held, on account of there being revolts everywhere.
   - *pâng-khue* — the business department of the yamun.
   - *i sĭ khue mâk chut sin* — he rose through his scholarship.
@@ -28160,7 +28220,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ŭ cêk khue cìu-îu khue, nâng kìe cò̤ cok-îu khue kâi cí-kò̤ ŭ nâng ŏi a bô̤?* — There is a medical practice which consists in writing and burning charms, and people call it the practice of cursing or blessing is there such a practitioner about here anywhere?
   - *àiⁿ cò̤-nî lâi khue i kâi cŭe?* — Where should his crime be classed?
   - *ŭ nŏ̤ ieⁿ cŭe cū sĭ chông tăng kâi khue-tẁn* — where there are too sorts of crimes for which the same person is to be punished the greater crime is the one for which he is tried.
-<!-- page:346 -->
 - **魁** khue (486|194|4) — The chief, the highest; the first of a class.
   - *khue-cheⁿ-îa cū sĭ khue-táu-cheⁿ-kun* — the God of Literature is the one who resides in the constellation of the Dipper.
   - *ngŵn khue* — the first on the list; the head, (as of a band).
@@ -28254,8 +28313,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khui ûi jît kú* — our stars have been in opposition many days; we have long been separated.
   - *nŏ̤ nâng kâi sim cn̂g kâi khui-keh, m̄ sie hâh* — their hearts are estranged from each other, and not in unison.
   - *i kâi sim lî-khui* — his affections are sundered.
-  - *pok tîeh khui khùe, khíong-ùi* — khṳ̀ kàu hṳ́-kò̤ ngŏ̤ i m̄ tîeh;
+  - *pok tîeh khui khùe, khíong-ùi*
 <!-- page:348 -->
+  - *khṳ̀ kàu hṳ́-kò̤ ngŏ̤ i m̄ tîeh;* — I have divined, and have thus gotten an omen denoting absence, so I fear that on going there I shall not find him.
 - **開** khui (308|169|4) — To open; to unfold ; to unloose; to particularize ; to initiate; to start.
   - *khui mn̂g* — open the door.
   - *khui cûn* — to loose the boat from moorings and start.
@@ -28458,7 +28518,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ko cío jîp nâng khûn* — a solitary bird seeking companionship among men.
   - *to sĭ hṳ́ hùaⁿ kâi hû khûn, káu táng* — it is that same rascally set of fellows.
   - *cîaⁿ khûn, cîaⁿ tīn* — in regular squads and files.
-  - *cṳ-nîe hùe īa kàu khûn* — kàu khûn khṳ̀ thóiⁿ hì;
+  - *cṳ-nîe hùe īa kàu khûn*
+<!-- page:351 -->
+  - *kàu khûn khṳ̀ thóiⁿ hì;* — the women folk go in squads to see the play.
   - *tâng khûn kâi ah tōa sòi cûah tōa-bó̤-mûeh* — ducks of the same drove differ greatly in size.
   - *i kâi châi-chêng bú-gōi thìo khûn* — his talent and military skill excel those of all the others.
   - *nín kàu khûn kàu táng àiⁿ khṳ̀ tī-kò̤?* — Where are you all going in troops and bands?
@@ -28467,7 +28529,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cn̂g khûn lóng-cóng lâi* — the whole gang came.
   - *chap m̄ lô̤h khûn* — could not work his way into the clique.
   - *nín kak nâng m̄ thâk cṳ, saⁿ ûi khûn, sì ûi táng tó̤ sńg* — you do not study each at his book, but form parties of three and four for play.
-<!-- page:351 -->
 - **屈** khut (458|44|5) — To bend; to crouch; to put upon; to wrong; grievance.
   - *ẃn-khut* — to oppress.
   - *ẃn-khut sí nâng* — kill by oppression.
@@ -28539,7 +28600,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *khṳt i cîah ŵn khṳ̀* — has all been eaten up by him.
   - *bô̤ tī-kò̤ hó̤ khṳ̀* — has nowhere to go.
   - *i kū nî kùe khṳ̀* — he departed this life last year.
-  - *m̄-hó̤ khi-hŭ lâi khi-hŭ* — khṳ̀;
+  - *m̄-hó̤ khi-hŭ lâi khi-hŭ*
+<!-- page:352 -->
+  - *khṳ̀;* — do not impose upon each other.
   - *khṳt i lîah khṳ̀* — was seized by him.
   - *pun i ín-íu khṳ̀* — was misled by him.
   - *khṳ̀ hwn pôiⁿ* — go to foreign parts.
@@ -28589,8 +28652,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *màiⁿ khṳ̀ khì i* — do not be vexed about it.
   - *cí kâi chō̤ tit khṳ̀* — this will hold it.
   - *khṳ̀ ló! m̄ it-tit khṳ̀* — There! I have forgotten it.
-<!-- page:352 -->
-- **鸜鵒** khṳ̂-kok
+- **鸜鵒** khṳ̂-kok (443)
   - *khṳ̂-kok-ngán* — greasy white spots seen in argelite inkstones.
   - *úa cí kò̤ īⁿ ŭ khṳ̂-kok-ngán kâi* — this inkstone of mine is one that has white spots in it.
   - *ŭ khṳ̂-kok-ngán kâi hó̤, a sĭ ŭ cie pêh kâi hó̤?* — Which are the better, those that have white spots in them, or those that are yellowish white all over?
@@ -28690,7 +28752,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lṳ́ cìeⁿ-seⁿ cò̤ bô̤ khẃn bô̤ sek, khṳt nâng chìe* — in doing it thus, not in accordance with any established fashion, you will be laughed at.
   - *bô̤ khẃn căi* — not after any known pattern.
   - *sît-căi kah khẃn to bô̤* — really of no style at all.
-  - *chŵn bô̤ kâi* — nâng khẃn cìeⁿ-seⁿ;
+  - *chŵn bô̤ kâi*
+<!-- page:354 -->
+  - *nâng khẃn cìeⁿ-seⁿ;* — no one ever does it in that way.
   - *i kâi khẃn sĭ m̄-hó̤ căi* — his way of doing things is very bad.
   - *hó̤ kâi khẃn lṳ́ to bŏi ô̤h, àu kâi khẃn lṳ́ cū kĭaⁿ-kĭaⁿ ô̤h* — what is good you never can learn, what is bad you learn all about in every instance.
   - *cía khẃn tŏ̤ tī-kò̤ ô̤h lâi lâi?* — Where did you learn this manner of doing it?
@@ -28701,7 +28765,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *àiⁿ cang tī cêk khẃn ciⁿ lâi ēng?* — Which sort of coin do you want to use?
   - *kak kak khîeh lâi kui khẃn* — sort them all out.
   - *khẃn-tong hue* — dried flowers of the loquat.
-<!-- page:354 -->
 - **權** khŵn (452|75|18) — The weight or balance on a steelyard; direction; authority; power; to balance; to equalize.
   - *hṳ́ lăi sĭ tī-tîang ŭ khŵn?* — Who among them has authority?
   - *sĭ hṳ́ kâi ío ŭ khŵn, pât nâng lóng-cóng bô̤ khŵn* — that is the one who is the most influential, the others are all powerless.
@@ -28755,7 +28818,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí kâi hó̤ la* — this is a good one.
   - *hía ngía la, cía m̄ ngía* — that is pretty but this is not.
   - *phiⁿ la* — it is cheap.
-- **喇嘛** la-ma  — A lama; the yellow priests.
+- **喇嘛** la-ma (498) — A lama; the yellow priests.
   - *pak-thâu kâi hûe-sîeⁿ ŭ khí sĭ la-ma-ceng* — of the priests at the north, some are Thibetian monks.
 - **膋** lâ (528|130|10) — Tallow; hard fat; the caul.
   - *ciaⁿ kâi hó̤ cîah, pêh kâi hó̤ luah lâ* — can eat the lean, and make the fat into lard.
@@ -28770,7 +28833,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *câh lâ kâi* — merged in tallow.
   - *gû-lâ* — suet.
   - *tṳ-lâ* — lard.
-- **髼鬆** lâ-phà  — The opposite of compact; loose and disheveled; fluffy.
+- **髼鬆** lâ-phà (660) — The opposite of compact; loose and disheveled; fluffy.
   - *mīⁿ sĭ lâ-lâ phà-phà kâi mûeh-kĭaⁿ* — raw-cotton is very light in proportion to its bulk.
   - *cho̤h cháu lâ-lâ phà-phà, m̄ tîeh thîap-bûa* — the straw not compactly arranged, and you should pack it together.
 - **彀** lă (331|57|10) — Adequate ; sufficient; enough.
@@ -28802,7 +28865,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lah cṳ-cheh* — carry a book in the hand against the side.
   - *saⁿ-khò lah khṳ̀ sói* — take the clothes to the wash.
   - *cháu-chîeh lah khṳ̀ chṳ* — take the mat and spread it down.
-- **雜物** lah-bûah  — Heterogeneous; all sorts together.
+- **雜物** lah-bûah (939) — Heterogeneous; all sorts together.
   - *i kâi ke-si lah-bûah lóng-cóng puaⁿ lâi* — she moved all her household stuff with her.
   - *cheng ke-si lah-bûah cū hâk ho̤h cōi cîⁿ* — their household gear alone amounts to a large sum of money.
 - **鯪** lâh (544|195|8) — A fresh water fish, the dace or tench.
@@ -28961,7 +29024,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lak cáu* — ran back.
   - *lak tńg* — walked off in the direction from which he came.
   - *tī-hng ôih, lak m̄ lī* — the space was narrow and I could not get out of the way.
-- **邋遢** lak-thak  — Slovenly; careless.
+- **邋遢** lak-thak (843) — Slovenly; careless.
   - *i cò̤ sṳ̄ to sĭ lak-lak thak-thak* — she does things in a very slovenly way.
   - *i lí sṳ̄ tîeh ceng-ceng sîn-sîn sòi-sim lí, m̄ hó̤ lak-thak* — he must manage affairs very cautiously and carefully, and not be negligent in anything.
   - *lak-thak lak-thak, cn̂g kâi bô̤ sim khṳ̀ kù-kẃn* — is very negligent, having no mind to attend to it.
@@ -29102,7 +29165,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **霖** lâm (502|178|11) — Long continued rain.
   - *hía hŏ cheⁿ-lâm!* — What torrents of rain!
   - *hŏ tōa căi lí-kẃn lâm* — a torrent of rain pouring incessantly.
-- **襤䄛** lâm-lú  — Ragged; shabby.
+- **襤䄛** lâm-lú (502) — Ragged; shabby.
   - *saⁿ lâm-lú* — garments shabby.
   - *cêk sin chēng kàu lâm-lâm lú-lú* — he was clothed in rags.
 - **楠** lâm (614|75|9) — An even grained, yellowish, fine wood, used for furniture; it grows in Kiang-si.
@@ -29160,7 +29223,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tâng i khṳ̀ thò lâng thò hueh, màiⁿ chái i* — let him go and spue out his bile, and pay no attention to him.
   - *ko lâng* — to form pus.
   - *kâm-lâng kâm-lâng* — raw and mattery.
-- **欄杆** lâng-kang  — A balustrade; a railing.
+- **欄杆** lâng-kang (501) — A balustrade; a railing.
   - *ûi cêk têng lâng-kang* — inclose with a railing.
   - *sĭ cîeh lâng-kang a sĭ châ lâng-kang?* — Has it a stone or a wooden baluster?
   - *lâng-kang mn̂g* — a grated door.
@@ -29211,10 +29274,11 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **聾** lâng (568|128|16) — Deaf; hard of hearing.
   - *hĭⁿ lâng* — deaf.
   - *tèⁿ lâng tèⁿ é* — pretend to be deaf and dumb.
-  - *hĭⁿ lâng,* — kau sieⁿ;
+  - *hĭⁿ lâng,*
+<!-- page:361 -->
+  - *kau sieⁿ;* — made deaf by having the ear-wax dug out too forcibly.
   - *hĭⁿ cêk pùaⁿ lâng hìeⁿ-seⁿ* — partially deaf.
   - *hĭⁿ cêk pôiⁿ lâng* — deaf in one ear.
-<!-- page:361 -->
 - **鱗** lâng (541|195|12) — The scales of fish; scaly.
   - *hṳ̂ lâng* — fish scales.
   - *phah tīo lâng* — take off the scales.
@@ -29427,12 +29491,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lău tăi-jîn* — Your Excellency.
   - *lău îa* — Your Worship; a god.
   - *hṳ́ kâi sĭ i kâi lău kong-phûa* — those are his grandparents.
-- **姦夫** lău-ĭen  — An adulterer.
+- **姦夫** lău-ĭen (381) — An adulterer.
   - *hṳ́ kâi àiⁿ cò̤ lău-ĭen kâi, sĭm-mih kháu-keng?* — What did the one who was tried for adultery say in his own defense?
 - **漏** lāu (514|85|11) — To drip; to leak; to ooze out; to lose, to disclose, to blab, to let slip; to lose sight of; to let in, as light; a clepsydra.
   - *pó lāu* — to mend a leak.
   - *chù-téng ŏi lāu a bŏi?* — Does the roof leak?
-  - *hŏ cē tōa lāu kàu* — lok-lok;
+  - *hŏ cē tōa lāu kàu*
+<!-- page:364 -->
+  - *lok-lok;* — whenever it rains hard it leaks so that everything is dripping wet.
   - *i kâi cûn tiam lāu khṳ̀* — his boat was made to leak by hitting upon a stone.
   - *iap-lāu* — to ooze out.
   - *cáu lāu* — run out.
@@ -29446,7 +29512,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kâi ciah sĭ tih tîeh hŏ lāu kâi* — the marks have been made by the rain dripping on it.
   - *thăi lāu* — wait for an opening.
   - *cí kĭaⁿ sṳ̄ m̄ hó̤ lāu-huang* — do not breathe a word concerning this matter.
-<!-- page:364 -->
 - **鬧** lāu (617|191|5) — Hum; bustle; tumult.
   - *lāu-jîet* — much commotion; many going to and fro.
   - *hṳ́ kò̤ khah lāu-jîet* — there is too much bustle there.
@@ -29610,7 +29675,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lêng nâng só̤ put lêng* — can do what others cannot do.
   - *put lêng cai* — unknowable.
   - *lêng sueh, put lêng hêng* — can discourse about it but cannot act up to it.
-- **玲瓏** lêng-lông  — Finely carved or cut like grottoes; bright, witty, ornate.
+- **玲瓏** lêng-lông (544) — Finely carved or cut like grottoes; bright, witty, ornate.
   - *gêk sek lêng-lông* — bright like jade.
   - *i kâi sim-heng pí pât nâng kèng lêng-lông* — he is sharper witted than other people.
   - *i kâi sim lêng-lêng lông-lông* — he is very bright.
@@ -29682,10 +29747,10 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **籐** lêng (864|118|15) — Tendrils.
   - *kue thiu tîo lêng tŏa tŏ̤ chīu tèng* — the melon has put forth a tendril and is climbing the tree.
   - *tāu kâi lêng* — the tendrils of the bean-stalk.
-- **凌㓾** lêng-chî  — The ignominious slow punishment of quartering a criminal, or cutting him in pieces.
+- **凌㓾** lêng-chî (64) — The ignominious slow punishment of quartering a criminal, or cutting him in pieces.
   - *tōa lêng-chî* — cutting in many pieces.
   - *sòi lêng-chî* — cutting in a few pieces (the skin of the forehead is first cut and is laid over the eyes).
-- **籠甑** lêng-sn̂g  — A steamer used for steaming or boiling rice and cakes; it has wooden sides and a splint bottom.
+- **籠甑** lêng-sn̂g (951) — A steamer used for steaming or boiling rice and cakes; it has wooden sides and a splint bottom.
   - *ĭoⁿ khí lêng-sn̂g cū sĭ kúe* — lift the steamer and there is the cake.
 - **令** lĕng (546|9|3) — A law, a rule, an order; to enjoin upon, to command, to warn; to oblige to do; to occasion, to cause; a period of time, or that which marks it; in direct address used for you or your.
   - *lĕng cun tŏ̤ mē?* — Is your father at home?
@@ -29695,13 +29760,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cun tōa nâng kâi mĕng-lĕng* — obey the orders of his superior.
   - *kung-lĕng ngīam căi* — the military orders are very strict.
   - *hō̤-lĕng siam-ngîam* — the written orders are exceedingly strict.
-  - *sît-* — căi lĕng nâng seⁿ khì;
+  - *sît-*
+<!-- page:368 -->
+  - *căi lĕng nâng seⁿ khì;* — does indeed make one angry.
   - *lĕng cìⁿ* — a dart with a triangular flag on it, given to a messenger to express urgency.
   - *lĕng kî* — a flag having written orders upon it.
   - *hwt ki o lĕng, ah khṳ̀ thâi* — issue an order on black paper, for him to be taken to execution.
   - *ûang lĕng pâng* — the office from which the orders are issued.
   - *lĕng-cìaⁿ* — your wife.
-<!-- page:368 -->
 - **佞** lĕng (637|9|5) — Eloquent; persuasive; insinuating.
   - *i ío hó̤ kháu-lĕng* — he is the more ready of speech.
   - *hṳ́ kâi cn̂g kâi bô̤ kháu-lĕng* — that one has no gift of utterance.
@@ -29718,7 +29784,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lēng ŭ kúi peh ki tŏ̤-kò̤* — there are several hundreds of them joined by a string.
 - **棱** lēng (506|75|8) — A sleeper on which a board rests.
   - *cêk ki làu-lēng* — a sleeper under a floor.
-- **唎喇** li-la  — Slovenly.
+- **唎喇** li-la (521) — Slovenly.
   - *i cò̤ sṳ̄ li-la căi* — she does things in a very slovenly way.
   - *hàm i màiⁿ tó̤ li-la* — tell him not to slur the thing over.
   - *jú tàⁿ jú li-la* — the more you talk to him about it the more untidy he is.
@@ -30457,7 +30523,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **霖** lîm (540|173|8) — A continuous rain of three days.
   - *chiu thiⁿ-sî kâi kú hŏ, kìeⁿ-co̤ chiu-lîm* — the long rains of autumn are called the rainy season.
   - *kam lîm* — a timely rain.
-- **淋漓** lîm-lî  — The pattering of rain or hail.
+- **淋漓** lîm-lî (516) — The pattering of rain or hail.
   - *tōa hŏ lîm-lî* — the rain pours steadily down.
   - *sía kàu lîm-lîm-lî-lî* — writing steadily and rapidly, the letters dropping from his pen like falling rain.
 - **掄** lĭm (565|64|8) — To pick up or out; to take up.
@@ -30472,7 +30538,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lĭm kín-kín* — grasp it firmly.
   - *nŏ̤ ciah chíu lĭm m̄ bûa* — cannot reach around it with both hands.
   - *nŏ̤ nâng sie lĭm chíu* — the two grasped each other's hands.
-- **蜾贏** lin-liang  — The solitary wasp or sphex, which imprisons caterpillars in its cell to feed its young.
+- **蜾贏** lin-liang (490) — The solitary wasp or sphex, which imprisons caterpillars in its cell to feed its young.
   - *lin-liang ie* — wasp waisted.
   - *lin-liang-phang kâⁿ bé-lêng-khîa khṳ̀ khǹg tŏ̤ khang tói, lío cang thô kô miⁿ, ciu-jît ē-ē pue tŏ̤ hṳ́ kâi khang kháu, hng-hng-kìe, chin-chĭeⁿ līam ciu cêk īeⁿ, chit jīt ău cū pìⁿ cò̤ lin-liang-phang kíaⁿ* — the solitary wasp carries spiders in its mouth and hides them away in its cell, then it takes clay and seals them up tight, and all day it flies repeatedly to the mouth of the cell and buzzes, as if it were reciting incantations, and then after seven days they are transformed into young wasps.
 - **輦** lín (535|159|8) — A wheel; to wheel.
@@ -30491,12 +30557,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lîn-kṳ̆n kâi nâng lóng-cóng lâi* — those living near all came.
   - *choiⁿ kim bói chù, bw̄n kim bói lîn* — a thousand ducats paid for the house, and ten thousand paid in consideration of the neighborhood.
   - *lîn kok* — conterminous states.
-  - *lîn* — hieⁿ;
+  - *lîn*
+<!-- page:379 -->
+  - *hieⁿ;* — adjacent towns.
   - *chṳ̀ lîn; chù piⁿ* — neighbors.
   - *phò lîn; phò piⁿ* — adjoining shops.
   - *có̤ ĭu lín* — neighbors on either side.
   - *hûa-môk lîn-lí* — a friendly community.
-<!-- page:379 -->
 - **綾** lîn (544|120|8) — Damask; thin silk with one glossy surface.
   - *sĭ lîn kâi a sĭ tn̄g kâi?* — Is it of damask or of satin?
   - *àiⁿ pìe lîn a m̆?* — Are you going to mount it on damask?
@@ -30595,7 +30662,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tâng lîo* — compeers.
   - *kuaⁿ lîo* — fellow officers.
   - *tâng lîo kuaⁿ* — officials of the same rank entering office at the same time.
-- **鷺鷥** lĭo-si  — The heron, a wader, common throughout China.
+- **鷺鷥** lĭo-si (558) — The heron, a wader, common throughout China.
   - *pêh lĭo-si* — the white egret heron: it is embroidered on the court robes of officers of the sixth grade.
   - *lĭo-si pâng* — a tall slim pitcher.
   - *lĭo-si kha* — long legged; spindle-shanked.
@@ -30712,7 +30779,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lîu-lî* — a vitreous, strass-like composition, used for cups, bangles and colored glaze.
 - **旒** lîu (548|70|9) — Strings of pearls, which anciently hung before and behind crowns, their length and number indicating the wearer's rank; they are now seen only on idols.
   - *cu-pûaⁿ kâi cu àiⁿ cò̤ jîeh cōi lîa?* — Of the beads on the coronet, how many strings do you want put on?
-- **硫磺** lîu-n̂g  — Brimstone.
+- **硫磺** lîu-n̂g (549) — Brimstone.
   - *ngói cò̤ lîu-n̂g bûah* — triturate it and make flour of sulphur of it.
 - **流** lîu (549|85|7) — To go from place to place; to abscond; to transport criminals; roving, vagrant, shifting; a class, a set.
   - *lîu mîn* — migratory tribes.
@@ -30737,7 +30804,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cò̤ sṳ̄ bô̤ lîu sim* — he does not fix his mind on what he is doing.
   - *i sĭang lîu sim lí sṳ̄* — he manages matters in a very thoughtful way.
   - *i chŵn m̄ lîu-lw̄n ke-hieⁿ* — he cannot tear himself away from home.
-- **僂儸** lîu-lô̤  — The braves among banditti; rebel troops; outlaws; ruffians.
+- **僂儸** lîu-lô̤ (551) — The braves among banditti; rebel troops; outlaws; ruffians.
   - *chiu ĕ ŭ jîeh cōi lîu-lô̤?* — How many braves has he under his command?
   - *chī cêk khûn lîu-lô̤* — keeps a band of miscreants in his employ.
 - **瘤** lîu (548|104|10) — A tumor, a wen, an excrescence or swelling.
@@ -31046,7 +31113,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lôk cò̤ cêk pńg* — transcribe into one volume.
   - *mâk-lôk* — an index.
   - *thóiⁿ i kâi mâk-lôk cū cai* — look in the index and you will find it.
-  - *tī-tîang tó̤ lôk keng?* — Who is taking down the testimony?
+  - *tī-tîang tó̤ lôk keng?*
+<!-- page:386 -->
+  - *Who is taking down the testimony?*
   - *lôk chut lâi* — to jot down; to write out.
   - *chú-lôk ŭ jîeh cōi mîaⁿ?* — How many are selected as worthy of a degree?
   - *kì lôk* — recorded.
@@ -31054,7 +31123,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chì-lôk* — list of successful candidates for the degree of M.A.
   - *jû tó̤ cáu chì-lôk* — like vending the list of successful candidates at the triennial examination.
   - *úa ŭ cêk pang múaⁿ hàng mîaⁿ-chîn lôk* — I have a set of biographical sketches of eminent statesmen, both Tartar and Chinese.
-<!-- page:386 -->
 - **絡** lôk (553|120|6) — Joined; continuous; to join on; netted or slung together; blood vessels which diverge from the great veins or arteries.
   - *lîen-lôk cò̤ cêk ē* — couple them together.
   - *lîen-lîen lôk-lôk, bô̤ kòiⁿ tn̆g* — joined in one continuous line, with no break.
@@ -31327,7 +31395,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cò̤ lô̤h thâu li, lío cū kùiⁿ-sìⁿ* — when you have done the first part you will have become used to it.
   - *húiⁿ lô̤h thô* — threw himself down upon the ground.
   - *tham-cîah pûah lô̤h mêng-thn̂g àng* — the glutton falls into the candy-jar.
-  - *thâk lô̤h* — tó;
+  - *thâk lô̤h*
+<!-- page:390 -->
+  - *tó;* — study it till it becomes fixed in the mind.
   - *lô̤h sôk* — become common.
   - *lô̤h hue* — lose its petals.
   - *lô̤h hîeh* — shed its leaves.
@@ -31373,7 +31443,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cìeⁿ-sî lô̤h nêk* — she is losing flesh lately.
   - *cêng lô̤h hùe a būe?* — Is the cargo in yet?
   - *cē lô̤h khuang cū kiu khṳ̀* — as soon as he was put into the arena, he drew back.
-<!-- page:390 -->
 - **駱駝** lô̤h-tho̤h (553||) — A camel.
   - *khang lô̤h-thô̤h* — to take care of camels.
 - **墩** lu (927|32|12) — A hummock; a knoll.
@@ -31668,7 +31737,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *mô̤ⁿ lût tît* — smooth the hair straight.
   - *cúi-hun-tâng cang pó̤-sua lût i kng* — take emery powder and polish the pipe.
   - *chíu-hŵn lût chut lâi* — pall off your bracelet.
-- **𡼿屼** lût-sût  — Bare, not wooded, as a hill.
+- **𡼿屼** lût-sût (1065) — Bare, not wooded, as a hill.
   - *kng-lût-sût* — perfectly bald; destitute of all vegetable growth.
   - *kâi suaⁿ cn̂g kâi kng-lût-sût* — a perfectly bald mountain.
   - *múaⁿ-tī-kò̤ kng-lût-sût kng-lût-sût, i àiⁿ tìam-pàng tī-kò̤?* — The whole place is without copse or brushwood, where would he hide in it?
@@ -31694,14 +31763,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kẃn-thăi lṳ́ jîeh hó̤?* — How did he treat you?
   - *lṳ́ ŏi mē?* — Can you do it?
   - *lṳ́ ā sĭ bŏi úa kìe pât nâng* — if you cannot do it, I will get some one else.
-  - *sĭ lṳ́ kâi a m̄ sĭ?* — It is yours is it not?
+  - *sĭ lṳ́ kâi a m̄ sĭ?*
+<!-- page:395 -->
+  - *It is yours is it not?*
   - *i sieh lṳ́* — she is very kind to you.
   - *cìeⁿ-seⁿ sĭ thóiⁿ-tŏng lṳ́, m̄ sĭ thóiⁿ-khin lṳ́* — this is showing you respect, not treating you lightly.
   - *lṳ́ thiaⁿ úa tàⁿ* — listen to what I say.
   - *lṳ́ thóiⁿ* — look here.
   - *lṳ́ khéng mē?* — Are you willing?
   - *úa sĭ thóiⁿ-kìⁿ lṳ́* — I see you.
-<!-- page:395 -->
 - **鑢** lṳ̀ (560|167|15) — To burnish by rubbing upon; to rasp; to rub.
   - *khîeh khṳ̀ sua tèng lṳ̀* — go and scour it on the sand.
   - *lṳ̀ kàu i kim-kim* — rub it very bright.
@@ -31855,7 +31925,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *mâk-ciu thìaⁿ* — sore eyes.
   - *mâk siap* — sleepy.
   - *mâk lêng-ceng* — wide awake.
-  - *mâk-chĭeⁿ mô̤h* — has cataract.
+  - *mâk-chĭeⁿ mô̤h*
+<!-- page:397 -->
+  - *has cataract.*
   - *mâk ĕ sĭm-mih sṳ̄?* — What have you to do in the immediate future?
   - *kim mâk lăi-cìang* — stone blind, with apparently faultless eyes.
   - *mâk-ciu cheⁿ-mêⁿ* — blind.
@@ -31911,7 +31983,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kâi mâk cē sûh i cū cai* — he knew as soon as she gave him the wink.
   - *mâk kak* — the corner of the eye.
   - *mâk kṳ̂-kṳ̂; mâk châ-kṳ̂ châ-~~kṳ~~(kṳ̂)* — the eyes fixed and staring.
-<!-- page:397 -->
 - **艋** mang (580|137|8) — A pinnace; a long boat.
   - *thâu-mang-cûn* — a small junk.
 - **蝱** máng (609|142|9) — Mosquitoes.
@@ -32520,13 +32591,14 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ciu-jît cŏ̤ tŏ̤ phò mīn* — sits all day in front of his shop.
   - *seⁿ lâi cheⁿ-mīn lîo-gê* — has a pale face and tushes;
   - *kìⁿ tîeh mīn ciaⁿ-ciaⁿ* — appears very timid.
-  - *m̄* — thóiⁿ ceng mĭn, thóiⁿ hût mīn;
+  - *m̄*
+<!-- page:405 -->
+  - *thóiⁿ ceng mĭn, thóiⁿ hût mīn;* — does not look at the faces of the priests, but at that of Buddh.
   - *a phûa mīn, a phûa mīn* — like an old woman; nothing about him to excite respect or fear.
   - *cṳ-nîe mīn* — an effeminate look.
   - *ta-po mīn* — a masculine face.
   - *mīn hong-jŭn* — fresh looking.
 <!-- page:404 -->
-<!-- page:405 -->
 - **秒** míoⁿ (592|115|4) — A second in a degree; a ten thousandth; a minute.
   - *gûeh sĭ sîh chit hun kah sì míoⁿ lâk hut* — in the eclipse of the moon, the shadow extended over seven minutes, four seconds and six tenths of a second.
 - **妙** míoⁿ (592|38|4) — Cleverness.
@@ -33136,7 +33208,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chēng nā sin-tèng* — wear it on your person.
   - *tì nā thâu tèng* — carry it on your head.
   - *i kâi ūe thiaⁿ lío khǹg nā sim lăi m̄ tàⁿ chut* — on hearing what he says keep it in mind, but do not mention it.
-- **垢穢** nah-sap  — Dirty, filthy, soiled, foul.
+- **垢穢** nah-sap (330) — Dirty, filthy, soiled, foul.
   - *nah-sap căi* — very filthy.
   - *nah-sap sìeⁿ* — slovenly.
   - *eng kàu cĕng-cĕng nah-sap* — the dust has settled on it till it is all a mass of dirt.
@@ -33194,7 +33266,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ciah koi-kíaⁿ khṳt ēng nâk khṳ̀* — a chicken has been carried off by a hawk.
   - *i khṳt hóⁿ nâk kàu cêk sin chap-chap-chùi* — he was torn in pieces by a tiger.
   - *kâi tó khṳt i nâk phùa khṳ̀ lío, hṳ́ tói kâi tn̂g cū khṳt i cîam chut lâi* — he first clawed open the bowels, and then dragged out the entrails.
-- **我等** náng  — We, including the hearer.
+- **我等** náng (627) — We, including the hearer.
   - *cía m̄ sĭ náng kâi, sĭ in kâi* — this is not ours, it is theirs.
   - *náng hó̤ lâi khṳ̀* — let us go.
   - *àiⁿ a m̆, tŏ̤ náng ka-kī* — whether we will or not, is for ourselves to decide.
@@ -33784,7 +33856,9 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **驗** ngīam (1091|187|13) — To examine officially for purposes of verification; to prove by inspection; testimony or examination which proves a thing.
   - *chíaⁿ kuaⁿ ngīam kùe* — ask for an official inspection, verifying the statement.
   - *ŭ hāu-ngīam* — have satisfactory proof of it.
-  - *ngīam* — si;
+  - *ngīam*
+<!-- page:421 -->
+  - *si;* — hold an inquest.
   - *tah ngīam-si-pêⁿ* — set up a platform where the body may lie exposed to view, in an inquest.
   - *khí si siang ngīam* — disinter the corpse for examination by the authorities.
   - *ngīam sieⁿ* — examine the wounds.
@@ -33795,7 +33869,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lṳ́ khṳ̀ ngīam thóiⁿ* — you go and verify it by inspection.
   - *khùaⁿ ngīam* — look over and verify.
   - *ngīam tîeh cò̤-nî īeⁿ?* — What did you ascertain by the examination?
-<!-- page:421 -->
 - **仰** ngíang (1073|9|4) — To look upward; to regard with respect.
   - *úa tó̤ ngíang-mō̤ⁿ lṳ́ lâi* — I was longing for your coming.
   - *kú ngíang tōa mîaⁿ* — have long admired and respected you.
@@ -33940,7 +34013,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chŵn m̄ pat so̤-ngô̤* — was remiss in nothing.
   - *pàng kò̤ hó̤ ṳ̆-pĭ put ngô̤* — lay it aside in readiness for use in case of accident.
   - *cía sĭ m̄-hó̤ so̤-ngô̤ kâi* — this is something that it will not do to be careless about.
-- **梧桐** ngô̤-thông  — The catalpa tree, noted for the even grain of its wood; the fall of its leaf denotes autumn.
+- **梧桐** ngô̤-thông (1060) — The catalpa tree, noted for the even grain of its wood; the fall of its leaf denotes autumn.
 - **遇** ngŏ̤ (1128|162|9) — To meet; to come unexpectedly upon one; to occur, to happen; whenever; at the time of.
   - *ngŏ̤ kìⁿ* — chanced to meet.
   - *ngŏ̤ i m̄ tiêh* — did not come across him.
@@ -34115,7 +34188,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i seⁿ ni iong, tîeh ēng sĭm-mih îeh lâi ui?* — She has a broken breast, what should be used as a remedy?
   - *i kâi ni-cap khah cheng* — her milk is too thin.
   - *i kâi ni-cap lông* — her milk is rich.
-- **彌縫** ní-phông  — To set right; to patch up; to help along; to supplement the efforts of another.
+- **彌縫** ní-phông (589) — To set right; to patch up; to help along; to supplement the efforts of another.
   - *thĕng úa lâi kio lṳ́ ní-phông kàu ŵn-chŵn* — wait until I take hold along with you and set it completely right.
   - *cía sĭ cèng nâng kio i ní-phông kâi* — this was done in his behalf by all unitedly.
   - *jw̆n ní-phông, ní-phông m bûa* — however much we try to reconcile the difficulty, there seems to be no way of compassing it.
@@ -34500,7 +34573,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 <!-- page:430 -->
 ### nin
 
-- **汝們** nín  — You, plural.
+- **汝們** nín (298) — You, plural.
   - *cía sĭ nín kâi* — this belongs to your folks.
   - *nín chíaⁿ cŏ̤* — please take seats.
   - *nín tī-tiang-sî lâi?* — When did you all come?
@@ -34515,7 +34588,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cē nioⁿ cū àiⁿ chìe* — if you tickle him he will laugh.
   - *úa m̄-ùi nioⁿ* — I am not easily tickled.
   - *khuaⁿ-khuaⁿ lâi nioⁿ i* — gradually cajole him into it.
-- **嫋娜** níoⁿ-nó̤  — Lissome; slender; flexible.
+- **嫋娜** níoⁿ-nó̤ (632) — Lissome; slender; flexible.
   - *seⁿ lâi sĭm sĭ níoⁿ-nó̤* — is naturally very graceful.
   - *níoⁿ-níoⁿ nó̤-nó̤* — very graceful.
 - **縐** nìoⁿ (962|170|10) — To wrinkle; creases.
@@ -34579,7 +34652,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hip ńng* — soften it by covering it closely and keeping it warm.
   - *cìm i ńng* — soften it by soaking.
   - *ńng-jîak* — weak; debilitated.
-  - *tì ŭ* — kâi ńng kha pēⁿ;
+  - *tì ŭ*
+<!-- page:431 -->
+  - *kâi ńng kha pēⁿ;* — has a weakness of the legs.
   - *pat ńng-sì khûn* — understand the art of self-defense in boxing.
   - *tô̤h hía jîu-ńng kâi* — select a flexible one.
   - *pūe i ńng* — soften it by keeping it before the fire.
@@ -34625,7 +34700,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *mông tîeh nap-nap ńng* — it feels very soft.
   - *cía tîeh ēng ńng sì, m̄ hó̤ ēng ngĕ sì* — in this, gentleness not severity must be exercised.
   - *chîp kàu ńng-ńng* — knead it over till it becomes very soft.
-<!-- page:431 -->
 - **瓤** n̂ng (290|97|17) — The pulp of a squash or melon; the pith of plants; the second film or coating of a branch.
   - *si-kue sĭ cîah kue-n̂ng, tang-kue sĭ líu tīo n̂ng m̄ cîah* — of watermelons the innermost pulp is eaten, of squashes the innermost pulp is dug out and is not eaten.
   - *tìo-kue n̂ng* — the middle pulp of a cucumber.
@@ -35002,7 +35076,9 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **狹** oîh (186|94|7) — Narrow; small; contracted; mean.
   - *tī-hng ôih* — very little room.
   - *tō lĭang ôih* — small minded; petty.
-  - *kâi khang-kíaⁿ ôih-ôih* — a very small aperture.
+  - *kâi khang-kíaⁿ ôih-ôih*
+<!-- page:436 -->
+  - *a very small aperture.*
   - *ôih lō siang hông* — met in a very narrow path.
   - *khah ôih, m̆ kàu tīu* — too little room to live in.
   - *ôih chek, ôih chek* — cramped.
@@ -35012,7 +35088,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí īeⁿ pò ío ôih pak* — this kind of cloth is narrower.
   - *cí koiⁿ ío ôih li ío chim* — this room is narrower and longer.
   - *ôih kâi cìaⁿ kín* — the narrow ones are tight.
-<!-- page:436 -->
 - **齷齪** ok-chok (1057||) — Having a superfluity of a thing, or what is too good for one; wasted because it is more than is needed or too good for the use to which it is put.
   - *cîah lío ok-ok chok-chok* — it is wasted when he has eaten it.
   - *chēng lío ok-chok căi* — he is not fit for such clothes as he gets.
@@ -35158,14 +35233,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chíaⁿ a-îⁿ lâi pá pn̄g* — ask your aunt to come to supper now.
 - **把** pá (644|64|4) — To seize; to hold for the purpose of using; to grasp; to lay hold of; to take a thing to be; to consider as.
   - *pá-cáng* — an ensign in the army.
-  - *lṳ́ pá i thóiⁿ* — cò̤ sĭm-mih nâng?
+  - *lṳ́ pá i thóiⁿ*
+<!-- page:438 -->
+  - *cò̤ sĭm-mih nâng?* — Whom did you take him to be?
   - *i kâi cò̤ sṳ̄ ŭ pá-thî* — he acts in a masterful way.
   - *cū sĭ i tó̤ pá-thî sṳ̄* — it is he who holds control in the affair.
   - *cò̤ mîh sṳ̄ àiⁿ ŭ pá-pèⁿ* — in whatever one does he needs something that he can use as a handie.
   - *màiⁿ pá i kâi kang-hu gō khṳ̀* — do not interfere with him so as to spoil his work.
   - *àiⁿ pá cí kĭaⁿ sṳ̄ cò̤-nî lâi chù-lì?* — How shall we arrange this business?
   - *cò̤ pá hì* — play tricks of legerdemain; to performs feats, as acrobats or trained animals do; jugglery.
-<!-- page:438 -->
 - **榜** pá (657|75|10) — A list of successful candidates.
   - *pa-ngán* — the “eye of the list”, a term for the second scholar in the land; the idea is that he is second in order as the eye is under the forehead.
   - *nŏ̤ hiaⁿ tĭ cêk kâi tèng cŏ̤-ngŵn, cêk kâi tèng pá-ngân* — of the two brothers one became the first scholar of the empire, and the other the second.
@@ -35313,11 +35389,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kâi cûn khṳ̀ cĭeⁿ pak* — their vessel has gone northwards.
   - *pak hái* — the northern ocean.
   - *pak-kiaⁿ* — Peking.
-  - *i tó̤ bōi* — pak-thâu hùe;
+  - *i tó̤ bōi*
+<!-- page:440 -->
+  - *pak-thâu hùe;* — he sells northern goods.
   - *pak-táu* — the Great Dipper.
   - *lâm pak hâng* — warehouses in which both northern and southern goods are kept.
   - *tùi pak lō khṳ̀* — went by the northern route.
-<!-- page:440 -->
 - **腹** pak (151|130|9) — That which envelopes the viscera; the belly or abdomen; the seat of the mind.
   - *tó-pak m̄-hó̤* — the stomach out of order.
   - *síe pak kâi tī-hng* — the abdomen.
@@ -35909,7 +35986,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lṳ́ màiⁿpeh chîeⁿ, peh piah* — do not clamber over the walls.
   - *peh cĭeⁿ suaⁿ-téng* — scaled the mountain.
   - *hĭaⁿ peh cĭeⁿ chn̂g téng* — the ants have got up on the table.
-- **戲謔** peh-gêh  — To jest; to divert one's self.
+- **戲謔** peh-gêh (180) — To jest; to divert one's self.
   - *i sĭ tó̤ peh-gêh* — he is joking.
   - *i ciu-jît to sĭ tó̤ peh-peh gêh-gêh, tàⁿ bô̤ kù cìaⁿ-keng ūe* — he jokes all the time, and never says a word in sober earnest.
 - **白** pêh (706|106|0) — White; clear; plain; gratis; without rank.
@@ -35961,7 +36038,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sueh pêh* — explain clearly.
   - *pêh-cŭang* — a counter snatcher.
 <!-- page:448 -->
-- **謊唐** pèh-cíaⁿ  — ; pêh-cíaⁿ; pêh-lô̤h;
+- **謊唐** pèh-cíaⁿ (253) — ; pêh-cíaⁿ; pêh-lô̤h;
   - *i tŏ̤ pêh-lô̤h, màiⁿ thiaⁿ* — he is telling what is untrue, pay no hoed to him.
   - *i tó̤ tōa pêh-cíaⁿ* — he is telling lies.
 - **帛** pêh (707|50|5) — Plain white silk; taffety; wealth; property; a present of silk.
@@ -36132,9 +36209,9 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **巵** pî (55|49|4) — A jar with a small neck.
   - *chò pî* — vinegar jar.
   - *cêk pî tāu-cìeⁿ* — a jar of bean catsup.
-- **杷枇** pî-pê  — The loquat, or medlar.
+- **杷枇** pî-pê (679) — The loquat, or medlar.
   - *téng cék kṳn pî-pê* — weigh out a catty of loquats.
-- **琶琵** pî-pê  — A shaped guitar with four strings.
+- **琶琵** pî-pê (679) — A shaped guitar with four strings.
   - *tôaⁿ pî-pê* — play the viol.
 - **備** pĭ (677|9|10) — To prepare; to make ready; to provide for, or against; ready.
   - *cún pĭ* — made ready for.
@@ -36467,10 +36544,10 @@ The number of the radical, the radical, its contracted form, the page on which i
 <!-- page:455 -->
 - **𡣕** pin (697|38|14) — A regal concubine of the first rank.
   - *hûang-tì sĭ cêk hŏ, cêk hui, nŏ̤ pin* — the emperor has one empress, one concubine, and two maids of honor who wait in the royal presence.
-- **檳榔** pin-lô̤  — The areca or betel nut.
+- **檳榔** pin-lô̤ (695) — The areca or betel nut.
   - *cîah pin-lô̤* — chew betel.
   - *hŵt i lâi khîa pin-lô̤ pûe hui* — require him to bring a present of betel-nut, in acknowledgement of an offense.
-- **戲弄** pin-tǹg  — To make sport of; to tease; to play practical jokes upon.
+- **戲弄** pin-tǹg (180) — To make sport of; to tease; to play practical jokes upon.
   - *pin-tǹg kàu i khàu* — plagued him till he cried.
 - **賓** pin (695|154|7) — A visitor; a stranger.
   - *pin-kheh* — a visitor.
@@ -36533,9 +36610,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí-kò̤ li bît pīn sái-tó-câi, hṳ́-kò̤ li bît pīn ăm-kíaⁿ* — here one sinks up to his middle, and there he sinks up to his neck.
   - *pīn tī-kò̤ hiah?* — At what point did you leave off?
   - *pīn cí-ko̤ cū ŵn* — it ends at this point.
-  - *chō̤ pīn cun-* — ăm kò̤;
-  - *chēng lô̤h cìaⁿ pīn kha-thâu-u, khah tó̤* — on putting it on it reaches only to the knees, it is too short.
+  - *chō̤ pīn cun-*
 <!-- page:456 -->
+  - *ăm kò̤;* — fill it up to the neck.
+  - *chēng lô̤h cìaⁿ pīn kha-thâu-u, khah tó̤* — on putting it on it reaches only to the knees, it is too short.
 - **就** pīn (999|43|9) — From or at this point.
   - *àiⁿ pīn tī-kò khí?* — At what point shall I begin?
   - *pīn kíaⁿ-jît khí sǹg* — begin to reckon from to-day.
@@ -37470,12 +37548,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lô̤h sĭm mûeh cē pun cū cheng-chó̤?* — What do you put in to separate the different elements?
   - *i ke lăi saⁿ pun lâk ko̤h* — in that family each is for himself.
   - *chīu pun a* — the tree forks.
-  - *khoi pun cò̤ nŏ̤* — pôiⁿ;
+  - *khoi pun cò̤ nŏ̤*
+<!-- page:468 -->
+  - *pôiⁿ;* — the river divides into two branches.
   - *kîaⁿ kàu cí kò̤ pun cò̤ ku-ā tîo lō* — at this point the road divides into several branches.
   - *thàng cîⁿ pêⁿ pun* — divide the earnings equally.
   - *pun sùaⁿ; pun khui* — to separate.
   - *kîaⁿ kàu pùaⁿ lō cū pun lō* — half way there the road divides.
-<!-- page:468 -->
 - **被** pun (669|145|5) — A sign of the passive voice, showing that what follows was suffered or done.
   - *i pun nâng khi-hŭ* — he was imposed upon by people.
   - *nín sĭ àiⁿ pun nâng o̤-ló̤ a sĭ àiⁿ pun nâng mēⁿ?* — Do you want people to praise you or to blame you?
@@ -37783,7 +37862,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sìu chíu, phâng kwn, bô̤ khṳ̀ kìu i* — sleeved his hands, and stood aside looking on, giving him no help.
   - *phâng-kwn-cía tīaⁿ* — the looker on is most clear-headed.
   - *chông phâng chah jîp* — forced in from the side; a side issue.
-- **膀胱** phâng-khuang  — The bladder.
+- **膀胱** phâng-khuang (478) — The bladder.
 - **鵬** phâng (661|196|8) — A monstrous bird, like the roc of Arabian story; the Chinese fable that it was transformed from the leviathan.
   - *tōa phâng-cío ŭ jîeh tōa ciah?* — How large is the roc?
 - **縫** phāng (158|120|11) — A crack; chink; a cleft; a fissure.
@@ -37800,7 +37879,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *íam mn̂g phāng* — peep through the cracks in the door.
   - *làng-làng phāng-phāng* — full of cracks.
   - *i kâi chíu phāng khuah* — his fingers are far apart; he lets things slip through his fingers easily.
-- **膨脹** phāng-cìang  — Obese; bloated; distended; swollen; puffed out.
+- **膨脹** phāng-cìang (662) — Obese; bloated; distended; swollen; puffed out.
 ### phau
 
 - **吊** phau (886|30|3) — To twirl on the end of a string.
@@ -37887,14 +37966,15 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **魄** phek (711|194|5) — The animal soul, that goes earthward at death and forms the ghost; the faculties, the senses, the animal spirits.
   - *lô̤h phek* — spiritless, disheartened.
   - *kiaⁿ kàu i bô̤ hûn bô̤ phek* — frightened out of his wits.
-  - *i* — cē thóiⁿ tîeh hûn pue, phek sùaⁿ;
-  - *sam hûn chit phek* — the three souls and seven spirits of man.
+  - *i*
 <!-- page:473 -->
-- **霹靂** phek-lêk  — A sudden, loud noise.
+  - *cē thóiⁿ tîeh hûn pue, phek sùaⁿ;* — as soon as she saw it she lost all presence of mind.
+  - *sam hûn chit phek* — the three souls and seven spirits of man.
+- **霹靂** phek-lêk (694) — A sudden, loud noise.
   - *thiaⁿ-kìⁿ cêk siaⁿ phek-lék* — heard a crash.
   - *i kâi nâng phek-lêk cǎi* — he is a very boisterous person.
   - *i kai siaⁿ-âu, jû tâng phek-lêk* — his voice sounds like thunder.
-- **嗶吱** phek-ki  — Long-ells, a kind of woolen cloth.
+- **嗶吱** phek-ki (692) — Long-ells, a kind of woolen cloth.
   - *phek-ki ío phīⁿ, nî ío kùi* — long-ells is cheaper than broadcloth.
 ### pheng
 
@@ -37943,7 +38023,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ti kí kâi hó̤ phêng* — an intimate friend.
   - *cai sim kâi phêng-íu* — a companion who knows one's mind.
   - *saⁿ phêng, sì íu* — a coterie of friends.
-- **硼砂** phêng-seⁿ  — Natural borax, brought from Thibet.
+- **硼砂** phêng-seⁿ (661) — Natural borax, brought from Thibet.
 ### phi
 
 - **披** phi (678|64|5) — To open, to spread, to unroll; to break, as clouds; to uncover; to rive; to throw on, as a cloak.
@@ -38061,7 +38141,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *phīⁿ m̄ chut* — cannot discover by the sense of smell.
   - *jîeh hn̆g to phīⁿ-kìⁿ* — scents it from afar.
   - *cē phīⁿ tîeh cū hîn* — if you smell it, it will make you dizzy.
-- **貔貅** phīⁿ-hiuⁿ  — A ferocious beast fabled to devour tigers; the term is applied to a valiant general.
+- **貔貅** phīⁿ-hiuⁿ (211) — A ferocious beast fabled to devour tigers; the term is applied to a valiant general.
 - **拋** phiaⁿ (666|64|4) — To fling or throw down with force.
   - *i cē khì khîeh khí lâi cū phiaⁿ tīo* — when angry he took it up and flung it down and broke it.
   - *phiaⁿ lôh khṳ̀̀ chap-chap-chùi* — dashed it down and broke it in little pieces.
@@ -38237,9 +38317,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *phio kùe îeⁿ* — roam abroad across the seas.
 - **嫖** phîo (683|48|11) — Wanton; lewd.
   - *i kâi sĭ tōa phîo kheh* — he is one who spends much in lewdness.
-  - *i m̄ cṳ̆* — lĭang căi, to̤ bŏi thàng, īu hàuⁿ phîo;
-  - *hàuⁿ phîo* — lecherous.
+  - *i m̄ cṳ̆*
 <!-- page:478 -->
+  - *lĭang căi, to̤ bŏi thàng, īu hàuⁿ phîo;* — he lacks the power of self-restraint, earns nothing, and and follows lewd women.
+  - *hàuⁿ phîo* — lecherous.
 - **匹** phit (695|28|2) — To match, to mate, to pair; a classifier of horses, because they are so often spanned.
   - *i sĭ phit-phùe cò̤ ang cía* — they are an espoused pair.
   - *bô̤ nâng hó̤ phit-phùe* — there is no one for him to espouse.
@@ -38420,7 +38501,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thâu mô̤ⁿ li phông-song, bô̤ siu-sîp* — the hair disheveled and unkempt.
 - **棚** phông (662|75|8) — A booth.
   - *kháu phông* — temporary rooms made in examination halls, by stretching awnings over the open courts and unroofed walls.
-- **躘蹱** phŏng-pheng  — To stagger.
+- **躘蹱** phŏng-pheng (569) — To stagger.
   - *khí-thâu-ē ô̤h kîaⁿ, kîaⁿ lâi phŏng-pheng phŏng-pheng* — in beginning to learn to walk, one staggers.
   - *i sĭ cîu cùi kâi īeⁿ, kîaⁿ lō phŏng-pheng phŏng-pheng* — he staggers as if he were tipsy.
 ### ~~phó̤~~(pho̤)
@@ -38468,7 +38549,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **普** phú (716|72|8) — Universal; throughout.
   - *i khṳt i phú thien cṳ hĭa mēⁿ cêk kùe* — he was reviled by him, every ~~approbrious~~(opprobrious) term under the whole heavens being used.
 <!-- page:481 -->
-- **葡萄** phû-thô̤  — The vine; grapes.
+- **葡萄** phû-thô̤ (715) — The vine; grapes.
   - *phû-thô̤ chīu* — a grapevine.
   - *phû-thô̤ kuaⁿ* — raisins.
   - *phû-thô̤ cíu* — wine made from grapes.
@@ -38508,7 +38589,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *phû-kong-eng* — the dandelion.
   - *phû-cháu ôi* — sandals woven of flag leaves.
   - *phû-thŵn* — a hassock, or rush mat; a straw hassock covered with leaves.
-- **芙蓉** phû-îong  — A shrub, the hibiscus.
+- **芙蓉** phû-îong (144) — A shrub, the hibiscus.
   - *phû-îong hue* — hibiscus.
 - **剖** phùa (673|18|8) — To lay open.
   - *phùa khui lâi thóiⁿ* — open it out and see what is inside.
@@ -39047,7 +39128,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bói pàng kò̤, ē pùaⁿ ē hó̤ sám-kháu cē* — buy and lay it aside to take a bite of now and then.
   - *cía put kùe sĭ sám-kháu kâi mûeh-kĭaⁿ* — this is something to peck at merely, it is not a thing to satisfy one's hunger upon.
   - *cêk ē pùaⁿ ē sám-kháu cū hó̤, m̄ hó̤ cîah ke* — take a taste of it once in a while, but do not eat much of it.
-- **戲謔** sám-pêh  — To joke; to jest.
+- **戲謔** sám-pêh (180) — To joke; to jest.
   - *i tó̤ sám-pêh* — she is joking.
   - *i hàuⁿ tàⁿ sám-pêh* — he is fond of raillery.
 - **糝** sám (723|119|11) — To sprinkle with a powder.
@@ -39354,7 +39435,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *pău sèⁿ căi* — very cruel.
   - *sèⁿ un-jîu* — has a gentle disposition.
   - *bô̤ sèⁿ* — mild, amiable.
-  - *thò̤* — sèⁿ;
+  - *thò̤*
+<!-- page:492 -->
+  - *sèⁿ;* — become less testy.
   - *i hó̤ sim sèⁿ* — she is good tempered.
   - *màiⁿ jía kàu i kâi sèⁿ phû* — do not provoke him to anger.
   - *i kâi sèⁿ-thâu m̄-hó̤ căi, sèⁿ cē lâi mih mûeh m̄ kẃn* — ho has a very bad temper, and whenever it is roused lie pays no heed to anything.
@@ -39367,7 +39450,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *jĭm sèⁿ* — acts as he feels; not self-restrained.
   - *sai-sèⁿ* — selfish.
   - *sèⁿ kuai-phiah* — cross-grained.
-<!-- page:492 -->
 - **姓** sèⁿ (810|38|5) — The surname of a family or clan; a clan; one of a clan.
   - *kùi sèⁿ? kau sèⁿ?* — What is your clan name?
   - *i nŏ̤ nâng tâng sèⁿ* — they both belong to the same clan.
@@ -39529,7 +39611,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *pû khah kùe sêk* — boiled too much.
   - *káu sîa sêk cū hó̤* — to cook it till it is nearly done is enough.
   - *cṳ tîeh thâk kàu sêk-sêk* — you must learn your lessons perfectly.
-  - *sêk nâng căi* — made himself very much at home.
+  - *sêk nâng căi*
+<!-- page:494 -->
+  - *made himself very much at home.*
   - *sêk-sāi* — not at all diffident; unabashed.
   - *sêk sêk nē, màiⁿ cṳ̆-sòi* — being well acquainted, do not take thought about it.
   - *cía sĭ ún chī sêk kâi* — this is one we have tamed.
@@ -39546,7 +39630,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sêk mīn, sêk mīn* — a very familiar face.
   - *soiⁿ càⁿ sêk* — first scald it in hot water till it is done.
   - *sêk îeh phò* — a shop where prepared drugs are sold.
-<!-- page:494 -->
 ### seng
 
 - **升** seng (771|24|2) — A Chinese quart, dry or liquid; to complete or bring about; the 46th diagram denoting advancement; to advance; to rise, as in office.
@@ -40160,12 +40243,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sía m̄ lô̤h* — cannot write it.
   - *tōa-sía* — the head clerk.
   - *sía kâi*
+<!-- page:501 -->
+  - **
   - *tāi-ì* — write out a synopsis.
   - *cài sía kùe* — to rewrite.
   - *sía-cúa-khò* — copy-book.
   - *sía-kńg-kheh* — a sheet ruled in squares, used to guide a writer.
   - *pek sía kâi* — written in baste.
-<!-- page:501 -->
 - **捨** sía (748|64|8) — To relinquish; to part with; to give alms; to leave, to abandon, to renounce.
   - *sía m̄ tit* — cannot part with it.
   - *i hàuⁿ si-sía* — he is fond of alms-giving.
@@ -40596,7 +40680,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i ío ŭ sîap-lêh* — he is more conversant with it.
 ### sie
 
-- **消息** sie-sit  — News; a report; a rumor.
+- **消息** sie-sit (798) — News; a report; a rumor.
   - *thiaⁿ-kìⁿ ŭ hó̤ sie-sit* — heard good news.
   - *kìa kâi sie-sit khṳt i* — sent her a message ~~concering~~(concerning) his welfare.
   - *cìeⁿ-sî ŭ sĭm-mih sie-sit?* — What news has lately arrived?
@@ -40693,7 +40777,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sieⁿ sún* — to wound.
   - *bô̤ sieⁿ sún* — no harm done.
   - *cŭang lío sieⁿ-sún tîeh* — came in ~~colision~~(collision) and were injured thereby.
-  - *ka-lâuh lío bŏi sieⁿ* — bŏi sún;
+  - *ka-lâuh lío bŏi sieⁿ*
+<!-- page:507 -->
+  - *bŏi sún;* — was not injured at all by being dropped.
   - *líang pôiⁿ sieⁿ sí jîeh cōi nâng?* — How many were killed and wounded on each side?
   - *ngŏ nâng tăng sieⁿ, ngŏ nâng khin sieⁿ* — five were severely wounded, and five were slightly wounded.
   - *ui sieⁿ kháu* — heal the wounds.
@@ -40706,7 +40792,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cìeⁿ-seⁿ tīaⁿ-tîeh tì-kàu sieⁿ chêng sit ngĭ* — that will certainly lead to wounded feelings and loss of self-respect.
   - *têng sieⁿ têng kám* — catching another cold before recovering from the last one.
   - *sieⁿ tîeh hûa-khì* — lessen the general harmony.
-<!-- page:507 -->
 - **鑲** sieⁿ (791|167|17) — To inlay, or overlay; to veneer; to coat or plate; to clamp on; to set as a jewel; to let in; to inchase.
   - *sieⁿ kŭa po̤-lî* — to inlay with pieces of glass.
   - *sieⁿ ngṳ̂n kâi tṳ̂* — chopsticks inlaid with silver.
@@ -40772,7 +40857,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i sĭeⁿ cìeⁿ sĭeⁿ hìeⁿ* — he thought of various things.
   - *sĭeⁿ m̄ chut* — cannot think what it was.
   - *sĭeⁿ m̄ kàu* — did not think of it.
-  - *lṳ́ cò̤-nî* — sĭeⁿ?
+  - *lṳ́ cò̤-nî*
+<!-- page:508 -->
+  - *sĭeⁿ?* — What do you think about it.
   - *sṳ-sĭeⁿ tîeh i* — hold him in kind remembrance.
   - *sim sĭeⁿ* — meditate on.
   - *lṳ́ sim lăi cò̤-nî sĭeⁿ?* — What is your own idea about it?
@@ -40791,7 +40878,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *îong i sĭeⁿ* — let him think it over.
   - *i cò̤-nî cong-kú sĭeⁿ chit sĭeⁿ poih?* — Why does ho always borrow trouble about things?
   - *sĭeⁿ hùaⁿ kâi bô̤ kâi* — consider it al together impossible.
-<!-- page:508 -->
 - **尙** sīeⁿ (741|42|5) — To have the care of; to control, in which sense it occurs in official titles.
   - *lâk pŏ kâi sīeⁿ-cṳ* — the controllers of the six Boards.
   - *hûe-sĭeⁿ* — Buddhist priests.
@@ -41027,7 +41113,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *màiⁿ kio-jío i kâi sim* — do not disturb her mind.
   - *thóiⁿ tîeh kha sim ńng* — seeing it makes my legs shake under me.
   - *jû-ì li chah tŏ̤ cang sim* — set the ornament in the centre of the coiffure.
-- **媳婦** sim-pŭ  — A daughter-in-law.
+- **媳婦** sim-pŭ (804) — A daughter-in-law.
   - *chūa sim-pŭ* — bring home a wife for a son.
 - **審** sím (738|40|12) — To weigh evidence; to investigate judicially; to try cases.
   - *sím mn̄g* — a judicial inquiry.
@@ -41124,10 +41210,11 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ūe pùaⁿ sin tīaⁿ-tīaⁿ* — paint a half length portrait only.
   - *uē cn̂g sin* — draw a full length portrait.
   - *phah kàu thong sin tâk-cek o-cheⁿ* — beat him till he is bruised black and blue from head to foot.
-  - *seⁿ kàu cêk* — sin kòi;
+  - *seⁿ kàu cêk*
+<!-- page:512 -->
+  - *sin kòi;* — his whole body is covered with sores.
   - *i sin piⁿ ŭ kúi kâi lâm ńng kíaⁿ?* — How many son and daughters has she with her?
   - *ŭ sin-hūn* — is pregnant.
-<!-- page:512 -->
 - **新** sin (806|69|9) — New; just made; the latest.
   - *sin-bŭn-cúa* — a newspaper.
   - *sin nî* — the new year.
@@ -41378,7 +41465,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sio thâm* — cuts phlegm.
   - *cí sio cêk peh ngṳ̂n cū bói ŭ* — it will require only a hundred dollars to buy it.
 <!-- page:515 -->
-- **‮搜‬** sio (755|64|10) — To search a house, as policemen do; to seek for.
+- **搜** sio (755|64|10) — To search a house, as policemen do; to seek for.
   - *sio chūe m̄ tîeh* — cannot find it anywhere.
   - *hāi úa múaⁿ-tī-kò̤ sio, jw̆n sio, sio bô̤* — made me search everywhere for it, and no matter how much I searched it, it was not to be found.
   - *múaⁿ koiⁿ sio* — searched everywhere.
@@ -41443,7 +41530,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sío-khì-kúi* — a petty, spiteful person.
   - *sío-khó̤* — but a trifle.
   - *sío kù* — no great matter.
-- **羞恥** sío-lí  — Ashamed, abashed, conscious of demerit or unworthiness.
+- **羞恥** sío-lí (810) — Ashamed, abashed, conscious of demerit or unworthiness.
   - *hāi úa sío-lí căi* — made me much ashamed.
   - *cn̂g kâi m̄ pat sío-lí* — bŏi sío bŏi lí; does not feel in the least ashamed.
   - *i ùi sío-lí* — he is afraid of bringing disgrace upon himself.
@@ -41492,7 +41579,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thien sìo íⁿ tīaⁿ* — destiny is fixed.
   - *tăi sìo lâng tô̤* — destiny cannot be escaped.
   - *seⁿ sí ŭ sìo* — life and death are as fate determines.
-- **蛸蟰** sìo-cîⁿ  — The long legged spider.
+- **蛸蟰** sìo-cîⁿ (794) — The long legged spider.
   - *sìo-cîⁿ, si li ŭ si, bŏi kio ti-tu hìeⁿ-seⁿ keⁿ kâi* — the shepherd spider has a web indeed, but it is not woven like that of the house spider.
 - **肖** sĭo (795|130|3) — Like; resembling; likeness.
   - *lṳ́ thóiⁿ sĭo a m̄ sĭo* — do you think the likeness good?
@@ -41974,7 +42061,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cē thiaⁿ cū sói hĭⁿ* — after hearing it one needs wash his ears.
   - *sói tò̤* — to clean house.
   - *sói pûaⁿ-úaⁿ* — wash the dishes.
-- **‮細‬** sòi (790|120|5) — Small; petty; little; carefully.
+- **細** sòi (790|120|5) — Small; petty; little; carefully.
   - *cía sǹg sĭ soi sṳ̄* — this is small business.
   - *lṳ́ tîeh sòi sim* — you must be careful.
   - *lṳ́ īa m̄ sòi chak cū m̄ cai* — if you do not scrutinize it carefully you will not know.
@@ -42258,7 +42345,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *só̤-hùi; sṳ́-hùi* — expenditure; outlay; necessary expenses.
   - *kâi gûeh ēng só̤-hùi jîeh cōi ngṳ̂n?* — What is the outlay per month?
   - *cu bŭ kâi sṳ́-hùi lîah khĭam-khĭam* — in all departments of the business the expenses are kept as small as possible.
-- **瑣屑** só̤-siak  — Pretty; minute; annoying.
+- **瑣屑** só̤-siak (815) — Pretty; minute; annoying.
   - *i mih sṳ̄ to sĭ só̤-só̤ siak-siak* — he is very fidgety about everything.
   - *màiⁿ kòi-kà hìeⁿ só̤-siak* — do not explain the very trifling details.
 <!-- page:526 -->
@@ -42431,7 +42518,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tek sù* — the wife and the concubine.
 - **漱** sù (757|85|11) — To rinse the mouth.
   - *sù-kháu-hû* — a certain kind of mug, commonly used for rinsing the mouth.
-- **叨絮** sù-tau  — To reiterate; verbose.
+- **叨絮** sù-tau (819) — To reiterate; verbose.
   - *ūe tàⁿ lío sù-sù tau-tau, tàⁿ bŏi tit hiah* — she keeps up a perpetual clack.
 - **緒** sû (819|120|9) — The clue or end of a ball of thread or of a cocoon; the beginning; a guide to what follows; a hint.
   - *cí kĭaⁿ sṳ̄ bô̤ thâu bô̤ sû, cò̤-nî lí* — there is nothing to guide one to an understanding of what is to be done in this affair, and so how can it be managed?
@@ -42460,7 +42547,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **竪** sŭ (777|117|9) — To erect; to set up; to plant on its base.
   - *sŭ thĭo* — to rear a pillar.
   - *sŭ cêk ki kî-kuaⁿ* — set up a flag staff.
-- **失散** sua-îa  — To spill, to scatter about.
+- **失散** sua-îa (724) — To spill, to scatter about.
   - *cía bí tâng hṳ́-kò̤ sua-îa kàu cí-kò̤ lâi* — the rice has been scattered all the way from there here.
   - *put hó̤, màiⁿ sua-îa cêk koiⁿ* — take it up carefully and do not let it drop through your hands and scatter around.
   - *sua-îa ŵn khṳ̀* — all spilled oat.
@@ -42509,7 +42596,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *pêh gê sua* — the white-toothed shark.
   - *chut jîp sua* — young sharks, which are said to hide in their mother's belly.
   - *sua-hṳ̂ lêk* — a bright slate color.
-- **蜓蜻** sua-me  — The dragon-fly.
+- **蜓蜻** sua-me (993) — The dragon-fly.
   - *âng sua-me* — a bright dragon-fly.
   - *sua-me-nîe* — a small brilliant dragon-fly.
   - *toa chùi sua-me* — the big headed dragon-fly.
@@ -42585,7 +42672,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thóiⁿ suaⁿ* — to seek a good site for a grave.
   - *suaⁿ lêng* — the spurs of a mountain.
   - *suaⁿ o̤* — an inlet or cove at the base of hills.
-  - *suaⁿ phiⁿ* — thâu;
+  - *suaⁿ phiⁿ*
+<!-- page:530 -->
+  - *thâu;* — a headland.
   - *lw̆n suaⁿ* — broken highlands.
   - *suaⁿ cheng-sìu* — well defined and compact mountains.
   - *huang suaⁿ* — uninhabited mountains.
@@ -42638,7 +42727,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *suaⁿ kng-seⁿ kng-seⁿ* — barren mountains.
   - *suaⁿ cûaⁿ* — a mountain spring.
   - *suaⁿ-tàng-téng* — the apex of a hill.
-<!-- page:530 -->
 - **產** súaⁿ (14|100|6) — To produce, to breed, to bear; the increase of any thing; a birth; ~~parturiton~~(parturition); productions or resources of a country; an estate, a patrimony; a livelihood.
   - *i ŭ jîeh cōi súaⁿ-ngîap?* — How much real estate has he?
   - *châng súaⁿ* — patrimony consisting in ricefields.
@@ -42685,7 +42773,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hŏ-sùaⁿ kut, hŏ-sùaⁿ pèⁿ* — the ribs and the handle of an umbrella.
   - *hŏ-sùaⁿ sin àiⁿ pie chíⁿ-pò* — will have the umbrella covered with blue cambric.
   - *cíaⁿ-lí hŏ-sùaⁿ; siu-sîp hŏ-sùaⁿ* — repair an umbrella.
-- **‬線** sùaⁿ (801|120|9) — Thread of any kind; fine cord or lines; a clue, a trace; needlework; a way for, a chance for, a hope; a remnant or relic, like an orphan who continues a family.
+- **線** sùaⁿ (801|120|9) — Thread of any kind; fine cord or lines; a clue, a trace; needlework; a way for, a chance for, a hope; a remnant or relic, like an orphan who continues a family.
   - *si sùaⁿ* — sewing silk.
   - *thīⁿ sùaⁿ kâi* — sewed with thread.
   - *tĭu-sùaⁿ* — linen thread.
@@ -42703,7 +42791,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tâng sùaⁿ, thih sùaⁿ, ngṳ̂n sùaⁿ* — copper, iron or silver wire.
   - *cang i cò̤ sùaⁿ-so̤h* — use it as a clue.
   - *sùaⁿ pō lîh khṳ̀* — the stitches have given way.
-- **‬涎** sûaⁿ (982|85|7) — Mucous, exuded from snails.
+- **涎** sûaⁿ (982|85|7) — Mucous, exuded from snails.
   - *am-lo̤ sûaⁿ* — the mucous of snails.
   - *i cêk sin seⁿ suaⁿ* — its whole body exudes mucous.
 - **煞** suah (732|86|9) — Baleful; detrimental; to strike dead as by the sun; to injure as by malaria; to end.
@@ -42733,7 +42821,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *suah-hiah* — to lodge; to stay over night.
   - *cieh ún suah-hiah cêk meⁿ* — allow us to put up here for one night.
   - *hiah-suah tŏ̤ tì-kò̤?* — Where are your lodgings?
-- **菓檬** sūaiⁿ  — The mango.
+- **菓檬** sūaiⁿ (609) — The mango.
   - *cêk lìap sūaiⁿ* — a mango.
   - *khṳ̀ tīo sūaiⁿ hût, phau tīo sūaiⁿ phûe* — take out the stone, and shave off the rind of the mango.
 - **塑** suak (817|32|10) — To mold in clay; to model a statue.
@@ -43384,13 +43472,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bô̤ ta i ûa* — have no means of controlling him in the matter.
   - *úa bò̤ ta lṳ́ ûa* — I cannot help your doing it.
   - *táng bô̤ cûn, bô̤ ta ûa cìaⁿ tńg lâi* — waited till we found out that there was no boat, and then, being unable to do otherwise, we came back.
-- **玳瑁** ta-pūe  — Tortoise or turtle shell, especially the precious sort from the hawk's bill tortoise; marbled or clouded tortoise shell.
+- **玳瑁** ta-pūe (586) — Tortoise or turtle shell, especially the precious sort from the hawk's bill tortoise; marbled or clouded tortoise shell.
   - *úa kâi mâk-kìaⁿ sĭ ta-pūe khuang* — my spectacles have rims of marbled tortoise shell.
   - *sieⁿ ta-pūe* — encased in clouded tortoise shell.
-- **阿姑** ta-ke  — A husband's mother.
+- **阿姑** ta-ke (432) — A husband's mother.
   - *ta-ke ta-kuaⁿ lóng-cóng tŏ̤* — her husband's father and mother are both living.
   - *ău ta-ke* — husband's step mother.
-- **阿舅** ta-kuaⁿ  — A husband's father.
+- **阿舅** ta-kuaⁿ (414) — A husband's father.
   - *ta-ke ta-kuaⁿ lóng-cóng tŏ̤ tn̂g* — her husband's parents are both alive.
   - *hṳ́ lăi hŵn-lío chûn kâi lău ta-kuaⁿ tŏ̤-kò̤* — my old father-in-law is still alive.
   - *ta ke kuaⁿ* — husband's parents.
@@ -43580,7 +43668,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *àiⁿ kìa-tah khah cōi mûeh, úa cū bŏi khîeh* — if you have many things to send, I shall not be able to take them.
   - *i tah úa khîeh lâi hâiⁿ lṳ́* — he gave it to me to bring back to you.
   - *cí kâi nâng hó̤ siang-sìn, úa kâi cîⁿ ngṳ̂n to sĭ kìa-tah* — this person is trustworthy, and I send my money by him.
-- **褡褳** tah-lîen  — A purse shaped bag, with a slit in one side, used for carrying articles when travelling; it is slung orver the shoulder, with its contents in the two ends.
+- **褡褳** tah-lîen (841) — A purse shaped bag, with a slit in one side, used for carrying articles when travelling; it is slung orver the shoulder, with its contents in the two ends.
   - *pì tah-lîen* — carry a bag.
   - *cang tah-lîen cò̤ hêng-lí, mih mûeh khǹg tŏ̤ tah-lîen tói* — use a bag as a case for carrying luggage, and put all your things into it.
 - **劄** tah (841|18|10) — A tenter hook; to hang on a hook; to hook on.
@@ -43675,7 +43763,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cûn tăi* — the helm.
 ### tak
 
-- **遭塌** tak-n̄ng  — To waste; to misuse.
+- **遭塌** tak-n̄ng (952) — To waste; to misuse.
   - *tak-n̄ng căi* — very wasteful.
   - *mài tak-n̄ng tīo mûeh* — do not waste things.
   - *tak-n̄ng sî-hāu* — waste the time.
@@ -43768,10 +43856,11 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **蘸** tàm (12|140|19) — To dip and wet, as a pen in ink.
   - *bâk cúi màiⁿ tàm khah lông* — do not take to much ink in your pen.
   - *pit tîeh lêng-ūaⁿ tàm ke cêk ē bâk* — you must dip your pen in the ink once more.
-  - *cúa khin-khin lô̤h khṳ̀ tàm cē* — cū hó̤;
-  - *mīn-pò khîeh lô̤h cúi tèng tàm i tâm* — dip the towel in water and dampen it.
+  - *cúa khin-khin lô̤h khṳ̀ tàm cē*
 <!-- page:546 -->
-- **腫脹** tàm-tè  — To swell slightly; puffy.
+  - *cū hó̤;* — to dip the paper very gently in and wet it through will suffice.
+  - *mīn-pò khîeh lô̤h cúi tèng tàm i tâm* — dip the towel in water and dampen it.
+- **腫脹** tàm-tè (107) — To swell slightly; puffy.
   - *i kâi mīn cò̤ ŏi tàm-tè tàm-tè?* — Why is her face so puffy?
   - *lîen phiaⁿ-lî múaⁿ-tī-kò̤ ŏi tàm-tè* — his whole trunk is puffy.
 - **啖** tăm (853|30|8) — To swallow in morsels; to eat slowly; to suck upon.
@@ -43843,7 +43932,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sien-tang* — the liquor of immortality of the rationalists.
   - *i tàⁿ ūe ŭ tang châng lâk* — he speaks with the utmost sincerity.
 <!-- page:547 -->
-- **厠坑** tang-si  — A privy.
+- **厠坑** tang-si (1035) — A privy.
   - *i khṳ̀ cĭeⁿ tang-si* — he has gone to the privy.
 - **任** táng (289|9|4) — Howsoever; whatsoever; whosoever.
   - *táng lṳ́ tī-tîang tàⁿ, úa to m̄ hàuⁿ* — no matter who asks me, I shall not consent.
@@ -44002,7 +44091,9 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **重** tăng (108|166|2) — Heavy; momentous; grave.
   - *ŏi tăng a bŏi?* — Is it heavy?
   - *bŏi tăng* — it is not very heavy.
-  - *ŏi khin ŏi* — tăng;
+  - *ŏi khin ŏi*
+<!-- page:549 -->
+  - *tăng;* — sometimes light and sometimes heavy.
   - *tăng căi* — very heavy.
   - *ŏi jîeh tăng?* — How heavy is it?
   - *saⁿ kṳn tăng* — three catties in weight.
@@ -44045,7 +44136,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tăng ceh* — severe punishment.
   - *cok tăng* — full weight.
   - *tăng chìn* — more to the pound.
-<!-- page:549 -->
 - **蕩** tăng (859|140|12) — To waste; to subvert; vast; vagrant, unsettled; dissipated.
   - *khuang ke tăng súaⁿ* — ruin the family and squander the estate.
   - *i kâi cò̤ sṳ̄ hùang-hùang tăng-tăng* — his behaviour is most reckless, unmannerly and lawless.
@@ -44561,7 +44651,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **癥** teng (75|104|15) — A swelling or hardness of the abdomen, supposed to proceed from calculi or derangement of the viscera.
   - *cía pēⁿ sĭ teng-kíaⁿ a sĭ thâm-kak?* — Is this biliary calculus, or obstructions in the colon?
   - *i kâi ngio seⁿ ngio-teng* — their cat has cat-distemper.
-- **叮嚀** teng-lêng  — To reiterate orders.
+- **叮嚀** teng-lêng (637) — To reiterate orders.
   - *úa có̤-nî teng-lêng cok-hù lṳ́* — how many times have I enjoined it upon you.
   - *lṳ́ tîeh cài-saⁿ teng-lêng i* — you must repeatedly and straightly charge him.
   - *úa cò̤-nî câp teng-lêng poih teng-lêng, i to m̄ thiaⁿ* — however much I enjoin it upon him, he pays no heed to my orders.
@@ -44598,7 +44688,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cáu bé teng* — a toy in which the shadows of revolving puppets are cast on a screen.
   - *khóng-mêng teng* — a toy balloon with a lamp in it.
   - *huang teng* — hun teng; an opium lamp.
-  - *sîn* — teng;
+  - *sîn*
+<!-- page:556 -->
+  - *teng;* — a lamp burned before the gods.
   - *teng cúaⁿ* — oil-cup of a lamp.
   - *teng thie* — a pick used in raising the wick in a lamp.
   - *teng sim* — lamp-wick.
@@ -44608,7 +44700,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí ki teng sĭ tîam tān-îu a sĭ tíam húe-îu?* — Do you burn pea-nut oil or kerosene in this lamp?
   - *cá cai teng sĭ húe, pn̄g sêk íⁿ to̤ sî* — if I had known in the beginning that the lamp was fire the rice would have been cooked long ago.
   - *teng kîu* — a lamp globe.
-<!-- page:556 -->
 - **頂** téng (904|181|2) — The top, peak or summit; the crown; a knob or button, adopted by the Manchus, and worn on official caps to indicate rank; a classifier of hats, caps, sedans, and state umbrellas; superior, a form of the superlative; to substitute; to put instead.
   - *suaⁿ téng thâu* — the summit of a mountain.
   - *thâu-khak-téng* — the top of the head.
@@ -44751,7 +44842,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *peh-sèⁿ khṳ̀ kìⁿ kuaⁿ sĭ cheng ka-kī cò̤ "síe ti"* — common people who go before a magistrate speak of themselves as "humble selves." cí khí sṳ̄ sĭ ŭ ti; this is something that really happens.
   - *sĭ ti* — what is really so; just that.
   - *sĭ ti pĭen sĭ, hui ti pĭen hui, bô̤ thèng tàⁿ* — what is so state as being so, and what is not so state as not being so, and do not talk at random.
-- **蜘蛛** ti-tu  — A spider.
+- **蜘蛛** ti-tu (53) — A spider.
   - *ti-tu keⁿ si* — the spider makes a web.
   - *ti-tu tūi si* — the spider lets himself down on a thread.
   - *ēng ti-tu tūi si, tūi lô̤h lâi* — came down by a rope.
@@ -44764,7 +44855,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ti thâu sòi sĭeⁿ* — hang the head and ponder.
   - *àiⁿ cū lâi kìⁿ cē kau-ti ce* — if you like, let us see who is tallest.
   - *kau ti* — lofty and lowly.
-- **喇叭** ti-tâ  — A trumpet.
+- **喇叭** ti-tâ (498) — A trumpet.
   - *pun ti-tâ* — blow a trumpet.
   - *chìe ti-tâ khek* — play on a bugle.
 - **氐** ti (878|83|1) — The third zodiacal constellation.
@@ -44886,7 +44977,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kîp tĭ* — to get a degree.
   - *i put tĭ tńg-khṳ̀* — he returned without attaining a degree.
   - *sĭ cin put tĭ, a sĭ ké put tĭ?* — Did he really fail to graduate higher, or is he concealing the fact of his promotion?
-- **蝌蚪** tī-gû  — A tadpole.
+- **蝌蚪** tī-gû (424) — A tadpole.
   - *tī gû cêk mêⁿ āiⁿ-āiⁿ-kìe* — the tadpoles squeaked all night.
 - **何** tī (215|9|5) — What; an interrogative; whatever.
   - *tī-tîang?* — Who?
@@ -45194,8 +45285,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *poiⁿ tíam* — spotted.
   - *hi-tíam hi-tíam* — slightly flecked.
   - *buah hún, tíam in-nî* — pat on powder and rouge.
-  - *khîeh khṳ̀ phah-siah-phò* — tíam i màiⁿ lāu;
+  - *khîeh khṳ̀ phah-siah-phò*
 <!-- page:564 -->
+  - *tíam i màiⁿ lāu;* — take it to the shop where pewter ware is made, and get a drop of pewter dropped on it, to stop the leak.
 - **店** tìam (895|53|5) — A shop, stand, inn, or tavern.
   - *nín kâi pó̤ tìam tŏ̤ tī-kò̤?* — Where is your stand?
   - *cí koiⁿ sĭ kheh-tìam, hṳ́ koiⁿ sĭ mêⁿ-tìam* — this is an eating-house, and that a lodging-house.
@@ -45519,14 +45611,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *săi tih* — the persistent calyx of a persimmon.
   - *hue tih* — the stem of the flower.
   - *kaⁿ tih* — the stem of the orange.
-- **詬誶** tîh-tûh  — To scold; to rail at.
+- **詬誶** tîh-tûh (828) — To scold; to rail at.
   - *tîh-tûh-kìe* — the sound of voices in angry talk.
   - *i nŏ̤ nâng tâng-cá tîh-tûh-kìe kâi ŭi mih sṳ̄?* — What was it that those two were abusing each other about a little while ago?
   - *tàⁿ ūe m̄ tàⁿ hó̤-hó̤, cò̤-nî tàⁿ kàu tîh-tîh-tûh-tûh* — in speaking why not speak pleasantly, rather than rave and scold.
 - **噂** tîh (1019|30|12)
   - *tîh-tîh-tâp-tâp* — conversing amicably without real friendship; talking agreeably.
-  - *tàⁿ cêk kùa tîh-tîh-tâp-tâp* — tâp-tâp, tàⁿ bŏi tit ŵn;
+  - *tàⁿ cêk kùa tîh-tîh-tâp-tâp*
 <!-- page:568 -->
+  - *tâp-tâp, tàⁿ bŏi tit ŵn;* — chatted a whole half-day as fast as possible, and could not say half they wished to.
 - **碟** tîh (891|112|9) — A small plate or saucer.
   - *úaⁿ tîh khîeh khṳ̀ sói* — go and wash the dishes.
   - *sī-îu tîh* — a dish to hold soy.
@@ -45765,11 +45858,12 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **拋** tīo (666|64|4) — To toss; to fling.
   - *tīo khí khṳ̀ khṳt i cih* — toss it up and let him catch it.
   - *tīo cĭeⁿ lâu-téng* — toss it into the upper storey.
-  - *tīo m̄ khui* — cannot toss it off.
+  - *tīo m̄ khui*
+<!-- page:571 -->
+  - *cannot toss it off.*
   - *tīo ŭ lâk cìaⁿ tīo tit khui* — fling it with force and then you can fling it off.
   - *úa tīo, lṳ́ sah* — I will throw it, and you catch it.
   - *tīo kùe chîeⁿ* — flung it over the wall.
-<!-- page:571 -->
 - **投** tīo (876|64|4) — To cast away; to throw away as useless.
   - *tīo lô̤h hái* — cast it into the sea.
   - *khṳt i tīo tŏ̤ céⁿ tói khṳ̀ lío* — it has been thrown into the tank by him.
@@ -45968,7 +46062,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kui tńg i ka-kī* — it reverts to himself.
   - *bŏi tit tńg lâi* — cannot return.
   - *kŭa nâng cò̤-pû tńg* — join others in returning.
-- **回** tńg  — Times; to turn back.
+- **回** tńg (26131) — Times; to turn back.
   - *cêk tńg nŏ tńg* — once or twice.
   - *khṳ̀ kuí tńg* — went several times.
   - *tńg-tńg lâi lṳ́ kò̤* — came where you were repeatedly.
@@ -46234,7 +46328,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tng tô pâng* — act as cook for an official.
   - *kẃn tô* — head butler.
   - *kuaⁿ gê lăi kâi kìe-cò̤ to-pâng, cíu-kẃn kâi kìe-cò̤ tô-cí, hâng-phò kẃn-thâu ēng kâi, kìe cò̤ húe-thâu* — cooks have three different appellations, according as they are employed in a yamun, a restaurant, or in a private house.
-- **螻蛄** tŏ-kâu  — The mole cricket.
+- **螻蛄** tŏ-kâu (431) — The mole cricket.
   - *tŏ-kâu m̄ cîah khang kháu cháu* — the mole cricket does not eat the grass at the entrance to his own burrow.
   - *cù tŏ-kâu* — drive out mole crickets by leading water into their holes.
   - *i sĭeⁿ khí lâi cē bô̤ cì, cū khṳ̀ phàu tŏ-kâu* — he could not come to any fixed purpose by thinking, and so went and hung himself.
@@ -46561,7 +46655,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bô̤ mûeh hó̤ tói i* — have nothing to oppose to its onset.
   - *tîn-pâi li hó̤ tói, to̤ li hó tok* — ward off with the shield, and hack with the sword.
 - **蹄** tôi (883|157|9) — A hoof, solid or cleft.
-  - *b2 tôi, tṳ tôi* — the hoofs of horses and of swine.
+  - *bé tôi, tṳ tôi* — the hoofs of horses and of swine.
   - *cò̤ sang thih-ôi pâk pàng bé tôi kò̤* — make a pair of iron shoes and fasten them on the horse's hoof.
   - *ah tôi kha* — splay-footed.
   - *îeⁿ-tôi cháu* — the dock, used as a vermifuge.
@@ -46820,12 +46914,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i sĭ lâi tó̤ îo-tŏng kun sim kâi* — he is here disturbing the minds of the soldiers.
   - *kîaⁿ tŏng kâi khẃn tîeh ô̤h hó̤ cē* — must learn how to move about properly.
   - *i kâi kṳ́-tŏng kui-kui kṳ́-kṳ́* — his behaviour is very respectful.
-  - *cêk kṳ́ cêk tŏng to bô̤ thèng* — cò̤;
+  - *cêk kṳ́ cêk tŏng to bô̤ thèng*
+<!-- page:584 -->
+  - *cò̤;* — makes no random movements.
   - *i tŏng put tŏng cū seⁿ-khì* — he gets angry at the least cause.
   - *m̄ káⁿ kiaⁿ tŏng lṳ́* — I feat that I am disturbing you.
   - *bô̤ tŏng nâng cêk cháu cêk bâk* — did not take a spear of grass nor a stick of wood from anybody.
   - *tī-tiang-sî tŏng thó?* — When are you to commence building?
-<!-- page:584 -->
 - **重** tŏng (108|166|2) — To consider as important.
   - *cṳ̆-tŏng* — self-respect.
   - *i cò̤ sṳ̄ to m̄ cṳ̆ tŏng* — he does things ~~is~~(in) a way that reflects no credit on himself.
@@ -46900,7 +46995,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tín-tó̤ khùn-kíaⁿ-ni* — lie down and rest a little while.
   - *lô̤h khṳ̀ tó̤* — take a rest lying down.
   - *liêk căi, tîeh lâi tó̤ siap-sî* — very weary, and must lie down a few moments.
-- **在彼** tó̤  — A contraction of tŏ̤ hṳ́ kò̤ or tŏ̤ cí kò̤. It gives the accompanying verb a participial form.
+- **在彼** tó̤ (941) — A contraction of tŏ̤ hṳ́ kò̤ or tŏ̤ cí kò̤. It gives the accompanying verb a participial form.
   - *i tó̤ ciu* — she is making her toilet.
   - *i tó̤ cáu* — he is running away.
   - *i tó̤ ût* — he is lying down.
@@ -46929,7 +47024,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lîah-tó̤ cū phah* — seized, threw down, and beat.
   - *hì-pêⁿ tó̤ lío tăⁿ sieⁿ nŏ̤ nâng* — the stage fell and injured two ~~persous~~(persons) by crushing them.
 <!-- page:585 -->
-- **屋地** tò̤  — The ground which forms the floor of a house.
+- **屋地** tò̤ (879) — The ground which forms the floor of a house.
   - *sàu tò̤* — sweep the floor.
   - *sie lûn sàu tò̤* — take turns in cleaning the floor.
 - **得** tò̤ (872|60|8) — Can; may; able to do.
@@ -47094,7 +47189,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lâi ŭ kúi choiⁿ tō̤ bí* — several thousand bags of rice have arrived.
   - *ēng chûn pùaⁿ tō̤* — have half a bag of it remaining.
   - *cháu-tō̤* — gunny bags.
-- **代** tō̤  — A generation; a reign.
+- **代** tō̤ (845) — A generation; a reign.
   - *nî tō̤ kú-ẃn* — endures forever.
   - *ngŏ tō̤ tâng tn̂g* — five generations living at one time.
   - *nín tâng sí-có kàu taⁿ jîeh cōi tō̤?* — How many generations have there been between the founter of your family and yourselves?
@@ -47419,7 +47514,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lîet cêk tūi cêk tūi* — ranged in squads.
   - *àiⁿ pun cò̤ kúi tūi?* — How many squads will they be divided into?
   - *kak kui tūi-ngó* — each returned to his own file.
-  - *3aⁿ cē àiⁿ chut tūi* — a little later they will go forth to engage the foe.
+  - *ùaⁿ cē àiⁿ chut tūi* — a little later they will go forth to engage the foe.
   - *cí tūi ke nâng, hṳ́ tūi cíe nâng* — there are more in this company than in that.
   - *cang cía cò̤ thâu tūi* — make this the leading detatchment.
   - *i tó̤ khîa cóng-tūi-kî* — he is the standard-bearer of the corps.
@@ -47436,7 +47531,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sua tun* — a sand heap.
   - *cí-hûe kâi bí hó̤ tun* — the rice is now fit for storing.
   - *i cîeⁿ tńg tun bí cìaⁿ thàng tîeh* — he made a profit, the last time, on the rice that he stored up.
-  - *c5k tōa tun thùaⁿ* — a great pile of coal.
+  - *cêk tōa tun thùaⁿ* — a great pile of coal.
   - *tun châ* — pile up wood.
   - *nâng-mûeh tun kàu cōi-cōi* — there is a great crowd of people there.
   - *tun lío ŏi sîh kṳn-níe a bŏi?* — Does it lose in weight by being stored up?
@@ -47474,7 +47569,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hìeⁿ pôiⁿ kâi tùi cē ceng, cìeⁿ pôiⁿ kâi tī tū ŏi tùn* — when the pounder comes down on the other side, the ground on this side trembles.
   - *i cē tó̤ tâh pō, cí lîn-kṳ̆n chù kâi tī cū lóng-cóng ŏi tùn* — when he steps, the floors of the neighboring houses all shake.
 - **摧** tùn (1017|64|11) — To jerk; to pull at violently.
-  - *tùn t6ng* — broke by jerking.
+  - *tùn tn̆g* — broke by jerking.
   - *tùn m̄ tn̆g* — cannot jerk it apart.
   - *cûn-thâu-so̤h khṳt huang-éng tùng tn̆g khṳ̀* — the rope by which the boat is made fast, has been broken by the storm.
   - *kŭa thih so̤h īa khṳt i tùn tn̆g khṳ̀* — even iron chains were broken by him.
@@ -47760,10 +47855,11 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *kàu i sĭeⁿ hùe le thài chî ló* — when he had repented it was too late.
   - *cí kâi li thài kùe, cí kâi li put kîp* — the one is too much by far, and the other is not sufficient.
   - *kuaⁿ-hú kâi jī-nâng saⁿ-nâng*
+<!-- page:596 -->
+  - **
   - *nâng cheng-hu i cò̤ î-thài* — the second and third wives of officers are addressed as Madame.
   - *thài kong, thài phûa* — lău thài îa, thài má; are appelations of the parents of men of repute.
   - *thài sĭang láu kun* — an honorable name for the founder of Tauism.
-<!-- page:596 -->
 - **抬** thâ (848|64|5) — To carry between two or more persons on a pole; to put forward.
   - *poih thâi kīe* — a sedan with eight bearers.
   - *cò̤ kàu poih-thâi* — promoted to an office which permits one to be carried by eight chair-bearers.
@@ -47961,11 +48057,12 @@ The number of the radical, the radical, its contracted form, the page on which i
 
 - **攤** thang (854|64|19) — To apportion uniformly; to allot equally; to rate; to share.
   - *cùaⁿ nâng lâi thang phài* — each pays an equal share.
-  - *kâi nâng thang khí lâi ēng jîeh cōi* — cîⁿ?
+  - *kâi nâng thang khí lâi ēng jîeh cōi*
+<!-- page:599 -->
+  - *cîⁿ?* — What is the amount to be paid by each as his share?
   - *àiⁿ cò̤ jîeh cōi hun thang?* — Into how mnay shares is it to be apportioned?
   - *thang pô̤h-pô̤h, màiⁿ thang khah kău* — spread it thin, do not spread it too thick.
   - *ko̤-îeh tîeh thang câu-câu* — the ointment must be spread evenly.
-<!-- page:599 -->
 - **好** thang (171|83|3) — The wherewithal; the means wherewith.
   - *i to ŭ thang cîah, ŭ thang chēng* — she has enough to eat and to wear.
   - *bô̤ thang hâiⁿ i* — have not the wherewithal to pay him.
@@ -48027,9 +48124,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thâng lâi cṳ mûeh* — a thing which came unexpectedly to hand.
   - *thek-tháng* — unusual; distinguished.
   - *i cŏ̤ pàng ko̤ thóiⁿ tîeh lêng-gūa*
+<!-- page:600 -->
+  - **
   - *thek-tháng* — as he sat there one could at once see that he was some extraordinary person.
   - *i khĭa pàng kò̤ thó̤iⁿ-tîeh thek-thek tháng-tháng, pât nâng khĭa pàng kò̤ thóiⁿ tîeh sô̤-sô̤ sôk-sôh* — as he stood there he appeared very distinguished, while other people looked very common.
-<!-- page:600 -->
 - **躺** tháng (862|158|8) — To lie stretched out; to lie down; to sprawl.
   - *lôh khṳ̀ tháng cē* — lie down for a while.
   - *lô̤h khṳ̀ khàng-chn̂g tháng khùn-kíaⁿ-ni, cêk sin ío su-hu* — lie dowon on the divan a little while, and you will feel less fatigued.
@@ -48331,7 +48429,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *theⁿ lâi* — pole it nearer.
 - **撑** thèⁿ (30|64|12) — To prop up with a stick; to shore up; to fasten open, as with a stretcher.
   - *theng thèⁿ kûiⁿ cē* — prop up the shutter a little higher.
-  - *cía tîeh kìe kâi a-ói al5i thèⁿ* — must call a dwarf to prop it on.
+  - *cía tîeh kìe kâi a-ói lâi thèⁿ* — must call a dwarf to prop it on.
   - *saⁿ hó̤ thèⁿ pàng hṳ́ kháu khṳt i phâk jît* — hang the jacket out on a propped pole and let it sun.
   - *khîa ki sam lâi thèⁿ cía bŏi tó̤* — bring a stick of timber and prop it up, then it will not fall.
   - *thèⁿ m̄ phû* — it will not stay up when braced.
@@ -48396,7 +48494,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *im-thek bûu* — exhortations to benevolence.
 - **禿** thek (923|115|2) — Hairless; bald.
   - *thek lṳ̂* — a hairless mule, a term of contempt for a Buddhist priest.
-- **倜儻** thek-tháng  — A law to one's self; worth of promotion.
+- **倜儻** thek-tháng (903) — A law to one's self; worth of promotion.
   - *pí pât nâng lêng-gūa thek-tháng* — has a more distinguished appearance than other people.
 ### theng
 
@@ -48454,10 +48552,11 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **逞** théng (80|162|7) — To act with effrontery; presuming; forward; relying on one's pretensions or power.
   - *théng kong lêng* — confident of one's own abilities; overweening.
   - *i to sĭ tó̤ théng kong lêng* — he is always putting himself forward.
-  - *mih sṳ̄* — théng kong sueh lêng;
+  - *mih sṳ̄*
+<!-- page:606 -->
+  - *théng kong sueh lêng;* — thrusts himself forward in a pretentious way on all occasions.
   - *i to sĭ théng ui-sì khṳ̀ khi-iap nâng* — he relies on his pretensions and power to browbeat people.
   - *i cìeⁿ-seⁿ sĭ tó̤ théng kè-sì* — in so doing he is putting on airs in order to intimidate.
-<!-- page:606 -->
 - **聽** thèng (906|128|16) — To accord, to wait for, to tarry, and often answers according to, as, let.
   - *thèng khî cṳ̆-jîen, maìⁿ míen-kíang i* — let it take its natural course; wait till it comes about of itself; do not force it at all.
   - *thèng thiⁿ îu mīaⁿ* — just as heaven decrees.
@@ -48488,7 +48587,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *saⁿ thêng to phùe-kah tit kùe* — the upper, middle, and lower portions of his profile are suited to each other; his features are well proportioned.
   - *kut nêk thêng-ûn* — his bones and his flesh are well proportioned, neither being too great for the other.
   - *thìaⁿ khṳ̀ cí hûe ío thêng tīam cē, bô̤ hìeⁿ thìaⁿ* — the pain is just now ceasing, and it does not ache badly.
-- **葶藶** thêng-lêk  — A plant like cress, said to intoxicate or kill fish; the reddish, mucilaginous seeds are used to relieve asthma and hoarseness.
+- **葶藶** thêng-lêk (537) — A plant like cress, said to intoxicate or kill fish; the reddish, mucilaginous seeds are used to relieve asthma and hoarseness.
 - **澄** thêng (78|85|12) — Clear; limpid; still; pure.
   - *cía cúi ŏi thêng-cheng a bŏi?* — Is this water clear?
   - *n̂g-hô̤ sĭang ŭ thêng-cheng jît, nâng seⁿ khá bô̤ tit ūn sî* — the Yellow River has days when it is limpid, and how can a lifetime be without seasons of luck.
@@ -48582,12 +48681,13 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thì-nĭ* — bigoted; set in one's way; opinionated.
 - **搋** thì (112|64|10) — To pick in pieces with the hands.
   - *thì cò̤ nŏ̤ pôiⁿ* — pull it apart.
-  - *cêk hah cêk hah* — thì chut lâi;
+  - *cêk hah cêk hah*
+<!-- page:608 -->
+  - *thì chut lâi;* — pick it apart section by section.
   - *thì ho̤h cōi têng lâi* — have taken off ever so many layers.
   - *àiⁿ thì, thì m̄ chut* — would pick it off but am unable.
   - *thì cêk si cêk si* — pick it into shreds.
   - *thì cêk phìen cêk phìen* — separate it into flakes.
-<!-- page:608 -->
 - **褫** thì (65|145|10) — To take away official insignia.
   - *i kâi kuaⁿ sĭ iⁿ-keng thì-keh kâi* — his office is already taken from him.
   - *kuaⁿ ŏi thì lĭ a bŏi?* — Is he deprived of all official rank?
@@ -48656,7 +48756,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thiⁿ-sî hó̤, ŭ nŏ̤ saⁿ thiⁿ cū hó̤ kàu* — if the weather is favorable, we may arrived there in two or three days.
   - *thiⁿ thī nâng kìe-cò̤ sam châi* — heaven earth and man are called the three great powers.
   - *hek thiⁿ* — dark days.
-  - *thiⁿ só̤ khàm,* — tī só̤ cài;
+  - *thiⁿ só̤ khàm,*
+<!-- page:609 -->
+  - *tī só̤ cài;* — whatever heaven covers, or earth sustains.
   - *thiⁿ sîn* — among the Buddhists used for gods, or inhabitants of the Brahma-lokas.
   - *cì thiⁿ* — cí tī; offer sacrifice to the heavens and the earth.
   - *thong-thiⁿ-ĕ ŭ jîeh cōi kok?* — How many kingdoms are there under the whole heavens?
@@ -48672,7 +48774,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chun-thiⁿ, chiu-thiⁿ* — spring and autumn.
   - *tng-thiⁿtáu-cok* — pray under the open sky.
   - *thiⁿ teng* — lanterns hung aloft above roofs.
-<!-- page:609 -->
 - **體** thiⁿ (884|188|13) — Respectable; influential; decorous; becoming; befitting.
   - *tōa thiⁿ tōa mīn kâi nâng* — a very estimable person.
   - *cìeⁿ-seⁿ ío ŭ thiⁿ-mīn* — that is more respectable.
@@ -49111,7 +49212,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hut-jîen kâi kha chíu thiu-thiok* — suddently taken with cramp in the limbs.
 ### thit
 
-- **遊玩** thit-thô̤  — To roam for amusement or information; to saunter idly; to amuse one's self; to take recreation.
+- **遊玩** thit-thô̤ (1112) — To roam for amusement or information; to saunter idly; to amuse one's self; to take recreation.
   - *àiⁿ khṳ̀ thit-thô̤* — will go out for a walk.
   - *i thit-thô̤ kàu ùi* — he has rambled about till he is sick of it.
   - *pun a-noⁿ-kíaⁿ hùe thit-thOô* — give it to the children to play with.
@@ -49159,7 +49260,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *thíu-kieh* — the merry-andrews in a play.
   - *i tó̤ cò̤ thíu* — he acts the part of buffoon.
   - *koi put lî thíu* — the fowls will always crow in the fourth watch.
-- **躊躇** thîu-thû  — Irresolute; undecided; unable to get on.
+- **躊躇** thîu-thû (51) — Irresolute; undecided; unable to get on.
   - *i hŵn-lío thîu-thû, m̄ cêk-kwt* — he is still wavering and uncertain.
   - *thîu-thû ku-ā jîthŵn būe chut m̂ng* — has been able to make up his mind whether he would go during several days and has not yet started.
   - *i cò̤-nî cêk lō thîu-thû kàu cièⁿ kú hŵn būe lâi?* — How is it that he has delayed on the road so long and has not yet arrived?
@@ -49181,14 +49282,15 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *íe thng* — dip out soup.
   - *ngâu thng; pû thng; cṳ́ thng* — make soup.
   - *tè tīo thng* — drain off the gravy.
-  - *chwn thng* — make broth.
+  - *chwn thng*
+<!-- page:616 -->
+  - *make broth.*
   - *lâm tìeh thng* — pour the gravy over it.
   - *thng khah cíaⁿ* — the soup is too fresh.
   - *lâm cho̤h ngîam-thng lô̤h khṳ̀* — pour in some "stock".
   - *khah seⁿ thng* — it is too watery.
   - *jîet kàu jû kún thng* — hot as boiling soup.
   - *thng bŏi tîam* — the soup has no strength.
-<!-- page:616 -->
 - **燙** thǹg (862|86|12) — To scald with boiling water; scalding hot.
   - *i khṳt kún cúi thǹg tîeh* — she scalded herself with boiling water.
   - *thǹg kàu kâi phă khí lâi* — scalded so that it blistered.
@@ -49436,7 +49538,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i cn̂g kâi m̄ thong chêng* — he does not at all understand the state of affairs.
   - *cí lăi tîeh khui khṳt i thong huang cē* — this must be opened to let the air in.
   - *phīⁿ sak kín, m̄ thong khí* — my nose is stopped up so that I cannot breathe through it.
-  - *cē phah ka1-thì khì cū thong* — as soon as you sneeze the passages will be opened.
+  - *cē phah ka-thì khì cū thong* — as soon as you sneeze the passages will be opened.
   - *i nŏ̤ nâng sĭ phah thong khṳ̀* — the two have an understanding with each other.
   - *àm-cĕⁿ soiⁿ thong pīn* — secretly came to an understanding with each other beforehand.
   - *úa àm-cĕⁿ thong lṳ́, lṳ́ cìaⁿ cai ṳ̆-pĭ* — I give you an inkling of it, that you may prepare for it.
@@ -49494,7 +49596,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i kâi thông-jîn en̂g kâi bū* — the pupils of his eyes have a cloudy look all over them.
   - *lêk cúi kẁn thông-jîn* — a cataract has spread over the pupil.
   - *i kâi thông-jîn pêh-bū cn̂g kâi thóiⁿ-m̄-kìⁿ* — his pupil is an opaque white, and he cannot see at all.
-- **幢幡** thông-hwn  — Streamers; pendant screens; pendant scrolls of silk before a shrine.
+- **幢幡** thông-hwn (116) — Streamers; pendant screens; pendant scrolls of silk before a shrine.
   - *cêk sang thông-hwn hĭⁿ-kau* — a pair of earrings of the scroll pattern.
 - **同** thông (933|30|3) — Alike; identical; matched.
   - *tăi thông sío ĭ* — the difference is less than the similarity.
@@ -49621,7 +49723,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *tho̤h-cío* — the ostrich, or cassowary of the Indian Archipelago.
 ### thu
 
-- **逗遛** thû-thek  — To loiter, to dawdle, to delay.
+- **逗遛** thû-thek (875) — To loiter, to dawdle, to delay.
   - *tŏ̤ lō tèng thû-thek jîeh kú, hŵn-lío kîaⁿ būe kàu* — has loitered ever so long on the way, and has not yet arrived.
   - *cí căm thû-thek kúi jît, hṳ́ căm thû-thek kúi jît* — delayed here a few days and there a few days at different stages of the journey.
 <!-- page:622 -->
@@ -49816,7 +49918,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i lún kàu cêk chùi hueh cū thun lô̤h khṳ̀* — he endured till the limit of endurance was reached.
   - *thun lío kéⁿ tŏ̤ âu-lêng* — stuck in his throat as he swalloed it.
   - *khṳt i hio-thun ŭ nŏ̤ peh ngṳ̂n khṳ̀* — lost two hundred dollars through him.
-- **迍邅** thûn-cien  — Unable to go on; baffled.
+- **迍邅** thûn-cien (103) — Unable to go on; baffled.
   - *cía sǹg sĭ i kâi mīaⁿ-ūn thûn-cien* — this is surely an adverse fate.
 - **屯** thûn (929|45|1) — The beginning of growth; to collect together; to being under one control; a place where soldiers live; a resident camp.
   - *móng kò̤ thûn ŭ piaⁿ mē?* — Are there any soldiers colonized in that place?
@@ -50092,11 +50194,12 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *uaⁿ-sim, uaⁿ-sim, míen hŵn-ló̤* — be tranquil, there is no occasion for anxiety.
   - *uaⁿ jû thài suaⁿ* — unmoved as a mountain.
   - *uaⁿ ēng cí kâi mûeh?* — How can I make use of this?
-  - *uaⁿ cai* — i bô̤ ēng?
+  - *uaⁿ cai*
+<!-- page:628 -->
+  - *i bô̤ ēng?* — How do you know it is of no use?
   - *uaⁿ cai m̄ sĭ nē?* — How do you know it is not?
   - *lṳ́ ā bô̤ úa le, uaⁿ tit cìeⁿ-seⁿ?* — Where would you have been but for me?
   - *i chông-côiⁿ ā sĭ khéng o̤h hó̤ le, kim-jît uaⁿ ŏi cìeⁿ-seⁿ?* — Had he formerly learned to do well, how could he be as he now is?
-<!-- page:628 -->
 - **鞍** uaⁿ (621|177|6) — A saddle.
   - *bé bô̤ sìa uaⁿ, nâng bô̤ sìa kah* — the horses did not have their saddles removed, nor did the men lay aside their armor.
   - *bé uaⁿ kîe khṳt í cŏ̤ tîeh khah ôih* — the saddle is too short for him to sit upon.
@@ -50283,8 +50386,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *úang-sî sĭ sĭm-mih kui-kṳ́?* — What has the usage been in the past?
   - *úang séⁿ-sîaⁿ sĭ tùi cí tîo lō* — in going to the provincial city this is the road to take.
   - *àiⁿ úang tang, a sĭ aìⁿ úang sai?* — Are you going eastward or westward?
-- **王** ûang (1043|96|0) — A king, a ruler; a title for monarchs before B.C.
-  - *220* — royal, regal, princely.
+- **王** ûang (1043|96|0) — A king, a ruler; a title for monarchs before B.C. 220
   - *kŭn ûang* — chin ûang; princes of the blood, the uncles, brothers and cousins of the emperor.
   - *kun-ûang* — a sovereign.
   - *ûang-îa* — Your Royal Highness.
@@ -50560,7 +50662,9 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ni miⁿ-miⁿ* — hemmed closely in.
   - *huang-ûi chîeⁿ* — an enclosing wall.
   - *hùaⁿ nâng ûi cò̤ cêk ûi tó̤ thóiⁿ sĭm mûeh?* — What are all those people, gathered there in a circle, looking at?
-  - *ûi* — cêk tōa khûn nâng sĭ tó̤ thóiⁿ nâng cò̤ pa-hì;
+  - *ûi*
+<!-- page:634 -->
+  - *cêk tōa khûn nâng sĭ tó̤ thóiⁿ nâng cò̤ pa-hì;* — the great crowd of people that have formed a circle there are looking at a man who is performing tricks in jugglery.
   - *têng-têng ûi-cŭ* — enclosing it circle on circle.
   - *teh ûi-kî* — play chess.
   - *sì-ciu-ûi* — all around.
@@ -50574,7 +50678,6 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ûi kok-tak* — surround with a wattling made of withes.
   - *cí gūa kháu ûi cêk în tek-lî* — put a bamboo fence around it.
   - *i khṳt i ûi-khùn tó̤ hṳ́ tói* — he is surrounded and hemmed in there by them.
-<!-- page:634 -->
 - **闈** ûi (1049|169|9) — Side doors of the palace, where candidates once underwent their examinations.
   - *kim nî sĭ tùi chun-ûi a chiu-ûi?* — Is this the year for the examination for the degree of L.L.D. at Peking, or for that of M.A. in the provinces?
   - *îaⁿ cú-kháu jîp ûi* — carry the commissioner into the hall.
@@ -50690,7 +50793,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chẁn ūi* — usurp the throne.
   - *sie ceⁿ ūi* — dispute the succession.
   - *tŏ̤ tî kâi ūi-chṳ̀?* — In what place?
-- **味道** ūi-tàu  — Savor; smack; flavor; taste.
+- **味道** ūi-tàu (1053) — Savor; smack; flavor; taste.
   - *hó̤ ūi-tàu* — luscious.
   - *hṳ́ khí kâi ūi-tàu bô̤ mih hó̤* — that sort is rather unpalatable.
 - **胃** ūi (1053|130|5) — The stomach.
@@ -50726,7 +50829,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *un kàu sí tīo ho̤h cōi nâng* — spread so that great numbers of people died of it.
   - *cí kâi tī-hng tăi un* — this region is stricken with a plague.
   - *cí kúi īeⁿ îeh ŏi tī un-mût kâi pēⁿ* — these medicines will cure epidemic diseases.
-- **我們** ún  — We, excluding the one addressed.
+- **我們** ún (627) — We, excluding the one addressed.
   - *sĭ ún kâi, m̄ sĭ nín kâi* — it is ours, not yours.
   - *ún kâi kui-kṳ́ sĭ cìeⁿ-seⁿ* — such are our customs.
   - *lṳ́ thóiⁿ ún-kâi hó̤, a in-kâi hó̤?* — Which do you think the better, theirs or ours?
@@ -51026,7 +51129,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *wn jîp káng* — turned into the canal.
   - *lṳ́ màiⁿ ut wn, tît-tît kîaⁿ* — do not turn aside, go straight on.
   - *wn-wn khek-khek* — tortuous, serpentine.
-- **鴛鴦** wn-ieⁿ  — Mandarin ducks, which are patterns of conjugal fidelity.
+- **鴛鴦** wn-ieⁿ (1132) — Mandarin ducks, which are patterns of conjugal fidelity.
   - *wn-ieⁿ cím* — a pillow for two; a double pillow used by the newly married.
   - *sìu cêk tùi wn-ieⁿ* — embroidered a pair of mandarin ducks upon it.
 - **淵** wn (1031|85|8) — An abyss.
