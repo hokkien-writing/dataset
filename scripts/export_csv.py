@@ -9,11 +9,14 @@ entries and writes them to CSV.
 
 import csv
 import importlib
+import re
 import sys
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
+
+_ILLEGIBLE_RE = re.compile(r"\[illegible[0-9]*\]", re.IGNORECASE)
 
 SOURCE_DIRS = ["books", "clippings", "lyrics"]
 PROCESSORS_DIR = PROJECT_ROOT / "scripts" / "processors"
@@ -89,6 +92,10 @@ def main():
 
             text = md_file.read_text(encoding="utf-8")
             entries = processor.extract_entries(text, source_name)
+            entries = [
+                e for e in entries
+                if not _ILLEGIBLE_RE.search(e.puj) and not _ILLEGIBLE_RE.search(e.poj)
+            ]
             entries.sort(key=lambda e: (e.puj or e.poj or "").lower())
 
             csv_path = out_dir / f"{md_file.stem}.csv"

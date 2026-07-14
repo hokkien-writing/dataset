@@ -52,6 +52,67 @@ _EN_ALLOWED = (
 )
 _EN_CHAR_RE = re.compile(f"^[{_EN_ALLOWED}]*$")
 
+_OCR_DIGIT_MAP = {
+    "0": "o", "1": "i", "2": "z", "3": "e", "4": "a",
+    "5": "s", "6": "g", "7": "t", "8": "b", "9": "q",
+}
+_PUJ_HAS_DIGIT = re.compile(r"\d")
+_PUJ_EN_LEAK = re.compile(r"^[a-z]+(?:\s+[a-z]+){2,}$", re.IGNORECASE)
+
+
+_PUJ_INVALID_CLUSTER = re.compile(
+    r"ss|bb|dd|gg|zz|jj|"
+    r"sz|sg|sj|sd|"
+    r"zs|zg|zj|zd|"
+    r"gs|gz|gj|gd|"
+    r"bs|bz|bj|bd|"
+    r"ds|dz|dj|"
+    r"tz|zt",
+    re.IGNORECASE,
+)
+
+_PUJ_ILLEGIBLE_RE = re.compile(r"\[illegible[0-9]*\]", re.IGNORECASE)
+
+
+def validate_puj(value: str) -> list[tuple[str, str, str]]:
+    if not value:
+        return []
+    results = []
+
+    for m in _PUJ_ILLEGIBLE_RE.finditer(value):
+        results.append((
+            "error",
+            "illegible",
+            f"pos {m.start()}-{m.end()}: {m.group()!r}",
+        ))
+
+    stripped = _ANNOTATION_RE.sub("", value)
+
+    for m in _PUJ_HAS_DIGIT.finditer(stripped):
+        d = m.group()
+        results.append((
+            "error",
+            "digit",
+            f"pos {m.start()}: digit {d!r}",
+        ))
+
+    for m in _PUJ_INVALID_CLUSTER.finditer(stripped):
+        cluster = m.group()
+        results.append((
+            "warning",
+            "invalid_cluster",
+            f"pos {m.start()}-{m.end()}: {cluster!r}",
+        ))
+
+    if _PUJ_EN_LEAK.match(stripped):
+        results.append((
+            "warning",
+            "en_leak",
+            f"entire value looks like English: {stripped!r}",
+        ))
+
+    return results
+
 
 def validate_han(value: str) -> list[tuple[str, str]]:
     if not value:
@@ -154,6 +215,13 @@ def main():
         help="Write output to file (default: stdout)",
     )
     parser.add_argument(
+        "--puj",
+        type=Path,
+        default=None,
+        metavar="CSV",
+        help="Check PUJ for errors (digits, English leaks) and write to CSV",
+    )
+    parser.add_argument(
         "paths",
         nargs="*",
         help="Specific file or directory to validate (relative to project root). "
@@ -166,7 +234,7 @@ def main():
     targets = [Path(p) for p in args.paths]
 
     try:
-        return _run(out, errors_only, targets)
+        return _run(out, errors_only, targets, puj_output=args.puj)
     finally:
         if out is not sys.stdout:
             out.close()
@@ -195,7 +263,7 @@ def _resolve_csv_files(targets: list[Path]) -> list[Path]:
     return resolved
 
 
-def _run(out, errors_only: bool, targets: list[Path]) -> int:
+def _run(out, errors_only: bool, targets: list[Path], puj_output: Path | None = None) -> int:
     def log(msg: str):
         print(msg, file=out)
 
@@ -213,74 +281,109 @@ def _run(out, errors_only: bool, targets: list[Path]) -> int:
     total_rows = 0
     error_kinds = Counter()
 
-    for csv_file in csv_files:
-        file_errors = 0
-        file_warnings = 0
-        file_rows = 0
-        rel = csv_file.relative_to(PROJECT_ROOT)
-        log(f"\nValidating {rel} ...")
+    puj_writer = None
+    puj_file = None
+    puj_count = 0
+    puj_rows = []
+    if puj_output:
+        puj_output.parent.mkdir(parents=True, exist_ok=True)
 
-        with open(csv_file, encoding="utf-8") as f:
-            reader = csv.DictReader(f)
-            if reader.fieldnames is None:
-                log("  SKIP: no header")
-                continue
-            for row_num, row in enumerate(reader, 2):
-                file_rows += 1
+    try:
+        for csv_file in csv_files:
+            file_errors = 0
+            file_warnings = 0
+            file_rows = 0
+            rel = csv_file.relative_to(PROJECT_ROOT)
+            log(f"\nValidating {rel} ...")
 
-                row_had_error = False
-                row_errors = []
-                row_warnings = []
+            with open(csv_file, encoding="utf-8") as f:
+                reader = csv.DictReader(f)
+                if reader.fieldnames is None:
+                    log("  SKIP: no header")
+                    continue
+                for row_num, row in enumerate(reader, 2):
+                    file_rows += 1
 
-                for check_fn, fld in [(validate_han, "han"), (validate_en, "en")]:
-                    val = row.get(fld, "")
-                    if not val:
-                        continue
-                    for level, msg in check_fn(val):
-                        if level == "error":
-                            file_errors += 1
-                            row_errors.append(f"{fld}: [{level}] {msg}")
-                        else:
-                            file_warnings += 1
-                            row_warnings.append(f"{fld}: [{level}] {msg}")
+                    row_had_error = False
+                    row_errors = []
+                    row_warnings = []
 
-                for fld, sys_name in FIELD_SYSTEM.items():
-                    val = row.get(fld, "")
-                    if not val or sys_name not in converters:
-                        continue
-                    for level, msg in validate_latn(converters[sys_name], fld, val):
-                        error_kinds[f"{fld}:{msg.split(':')[0]}"] += 1
-                        if level == "error":
-                            file_errors += 1
-                            row_errors.append(f"{fld}: [{level}] {msg}")
-                        else:
-                            file_warnings += 1
-                            row_warnings.append(f"{fld}: [{level}] {msg}")
+                    for check_fn, fld in [(validate_han, "han"), (validate_en, "en")]:
+                        val = row.get(fld, "")
+                        if not val:
+                            continue
+                        for level, msg in check_fn(val):
+                            if level == "error" and fld == "en":
+                                level = "warning"
+                            if level == "error":
+                                file_errors += 1
+                                row_errors.append(f"{fld}: [{level}] {msg}")
+                            else:
+                                file_warnings += 1
+                                row_warnings.append(f"{fld}: [{level}] {msg}")
 
-                if row_errors:
-                    row_dump = "  |  ".join(f"{k}={v}" for k, v in row.items() if v)
-                    log(f"  row {row_num}: {row_dump}")
-                    for e in row_errors:
-                        log(f"    {e}")
+                    for fld, sys_name in FIELD_SYSTEM.items():
+                        val = row.get(fld, "")
+                        if not val or sys_name not in converters:
+                            continue
+                        for level, msg in validate_latn(converters[sys_name], fld, val):
+                            error_kinds[f"{fld}:{msg.split(':')[0]}"] += 1
+                            if level == "error":
+                                file_errors += 1
+                                row_errors.append(f"{fld}: [{level}] {msg}")
+                            else:
+                                file_warnings += 1
+                                row_warnings.append(f"{fld}: [{level}] {msg}")
 
-                if not errors_only:
-                    for w in row_warnings:
-                        log(f"  row {row_num} {w}")
+                    if puj_output:
+                        puj_val = row.get("puj", "")
+                        if puj_val:
+                            han_val = row.get("han", "")
+                            en_val = row.get("en", "")
+                            page_val = row.get("page_num", "")
+                            for level, etype, detail in validate_puj(puj_val):
+                                if level == "error":
+                                    puj_rows.append((
+                                        page_val, row_num, puj_val, han_val, en_val, etype, detail,
+                                    ))
+                                puj_count += 1
 
-        log(f"  {file_rows} rows, {file_errors} errors, {file_warnings} warnings")
-        total_errors += file_errors
-        total_warnings += file_warnings
-        total_rows += file_rows
+                    if row_errors:
+                        row_dump = "  |  ".join(f"{k}={v}" for k, v in row.items() if v)
+                        log(f"  row {row_num}: {row_dump}")
+                        for e in row_errors:
+                            log(f"    {e}")
 
-    log(f"\n{'=' * 60}")
-    if error_kinds and not errors_only:
-        log("Top warning/error kinds:")
-        for kind, count in error_kinds.most_common(20):
-            log(f"  {count:6d}  {kind}")
-    log(
-        f"Total: {total_rows} rows, {total_errors} errors, "
-        f"{total_warnings} warnings across {len(csv_files)} files"
-    )
+                    if not errors_only:
+                        for w in row_warnings:
+                            log(f"  row {row_num} {w}")
+
+            log(f"  {file_rows} rows, {file_errors} errors, {file_warnings} warnings")
+            total_errors += file_errors
+            total_warnings += file_warnings
+            total_rows += file_rows
+
+        log(f"\n{'=' * 60}")
+        if error_kinds and not errors_only:
+            log("Top warning/error kinds:")
+            for kind, count in error_kinds.most_common(20):
+                log(f"  {count:6d}  {kind}")
+        log(
+            f"Total: {total_rows} rows, {total_errors} errors, "
+            f"{total_warnings} warnings across {len(csv_files)} files"
+        )
+    finally:
+        if puj_output:
+            puj_rows.sort(key=lambda r: (
+                int(r[0]) if r[0] and r[0].isdigit() else 0,
+                r[1],
+            ))
+            with open(puj_output, "w", newline="", encoding="utf-8") as puj_file:
+                puj_writer = csv.writer(puj_file)
+                puj_writer.writerow(["page_num", "row", "puj", "han", "en", "error_type", "error_detail"])
+                puj_writer.writerows(puj_rows)
+            log(f"PUJ errors written to {puj_output} ({len(puj_rows)} rows)")
+
     return 1 if total_errors > 0 else 0
 
 
