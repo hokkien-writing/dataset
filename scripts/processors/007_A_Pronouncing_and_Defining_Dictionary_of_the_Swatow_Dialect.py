@@ -2,6 +2,7 @@ from __future__ import annotations
 
 import re
 
+from scripts.latn.systems.puj import FieldePUJSystem
 from scripts.processors.base import (
     BookProcessor,
     Entry,
@@ -9,9 +10,11 @@ from scripts.processors.base import (
     generate_original,
 )
 
+_normalize_puj = FieldePUJSystem().normalize_book_text
+
 PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
-HEADWORD_RE = re.compile(r"^- \*\*(.+?)\*\*(\([^)]*\))?\s+(\S+)(?:\s*—\s*(.*))?$")
-EXAMPLE_RE = re.compile(r"^- \*(.+?)\*(?:\s*—\s*(.*))?$")
+HEADWORD_RE = re.compile(r"^- \*\*(.+?)\*\*\s+(\S+)(?:\s+\([^)]*\))?(?:\s*—\s*(.*))?$")
+EXAMPLE_RE = re.compile(r"^\s*- \*(.+?)\*(?:\s*—\s*(.*))?$")
 
 
 class Processor(BookProcessor):
@@ -33,9 +36,9 @@ class Processor(BookProcessor):
             if head_m:
                 han = self.clean(generate_modified(head_m.group(1)))
                 han_orig = self.clean(generate_original(head_m.group(1)))
-                puj = self.clean(generate_modified(head_m.group(3)))
-                puj_orig = self.clean(generate_original(head_m.group(3)))
-                en_raw = (head_m.group(4) or "").strip()
+                puj = self.clean(_normalize_puj(generate_modified(head_m.group(2))))
+                puj_orig = self.clean(generate_original(head_m.group(2)))
+                en_raw = (head_m.group(3) or "").strip()
                 en = self.clean(generate_modified(en_raw))
                 en_orig = self.clean(generate_original(en_raw))
                 current_han = han
@@ -56,15 +59,15 @@ class Processor(BookProcessor):
 
             ex_m = EXAMPLE_RE.match(stripped)
             if ex_m:
-                phrase = self.clean(generate_modified(ex_m.group(1)))
+                phrase = self.clean(_normalize_puj(generate_modified(ex_m.group(1))))
                 phrase_orig = self.clean(generate_original(ex_m.group(1)))
                 gloss_raw = (ex_m.group(2) or "").strip()
                 gloss = self.clean(generate_modified(gloss_raw))
                 gloss_orig = self.clean(generate_original(gloss_raw))
                 entries.append(
                     Entry(
-                        han=current_han,
-                        han_orig=current_han,
+                        han="",
+                        han_orig="",
                         puj=phrase,
                         puj_orig=phrase_orig,
                         en=gloss,
