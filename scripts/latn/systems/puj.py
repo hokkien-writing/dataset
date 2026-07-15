@@ -351,6 +351,123 @@ class FieldePUJSystem(PUJSystem):
         return " ".join(result)
 
 
+# ── Goddard (1883 A Chinese and English Vocabulary in the Tie-chiu Dialect) ──
+
+GODDARD_TONE_MAP: dict[str, int] = {
+    "1": 1,
+    "-1": 5,
+    "2": 2,
+    "3": 6,
+    "3-": 3,
+    "-3": 7,
+    "4": 4,
+    "-4": 8,
+}
+
+_GODDARD_VOWEL_MAP: dict[str, str] = {
+    "\u00e1": "a",   # á
+    "\u00c1": "a",   # Á
+    "\u00e0": "a",   # à
+    "\u00c0": "a",   # À
+    "\u00f3": "o",   # ó
+    "\u00d3": "o",   # Ó
+    "\u00f9": "ur",  # ù
+    "\u00d9": "ur",  # Ù
+    "\u00fa": "u",   # ú
+    "\u00da": "u",   # Ú
+    "\u00e9": "e",   # é
+    "\u00c9": "e",   # É
+    "\u00ed": "i",   # í
+    "\u00cd": "i",   # Í
+}
+
+_GODDARD_INITIALS: list[tuple[str, str | None, str]] = [
+    ("ch\u02bd", "chh", "tsh"),
+    ("ch\u02bc", "chh", "tsh"),
+    ("ch\u2019", "chh", "tsh"),
+    ("ch'", "chh", "tsh"),
+    ("ch", "ch", "ts"),
+    ("k\u02bd", None, "kh"),
+    ("k\u02bc", None, "kh"),
+    ("k\u2019", None, "kh"),
+    ("k'", None, "kh"),
+    ("k", None, "k"),
+    ("p\u02bd", None, "ph"),
+    ("p\u02bc", None, "ph"),
+    ("p\u2019", None, "ph"),
+    ("p'", None, "ph"),
+    ("p", None, "p"),
+    ("t\u02bd", None, "th"),
+    ("t\u02bc", None, "th"),
+    ("t\u2019", None, "th"),
+    ("t'", None, "th"),
+    ("t", None, "t"),
+    ("ng", None, "ng"),
+    ("b", None, "b"),
+    ("g", None, "g"),
+    ("h", None, "h"),
+    ("j", None, "j"),
+    ("l", None, "l"),
+    ("m", None, "m"),
+    ("n", None, "n"),
+    ("s", None, "s"),
+    ("z", None, "z"),
+]
+
+
+def goddard_to_keyboard(goddard_word: str, tone_str: str) -> str:
+    word = unicodedata.normalize("NFC", goddard_word).lower()
+    initial_puj = ""
+    rhyme = word
+    for g_init, i_e_map, other_map in _GODDARD_INITIALS:
+        if word.startswith(g_init):
+            after = word[len(g_init):]
+            first_vowel = _first_vowel_char(after)
+            if i_e_map is not None:
+                initial_puj = i_e_map if first_vowel in ("i", "e") else other_map
+            else:
+                initial_puj = other_map
+            rhyme = after
+            break
+    rhyme = rhyme.replace("w", "u")
+    rhyme = rhyme.replace("\u1d58", "ur")
+    nasal = "\u207f" in rhyme
+    if nasal:
+        rhyme = rhyme.replace("\u207f", "")
+    # map Goddard vowel quality chars → PUJ base vowels
+    rhyme_chars = []
+    for ch in rhyme:
+        rhyme_chars.append(_GODDARD_VOWEL_MAP.get(ch, ch))
+    rhyme = "".join(rhyme_chars)
+    # apply ṳ for "ur"
+    rhyme = rhyme.replace("ur", "\u1e73")
+    if nasal:
+        rhyme += "nn"
+    # Strip trailing h: in Goddard's orthography h can mark vowel quality,
+    # but entering tone words without p/t/k end in glottal stop (h in PUJ).
+    had_h = rhyme.endswith("h")
+    rhyme = rhyme.rstrip("h")
+    # Goddard's o at end of rhyme preceded by another vowel → ou.
+    # In PUJ io is not a valid final; it always corresponds to iou.
+    if len(rhyme) >= 2 and rhyme[-1] == "o" and rhyme[-2] in "aeiou":
+        rhyme = rhyme[:-1] + "ou"
+    tone_num = GODDARD_TONE_MAP.get(tone_str, 1)
+    # For entering tone words without p/t/k, restore h (glottal stop)
+    if tone_num in (4, 8) and not rhyme[-1:] in ("p", "t", "k"):
+        rhyme += "h"
+    return f"{initial_puj}{rhyme}{tone_num}"
+
+
+def _first_vowel_char(s: str) -> str:
+    for ch in s:
+        base = _GODDARD_VOWEL_MAP.get(ch, ch)
+        if base in "aeiou\u1e73":
+            return base
+    return ""
+
+
+# ── Module-level exports ──
+
 SYSTEM_NAME = "PUJ"
 
 _system = PUJSystem()
