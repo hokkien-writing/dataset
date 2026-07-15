@@ -435,17 +435,24 @@ def goddard_to_keyboard(goddard_word: str, tone_str: str) -> str:
     if nasal:
         rhyme = rhyme.replace("\u207f", "")
     # map Goddard vowel quality chars → PUJ base vowels
+    # Track whether the final o was accented (ó→o) or bare (o→ou).
+    had_marked_o = False
     rhyme_chars = []
     for ch in rhyme:
-        rhyme_chars.append(_GODDARD_VOWEL_MAP.get(ch, ch))
+        mapped = _GODDARD_VOWEL_MAP.get(ch, ch)
+        if mapped == "o" and ch != "o":
+            had_marked_o = True
+        rhyme_chars.append(mapped)
     rhyme = "".join(rhyme_chars)
     # apply ṳ for "ur"
     rhyme = rhyme.replace("ur", "\u1e73")
-    # Goddard's o at end of rhyme → ou (both bare o and o preceded by vowel).
-    # In PUJ io is not a valid final; it always corresponds to iou.
-    # This must happen before nasal nn appending so rhyme[-1] is still o.
-    if rhyme and rhyme[-1] == "o" and (len(rhyme) == 1 or rhyme[-2] in "aeiou"):
-        rhyme = "ou" if len(rhyme) == 1 else rhyme[:-1] + "ou"
+    # Goddard's io → iou, ao → aou, etc. (o preceded by another vowel).
+    # Bare o → ou; accented ó → o (diacritic resolves the ambiguity).
+    if rhyme and rhyme[-1] == "o":
+        if len(rhyme) >= 2 and rhyme[-2] in "aeiou":
+            rhyme = rhyme[:-1] + "ou"
+        elif len(rhyme) == 1 and not had_marked_o:
+            rhyme = "ou"
     if nasal:
         rhyme += "nn"
     # Strip trailing h: in Goddard's orthography h can mark vowel quality,
