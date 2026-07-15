@@ -358,8 +358,8 @@ GODDARD_TONE_MAP: dict[str, int] = {
     "-1": 5,
     "2": 2,
     "3": 6,
-    "3-": 3,
-    "-3": 7,
+    "3-": 7,
+    "-3": 6,
     "4": 4,
     "-4": 8,
 }
@@ -430,7 +430,7 @@ def goddard_to_keyboard(goddard_word: str, tone_str: str) -> str:
             rhyme = after
             break
     rhyme = rhyme.replace("w", "u")
-    rhyme = rhyme.replace("\u1d58", "ur")
+    rhyme = rhyme.replace("\u1d58", "")  # ᵘ marks syllabic ng, not vowel quality
     nasal = "\u207f" in rhyme
     if nasal:
         rhyme = rhyme.replace("\u207f", "")

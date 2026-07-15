@@ -58,7 +58,8 @@ class Processor(BookProcessor):
 
             section_m = _SECTION_RE.match(stripped)
             if section_m:
-                rom = section_m.group(1).strip()
+                raw_rom = section_m.group(1).strip()
+                rom = generate_modified(raw_rom)
                 current_roms = [r.strip() for r in re.split(r"\s+or\s+", rom)]
                 continue
 
