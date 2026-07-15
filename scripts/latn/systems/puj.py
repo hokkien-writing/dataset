@@ -402,6 +402,10 @@ _GODDARD_INITIALS: list[tuple[str, str | None, str]] = [
     ("t\u2019", None, "th"),
     ("t'", None, "th"),
     ("t", None, "t"),
+    ("\u02bd", None, "h"),   # ʻ → h (standalone aspiration)
+    ("\u02bc", None, "h"),  # ʼ → h
+    ("\u2019", None, "h"),  # ' → h
+    ("'", None, "h"),       # ' → h
     ("ng", None, "ng"),
     ("b", None, "b"),
     ("g", None, "g"),
@@ -430,6 +434,12 @@ def goddard_to_keyboard(goddard_word: str, tone_str: str) -> str:
             rhyme = after
             break
     rhyme = rhyme.replace("w", "u")
+    # Goddard Y at start of rhyme = vowel i. Yiak → iak, Yok → iok.
+    if rhyme.startswith("y"):
+        if len(rhyme) > 1 and rhyme[1] == "i":
+            rhyme = rhyme[1:]  # yiak → iak (y=i, i already present)
+        else:
+            rhyme = "i" + rhyme[1:]  # yok → iok
     rhyme = rhyme.replace("\u1d58", "")  # ᵘ marks syllabic ng, not vowel quality
     nasal = "\u207f" in rhyme
     if nasal:
@@ -444,8 +454,6 @@ def goddard_to_keyboard(goddard_word: str, tone_str: str) -> str:
             had_marked_o = True
         rhyme_chars.append(mapped)
     rhyme = "".join(rhyme_chars)
-    # apply ṳ for "ur"
-    rhyme = rhyme.replace("ur", "\u1e73")
     # Goddard's io → iou, ao → aou, etc. (o preceded by another vowel).
     # Bare o → ou; accented ó → o (diacritic resolves the ambiguity).
     if rhyme and rhyme[-1] == "o":
