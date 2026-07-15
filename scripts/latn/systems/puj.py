@@ -441,16 +441,17 @@ def goddard_to_keyboard(goddard_word: str, tone_str: str) -> str:
     rhyme = "".join(rhyme_chars)
     # apply ṳ for "ur"
     rhyme = rhyme.replace("ur", "\u1e73")
+    # Goddard's o at end of rhyme → ou (both bare o and o preceded by vowel).
+    # In PUJ io is not a valid final; it always corresponds to iou.
+    # This must happen before nasal nn appending so rhyme[-1] is still o.
+    if rhyme and rhyme[-1] == "o" and (len(rhyme) == 1 or rhyme[-2] in "aeiou"):
+        rhyme = "ou" if len(rhyme) == 1 else rhyme[:-1] + "ou"
     if nasal:
         rhyme += "nn"
     # Strip trailing h: in Goddard's orthography h can mark vowel quality,
     # but entering tone words without p/t/k end in glottal stop (h in PUJ).
     had_h = rhyme.endswith("h")
     rhyme = rhyme.rstrip("h")
-    # Goddard's o at end of rhyme preceded by another vowel → ou.
-    # In PUJ io is not a valid final; it always corresponds to iou.
-    if len(rhyme) >= 2 and rhyme[-1] == "o" and rhyme[-2] in "aeiou":
-        rhyme = rhyme[:-1] + "ou"
     tone_num = GODDARD_TONE_MAP.get(tone_str, 1)
     # For entering tone words without p/t/k, restore h (glottal stop)
     if tone_num in (4, 8) and not rhyme[-1:] in ("p", "t", "k"):
