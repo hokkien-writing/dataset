@@ -18,7 +18,7 @@ MOD = importlib.import_module(
 )
 OUTPUT = (
     PROJECT_ROOT
-    / "books/corrections/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.csv"
+    / "scripts/wikisource/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.csv"
 )
 
 

@@ -19,7 +19,7 @@ from scripts.wikisource.corrections import (
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 CSV_PATH = (
     PROJECT_ROOT
-    / "books/corrections/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.csv"
+    / "scripts/wikisource/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.csv"
 )
 
 
@@ -394,13 +394,14 @@ class CorrectionMigrationTests(unittest.TestCase):
         )
         cls.catalog = load_correction_catalog(CSV_PATH)
 
-    def test_all_five_indexes_match_python_constants(self) -> None:
-        self.assertEqual(self.mod._BOOK_READING_CORRECTIONS, self.catalog.reading)
-        self.assertEqual(self.mod._BOOK_GLOSS_CORRECTIONS, self.catalog.gloss)
-        self.assertEqual(self.mod._BOOK_EXAMPLE_SPLITS, self.catalog.example_splits)
-        self.assertEqual(self.mod._BOOK_REVIEW_CORRECTIONS, self.catalog.review)
+    def test_module_catalog_matches_authoritative_csv(self) -> None:
+        self.assertEqual(self.mod.CORRECTION_CATALOG.reading, self.catalog.reading)
+        self.assertEqual(self.mod.CORRECTION_CATALOG.gloss, self.catalog.gloss)
+        self.assertEqual(self.mod.CORRECTION_CATALOG.example_splits, self.catalog.example_splits)
+        self.assertEqual(self.mod.CORRECTION_CATALOG.review, self.catalog.review)
         self.assertEqual(
-            self.mod._BOOK_HEADWORD_REVIEW_CORRECTIONS, self.catalog.headword_review
+            self.mod.CORRECTION_CATALOG.headword_review,
+            self.catalog.headword_review,
         )
 
     def test_rule_counts_match_plan(self) -> None:
