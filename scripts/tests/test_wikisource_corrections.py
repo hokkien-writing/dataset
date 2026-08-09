@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import csv
+import importlib
 import tempfile
 import unittest
 from pathlib import Path
@@ -12,6 +13,13 @@ from scripts.wikisource.corrections import (
     catalog_digest,
     load_correction_catalog,
     rule_id_for,
+)
+
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+CSV_PATH = (
+    PROJECT_ROOT
+    / "books/corrections/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.csv"
 )
 
 
@@ -376,6 +384,70 @@ class TestCatalogDigest(unittest.TestCase):
     def test_digest_is_sixty_four_hex(self) -> None:
         digest = catalog_digest(self._catalog(_all_types_rows()))
         self.assertRegex(digest, r"^[0-9a-f]{64}$")
+
+
+class CorrectionMigrationTests(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls) -> None:
+        cls.mod = importlib.import_module(
+            "scripts.wikisource.007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect"
+        )
+        cls.catalog = load_correction_catalog(CSV_PATH)
+
+    def test_all_five_indexes_match_python_constants(self) -> None:
+        self.assertEqual(self.mod._BOOK_READING_CORRECTIONS, self.catalog.reading)
+        self.assertEqual(self.mod._BOOK_GLOSS_CORRECTIONS, self.catalog.gloss)
+        self.assertEqual(self.mod._BOOK_EXAMPLE_SPLITS, self.catalog.example_splits)
+        self.assertEqual(self.mod._BOOK_REVIEW_CORRECTIONS, self.catalog.review)
+        self.assertEqual(
+            self.mod._BOOK_HEADWORD_REVIEW_CORRECTIONS, self.catalog.headword_review
+        )
+
+    def test_rule_counts_match_plan(self) -> None:
+        counts: dict[str, int] = {}
+        seen_ids: set[str] = set()
+        for rule in self.catalog.rules:
+            if rule.rule_id not in seen_ids:
+                seen_ids.add(rule.rule_id)
+                counts[rule.rule_type] = counts.get(rule.rule_type, 0) + 1
+        self.assertEqual(
+            counts,
+            {
+                "reading": 1002,
+                "gloss": 2,
+                "example_split": 11,
+                "review": 2016,
+                "headword_review": 3,
+            },
+        )
+        self.assertEqual(len(seen_ids), 3034)
+        self.assertEqual(len(self.catalog.rules), 3045)
+
+    def test_all_rule_ids_match_deterministic_formula(self) -> None:
+        for rule in self.catalog.rules:
+            with self.subTest(rule_id=rule.rule_id):
+                self.assertEqual(
+                    rule.rule_id,
+                    rule_id_for(rule.rule_type, rule.headword, rule.key),
+                )
+
+    def test_no_duplicate_logical_keys_within_type(self) -> None:
+        seen: dict[str, set[tuple[str, str, str, str]]] = {}
+        by_id: dict[str, CorrectionRule] = {rule.rule_id: rule for rule in self.catalog.rules}
+        for rule in by_id.values():
+            key = (rule.headword, rule.key[0], rule.key[1], rule.key[2])
+            type_seen = seen.setdefault(rule.rule_type, set())
+            if key in type_seen:
+                self.fail(f"duplicate logical key within {rule.rule_type}: {key}")
+            type_seen.add(key)
+
+    def test_pages_are_positive_decimal(self) -> None:
+        for rule in self.catalog.rules:
+            with self.subTest(rule_id=rule.rule_id):
+                self.assertGreater(int(rule.key[2]), 0)
+
+    def test_catalog_digest_is_stable_on_reload(self) -> None:
+        self.assertEqual(catalog_digest(self.catalog), catalog_digest(self.catalog))
 
 
 if __name__ == "__main__":
