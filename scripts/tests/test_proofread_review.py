@@ -22,7 +22,7 @@ from scripts.proofread_review.models import (
     stable_record_id,
     validate_decision_export,
 )
-from scripts.proofread_review.server import create_server
+from scripts.proofread_review.server import DocumentConfig, create_server
 from scripts.wikisource.corrections import (
     CSV_HEADER,
     load_correction_catalog,
@@ -267,7 +267,7 @@ class TestReviewServer(unittest.TestCase):
         self.temp_dir = tempfile.TemporaryDirectory()
         self.server = create_server(
             dataset_path=self.DATASET_PATH,
-            pdf_path=self.PDF_PATH,
+            config=DocumentConfig(pdf_path=self.PDF_PATH, page_field="page", page_offset=0),
             cache_dir=Path(self.temp_dir.name),
             host="127.0.0.1",
             port=0,
@@ -309,6 +309,113 @@ class TestReviewServer(unittest.TestCase):
                 with self.assertRaises(urllib.error.HTTPError) as raised:
                     urllib.request.urlopen(f"{self.base_url}{path}")
                 self.assertIn(raised.exception.code, {400, 404})
+
+
+class TestReviewServerPageMapping(unittest.TestCase):
+    PDF_PATH = Path(
+        "/Users/lim/Desktop/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf"
+    )
+
+    def setUp(self) -> None:
+        self.temp_dir = tempfile.TemporaryDirectory()
+        self.addCleanup(self.temp_dir.cleanup)
+
+    def _fixture(self, page: int = 25) -> Path:
+        record = ReviewRecord.from_dict(
+            {
+                "row": 0,
+                "page": page,
+                "issues": ["rule_review"],
+                "table_key": ["raw", "gloss", str(page)],
+                "current": {"reading": "raw", "gloss": "gloss"},
+                "proposal": {"reading": "fixed", "gloss": "gloss"},
+                "context": {
+                    "rule_id": "reading-raw-gloss-page",
+                    "rule_type": "reading",
+                    "headword": "",
+                    "key_reading": "raw",
+                    "key_gloss": "gloss",
+                    "key_page": str(page),
+                    "resolved_page": str(page),
+                    "output_count": "1",
+                    "catalog_digest": "fixture",
+                },
+            }
+        )
+        dataset = ReviewDataset.from_records([record]).to_dict()
+        path = Path(self.temp_dir.name) / f"dataset-{page}.json"
+        path.write_text(json.dumps(dataset, ensure_ascii=False), encoding="utf-8")
+        return path
+
+    def _server(self, page_field: str = "page", page_offset: int = 0):
+        return create_server(
+            dataset_path=self._fixture(),
+            config=DocumentConfig(
+                pdf_path=self.PDF_PATH,
+                page_field=page_field,
+                page_offset=page_offset,
+            ),
+            cache_dir=Path(self.temp_dir.name),
+            port=0,
+        )
+
+    def _fetch_json(self, server, path: str) -> dict[str, object]:
+        base = f"http://127.0.0.1:{server.server_port}"
+        with urllib.request.urlopen(f"{base}{path}") as response:
+            return json.load(response)
+
+    def test_page_field_page_zero_offset_maps_record_page_directly(self) -> None:
+        server = self._server(page_field="page", page_offset=0)
+        thread = threading.Thread(target=server.serve_forever, daemon=True)
+        thread.start()
+        try:
+            data = self._fetch_json(server, "/api/data")
+            self.assertEqual(data["records"][0]["pdf_page"], 25)
+            health = self._fetch_json(server, "/api/health")
+            self.assertEqual(health["page_field"], "page")
+            self.assertEqual(health["page_offset"], 0)
+        finally:
+            server.shutdown()
+            server.server_close()
+            thread.join(timeout=2)
+
+    def test_page_offset_24_preserves_left_csv_reuse(self) -> None:
+        server = self._server(page_field="page", page_offset=24)
+        thread = threading.Thread(target=server.serve_forever, daemon=True)
+        thread.start()
+        try:
+            data = self._fetch_json(server, "/api/data")
+            self.assertEqual(data["records"][0]["pdf_page"], 49)
+            health = self._fetch_json(server, "/api/health")
+            self.assertEqual(health["page_offset"], 24)
+        finally:
+            server.shutdown()
+            server.server_close()
+            thread.join(timeout=2)
+
+    def test_non_integer_offset_is_rejected_before_launch(self) -> None:
+        with self.assertRaisesRegex(ValueError, "offset"):
+            create_server(
+                dataset_path=self._fixture(),
+                config=DocumentConfig(
+                    pdf_path=self.PDF_PATH,
+                    page_field="page",
+                    page_offset="24",
+                ),
+                cache_dir=Path(self.temp_dir.name),
+            )
+
+    def test_unavailable_page_field_is_rejected_before_launch(self) -> None:
+        with self.assertRaisesRegex(ValueError, "page field"):
+            create_server(
+                dataset_path=self._fixture(),
+                config=DocumentConfig(
+                    pdf_path=self.PDF_PATH,
+                    page_field="missing_field",
+                    page_offset=0,
+                ),
+                cache_dir=Path(self.temp_dir.name),
+            )
 
 
 class TestReviewStaticApp(unittest.TestCase):

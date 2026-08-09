@@ -1,0 +1,137 @@
+:root {
+  color-scheme: light;
+  --canvas: #ece9e2;
+  --surface: #f9f8f5;
+  --surface-strong: #ffffff;
+  --ink: #252923;
+  --muted: #6d716a;
+  --line: #d6d4cd;
+  --accent: #245a45;
+  --accent-soft: #e3eee8;
+  --warning: #9b5a24;
+  --danger: #a33f36;
+  --shadow: 0 8px 28px rgba(30, 34, 29, .09);
+  font-family: Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; }
+body { margin: 0; background: var(--canvas); color: var(--ink); overflow: hidden; }
+button, input, textarea, select { font: inherit; }
+button { cursor: pointer; }
+
+.error-banner { position: fixed; z-index: 20; inset: 10px 18px auto; padding: 10px 14px; border: 1px solid #d79a93; background: #fff2f0; color: #742d26; box-shadow: var(--shadow); }
+.app-header { height: 66px; display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 10px 18px; border-bottom: 1px solid var(--line); background: var(--surface-strong); }
+.app-header h1 { margin: 0; font-family: Georgia, "Noto Serif TC", serif; font-size: 20px; font-weight: 650; }
+.app-header p { margin: 3px 0 0; color: var(--muted); font-size: 12px; }
+.header-actions { display: flex; align-items: center; gap: 8px; }
+#save-state { margin-right: 6px; color: var(--muted); font-size: 12px; }
+
+.button, .icon-button, .zoom-value { min-height: 32px; border: 1px solid var(--line); border-radius: 6px; background: var(--surface-strong); color: var(--ink); padding: 6px 10px; }
+.button:hover, .icon-button:hover, .zoom-value:hover { border-color: #a9aea6; background: #f3f4f0; }
+.button:focus-visible, .icon-button:focus-visible, .zoom-value:focus-visible, input:focus-visible, textarea:focus-visible, select:focus-visible, .choice-button:focus-visible { outline: 3px solid rgba(36, 90, 69, .22); outline-offset: 1px; }
+.button-primary { border-color: var(--accent); background: var(--accent); color: #fff; }
+.button-primary:hover { background: #1c4937; border-color: #1c4937; }
+.button-compact { min-height: 29px; padding: 4px 8px; font-size: 12px; }
+.icon-button { width: 30px; min-height: 29px; padding: 2px; font-size: 19px; line-height: 1; }
+
+.app-shell { height: calc(100vh - 66px); display: grid; grid-template-columns: minmax(210px, 16vw) minmax(430px, 1fr) minmax(390px, 31vw); gap: 1px; background: var(--line); }
+.record-sidebar, .source-panel, .review-panel { min-width: 0; background: var(--surface); }
+
+.record-sidebar { min-height: 0; overflow: hidden; display: flex; flex-direction: column; padding: 12px 10px 0; }
+.filter-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+.filter-grid label, .search-label { display: grid; gap: 4px; color: var(--muted); font-size: 11px; }
+select, input, textarea { width: 100%; border: 1px solid var(--line); border-radius: 5px; background: #fff; color: var(--ink); padding: 7px 8px; }
+textarea { resize: vertical; line-height: 1.45; }
+.search-label { margin-top: 7px; }
+.list-summary { padding: 8px 2px 6px; color: var(--muted); font-size: 11px; }
+.record-list { min-height: 0; overflow: auto; list-style: none; margin: 0 -2px; padding: 0 2px 14px; }
+.record-item { width: 100%; display: grid; grid-template-columns: 4px 1fr; gap: 8px; border: 0; border-bottom: 1px solid var(--line); background: transparent; padding: 8px 5px 8px 2px; text-align: left; }
+.record-item:hover { background: #f0f0eb; }
+.record-item.is-active { background: var(--accent-soft); }
+.record-status { border-radius: 4px; background: #b8bbb5; }
+.record-item.is-accepted .record-status { background: var(--accent); }
+.record-item.is-rejected .record-status { background: var(--danger); }
+.record-item.is-deferred .record-status { background: var(--warning); }
+.record-main { min-width: 0; }
+.record-top { display: flex; justify-content: space-between; gap: 6px; font-size: 11px; color: var(--muted); }
+.record-name { display: block; margin-top: 2px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font: 600 14px/1.35 Georgia, "Noto Serif TC", serif; }
+.record-reading { overflow: hidden; color: #474c45; font: 12px/1.35 Georgia, serif; text-overflow: ellipsis; white-space: nowrap; }
+
+.source-panel { display: grid; grid-template-rows: 43px minmax(0, 1fr) 27px; }
+.panel-toolbar { display: flex; justify-content: space-between; align-items: center; gap: 8px; padding: 7px 10px; border-bottom: 1px solid var(--line); background: var(--surface-strong); }
+.page-controls, .zoom-controls { display: flex; align-items: center; gap: 5px; }
+#page-label { min-width: 145px; text-align: center; color: var(--muted); font-size: 12px; }
+#page-input { width: 74px; min-height: 29px; padding: 4px 6px; text-align: center; }
+.zoom-value { min-width: 56px; min-height: 29px; padding: 4px 7px; font-size: 12px; }
+.source-viewer { position: relative; overflow: hidden; background: #2e302d; touch-action: none; cursor: grab; }
+.source-viewer.is-dragging { cursor: grabbing; }
+.source-stage { position: absolute; inset: 0; transform-origin: 0 0; will-change: transform; }
+.source-stage img { display: block; width: auto; height: auto; max-width: none; user-select: none; -webkit-user-drag: none; box-shadow: 0 7px 34px rgba(0, 0, 0, .35); }
+.source-loading { position: absolute; inset: 50% auto auto 50%; transform: translate(-50%, -50%); padding: 8px 11px; border-radius: 5px; background: rgba(255,255,255,.92); color: #40443e; font-size: 12px; }
+.viewer-help { margin: 0; padding: 6px 10px; color: var(--muted); background: var(--surface-strong); font-size: 11px; text-align: center; }
+
+.review-panel { overflow: auto; padding: 13px 16px 22px; }
+.review-heading { display: flex; justify-content: space-between; gap: 12px; padding-bottom: 10px; border-bottom: 1px solid var(--line); }
+.eyeline { color: var(--muted); font-size: 11px; }
+.review-heading h2 { margin: 3px 0 5px; font: 650 19px/1.25 Georgia, "Noto Serif TC", serif; }
+.record-navigation { display: flex; gap: 5px; }
+.issue-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+.issue-tag { padding: 2px 6px; border-radius: 4px; background: #efe2d6; color: #744117; font-size: 11px; }
+.review-field { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.rule-keys { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.rule-keys dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 9px; margin: 8px 0 0; font-size: 11px; line-height: 1.4; }
+.rule-keys dt { color: var(--muted); }
+.rule-keys dd { margin: 0; overflow-wrap: anywhere; font-family: Georgia, serif; }
+.split-editor { padding: 12px 0; border-bottom: 1px solid var(--line); }
+.split-row { display: grid; grid-template-columns: 1fr 1fr auto; gap: 6px; margin-bottom: 6px; align-items: center; }
+.split-actions { display: flex; gap: 4px; }
+#split-add { margin-top: 4px; }
+.field-heading { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 6px; }
+.field-heading h3 { margin: 0; font-size: 13px; }
+.field-heading span { color: var(--muted); font-size: 11px; }
+.choice-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 7px; margin-bottom: 7px; }
+.choice-button { min-width: 0; min-height: 55px; border: 1px solid var(--line); border-radius: 6px; background: #fff; color: var(--ink); padding: 7px 8px; text-align: left; }
+.choice-button > span { display: block; margin-bottom: 3px; color: var(--muted); font-size: 10px; }
+.choice-button strong { display: block; overflow: hidden; max-height: 4.05em; white-space: pre-wrap; font: 500 12px/1.35 Georgia, serif; }
+.diff-add, .diff-remove { display: inline; border-radius: 2px; padding: 0 1px; font-weight: 700; }
+.choice-button .diff-add { background: #dcefe3; color: #175c38; box-shadow: inset 0 -1px #72ac89; }
+.choice-button .diff-remove { background: #f5dfdc; color: #91382f; text-decoration: line-through; text-decoration-thickness: 1px; box-shadow: inset 0 -1px #d2948c; }
+.choice-button.is-selected { border-color: var(--accent); background: var(--accent-soft); box-shadow: inset 0 0 0 1px var(--accent); }
+.review-field label, .note-label { display: grid; gap: 4px; color: var(--muted); font-size: 11px; }
+#reading-final { font: 500 15px/1.4 Georgia, serif; }
+#gloss-final { font-family: Georgia, serif; }
+.evidence { margin: 11px 0; border-bottom: 1px solid var(--line); padding-bottom: 10px; }
+.evidence summary { cursor: pointer; font-size: 12px; font-weight: 650; }
+.evidence dl { display: grid; grid-template-columns: max-content 1fr; gap: 4px 9px; margin: 8px 0 0; font-size: 11px; line-height: 1.4; }
+.evidence dt { color: var(--muted); }
+.evidence dd { margin: 0; overflow-wrap: anywhere; font-family: Georgia, serif; }
+.treatment-panel { margin: 11px 0; padding: 10px; border: 1px solid #c9c4b8; border-radius: 7px; background: #f2f0e9; }
+.treatment-panel .field-heading { margin-bottom: 7px; }
+.treatment-panel label { display: grid; gap: 4px; color: var(--muted); font-size: 11px; }
+.treatment-panel .note-label { margin-top: 8px; }
+.treatment-help { margin: 6px 0 0; color: var(--warning); font-size: 10px; line-height: 1.4; }
+.decision-actions { display: grid; grid-template-columns: 1fr 1.2fr 1.45fr; gap: 7px; margin-top: 12px; }
+.shortcut-help { margin: 8px 0 0; color: var(--muted); font-size: 10px; text-align: right; }
+
+@media (max-width: 1050px) {
+  body { overflow: auto; }
+  .app-shell { height: auto; min-height: calc(100vh - 66px); grid-template-columns: 190px minmax(420px, 1fr); }
+  .review-panel { grid-column: 2; min-height: 600px; }
+  .record-sidebar { grid-row: 1 / span 2; max-height: calc(100vh - 66px); position: sticky; top: 0; }
+  .source-panel { height: 62vh; }
+}
+
+@media (max-width: 720px) {
+  .app-header { height: auto; align-items: flex-start; flex-direction: column; }
+  .header-actions { width: 100%; flex-wrap: wrap; }
+  .app-shell { display: block; }
+  .record-sidebar { position: static; max-height: 260px; }
+  .source-panel { height: 55vh; }
+  .review-panel { min-height: auto; }
+  .choice-grid, .decision-actions { grid-template-columns: 1fr; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { scroll-behavior: auto !important; }
+}

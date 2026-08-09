@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="zh-Hans">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>007 人工校订</title>
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <div id="error-banner" class="error-banner" role="alert" hidden></div>
+  <header class="app-header">
+    <div>
+      <h1>007 人工校订</h1>
+      <p id="dataset-summary">载入资料中…</p>
+    </div>
+    <div class="header-actions">
+      <span id="save-state" aria-live="polite">尚未载入</span>
+      <button id="import-button" class="button">导入决定</button>
+      <button id="save-button" class="button">保存到服务</button>
+      <button id="export-button" class="button button-primary">导出 JSON</button>
+      <input id="import-file" type="file" accept="application/json,.json" hidden>
+    </div>
+  </header>
+
+  <main class="app-shell">
+    <aside class="record-sidebar" aria-label="待审词条列表">
+      <div class="filter-grid">
+        <label>状态<select id="status-filter"><option value="all">全部</option><option value="pending">未决定</option><option value="accepted">已确认</option><option value="rejected">已拒绝</option><option value="deferred">稍后决定</option></select></label>
+        <label>规则类型<select id="rule-type-filter"><option value="all">全部类型</option><option value="reading">reading</option><option value="gloss">gloss</option><option value="example_split">example_split</option><option value="review">review</option><option value="headword_review">headword_review</option></select></label>
+      </div>
+      <label class="search-label">搜寻<input id="search-input" type="search" placeholder="词条、读音、释义或页码"></label>
+      <div id="list-summary" class="list-summary" aria-live="polite"></div>
+      <ol id="record-list" class="record-list"></ol>
+    </aside>
+
+    <section class="source-panel" aria-label="原书页面">
+      <div class="panel-toolbar">
+        <div class="page-controls">
+          <button id="page-previous" class="icon-button" aria-label="查看前一页">‹</button>
+          <input id="page-input" type="number" min="1" max="648" inputmode="numeric" aria-label="直接输入 PDF 页码">
+          <span id="page-label">原书页 — / PDF —</span>
+          <button id="page-next" class="icon-button" aria-label="查看后一页">›</button>
+        </div>
+        <div class="zoom-controls">
+          <button id="zoom-out" class="icon-button" aria-label="缩小原书">−</button>
+          <button id="zoom-value" class="zoom-value" aria-label="恢复适合宽度">100%</button>
+          <button id="zoom-in" class="icon-button" aria-label="放大原书">＋</button>
+          <button id="fit-width" class="button button-compact">适合宽度</button>
+        </div>
+      </div>
+      <div id="source-viewer" class="source-viewer" tabindex="0" aria-label="原书扫描页；滚轮缩放，拖曳移动，双击复位">
+        <div id="source-stage" class="source-stage">
+          <img id="source-image" alt="原书扫描页">
+        </div>
+        <div id="source-loading" class="source-loading">载入原书页…</div>
+      </div>
+      <p class="viewer-help">滚轮缩放 · 拖曳移动 · 双击恢复适合宽度</p>
+    </section>
+
+    <section class="review-panel" aria-label="校订决定">
+      <div class="review-heading">
+        <div>
+          <div id="record-position" class="eyeline">— / —</div>
+          <h2 id="record-title">请选择词条</h2>
+          <div id="issue-tags" class="issue-tags"></div>
+        </div>
+        <div class="record-navigation">
+          <button id="record-previous" class="icon-button" aria-label="上一条">‹</button>
+          <button id="record-next" class="icon-button" aria-label="下一条">›</button>
+        </div>
+      </div>
+
+      <form id="review-form">
+        <section id="rule-keys" class="rule-keys" aria-label="规则键">
+          <div class="field-heading"><h3>规则键（只读）</h3><span id="rule-type-badge"></span></div>
+          <dl id="rule-key-list"></dl>
+        </section>
+
+        <div id="field-reading" class="review-field">
+          <div class="field-heading"><h3>读音</h3><span id="reading-choice-label">未选择</span></div>
+          <div class="choice-grid">
+            <button type="button" class="choice-button" data-field="reading" data-choice="current"><span>当前值</span><strong id="reading-current"></strong></button>
+            <button type="button" class="choice-button" data-field="reading" data-choice="proposal"><span>人工提案</span><strong id="reading-proposal"></strong></button>
+          </div>
+          <label>最终读音<input id="reading-final" name="reading" autocomplete="off"></label>
+        </div>
+
+        <div id="field-gloss" class="review-field">
+          <div class="field-heading"><h3>释义</h3><span id="gloss-choice-label">未选择</span></div>
+          <div class="choice-grid">
+            <button type="button" class="choice-button" data-field="gloss" data-choice="current"><span>当前值</span><strong id="gloss-current"></strong></button>
+            <button type="button" class="choice-button" data-field="gloss" data-choice="proposal"><span>人工提案</span><strong id="gloss-proposal"></strong></button>
+          </div>
+          <label>最终释义<textarea id="gloss-final" name="gloss" rows="3"></textarea></label>
+        </div>
+
+        <section id="split-editor" class="split-editor" hidden aria-labelledby="split-heading">
+          <div class="field-heading"><h3 id="split-heading">拆分后的配对行</h3><span>逐行配对，确认时校验行数一致</span></div>
+          <div id="split-rows"></div>
+          <button id="split-add" type="button" class="button button-compact">添加一行</button>
+        </section>
+
+        <details class="evidence" open>
+          <summary>对位与冲突证据</summary>
+          <dl id="evidence-list"></dl>
+        </details>
+
+        <section class="treatment-panel" aria-labelledby="treatment-heading">
+          <div class="field-heading"><h3 id="treatment-heading">如何处理此匹配</h3><span>决定后续回写方式</span></div>
+          <label>匹配处置
+            <select id="match-disposition">
+              <option value="normal_match">正常匹配，按最终值处理</option>
+              <option value="mismatch">错配／取消配对</option>
+              <option value="left_only">仅修改左侧 CSV</option>
+              <option value="source_007_only">仅修改 007</option>
+              <option value="separate_actions">左右分别处理</option>
+              <option value="split_entries">拆分为多条</option>
+              <option value="rematch">改配其他词条</option>
+            </select>
+          </label>
+          <label class="note-label">补充说明<textarea id="decision-note" rows="4" placeholder="说明如何处理当前匹配；可写左侧、007、拆分或改配目标。AI 将结合原书与对位证据逐项处理。"></textarea></label>
+          <p id="treatment-help" class="treatment-help">非正常匹配不会被当作普通读音／释义修正自动回写，必须填写补充说明。</p>
+        </section>
+
+        <div class="decision-actions">
+          <button id="defer-button" type="button" class="button">稍后决定</button>
+          <button id="reject-button" type="button" class="button">拒绝此规则</button>
+          <button id="keep-button" type="button" class="button">全部保留现值</button>
+          <button id="accept-button" type="submit" class="button button-primary">确认并下一条</button>
+        </div>
+        <p class="shortcut-help">快捷键：1 采用全部提案 · 2 保留全部现值 · E 编辑 · Enter 确认</p>
+      </form>
+    </section>
+  </main>
+  <script src="/app.js" defer></script>
+</body>
+</html>
