@@ -18,7 +18,7 @@ VALID_ISSUES = {
     "truncated_gloss",
     "rule_review",
 }
-VALID_STATUSES = {"accepted", "deferred"}
+VALID_STATUSES = {"accepted", "deferred", "rejected"}
 VALID_DISPOSITIONS = {
     "normal_match",
     "mismatch",
@@ -93,7 +93,7 @@ class ReviewRecord:
             "row": row,
             "page": page,
             "issues": sorted(set(issues)),
-            "table_key": table_key,
+            "table_key": [str(item) for item in table_key],
             "current": current,
             "proposal": proposal,
             "context": context,
