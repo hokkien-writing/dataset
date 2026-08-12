@@ -3,6 +3,7 @@ from __future__ import annotations
 import csv
 import hashlib
 import json
+import re
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -14,6 +15,7 @@ ALLOWED_RULE_TYPES = {"reading", "gloss", "example_split", "review", "headword_r
 ALLOWED_REVIEW_STATUSES = {"pending", "accepted", "rejected", "deferred"}
 _SPLIT_TYPES = {"example_split"}
 _ORDINARY_TYPES = {"reading", "gloss", "review", "headword_review"}
+_SPACE_BEFORE_TERMINAL_PUNCTUATION_RE = re.compile(r"\s+[,.!?;:](?:[\"'”’)])*$")
 
 
 def rule_id_for(rule_type: str, headword: str, key: tuple[str, str, str]) -> str:
@@ -101,6 +103,11 @@ def _parse_rule(row: dict[str, str]) -> CorrectionRule:
     key = (row["key_reading"], row["key_gloss"], page_text)
     replacement_reading = row["replacement_reading"]
     replacement_gloss = row["replacement_gloss"]
+    if any(
+        _SPACE_BEFORE_TERMINAL_PUNCTUATION_RE.search(value)
+        for value in (replacement_reading, replacement_gloss)
+    ):
+        raise ValueError(f"space before terminal punctuation: {row['rule_id']}")
     if rule_type == "headword_review" and not headword:
         raise ValueError(f"headword_review requires headword: {row['rule_id']}")
     if rule_type != "headword_review" and headword:
@@ -160,6 +167,15 @@ def _validate_groups(rules: list[CorrectionRule]) -> None:
         if key in seen:
             raise ValueError(f"duplicate logical key within {rule.rule_type}: {key}")
         seen.add(key)
+
+
+def _validate_rule_ids(rules: list[CorrectionRule]) -> None:
+    for rule in rules:
+        expected = rule_id_for(rule.rule_type, rule.headword, rule.key)
+        if rule.rule_id != expected:
+            raise ValueError(
+                f"rule_id does not match rule fields: {rule.rule_id!r} != {expected!r}"
+            )
 
 
 def _active(rules: list[CorrectionRule]) -> list[CorrectionRule]:
@@ -233,6 +249,7 @@ def load_correction_catalog(path: Path) -> CorrectionCatalog:
         seen_rule_index.add(index)
         rules.append(rule)
     _validate_groups(rules)
+    _validate_rule_ids(rules)
     return CorrectionCatalog(
         rules=tuple(rules),
         reading=_index_reading(rules),

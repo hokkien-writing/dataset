@@ -35,6 +35,10 @@
 
     <section class="source-panel" aria-label="原书页面">
       <div class="panel-toolbar">
+        <div class="source-mode-controls" role="group" aria-label="原书显示模式">
+          <button id="source-mode-pdf" class="button button-compact is-active" type="button" aria-pressed="true">PDF</button>
+          <button id="source-mode-markdown" class="button button-compact" type="button" aria-pressed="false">MD</button>
+        </div>
         <div class="page-controls">
           <button id="page-previous" class="icon-button" aria-label="查看前一页">‹</button>
           <input id="page-input" type="number" min="1" max="648" inputmode="numeric" aria-label="直接输入 PDF 页码">
@@ -54,7 +58,8 @@
         </div>
         <div id="source-loading" class="source-loading">载入原书页…</div>
       </div>
-      <p class="viewer-help">滚轮缩放 · 拖曳移动 · 双击恢复适合宽度</p>
+      <pre id="markdown-viewer" class="markdown-viewer" tabindex="0" aria-label="对应页面的 Markdown 文本" hidden></pre>
+      <p id="viewer-help" class="viewer-help">滚轮缩放 · 拖曳移动 · 双击恢复适合宽度</p>
     </section>
 
     <section class="review-panel" aria-label="校订决定">
@@ -122,13 +127,15 @@
           <p id="treatment-help" class="treatment-help">非正常匹配不会被当作普通读音／释义修正自动回写，必须填写补充说明。</p>
         </section>
 
-        <div class="decision-actions">
-          <button id="defer-button" type="button" class="button">稍后决定</button>
-          <button id="reject-button" type="button" class="button">拒绝此规则</button>
-          <button id="keep-button" type="button" class="button">全部保留现值</button>
-          <button id="accept-button" type="submit" class="button button-primary">确认并下一条</button>
+        <div class="decision-dock">
+          <div class="decision-actions">
+            <button id="accept-button" type="submit" class="button button-primary">确认并下一条</button>
+            <button id="reject-button" type="button" class="button">拒绝</button>
+            <button id="defer-button" type="button" class="button">跳过</button>
+            <button id="keep-button" type="button" class="button">全部保留现值</button>
+          </div>
+          <p class="shortcut-help">快捷键：1 采用全部提案 · 2 保留全部现值 · E 编辑 · Ctrl+Enter 确认并下一条</p>
         </div>
-        <p class="shortcut-help">快捷键：1 采用全部提案 · 2 保留全部现值 · E 编辑 · Enter 确认</p>
       </form>
     </section>
   </main>

@@ -98,6 +98,17 @@ class TestReviewModels(unittest.TestCase):
         with self.assertRaisesRegex(ValueError, "duplicate stable id"):
             ReviewDataset.from_records([record, record])
 
+    def test_dataset_serializes_deduplicated_page_markdown(self) -> None:
+        record = ReviewRecord.from_dict(self._record())
+        dataset = ReviewDataset.from_records(
+            [record],
+            page_markdown={25: "- **字** raw — gloss\n"},
+        )
+        self.assertEqual(
+            dataset.to_dict()["page_markdown"],
+            {"25": "- **字** raw — gloss\n"},
+        )
+
     def test_stale_source_digest_is_rejected(self) -> None:
         dataset = ReviewDataset.from_records(
             [ReviewRecord.from_dict(self._record())]
@@ -433,6 +444,9 @@ class TestReviewStaticApp(unittest.TestCase):
             'aria-live="polite"',
             'id="match-disposition"',
             'id="decision-note"',
+            'id="source-mode-pdf"',
+            'id="source-mode-markdown"',
+            'id="markdown-viewer"',
         ):
             self.assertIn(value, html)
         for value in ('id="left-action"', 'id="source-007-action"', 'id="rematch-target"'):
@@ -453,6 +467,8 @@ class TestReviewStaticApp(unittest.TestCase):
             "data_version",
             "normal_match",
             "migrateLegacyTreatment",
+            "renderMarkdownPage",
+            "page_markdown",
         ):
             self.assertIn(value, script)
 
@@ -462,6 +478,45 @@ class TestReviewStaticApp(unittest.TestCase):
             css,
             r"\.record-sidebar\s*\{[^}]*min-height:\s*0;[^}]*overflow:\s*hidden;",
         )
+
+    def test_source_panel_constrains_markdown_to_an_inner_scroll_area(self) -> None:
+        css = (self.STATIC_DIR / "styles.css").read_text(encoding="utf-8")
+        self.assertRegex(
+            css,
+            r"\.source-panel\s*\{[^}]*min-height:\s*0;[^}]*overflow:\s*hidden;",
+        )
+        self.assertRegex(
+            css,
+            r"\.markdown-viewer\s*\{[^}]*min-height:\s*0;[^}]*overflow:\s*auto;",
+        )
+
+    def test_decision_dock_is_sticky_and_uses_the_required_button_order(self) -> None:
+        html = (self.STATIC_DIR / "index.html").read_text(encoding="utf-8")
+        css = (self.STATIC_DIR / "styles.css").read_text(encoding="utf-8")
+        button_ids = ["accept-button", "reject-button", "defer-button", "keep-button"]
+        positions = [html.index(f'id="{button_id}"') for button_id in button_ids]
+        self.assertEqual(positions, sorted(positions))
+        for button_id, label in zip(
+            button_ids,
+            ["确认并下一条", "拒绝", "跳过", "全部保留现值"],
+            strict=True,
+        ):
+            self.assertRegex(
+                html,
+                rf'id="{button_id}"[^>]*>{label}</button>',
+            )
+        self.assertIn('class="decision-dock"', html)
+        self.assertRegex(
+            css,
+            r"\.decision-dock\s*\{[^}]*position:\s*sticky;[^}]*bottom:\s*0;",
+        )
+
+    def test_ctrl_enter_confirms_and_plain_enter_does_not(self) -> None:
+        html = (self.STATIC_DIR / "index.html").read_text(encoding="utf-8")
+        script = (self.STATIC_DIR / "app.js").read_text(encoding="utf-8")
+        self.assertIn("Ctrl+Enter 确认并下一条", html)
+        self.assertIn('event.key === "Enter" && event.ctrlKey', script)
+        self.assertNotIn('else if (event.key === "Enter")', script)
 
     def test_character_diff_uses_graphemes_and_distinct_add_remove_styles(self) -> None:
         script = (self.STATIC_DIR / "app.js").read_text(encoding="utf-8")
@@ -618,7 +673,7 @@ class TestCorrectionReviewResolution(unittest.TestCase):
         self.assertEqual(record.context["key_page"], "3")
         self.assertEqual(record.context["resolved_page"], "1")
 
-    def test_fragment_key_resolves_by_suffix_within_two_pages(self) -> None:
+    def test_fragment_key_does_not_resolve_by_suffix(self) -> None:
         source = (
             "<!-- page:1 -->\n"
             "- **字** raw — gloss\n"
@@ -633,15 +688,11 @@ class TestCorrectionReviewResolution(unittest.TestCase):
                 key_reading="sĭeⁿ?",
                 key_gloss="What do you think about it.",
                 page="2",
-                replacement_reading="lṳ́ cò̤̀-nî sĭeⁿ ?",
+                replacement_reading="lṳ́ cò̤̀-nî sĭeⁿ?",
             )
         ]
-        dataset = build_correction_review_dataset(self._catalog(rows), entries)
-        record = dataset.records[0]
-        self.assertEqual(record.page, 1)
-        self.assertEqual(record.context["key_page"], "2")
-        self.assertEqual(record.current["reading"], "lṳ́ cò̤-nî sĭeⁿ?")
-        self.assertEqual(record.proposal["reading"], "lṳ́ cò̤̀-nî sĭeⁿ ?")
+        with self.assertRaisesRegex(ValueError, "unresolved"):
+            build_correction_review_dataset(self._catalog(rows), entries)
 
     def test_unresolved_rule_fails_closed(self) -> None:
         rule_id = rule_id_for("reading", "", ("missing", "missing", "1"))
@@ -729,8 +780,8 @@ class TestCorrectionReviewQueue(unittest.TestCase):
         )
         cls.dataset = build_correction_review_dataset(cls.catalog, cls.source_entries)
 
-    def test_queue_accounts_for_all_3034_rules(self) -> None:
-        self.assertEqual(len(self.dataset.records), 3034)
+    def test_queue_accounts_for_all_3021_rules(self) -> None:
+        self.assertEqual(len(self.dataset.records), 3021)
         counts: dict[str, int] = {}
         for record in self.dataset.records:
             rule_type = record.context["rule_type"]
@@ -738,15 +789,15 @@ class TestCorrectionReviewQueue(unittest.TestCase):
         self.assertEqual(
             counts,
             {
-                "reading": 1002,
+                "reading": 997,
                 "gloss": 2,
-                "example_split": 11,
-                "review": 2016,
+                "example_split": 4,
+                "review": 2015,
                 "headword_review": 3,
             },
         )
-        self.assertEqual(sum(self.dataset.issue_counts.values()), 3034)
-        self.assertEqual(self.dataset.issue_counts["rule_review"], 3034)
+        self.assertEqual(sum(self.dataset.issue_counts.values()), 3021)
+        self.assertEqual(self.dataset.issue_counts["rule_review"], 3021)
 
     def test_every_record_resolves_with_page_metadata(self) -> None:
         self.assertGreater(len(self.source_entries), 0)

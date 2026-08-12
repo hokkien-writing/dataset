@@ -10,6 +10,7 @@ from scripts.proofread_review.correction_review import (
     build_correction_review_dataset,
     build_pre_correction_markdown,
     build_source_entries,
+    split_markdown_pages,
 )
 from scripts.proofread_review.models import ReviewDataset, ReviewRecord
 from scripts.wikisource.corrections import load_correction_catalog
@@ -178,7 +179,11 @@ def build_corrections_dataset(
     catalog = load_correction_catalog(corrections_path)
     pre = build_pre_correction_markdown(pages, start, end, title)
     source_entries = build_source_entries(pre)
-    return build_correction_review_dataset(catalog, source_entries)
+    dataset = build_correction_review_dataset(catalog, source_entries)
+    return ReviewDataset.from_records(
+        list(dataset.records),
+        page_markdown=split_markdown_pages(pre),
+    )
 
 
 def parse_args() -> argparse.Namespace:

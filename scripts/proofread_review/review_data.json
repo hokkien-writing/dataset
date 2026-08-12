@@ -1,0 +1,4080 @@
+{
+  "schema": "proofread-review-data/v1",
+  "data_version": "2fc4deb31b0f4bb0728f1d12cde282c0842e6076e5fe7d1168b383fd119c7c7e",
+  "compatible_data_versions": [
+    "f1df90a4a641d94d184f42b0cf21bb068c7d15e5b772e922673100dc167ce2e1"
+  ],
+  "record_count": 131,
+  "issue_count": 133,
+  "issue_counts": {
+    "cross_type": 93,
+    "empty_key": 27,
+    "existing_key_conflict": 1,
+    "truncated_gloss": 12
+  },
+  "records": [
+    {
+      "id": "review-cca4fb9f4e84892af9b9",
+      "row": 44702,
+      "page": 32,
+      "pdf_page": 32,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "au",
+        "To cudgel; to maul.",
+        "32"
+      ],
+      "current": {
+        "reading": "au",
+        "gloss": "To cudgel; to maul."
+      },
+      "proposal": {
+        "reading": "áu",
+        "gloss": "To fight with sticks or fists."
+      },
+      "context": {
+        "headword": "毆",
+        "term": "殴",
+        "left_reading": "áu ;",
+        "left_gloss": "To cudgel; to maul.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "cca4fb9f4e84892af9b9f453fbaa368ab788d5060afe916e45a00b1eebd6ca4f"
+    },
+    {
+      "id": "review-c92a32d29cd7b4659798",
+      "row": 44722,
+      "page": 35,
+      "pdf_page": 35,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "bé cang mó̤ⁿ",
+        "horse's mane.",
+        "35"
+      ],
+      "current": {
+        "reading": "bé cang mó̤ⁿ",
+        "gloss": "horse's mane."
+      },
+      "proposal": {
+        "reading": "bé cang mô̤ⁿ",
+        "gloss": "horse’s mane."
+      },
+      "context": {
+        "headword": "馬",
+        "term": "马騣毛",
+        "left_reading": "bé cang mô̤ⁿ ;",
+        "left_gloss": "horse’s mane.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "c92a32d29cd7b465979855aaaac29cc6337a7336d30ca67936e81b1d574ec039"
+    },
+    {
+      "id": "review-58f3b1bba993cbbddf32",
+      "row": 44723,
+      "page": 35,
+      "pdf_page": 35,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kìm bô pàng bé",
+        "to forbid the employment of \"ponies\" at a literary examination.",
+        "35"
+      ],
+      "current": {
+        "reading": "kìm bô pàng bé",
+        "gloss": "to forbid the employment of \"ponies\" at a literary examination."
+      },
+      "proposal": {
+        "reading": "kìm bô̤ pàng bé",
+        "gloss": "to forbid the employment of “ponies” at a literary examination."
+      },
+      "context": {
+        "headword": "馬",
+        "term": "禁无放马",
+        "left_reading": "kìm bô̤ pàng bé ;",
+        "left_gloss": "to forbid the employment of “ponies” at a literary examination.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "58f3b1bba993cbbddf325658aa2c1b0747c117145841991db4e9f1ffef4d3891"
+    },
+    {
+      "id": "review-840c7127af2e2926e452",
+      "row": 44863,
+      "page": 56,
+      "pdf_page": 56,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "cē",
+        "",
+        "56"
+      ],
+      "current": {
+        "reading": "cē",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "cē",
+        "gloss": "A contraction of cék ē; once; a little while; for a while."
+      },
+      "context": {
+        "headword": "一下",
+        "term": "一下",
+        "left_reading": "cē ;",
+        "left_gloss": "A contraction of cék ē; once; a little while; for a while.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "840c7127af2e2926e452c1521532c1521fb551b3b9c5d56b1d8fa2231fa9c04b"
+    },
+    {
+      "id": "review-d0429673d41694a386ad",
+      "row": 44884,
+      "page": 62,
+      "pdf_page": 62,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "thái-ko̤ cèng ŏi ùe tîeh nâng",
+        "",
+        "62"
+      ],
+      "current": {
+        "reading": "thái-ko̤ cèng ŏi ùe tîeh nâng",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "thái-ko̤ cèng ŏi ùe tîeh nâng a bŏi ?",
+        "gloss": "Is leprosy contagious?"
+      },
+      "context": {
+        "headword": "症",
+        "term": "痴哥症会秽着人也𠀾",
+        "left_reading": "thái-ko̤ cèng ŏi ùe tîeh nâng a bŏi ? ;",
+        "left_gloss": "Is leprosy contagious?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "d0429673d41694a386add089906056e94958c5b344e13db2a2f1d0345e600f25"
+    },
+    {
+      "id": "review-fc6a2083e18657059e6e",
+      "row": 44895,
+      "page": 65,
+      "pdf_page": 65,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cì thiⁿ tī",
+        "worship heaven and earth. cì sĭa cek; worship the gods of land and grain.",
+        "65"
+      ],
+      "current": {
+        "reading": "cì sĭa cek",
+        "gloss": "worship heaven and earth. cì sĭa cek; worship the gods of land and grain."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "worship the gods of land and grain."
+      },
+      "context": {
+        "headword": "祭",
+        "term": "祭社稷",
+        "left_reading": "cì sĭa cek ;",
+        "left_gloss": "worship the gods of land and grain.",
+        "kind": "ex",
+        "existing_reading_correction": "cì sĭa cek"
+      },
+      "source_digest": "fc6a2083e18657059e6eae35d9f9482b89c4088a5eb7fa058d9208ab1e6bc7d1"
+    },
+    {
+      "id": "review-848a625006b9386efd85",
+      "row": 44901,
+      "page": 66,
+      "pdf_page": 66,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ciⁿ lî, irrelevant",
+        "evasive.",
+        "66"
+      ],
+      "current": {
+        "reading": "ciⁿ lî",
+        "gloss": "evasive."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "irrelevant; evasive."
+      },
+      "context": {
+        "headword": "支",
+        "term": "支离",
+        "left_reading": "ciⁿ lî ;",
+        "left_gloss": "irrelevant; evasive.",
+        "kind": "ex",
+        "existing_reading_correction": "ciⁿ lî"
+      },
+      "source_digest": "848a625006b9386efd85fbe0f109006fe04c99ab29c9f88630262858f10a687b"
+    },
+    {
+      "id": "review-d3bbfbacfdbc3baf757f",
+      "row": 44914,
+      "page": 68,
+      "pdf_page": 68,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "cía",
+        "",
+        "68"
+      ],
+      "current": {
+        "reading": "cía",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "cía",
+        "gloss": "This indicates that what precedes it is the subject of a proposition; it is also used to arrest attention."
+      },
+      "context": {
+        "headword": "者",
+        "term": "者",
+        "left_reading": "cía ;",
+        "left_gloss": "This indicates that what precedes it is the subject of a proposition; it is also used to arrest attention.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "d3bbfbacfdbc3baf757f31b26416634c43545f2a0bb519a8274e476049db350c"
+    },
+    {
+      "id": "review-ec9f8b9d9226f136e221",
+      "row": 44982,
+      "page": 77,
+      "pdf_page": 77,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "kòng cien; sìn cien; letter paper.",
+        "",
+        "77"
+      ],
+      "current": {
+        "reading": "kòng cien; sìn cien; letter paper.",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "kòng cien; sìn cien",
+        "gloss": "letter paper."
+      },
+      "context": {
+        "headword": "箋",
+        "term": "贡笺，信笺",
+        "left_reading": "kòng ciensìn cien ;",
+        "left_gloss": "letter paper.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "ec9f8b9d9226f136e221822a459c04396c8434b54b65117be8d794641ff934c9"
+    },
+    {
+      "id": "review-2ea19ad8ba8ab9659b4d",
+      "row": 44988,
+      "page": 79,
+      "pdf_page": 79,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "tek cím-thâu, hûi cím-thâu, phûe cím-thâu",
+        "",
+        "79"
+      ],
+      "current": {
+        "reading": "tek cím-thâu, hûi cím-thâu, phûe cím-thâu",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "tek cím-thâu, hûi cím-thâu, phûe cím-thâu, châ cím-thâu, tîn cím-thâu",
+        "gloss": "bamboo, earthen, leathern, wooden and rattan pillows"
+      },
+      "context": {
+        "headword": "枕",
+        "term": "竹枕头，缶枕头，皮枕头，柴枕头，藤枕头",
+        "left_reading": "tek cím-thâu, hûi cím-thâu, phûe cím-thâu, châ cím-thâu, tîn cím-thâu ;",
+        "left_gloss": "bamboo, earthen, leathern, wooden and rattan pillows",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "2ea19ad8ba8ab9659b4d3b1eba16aa0ac4bd971170b0a0c2ee804875d6dd51db"
+    },
+    {
+      "id": "review-87cd857162d44cc81dab",
+      "row": 45052,
+      "page": 93,
+      "pdf_page": 93,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "cù",
+        "",
+        "93"
+      ],
+      "current": {
+        "reading": "cù",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "cù",
+        "gloss": "To direct water in channels; to fix the attention upon."
+      },
+      "context": {
+        "headword": "注",
+        "term": "注",
+        "left_reading": "cù ;",
+        "left_gloss": "To direct water in channels; to fix the attention upon,",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "87cd857162d44cc81dab13b4b774f624cc96e6448debb631ec2d5c2179427e95"
+    },
+    {
+      "id": "review-6014e0b88815cdf2ee17",
+      "row": 45080,
+      "page": 101,
+      "pdf_page": 101,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cṳ́ chài; cú cîah; prepare a meal",
+        "get supper.",
+        "101"
+      ],
+      "current": {
+        "reading": "cṳ́ chài; cṳ́ cîah",
+        "gloss": "get supper."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "prepare a meal; get supper."
+      },
+      "context": {
+        "headword": "煮",
+        "term": "煮菜，煮食",
+        "left_reading": "cṳ́ chài; cṳ́ cîah ;",
+        "left_gloss": "prepare a meal; get supper.",
+        "kind": "ex",
+        "existing_reading_correction": "cṳ́ chài; cṳ́ cîah"
+      },
+      "source_digest": "6014e0b88815cdf2ee17c1124d577b8977217b5cbb3626b6809c5775cb47194b"
+    },
+    {
+      "id": "review-4afcabec0997ea3b6a6f",
+      "row": 45087,
+      "page": 102,
+      "pdf_page": 102,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cham-cha, m̄ côi",
+        "unassorted.",
+        "102"
+      ],
+      "current": {
+        "reading": "khim-che",
+        "gloss": "unassorted."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "an ambassador,"
+      },
+      "context": {
+        "headword": "差",
+        "term": "钦差",
+        "left_reading": "khim-che ;",
+        "left_gloss": "an ambassador,",
+        "kind": "ex",
+        "existing_reading_correction": "khim-che"
+      },
+      "source_digest": "4afcabec0997ea3b6a6f4d6eeb1c2cc22b6d66ab3e4f17919040a94e442f292d"
+    },
+    {
+      "id": "review-d27d948cb6929762d3ec",
+      "row": 45090,
+      "page": 102,
+      "pdf_page": 102,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "chah hieⁿ",
+        "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods.",
+        "102"
+      ],
+      "current": {
+        "reading": "chah hieⁿ",
+        "gloss": "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods"
+      },
+      "context": {
+        "headword": "插",
+        "term": "插香",
+        "left_reading": "chah hieⁿ ;",
+        "left_gloss": "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "d27d948cb6929762d3ec811ed526f06fc1c3a5710f45cf50fbf20999afed78fe"
+    },
+    {
+      "id": "review-c12d0450a3141169f201",
+      "row": 45177,
+      "page": 115,
+      "pdf_page": 115,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cò̤ chêng cē",
+        "be kindlier.",
+        "115"
+      ],
+      "current": {
+        "reading": "èng chêng",
+        "gloss": "be kindlier."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "treat kindly"
+      },
+      "context": {
+        "headword": "情",
+        "term": "应情",
+        "left_reading": "èng chêng ;",
+        "left_gloss": "treat kindly",
+        "kind": "ex",
+        "existing_reading_correction": "èng chêng"
+      },
+      "source_digest": "c12d0450a3141169f2015767566607fcf944829c84720c00ed090514924063b1"
+    },
+    {
+      "id": "review-af0a495afbbc5961e8ee",
+      "row": 45195,
+      "page": 118,
+      "pdf_page": 118,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?",
+        "Are these bills collected monthly, or at other fixed periods?",
+        "118"
+      ],
+      "current": {
+        "reading": "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?",
+        "gloss": "Are these bills collected monthly, or at other fixed periods?"
+      },
+      "proposal": {
+        "reading": "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu ?",
+        "gloss": "Are these bills collected monthly, or at other fixed periods ?"
+      },
+      "context": {
+        "headword": "賖",
+        "term": "者赊数是按月收也是按节收",
+        "left_reading": "cía chia sìo sĭ àng gûeh siu a sī àng coih siu ? ;",
+        "left_gloss": "Are these bills collected monthly, or at other fixed periods ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "af0a495afbbc5961e8ee9c5cb2911097e65c472f17d44442ccdf662ea652aa07"
+    },
+    {
+      "id": "review-01dc554aed2be2710804",
+      "row": 45209,
+      "page": 121,
+      "pdf_page": 121,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "hih-hih chìe",
+        "to snicker.",
+        "121"
+      ],
+      "current": {
+        "reading": "chí-chìe",
+        "gloss": "to snicker."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "to deride"
+      },
+      "context": {
+        "headword": "笑",
+        "term": "耻笑",
+        "left_reading": "chí-chìe ;",
+        "left_gloss": "to deride",
+        "kind": "ex",
+        "existing_reading_correction": "chí-chìe"
+      },
+      "source_digest": "01dc554aed2be2710804f4901348854afb1987762fae51269168de0985af2e12"
+    },
+    {
+      "id": "review-4fd4d47bc50ff74168cd",
+      "row": 45232,
+      "page": 126,
+      "pdf_page": 126,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "îong chîn",
+        "mediocre statesmen.",
+        "126"
+      ],
+      "current": {
+        "reading": "châi chîn",
+        "gloss": "mediocre statesmen."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "talented statesmen"
+      },
+      "context": {
+        "headword": "臣",
+        "term": "才臣",
+        "left_reading": "châi chîn ;",
+        "left_gloss": "talented statesmen",
+        "kind": "ex",
+        "existing_reading_correction": "châi chîn"
+      },
+      "source_digest": "4fd4d47bc50ff74168cd856c4b59a82d1f8794c81e01a9549a53059fd00c0a4c"
+    },
+    {
+      "id": "review-1564b2a9abe17ee38aa8",
+      "row": 45241,
+      "page": 127,
+      "pdf_page": 127,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chiu-siu",
+        "the late harvest.",
+        "127"
+      ],
+      "current": {
+        "reading": "chiu ău",
+        "gloss": "the late harvest."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the latter part of autumn"
+      },
+      "context": {
+        "headword": "秋",
+        "term": "秋后",
+        "left_reading": "chiu ău ;",
+        "left_gloss": "the latter part of autumn",
+        "kind": "ex",
+        "existing_reading_correction": "chiu ău"
+      },
+      "source_digest": "1564b2a9abe17ee38aa82f31d783b26d7a278d652aa6c14a84a6bcbe5076131f"
+    },
+    {
+      "id": "review-768b3dc1933d334a3bac",
+      "row": 45242,
+      "page": 127,
+      "pdf_page": 127,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "lâu chiu; let the beard grow, thì chiu",
+        "to shave off the beard, khoi chiu; to trim the beard.",
+        "127"
+      ],
+      "current": {
+        "reading": "lâu chiu; let the beard grow, thì chiu",
+        "gloss": "to shave off the beard, khoi chiu; to trim the beard."
+      },
+      "proposal": {
+        "reading": "thì chiu",
+        "gloss": "to shave off the beard."
+      },
+      "context": {
+        "headword": "鬚",
+        "term": "剃须",
+        "left_reading": "thì chiu ;",
+        "left_gloss": "to shave off the beard",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "768b3dc1933d334a3bacf211a3d5bfd3e6a6bd949115777ad1593ebdf9e18f27"
+    },
+    {
+      "id": "review-35c37cb295fbe9b0cf40",
+      "row": 45243,
+      "page": 127,
+      "pdf_page": 127,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "so̤ chiu; to stroke the beard, jûe chiu",
+        "to twirl the beard.",
+        "127"
+      ],
+      "current": {
+        "reading": "so̤ chiu; to stroke the beard, jûe chiu",
+        "gloss": "to twirl the beard."
+      },
+      "proposal": {
+        "reading": "âng chiu",
+        "gloss": "red bearded."
+      },
+      "context": {
+        "headword": "鬚",
+        "term": "红须",
+        "left_reading": "âng chiu ;",
+        "left_gloss": "red bearded.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "35c37cb295fbe9b0cf40234e776547918b02048b15f90f3c37e33b051fa31a0f"
+    },
+    {
+      "id": "review-cf6edc66449a96202a3c",
+      "row": 45244,
+      "page": 127,
+      "pdf_page": 127,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "lût chiu",
+        "to fondle the beard.",
+        "127"
+      ],
+      "current": {
+        "reading": "so̤ chiu",
+        "gloss": "to fondle the beard."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "to stroke the beard"
+      },
+      "context": {
+        "headword": "鬚",
+        "term": "挲须",
+        "left_reading": "so̤ chiu ;",
+        "left_gloss": "to stroke the beard",
+        "kind": "ex",
+        "existing_reading_correction": "so̤ chiu"
+      },
+      "source_digest": "cf6edc66449a96202a3cd786a7646e5ae4f5c3d3f0eb285f5bd393015f1b36e8"
+    },
+    {
+      "id": "review-e283a700232d9f0e7d9f",
+      "row": 45245,
+      "page": 127,
+      "pdf_page": 127,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chiu hi-hi",
+        "his beard is very thin.",
+        "127"
+      ],
+      "current": {
+        "reading": "ĕ pŏ chiu",
+        "gloss": "his beard is very thin."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the beard under the chin"
+      },
+      "context": {
+        "headword": "鬚",
+        "term": "下部须",
+        "left_reading": "ĕ pŏ chiu ;",
+        "left_gloss": "the beard under the chin",
+        "kind": "ex",
+        "existing_reading_correction": "ĕ pŏ chiu"
+      },
+      "source_digest": "e283a700232d9f0e7d9fdfebe81a1ae5d0763c6e1d17b9dc3918bdf01b31efa8"
+    },
+    {
+      "id": "review-8171ff6a39a3b90d2bcb",
+      "row": 45246,
+      "page": 127,
+      "pdf_page": 127,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cai chiu",
+        "to put on a false beard.",
+        "127"
+      ],
+      "current": {
+        "reading": "khoi chiu",
+        "gloss": "to put on a false beard."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "to trim the beard."
+      },
+      "context": {
+        "headword": "鬚",
+        "term": "剴须",
+        "left_reading": "khoi chiu ;",
+        "left_gloss": "to trim the beard.",
+        "kind": "ex",
+        "existing_reading_correction": "khoi chiu"
+      },
+      "source_digest": "8171ff6a39a3b90d2bcb2b14906168a4c3397e3b29b6de6ac798b9687454d5f6"
+    },
+    {
+      "id": "review-40d7d77297b256fc20ca",
+      "row": 45467,
+      "page": 175,
+      "pdf_page": 175,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "hṳ́-kò̤ hok ŭ nâng-be to ko",
+        "there are people lying there in ambush,",
+        "175"
+      ],
+      "current": {
+        "reading": "hṳ́-kò̤ hok ŭ nâng-be to ko",
+        "gloss": "there are people lying there in ambush,"
+      },
+      "proposal": {
+        "reading": "hṳ́-kò̤ hôk ŭ nâng-bé tŏ̤ kò̤",
+        "gloss": "there are people lying there in ambush."
+      },
+      "context": {
+        "headword": "伏",
+        "term": "许块伏有人马在块",
+        "left_reading": "hṳ́-kò̤ hôk ŭ nâng-bé tŏ̤ kò̤ ;",
+        "left_gloss": "there are people lying there in ambush.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "40d7d77297b256fc20caa995bf9a8e967afa25c429c1ba296e8a9ffe5c0786c2"
+    },
+    {
+      "id": "review-134a64b1f075257a9d92",
+      "row": 45628,
+      "page": 218,
+      "pdf_page": 218,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "cí nŏ̤ ciah tó̤ īn kâi, kâi sĭ tī-tîang kâi hún-cío",
+        "",
+        "218"
+      ],
+      "current": {
+        "reading": "cí nŏ̤ ciah tó̤ īn kâi, kâi sĭ tī-tîang kâi hún-cío",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "cí nŏ̤ ciah tó̤ īn kâi, kâi sĭ tī-tîang kâi hún-cío",
+        "gloss": "whose are the two doves that are circling in the air ?"
+      },
+      "context": {
+        "headword": "翔",
+        "term": "只两只在翔个，个是底𫢗个粉鸟",
+        "left_reading": "cí nŏ̤ ciah tó̤ īn kâi, kâi sĭ tī-tîang kâi hún-cío ;",
+        "left_gloss": "whose are the two doves that are circling in the air ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "134a64b1f075257a9d92aa168748b1e80b76c4d66f2ea2d15fc6999e52e8e15a"
+    },
+    {
+      "id": "review-552d8170690150c751de",
+      "row": 45715,
+      "page": 236,
+      "pdf_page": 236,
+      "issues": [
+        "existing_key_conflict"
+      ],
+      "table_key": [
+        "khah jūu, kă m̄tn̆g",
+        "it is so tough that I cannot bite it in two.",
+        "236"
+      ],
+      "current": {
+        "reading": "khah jūn, kă m̄ tn̆g",
+        "gloss": "it is so tough that I cannot bite it in two."
+      },
+      "proposal": {
+        "reading": "khah jūu, kă m̆tng",
+        "gloss": ""
+      },
+      "context": {
+        "headword": "咬",
+        "term": "咔肕，咬唔断",
+        "left_reading": "khah jūu, kă m̆tng",
+        "left_gloss": "it is so tough that I cannot bite it in two.",
+        "kind": "ex",
+        "existing_reading_correction": "khah ~~jūu~~(jūn), kă m̄ tn̆g"
+      },
+      "source_digest": "552d8170690150c751de86a474b282368a155ccff06cfd0ac03c59aa1a058741"
+    },
+    {
+      "id": "review-71e9ffb06ee75d7ceee1",
+      "row": 45760,
+      "page": 243,
+      "pdf_page": 243,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cêng tŏng kang a būe? Is the work begun yet?",
+        "tiang-sî heng kang? When is the work to begin?",
+        "243"
+      ],
+      "current": {
+        "reading": "cêng tŏng kang a būe",
+        "gloss": "tiang-sî heng kang? When is the work to begin?"
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "Is the work begun yet?"
+      },
+      "context": {
+        "headword": "工",
+        "term": "曾动工也未",
+        "left_reading": "cêng tŏng kang a būe ;",
+        "left_gloss": "Is the work begun yet?",
+        "kind": "ex",
+        "existing_reading_correction": "cêng tŏng kang a būe"
+      },
+      "source_digest": "71e9ffb06ee75d7ceee1a449279a3e76fe1563768b5b26ff7161d1dbcec186ce"
+    },
+    {
+      "id": "review-ec28b0260dd205da4fb4",
+      "row": 45768,
+      "page": 244,
+      "pdf_page": 244,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kang tîeh cìeⁿ-seⁿ ēng cìaⁿ sĭ en huap",
+        "expend your strengh thus and that will be according to the right method.",
+        "244"
+      ],
+      "current": {
+        "reading": "kang tîeh cìeⁿ-seⁿ ēng cìaⁿ sĭen huap",
+        "gloss": "expend your strengh thus and that will be according to the right method."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "expend your strength thus and that will be according to the right method."
+      },
+      "context": {
+        "headword": "功",
+        "term": "功着障生用正善法",
+        "left_reading": "kang tîeh cìeⁿ-seⁿ ēng cìaⁿ sĭen huap ;",
+        "left_gloss": "expend your strength thus and that will be according to the right method.",
+        "kind": "ex",
+        "existing_reading_correction": "kang tîeh cìeⁿ-seⁿ ēng cìaⁿ sĭen huap"
+      },
+      "source_digest": "ec28b0260dd205da4fb4b4bb6fcd091a57ccb3f3ade7a85d0d9f72a1988ad56b"
+    },
+    {
+      "id": "review-0d8a5569cced3a475ef7",
+      "row": 45782,
+      "page": 246,
+      "pdf_page": 246,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "kāng",
+        "Collectively; in all; to sum up; to hold in common; the same.",
+        "246"
+      ],
+      "current": {
+        "reading": "kāng",
+        "gloss": "Collectively; in all; to sum up; to hold in common; the same."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "Collectively; in all; to sum up;"
+      },
+      "context": {
+        "headword": "共",
+        "term": "共",
+        "left_reading": "kāng ;",
+        "left_gloss": "Collectively; in all; to sum up; to hold in common; the same.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "0d8a5569cced3a475ef7dd24a057f8afa944e6ddd56123a5b07b956bad7b7a96"
+    },
+    {
+      "id": "review-46f816bbbeeb4c235c4b",
+      "row": 45861,
+      "page": 257,
+      "pdf_page": 257,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?",
+        "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?",
+        "257"
+      ],
+      "current": {
+        "reading": "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?",
+        "gloss": "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?"
+      },
+      "proposal": {
+        "reading": "i kâi thiap cò̤-nî chut cò̤ ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu ?",
+        "gloss": "How is it that the notice she has issued of her husband’s funeral says “mourning” instead of “deep mourning”?"
+      },
+      "context": {
+        "headword": "期",
+        "term": "伊个帖做年出做“期服夫”，无出做“杖期夫”",
+        "left_reading": "i kâi thiap cò̤-nî chut cò̤ ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu ? ;",
+        "left_gloss": "How is it that the notice she has issued of her husband’s funeral says “mourning” instead of “deep mourning”?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "46f816bbbeeb4c235c4b12468fe4a0c5767fe71a253398f5d7b2f2484c96512c"
+    },
+    {
+      "id": "review-1728ad10a3c704925655",
+      "row": 45881,
+      "page": 261,
+      "pdf_page": 261,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "móng jît móng kuaⁿ khṳ̀ pǐ kìⁿ",
+        "on a certain day a certain ofiicer was admitted to an audience.",
+        "261"
+      ],
+      "current": {
+        "reading": "móng jît móng kuaⁿ khṳ̀ pĭ kìⁿ",
+        "gloss": "on a certain day a certain ofiicer was admitted to an audience."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "on a certain day a certain officer was admitted to an audience."
+      },
+      "context": {
+        "headword": "見",
+        "term": "某日某官去被见",
+        "left_reading": "móng jît móng kuaⁿ khṳ̀ pĭ kìⁿ",
+        "left_gloss": "on a certain day a certain officer was admitted to an audience.",
+        "kind": "ex",
+        "existing_reading_correction": "móng jît móng kuaⁿ khṳ̀ pĭ kìⁿ"
+      },
+      "source_digest": "1728ad10a3c70492565502e459d5e5a724672c6e9ba1fd9633a3dffecbaa1812"
+    },
+    {
+      "id": "review-7c33f897bcc7aab2b6f8",
+      "row": 45925,
+      "page": 268,
+      "pdf_page": 268,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kìe",
+        "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed.",
+        "268"
+      ],
+      "current": {
+        "reading": "kìe",
+        "gloss": "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed."
+      },
+      "proposal": {
+        "reading": "kìe-sĭ",
+        "gloss": "on that account; says it is for this reason; to complain of."
+      },
+      "context": {
+        "headword": "呌",
+        "term": "叫是",
+        "left_reading": "kìe-sĭ ;",
+        "left_gloss": "on that account; says it is for this reason; to complain of.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "7c33f897bcc7aab2b6f893e6bbf4f2d626d7fc038198e6c5b426a06373feb856"
+    },
+    {
+      "id": "review-ba3242c3a312906b2079",
+      "row": 45928,
+      "page": 268,
+      "pdf_page": 268,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "cèng nâng ngau-ngau-kìe,",
+        "",
+        "268"
+      ],
+      "current": {
+        "reading": "cèng nâng ngau-ngau-kìe,",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "cèng nâng ngau-ngau-kìe, m̄ su-hôk",
+        "gloss": "they all murmured at it, and would not submit."
+      },
+      "context": {
+        "headword": "呌",
+        "term": "众人嗷嗷叫，唔输服",
+        "left_reading": "cèng nâng ngau-ngau-kìe, m̄ su-hôk ;",
+        "left_gloss": "they all murmured at it, and would not submit.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "ba3242c3a312906b20795d2e08fa5312c935030a29294afbec696ebf679dd00a"
+    },
+    {
+      "id": "review-89ee852257acd1bf4390",
+      "row": 45929,
+      "page": 269,
+      "pdf_page": 269,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kìe-sī",
+        "on that account; says it is for this reason; to complain of.",
+        "269"
+      ],
+      "current": {
+        "reading": "kìe-sī",
+        "gloss": "on that account; says it is for this reason; to complain of."
+      },
+      "proposal": {
+        "reading": "kìe-sĭ m̄ năi",
+        "gloss": "says it won’t prove durable."
+      },
+      "context": {
+        "headword": "呌",
+        "term": "叫是唔耐",
+        "left_reading": "kìe-sĭ m̄ năi ;",
+        "left_gloss": "says it won’t prove durable.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "89ee852257acd1bf4390deeb5be1cfc42862d87d77fa574f2bb0397b708a3a81"
+    },
+    {
+      "id": "review-763068c46f6b9298bfde",
+      "row": 45972,
+      "page": 274,
+      "pdf_page": 274,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cía cū mín-en̄g kîn",
+        "need not be in a hurry about this.",
+        "274"
+      ],
+      "current": {
+        "reading": "cía cū mín-en̄g kín",
+        "gloss": "need not be in a hurry about this."
+      },
+      "proposal": {
+        "reading": "cía cū mín-ēng kín",
+        "gloss": "you need not be in a hurry about this."
+      },
+      "context": {
+        "headword": "緊",
+        "term": "者就免用紧",
+        "left_reading": "cía cū mín-ēng kín ;",
+        "left_gloss": "you need not be in a hurry about this.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "763068c46f6b9298bfdeba71438c3b82b170571c608b9502ae47feb6540775d5"
+    },
+    {
+      "id": "review-f72b47b82eed8daf5ecc",
+      "row": 45979,
+      "page": 275,
+      "pdf_page": 275,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cìeⁿ-seⁿ sǹg sĭ kío jîu caŭ cak; that is acting as the exigencies suggest",
+        "being firm or yielding as one's interest demands.",
+        "275"
+      ],
+      "current": {
+        "reading": "cìeⁿ-seⁿ sǹg sĭ kío jîu cău cak",
+        "gloss": "being firm or yielding as one's interest demands."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "that is acting as the exigencies suggest; being firm or yielding as one’s interest demands."
+      },
+      "context": {
+        "headword": "矯",
+        "term": "障生算是矫揉造作",
+        "left_reading": "cìeⁿ-seⁿ sǹg sĭ kío jîu cău cak ;",
+        "left_gloss": "that is acting as the exigencies suggest; being firm or yielding as one’s interest demands.",
+        "kind": "ex",
+        "existing_reading_correction": "cìeⁿ-seⁿ sǹg sĭ kío jîu cău cak"
+      },
+      "source_digest": "f72b47b82eed8daf5ecc043d081038a30a7067527339bb7439c7f2ad3c99ed76"
+    },
+    {
+      "id": "review-39561a1bcaf4bbacbc3c",
+      "row": 46069,
+      "page": 288,
+      "pdf_page": 288,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?",
+        "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?",
+        "288"
+      ],
+      "current": {
+        "reading": "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?",
+        "gloss": "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?"
+      },
+      "proposal": {
+        "reading": "cí kĭaⁿ sṳ̄ sĭ kua cîⁿ kok, a kua hīaⁿ mîaⁿ ?",
+        "gloss": "Is this business to be referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?"
+      },
+      "context": {
+        "headword": "穀",
+        "term": "只件事是㧓钱谷，也㧓刑名",
+        "left_reading": "cí kĭaⁿ sṳ̄ sĭ kua cîⁿ kok, a kua hīaⁿ mîaⁿ ? ;",
+        "left_gloss": "Is this business to be referred to the clerk in the perfects office, or to the legal counsel who manages criminal cases in the local court?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "39561a1bcaf4bbacbc3ce96a6acbeb373d86a1b729b4ba1776a43242fa78af77"
+    },
+    {
+      "id": "review-c26fa1f2a887760e7ba7",
+      "row": 46273,
+      "page": 326,
+      "pdf_page": 326,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "máng bé-khí; to make edging bé-khí pĭⁿ",
+        "edging.",
+        "326"
+      ],
+      "current": {
+        "reading": "máng bé-khí",
+        "gloss": "edging."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "to make edging"
+      },
+      "context": {
+        "headword": "齒",
+        "term": "挽马齿",
+        "left_reading": "máng bé-khí ;",
+        "left_gloss": "to make edging",
+        "kind": "ex",
+        "existing_reading_correction": "máng bé-khí"
+      },
+      "source_digest": "c26fa1f2a887760e7ba74c739aadf5e58e8406ed033c895e4f80e9a522a68def"
+    },
+    {
+      "id": "review-6ce912e6792059d0d89b",
+      "row": 46283,
+      "page": 328,
+      "pdf_page": 328,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chun-khî sía jîeh coi?",
+        "How many years are recorded?",
+        "328"
+      ],
+      "current": {
+        "reading": "chun-khî sía jîeh coi?",
+        "gloss": "How many years are recorded?"
+      },
+      "proposal": {
+        "reading": "chun-khî sía jîeh cōi？",
+        "gloss": "How many years are recorded ?"
+      },
+      "context": {
+        "headword": "期",
+        "term": "春期写若㩼",
+        "left_reading": "chun-khî sía jîeh cōi？ ;",
+        "left_gloss": "How many years are recorded ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "6ce912e6792059d0d89b74df94c5ce7a0250202e4e0dc607e829f3b150235ff6"
+    },
+    {
+      "id": "review-0f802f25582aa1a4eda1",
+      "row": 46319,
+      "page": 334,
+      "pdf_page": 334,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "khîm lîah; khîm ûak; to arrest.",
+        "",
+        "334"
+      ],
+      "current": {
+        "reading": "khîm lîah; khîm ûak; to arrest.",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "khîm lîah; khîm ûak",
+        "gloss": "to arrest."
+      },
+      "context": {
+        "headword": "擒",
+        "term": "擒掠，擒获",
+        "left_reading": "khîm lîah, khîm ûak  ;",
+        "left_gloss": "to arrest.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "0f802f25582aa1a4eda1d3971f0ceb8ecf6d3f5dd4bf43a274639c4e9536d011"
+    },
+    {
+      "id": "review-809a2b9cfdeaece65d4c",
+      "row": 46323,
+      "page": 337,
+      "pdf_page": 337,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "khǹg-pàng tī-kò̤?",
+        "Where is is laid away?",
+        "337"
+      ],
+      "current": {
+        "reading": "khǹg-pàng tī-kò̤?",
+        "gloss": "Where is is laid away?"
+      },
+      "proposal": {
+        "reading": "khǹg-pàng tī̄-kò̤ ?",
+        "gloss": "Where is it laid away ?"
+      },
+      "context": {
+        "headword": "藏",
+        "term": "囥放底块",
+        "left_reading": "khǹg-pàng tī̄-kò̤ ? ;",
+        "left_gloss": "Where is it laid away ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "809a2b9cfdeaece65d4cf2c496c24ae2c6faf24f7297b73708468e825964eb38"
+    },
+    {
+      "id": "review-9dc3b4457e020a2b1564",
+      "row": 46353,
+      "page": 343,
+      "pdf_page": 343,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?",
+        "If one wishes to develop strength of thigh, in what way should he exercise?",
+        "343"
+      ],
+      "current": {
+        "reading": "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?",
+        "gloss": "If one wishes to develop strength of thigh, in what way should he exercise?"
+      },
+      "proposal": {
+        "reading": "àiⁿ līen kàu ŭ khua lâk sĭ cò̤-nî līen ?",
+        "gloss": "If one wishes to develop strength of thigh, in what way should he exercise ?"
+      },
+      "context": {
+        "headword": "胯",
+        "term": "爱练到有胯力是做年练",
+        "left_reading": "àiⁿ līen kàu ŭ khua lâk sĭ cò̤-nî līen ? ;",
+        "left_gloss": "If one wishes to develop strength of thigh, in what way should he exercise ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "9dc3b4457e020a2b1564af1cb736418373815698be3ea711149cbd356b15739d"
+    },
+    {
+      "id": "review-9a72ba649004b7f4814f",
+      "row": 46438,
+      "page": 353,
+      "pdf_page": 353,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "châng īa bw̄n khẃn",
+        "a vast extent of arable land.",
+        "353"
+      ],
+      "current": {
+        "reading": "châng tī bw̄n khẃn",
+        "gloss": "a vast extent of arable land."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "a vast extent of arrable land."
+      },
+      "context": {
+        "headword": "頃",
+        "term": "田地万顷",
+        "left_reading": "châng tī bw̄n khẃn ;",
+        "left_gloss": "a vast extent of arrable land.",
+        "kind": "ex",
+        "existing_reading_correction": "châng tī bw̄n khẃn"
+      },
+      "source_digest": "9a72ba649004b7f4814f99c0685de958a75ba897fca4c57eabac92869b935207"
+    },
+    {
+      "id": "review-9c882d38a6f313ba38ed",
+      "row": 46443,
+      "page": 354,
+      "pdf_page": 354,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤",
+        "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights.",
+        "354"
+      ],
+      "current": {
+        "reading": "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤",
+        "gloss": "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights."
+      },
+      "proposal": {
+        "reading": "cêk cio khŵn tŏ̤ chíu cū jw̆n cò̤",
+        "gloss": "as soon as he has a little temporary power in his hands, he acts without regard to other people’s rights."
+      },
+      "context": {
+        "headword": "權",
+        "term": "一朝权在手就𠉗做",
+        "left_reading": "cêk cio khŵn tŏ̤ chíu cū jw̆n cò̤ ;",
+        "left_gloss": "as soon has he has a little temporary power in his hands, he acts without regard to other people’s rights.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "9c882d38a6f313ba38ede6dfe4b5c2fb34668e378d627fe4c2d92e76a26439c1"
+    },
+    {
+      "id": "review-7fe55908a492422e935b",
+      "row": 46472,
+      "page": 357,
+      "pdf_page": 357,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?",
+        "His face looks very intelligent, bow is it that he is really so stupid?",
+        "357"
+      ],
+      "current": {
+        "reading": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?",
+        "gloss": "His face looks very intelligent, bow is it that he is really so stupid?"
+      },
+      "proposal": {
+        "reading": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀ ?",
+        "gloss": "His face looks very intelligent, how is it that he is really so stupid ?"
+      },
+      "context": {
+        "headword": "俐",
+        "term": "睇着伊个面场生来都酷伶俐，做年肚内向淤渍",
+        "left_reading": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lĕng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀ ? ;",
+        "left_gloss": "His face looks very intelligent, how is it that he is really so stupid ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "7fe55908a492422e935b473f344e019d479b990cc189f57be332af9b2b6bf0f5"
+    },
+    {
+      "id": "review-a8ede45472c620d038cc",
+      "row": 46496,
+      "page": 360,
+      "pdf_page": 360,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cí hûe kău câp tíam lâng",
+        "it is now past ton o'clock.",
+        "360"
+      ],
+      "current": {
+        "reading": "cí hûe kàu câp tíam lâng",
+        "gloss": "it is now past ton o'clock."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "it is now past ten o’clock."
+      },
+      "context": {
+        "headword": "零",
+        "term": "只回到十点零",
+        "left_reading": "cí hûe kàu câp tíam lâng ;",
+        "left_gloss": "it is now past ten o’clock.",
+        "kind": "ex",
+        "existing_reading_correction": "cí hûe kàu câp tíam lâng"
+      },
+      "source_digest": "a8ede45472c620d038cc6f8b732f3d8160c18abb06633ce9bb854d405566f531"
+    },
+    {
+      "id": "review-82aaed2fbe3442a4bea6",
+      "row": 46499,
+      "page": 360,
+      "pdf_page": 360,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "lâng tău i m̄ lài",
+        "Can you think he would come?",
+        "360"
+      ],
+      "current": {
+        "reading": "lâng tău i m̄ lài",
+        "gloss": "Can you think he would come?"
+      },
+      "proposal": {
+        "reading": "lâng tău i m̄ lâi ?",
+        "gloss": "Can you think he won’t come ?"
+      },
+      "context": {
+        "headword": "難",
+        "term": "难道伊唔来",
+        "left_reading": "lâng tău i m̄ lâi ? ;",
+        "left_gloss": "Can you think he won’t come ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "82aaed2fbe3442a4bea6e77aa40560034cb9b9b3fb5b7880fd56149e17cc5175"
+    },
+    {
+      "id": "review-a3bff6d5f117f5131c98",
+      "row": 46503,
+      "page": 362,
+      "pdf_page": 362,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "lâp",
+        "",
+        "362"
+      ],
+      "current": {
+        "reading": "lâp",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "lâp",
+        "gloss": "mixed; unassorted, confused; sweepings; rubbish."
+      },
+      "context": {
+        "headword": "邋",
+        "term": "邋",
+        "left_reading": "lâp ;",
+        "left_gloss": "mixed; unassorted, confused; sweepings; rubbish.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "a3bff6d5f117f5131c98b361bb883b20bc91f72c09a582de6cd03160453f6ef1"
+    },
+    {
+      "id": "review-d7a77df21e1c3d6c68d1",
+      "row": 46558,
+      "page": 368,
+      "pdf_page": 368,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "áu-lí",
+        "",
+        "368"
+      ],
+      "current": {
+        "reading": "áu-lí",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "áu-lí",
+        "gloss": "perverse; pig-headed."
+      },
+      "context": {
+        "headword": "理",
+        "term": "拗理",
+        "left_reading": "áu-lí ;",
+        "left_gloss": "perverse; pig-headed.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "d7a77df21e1c3d6c68d1bf27524b691e3a47a6d02aa6dfd4d3ca295b56482898"
+    },
+    {
+      "id": "review-b9562fd80c65828c07b5",
+      "row": 46561,
+      "page": 368,
+      "pdf_page": 368,
+      "issues": [
+        "cross_type",
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "chúi sŭn lí",
+        "to reason from first principles.",
+        "368"
+      ],
+      "current": {
+        "reading": "chúi sŭn lí",
+        "gloss": "to reason from first principles."
+      },
+      "proposal": {
+        "reading": "chúi chêng, tâk lí",
+        "gloss": "to reason from first principles"
+      },
+      "context": {
+        "headword": "理",
+        "term": "推情，度理",
+        "left_reading": "chúi chêng, tâk lí ;",
+        "left_gloss": "to reason from first principles",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "b9562fd80c65828c07b5ec6c580f681765337bcbad771e7321da265355bcf307"
+    },
+    {
+      "id": "review-e74e7f551fbc95a4ebeb",
+      "row": 46598,
+      "page": 374,
+      "pdf_page": 374,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "i kâi sin-hūn càng, lîang-lîang to káⁿ ciah",
+        "he is robust and can safely take refrigerant food.",
+        "374"
+      ],
+      "current": {
+        "reading": "i kâi sin-hūn càng, lîang-lîang to káⁿ ciah",
+        "gloss": "he is robust and can safely take refrigerant food."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "he is robust and can safely take refrigerant food"
+      },
+      "context": {
+        "headword": "凉",
+        "term": "伊个身份壮，凉凉都敢食",
+        "left_reading": "i kâi sin-hūn càng, lîang-lîang to káⁿ cîah ;",
+        "left_gloss": "he is robust and can safely take refrigerant food",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "e74e7f551fbc95a4ebeb60dfd893610efc3021d1898015369b92d3fdf7382330"
+    },
+    {
+      "id": "review-61baa25d7c5862f356ea",
+      "row": 46673,
+      "page": 386,
+      "pdf_page": 386,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sin tǹg kâi mêh-lôk",
+        "the blood veesels of the body.",
+        "386"
+      ],
+      "current": {
+        "reading": "sin tèng kâi mêh-lôk",
+        "gloss": "the blood veesels of the body."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the blood vessels of the body"
+      },
+      "context": {
+        "headword": "絡",
+        "term": "身顶个脉络",
+        "left_reading": "sin tèng kâi mêh-lôk ;",
+        "left_gloss": "the blood vessels of the body",
+        "kind": "ex",
+        "existing_reading_correction": "sin tèng kâi mêh-lôk"
+      },
+      "source_digest": "61baa25d7c5862f356eaf205b6b2b44af8654082cceee45d90448998b2c6aa48"
+    },
+    {
+      "id": "review-f9bcd12f4921da7c5f2b",
+      "row": 46691,
+      "page": 390,
+      "pdf_page": 390,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chap m̄ lôh khûn",
+        "did not afiiliate with them.",
+        "390"
+      ],
+      "current": {
+        "reading": "chap m̄ lôh khûn",
+        "gloss": "did not afiiliate with them."
+      },
+      "proposal": {
+        "reading": "chap m̄ lô̤h khûn",
+        "gloss": "did not afliliate with them."
+      },
+      "context": {
+        "headword": "落",
+        "term": "插唔落群",
+        "left_reading": "chap m̄ lô̤h khûn ;",
+        "left_gloss": "did not affiliate with them.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "f9bcd12f4921da7c5f2ba9270a700c7d0c2975a127635e2a128b78d64319e0a9"
+    },
+    {
+      "id": "review-787919f700c0b0267fa8",
+      "row": 46764,
+      "page": 404,
+      "pdf_page": 404,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i kâi khìo-mîoⁿ hó̤ căi",
+        "has great quickness and depth of penetration.",
+        "404"
+      ],
+      "current": {
+        "reading": "i kâi khìo-mîoⁿ hó̤ căi",
+        "gloss": "has great quickness and depth of penetration."
+      },
+      "proposal": {
+        "reading": "i kâi khìo-míoⁿ hó̤ căi",
+        "gloss": "he has great quickness and depth of penetration"
+      },
+      "context": {
+        "headword": "妙",
+        "term": "伊个窍妙在",
+        "left_reading": "i kâi khìo-míoⁿ hó̤ căi ;",
+        "left_gloss": "he has great quickness and depth of penetration",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "787919f700c0b0267fa850fc59d9e92f412d7b415e746a506c74f7edb7f4f1df"
+    },
+    {
+      "id": "review-1d3b513f9599a3d731ef",
+      "row": 46792,
+      "page": 411,
+      "pdf_page": 411,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ; a drizzling, fine rain.",
+        "",
+        "411"
+      ],
+      "current": {
+        "reading": "hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ; a drizzling, fine rain.",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ",
+        "gloss": "a drizzling, fine rain"
+      },
+      "context": {
+        "headword": "微",
+        "term": "雨微囝，雨微微",
+        "left_reading": "hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ ;",
+        "left_gloss": "a drizzling, fine rain",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "1d3b513f9599a3d731efe02fb92d4729201cb03c69f799c1d407ec05aa0c6727"
+    },
+    {
+      "id": "review-0e3f1efb4ec3060f26d4",
+      "row": 46798,
+      "page": 413,
+      "pdf_page": 413,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "nâng īeⁿ; nâng khẃn",
+        "",
+        "413"
+      ],
+      "current": {
+        "reading": "nâng īeⁿ; nâng khẃn",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "nâng īeⁿ; nâng khẃn",
+        "gloss": "human kind."
+      },
+      "context": {
+        "headword": "人",
+        "term": "人样，人款",
+        "left_reading": "nâng īeⁿ; nâng khẃn ;",
+        "left_gloss": "human kind.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "0e3f1efb4ec3060f26d4a392346f837701a9fdc917699575765e7a6e29421959"
+    },
+    {
+      "id": "review-90ad14542bacaea08376",
+      "row": 46805,
+      "page": 416,
+      "pdf_page": 416,
+      "issues": [
+        "cross_type",
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "nğ",
+        "An exclamation, expressing dissent.",
+        "416"
+      ],
+      "current": {
+        "reading": "nğ",
+        "gloss": "An exclamation, expressing dissent."
+      },
+      "proposal": {
+        "reading": "n̆g",
+        "gloss": "An exclamation, expressing dissent"
+      },
+      "context": {
+        "headword": "吁",
+        "term": "𠾛",
+        "left_reading": "n̆g ;",
+        "left_gloss": "An exclamation, expressing dissent",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "90ad14542bacaea083766de667084488db7d185334511f471fba90f5b2cc3e23"
+    },
+    {
+      "id": "review-d1fecbb83ebd78855162",
+      "row": 46806,
+      "page": 416,
+      "pdf_page": 416,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ngà",
+        "Stupid; silly; foolish.",
+        "416"
+      ],
+      "current": {
+        "reading": "khòng",
+        "gloss": "Stupid; silly; foolish."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "Stupid; doltish; simple."
+      },
+      "context": {
+        "headword": "戇",
+        "term": "朌",
+        "left_reading": "khòng ;",
+        "left_gloss": "Stupid; doltish; simple.",
+        "kind": "head",
+        "existing_reading_correction": "khòng"
+      },
+      "source_digest": "d1fecbb83ebd78855162ab5e91ed3f9a0bc60c1cb7a0eedeefba0ff85f40966d"
+    },
+    {
+      "id": "review-cdcdc2ef5c7284d6ef75",
+      "row": 46820,
+      "page": 418,
+      "pdf_page": 418,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "sì hái ngâu-îu; ngâu-îu sì hng",
+        "",
+        "418"
+      ],
+      "current": {
+        "reading": "sì hái ngâu-îu; ngâu-îu sì hng",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "sì hái ngâu-îu; ngâu-îu sì hng",
+        "gloss": "roams everywhere"
+      },
+      "context": {
+        "headword": "遨",
+        "term": "四海遨游，遨游四方",
+        "left_reading": "sì hái ngâu-îu; ngâu-îu sì hng ;",
+        "left_gloss": "roams everywhere",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "cdcdc2ef5c7284d6ef75dfa66631d2c066379ee928442fd692d6208d5667437e"
+    },
+    {
+      "id": "review-decb63dfc790b5c95a9c",
+      "row": 46833,
+      "page": 422,
+      "pdf_page": 422,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ngŏ hún",
+        "arrowroot.",
+        "422"
+      ],
+      "current": {
+        "reading": "ngó hún",
+        "gloss": "arrowroot."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "arrowrcot."
+      },
+      "context": {
+        "headword": "藕",
+        "term": "藕粉",
+        "left_reading": "ngó hún ;",
+        "left_gloss": "arrowrcot.",
+        "kind": "ex",
+        "existing_reading_correction": "ngó hún"
+      },
+      "source_digest": "decb63dfc790b5c95a9c44fcc03a7127b779a15fcdcc270976fc985732e8945e"
+    },
+    {
+      "id": "review-9c280a776dfa9a1f889b",
+      "row": 46907,
+      "page": 429,
+      "pdf_page": 429,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "nih",
+        "To wink.",
+        "429"
+      ],
+      "current": {
+        "reading": "nih",
+        "gloss": "To wink."
+      },
+      "proposal": {
+        "reading": "nih mâk",
+        "gloss": "to wink"
+      },
+      "context": {
+        "headword": "瞬",
+        "term": "𥍉目",
+        "left_reading": "nih mâk ;",
+        "left_gloss": "to wink",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "9c280a776dfa9a1f889b887ebc4fb3c17fb61231baec41b3e953b9a51de6e3a2"
+    },
+    {
+      "id": "review-9da7a2ceefa230b514cb",
+      "row": 46999,
+      "page": 442,
+      "pdf_page": 442,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chìe khṳ̀ m̄ lôh páng",
+        "he sings without regard to time.",
+        "442"
+      ],
+      "current": {
+        "reading": "chìe khṳ̀ m̄ lôh páng",
+        "gloss": "he sings without regard to time."
+      },
+      "proposal": {
+        "reading": "chìe khṳ̀ m̄ lô̤h páng",
+        "gloss": "he sings without regard to tune."
+      },
+      "context": {
+        "headword": "板",
+        "term": "唱去唔落板",
+        "left_reading": "chìe khṳ̀ m̄ lô̤h páng ;",
+        "left_gloss": "he sings without regard to tune.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "9da7a2ceefa230b514cb70624dd693e799ba9fa08f3fcd45bf28efa25ae17fb8"
+    },
+    {
+      "id": "review-1a985c5980ccfe7ac5ae",
+      "row": 47033,
+      "page": 447,
+      "pdf_page": 447,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "sía pêh jī",
+        "write words by their sound, and not according to their meaning.",
+        "447"
+      ],
+      "current": {
+        "reading": "sía pêh jī",
+        "gloss": "write words by their sound, and not according to their meaning."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "write words by their sound, and not according to their meaning"
+      },
+      "context": {
+        "headword": "白",
+        "term": "写白字",
+        "left_reading": "sía pêh jī ;",
+        "left_gloss": "write words by their sound, and not according to their meaning",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "1a985c5980ccfe7ac5ae0aa8d78a14d40ba1768ffdd3e14686f60b801ba8a96a"
+    },
+    {
+      "id": "review-43264bd7199605534a86",
+      "row": 47034,
+      "page": 448,
+      "pdf_page": 448,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "pèh-cíaⁿ",
+        "",
+        "448"
+      ],
+      "current": {
+        "reading": "pèh-cíaⁿ",
+        "gloss": "; pêh-cíaⁿ; pêh-lô̤h;"
+      },
+      "proposal": {
+        "reading": "pêh-cíaⁿ pêh-cíaⁿ ; pêh-lô̤h",
+        "gloss": "to tell falsehoods."
+      },
+      "context": {
+        "headword": "謊唐",
+        "term": "白汫",
+        "left_reading": "pêh-cíaⁿ ;",
+        "left_gloss": "",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "43264bd7199605534a86da12fa67dcbf284d856334f8d61ba03f62e54140d18c"
+    },
+    {
+      "id": "review-041a2e24c47a14bb6164",
+      "row": 47057,
+      "page": 451,
+      "pdf_page": 451,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "cêk nâng túi piⁿ, cêk nâng peⁿ kha",
+        "one dragged him by the queue and the other by his feet.",
+        "451"
+      ],
+      "current": {
+        "reading": "cêk nâng túi piⁿ, cêk nâng peⁿ kha",
+        "gloss": "one dragged him by the queue and the other by his feet."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "one dragged him by the queue and the other by his feet"
+      },
+      "context": {
+        "headword": "辮",
+        "term": "一人缒辫，一人扳骹",
+        "left_reading": "cêk nâng túi piⁿ, cêk nâng peⁿ kha ;",
+        "left_gloss": "one dragged him by the queue and the other by his feet",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "041a2e24c47a14bb61641d0b494e6c9a0833ef71620f5c86f3593e7aa7cd9647"
+    },
+    {
+      "id": "review-805e0c8b0b548bbb4125",
+      "row": 47138,
+      "page": 467,
+      "pdf_page": 467,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "pŭe",
+        "",
+        "467"
+      ],
+      "current": {
+        "reading": "pŭe",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "pŭe",
+        "gloss": "To add or heap up dirt."
+      },
+      "context": {
+        "headword": "培",
+        "term": "培",
+        "left_reading": "pŭe ;",
+        "left_gloss": "To add or heap up dirt.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "805e0c8b0b548bbb4125fdd645d9ee07617a496cb4877267ab7b74a71d1cb1ec"
+    },
+    {
+      "id": "review-82ed89f86c8630af1611",
+      "row": 47182,
+      "page": 474,
+      "pdf_page": 474,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "phî",
+        "",
+        "474"
+      ],
+      "current": {
+        "reading": "phî",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "phî",
+        "gloss": "To fly about; to flutter."
+      },
+      "context": {
+        "headword": "翩",
+        "term": "翩",
+        "left_reading": "phî ;",
+        "left_gloss": "To fly about; to flutter.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "82ed89f86c8630af1611c844d11ec82d4ba1cd6e2e55ef2b0b082539f82c3066"
+    },
+    {
+      "id": "review-5405ecdf1b8218765afe",
+      "row": 47183,
+      "page": 474,
+      "pdf_page": 474,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "phî",
+        "",
+        "474"
+      ],
+      "current": {
+        "reading": "phî",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "phî",
+        "gloss": "The temper; whims"
+      },
+      "context": {
+        "headword": "脾",
+        "term": "脾",
+        "left_reading": "phî ;",
+        "left_gloss": "The temper; whims",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "5405ecdf1b8218765afe63c59c68dd07bb59001372d2356738c471e266de1d65"
+    },
+    {
+      "id": "review-b2f8a90267a8d79241c9",
+      "row": 47216,
+      "page": 478,
+      "pdf_page": 478,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chíu tèng khîeh png ŵn-phŏ",
+        "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples.",
+        "478"
+      ],
+      "current": {
+        "reading": "chíu tèng khîeh png ŵn-phŏ",
+        "gloss": "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples."
+      },
+      "proposal": {
+        "reading": "chíu tèng khîeh pńg ŵn-phŏ",
+        "gloss": "held in his hand a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples"
+      },
+      "context": {
+        "headword": "簿",
+        "term": "手顶挈本员簿",
+        "left_reading": "chíu tèng khîeh pńg ŵn-phŏ ;",
+        "left_gloss": "held in his hand a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "b2f8a90267a8d79241c903531e79351fda62bc5698bed7987e79a00d9816d3bd"
+    },
+    {
+      "id": "review-4cb7ca227fd00131f68c",
+      "row": 47217,
+      "page": 479,
+      "pdf_page": 479,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "phōiⁿ",
+        "or pōiⁿ. To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor.",
+        "479"
+      ],
+      "current": {
+        "reading": "phōiⁿ or pōiⁿ",
+        "gloss": "or pōiⁿ. To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor"
+      },
+      "context": {
+        "headword": "辦",
+        "term": "办",
+        "left_reading": "phōiⁿ or pōiⁿ ;",
+        "left_gloss": "To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor",
+        "kind": "head",
+        "existing_reading_correction": "phōiⁿ or pōiⁿ"
+      },
+      "source_digest": "4cb7ca227fd00131f68c408401dbad0a8609f12f53c092a6e2173042e328c206"
+    },
+    {
+      "id": "review-ff1d9e1afdef44d9124d",
+      "row": 33880,
+      "page": 483,
+      "pdf_page": 483,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "phûe",
+        "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character.",
+        "483"
+      ],
+      "current": {
+        "reading": "phûe",
+        "gloss": "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character"
+      },
+      "context": {
+        "headword": "皮",
+        "term": "皮",
+        "left_reading": "phûe ;",
+        "left_gloss": "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "ff1d9e1afdef44d9124dcade59426d2009e8139ac0431d500543aa3f95a21b44"
+    },
+    {
+      "id": "review-928acfdde00c33073a52",
+      "row": 33937,
+      "page": 484,
+      "pdf_page": 484,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "phún",
+        "To cleave; to cut with a heavy downward stroke.",
+        "484"
+      ],
+      "current": {
+        "reading": "phún",
+        "gloss": "To cleave; to cut with a heavy downward stroke."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "To cleave; to cut with a heavy downward stroke"
+      },
+      "context": {
+        "headword": "𠟈",
+        "term": "𠢪",
+        "left_reading": "phún ;",
+        "left_gloss": "To cleave; to cut with a heavy downward stroke",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "928acfdde00c33073a52a7d5899726519cbff672d1bee77eaad1c8942b634388"
+    },
+    {
+      "id": "review-f3761a04da86d913f7fe",
+      "row": 47252,
+      "page": 484,
+      "pdf_page": 484,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+        "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college.",
+        "484"
+      ],
+      "current": {
+        "reading": "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+        "gloss": "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college."
+      },
+      "proposal": {
+        "reading": "cía tùi-lîn sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+        "gloss": "this pair of matched scrolls is sent as a present to congratulate him upon his son’s entrance into college."
+      },
+      "context": {
+        "headword": "泮",
+        "term": "者对联是号伊个囝入泮个",
+        "left_reading": "cía tùi-lîn sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi ;",
+        "left_gloss": "this pair of matched scrolls is sent as a present to congratulate him upon his son’s entrance into college.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "f3761a04da86d913f7fe494f0053d417fa15113651071af1b2770f32fc0efbf3"
+    },
+    {
+      "id": "review-48d2e43274b21865c3c3",
+      "row": 47256,
+      "page": 485,
+      "pdf_page": 485,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "sîn-sa",
+        "",
+        "485"
+      ],
+      "current": {
+        "reading": "sîn-sa",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "sîn-sa",
+        "gloss": "cinnabar."
+      },
+      "context": {
+        "headword": "砂",
+        "term": "辰砂",
+        "left_reading": "sîn-sa ;",
+        "left_gloss": "cinnabar.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "48d2e43274b21865c3c39d956f727ea04b7d1099a30c64ef77a296538d63c8f9"
+    },
+    {
+      "id": "review-649be1892386392b5c59",
+      "row": 47265,
+      "page": 486,
+      "pdf_page": 486,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "co sai híang tang",
+        "located with the back to tue west, and facing east.",
+        "486"
+      ],
+      "current": {
+        "reading": "co sai híang tang",
+        "gloss": "located with the back to tue west, and facing east."
+      },
+      "proposal": {
+        "reading": "cŏ̤ sai hìang tang",
+        "gloss": "located with the back to the west, and facing east."
+      },
+      "context": {
+        "headword": "西",
+        "term": "坐西向东",
+        "left_reading": "cŏ̤ sai hìang tang ;",
+        "left_gloss": "located with the back to the west, and facing east",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "649be1892386392b5c595b28f578c185e57fc006aa70d1a63d9cb5cf244656d0"
+    },
+    {
+      "id": "review-4331367110b51a0ec06b",
+      "row": 47283,
+      "page": 489,
+      "pdf_page": 489,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "sap",
+        "",
+        "489"
+      ],
+      "current": {
+        "reading": "sap",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "sap",
+        "gloss": "do not cut your hand in slicing downward."
+      },
+      "context": {
+        "headword": "颯",
+        "term": "飒",
+        "left_reading": "sap ;",
+        "left_gloss": "do not cut your hand in slicing downward.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "4331367110b51a0ec06b90827f8382f2bc6370fc9ee0d9721b5816dc88954a79"
+    },
+    {
+      "id": "review-bf4c070d81f6ec1612d3",
+      "row": 47323,
+      "page": 497,
+      "pdf_page": 497,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "sí",
+        "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable.",
+        "497"
+      ],
+      "current": {
+        "reading": "sí",
+        "gloss": "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable."
+      },
+      "proposal": {
+        "reading": "sí",
+        "gloss": "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable"
+      },
+      "context": {
+        "headword": "死",
+        "term": "做事唔好有始无终",
+        "left_reading": "cò̤ sū m̄ hó̤ ŭ sí bô̤ cong ;",
+        "left_gloss": "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "bf4c070d81f6ec1612d3a30fbd4795d0112734a2dd8fc77d1b592b2aa3e3cd18"
+    },
+    {
+      "id": "review-d5e1f876aecde8d6bb8a",
+      "row": 47331,
+      "page": 497,
+      "pdf_page": 497,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "lṳ̂ sí to bô̤ ēng",
+        "yon may kill yourself by your exertions and all will be of no use.",
+        "497"
+      ],
+      "current": {
+        "reading": "lṳ́ sí to bô̤ ēng",
+        "gloss": "yon may kill yourself by your exertions and all will be of no use."
+      },
+      "proposal": {
+        "reading": "lṳ̂ sí to bô̤ ēng",
+        "gloss": "you may kill yourself by your exertions and all will be of no use."
+      },
+      "context": {
+        "headword": "死",
+        "term": "捛死都无用",
+        "left_reading": "lṳ̂ sí to bô̤ ēng ;",
+        "left_gloss": "you may kill yourself by your exertions and all will be of no use.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "d5e1f876aecde8d6bb8aeef1b0c8d586e2e2ad9653a2cb924b63c2066bd024d5"
+    },
+    {
+      "id": "review-9a896c704fa77753002c",
+      "row": 47386,
+      "page": 505,
+      "pdf_page": 505,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu",
+        "although ho is ordinarily so sparing, still when there is occasion for it he is liberal.",
+        "505"
+      ],
+      "current": {
+        "reading": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu",
+        "gloss": "although ho is ordinarily so sparing, still when there is occasion for it he is liberal."
+      },
+      "proposal": {
+        "reading": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-làu",
+        "gloss": "although he is ordinarily so sparing, still when there is occasion for it he is liberal."
+      },
+      "context": {
+        "headword": "嗇",
+        "term": "伊平时虽是啬，有事个时候又葆涝",
+        "left_reading": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-làu ;",
+        "left_gloss": "although he is ordinarily so sparing, still when there is occasion for it he is liberal.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "9a896c704fa77753002cf8cbc91a8789d42e0b2c8bc17252eea7a9d0333badab"
+    },
+    {
+      "id": "review-352db799afd5b229497d",
+      "row": 47398,
+      "page": 507,
+      "pdf_page": 507,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sieⁿ ceng, gê tṳ̂",
+        "inlaid cops and ivory chopsticks.",
+        "507"
+      ],
+      "current": {
+        "reading": "sieⁿ ceng, gê tṳ̂",
+        "gloss": "inlaid cops and ivory chopsticks."
+      },
+      "proposal": {
+        "reading": "sieⁿ ceng, gê tṳ̄",
+        "gloss": "inlaid cups and ivory chopsticks."
+      },
+      "context": {
+        "headword": "鑲",
+        "term": "镶精，牙箸",
+        "left_reading": "sieⁿ ceng, gê tṳ̄ ;",
+        "left_gloss": "inlaid caps and ivory chopsticks.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "352db799afd5b229497da62b856b4bcdbd73a15a9a7bc4ec956ae48b68a6cb54"
+    },
+    {
+      "id": "review-806025ba7a0a3032c94e",
+      "row": 47460,
+      "page": 513,
+      "pdf_page": 513,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sîn hut; native and foreign gods",
+        "native sages and Buddha.",
+        "513"
+      ],
+      "current": {
+        "reading": "sîn-hut",
+        "gloss": "native sages and Buddha."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "native and foreign gods; native sages and Buddha."
+      },
+      "context": {
+        "headword": "神",
+        "term": "神佛",
+        "left_reading": "sîn-hut ;",
+        "left_gloss": "native and foreign gods; native sages and Buddha.",
+        "kind": "ex",
+        "existing_reading_correction": "sîn-hut"
+      },
+      "source_digest": "806025ba7a0a3032c94e4afe3aba4aec9f061268acc418e40edacaff84f908ac"
+    },
+    {
+      "id": "review-756b20e67d3a8a64e9c4",
+      "row": 47462,
+      "page": 513,
+      "pdf_page": 513,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sîn sìeⁿ; images",
+        "idols.",
+        "513"
+      ],
+      "current": {
+        "reading": "sîn sìeⁿ",
+        "gloss": "idols."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "images;idols."
+      },
+      "context": {
+        "headword": "神",
+        "term": "神仙",
+        "left_reading": "sîn sìeⁿ ;",
+        "left_gloss": "images;idols.",
+        "kind": "ex",
+        "existing_reading_correction": "sîn sìeⁿ"
+      },
+      "source_digest": "756b20e67d3a8a64e9c46c150179711932a2b7120fea87573f5b81b741b602b5"
+    },
+    {
+      "id": "review-332a14c3b730744daef1",
+      "row": 47484,
+      "page": 518,
+      "pdf_page": 518,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "siu sim",
+        "",
+        "518"
+      ],
+      "current": {
+        "reading": "siu sim",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "siu sim",
+        "gloss": "to school the feelings."
+      },
+      "context": {
+        "headword": "修",
+        "term": "修心",
+        "left_reading": "siu sim ;",
+        "left_gloss": "to school the feelings.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "332a14c3b730744daef1423c69558161a0feb364c958b7861d6d8142a8e90fd1"
+    },
+    {
+      "id": "review-cda101b2331bd10de2f1",
+      "row": 47487,
+      "page": 518,
+      "pdf_page": 518,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "siu-toaⁿ",
+        "",
+        "518"
+      ],
+      "current": {
+        "reading": "siu-toaⁿ",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "siu-toaⁿ",
+        "gloss": "a receipt for money or goods."
+      },
+      "context": {
+        "headword": "收",
+        "term": "收单",
+        "left_reading": "siu-toaⁿ ;",
+        "left_gloss": "a receipt for money or goods.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "cda101b2331bd10de2f13f6549277ef67174d8c87d17ca130aa80f9d9031e1bd"
+    },
+    {
+      "id": "review-8c2386bbea6ebbdc454b",
+      "row": 47497,
+      "page": 519,
+      "pdf_page": 519,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "tǹg-sĭu i kâi chù",
+        "",
+        "519"
+      ],
+      "current": {
+        "reading": "tǹg-sĭu i kâi chù",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "tǹg-sĭu i kâi chù",
+        "gloss": "took over his house on mortgage"
+      },
+      "context": {
+        "headword": "受",
+        "term": "当受伊个厝",
+        "left_reading": "tǹg-sĭu i kâi chù ;",
+        "left_gloss": "took over his house on mortgage",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "8c2386bbea6ebbdc454bc5dcadd96ce083a4d85f881175f3bcdb5551d7c60466"
+    },
+    {
+      "id": "review-77d3fe6559137138c93d",
+      "row": 47544,
+      "page": 523,
+      "pdf_page": 523,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "tău-thâi sĭ kẃn-lí jît-sì sôk",
+        "the ntendant of Circuit governs twenty-four dependencies.",
+        "523"
+      ],
+      "current": {
+        "reading": "tău-thâi sĭ kẃn-lí jît-sì sôk",
+        "gloss": "the ntendant of Circuit governs twenty-four dependencies."
+      },
+      "proposal": {
+        "reading": "tău-thâi sĭ kẃn-lí jîh-sì sôk",
+        "gloss": "the Intendant of Circuit governs twenty-four dependencies."
+      },
+      "context": {
+        "headword": "屬",
+        "term": "道台是管理廿四属",
+        "left_reading": "tău-thâi sĭ kẃn-lí jîh-sì sôk ;",
+        "left_gloss": "the Intendant of Circuit governs twenty-four dependencies.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "77d3fe6559137138c93df6f0515398a5eea95da65aee44aae5a67c88c269130c"
+    },
+    {
+      "id": "review-90d45125cbaebc7a1bb0",
+      "row": 47596,
+      "page": 529,
+      "pdf_page": 529,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua",
+        "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation.",
+        "529"
+      ],
+      "current": {
+        "reading": "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua",
+        "gloss": "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation."
+      },
+      "proposal": {
+        "reading": "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâi nâng kio i phah sua",
+        "gloss": "he now appears as if he had cholera, it will be well to call some one to combat the disease by manipulation."
+      },
+      "context": {
+        "headword": "痧",
+        "term": "伊只回是着痧个样，好喊个人敿伊拍痧",
+        "left_reading": "i cí-hûe sĭ tîeh sua kâi īeⁿhó̤ hàm kâi nâng kio i phah sua ;",
+        "left_gloss": "he now appears as if he had cholera, it will be well to call some one to combat the disease by manipulation.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "90d45125cbaebc7a1bb091fbb94918b6bbc8b58fa1faa2597b12e3d3c1d5e1e8"
+    },
+    {
+      "id": "review-7d18a8b136d65fa3dbd7",
+      "row": 47609,
+      "page": 531,
+      "pdf_page": 531,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "saⁿ iam nê-sùaⁿ",
+        "a three storied official umbrella.",
+        "531"
+      ],
+      "current": {
+        "reading": "saⁿ ĭam nê-sùaⁿ",
+        "gloss": "a three storied official umbrella."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "an three storied official umbrella"
+      },
+      "context": {
+        "headword": "傘",
+        "term": "三檐凉伞",
+        "left_reading": "saⁿ ĭam nê-sùaⁿ ;",
+        "left_gloss": "an three storied official umbrella",
+        "kind": "ex",
+        "existing_reading_correction": "saⁿ ĭam nê-sùaⁿ"
+      },
+      "source_digest": "7d18a8b136d65fa3dbd75eba4ce8b35d2138ee9860edd65e1e60aa3511fddbd3"
+    },
+    {
+      "id": "review-ba6b5c070e8550f7ae28",
+      "row": 47660,
+      "page": 535,
+      "pdf_page": 535,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i sûn-sûn chit-chit to cò̤ hût su",
+        "she practices Buddhist observances during every period of ten and of seven days.",
+        "535"
+      ],
+      "current": {
+        "reading": "i sûn-sûn chit-chit to cò̤ hût su",
+        "gloss": "she practices Buddhist observances during every period of ten and of seven days."
+      },
+      "proposal": {
+        "reading": "i sûn-sûn chit-chit to cò̤ hût sṳ̄",
+        "gloss": "she practises Buddhist observances during every period of ten and of seven days"
+      },
+      "context": {
+        "headword": "旬",
+        "term": "伊旬旬七七都做佛事",
+        "left_reading": "i sûn-sûn chit-chit to cò̤ hût sṳ̄ ;",
+        "left_gloss": "she practises Buddhist observances during every period of ten and of seven days",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "ba6b5c070e8550f7ae282e72d3e9daf7de80f6fdbaed196b24f883fd169e782f"
+    },
+    {
+      "id": "review-bccbc0bb8ece83cb3278",
+      "row": 47666,
+      "page": 536,
+      "pdf_page": 536,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sut",
+        "Sawdust.",
+        "536"
+      ],
+      "current": {
+        "reading": "sut",
+        "gloss": "Sawdust."
+      },
+      "proposal": {
+        "reading": "kṳ̀-sut",
+        "gloss": "sawdust."
+      },
+      "context": {
+        "headword": "糠",
+        "term": "锯屑",
+        "left_reading": "kṳ̀-sut ;",
+        "left_gloss": "sawdust.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "bccbc0bb8ece83cb3278e16cdc7dfee60bcce3b0d4d802ee7022f9bc2c82a94b"
+    },
+    {
+      "id": "review-55da82987e94d24f21f9",
+      "row": 47667,
+      "page": 536,
+      "pdf_page": 536,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kṳ̀-sut",
+        "sawdust.",
+        "536"
+      ],
+      "current": {
+        "reading": "kṳ̀-sut",
+        "gloss": "sawdust."
+      },
+      "proposal": {
+        "reading": "sut",
+        "gloss": "Sawdust."
+      },
+      "context": {
+        "headword": "糠",
+        "term": "屑",
+        "left_reading": "sut ;",
+        "left_gloss": "Sawdust.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "55da82987e94d24f21f9ea5dee915588f1903fc3da2e0598c03ac62145818b36"
+    },
+    {
+      "id": "review-6d5e2e7accefd5104d1d",
+      "row": 47686,
+      "page": 538,
+      "pdf_page": 538,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cí kâi suaⁿ sĭ tn̆g sṳ̆ a m̄ sí?",
+        "This mountaian is cut off from the mainland is it not?",
+        "538"
+      ],
+      "current": {
+        "reading": "cí kâi suaⁿ sĭ tn̆g sṳ̆ a m̄ sĭ",
+        "gloss": "This mountaian is cut off from the mainland is it not?"
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "This mountain is cut off from the mainland is it not ?"
+      },
+      "context": {
+        "headword": "嶼",
+        "term": "只个山是断屿也唔是",
+        "left_reading": "cí kâi suaⁿ sĭ tn̆g sṳ̆ a m̄ sĭ ;",
+        "left_gloss": "This mountain is cut off from the mainland is it not ?",
+        "kind": "ex",
+        "existing_reading_correction": "cí kâi suaⁿ sĭ tn̆g sṳ̆ a m̄ sĭ"
+      },
+      "source_digest": "6d5e2e7accefd5104d1d0b8130b43824140050d7f631d1fb8c0d087f256905ec"
+    },
+    {
+      "id": "review-35cf3c49182086d254b6",
+      "row": 47699,
+      "page": 540,
+      "pdf_page": 540,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn",
+        "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in.",
+        "540"
+      ],
+      "current": {
+        "reading": "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn",
+        "gloss": "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in."
+      },
+      "proposal": {
+        "reading": "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sẁn",
+        "gloss": "when the silk-moth is ready to deposit its eggs, a piece of paper must be placed for it to lay them in."
+      },
+      "context": {
+        "headword": "放",
+        "term": "蚕虵爱𤀤卵，着挈块纸乞伊𤀤",
+        "left_reading": "chōiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cùa khṳt i sẁn ;",
+        "left_gloss": "when the silk-moth is ready to deposit its eggs, a piece of paper must be placed for it to lay them in.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "35cf3c49182086d254b632e772b44bcce2f07806fddc3c59284601d83b8e1de8"
+    },
+    {
+      "id": "review-e3508bfad62b73c510ad",
+      "row": 47741,
+      "page": 544,
+      "pdf_page": 544,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+        "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash.",
+        "544"
+      ],
+      "current": {
+        "reading": "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+        "gloss": "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash."
+      },
+      "proposal": {
+        "reading": "seⁿ cò̤ kâi koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+        "gloss": "to have borne you is of less benefit than to lay an egg, for a egg is worth six cash."
+      },
+      "context": {
+        "headword": "值",
+        "term": "生做个鸡卵夭值有六个钱",
+        "left_reading": "seⁿ cò̤ kâi koi-n̆ng ío tâk ŭ lâk kâi cîⁿ ;",
+        "left_gloss": "to have borne you is of less benefit than to lay an egg, for a egg is worth six cash.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "e3508bfad62b73c510ad7b698c574451b029645441858dcafcc28c1dea7eb4ce"
+    },
+    {
+      "id": "review-788ae2fdcef58aae1a51",
+      "row": 47771,
+      "page": 549,
+      "pdf_page": 549,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "tī-hng khah khùang-tăng",
+        "the place is too wild and wide, and is not snug and cozy.",
+        "549"
+      ],
+      "current": {
+        "reading": "tī-hng khah khùang-tăng, m̄ kín-kauh",
+        "gloss": "the place is too wild and wide, and is not snug and cozy."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the place is too wild and wide, and is not sung and cozy."
+      },
+      "context": {
+        "headword": "蕩",
+        "term": "地方咔旷荡，唔紧捲",
+        "left_reading": "tī-hng khah khùang-tăng, m̄ kín-kauh ;",
+        "left_gloss": "the place is too wild and wide, and is not sung and cozy.",
+        "kind": "ex",
+        "existing_reading_correction": "tī-hng khah khùang-tăng, m̄ kín-kauh"
+      },
+      "source_digest": "788ae2fdcef58aae1a51e2c231781fb1db7b813f1ffdd5ba6d8855998cd8c51e"
+    },
+    {
+      "id": "review-117f1108a228e8d5b4d6",
+      "row": 47805,
+      "page": 555,
+      "pdf_page": 555,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "huang teng",
+        "hun teng; an opium lamp.",
+        "555"
+      ],
+      "current": {
+        "reading": "huang teng, hun teng",
+        "gloss": "hun teng; an opium lamp."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "an opium lamp."
+      },
+      "context": {
+        "headword": "燈",
+        "term": "风灯，薰灯",
+        "left_reading": "huang teng, hun teng ;",
+        "left_gloss": "an opium lamp.",
+        "kind": "ex",
+        "existing_reading_correction": "huang teng, hun teng"
+      },
+      "source_digest": "117f1108a228e8d5b4d662c154ef583381df2c9febff88ea8381ac6ab51a4f5e"
+    },
+    {
+      "id": "review-3b23cd80f66fe8c7b923",
+      "row": 47816,
+      "page": 556,
+      "pdf_page": 556,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+        "this does not suit his taste, let him select one that does.",
+        "556"
+      ],
+      "current": {
+        "reading": "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+        "gloss": "this does not suit his taste, let him select one that does."
+      },
+      "proposal": {
+        "reading": "cía īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+        "gloss": "if this does not suit his taste, let him select one that does"
+      },
+      "context": {
+        "headword": "中",
+        "term": "者也是唔中意哩随伊选到中意个",
+        "left_reading": "cía īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi ;",
+        "left_gloss": "if this does not suit his taste, let him select one that does",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "3b23cd80f66fe8c7b9233482be579640cc6fea1947f94458f48cacdcd9944b13"
+    },
+    {
+      "id": "review-711280c940508adb570b",
+      "row": 47827,
+      "page": 557,
+      "pdf_page": 557,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi",
+        "the dog seeing his master coming, is.so pleased that he stands on his hind legs.",
+        "557"
+      ],
+      "current": {
+        "reading": "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi",
+        "gloss": "the dog seeing his master coming, is.so pleased that he stands on his hind legs."
+      },
+      "proposal": {
+        "reading": "i kâi káu thóiⁿ-kìⁿ cú-nâng cē lâi , huaⁿ-hí kàu tēng khí lâi",
+        "gloss": "the dog seeing his master coming, is so pleased that he stands on his hind legs."
+      },
+      "context": {
+        "headword": "趼",
+        "term": "伊个狗睇见主人一下来欢喜到𧿘起来",
+        "left_reading": "i kâi káu thóiⁿ-kìⁿ cú-nâng cē lâi huaⁿ-hí kàu tēng khí lâi ;",
+        "left_gloss": "the dog seeing his master coming, is so pleased that he stands on his hind legs",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "711280c940508adb570b16af30bbc155223f09e04183feb324a2d2469be459b2"
+    },
+    {
+      "id": "review-990d0fe2bdb522338400",
+      "row": 39901,
+      "page": 568,
+      "pdf_page": 568,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "tin-tò̤",
+        "upside down or end foremost; inverted.",
+        "568"
+      ],
+      "current": {
+        "reading": "tin-tò̤",
+        "gloss": "upside down or end foremost; inverted."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "upside down or end foremost; inverted"
+      },
+      "context": {
+        "headword": "顚",
+        "term": "颠倒",
+        "left_reading": "tin-tò̤ ;",
+        "left_gloss": "upside down or end foremost; inverted",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "990d0fe2bdb522338400e61651c29aec2bc6bdc5c921dcf516fe222cc9c5b416"
+    },
+    {
+      "id": "review-a388a8a39ef257b1f7c6",
+      "row": 47924,
+      "page": 568,
+      "pdf_page": 568,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin",
+        "this province has several great trading marts.",
+        "568"
+      ],
+      "current": {
+        "reading": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin",
+        "gloss": "this province has several great trading marts."
+      },
+      "proposal": {
+        "reading": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tìn",
+        "gloss": "this province has several great trading-marts."
+      },
+      "context": {
+        "headword": "鎭",
+        "term": "只一省有几个大市镇",
+        "left_reading": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tìn ;",
+        "left_gloss": "this province has several great trading-marts.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "a388a8a39ef257b1f7c6a3b2fc0a3b0ff5f48de034f7a88c880355c035746076"
+    },
+    {
+      "id": "review-9345aa4e3302bc8fe73d",
+      "row": 47945,
+      "page": 571,
+      "pdf_page": 571,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cìeⁿ-seⁿ m̄ cò̤ tit",
+        "that will not answer the purpose.",
+        "571"
+      ],
+      "current": {
+        "reading": "cìeⁿ-seⁿ m̄ cò̤ tit",
+        "gloss": "that will not answer the purpose."
+      },
+      "proposal": {
+        "reading": "ŏi cò̤ tit; ŏi nîn cò̤ tit",
+        "gloss": "it will do."
+      },
+      "context": {
+        "headword": "得",
+        "term": "会做得，会紉做得",
+        "left_reading": "ŏi cò̤ tit; ŏi nîn cò̤ tit ;",
+        "left_gloss": "that will not answer the purpose.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "9345aa4e3302bc8fe73d88ae281d867b66f06ea26c731ebc22a1f08a36bdba0c"
+    },
+    {
+      "id": "review-fbdd00bc63dfa1b4bb0b",
+      "row": 48014,
+      "page": 583,
+      "pdf_page": 583,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i cŏ̤ to m̄ tiām cŏ̤, kha tŏng chíu hìⁿ",
+        "when he sits down he never sits still, but keeps flopping his limps about.",
+        "583"
+      ],
+      "current": {
+        "reading": "i cŏ̤ to m̄ tīam cŏ̤, kha tŏng chíu hìⁿ",
+        "gloss": "when he sits down he never sits still, but keeps flopping his limps about."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "when he sits down he never sits still, but keeps flopping his limbs about."
+      },
+      "context": {
+        "headword": "搖",
+        "term": "伊坐都唔恬坐，骹动手伭",
+        "left_reading": "i cŏ̤ to m̄ tīam cŏ̤, kha tŏng chíu hìⁿ",
+        "left_gloss": "when he sits down he never sits still, but keeps flopping his limbs about.",
+        "kind": "ex",
+        "existing_reading_correction": "i cŏ̤ to m̄ tīam cŏ̤, kha tŏng chíu hìⁿ"
+      },
+      "source_digest": "fbdd00bc63dfa1b4bb0b97dc48688a80c130181a80d06386b9ed71f5d9c4899d"
+    },
+    {
+      "id": "review-f5c836eb6d1790c89777",
+      "row": 48032,
+      "page": 585,
+      "pdf_page": 585,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sieh nâng tò̤ chin-chĭeⁿ hēng nâng hìeⁿ-seⁿ",
+        "loves people and appears as it he hated them.",
+        "585"
+      ],
+      "current": {
+        "reading": "sieh nâng tò̤ chin-chĭeⁿ hĕng nâng hìeⁿ-seⁿ",
+        "gloss": "loves people and appears as it he hated them."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "loves people and appears as if he hated them."
+      },
+      "context": {
+        "headword": "倒",
+        "term": "惜人倒亲像恨人向生",
+        "left_reading": "sieh nâng tò̤ chin-chĭeⁿ hĕng nâng hìeⁿ-seⁿ ;",
+        "left_gloss": "loves people and appears as if he hated them.",
+        "kind": "ex",
+        "existing_reading_correction": "sieh nâng tò̤ chin-chĭeⁿ hĕng nâng hìeⁿ-seⁿ"
+      },
+      "source_digest": "f5c836eb6d1790c89777dacb7d9cd4f817986225486fb50fac411cb859885874"
+    },
+    {
+      "id": "review-b20c7dc52288afb5bf70",
+      "row": 48067,
+      "page": 589,
+      "pdf_page": 589,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ngṳ̂n sŭ lâk-poih tŭe a sĭ chit tŭe?",
+        "Are the dollars current here reckoned at six mace right candareens, or at seven mace?",
+        "589"
+      ],
+      "current": {
+        "reading": "ngṳ̂n sĭ lâk-poih tŭe a sĭ chit tŭe？",
+        "gloss": "Are the dollars current here reckoned at six mace right candareens, or at seven mace?"
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "Are the dollars current here reckoned at six mace eight candareens, or at seven mace ?"
+      },
+      "context": {
+        "headword": "兌",
+        "term": "银是六八兑也是七兑",
+        "left_reading": "ngṳ̂n sĭ lâk-poih tŭe a sĭ chit tŭe？ ;",
+        "left_gloss": "Are the dollars current here reckoned at six mace eight candareens, or at seven mace ?",
+        "kind": "ex",
+        "existing_reading_correction": "ngṳ̂n sĭ lâk-poih tŭe a sĭ chit tŭe？"
+      },
+      "source_digest": "b20c7dc52288afb5bf703eea065fe51c3230d88ab95749e950886bc28b46a9f8"
+    },
+    {
+      "id": "review-68fe01c25f7a8105f9f3",
+      "row": 48069,
+      "page": 590,
+      "pdf_page": 590,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "chíaⁿ kuaⁿ tui-kiu",
+        "ask the magistrate to sift it to the bototm.",
+        "590"
+      ],
+      "current": {
+        "reading": "chíaⁿ kuaⁿ tui-kiu",
+        "gloss": "ask the magistrate to sift it to the bototm."
+      },
+      "proposal": {
+        "reading": "chíaⁿ kuaⁿ tui-kìu",
+        "gloss": "ask the magistrate to sift it to the bottom"
+      },
+      "context": {
+        "headword": "追",
+        "term": "请官追究",
+        "left_reading": "chíaⁿ kuaⁿ tui-kìu ;",
+        "left_gloss": "ask the magistrate to sift it to the bottom",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "68fe01c25f7a8105f9f3ea7104c3eac6ac587f3a74001c32ae065f78459b7880"
+    },
+    {
+      "id": "review-653a198f4a1654546e95",
+      "row": 48089,
+      "page": 592,
+      "pdf_page": 592,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i kâi chùi-tûn po̤h-sìe pô̤h-síe",
+        "he has a harelip.",
+        "592"
+      ],
+      "current": {
+        "reading": "i kâi chùi-tûn po̤h-sìe pô̤h-síe",
+        "gloss": "he has a harelip."
+      },
+      "proposal": {
+        "reading": "i kâi chùi-tûn pô̤h-síe pô̤h-síe",
+        "gloss": "his lips are very thin."
+      },
+      "context": {
+        "headword": "唇",
+        "term": "伊个喙唇薄小薄小",
+        "left_reading": "i kâi chùi-tûn pô̤h-síe pô̤h-síe ;",
+        "left_gloss": "his lips are very thin.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "653a198f4a1654546e950639ba5bcd178e5c2102996c32cdb03c5b23af2b2a20"
+    },
+    {
+      "id": "review-63d35207586ee543c69c",
+      "row": 48092,
+      "page": 592,
+      "pdf_page": 592,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sía “ cài pài” cū hó̤, mín sía “tŭn sía pài,”",
+        "if you write “I present my respects” (on the card), you need not write “I respectfully bow the head.”",
+        "592"
+      ],
+      "current": {
+        "reading": "sía “cài pài” cū hó̤, mín sía “tŭn síu pài”",
+        "gloss": "if you write “I present my respects” (on the card), you need not write “I respectfully bow the head.”"
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "if your write “I present my respects” (on the card), you need not write “I respectfully bow the head.”"
+      },
+      "context": {
+        "headword": "頓",
+        "term": "写“再拜”就好，免写“顿首拜”",
+        "left_reading": "sía “cài pài” cū hó̤, mín sía “tŭn síu pài” ;",
+        "left_gloss": "if your write “ I present ray respects” (on the card), you need not write “I respectfully bow the head.”",
+        "kind": "ex",
+        "existing_reading_correction": "sía “cài pài” cū hó̤, mín sía “tŭn síu pài”"
+      },
+      "source_digest": "63d35207586ee543c69c79bbeac7c57616f16c3370311c2f6b3e59f7f7da84f5"
+    },
+    {
+      "id": "review-bf893d9eeaa7c8ae7680",
+      "row": 48098,
+      "page": 593,
+      "pdf_page": 593,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "tṳ tiam",
+        "a butcher's block.",
+        "593"
+      ],
+      "current": {
+        "reading": "tṳ to̤",
+        "gloss": "a butcher's block."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "a butcher’s knife."
+      },
+      "context": {
+        "headword": "猪",
+        "term": "猪刀",
+        "left_reading": "tṳ to̤ ;",
+        "left_gloss": "a butcher’s knife.",
+        "kind": "ex",
+        "existing_reading_correction": "tṳ to̤"
+      },
+      "source_digest": "bf893d9eeaa7c8ae7680a9f6d5b309cdb3033acb1ca2d7e7573e1f406fbfdf63"
+    },
+    {
+      "id": "review-d86089b1619b6762698a",
+      "row": 48115,
+      "page": 595,
+      "pdf_page": 595,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "that khah lang",
+        "the sieve is too coars.",
+        "595"
+      ],
+      "current": {
+        "reading": "thai khah lang",
+        "gloss": "the sieve is too coars."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the sieve is too coarse."
+      },
+      "context": {
+        "headword": "篩",
+        "term": "筛咔阆",
+        "left_reading": "thai khah lang ;",
+        "left_gloss": "the sieve is too coarse",
+        "kind": "ex",
+        "existing_reading_correction": "thai khah lang"
+      },
+      "source_digest": "d86089b1619b6762698a73b52c7ef421847712717c983f5d69272f8fe5f70195"
+    },
+    {
+      "id": "review-51244ec120d6dd7f52ac",
+      "row": 48118,
+      "page": 595,
+      "pdf_page": 595,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "kuaⁿ-hú kâi jī-nâng saⁿ-nâng",
+        "",
+        "595"
+      ],
+      "current": {
+        "reading": "kuaⁿ-hú kâi jī-nâng saⁿ-nâng",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "kuaⁿ-hú kâi jī-nâng saⁿ-nâng, nâng cheng-hu i cò̤ î-thài",
+        "gloss": "the second and third wives of officers are addressed as Madame."
+      },
+      "context": {
+        "headword": "太",
+        "term": "官府个二人三人，人称呼伊做姨太",
+        "left_reading": "kuaⁿ-hú kâi jī-nâng saⁿ-nâng, nâng cheng-hu i cò̤ î-thài ;",
+        "left_gloss": "the second and third wives of officers are addressed as Madame",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "51244ec120d6dd7f52acf634b0e1e3081d93ab251790d6d0ec00eef577705478"
+    },
+    {
+      "id": "review-571c32cdc85d8c0d4a03",
+      "row": 48119,
+      "page": 596,
+      "pdf_page": 596,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "thài kong, thài phûa",
+        "lău thài îa, thài má; are appelations of the parents of men of repute.",
+        "596"
+      ],
+      "current": {
+        "reading": "thài kong; thài phûa; lău thài îa; thài má",
+        "gloss": "lău thài îa, thài má; are appelations of the parents of men of repute."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "are appelations of the parents of men of repute."
+      },
+      "context": {
+        "headword": "太",
+        "term": "太公，太婆，老太爷，太妈",
+        "left_reading": "thài kong; thài phûa; lău thài îa; thài má ;",
+        "left_gloss": "are appelations of the parents of men of repute",
+        "kind": "ex",
+        "existing_reading_correction": "thài kong; thài phûa; lău thài îa; thài má"
+      },
+      "source_digest": "571c32cdc85d8c0d4a0303139a8edaf38dfdff2db789b18c32f7ff68bf5c2c2b"
+    },
+    {
+      "id": "review-3c093b89b7f03328cec7",
+      "row": 41963,
+      "page": 598,
+      "pdf_page": 598,
+      "issues": [
+        "truncated_gloss"
+      ],
+      "table_key": [
+        "i kâi thâm-húe-cèng sêng lío",
+        "he has settled consumption.",
+        "598"
+      ],
+      "current": {
+        "reading": "i kâi thâm-húe-cèng sêng lío",
+        "gloss": "he has settled consumption."
+      },
+      "proposal": {
+        "reading": "i kâi thâm-húe-cèng sêng lío",
+        "gloss": "he has settled consumption"
+      },
+      "context": {
+        "headword": "痰",
+        "term": "伊个痰火症盛了",
+        "left_reading": "i kâi thâm-húe-cèng sêng lío ;",
+        "left_gloss": "he has settled consumption",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "3c093b89b7f03328cec7ee741dc2be90ce21ee33c558729bcdf8fa0f05ab87b5"
+    },
+    {
+      "id": "review-9b45da11efc527546617",
+      "row": 48160,
+      "page": 600,
+      "pdf_page": 600,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i kâi suū thàng căi",
+        "his affairs are thoroughly settles.",
+        "600"
+      ],
+      "current": {
+        "reading": "i kâi sṳ̄ thàng căi",
+        "gloss": "his affairs are thoroughly settles."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "his affairs are thoroughly settled."
+      },
+      "context": {
+        "headword": "透",
+        "term": "伊个事亘在",
+        "left_reading": "i kâi sṳ̄ thàng căi ;",
+        "left_gloss": "his affairs are thoroughly settled.",
+        "kind": "ex",
+        "existing_reading_correction": "i kâi sṳ̄ thàng căi"
+      },
+      "source_digest": "9b45da11efc527546617eeee7f23405065a2318a145da14586b8439397862f2c"
+    },
+    {
+      "id": "review-740cc3e73948c24e500f",
+      "row": 48223,
+      "page": 606,
+      "pdf_page": 606,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng",
+        "it is a region contiguous to the Teng Hai district.",
+        "606"
+      ],
+      "current": {
+        "reading": "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng",
+        "gloss": "it is a region contiguous to the Teng Hai district."
+      },
+      "proposal": {
+        "reading": "sĭ kio thêng-hái kūiⁿ kiam-kài kâi tī-hng",
+        "gloss": "it is a region contiguous to the TengHai district."
+      },
+      "context": {
+        "headword": "澄",
+        "term": "是敿澄海县兼界个地方",
+        "left_reading": "sĭ kio thêng-hái kūiⁿ kiam-kài kâi tī-hng ;",
+        "left_gloss": "it is a region contiguous to the TengHai district.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "740cc3e73948c24e500f2e3288317f8d044d7771273e14bf4a24f378c55ae2e7"
+    },
+    {
+      "id": "review-dc5c5ee776aa5eb6e06b",
+      "row": 48241,
+      "page": 608,
+      "pdf_page": 608,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "thî",
+        "",
+        "608"
+      ],
+      "current": {
+        "reading": "thî",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "thî",
+        "gloss": "To prepare against; to oppose a barrier."
+      },
+      "context": {
+        "headword": "隄",
+        "term": "提",
+        "left_reading": "thî ;",
+        "left_gloss": "To prepare against; to oppose a barrier",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "dc5c5ee776aa5eb6e06b5951d12bfb57ab50e542e4f6aec63cf2d2329ad9fed4"
+    },
+    {
+      "id": "review-16d9507e978b7991b74f",
+      "row": 48274,
+      "page": 612,
+      "pdf_page": 612,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?",
+        "I hear that this regiment is to be recalled is it so?",
+        "612"
+      ],
+      "current": {
+        "reading": "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?",
+        "gloss": "I hear that this regiment is to be recalled is it so?"
+      },
+      "proposal": {
+        "reading": "thiaⁿ-kìⁿ cí ki kun àiⁿ thiet, sĭ mē ?",
+        "gloss": "I hear that this regiment is to be recalled, is it so ?"
+      },
+      "context": {
+        "headword": "撤",
+        "term": "听见只支军爱撤，是么",
+        "left_reading": "thiaⁿ-kìⁿ cí ki kun àiⁿ thiet, sĭ mē ? ;",
+        "left_gloss": "I hear that this regiment is to be recalled, is it so ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "16d9507e978b7991b74fa933845e183c5f6a747a774206454a47320eff19f123"
+    },
+    {
+      "id": "review-a757ac6af20c6aed8317",
+      "row": 48280,
+      "page": 613,
+      "pdf_page": 613,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "cêng tĥin cin a būe?",
+        "Has a fac-simile been made yet?",
+        "613"
+      ],
+      "current": {
+        "reading": "cêng tĥin cin a būe?",
+        "gloss": "Has a fac-simile been made yet?"
+      },
+      "proposal": {
+        "reading": "cêng thîn cin a būe ?",
+        "gloss": "Has a facsimile been made yet ?"
+      },
+      "context": {
+        "headword": "謄",
+        "term": "曾誊真也未",
+        "left_reading": "cêng thîn cin a būe ? ;",
+        "left_gloss": "Has a facsimile been made yet ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "a757ac6af20c6aed8317970628d05922d6d624b825edfc0660b01e35348ae087"
+    },
+    {
+      "id": "review-f727f838231e2ee04326",
+      "row": 48287,
+      "page": 614,
+      "pdf_page": 614,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?",
+        "How is this matter to be lucidly set forth?",
+        "614"
+      ],
+      "current": {
+        "reading": "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?",
+        "gloss": "How is this matter to be lucidly set forth?"
+      },
+      "proposal": {
+        "reading": "cía sṳ̄ àiⁿ cò̤-nî thîo-thîn",
+        "gloss": "How is this matter to be lucidly set forth ?"
+      },
+      "context": {
+        "headword": "條",
+        "term": "者事爱做年条陈",
+        "left_reading": "cía sṳ̄ àiⁿ cò̤-nî thîo-thîn ;",
+        "left_gloss": "How is this matter to be lucidly set forth ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "f727f838231e2ee04326158aefe5fd7c470d32c7d2cf50bf96289e29d21f1c98"
+    },
+    {
+      "id": "review-245c78d0aa68acbe08c1",
+      "row": 48296,
+      "page": 615,
+      "pdf_page": 615,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu",
+        "in cutting it out, there lacks just the facing you must buy another piece for the facing.",
+        "615"
+      ],
+      "current": {
+        "reading": "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu",
+        "gloss": "in cutting it out, there lacks just the facing you must buy another piece for the facing."
+      },
+      "proposal": {
+        "reading": "ka lo̤h khṳ̀ tú-tú cûah thiu : tîeh lêng-ūaⁿ ka pò lâi cò̤ thiu",
+        "gloss": "in cutting it out, there lacks just the facing : you must buy another piece for the facing"
+      },
+      "context": {
+        "headword": "幅",
+        "term": "铰落去堵堵縒𢭆，着另换铰布来做𢭆",
+        "left_reading": "ka lo̤h khṳ̀ tú-tú cûah thiu : tîeh lêng-ūaⁿ ka pò lâi cò̤ thiu ;",
+        "left_gloss": "in cutting it out, there lacks just the facing : you must buy another piece for the facing",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "245c78d0aa68acbe08c149284999afece8f749c4511870f76351ff88e24f6ae3"
+    },
+    {
+      "id": "review-b46ed33e21c4dfe69694",
+      "row": 48305,
+      "page": 616,
+      "pdf_page": 616,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ci ki khah ńng m̄ hó̤ thn̄g",
+        "this is so flexible that it is not goot to use as a poker.",
+        "616"
+      ],
+      "current": {
+        "reading": "ci ki khah ńng m̄ hó̤ thn̄g",
+        "gloss": "this is so flexible that it is not goot to use as a poker."
+      },
+      "proposal": {
+        "reading": "cí ki khah ńng m̄ hó̤ thn̄g",
+        "gloss": "this is so flexible that it is not good to use as a poker."
+      },
+      "context": {
+        "headword": "揰",
+        "term": "只枝咔软唔好搪",
+        "left_reading": "cí ki khah ńng m̄ hó̤ thn̄g ;",
+        "left_gloss": "this is so flexible that it is not good to use as a poker",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "b46ed33e21c4dfe696948d596e638c61f471ceada9b5b6bb0993064e4faa4592"
+    },
+    {
+      "id": "review-50f0c2fb810cfe62369f",
+      "row": 48351,
+      "page": 621,
+      "pdf_page": 621,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i to bŏi tàⁿ ūa lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe",
+        "as he si no talker, why do you entrust the negotiation to him.",
+        "621"
+      ],
+      "current": {
+        "reading": "i to bŏi tàⁿ ūe lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe",
+        "gloss": "as he si no talker, why do you entrust the negotiation to him."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "as he is no talker, why do you entrust the negotiation to him."
+      },
+      "context": {
+        "headword": "託",
+        "term": "伊都𠀾呾话汝做好托伊呾话",
+        "left_reading": "i to bŏi tàⁿ ūe lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe ;",
+        "left_gloss": "as he is no talker, why do you entrust the negotiation to him.",
+        "kind": "ex",
+        "existing_reading_correction": "i to bŏi tàⁿ ūe lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe"
+      },
+      "source_digest": "50f0c2fb810cfe62369f60842ba5cd1fa95905c4ba39f894dbae15ce6e37eeee"
+    },
+    {
+      "id": "review-bd9ff92ff56d763f0ab8",
+      "row": 48388,
+      "page": 626,
+      "pdf_page": 626,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "û",
+        "",
+        "626"
+      ],
+      "current": {
+        "reading": "û",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "û",
+        "gloss": "a support or pillar; out of the perpendicular; to equivocate; to prevaricate."
+      },
+      "context": {
+        "headword": "捂",
+        "term": "吾",
+        "left_reading": "û ;",
+        "left_gloss": "a support or pillar; out of the perpendicular; to equivocate; to prevaricate.",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "bd9ff92ff56d763f0ab8d624c1168144818f0e9a14838ab609dbcbabb426d146"
+    },
+    {
+      "id": "review-106339a9b32974e580b3",
+      "row": 48421,
+      "page": 629,
+      "pdf_page": 629,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "m̄ cai i sĭ sí a sí ûah",
+        "do not know whether he is dead of a live.",
+        "629"
+      ],
+      "current": {
+        "reading": "m̄ cai i sĭ sí a sĭ ûah",
+        "gloss": "do not know whether he is dead of a live."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "do not know whether he is dead or alive"
+      },
+      "context": {
+        "headword": "活",
+        "term": "唔知伊是死也是活",
+        "left_reading": "m̄ cai i sĭ sí a sĭ ûah ;",
+        "left_gloss": "do not know whether he is dead or alive",
+        "kind": "ex",
+        "existing_reading_correction": "m̄ cai i sĭ sí a sĭ ûah"
+      },
+      "source_digest": "106339a9b32974e580b3b00d9d84d4ab80e04a8f6ca3d2c54e4b2273c350ab58"
+    },
+    {
+      "id": "review-7e9e5655932ecdd39538",
+      "row": 48431,
+      "page": 629,
+      "pdf_page": 629,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa",
+        "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again.",
+        "629"
+      ],
+      "current": {
+        "reading": "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa",
+        "gloss": "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again."
+      },
+      "proposal": {
+        "reading": "i kâi keng uâihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cē, cìaⁿ chíu pôiⁿ īa ŏi sīa",
+        "gloss": "he can shift his bow to his left hand and shoot, and then shift it to his right hand and shoot again."
+      },
+      "context": {
+        "headword": "轉",
+        "term": "伊个弓穵过倒手畔也会射，穵过一下，正手畔也会射",
+        "left_reading": "i kâi keng uâihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cē, cìaⁿ chíu pôiⁿ īa ŏi sīa ;",
+        "left_gloss": "he can shift his bow to his left hand and shoot, and then shift it to his right hand and shoot again.",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "7e9e5655932ecdd39538c918ab48f795aff3e57dfaf3b2cd28a32e75e6fecdc1"
+    },
+    {
+      "id": "review-206c55003074b7965ba2",
+      "row": 48432,
+      "page": 629,
+      "pdf_page": 629,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "húe uak-uak jîeh",
+        "the fire is blazing how.",
+        "629"
+      ],
+      "current": {
+        "reading": "húe uak-uak jîet",
+        "gloss": "the fire is blazing how."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the fire is blazing hot."
+      },
+      "context": {
+        "headword": "焜",
+        "term": "火焜焜热",
+        "left_reading": "húe uak-uak jîet ;",
+        "left_gloss": "the fire is blazing hot.",
+        "kind": "ex",
+        "existing_reading_correction": "húe uak-uak jîet"
+      },
+      "source_digest": "206c55003074b7965ba2f6fb2086d04d672a5e417b684fca481d2afbca3c2dd7"
+    },
+    {
+      "id": "review-167972707b8a8a7143b4",
+      "row": 48442,
+      "page": 630,
+      "pdf_page": 630,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kok ûang",
+        "ûang ke; the kind.",
+        "630"
+      ],
+      "current": {
+        "reading": "kok ûang; ûang ke",
+        "gloss": "the kind."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "the king"
+      },
+      "context": {
+        "headword": "王",
+        "term": "国王，王家",
+        "left_reading": "kok ûang; ûang ke ;",
+        "left_gloss": "the king",
+        "kind": "ex",
+        "existing_reading_correction": "kok ûang; ûang ke"
+      },
+      "source_digest": "167972707b8a8a7143b435b4212b62535c95720ab147cccc976be7d23730be01"
+    },
+    {
+      "id": "review-2d1ad64985d86a8e2d27",
+      "row": 48458,
+      "page": 632,
+      "pdf_page": 632,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "kheh ūe",
+        "the Hakka tongue.",
+        "632"
+      ],
+      "current": {
+        "reading": "hwn ūe",
+        "gloss": "the Hakka tongue."
+      },
+      "proposal": {
+        "reading": "hwn ūe",
+        "gloss": "foreign tongues."
+      },
+      "context": {
+        "headword": "話",
+        "term": "番话",
+        "left_reading": "hwn ūe ;",
+        "left_gloss": "foreign tongues",
+        "kind": "ex",
+        "existing_reading_correction": "hwn ūe"
+      },
+      "source_digest": "2d1ad64985d86a8e2d279bcac3703b590f3fcce8250833dc860c38ce2a18daa1"
+    },
+    {
+      "id": "review-72b8ca9afec8d8b3c65b",
+      "row": 48490,
+      "page": 635,
+      "pdf_page": 635,
+      "issues": [
+        "empty_key"
+      ],
+      "table_key": [
+        "ūi",
+        "",
+        "635"
+      ],
+      "current": {
+        "reading": "ūi",
+        "gloss": ""
+      },
+      "proposal": {
+        "reading": "ūi",
+        "gloss": "A place; a seat; a post; a position; the throne; the room a thing takes up; the place it ought to be in; a classifier of persons, dignifying them."
+      },
+      "context": {
+        "headword": "位",
+        "term": "位",
+        "left_reading": "ūi ;",
+        "left_gloss": "A place; a seat; a post; a position; the throne; the room a thing takes up; the place it ought to be in; a classifier of persons, dignifying them",
+        "kind": "head",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "72b8ca9afec8d8b3c65b24c08ad89d37e21688f422d1d5159ddc10f1375b76c0"
+    },
+    {
+      "id": "review-39971839f0c6ce59d0e9",
+      "row": 48497,
+      "page": 635,
+      "pdf_page": 635,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "tŏ̤ tî kâi ūi-chṳ̀?",
+        "In what place?",
+        "635"
+      ],
+      "current": {
+        "reading": "tŏ̤ tî kâi ūi-chṳ̀?",
+        "gloss": "In what place?"
+      },
+      "proposal": {
+        "reading": "tŏ̤ tī kâi ūi-chṳ̀ ?",
+        "gloss": "In what place ?"
+      },
+      "context": {
+        "headword": "位",
+        "term": "在底个位次",
+        "left_reading": "tŏ̤ tī kâi ūi-chṳ̀ ? ;",
+        "left_gloss": "In what place ?",
+        "kind": "ex",
+        "existing_reading_correction": ""
+      },
+      "source_digest": "39971839f0c6ce59d0e92e87b5fd42be8426e2054a50bba9c1323d4091afe275"
+    },
+    {
+      "id": "review-941ee990c0b27340cc84",
+      "row": 48498,
+      "page": 635,
+      "pdf_page": 635,
+      "issues": [
+        "cross_type"
+      ],
+      "table_key": [
+        "ūi",
+        "The stomach.",
+        "635"
+      ],
+      "current": {
+        "reading": "phêng ūi",
+        "gloss": "The stomach."
+      },
+      "proposal": {
+        "reading": "",
+        "gloss": "settle the stomach."
+      },
+      "context": {
+        "headword": "胃",
+        "term": "平胃",
+        "left_reading": "phêng ūi ;",
+        "left_gloss": "settle the stomach.",
+        "kind": "head",
+        "existing_reading_correction": "phêng ūi"
+      },
+      "source_digest": "941ee990c0b27340cc84644532ad322d99f5a0d230a1221ffa6daed78b2bc4a0"
+    }
+  ]
+}

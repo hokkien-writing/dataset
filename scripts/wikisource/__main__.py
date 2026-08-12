@@ -20,7 +20,7 @@ import sys
 from pathlib import Path
 
 from scripts.wikisource.fetch import PAGE_PREFIX, run_fetch
-from scripts.wikisource.wikitext import build_markdown
+from scripts.wikisource.wikitext import build_markdown, validate_page_markers
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 
@@ -66,6 +66,7 @@ def main():
     print("Building markdown...", file=sys.stderr)
     content = build_markdown(pages, args.start, args.end)
     content = postprocess(content, args.title)
+    validate_page_markers(content, args.start, args.end)
 
     output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(content, encoding="utf-8")

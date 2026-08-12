@@ -8,10 +8,13 @@ entries and writes them to CSV.
 """
 
 import csv
+import argparse
 import importlib
 import re
 import sys
 from pathlib import Path
+
+from scripts.punctuation import normalize_english_gloss, normalize_roman_reading
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
@@ -55,22 +58,75 @@ def find_processor(stem: str):
     return None
 
 
-def main():
+def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Export structured CSV from content sources")
+    parser.add_argument(
+        "--book",
+        dest="books",
+        action="append",
+        default=[],
+        metavar="STEM",
+        help="export only books/STEM.md; may be repeated",
+    )
+    parser.add_argument(
+        "--preserve-order",
+        action="store_true",
+        help="write entries in processor order instead of sorting by reading",
+    )
+    return parser.parse_args(argv)
+
+
+def resolve_books(stems: list[str], books_dir: Path) -> list[Path]:
+    paths: list[Path] = []
+    for stem in stems:
+        path = books_dir / f"{stem}.md"
+        if not path.is_file():
+            raise ValueError(f"book not found: {stem}")
+        paths.append(path)
+    return paths
+
+
+def order_entries(entries: list, preserve_order: bool) -> list:
+    if not preserve_order:
+        entries.sort(key=lambda entry: (entry.puj or entry.poj or "").lower())
+    return entries
+
+
+def normalize_entry_punctuation(entry) -> None:
+    entry.en = normalize_english_gloss(entry.en) if entry.en else ""
+    for field in ("puj", "poj", "dp", "bp", "tl"):
+        value = getattr(entry, field)
+        if value:
+            setattr(entry, field, normalize_roman_reading(value, entry.en))
+
+
+def main(argv: list[str] | None = None):
+    args = parse_args(argv)
     export_root = PROJECT_ROOT / "export"
     export_root.mkdir(parents=True, exist_ok=True)
 
     any_processed = False
 
-    for dir_name in SOURCE_DIRS:
-        src_dir = PROJECT_ROOT / dir_name
-        if not src_dir.exists():
-            continue
+    if args.books:
+        try:
+            selected_books = resolve_books(args.books, PROJECT_ROOT / "books")
+        except ValueError as error:
+            raise SystemExit(str(error)) from error
+        source_files = [("books", selected_books)]
+    else:
+        source_files = []
+        for dir_name in SOURCE_DIRS:
+            src_dir = PROJECT_ROOT / dir_name
+            if not src_dir.exists():
+                continue
+            ext = "*.csv" if dir_name == "clippings" else "*.md"
+            files = sorted(
+                file for file in src_dir.glob(ext) if file.name.lower() != "readme.md"
+            )
+            if files:
+                source_files.append((dir_name, files))
 
-        ext = "*.csv" if dir_name == "clippings" else "*.md"
-        md_files = sorted(f for f in src_dir.glob(ext) if f.name.lower() != "readme.md")
-        if not md_files:
-            continue
-
+    for dir_name, md_files in source_files:
         out_dir = export_root / dir_name
         out_dir.mkdir(parents=True, exist_ok=True)
 
@@ -86,6 +142,8 @@ def main():
             else:
                 processor = find_processor(md_file.stem)
                 if processor is None:
+                    if args.books:
+                        raise SystemExit(f"no processor for requested book: {md_file.stem}")
                     print(f"  ⚠ No processor for {md_file.stem}, skipping")
                     continue
                 source_name = md_file.stem
@@ -96,7 +154,9 @@ def main():
                 e for e in entries
                 if not _ILLEGIBLE_RE.search(e.puj) and not _ILLEGIBLE_RE.search(e.poj)
             ]
-            entries.sort(key=lambda e: (e.puj or e.poj or "").lower())
+            for entry in entries:
+                normalize_entry_punctuation(entry)
+            order_entries(entries, args.preserve_order)
 
             csv_path = out_dir / f"{md_file.stem}.csv"
             with open(csv_path, "w", newline="", encoding="utf-8") as f:

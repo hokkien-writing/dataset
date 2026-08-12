@@ -6,7 +6,12 @@ from collections.abc import Callable
 from pathlib import Path
 
 from scripts.processors.base import generate_modified, generate_original
-from scripts.punctuation import to_chinese_punctuation, to_roman_punctuation
+from scripts.punctuation import (
+    normalize_english_gloss,
+    normalize_roman_reading,
+    to_chinese_punctuation,
+    to_roman_punctuation,
+)
 from scripts.wikisource.corrections import load_correction_catalog
 from scripts.wikisource.postprocess import cleanup, fix_orphaned_semicolons
 
@@ -41,6 +46,7 @@ _BOOK_PUJ_OCR_FIXES: dict[str, dict[str, str]] = {
         "t6ng": "tn̆g",
         "al5i": "lâi",
         "ka1-thì": "ka-thì",
+        "nn̄g": "n̄ng",
     },
 }
 
@@ -69,6 +75,25 @@ def _normalize_preserving_corrections(
     return normalized
 
 
+def _normalize_english_preserving_corrections(text: str) -> str:
+    normalized = _normalize_preserving_corrections(text, to_roman_punctuation)
+    semantic = generate_modified(normalized)
+    if semantic == normalize_english_gloss(semantic):
+        return normalized
+    return normalized + "."
+
+
+def _normalize_reading_preserving_corrections(text: str, gloss: str) -> str:
+    normalized = _normalize_preserving_corrections(text, to_roman_punctuation)
+    semantic = generate_modified(normalized)
+    normalized_semantic = normalize_roman_reading(semantic, generate_modified(gloss))
+    if normalized_semantic == semantic:
+        return normalized
+    if normalized_semantic[:-1] == semantic:
+        return normalized + normalized_semantic[-1]
+    return normalize_roman_reading(normalized, generate_modified(gloss))
+
+
 def normalize_entry_punctuation(text: str) -> str:
     out: list[str] = []
     for line in text.splitlines(keepends=True):
@@ -77,10 +102,11 @@ def normalize_entry_punctuation(text: str) -> str:
         match = _MARKDOWN_HEAD_PUNCTUATION_RE.match(body)
         if match:
             prefix, headword, separator, reading, dash, gloss = match.groups()
+            normalized_gloss = _normalize_english_preserving_corrections(gloss)
             body = (
                 f"{prefix}{_normalize_preserving_corrections(headword, to_chinese_punctuation)}"
-                f"{separator}{_normalize_preserving_corrections(reading, to_roman_punctuation)}"
-                f"{dash}{_normalize_preserving_corrections(gloss, to_roman_punctuation)}"
+                f"{separator}{_normalize_reading_preserving_corrections(reading, normalized_gloss)}"
+                f"{dash}{normalized_gloss}"
             )
         else:
             match = _MARKDOWN_HEAD_ONLY_RE.match(body)
@@ -94,9 +120,10 @@ def normalize_entry_punctuation(text: str) -> str:
                 match = _MARKDOWN_EXAMPLE_PUNCTUATION_RE.match(body)
                 if match:
                     prefix, reading, marker, dash, gloss = match.groups()
+                    normalized_gloss = _normalize_english_preserving_corrections(gloss)
                     body = (
-                        f"{prefix}{_normalize_preserving_corrections(reading, to_roman_punctuation)}"
-                        f"{marker}{dash}{_normalize_preserving_corrections(gloss, to_roman_punctuation)}"
+                        f"{prefix}{_normalize_reading_preserving_corrections(reading, normalized_gloss)}"
+                        f"{marker}{dash}{normalized_gloss}"
                     )
                 else:
                     match = _MARKDOWN_EXAMPLE_ONLY_RE.match(body)
@@ -332,11 +359,13 @@ def _is_reading_seg(seg: str) -> bool:
         return False
     if not _READING_LIKE_RE.match(seg):
         return False
+    if any(separator in seg for separator in (",", ";")):
+        return False
     tokens = [t for t in re.split(r"[\s,]+", seg) if t]
     if not tokens:
         return False
     marked = sum(1 for t in tokens if _DIAC_MARK_RE.search(t))
-    return marked * 2 >= len(tokens)
+    return marked >= 1
 
 
 def _extract_embedded_reading(seg: str) -> tuple[str, str] | None:
@@ -418,6 +447,8 @@ def _expand_single_reading(ph: str, gl: str) -> list[tuple[str, str]]:
         return [(ph, gl)]
     gloss1, items = hit
     if gloss1:
+        if not gloss1.endswith((".", "?", "!")):
+            gloss1 += "."
         return [(ph, gloss1)] + items
     readings = "; ".join(r for r, _ in items)
     return [(f"{ph}; {readings}".strip("; "), items[-1][1])]
@@ -463,6 +494,11 @@ def _expand_example(ph: str, gl: str) -> list[tuple[str, str]]:
                 out[-1] = (out[-1][0], (out[-1][1] + " " + t).strip())
             else:
                 return [(ph, gl)]
+    if pending is None and gl:
+        expanded_gloss = _expand_example(gl, "")
+        if expanded_gloss != [(gl, "")] and all(reading for reading, _ in expanded_gloss):
+            out.extend(expanded_gloss)
+            return out
     hit = _split_embedded_gloss(gl)
     if pending is not None:
         if hit is not None:
@@ -825,12 +861,16 @@ def fix_puj_ocr_digits(text: str, title: str) -> str:
     return text
 
 
-def postprocess(text: str, title: str = "") -> str:
+def preprocess_before_corrections(text: str, title: str = "") -> str:
     text = fix_puj_ocr_digits(text, title)
     out = reformat_entries(text)
     out = fix_orphaned_semicolons(out)
     out = convert_section_titles(out)
-    out = cleanup(out)
+    return cleanup(out)
+
+
+def postprocess(text: str, title: str = "") -> str:
+    out = preprocess_before_corrections(text, title)
     out = fix_reading_corrections(out)
     out = _HYPHEN_SPACE_RE.sub("-", out)
     out = normalize_entry_punctuation(out)

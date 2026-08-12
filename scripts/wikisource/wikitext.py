@@ -13,6 +13,8 @@ from mwparserfromhell.nodes import (
     Wikilink,
 )
 
+_DASH_HEADER_RE = re.compile(r"^—\s*([A-Za-zÀ-ÖØ-öø-ÿ0-9ⁿ]+)\s*—$")
+
 DROP_TPL = {
     "multicol", "multicol-break", "multicol-end",
     "anchor", "rh", "runningheader", "rvh",
@@ -95,6 +97,12 @@ def template_to_text(tpl: Template) -> str:
         return wikicode_to_text(pos[0]).strip() if pos else ""
     if name == "species name":
         return f"*{wikicode_to_text(pos[0])}*" if pos else ""
+    if name == "center":
+        content = wikicode_to_text(pos[0]).strip() if pos else ""
+        m = _DASH_HEADER_RE.match(content)
+        if m:
+            return f"\n\n### {m.group(1)}\n\n"
+        return content
     if name == "suspect":
         return wikicode_to_text(pos[0]).strip() if pos else ""
     if name == "illegible":
@@ -385,3 +393,16 @@ def build_markdown(pages: dict[int, str], start: int, end: int) -> str:
                 chunks.append(body)
         chunks.append("")
     return "\n".join(chunks)
+
+
+def validate_page_markers(text: str, start: int, end: int) -> None:
+    marker_re = re.compile(r"<!-- page:(\d+) -->")
+    markers: list[int] = []
+    for line in text.splitlines():
+        matches = marker_re.findall(line)
+        if matches and marker_re.fullmatch(line.strip()) is None:
+            raise ValueError(f"page marker must be on its own line: {line}")
+        markers.extend(int(value) for value in matches)
+    expected = list(range(start, end + 1))
+    if markers != expected:
+        raise ValueError(f"page markers must be exactly {start} through {end} in order")

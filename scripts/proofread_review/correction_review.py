@@ -22,6 +22,10 @@ class SourceEntry:
     key: tuple[str, str, str]
 
 
+SourceIndex = dict[tuple[str, str, str], list[int]]
+SourcePairIndex = dict[tuple[str, str], list[int]]
+
+
 def build_pre_correction_markdown(
     pages: dict[int, str],
     start: int,
@@ -29,11 +33,7 @@ def build_pre_correction_markdown(
     title: str = "",
 ) -> str:
     content = build_markdown(pages, start, end)
-    content = _SWATOW.fix_puj_ocr_digits(content, title)
-    content = _SWATOW.reformat_entries(content)
-    content = _SWATOW.fix_orphaned_semicolons(content)
-    content = _SWATOW.convert_section_titles(content)
-    return _SWATOW.cleanup(content)
+    return _SWATOW.preprocess_before_corrections(content, title)
 
 
 def build_source_entries(text: str) -> list[SourceEntry]:
@@ -72,6 +72,23 @@ def build_source_entries(text: str) -> list[SourceEntry]:
     return entries
 
 
+def split_markdown_pages(text: str) -> dict[int, str]:
+    pages: dict[int, list[str]] = {}
+    page = 0
+    for line in text.splitlines():
+        marker = _SWATOW._PAGE_MARKER_RE.fullmatch(line.strip())
+        if marker:
+            page = int(marker.group(1))
+            pages.setdefault(page, [])
+        elif page:
+            pages[page].append(line)
+    return {
+        number: "\n".join(lines).strip() + "\n"
+        for number, lines in pages.items()
+        if any(line.strip() for line in lines)
+    }
+
+
 def _entry_key(reading: str, gloss: str, page: int) -> tuple[str, str, str]:
     return (
         _SWATOW._clean(generate_original(reading)),
@@ -80,22 +97,26 @@ def _entry_key(reading: str, gloss: str, page: int) -> tuple[str, str, str]:
     )
 
 
-def _index_sources(entries: list[SourceEntry]):
-    by_key: dict[tuple[str, str, str], list[int]] = {}
-    by_norm: dict[tuple[str, str, str], list[int]] = {}
-    by_norm_pair: dict[tuple[str, str], list[int]] = {}
-    by_gloss: dict[str, list[int]] = {}
+def _index_sources(
+    entries: list[SourceEntry],
+) -> tuple[SourceIndex, SourceIndex, SourcePairIndex]:
+    by_key: SourceIndex = {}
+    by_norm: SourceIndex = {}
+    by_norm_pair: SourcePairIndex = {}
     for index, entry in enumerate(entries):
         normalized = _SWATOW._review_compatible_key(entry.key)
         by_key.setdefault(entry.key, []).append(index)
         by_norm.setdefault(normalized, []).append(index)
         by_norm_pair.setdefault(normalized[:2], []).append(index)
-        by_gloss.setdefault(entry.key[1], []).append(index)
-    return by_key, by_norm, by_norm_pair, by_gloss
+    return by_key, by_norm, by_norm_pair
 
 
 def _resolve_index(
-    rule: CorrectionRule, entries, by_key, by_norm, by_norm_pair, by_gloss
+    rule: CorrectionRule,
+    entries: list[SourceEntry],
+    by_key: SourceIndex,
+    by_norm: SourceIndex,
+    by_norm_pair: SourcePairIndex,
 ) -> tuple[int, SourceEntry]:
     reading, gloss, key_page = rule.key
     key_page_number = int(key_page)
@@ -149,23 +170,6 @@ def _resolve_index(
     if len(nearby) == 1:
         index = nearby[0]
         return index, entries[index]
-    fragment = _SWATOW._clean(_SWATOW.generate_original(reading))
-    suffix_matches = [
-        index
-        for index in by_gloss.get(_SWATOW._clean(_SWATOW.generate_modified(gloss or "")), [])
-        if matches_headword(index)
-        and entries[index].page != key_page_number
-        and abs(entries[index].page - key_page_number) <= 2
-        and entries[index].key[0].endswith(fragment)
-    ]
-    if len(suffix_matches) > 1:
-        raise ValueError(
-            f"rule {rule.rule_id} ({rule.rule_type}) ambiguous: "
-            f"multiple suffix source entries match key {rule.key}"
-        )
-    if len(suffix_matches) == 1:
-        index = suffix_matches[0]
-        return index, entries[index]
     raise ValueError(
         f"rule {rule.rule_id} ({rule.rule_type}) unresolved: "
         f"no source entry matches key {rule.key}"
@@ -179,7 +183,7 @@ def build_correction_review_dataset(
     groups: dict[str, list[CorrectionRule]] = {}
     for rule in catalog.rules:
         groups.setdefault(rule.rule_id, []).append(rule)
-    by_key, by_norm, by_norm_pair, by_gloss = _index_sources(source_entries)
+    by_key, by_norm, by_norm_pair = _index_sources(source_entries)
     digest = catalog_digest(catalog)
     records: list[ReviewRecord] = []
     errors: list[str] = []
@@ -188,7 +192,7 @@ def build_correction_review_dataset(
         rule = group[0]
         try:
             index, resolved = _resolve_index(
-                rule, source_entries, by_key, by_norm, by_norm_pair, by_gloss
+                rule, source_entries, by_key, by_norm, by_norm_pair
             )
         except ValueError as error:
             errors.append(str(error))

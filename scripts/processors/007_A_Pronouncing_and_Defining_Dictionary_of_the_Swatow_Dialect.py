@@ -12,6 +12,10 @@ from scripts.processors.base import (
 
 _normalize_puj = FieldePUJSystem().normalize_book_text
 
+
+def _normalize_007_puj(text: str) -> str:
+    return _normalize_puj(text).replace("nn̄g", "n̄ng")
+
 PAGE_RE = re.compile(r"<!-- page:(\d+) -->")
 HEADWORD_RE = re.compile(r"^- \*\*(.+?)\*\*\s+(\S+)(?:\s+\([^)]*\))?(?:\s*—\s*(.*))?$")
 EXAMPLE_RE = re.compile(r"^\s*- \*(.+?)\*(?:\s*—\s*(.*))?$")
@@ -36,7 +40,7 @@ class Processor(BookProcessor):
             if head_m:
                 han = self.clean(generate_modified(head_m.group(1)))
                 han_orig = self.clean(generate_original(head_m.group(1)))
-                puj = self.clean(_normalize_puj(generate_modified(head_m.group(2))))
+                puj = self.clean(_normalize_007_puj(generate_modified(head_m.group(2))))
                 puj_orig = self.clean(generate_original(head_m.group(2)))
                 en_raw = (head_m.group(3) or "").strip()
                 en = self.clean(generate_modified(en_raw))
@@ -59,7 +63,7 @@ class Processor(BookProcessor):
 
             ex_m = EXAMPLE_RE.match(stripped)
             if ex_m:
-                phrase = self.clean(_normalize_puj(generate_modified(ex_m.group(1))))
+                phrase = self.clean(_normalize_007_puj(generate_modified(ex_m.group(1))))
                 phrase_orig = self.clean(generate_original(ex_m.group(1)))
                 gloss_raw = (ex_m.group(2) or "").strip()
                 gloss = self.clean(generate_modified(gloss_raw))

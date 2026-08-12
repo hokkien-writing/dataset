@@ -11,6 +11,10 @@ def fix_orphaned_semicolons(text: str) -> str:
     n = len(lines)
     while i < n:
         s = lines[i].strip()
+        if s.startswith("<!-- page:"):
+            out.append(lines[i])
+            i += 1
+            continue
         if s.startswith(";") and not s.startswith("; ---") and not re.fullmatch(r";\s*\d+\s*;", s):
             phrase = s.lstrip(";").strip().rstrip(";").strip()
             if phrase:
@@ -35,11 +39,16 @@ def fix_orphaned_semicolons(text: str) -> str:
                     continue
         if s and not s.startswith((";", ":", "*", "#", "-")) and not s.endswith(";"):
             accumulated = s
+            markers: list[str] = []
             j = i + 1
             merged = False
             while j < n:
                 sj = lines[j].strip()
                 if sj == "":
+                    j += 1
+                    continue
+                if sj.startswith("<!-- page:"):
+                    markers.append(sj)
                     j += 1
                     continue
                 if sj.endswith(";") and not sj.startswith((";", ":", "*", "#", "-")):
@@ -50,6 +59,7 @@ def fix_orphaned_semicolons(text: str) -> str:
                     if k < n and lines[k].strip().startswith(":"):
                         gloss = lines[k].strip().lstrip(":").strip()
                         out.append(f"  - *{accumulated.strip()}* — {gloss}" if gloss else f"  - *{accumulated.strip()}*")
+                        out.extend(markers)
                         i = k + 1
                         merged = True
                     break

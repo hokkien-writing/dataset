@@ -1,9 +1,28 @@
+import csv
 import importlib
+import json
+import tempfile
 import unittest
+from pathlib import Path
 from types import SimpleNamespace
 from unittest.mock import patch
 
-from scripts.wikisource.corrections import CorrectionCatalog, CorrectionRule
+from scripts.proofread_review.correction_review import (
+    build_correction_review_dataset,
+    build_source_entries,
+)
+from scripts.proofread_review.correction_writeback import (
+    apply_correction_plan,
+    compile_correction_plan,
+)
+from scripts.proofread_review.models import ReviewDataset, ReviewRecord
+from scripts.wikisource.corrections import (
+    CSV_HEADER,
+    CorrectionCatalog,
+    CorrectionRule,
+    load_correction_catalog,
+    rule_id_for,
+)
 from scripts.wikisource.postprocess import fix_orphaned_semicolons
 from scripts.wikisource.wikitext import validate_page_markers
 
@@ -18,6 +37,25 @@ _reformat_entries = mod.reformat_entries
 _fix_reading_corrections = mod.fix_reading_corrections
 _postprocess = mod.postprocess
 _normalize_entry_punctuation = mod.normalize_entry_punctuation
+_fix_puj_ocr_digits = mod.fix_puj_ocr_digits
+
+processor_mod = importlib.import_module(
+    "scripts.processors.007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect"
+)
+_normalize_007_puj = processor_mod._normalize_007_puj
+
+
+class TestBookPujOcrFixes(unittest.TestCase):
+    def test_normalizes_nn_with_macron_only_for_007(self) -> None:
+        text = "màiⁿ tak-nn̄g tīo sî-hāu"
+        self.assertEqual(
+            "màiⁿ tak-n̄ng tīo sî-hāu",
+            _fix_puj_ocr_digits(text, "Dictionary of the Swatow dialect.djvu"),
+        )
+        self.assertEqual(text, _fix_puj_ocr_digits(text, "Another book.djvu"))
+
+    def test_keeps_007_csv_reading_normalized(self) -> None:
+        self.assertEqual("tak-n̄ng", _normalize_007_puj("tak-nn̄g"))
 
 
 class TestSplitEmbeddedGloss(unittest.TestCase):
@@ -50,6 +88,29 @@ class TestExpandSingleReading(unittest.TestCase):
             _expand_single_reading("ang", gloss1 + "ang cía; husband and wife."),
             [("ang; ang cía", "husband and wife.")],
         )
+
+    def test_split_gloss_closes_the_first_english_sentence(self):
+        cases = (
+            (
+                "cù tíaⁿ kâi tíaⁿ-bô",
+                "the molds used in casting iron pans; thô bô; a clay mold.",
+                [
+                    ("cù tíaⁿ kâi tíaⁿ-bô", "the molds used in casting iron pans."),
+                    ("thô bô", "a clay mold."),
+                ],
+            ),
+            (
+                "phâk îam ló",
+                "to evaporate brine in making salt, tih tīo ló; drain out the brine from salt.",
+                [
+                    ("phâk îam ló", "to evaporate brine in making salt."),
+                    ("tih tīo ló", "drain out the brine from salt."),
+                ],
+            ),
+        )
+        for reading, gloss, expected in cases:
+            with self.subTest(reading=reading):
+                self.assertEqual(_expand_single_reading(reading, gloss), expected)
 
 
 class TestExpandExampleInlineEnglish(unittest.TestCase):
@@ -181,6 +242,47 @@ class TestReformatEntries(unittest.TestCase):
         out = _postprocess(raw)
         self.assertIn("- **話，好！** ua, ho!", out)
         self.assertIn("— say, 'don't!'", out)
+
+    def test_postprocess_normalizes_terminal_and_spacing_by_field(self):
+        raw = (
+            "<!-- page:1 -->\n"
+            "- **話** “tŭn síu pài” — a phrase without punctuation\n"
+            "  - *ŭ nâng lí tham sek：* — Is anybody covetous?\n"
+            "  - *cò̤-lăi* — to knock about ; to waste uselessly;to treat carelessly\n"
+        )
+        out = _postprocess(raw)
+        self.assertIn('- **話** "tŭn síu pài" — a phrase without punctuation', out)
+        self.assertIn("  - *ŭ nâng lí tham sek?* — Is anybody covetous?", out)
+        self.assertIn(
+            "  - *cò̤-lăi* — to knock about; to waste uselessly; to treat carelessly",
+            out,
+        )
+
+    def test_puj_with_unmarked_first_tone_tokens_splits_embedded_example(self):
+        raw = (
+            "* **工** kang (460|48|0)\n"
+            "; cêng tŏng kang a būe? Is the work begun yet?\n"
+            ": tiang-sî heng kang? When is the work to begin?\n"
+        )
+        out = _postprocess(raw)
+        self.assertIn(
+            "  - *cêng tŏng kang a būe?* — Is the work begun yet?\n"
+            "  - *tiang-sî heng kang?* — When is the work to begin?",
+            out,
+        )
+
+    def test_plain_english_colon_line_remains_a_gloss(self):
+        raw = (
+            "* **工** kang (460|48|0)\n"
+            "; cêng tŏng kang a būe?\n"
+            ": the work is not begun yet.\n"
+        )
+        out = _postprocess(raw)
+        self.assertIn(
+            "  - *cêng tŏng kang a būe?* — the work is not begun yet.",
+            out,
+        )
+        self.assertEqual(out.count("  - *"), 1)
 
     def test_page_marker_validation_rejects_inline_or_reordered_markers(self):
         validate_page_markers("<!-- page:1 -->\ntext\n<!-- page:2 -->\n", 1, 2)
@@ -603,6 +705,179 @@ class TestReviewCorrections(unittest.TestCase):
             output = _fix_reading_corrections(text)
         self.assertIn("- **翩** phî (1|2|3) — To fly about; to flutter.", output)
         self.assertIn("- **脾** phî (4|5|6) — The temper; whims", output)
+
+
+_E2E_SOURCE = (
+    "<!-- page:1 -->\n"
+    "- **字** raw — gloss\n"
+    "  - *ex1* — example one\n"
+    "- **字** rawtwo — gloss-two\n"
+    "  - *ex2* — example two\n"
+    "- **字** rawthree — gloss-three\n"
+)
+
+
+def _e2e_rule_row(rule_type: str, key_reading: str, key_gloss: str, **changes: str) -> dict[str, str]:
+    headword = changes.get("headword", "")
+    rule_id = rule_id_for(rule_type, headword, (key_reading, key_gloss, changes.get("page", "1")))
+    row: dict[str, str] = {
+        "rule_id": rule_id,
+        "rule_type": rule_type,
+        "headword": headword,
+        "key_reading": key_reading,
+        "key_gloss": key_gloss,
+        "page": "1",
+        "output_index": "1",
+        "replacement_reading": "",
+        "replacement_gloss": "",
+        "enabled": "true",
+        "review_status": "pending",
+        "note": "",
+    }
+    row.update(changes)
+    return row
+
+
+def _write_e2e_csv(path: Path, rows: list[dict[str, str]]) -> None:
+    with path.open("w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=CSV_HEADER.split(","), lineterminator="\n")
+        writer.writeheader()
+        writer.writerows(rows)
+
+
+class TestEndToEndCorrectionWriteback(unittest.TestCase):
+    def test_only_accepted_decisions_change_applied_output(self) -> None:
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            catalog_path = root / "fixture.csv"
+            rows = [
+                _e2e_rule_row("reading", "raw", "gloss", replacement_reading="fixed-reading"),
+                _e2e_rule_row("gloss", "rawtwo", "gloss-two", replacement_gloss="fixed-gloss"),
+                _e2e_rule_row(
+                    "example_split",
+                    "ex1",
+                    "example one",
+                    replacement_reading="one",
+                    replacement_gloss="first.",
+                    output_index="1",
+                ),
+                _e2e_rule_row(
+                    "example_split",
+                    "ex1",
+                    "example one",
+                    replacement_reading="two",
+                    replacement_gloss="second.",
+                    output_index="2",
+                ),
+                _e2e_rule_row(
+                    "review",
+                    "ex2",
+                    "example two",
+                    replacement_reading="ex2-fixed",
+                    replacement_gloss="example two fixed.",
+                ),
+                _e2e_rule_row(
+                    "headword_review",
+                    "rawthree",
+                    "gloss-three",
+                    headword="字",
+                    replacement_reading="字 result",
+                ),
+            ]
+            _write_e2e_csv(catalog_path, rows)
+            dataset = build_correction_review_dataset(
+                load_correction_catalog(catalog_path), build_source_entries(_E2E_SOURCE)
+            )
+            records_by_type = {
+                record.context["rule_type"]: record for record in dataset.records
+            }
+            self.assertEqual(
+                set(records_by_type),
+                {"reading", "gloss", "example_split", "review", "headword_review"},
+            )
+            reading = records_by_type["reading"]
+            gloss = records_by_type["gloss"]
+            split = records_by_type["example_split"]
+            review = records_by_type["review"]
+            headword = records_by_type["headword_review"]
+            decisions = [
+                {
+                    "id": reading.id,
+                    "source_digest": reading.source_digest,
+                    "status": "accepted",
+                    "final": dict(reading.proposal),
+                    "note": "",
+                },
+                {
+                    "id": gloss.id,
+                    "source_digest": gloss.source_digest,
+                    "status": "accepted",
+                    "final": dict(gloss.current),
+                    "note": "維持原書",
+                },
+                {
+                    "id": split.id,
+                    "source_digest": split.source_digest,
+                    "status": "rejected",
+                    "final": dict(split.proposal),
+                    "note": "PDF 未見拆分",
+                },
+                {
+                    "id": review.id,
+                    "source_digest": review.source_digest,
+                    "status": "deferred",
+                    "final": dict(review.proposal),
+                    "note": "",
+                },
+                {
+                    "id": headword.id,
+                    "source_digest": headword.source_digest,
+                    "status": "accepted",
+                    "final": dict(headword.proposal),
+                    "note": "",
+                },
+            ]
+            data_path = root / "data.json"
+            data_path.write_text(json.dumps(dataset.to_dict(), ensure_ascii=False), encoding="utf-8")
+            decisions_path = root / "decisions.json"
+            decisions_path.write_text(
+                json.dumps(
+                    {
+                        "schema": "proofread-review-decisions/v1",
+                        "data_version": dataset.data_version,
+                        "decisions": decisions,
+                    },
+                    ensure_ascii=False,
+                ),
+                encoding="utf-8",
+            )
+            plan = compile_correction_plan(catalog_path, data_path, decisions_path)
+            self.assertEqual(len(plan["changes"]), 4)
+            self.assertEqual(plan["deferred"], [review.context["rule_id"]])
+            apply_correction_plan(catalog_path, plan)
+            applied = load_correction_catalog(catalog_path)
+            self.assertEqual(applied.reading[("raw", "gloss", "1")], "fixed-reading")
+            self.assertNotIn(("rawtwo", "gloss-two", "1"), applied.gloss)
+            self.assertNotIn(("ex1", "example one", "1"), applied.example_splits)
+            self.assertEqual(
+                applied.review[("ex2", "example two", "1")],
+                ("ex2-fixed", "example two fixed."),
+            )
+            self.assertEqual(
+                applied.headword_review[("字", "rawthree", "gloss-three", "1")],
+                ("字 result", None),
+            )
+            with patch.object(mod, "CORRECTION_CATALOG", applied):
+                fixed = _fix_reading_corrections(_E2E_SOURCE)
+            self.assertEqual(
+                fixed,
+                "<!-- page:1 -->\n"
+                "- **字** fixed-reading — gloss\n"
+                "  - *ex1* — example one\n"
+                "- **字** rawtwo — gloss-two\n"
+                "  - *ex2-fixed* — example two fixed.\n"
+                "- **字** 字 result — gloss-three\n",
+            )
 
 
 if __name__ == "__main__":

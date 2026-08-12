@@ -131,9 +131,14 @@ class ReviewDataset:
     records: tuple[ReviewRecord, ...]
     data_version: str
     issue_counts: dict[str, int]
+    page_markdown: dict[int, str]
 
     @classmethod
-    def from_records(cls, records: list[ReviewRecord]) -> ReviewDataset:
+    def from_records(
+        cls,
+        records: list[ReviewRecord],
+        page_markdown: dict[int, str] | None = None,
+    ) -> ReviewDataset:
         ids = [record.id for record in records]
         if len(ids) != len(set(ids)):
             raise ValueError("duplicate stable id")
@@ -143,7 +148,17 @@ class ReviewDataset:
             for issue in record.issues:
                 counts[issue] += 1
         version = _digest([record.to_dict() for record in ordered])
-        return cls(records=ordered, data_version=version, issue_counts=counts)
+        pages = dict(sorted((page_markdown or {}).items()))
+        if any(not isinstance(page, int) or page < 1 for page in pages):
+            raise ValueError("page_markdown keys must be positive integers")
+        if any(not isinstance(text, str) for text in pages.values()):
+            raise ValueError("page_markdown values must be strings")
+        return cls(
+            records=ordered,
+            data_version=version,
+            issue_counts=counts,
+            page_markdown=pages,
+        )
 
     def to_dict(self) -> dict[str, object]:
         return {
@@ -153,6 +168,7 @@ class ReviewDataset:
             "record_count": len(self.records),
             "issue_count": sum(self.issue_counts.values()),
             "issue_counts": self.issue_counts,
+            "page_markdown": {str(page): text for page, text in self.page_markdown.items()},
             "records": [record.to_dict() for record in self.records],
         }
 

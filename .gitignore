@@ -13,3 +13,16 @@ export/books/ssmp_modified.md
 export/books/ssmp_original.md
 *.pdf
 *.docx
+books/（合併校對&修正讀音）斐姑娘詞典.csv
+
+# agent-kit:start
+.agent-kit/
+.agents/skills/
+# agent-kit:end
+
+.superpowers
+.claude
+.codex
+.opencode
+
+agent-kit.yaml

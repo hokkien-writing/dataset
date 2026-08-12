@@ -27,10 +27,19 @@ def _ordinary_accepted_row(
     final: dict[str, str],
 ) -> dict[str, str]:
     row = dict(old_row)
-    for field, csv_field in (
-        ("reading", "replacement_reading"),
-        ("gloss", "replacement_gloss"),
-    ):
+    fields_by_rule_type = {
+        "reading": (("reading", "replacement_reading"),),
+        "gloss": (("gloss", "replacement_gloss"),),
+        "review": (
+            ("reading", "replacement_reading"),
+            ("gloss", "replacement_gloss"),
+        ),
+        "headword_review": (
+            ("reading", "replacement_reading"),
+            ("gloss", "replacement_gloss"),
+        ),
+    }
+    for field, csv_field in fields_by_rule_type[old_row["rule_type"]]:
         final_value = final.get(field, "")
         if final_value != current.get(field, "") or row[csv_field] != "":
             row[csv_field] = final_value

@@ -24,6 +24,8 @@ const state = {
   filtered: [],
   activeId: null,
   shownPdfPage: null,
+  shownDictionaryPage: null,
+  sourceMode: "pdf",
   pdfPages: 648,
   pageOffset: 0,
   viewer: { scale: 1, x: 0, y: 0, dragging: false, pointerId: null, lastX: 0, lastY: 0 },
@@ -481,6 +483,7 @@ function updateSummary() {
 
 function showPdfPage(pdfPage, dictionaryPage = null) {
   state.shownPdfPage = Math.max(1, Math.min(state.pdfPages, pdfPage));
+  state.shownDictionaryPage = dictionaryPage ?? state.shownPdfPage - state.pageOffset;
   elements.pageInput.value = String(state.shownPdfPage);
   elements.pageInput.max = String(state.pdfPages);
   elements.sourceLoading.hidden = false;
@@ -494,8 +497,31 @@ function showPdfPage(pdfPage, dictionaryPage = null) {
     elements.sourceLoading.textContent = "原书页载入失败，右侧仍可继续校订";
   };
   elements.sourceImage.src = `/api/page/${state.shownPdfPage}.jpg`;
-  const mappedDictionaryPage = dictionaryPage ?? state.shownPdfPage - state.pageOffset;
-  elements.pageLabel.textContent = `原书第 ${mappedDictionaryPage} 页 / PDF ${state.shownPdfPage}`;
+  elements.pageLabel.textContent = `原书第 ${state.shownDictionaryPage} 页 / PDF ${state.shownPdfPage}`;
+  renderMarkdownPage(state.shownDictionaryPage);
+}
+
+function renderMarkdownPage(dictionaryPage) {
+  const markdown = state.dataset?.page_markdown?.[String(dictionaryPage)] || "";
+  elements.markdownViewer.textContent = markdown || `第 ${dictionaryPage} 页没有可用的 Markdown 文本。`;
+  elements.markdownViewer.classList.toggle("is-empty", !markdown);
+  elements.markdownViewer.scrollTop = 0;
+}
+
+function showSourceMode(mode) {
+  state.sourceMode = mode === "markdown" ? "markdown" : "pdf";
+  const markdownMode = state.sourceMode === "markdown";
+  elements.sourceViewer.hidden = markdownMode;
+  elements.markdownViewer.hidden = !markdownMode;
+  elements.zoomControls.hidden = markdownMode;
+  elements.sourceModePdf.classList.toggle("is-active", !markdownMode);
+  elements.sourceModeMarkdown.classList.toggle("is-active", markdownMode);
+  elements.sourceModePdf.setAttribute("aria-pressed", String(!markdownMode));
+  elements.sourceModeMarkdown.setAttribute("aria-pressed", String(markdownMode));
+  elements.viewerHelp.textContent = markdownMode
+    ? "同页修正规则前 Markdown · 可选择文本并独立滚动"
+    : "滚轮缩放 · 拖曳移动 · 双击恢复适合宽度";
+  if (markdownMode) renderMarkdownPage(state.shownDictionaryPage);
 }
 
 function applyViewerTransform() {
@@ -699,6 +725,8 @@ function bindEvents() {
     const value = Number(elements.pageInput.value);
     if (Number.isInteger(value) && value >= 1) showPdfPage(value);
   });
+  elements.sourceModePdf.addEventListener("click", () => showSourceMode("pdf"));
+  elements.sourceModeMarkdown.addEventListener("click", () => showSourceMode("markdown"));
 
   elements.sourceViewer.addEventListener("wheel", (event) => {
     event.preventDefault();
@@ -732,11 +760,15 @@ function bindEvents() {
   elements.pageNext.addEventListener("click", () => showPdfPage(state.shownPdfPage + 1));
   window.addEventListener("resize", fitWidth);
   window.addEventListener("keydown", (event) => {
+    if (event.key === "Enter" && event.ctrlKey) {
+      event.preventDefault();
+      setStatus("accepted", true);
+      return;
+    }
     if (isEditableTarget(event.target)) return;
     if (event.key === "1") { chooseField("reading", "proposal"); chooseField("gloss", "proposal"); }
     else if (event.key === "2") { chooseField("reading", "current"); chooseField("gloss", "current"); }
     else if (event.key.toLowerCase() === "e") elements.readingFinal.focus();
-    else if (event.key === "Enter") setStatus("accepted", true);
   });
 }
 
@@ -744,7 +776,7 @@ async function init() {
   Object.assign(elements, {
     errorBanner: el("error-banner"), datasetSummary: el("dataset-summary"), saveState: el("save-state"), importButton: el("import-button"), saveButton: el("save-button"), exportButton: el("export-button"), importFile: el("import-file"),
     statusFilter: el("status-filter"), ruleTypeFilter: el("rule-type-filter"), searchInput: el("search-input"), listSummary: el("list-summary"), recordList: el("record-list"),
-    sourceViewer: el("source-viewer"), sourceStage: el("source-stage"), sourceImage: el("source-image"), sourceLoading: el("source-loading"), pageLabel: el("page-label"), pageInput: el("page-input"), pagePrevious: el("page-previous"), pageNext: el("page-next"), zoomIn: el("zoom-in"), zoomOut: el("zoom-out"), zoomValue: el("zoom-value"), fitWidth: el("fit-width"),
+    sourceViewer: el("source-viewer"), sourceStage: el("source-stage"), sourceImage: el("source-image"), sourceLoading: el("source-loading"), markdownViewer: el("markdown-viewer"), sourceModePdf: el("source-mode-pdf"), sourceModeMarkdown: el("source-mode-markdown"), viewerHelp: el("viewer-help"), pageLabel: el("page-label"), pageInput: el("page-input"), pagePrevious: el("page-previous"), pageNext: el("page-next"), zoomControls: document.querySelector(".zoom-controls"), zoomIn: el("zoom-in"), zoomOut: el("zoom-out"), zoomValue: el("zoom-value"), fitWidth: el("fit-width"),
     reviewForm: el("review-form"), recordPosition: el("record-position"), recordTitle: el("record-title"), issueTags: el("issue-tags"), recordPrevious: el("record-previous"), recordNext: el("record-next"),
     readingFinal: el("reading-final"), glossFinal: el("gloss-final"), decisionNote: el("decision-note"), evidenceList: el("evidence-list"), deferButton: el("defer-button"), rejectButton: el("reject-button"), keepButton: el("keep-button"), acceptButton: el("accept-button"),
     matchDisposition: el("match-disposition"), ruleKeyList: el("rule-key-list"), ruleTypeBadge: el("rule-type-badge"), splitEditor: el("split-editor"), splitRows: el("split-rows"), splitAdd: el("split-add"),

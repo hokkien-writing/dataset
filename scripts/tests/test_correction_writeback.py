@@ -192,6 +192,17 @@ class TestCorrectionWriteback(unittest.TestCase):
         self.assertEqual(new_row["review_status"], "accepted")
         self.assertEqual(new_row["replacement_reading"], "custom")
 
+    def test_reading_rule_does_not_write_a_custom_gloss(self) -> None:
+        dataset = self._dataset(
+            [_correction_row(rule_id_for("reading", "", ("raw", "gloss", "1")))]
+        )
+        final = {"reading": "custom", "gloss": "custom gloss"}
+        plan = self._compile(dataset, [_decision(dataset, final=final)])
+        [change] = plan["changes"]
+        [new_row] = change["new_rows"]
+        self.assertEqual(new_row["replacement_reading"], "custom")
+        self.assertEqual(new_row["replacement_gloss"], "")
+
     def test_gloss_rule_maps_final_back_to_replacement_field(self) -> None:
         rule_id = rule_id_for("gloss", "", ("raw", "gloss", "1"))
         dataset = self._dataset(

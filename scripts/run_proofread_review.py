@@ -11,16 +11,13 @@ from scripts.proofread_review.server import DocumentConfig, create_server
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DEFAULT_DATA = PROJECT_ROOT / "scripts/proofread_review/review_data.json"
-DEFAULT_PDF = Path(
-    "/Users/lim/Desktop/A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.pdf"
-)
 DEFAULT_CACHE = PROJECT_ROOT / "tmp/proofread-review-pages"
 DEFAULT_DECISIONS = PROJECT_ROOT / "tmp/007-proofread-decisions.json"
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="启动 007 人工校订网页")
-    parser.add_argument("--pdf", type=Path, default=DEFAULT_PDF)
+    parser.add_argument("--pdf", type=Path, required=True)
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA)
     parser.add_argument("--cache-dir", type=Path, default=DEFAULT_CACHE)
     parser.add_argument("--decisions", type=Path, default=DEFAULT_DECISIONS)

@@ -186,6 +186,18 @@ class TestCatalogValidation(unittest.TestCase):
     def test_invalid_boolean(self) -> None:
         self._assert_invalid([_base_row("007-reading-aaaa", enabled="yes")], "invalid enabled")
 
+    def test_replacement_rejects_space_before_terminal_punctuation(self) -> None:
+        self._assert_invalid(
+            [_base_row("007-reading-aaaa", replacement_reading="lṳ́ sĭeⁿ ?")],
+            "space before terminal punctuation",
+        )
+
+    def test_rule_id_must_match_rule_fields(self) -> None:
+        self._assert_invalid(
+            [_base_row("007-reading-aaaaaaaaaaaaaaaa")],
+            "rule_id does not match rule fields",
+        )
+
     def test_missing_headword(self) -> None:
         self._assert_invalid(
             [
@@ -414,15 +426,15 @@ class CorrectionMigrationTests(unittest.TestCase):
         self.assertEqual(
             counts,
             {
-                "reading": 1002,
+                "reading": 997,
                 "gloss": 2,
-                "example_split": 11,
-                "review": 2016,
+                "example_split": 4,
+                "review": 2015,
                 "headword_review": 3,
             },
         )
-        self.assertEqual(len(seen_ids), 3034)
-        self.assertEqual(len(self.catalog.rules), 3045)
+        self.assertEqual(len(seen_ids), 3021)
+        self.assertEqual(len(self.catalog.rules), 3025)
 
     def test_all_rule_ids_match_deterministic_formula(self) -> None:
         for rule in self.catalog.rules:

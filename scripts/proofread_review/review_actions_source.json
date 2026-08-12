@@ -1,0 +1,2732 @@
+[
+  {
+    "type": "t7_reading",
+    "row": 44702,
+    "page": "32",
+    "tbl_key": [
+      "au",
+      "To cudgel; to maul.",
+      "32"
+    ],
+    "replacement": "áu",
+    "kind": "head",
+    "007_en": "To cudgel; to maul.",
+    "007_puj": "au",
+    "pre_read_display": "au"
+  },
+  {
+    "type": "t7_reading",
+    "row": 44722,
+    "page": "35",
+    "tbl_key": [
+      "bé cang mó̤ⁿ",
+      "horse's mane.",
+      "35"
+    ],
+    "replacement": "bé cang mô̤ⁿ",
+    "kind": "ex",
+    "007_en": "horse's mane.",
+    "007_puj": "bé cang mó̤ⁿ",
+    "pre_read_display": "bé cang mó̤ⁿ"
+  },
+  {
+    "type": "t7_reading",
+    "row": 44723,
+    "page": "35",
+    "tbl_key": [
+      "kìm bô pàng bé",
+      "to forbid the employment of \"ponies\" at a literary examination.",
+      "35"
+    ],
+    "replacement": "kìm bô̤ pàng bé",
+    "kind": "ex",
+    "007_en": "to forbid the employment of \"ponies\" at a literary examination.",
+    "007_puj": "kìm bô pàng bé",
+    "pre_read_display": "kìm bô pàng bé"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45195,
+    "page": "118",
+    "tbl_key": [
+      "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?",
+      "Are these bills collected monthly, or at other fixed periods?",
+      "118"
+    ],
+    "replacement": "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu ?",
+    "kind": "ex",
+    "007_en": "Are these bills collected monthly, or at other fixed periods?",
+    "007_puj": "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?",
+    "pre_read_display": "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45242,
+    "page": "127",
+    "tbl_key": [
+      "lâu chiu; let the beard grow, thì chiu",
+      "to shave off the beard, khoi chiu; to trim the beard.",
+      "127"
+    ],
+    "replacement": "thì chiu",
+    "kind": "ex",
+    "007_en": "to shave off the beard, khoi chiu; to trim the beard.",
+    "007_puj": "lâu chiu; let the beard grow, thì chiu",
+    "pre_read_display": "lâu chiu; let the beard grow, thì chiu"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45243,
+    "page": "127",
+    "tbl_key": [
+      "so̤ chiu; to stroke the beard, jûe chiu",
+      "to twirl the beard.",
+      "127"
+    ],
+    "replacement": "âng chiu",
+    "kind": "ex",
+    "007_en": "to twirl the beard.",
+    "007_puj": "so̤ chiu; to stroke the beard, jûe chiu",
+    "pre_read_display": "so̤ chiu; to stroke the beard, jûe chiu"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45467,
+    "page": "175",
+    "tbl_key": [
+      "hṳ́-kò̤ hok ŭ nâng-be to ko",
+      "there are people lying there in ambush,",
+      "175"
+    ],
+    "replacement": "hṳ́-kò̤ hôk ŭ nâng-bé tŏ̤ kò̤",
+    "kind": "ex",
+    "007_en": "there are people lying there in ambush,",
+    "007_puj": "hṳ́-kò̤ hok ŭ nâng-be to ko",
+    "pre_read_display": "hṳ́-kò̤ hok ŭ nâng-be to ko"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45715,
+    "page": "236",
+    "tbl_key": [
+      "khah jūu, kă m̄tn̆g",
+      "it is so tough that I cannot bite it in two.",
+      "236"
+    ],
+    "replacement": "khah jūu, kă m̆tng",
+    "kind": "ex",
+    "007_en": "it is so tough that I cannot bite it in two.",
+    "007_puj": "khah jūn, kă m̄ tn̆g",
+    "pre_read_display": "khah jūn, kă m̄tn̆g"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45861,
+    "page": "257",
+    "tbl_key": [
+      "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?",
+      "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?",
+      "257"
+    ],
+    "replacement": "i kâi thiap cò̤-nî chut cò̤ ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu ?",
+    "kind": "ex",
+    "007_en": "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?",
+    "007_puj": "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?",
+    "pre_read_display": "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45925,
+    "page": "268",
+    "tbl_key": [
+      "kìe",
+      "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed.",
+      "268"
+    ],
+    "replacement": "kìe-sĭ",
+    "kind": "head",
+    "007_en": "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed.",
+    "007_puj": "kìe",
+    "pre_read_display": "kìe"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45929,
+    "page": "269",
+    "tbl_key": [
+      "kìe-sī",
+      "on that account; says it is for this reason; to complain of.",
+      "269"
+    ],
+    "replacement": "kìe-sĭ m̄ năi",
+    "kind": "ex",
+    "007_en": "on that account; says it is for this reason; to complain of.",
+    "007_puj": "kìe-sī",
+    "pre_read_display": "kìe-sī"
+  },
+  {
+    "type": "t7_reading",
+    "row": 45972,
+    "page": "274",
+    "tbl_key": [
+      "cía cū mín-en̄g kîn",
+      "need not be in a hurry about this.",
+      "274"
+    ],
+    "replacement": "cía cū mín-ēng kín",
+    "kind": "ex",
+    "007_en": "need not be in a hurry about this.",
+    "007_puj": "cía cū mín-en̄g kín",
+    "pre_read_display": "cía cū mín-en̄g kín"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46069,
+    "page": "288",
+    "tbl_key": [
+      "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?",
+      "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?",
+      "288"
+    ],
+    "replacement": "cí kĭaⁿ sṳ̄ sĭ kua cîⁿ kok, a kua hīaⁿ mîaⁿ ?",
+    "kind": "ex",
+    "007_en": "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?",
+    "007_puj": "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?",
+    "pre_read_display": "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46283,
+    "page": "328",
+    "tbl_key": [
+      "chun-khî sía jîeh coi?",
+      "How many years are recorded?",
+      "328"
+    ],
+    "replacement": "chun-khî sía jîeh cōi？",
+    "kind": "ex",
+    "007_en": "How many years are recorded?",
+    "007_puj": "chun-khî sía jîeh coi?",
+    "pre_read_display": "chun-khî sía jîeh coi?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46323,
+    "page": "337",
+    "tbl_key": [
+      "khǹg-pàng tī-kò̤?",
+      "Where is is laid away?",
+      "337"
+    ],
+    "replacement": "khǹg-pàng tī̄-kò̤ ?",
+    "kind": "ex",
+    "007_en": "Where is is laid away?",
+    "007_puj": "khǹg-pàng tī-kò̤?",
+    "pre_read_display": "khǹg-pàng tī-kò̤?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46353,
+    "page": "343",
+    "tbl_key": [
+      "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?",
+      "If one wishes to develop strength of thigh, in what way should he exercise?",
+      "343"
+    ],
+    "replacement": "àiⁿ līen kàu ŭ khua lâk sĭ cò̤-nî līen ?",
+    "kind": "ex",
+    "007_en": "If one wishes to develop strength of thigh, in what way should he exercise?",
+    "007_puj": "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?",
+    "pre_read_display": "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46443,
+    "page": "354",
+    "tbl_key": [
+      "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤",
+      "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights.",
+      "354"
+    ],
+    "replacement": "cêk cio khŵn tŏ̤ chíu cū jw̆n cò̤",
+    "kind": "ex",
+    "007_en": "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights.",
+    "007_puj": "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤",
+    "pre_read_display": "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46472,
+    "page": "357",
+    "tbl_key": [
+      "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?",
+      "His face looks very intelligent, bow is it that he is really so stupid?",
+      "357"
+    ],
+    "replacement": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀ ?",
+    "kind": "ex",
+    "007_en": "His face looks very intelligent, bow is it that he is really so stupid?",
+    "007_puj": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?",
+    "pre_read_display": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46499,
+    "page": "360",
+    "tbl_key": [
+      "lâng tău i m̄ lài",
+      "Can you think he would come?",
+      "360"
+    ],
+    "replacement": "lâng tău i m̄ lâi ?",
+    "kind": "ex",
+    "007_en": "Can you think he would come?",
+    "007_puj": "lâng tău i m̄ lài",
+    "pre_read_display": "lâng tău i m̄ lài"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46561,
+    "page": "368",
+    "tbl_key": [
+      "chúi sŭn lí",
+      "to reason from first principles.",
+      "368"
+    ],
+    "replacement": "chúi chêng, tâk lí",
+    "kind": "ex",
+    "007_en": "to reason from first principles.",
+    "007_puj": "chúi sŭn lí",
+    "pre_read_display": "chúi sŭn lí"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46691,
+    "page": "390",
+    "tbl_key": [
+      "chap m̄ lôh khûn",
+      "did not afiiliate with them.",
+      "390"
+    ],
+    "replacement": "chap m̄ lô̤h khûn",
+    "kind": "ex",
+    "007_en": "did not afiiliate with them.",
+    "007_puj": "chap m̄ lôh khûn",
+    "pre_read_display": "chap m̄ lôh khûn"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46764,
+    "page": "404",
+    "tbl_key": [
+      "i kâi khìo-mîoⁿ hó̤ căi",
+      "has great quickness and depth of penetration.",
+      "404"
+    ],
+    "replacement": "i kâi khìo-míoⁿ hó̤ căi",
+    "kind": "ex",
+    "007_en": "has great quickness and depth of penetration.",
+    "007_puj": "i kâi khìo-mîoⁿ hó̤ căi",
+    "pre_read_display": "i kâi khìo-mîoⁿ hó̤ căi"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46805,
+    "page": "416",
+    "tbl_key": [
+      "nğ",
+      "An exclamation, expressing dissent.",
+      "416"
+    ],
+    "replacement": "n̆g",
+    "kind": "head",
+    "007_en": "An exclamation, expressing dissent.",
+    "007_puj": "nğ",
+    "pre_read_display": "nğ"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46907,
+    "page": "429",
+    "tbl_key": [
+      "nih",
+      "To wink.",
+      "429"
+    ],
+    "replacement": "nih mâk",
+    "kind": "head",
+    "007_en": "To wink.",
+    "007_puj": "nih",
+    "pre_read_display": "nih"
+  },
+  {
+    "type": "t7_reading",
+    "row": 46999,
+    "page": "442",
+    "tbl_key": [
+      "chìe khṳ̀ m̄ lôh páng",
+      "he sings without regard to time.",
+      "442"
+    ],
+    "replacement": "chìe khṳ̀ m̄ lô̤h páng",
+    "kind": "ex",
+    "007_en": "he sings without regard to time.",
+    "007_puj": "chìe khṳ̀ m̄ lôh páng",
+    "pre_read_display": "chìe khṳ̀ m̄ lôh páng"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47216,
+    "page": "478",
+    "tbl_key": [
+      "chíu tèng khîeh png ŵn-phŏ",
+      "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples.",
+      "478"
+    ],
+    "replacement": "chíu tèng khîeh pńg ŵn-phŏ",
+    "kind": "ex",
+    "007_en": "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples.",
+    "007_puj": "chíu tèng khîeh png ŵn-phŏ",
+    "pre_read_display": "chíu tèng khîeh png ŵn-phŏ"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47252,
+    "page": "484",
+    "tbl_key": [
+      "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+      "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college.",
+      "484"
+    ],
+    "replacement": "cía tùi-lîn sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+    "kind": "ex",
+    "007_en": "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college.",
+    "007_puj": "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+    "pre_read_display": "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47265,
+    "page": "486",
+    "tbl_key": [
+      "co sai híang tang",
+      "located with the back to tue west, and facing east.",
+      "486"
+    ],
+    "replacement": "cŏ̤ sai hìang tang",
+    "kind": "ex",
+    "007_en": "located with the back to tue west, and facing east.",
+    "007_puj": "co sai híang tang",
+    "pre_read_display": "co sai híang tang"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47331,
+    "page": "497",
+    "tbl_key": [
+      "lṳ̂ sí to bô̤ ēng",
+      "yon may kill yourself by your exertions and all will be of no use.",
+      "497"
+    ],
+    "replacement": "lṳ̂ sí to bô̤ ēng",
+    "kind": "ex",
+    "007_en": "yon may kill yourself by your exertions and all will be of no use.",
+    "007_puj": "lṳ́ sí to bô̤ ēng",
+    "pre_read_display": "lṳ́ sí to bô̤ ēng"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47386,
+    "page": "505",
+    "tbl_key": [
+      "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu",
+      "although ho is ordinarily so sparing, still when there is occasion for it he is liberal.",
+      "505"
+    ],
+    "replacement": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-làu",
+    "kind": "ex",
+    "007_en": "although ho is ordinarily so sparing, still when there is occasion for it he is liberal.",
+    "007_puj": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu",
+    "pre_read_display": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47398,
+    "page": "507",
+    "tbl_key": [
+      "sieⁿ ceng, gê tṳ̂",
+      "inlaid cops and ivory chopsticks.",
+      "507"
+    ],
+    "replacement": "sieⁿ ceng, gê tṳ̄",
+    "kind": "ex",
+    "007_en": "inlaid cops and ivory chopsticks.",
+    "007_puj": "sieⁿ ceng, gê tṳ̂",
+    "pre_read_display": "sieⁿ ceng, gê tṳ̂"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47544,
+    "page": "523",
+    "tbl_key": [
+      "tău-thâi sĭ kẃn-lí jît-sì sôk",
+      "the ntendant of Circuit governs twenty-four dependencies.",
+      "523"
+    ],
+    "replacement": "tău-thâi sĭ kẃn-lí jîh-sì sôk",
+    "kind": "ex",
+    "007_en": "the ntendant of Circuit governs twenty-four dependencies.",
+    "007_puj": "tău-thâi sĭ kẃn-lí jît-sì sôk",
+    "pre_read_display": "tău-thâi sĭ kẃn-lí jît-sì sôk"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47596,
+    "page": "529",
+    "tbl_key": [
+      "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua",
+      "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation.",
+      "529"
+    ],
+    "replacement": "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâi nâng kio i phah sua",
+    "kind": "ex",
+    "007_en": "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation.",
+    "007_puj": "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua",
+    "pre_read_display": "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47660,
+    "page": "535",
+    "tbl_key": [
+      "i sûn-sûn chit-chit to cò̤ hût su",
+      "she practices Buddhist observances during every period of ten and of seven days.",
+      "535"
+    ],
+    "replacement": "i sûn-sûn chit-chit to cò̤ hût sṳ̄",
+    "kind": "ex",
+    "007_en": "she practices Buddhist observances during every period of ten and of seven days.",
+    "007_puj": "i sûn-sûn chit-chit to cò̤ hût su",
+    "pre_read_display": "i sûn-sûn chit-chit to cò̤ hût su"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47666,
+    "page": "536",
+    "tbl_key": [
+      "sut",
+      "Sawdust.",
+      "536"
+    ],
+    "replacement": "kṳ̀-sut",
+    "kind": "head",
+    "007_en": "Sawdust.",
+    "007_puj": "sut",
+    "pre_read_display": "sut"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47667,
+    "page": "536",
+    "tbl_key": [
+      "kṳ̀-sut",
+      "sawdust.",
+      "536"
+    ],
+    "replacement": "sut",
+    "kind": "ex",
+    "007_en": "sawdust.",
+    "007_puj": "kṳ̀-sut",
+    "pre_read_display": "kṳ̀-sut"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47699,
+    "page": "540",
+    "tbl_key": [
+      "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn",
+      "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in.",
+      "540"
+    ],
+    "replacement": "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sẁn",
+    "kind": "ex",
+    "007_en": "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in.",
+    "007_puj": "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn",
+    "pre_read_display": "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47741,
+    "page": "544",
+    "tbl_key": [
+      "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+      "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash.",
+      "544"
+    ],
+    "replacement": "seⁿ cò̤ kâi koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+    "kind": "ex",
+    "007_en": "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash.",
+    "007_puj": "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+    "pre_read_display": "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47816,
+    "page": "556",
+    "tbl_key": [
+      "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+      "this does not suit his taste, let him select one that does.",
+      "556"
+    ],
+    "replacement": "cía īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+    "kind": "ex",
+    "007_en": "this does not suit his taste, let him select one that does.",
+    "007_puj": "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+    "pre_read_display": "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47827,
+    "page": "557",
+    "tbl_key": [
+      "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi",
+      "the dog seeing his master coming, is.so pleased that he stands on his hind legs.",
+      "557"
+    ],
+    "replacement": "i kâi káu thóiⁿ-kìⁿ cú-nâng cē lâi , huaⁿ-hí kàu tēng khí lâi",
+    "kind": "ex",
+    "007_en": "the dog seeing his master coming, is.so pleased that he stands on his hind legs.",
+    "007_puj": "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi",
+    "pre_read_display": "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47924,
+    "page": "568",
+    "tbl_key": [
+      "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin",
+      "this province has several great trading marts.",
+      "568"
+    ],
+    "replacement": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tìn",
+    "kind": "ex",
+    "007_en": "this province has several great trading marts.",
+    "007_puj": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin",
+    "pre_read_display": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin"
+  },
+  {
+    "type": "t7_reading",
+    "row": 47945,
+    "page": "571",
+    "tbl_key": [
+      "cìeⁿ-seⁿ m̄ cò̤ tit",
+      "that will not answer the purpose.",
+      "571"
+    ],
+    "replacement": "ŏi cò̤ tit; ŏi nîn cò̤ tit",
+    "kind": "ex",
+    "007_en": "that will not answer the purpose.",
+    "007_puj": "cìeⁿ-seⁿ m̄ cò̤ tit",
+    "pre_read_display": "cìeⁿ-seⁿ m̄ cò̤ tit"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48069,
+    "page": "590",
+    "tbl_key": [
+      "chíaⁿ kuaⁿ tui-kiu",
+      "ask the magistrate to sift it to the bototm.",
+      "590"
+    ],
+    "replacement": "chíaⁿ kuaⁿ tui-kìu",
+    "kind": "ex",
+    "007_en": "ask the magistrate to sift it to the bototm.",
+    "007_puj": "chíaⁿ kuaⁿ tui-kiu",
+    "pre_read_display": "chíaⁿ kuaⁿ tui-kiu"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48089,
+    "page": "592",
+    "tbl_key": [
+      "i kâi chùi-tûn po̤h-sìe pô̤h-síe",
+      "he has a harelip.",
+      "592"
+    ],
+    "replacement": "i kâi chùi-tûn pô̤h-síe pô̤h-síe",
+    "kind": "ex",
+    "007_en": "he has a harelip.",
+    "007_puj": "i kâi chùi-tûn po̤h-sìe pô̤h-síe",
+    "pre_read_display": "i kâi chùi-tûn po̤h-sìe pô̤h-síe"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48223,
+    "page": "606",
+    "tbl_key": [
+      "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng",
+      "it is a region contiguous to the Teng Hai district.",
+      "606"
+    ],
+    "replacement": "sĭ kio thêng-hái kūiⁿ kiam-kài kâi tī-hng",
+    "kind": "ex",
+    "007_en": "it is a region contiguous to the Teng Hai district.",
+    "007_puj": "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng",
+    "pre_read_display": "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48274,
+    "page": "612",
+    "tbl_key": [
+      "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?",
+      "I hear that this regiment is to be recalled is it so?",
+      "612"
+    ],
+    "replacement": "thiaⁿ-kìⁿ cí ki kun àiⁿ thiet, sĭ mē ?",
+    "kind": "ex",
+    "007_en": "I hear that this regiment is to be recalled is it so?",
+    "007_puj": "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?",
+    "pre_read_display": "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48280,
+    "page": "613",
+    "tbl_key": [
+      "cêng tĥin cin a būe?",
+      "Has a fac-simile been made yet?",
+      "613"
+    ],
+    "replacement": "cêng thîn cin a būe ?",
+    "kind": "ex",
+    "007_en": "Has a fac-simile been made yet?",
+    "007_puj": "cêng tĥin cin a būe?",
+    "pre_read_display": "cêng tĥin cin a būe?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48287,
+    "page": "614",
+    "tbl_key": [
+      "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?",
+      "How is this matter to be lucidly set forth?",
+      "614"
+    ],
+    "replacement": "cía sṳ̄ àiⁿ cò̤-nî thîo-thîn",
+    "kind": "ex",
+    "007_en": "How is this matter to be lucidly set forth?",
+    "007_puj": "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?",
+    "pre_read_display": "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48296,
+    "page": "615",
+    "tbl_key": [
+      "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu",
+      "in cutting it out, there lacks just the facing you must buy another piece for the facing.",
+      "615"
+    ],
+    "replacement": "ka lo̤h khṳ̀ tú-tú cûah thiu : tîeh lêng-ūaⁿ ka pò lâi cò̤ thiu",
+    "kind": "ex",
+    "007_en": "in cutting it out, there lacks just the facing you must buy another piece for the facing.",
+    "007_puj": "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu",
+    "pre_read_display": "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48305,
+    "page": "616",
+    "tbl_key": [
+      "ci ki khah ńng m̄ hó̤ thn̄g",
+      "this is so flexible that it is not goot to use as a poker.",
+      "616"
+    ],
+    "replacement": "cí ki khah ńng m̄ hó̤ thn̄g",
+    "kind": "ex",
+    "007_en": "this is so flexible that it is not goot to use as a poker.",
+    "007_puj": "ci ki khah ńng m̄ hó̤ thn̄g",
+    "pre_read_display": "ci ki khah ńng m̄ hó̤ thn̄g"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48431,
+    "page": "629",
+    "tbl_key": [
+      "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa",
+      "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again.",
+      "629"
+    ],
+    "replacement": "i kâi keng uâihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cē, cìaⁿ chíu pôiⁿ īa ŏi sīa",
+    "kind": "ex",
+    "007_en": "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again.",
+    "007_puj": "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa",
+    "pre_read_display": "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa"
+  },
+  {
+    "type": "t7_reading",
+    "row": 48497,
+    "page": "635",
+    "tbl_key": [
+      "tŏ̤ tî kâi ūi-chṳ̀?",
+      "In what place?",
+      "635"
+    ],
+    "replacement": "tŏ̤ tī kâi ūi-chṳ̀ ?",
+    "kind": "ex",
+    "007_en": "In what place?",
+    "007_puj": "tŏ̤ tî kâi ūi-chṳ̀?",
+    "pre_read_display": "tŏ̤ tî kâi ūi-chṳ̀?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 33880,
+    "page": "483",
+    "tbl_key": [
+      "phûe",
+      "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character.",
+      "483"
+    ],
+    "replacement": "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character",
+    "kind": "head",
+    "007_en": "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character.",
+    "007_puj": "phûe",
+    "full_post_gloss": "Skin, rind, bark, peel, external covering; a wrapper; a case; leather; furs; reputation; character."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 33937,
+    "page": "484",
+    "tbl_key": [
+      "phún",
+      "To cleave; to cut with a heavy downward stroke.",
+      "484"
+    ],
+    "replacement": "To cleave; to cut with a heavy downward stroke",
+    "kind": "head",
+    "007_en": "To cleave; to cut with a heavy downward stroke.",
+    "007_puj": "phún",
+    "full_post_gloss": "To cleave; to cut with a heavy downward stroke."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 39901,
+    "page": "568",
+    "tbl_key": [
+      "tin-tò̤",
+      "upside down or end foremost; inverted.",
+      "568"
+    ],
+    "replacement": "upside down or end foremost; inverted",
+    "kind": "ex",
+    "007_en": "upside down or end foremost; inverted.",
+    "007_puj": "tin-tò̤",
+    "full_post_gloss": "upside down or end foremost; inverted."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 41963,
+    "page": "598",
+    "tbl_key": [
+      "i kâi thâm-húe-cèng sêng lío",
+      "he has settled consumption.",
+      "598"
+    ],
+    "replacement": "he has settled consumption",
+    "kind": "ex",
+    "007_en": "he has settled consumption.",
+    "007_puj": "i kâi thâm-húe-cèng sêng lío",
+    "full_post_gloss": "he has settled consumption."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44702,
+    "page": "32",
+    "tbl_key": [
+      "au",
+      "To cudgel; to maul.",
+      "32"
+    ],
+    "replacement": "To fight with sticks or fists.",
+    "kind": "head",
+    "007_en": "To cudgel; to maul.",
+    "007_puj": "au",
+    "full_post_gloss": "To cudgel; to maul."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44722,
+    "page": "35",
+    "tbl_key": [
+      "bé cang mó̤ⁿ",
+      "horse's mane.",
+      "35"
+    ],
+    "replacement": "horse’s mane.",
+    "kind": "ex",
+    "007_en": "horse's mane.",
+    "007_puj": "bé cang mó̤ⁿ",
+    "full_post_gloss": "horse's mane."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44723,
+    "page": "35",
+    "tbl_key": [
+      "kìm bô pàng bé",
+      "to forbid the employment of \"ponies\" at a literary examination.",
+      "35"
+    ],
+    "replacement": "to forbid the employment of “ponies” at a literary examination.",
+    "kind": "ex",
+    "007_en": "to forbid the employment of \"ponies\" at a literary examination.",
+    "007_puj": "kìm bô pàng bé",
+    "full_post_gloss": "to forbid the employment of \"ponies\" at a literary examination."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44863,
+    "page": "56",
+    "tbl_key": [
+      "cē",
+      "",
+      "56"
+    ],
+    "replacement": "A contraction of cék ē; once; a little while; for a while.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "cē",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44884,
+    "page": "62",
+    "tbl_key": [
+      "thái-ko̤ cèng ŏi ùe tîeh nâng",
+      "",
+      "62"
+    ],
+    "replacement": "Is leprosy contagious?",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "thái-ko̤ cèng ŏi ùe tîeh nâng",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44895,
+    "page": "65",
+    "tbl_key": [
+      "cì thiⁿ tī",
+      "worship heaven and earth. cì sĭa cek; worship the gods of land and grain.",
+      "65"
+    ],
+    "replacement": "worship the gods of land and grain.",
+    "kind": "ex",
+    "007_en": "worship heaven and earth. cì sĭa cek; worship the gods of land and grain.",
+    "007_puj": "cì sĭa cek",
+    "full_post_gloss": "worship heaven and earth. cì sĭa cek; worship the gods of land and grain."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44901,
+    "page": "66",
+    "tbl_key": [
+      "ciⁿ lî, irrelevant",
+      "evasive.",
+      "66"
+    ],
+    "replacement": "irrelevant; evasive.",
+    "kind": "ex",
+    "007_en": "evasive.",
+    "007_puj": "ciⁿ lî",
+    "full_post_gloss": "evasive."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44914,
+    "page": "68",
+    "tbl_key": [
+      "cía",
+      "",
+      "68"
+    ],
+    "replacement": "This indicates that what precedes it is the subject of a proposition; it is also used to arrest attention.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "cía",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44982,
+    "page": "77",
+    "tbl_key": [
+      "kòng cien; sìn cien; letter paper.",
+      "",
+      "77"
+    ],
+    "replacement": "letter paper.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "kòng cien; sìn cien; letter paper.",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 44988,
+    "page": "79",
+    "tbl_key": [
+      "tek cím-thâu, hûi cím-thâu, phûe cím-thâu",
+      "",
+      "79"
+    ],
+    "replacement": "bamboo, earthen, leathern, wooden and rattan pillows",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "tek cím-thâu, hûi cím-thâu, phûe cím-thâu",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45052,
+    "page": "93",
+    "tbl_key": [
+      "cù",
+      "",
+      "93"
+    ],
+    "replacement": "To direct water in channels; to fix the attention upon.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "cù",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45080,
+    "page": "101",
+    "tbl_key": [
+      "cṳ́ chài; cú cîah; prepare a meal",
+      "get supper.",
+      "101"
+    ],
+    "replacement": "prepare a meal; get supper.",
+    "kind": "ex",
+    "007_en": "get supper.",
+    "007_puj": "cṳ́ chài; cṳ́ cîah",
+    "full_post_gloss": "get supper."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45087,
+    "page": "102",
+    "tbl_key": [
+      "cham-cha, m̄ côi",
+      "unassorted.",
+      "102"
+    ],
+    "replacement": "an ambassador,",
+    "kind": "ex",
+    "007_en": "unassorted.",
+    "007_puj": "khim-che",
+    "full_post_gloss": "unassorted."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45090,
+    "page": "102",
+    "tbl_key": [
+      "chah hieⁿ",
+      "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods.",
+      "102"
+    ],
+    "replacement": "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods",
+    "kind": "ex",
+    "007_en": "to",
+    "007_puj": "chah hieⁿ",
+    "full_post_gloss": "to set the lower end of incense sticks into the ashes of the incense pot; to worship the gods."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45177,
+    "page": "115",
+    "tbl_key": [
+      "cò̤ chêng cē",
+      "be kindlier.",
+      "115"
+    ],
+    "replacement": "treat kindly",
+    "kind": "ex",
+    "007_en": "be kindlier.",
+    "007_puj": "èng chêng",
+    "full_post_gloss": "be kindlier."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45195,
+    "page": "118",
+    "tbl_key": [
+      "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?",
+      "Are these bills collected monthly, or at other fixed periods?",
+      "118"
+    ],
+    "replacement": "Are these bills collected monthly, or at other fixed periods ?",
+    "kind": "ex",
+    "007_en": "Are these bills collected monthly, or at other fixed periods?",
+    "007_puj": "cía chia sìo sĭ àng gûeh siu a sĭ àng coih siu?",
+    "full_post_gloss": "Are these bills collected monthly, or at other fixed periods?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45209,
+    "page": "121",
+    "tbl_key": [
+      "hih-hih chìe",
+      "to snicker.",
+      "121"
+    ],
+    "replacement": "to deride",
+    "kind": "ex",
+    "007_en": "to snicker.",
+    "007_puj": "chí-chìe",
+    "full_post_gloss": "to snicker."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45232,
+    "page": "126",
+    "tbl_key": [
+      "îong chîn",
+      "mediocre statesmen.",
+      "126"
+    ],
+    "replacement": "talented statesmen",
+    "kind": "ex",
+    "007_en": "mediocre statesmen.",
+    "007_puj": "châi chîn",
+    "full_post_gloss": "mediocre statesmen."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45241,
+    "page": "127",
+    "tbl_key": [
+      "chiu-siu",
+      "the late harvest.",
+      "127"
+    ],
+    "replacement": "the latter part of autumn",
+    "kind": "ex",
+    "007_en": "the late harvest.",
+    "007_puj": "chiu ău",
+    "full_post_gloss": "the late harvest."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45242,
+    "page": "127",
+    "tbl_key": [
+      "lâu chiu; let the beard grow, thì chiu",
+      "to shave off the beard, khoi chiu; to trim the beard.",
+      "127"
+    ],
+    "replacement": "to shave off the beard.",
+    "kind": "ex",
+    "007_en": "to shave off the beard, khoi chiu; to trim the beard.",
+    "007_puj": "lâu chiu; let the beard grow, thì chiu",
+    "full_post_gloss": "to shave off the beard, khoi chiu; to trim the beard."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45243,
+    "page": "127",
+    "tbl_key": [
+      "so̤ chiu; to stroke the beard, jûe chiu",
+      "to twirl the beard.",
+      "127"
+    ],
+    "replacement": "red bearded.",
+    "kind": "ex",
+    "007_en": "to twirl the beard.",
+    "007_puj": "so̤ chiu; to stroke the beard, jûe chiu",
+    "full_post_gloss": "to twirl the beard."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45244,
+    "page": "127",
+    "tbl_key": [
+      "lût chiu",
+      "to fondle the beard.",
+      "127"
+    ],
+    "replacement": "to stroke the beard",
+    "kind": "ex",
+    "007_en": "to fondle the beard.",
+    "007_puj": "so̤ chiu",
+    "full_post_gloss": "to fondle the beard."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45245,
+    "page": "127",
+    "tbl_key": [
+      "chiu hi-hi",
+      "his beard is very thin.",
+      "127"
+    ],
+    "replacement": "the beard under the chin",
+    "kind": "ex",
+    "007_en": "his beard is very thin.",
+    "007_puj": "ĕ pŏ chiu",
+    "full_post_gloss": "his beard is very thin."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45246,
+    "page": "127",
+    "tbl_key": [
+      "cai chiu",
+      "to put on a false beard.",
+      "127"
+    ],
+    "replacement": "to trim the beard.",
+    "kind": "ex",
+    "007_en": "to put on a false beard.",
+    "007_puj": "khoi chiu",
+    "full_post_gloss": "to put on a false beard."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45467,
+    "page": "175",
+    "tbl_key": [
+      "hṳ́-kò̤ hok ŭ nâng-be to ko",
+      "there are people lying there in ambush,",
+      "175"
+    ],
+    "replacement": "there are people lying there in ambush.",
+    "kind": "ex",
+    "007_en": "there are people lying there in ambush,",
+    "007_puj": "hṳ́-kò̤ hok ŭ nâng-be to ko",
+    "full_post_gloss": "there are people lying there in ambush,"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45628,
+    "page": "218",
+    "tbl_key": [
+      "cí nŏ̤ ciah tó̤ īn kâi, kâi sĭ tī-tîang kâi hún-cío",
+      "",
+      "218"
+    ],
+    "replacement": "whose are the two doves that are circling in the air ?",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "cí nŏ̤ ciah tó̤ īn kâi, kâi sĭ tī-tîang kâi hún-cío",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45760,
+    "page": "243",
+    "tbl_key": [
+      "cêng tŏng kang a būe? Is the work begun yet?",
+      "tiang-sî heng kang? When is the work to begin?",
+      "243"
+    ],
+    "replacement": "Is the work begun yet?",
+    "kind": "ex",
+    "007_en": "tiang-sî heng kang? When is the work to begin?",
+    "007_puj": "cêng tŏng kang a būe",
+    "full_post_gloss": "tiang-sî heng kang? When is the work to begin?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45768,
+    "page": "244",
+    "tbl_key": [
+      "kang tîeh cìeⁿ-seⁿ ēng cìaⁿ sĭ en huap",
+      "expend your strengh thus and that will be according to the right method.",
+      "244"
+    ],
+    "replacement": "expend your strength thus and that will be according to the right method.",
+    "kind": "ex",
+    "007_en": "expend your strengh thus and that will be according to the right method.",
+    "007_puj": "kang tîeh cìeⁿ-seⁿ ēng cìaⁿ sĭen huap",
+    "full_post_gloss": "expend your strengh thus and that will be according to the right method."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45782,
+    "page": "246",
+    "tbl_key": [
+      "kāng",
+      "Collectively; in all; to sum up; to hold in common; the same.",
+      "246"
+    ],
+    "replacement": "Collectively; in all; to sum up;",
+    "kind": "head",
+    "007_en": "Collectively; in all; to sum up;",
+    "007_puj": "kāng",
+    "full_post_gloss": "Collectively; in all; to sum up; to hold in common; the same."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45861,
+    "page": "257",
+    "tbl_key": [
+      "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?",
+      "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?",
+      "257"
+    ],
+    "replacement": "How is it that the notice she has issued of her husband’s funeral says “mourning” instead of “deep mourning”?",
+    "kind": "ex",
+    "007_en": "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?",
+    "007_puj": "i kâi thiap cò̤-nî chut cò ki-hôk hu, bô̤ chut cò̤ cĭang-ki hu?",
+    "full_post_gloss": "How is it that the notice she has issued of her husband's funeral says \"mourning\" instead of \"deep mourning\"?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45881,
+    "page": "261",
+    "tbl_key": [
+      "móng jît móng kuaⁿ khṳ̀ pǐ kìⁿ",
+      "on a certain day a certain ofiicer was admitted to an audience.",
+      "261"
+    ],
+    "replacement": "on a certain day a certain officer was admitted to an audience.",
+    "kind": "ex",
+    "007_en": "on a certain day a certain ofiicer was admitted to an audience.",
+    "007_puj": "móng jît móng kuaⁿ khṳ̀ pĭ kìⁿ",
+    "full_post_gloss": "on a certain day a certain ofiicer was admitted to an audience."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45925,
+    "page": "268",
+    "tbl_key": [
+      "kìe",
+      "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed.",
+      "268"
+    ],
+    "replacement": "on that account; says it is for this reason; to complain of.",
+    "kind": "head",
+    "007_en": "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed.",
+    "007_puj": "kìe",
+    "full_post_gloss": "To call to or upon; to cry out; the cries or voices of animals or birds; to send for; to name; to command; to tell; to do; to persuade; to sing, as an insect; to induce; to cause, in which sense it is often only a sign of the passive voice; by, with; named, called, termed."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45928,
+    "page": "268",
+    "tbl_key": [
+      "cèng nâng ngau-ngau-kìe,",
+      "",
+      "268"
+    ],
+    "replacement": "they all murmured at it, and would not submit.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "cèng nâng ngau-ngau-kìe,",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45929,
+    "page": "269",
+    "tbl_key": [
+      "kìe-sī",
+      "on that account; says it is for this reason; to complain of.",
+      "269"
+    ],
+    "replacement": "says it won’t prove durable.",
+    "kind": "ex",
+    "007_en": "on that account; says it is for this reason; to complain of.",
+    "007_puj": "kìe-sī",
+    "full_post_gloss": "on that account; says it is for this reason; to complain of."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45972,
+    "page": "274",
+    "tbl_key": [
+      "cía cū mín-en̄g kîn",
+      "need not be in a hurry about this.",
+      "274"
+    ],
+    "replacement": "you need not be in a hurry about this.",
+    "kind": "ex",
+    "007_en": "need not be in a hurry about this.",
+    "007_puj": "cía cū mín-en̄g kín",
+    "full_post_gloss": "need not be in a hurry about this."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 45979,
+    "page": "275",
+    "tbl_key": [
+      "cìeⁿ-seⁿ sǹg sĭ kío jîu caŭ cak; that is acting as the exigencies suggest",
+      "being firm or yielding as one's interest demands.",
+      "275"
+    ],
+    "replacement": "that is acting as the exigencies suggest; being firm or yielding as one’s interest demands.",
+    "kind": "ex",
+    "007_en": "being firm or yielding as one's interest demands.",
+    "007_puj": "cìeⁿ-seⁿ sǹg sĭ kío jîu cău cak",
+    "full_post_gloss": "being firm or yielding as one's interest demands."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46069,
+    "page": "288",
+    "tbl_key": [
+      "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?",
+      "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?",
+      "288"
+    ],
+    "replacement": "Is this business to be referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?",
+    "kind": "ex",
+    "007_en": "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?",
+    "007_puj": "cí kĭaⁿ sṳ̄ sĭ kua cíⁿ kok, a kua hîaⁿ míaⁿ?",
+    "full_post_gloss": "Is this business to bo referred to the clerk in the prefects office, or to the legal counsel who manages criminal cases in the local court?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46273,
+    "page": "326",
+    "tbl_key": [
+      "máng bé-khí; to make edging bé-khí pĭⁿ",
+      "edging.",
+      "326"
+    ],
+    "replacement": "to make edging",
+    "kind": "ex",
+    "007_en": "edging.",
+    "007_puj": "máng bé-khí",
+    "full_post_gloss": "edging."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46283,
+    "page": "328",
+    "tbl_key": [
+      "chun-khî sía jîeh coi?",
+      "How many years are recorded?",
+      "328"
+    ],
+    "replacement": "How many years are recorded ?",
+    "kind": "ex",
+    "007_en": "How many years are recorded?",
+    "007_puj": "chun-khî sía jîeh coi?",
+    "full_post_gloss": "How many years are recorded?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46319,
+    "page": "334",
+    "tbl_key": [
+      "khîm lîah; khîm ûak; to arrest.",
+      "",
+      "334"
+    ],
+    "replacement": "to arrest.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "khîm lîah; khîm ûak; to arrest.",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46323,
+    "page": "337",
+    "tbl_key": [
+      "khǹg-pàng tī-kò̤?",
+      "Where is is laid away?",
+      "337"
+    ],
+    "replacement": "Where is it laid away ?",
+    "kind": "ex",
+    "007_en": "Where is is laid away?",
+    "007_puj": "khǹg-pàng tī-kò̤?",
+    "full_post_gloss": "Where is is laid away?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46353,
+    "page": "343",
+    "tbl_key": [
+      "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?",
+      "If one wishes to develop strength of thigh, in what way should he exercise?",
+      "343"
+    ],
+    "replacement": "If one wishes to develop strength of thigh, in what way should he exercise ?",
+    "kind": "ex",
+    "007_en": "If one wishes to develop strength of thigh, in what way should he exercise?",
+    "007_puj": "àiⁿ līen kau ũ khua lâk sĭ cò̤-nî līen?",
+    "full_post_gloss": "If one wishes to develop strength of thigh, in what way should he exercise?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46438,
+    "page": "353",
+    "tbl_key": [
+      "châng īa bw̄n khẃn",
+      "a vast extent of arable land.",
+      "353"
+    ],
+    "replacement": "a vast extent of arrable land.",
+    "kind": "ex",
+    "007_en": "a vast extent of arable land.",
+    "007_puj": "châng tī bw̄n khẃn",
+    "full_post_gloss": "a vast extent of arable land."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46443,
+    "page": "354",
+    "tbl_key": [
+      "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤",
+      "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights.",
+      "354"
+    ],
+    "replacement": "as soon as he has a little temporary power in his hands, he acts without regard to other people’s rights.",
+    "kind": "ex",
+    "007_en": "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights.",
+    "007_puj": "cêk cio khŵn tŏ̤ chíu cū jŵn cò̤",
+    "full_post_gloss": "as soon as he has a little temporary power in his bands, he acts without regard to other people's rights."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46472,
+    "page": "357",
+    "tbl_key": [
+      "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?",
+      "His face looks very intelligent, bow is it that he is really so stupid?",
+      "357"
+    ],
+    "replacement": "His face looks very intelligent, how is it that he is really so stupid ?",
+    "kind": "ex",
+    "007_en": "His face looks very intelligent, bow is it that he is really so stupid?",
+    "007_puj": "thóiⁿ tîeh i kâi mīn-tîeⁿ seⁿ lâi to ho̤h lêng-lāi, cò̤-nî tó lăi hìeⁿ ṳ̀-cṳ̀?",
+    "full_post_gloss": "His face looks very intelligent, bow is it that he is really so stupid?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46496,
+    "page": "360",
+    "tbl_key": [
+      "cí hûe kău câp tíam lâng",
+      "it is now past ton o'clock.",
+      "360"
+    ],
+    "replacement": "it is now past ten o’clock.",
+    "kind": "ex",
+    "007_en": "it is now past ton o'clock.",
+    "007_puj": "cí hûe kàu câp tíam lâng",
+    "full_post_gloss": "it is now past ton o'clock."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46499,
+    "page": "360",
+    "tbl_key": [
+      "lâng tău i m̄ lài",
+      "Can you think he would come?",
+      "360"
+    ],
+    "replacement": "Can you think he won’t come ?",
+    "kind": "ex",
+    "007_en": "Can you think he would come?",
+    "007_puj": "lâng tău i m̄ lài",
+    "full_post_gloss": "Can you think he would come?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46503,
+    "page": "362",
+    "tbl_key": [
+      "lâp",
+      "",
+      "362"
+    ],
+    "replacement": "mixed; unassorted, confused; sweepings; rubbish.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "lâp",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46558,
+    "page": "368",
+    "tbl_key": [
+      "áu-lí",
+      "",
+      "368"
+    ],
+    "replacement": "perverse; pig-headed.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "áu-lí",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46561,
+    "page": "368",
+    "tbl_key": [
+      "chúi sŭn lí",
+      "to reason from first principles.",
+      "368"
+    ],
+    "replacement": "to reason from first principles",
+    "kind": "ex",
+    "007_en": "to reason from first principles.",
+    "007_puj": "chúi sŭn lí",
+    "full_post_gloss": "to reason from first principles."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46598,
+    "page": "374",
+    "tbl_key": [
+      "i kâi sin-hūn càng, lîang-lîang to káⁿ ciah",
+      "he is robust and can safely take refrigerant food.",
+      "374"
+    ],
+    "replacement": "he is robust and can safely take refrigerant food",
+    "kind": "ex",
+    "007_en": "he is robust and can safely take refrigerant food.",
+    "007_puj": "i kâi sin-hūn càng, lîang-lîang to káⁿ ciah",
+    "full_post_gloss": "he is robust and can safely take refrigerant food."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46673,
+    "page": "386",
+    "tbl_key": [
+      "sin tǹg kâi mêh-lôk",
+      "the blood veesels of the body.",
+      "386"
+    ],
+    "replacement": "the blood vessels of the body",
+    "kind": "ex",
+    "007_en": "the blood veesels of the body.",
+    "007_puj": "sin tèng kâi mêh-lôk",
+    "full_post_gloss": "the blood veesels of the body."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46691,
+    "page": "390",
+    "tbl_key": [
+      "chap m̄ lôh khûn",
+      "did not afiiliate with them.",
+      "390"
+    ],
+    "replacement": "did not afliliate with them.",
+    "kind": "ex",
+    "007_en": "did not afiiliate with them.",
+    "007_puj": "chap m̄ lôh khûn",
+    "full_post_gloss": "did not afiiliate with them."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46764,
+    "page": "404",
+    "tbl_key": [
+      "i kâi khìo-mîoⁿ hó̤ căi",
+      "has great quickness and depth of penetration.",
+      "404"
+    ],
+    "replacement": "he has great quickness and depth of penetration",
+    "kind": "ex",
+    "007_en": "has great quickness and depth of penetration.",
+    "007_puj": "i kâi khìo-mîoⁿ hó̤ căi",
+    "full_post_gloss": "has great quickness and depth of penetration."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46792,
+    "page": "411",
+    "tbl_key": [
+      "hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ; a drizzling, fine rain.",
+      "",
+      "411"
+    ],
+    "replacement": "a drizzling, fine rain",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ; a drizzling, fine rain.",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46798,
+    "page": "413",
+    "tbl_key": [
+      "nâng īeⁿ; nâng khẃn",
+      "",
+      "413"
+    ],
+    "replacement": "human kind.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "nâng īeⁿ; nâng khẃn",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46805,
+    "page": "416",
+    "tbl_key": [
+      "nğ",
+      "An exclamation, expressing dissent.",
+      "416"
+    ],
+    "replacement": "An exclamation, expressing dissent",
+    "kind": "head",
+    "007_en": "An exclamation, expressing dissent.",
+    "007_puj": "nğ",
+    "full_post_gloss": "An exclamation, expressing dissent."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46806,
+    "page": "416",
+    "tbl_key": [
+      "ngà",
+      "Stupid; silly; foolish.",
+      "416"
+    ],
+    "replacement": "Stupid; doltish; simple.",
+    "kind": "head",
+    "007_en": "Stupid; silly; foolish.",
+    "007_puj": "khòng",
+    "full_post_gloss": "Stupid; silly; foolish."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46820,
+    "page": "418",
+    "tbl_key": [
+      "sì hái ngâu-îu; ngâu-îu sì hng",
+      "",
+      "418"
+    ],
+    "replacement": "roams everywhere",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "sì hái ngâu-îu; ngâu-îu sì hng",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46833,
+    "page": "422",
+    "tbl_key": [
+      "ngŏ hún",
+      "arrowroot.",
+      "422"
+    ],
+    "replacement": "arrowrcot.",
+    "kind": "ex",
+    "007_en": "arrowroot.",
+    "007_puj": "ngó hún",
+    "full_post_gloss": "arrowroot."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46907,
+    "page": "429",
+    "tbl_key": [
+      "nih",
+      "To wink.",
+      "429"
+    ],
+    "replacement": "to wink",
+    "kind": "head",
+    "007_en": "To wink.",
+    "007_puj": "nih",
+    "full_post_gloss": "To wink."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 46999,
+    "page": "442",
+    "tbl_key": [
+      "chìe khṳ̀ m̄ lôh páng",
+      "he sings without regard to time.",
+      "442"
+    ],
+    "replacement": "he sings without regard to tune.",
+    "kind": "ex",
+    "007_en": "he sings without regard to time.",
+    "007_puj": "chìe khṳ̀ m̄ lôh páng",
+    "full_post_gloss": "he sings without regard to time."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47033,
+    "page": "447",
+    "tbl_key": [
+      "sía pêh jī",
+      "write words by their sound, and not according to their meaning.",
+      "447"
+    ],
+    "replacement": "write words by their sound, and not according to their meaning",
+    "kind": "ex",
+    "007_en": "write words by their sound, and not according to",
+    "007_puj": "sía pêh jī",
+    "full_post_gloss": "write words by their sound, and not according to their meaning."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47034,
+    "page": "448",
+    "tbl_key": [
+      "pèh-cíaⁿ",
+      "",
+      "448"
+    ],
+    "replacement": "to tell falsehoods.",
+    "kind": "head",
+    "007_en": "; pêh-cíaⁿ; pêh-lô̤h;",
+    "007_puj": "pèh-cíaⁿ",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47057,
+    "page": "451",
+    "tbl_key": [
+      "cêk nâng túi piⁿ, cêk nâng peⁿ kha",
+      "one dragged him by the queue and the other by his feet.",
+      "451"
+    ],
+    "replacement": "one dragged him by the queue and the other by his feet",
+    "kind": "ex",
+    "007_en": "one dragged him by the queue",
+    "007_puj": "cêk nâng túi piⁿ, cêk nâng peⁿ kha",
+    "full_post_gloss": "one dragged him by the queue and the other by his feet."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47138,
+    "page": "467",
+    "tbl_key": [
+      "pŭe",
+      "",
+      "467"
+    ],
+    "replacement": "To add or heap up dirt.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "pŭe",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47182,
+    "page": "474",
+    "tbl_key": [
+      "phî",
+      "",
+      "474"
+    ],
+    "replacement": "To fly about; to flutter.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "phî",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47183,
+    "page": "474",
+    "tbl_key": [
+      "phî",
+      "",
+      "474"
+    ],
+    "replacement": "The temper; whims",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "phî",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47216,
+    "page": "478",
+    "tbl_key": [
+      "chíu tèng khîeh png ŵn-phŏ",
+      "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples.",
+      "478"
+    ],
+    "replacement": "held in his hand a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples",
+    "kind": "ex",
+    "007_en": "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples.",
+    "007_puj": "chíu tèng khîeh png ŵn-phŏ",
+    "full_post_gloss": "held in his band a book in which to take subscriptions for the relief of Buddhist priests or for the repair of temples."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47217,
+    "page": "479",
+    "tbl_key": [
+      "phōiⁿ",
+      "or pōiⁿ. To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor.",
+      "479"
+    ],
+    "replacement": "To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor",
+    "kind": "head",
+    "007_en": "or pōiⁿ. To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor.",
+    "007_puj": "phōiⁿ or pōiⁿ",
+    "full_post_gloss": "or pōiⁿ. To manage, to attend to, to prepare, to provide, to go on with, to transact business; to act as a factor."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47252,
+    "page": "484",
+    "tbl_key": [
+      "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+      "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college.",
+      "484"
+    ],
+    "replacement": "this pair of matched scrolls is sent as a present to congratulate him upon his son’s entrance into college.",
+    "kind": "ex",
+    "007_en": "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college.",
+    "007_puj": "cía tùi-lîu sĭ hō̤ i kâi kíaⁿ jîp phẁn kâi",
+    "full_post_gloss": "this pair of matched scrolls is sent as a present to congratulate him upon bis son's entrance into college."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47256,
+    "page": "485",
+    "tbl_key": [
+      "sîn-sa",
+      "",
+      "485"
+    ],
+    "replacement": "cinnabar.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "sîn-sa",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47265,
+    "page": "486",
+    "tbl_key": [
+      "co sai híang tang",
+      "located with the back to tue west, and facing east.",
+      "486"
+    ],
+    "replacement": "located with the back to the west, and facing east.",
+    "kind": "ex",
+    "007_en": "located with the back to tue west, and facing east.",
+    "007_puj": "co sai híang tang",
+    "full_post_gloss": "located with the back to tue west, and facing east."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47283,
+    "page": "489",
+    "tbl_key": [
+      "sap",
+      "",
+      "489"
+    ],
+    "replacement": "do not cut your hand in slicing downward.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "sap",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47323,
+    "page": "497",
+    "tbl_key": [
+      "sí",
+      "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable.",
+      "497"
+    ],
+    "replacement": "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable",
+    "kind": "head",
+    "007_en": "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable.",
+    "007_puj": "sí",
+    "full_post_gloss": "To die; dead; death; ghastly; mortally; dangerous; fearless to the death; a superlative after a verb or an adjective; urgent; intense; fixed, not movable."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47331,
+    "page": "497",
+    "tbl_key": [
+      "lṳ̂ sí to bô̤ ēng",
+      "yon may kill yourself by your exertions and all will be of no use.",
+      "497"
+    ],
+    "replacement": "you may kill yourself by your exertions and all will be of no use.",
+    "kind": "ex",
+    "007_en": "yon may kill yourself by your exertions and all will be of no use.",
+    "007_puj": "lṳ́ sí to bô̤ ēng",
+    "full_post_gloss": "yon may kill yourself by your exertions and all will be of no use."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47386,
+    "page": "505",
+    "tbl_key": [
+      "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu",
+      "although ho is ordinarily so sparing, still when there is occasion for it he is liberal.",
+      "505"
+    ],
+    "replacement": "although he is ordinarily so sparing, still when there is occasion for it he is liberal.",
+    "kind": "ex",
+    "007_en": "although ho is ordinarily so sparing, still when there is occasion for it he is liberal.",
+    "007_puj": "i phêng-sî sui sĭ siap, ŭ sṳ̄ kâi sî-hāu īu phò̤-láu",
+    "full_post_gloss": "although ho is ordinarily so sparing, still when there is occasion for it he is liberal."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47398,
+    "page": "507",
+    "tbl_key": [
+      "sieⁿ ceng, gê tṳ̂",
+      "inlaid cops and ivory chopsticks.",
+      "507"
+    ],
+    "replacement": "inlaid cups and ivory chopsticks.",
+    "kind": "ex",
+    "007_en": "inlaid cops and ivory chopsticks.",
+    "007_puj": "sieⁿ ceng, gê tṳ̂",
+    "full_post_gloss": "inlaid cops and ivory chopsticks."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47460,
+    "page": "513",
+    "tbl_key": [
+      "sîn hut; native and foreign gods",
+      "native sages and Buddha.",
+      "513"
+    ],
+    "replacement": "native and foreign gods; native sages and Buddha.",
+    "kind": "ex",
+    "007_en": "native sages and Buddha.",
+    "007_puj": "sîn-hut",
+    "full_post_gloss": "native sages and Buddha."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47462,
+    "page": "513",
+    "tbl_key": [
+      "sîn sìeⁿ; images",
+      "idols.",
+      "513"
+    ],
+    "replacement": "images;idols.",
+    "kind": "ex",
+    "007_en": "idols.",
+    "007_puj": "sîn sìeⁿ",
+    "full_post_gloss": "idols."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47484,
+    "page": "518",
+    "tbl_key": [
+      "siu sim",
+      "",
+      "518"
+    ],
+    "replacement": "to school the feelings.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "siu sim",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47487,
+    "page": "518",
+    "tbl_key": [
+      "siu-toaⁿ",
+      "",
+      "518"
+    ],
+    "replacement": "a receipt for money or goods.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "siu-toaⁿ",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47497,
+    "page": "519",
+    "tbl_key": [
+      "tǹg-sĭu i kâi chù",
+      "",
+      "519"
+    ],
+    "replacement": "took over his house on mortgage",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "tǹg-sĭu i kâi chù",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47544,
+    "page": "523",
+    "tbl_key": [
+      "tău-thâi sĭ kẃn-lí jît-sì sôk",
+      "the ntendant of Circuit governs twenty-four dependencies.",
+      "523"
+    ],
+    "replacement": "the Intendant of Circuit governs twenty-four dependencies.",
+    "kind": "ex",
+    "007_en": "the ntendant of Circuit governs twenty-four dependencies.",
+    "007_puj": "tău-thâi sĭ kẃn-lí jît-sì sôk",
+    "full_post_gloss": "the ntendant of Circuit governs twenty-four dependencies."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47596,
+    "page": "529",
+    "tbl_key": [
+      "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua",
+      "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation.",
+      "529"
+    ],
+    "replacement": "he now appears as if he had cholera, it will be well to call some one to combat the disease by manipulation.",
+    "kind": "ex",
+    "007_en": "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation.",
+    "007_puj": "i cí-hûe sĭ tîeh sua kâi īeⁿ; hó̤ hàm kâu nâng kio i phah sua",
+    "full_post_gloss": "he now appears as if he had cholera, it will be well to call some one to combat the disease by maniplation."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47609,
+    "page": "531",
+    "tbl_key": [
+      "saⁿ iam nê-sùaⁿ",
+      "a three storied official umbrella.",
+      "531"
+    ],
+    "replacement": "an three storied official umbrella",
+    "kind": "ex",
+    "007_en": "a three storied official umbrella.",
+    "007_puj": "saⁿ ĭam nê-sùaⁿ",
+    "full_post_gloss": "a three storied official umbrella."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47660,
+    "page": "535",
+    "tbl_key": [
+      "i sûn-sûn chit-chit to cò̤ hût su",
+      "she practices Buddhist observances during every period of ten and of seven days.",
+      "535"
+    ],
+    "replacement": "she practises Buddhist observances during every period of ten and of seven days",
+    "kind": "ex",
+    "007_en": "she practices Buddhist observances during every period of ten and of seven days.",
+    "007_puj": "i sûn-sûn chit-chit to cò̤ hût su",
+    "full_post_gloss": "she practices Buddhist observances during every period of ten and of seven days."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47666,
+    "page": "536",
+    "tbl_key": [
+      "sut",
+      "Sawdust.",
+      "536"
+    ],
+    "replacement": "sawdust.",
+    "kind": "head",
+    "007_en": "Sawdust.",
+    "007_puj": "sut",
+    "full_post_gloss": "Sawdust."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47667,
+    "page": "536",
+    "tbl_key": [
+      "kṳ̀-sut",
+      "sawdust.",
+      "536"
+    ],
+    "replacement": "Sawdust.",
+    "kind": "ex",
+    "007_en": "sawdust.",
+    "007_puj": "kṳ̀-sut",
+    "full_post_gloss": "sawdust."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47686,
+    "page": "538",
+    "tbl_key": [
+      "cí kâi suaⁿ sĭ tn̆g sṳ̆ a m̄ sí?",
+      "This mountaian is cut off from the mainland is it not?",
+      "538"
+    ],
+    "replacement": "This mountain is cut off from the mainland is it not ?",
+    "kind": "ex",
+    "007_en": "This mountaian is cut off from the mainland is it not?",
+    "007_puj": "cí kâi suaⁿ sĭ tn̆g sṳ̆ a m̄ sĭ",
+    "full_post_gloss": "This mountaian is cut off from the mainland is it not?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47699,
+    "page": "540",
+    "tbl_key": [
+      "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn",
+      "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in.",
+      "540"
+    ],
+    "replacement": "when the silk-moth is ready to deposit its eggs, a piece of paper must be placed for it to lay them in.",
+    "kind": "ex",
+    "007_en": "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in.",
+    "007_puj": "chôiⁿ-îah àiⁿ sẁn n̆ng, tîeh khîeh kò̤ cúa khṳt i sèn",
+    "full_post_gloss": "when the silk moth is ready to deposit its eggs, a piece of paper most be placed for it to lay them in."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47741,
+    "page": "544",
+    "tbl_key": [
+      "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+      "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash.",
+      "544"
+    ],
+    "replacement": "to have borne you is of less benefit than to lay an egg, for a egg is worth six cash.",
+    "kind": "ex",
+    "007_en": "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash.",
+    "007_puj": "koi-n̆ng ío tâk ŭ lâk kâi cîⁿ",
+    "full_post_gloss": "to have borne you is of loss benefit than to lay an egg, for a egg is worth six cash."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47771,
+    "page": "549",
+    "tbl_key": [
+      "tī-hng khah khùang-tăng",
+      "the place is too wild and wide, and is not snug and cozy.",
+      "549"
+    ],
+    "replacement": "the place is too wild and wide, and is not sung and cozy.",
+    "kind": "ex",
+    "007_en": "the place is too wild and wide, and is not snug and cozy.",
+    "007_puj": "tī-hng khah khùang-tăng, m̄ kín-kauh",
+    "full_post_gloss": "the place is too wild and wide, and is not snug and cozy."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47805,
+    "page": "555",
+    "tbl_key": [
+      "huang teng",
+      "hun teng; an opium lamp.",
+      "555"
+    ],
+    "replacement": "an opium lamp.",
+    "kind": "ex",
+    "007_en": "hun teng; an opium lamp.",
+    "007_puj": "huang teng, hun teng",
+    "full_post_gloss": "hun teng; an opium lamp."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47816,
+    "page": "556",
+    "tbl_key": [
+      "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+      "this does not suit his taste, let him select one that does.",
+      "556"
+    ],
+    "replacement": "if this does not suit his taste, let him select one that does",
+    "kind": "ex",
+    "007_en": "this does not suit his taste, let him select one that does.",
+    "007_puj": "cîa īa sĭ m̄ tèng ì li sûi i sẃn kàu tèng ì kâi",
+    "full_post_gloss": "this does not suit his taste, let him select one that does."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47827,
+    "page": "557",
+    "tbl_key": [
+      "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi",
+      "the dog seeing his master coming, is.so pleased that he stands on his hind legs.",
+      "557"
+    ],
+    "replacement": "the dog seeing his master coming, is so pleased that he stands on his hind legs.",
+    "kind": "ex",
+    "007_en": "the dog seeing his master coming, is.so pleased that he stands on his hind legs.",
+    "007_puj": "i ak̂i káu thóiⁿ-kìⁿ cú-nâng cē lâi, huaⁿ-hí kàu tēng khí lâi",
+    "full_post_gloss": "the dog seeing his master coming, is.so pleased that he stands on his hind legs."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47924,
+    "page": "568",
+    "tbl_key": [
+      "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin",
+      "this province has several great trading marts.",
+      "568"
+    ],
+    "replacement": "this province has several great trading-marts.",
+    "kind": "ex",
+    "007_en": "this province has several great trading marts.",
+    "007_puj": "cí cêk séⁿ ŭ kúi kâi tōa chĭ-tin",
+    "full_post_gloss": "this province has several great trading marts."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 47945,
+    "page": "571",
+    "tbl_key": [
+      "cìeⁿ-seⁿ m̄ cò̤ tit",
+      "that will not answer the purpose.",
+      "571"
+    ],
+    "replacement": "it will do.",
+    "kind": "ex",
+    "007_en": "that will not answer the purpose.",
+    "007_puj": "cìeⁿ-seⁿ m̄ cò̤ tit",
+    "full_post_gloss": "that will not answer the purpose."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48014,
+    "page": "583",
+    "tbl_key": [
+      "i cŏ̤ to m̄ tiām cŏ̤, kha tŏng chíu hìⁿ",
+      "when he sits down he never sits still, but keeps flopping his limps about.",
+      "583"
+    ],
+    "replacement": "when he sits down he never sits still, but keeps flopping his limbs about.",
+    "kind": "ex",
+    "007_en": "when he sits down he never sits still, but keeps flopping his limps about.",
+    "007_puj": "i cŏ̤ to m̄ tīam cŏ̤, kha tŏng chíu hìⁿ",
+    "full_post_gloss": "when he sits down he never sits still, but keeps flopping his limps about."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48032,
+    "page": "585",
+    "tbl_key": [
+      "sieh nâng tò̤ chin-chĭeⁿ hēng nâng hìeⁿ-seⁿ",
+      "loves people and appears as it he hated them.",
+      "585"
+    ],
+    "replacement": "loves people and appears as if he hated them.",
+    "kind": "ex",
+    "007_en": "loves people and appears as it he hated them.",
+    "007_puj": "sieh nâng tò̤ chin-chĭeⁿ hĕng nâng hìeⁿ-seⁿ",
+    "full_post_gloss": "loves people and appears as it he hated them."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48067,
+    "page": "589",
+    "tbl_key": [
+      "ngṳ̂n sŭ lâk-poih tŭe a sĭ chit tŭe?",
+      "Are the dollars current here reckoned at six mace right candareens, or at seven mace?",
+      "589"
+    ],
+    "replacement": "Are the dollars current here reckoned at six mace eight candareens, or at seven mace ?",
+    "kind": "ex",
+    "007_en": "Are the dollars current here reckoned at six mace right candareens, or at seven mace?",
+    "007_puj": "ngṳ̂n sĭ lâk-poih tŭe a sĭ chit tŭe？",
+    "full_post_gloss": "Are the dollars current here reckoned at six mace right candareens, or at seven mace?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48069,
+    "page": "590",
+    "tbl_key": [
+      "chíaⁿ kuaⁿ tui-kiu",
+      "ask the magistrate to sift it to the bototm.",
+      "590"
+    ],
+    "replacement": "ask the magistrate to sift it to the bottom",
+    "kind": "ex",
+    "007_en": "ask the magistrate to sift it to the bototm.",
+    "007_puj": "chíaⁿ kuaⁿ tui-kiu",
+    "full_post_gloss": "ask the magistrate to sift it to the bototm."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48089,
+    "page": "592",
+    "tbl_key": [
+      "i kâi chùi-tûn po̤h-sìe pô̤h-síe",
+      "he has a harelip.",
+      "592"
+    ],
+    "replacement": "his lips are very thin.",
+    "kind": "ex",
+    "007_en": "he has a harelip.",
+    "007_puj": "i kâi chùi-tûn po̤h-sìe pô̤h-síe",
+    "full_post_gloss": "he has a harelip."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48092,
+    "page": "592",
+    "tbl_key": [
+      "sía “ cài pài” cū hó̤, mín sía “tŭn sía pài,”",
+      "if you write “I present my respects” (on the card), you need not write “I respectfully bow the head.”",
+      "592"
+    ],
+    "replacement": "if your write “I present my respects” (on the card), you need not write “I respectfully bow the head.”",
+    "kind": "ex",
+    "007_en": "if you write “I present my respects” (on the card), you need not write “I respectfully bow the head.”",
+    "007_puj": "sía “cài pài” cū hó̤, mín sía “tŭn síu pài”",
+    "full_post_gloss": "if you write “I present my respects” (on the card), you need not write “I respectfully bow the head.”"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48098,
+    "page": "593",
+    "tbl_key": [
+      "tṳ tiam",
+      "a butcher's block.",
+      "593"
+    ],
+    "replacement": "a butcher’s knife.",
+    "kind": "ex",
+    "007_en": "a butcher's block.",
+    "007_puj": "tṳ to̤",
+    "full_post_gloss": "a butcher's block."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48115,
+    "page": "595",
+    "tbl_key": [
+      "that khah lang",
+      "the sieve is too coars.",
+      "595"
+    ],
+    "replacement": "the sieve is too coarse.",
+    "kind": "ex",
+    "007_en": "the sieve is too coars.",
+    "007_puj": "thai khah lang",
+    "full_post_gloss": "the sieve is too coars."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48118,
+    "page": "595",
+    "tbl_key": [
+      "kuaⁿ-hú kâi jī-nâng saⁿ-nâng",
+      "",
+      "595"
+    ],
+    "replacement": "the second and third wives of officers are addressed as Madame.",
+    "kind": "ex",
+    "007_en": "",
+    "007_puj": "kuaⁿ-hú kâi jī-nâng saⁿ-nâng",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48119,
+    "page": "596",
+    "tbl_key": [
+      "thài kong, thài phûa",
+      "lău thài îa, thài má; are appelations of the parents of men of repute.",
+      "596"
+    ],
+    "replacement": "are appelations of the parents of men of repute.",
+    "kind": "ex",
+    "007_en": "lău thài îa, thài má; are appelations of the parents of men of repute.",
+    "007_puj": "thài kong; thài phûa; lău thài îa; thài má",
+    "full_post_gloss": "lău thài îa, thài má; are appelations of the parents of men of repute."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48160,
+    "page": "600",
+    "tbl_key": [
+      "i kâi suū thàng căi",
+      "his affairs are thoroughly settles.",
+      "600"
+    ],
+    "replacement": "his affairs are thoroughly settled.",
+    "kind": "ex",
+    "007_en": "his affairs are thoroughly settles.",
+    "007_puj": "i kâi sṳ̄ thàng căi",
+    "full_post_gloss": "his affairs are thoroughly settles."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48223,
+    "page": "606",
+    "tbl_key": [
+      "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng",
+      "it is a region contiguous to the Teng Hai district.",
+      "606"
+    ],
+    "replacement": "it is a region contiguous to the TengHai district.",
+    "kind": "ex",
+    "007_en": "it is a region contiguous to the Teng Hai district.",
+    "007_puj": "sĭ kio thêng-hái kūiⁿ kiam-kài tī-hng",
+    "full_post_gloss": "it is a region contiguous to the Teng Hai district."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48241,
+    "page": "608",
+    "tbl_key": [
+      "thî",
+      "",
+      "608"
+    ],
+    "replacement": "To prepare against; to oppose a barrier.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "thî",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48274,
+    "page": "612",
+    "tbl_key": [
+      "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?",
+      "I hear that this regiment is to be recalled is it so?",
+      "612"
+    ],
+    "replacement": "I hear that this regiment is to be recalled, is it so ?",
+    "kind": "ex",
+    "007_en": "I hear that this regiment is to be recalled is it so?",
+    "007_puj": "thiaⁿ-kìⁿ ci ki kun àiⁿ thiet, sĭ mē?",
+    "full_post_gloss": "I hear that this regiment is to be recalled is it so?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48280,
+    "page": "613",
+    "tbl_key": [
+      "cêng tĥin cin a būe?",
+      "Has a fac-simile been made yet?",
+      "613"
+    ],
+    "replacement": "Has a facsimile been made yet ?",
+    "kind": "ex",
+    "007_en": "Has a fac-simile been made yet?",
+    "007_puj": "cêng tĥin cin a būe?",
+    "full_post_gloss": "Has a fac-simile been made yet?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48287,
+    "page": "614",
+    "tbl_key": [
+      "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?",
+      "How is this matter to be lucidly set forth?",
+      "614"
+    ],
+    "replacement": "How is this matter to be lucidly set forth ?",
+    "kind": "ex",
+    "007_en": "How is this matter to be lucidly set forth?",
+    "007_puj": "Cía sṳ̄ àiⁿ cò̤-nî thîo-thîn?",
+    "full_post_gloss": "How is this matter to be lucidly set forth?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48296,
+    "page": "615",
+    "tbl_key": [
+      "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu",
+      "in cutting it out, there lacks just the facing you must buy another piece for the facing.",
+      "615"
+    ],
+    "replacement": "in cutting it out, there lacks just the facing : you must buy another piece for the facing",
+    "kind": "ex",
+    "007_en": "in cutting it out, there lacks just the facing you must buy another piece for the facing.",
+    "007_puj": "ka lo̤h khṳ̀ tú-tú cûah thiu tîeh lêng-ūaⁿ ka pò lâi có̤ thiu",
+    "full_post_gloss": "in cutting it out, there lacks just the facing you must buy another piece for the facing."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48305,
+    "page": "616",
+    "tbl_key": [
+      "ci ki khah ńng m̄ hó̤ thn̄g",
+      "this is so flexible that it is not goot to use as a poker.",
+      "616"
+    ],
+    "replacement": "this is so flexible that it is not good to use as a poker.",
+    "kind": "ex",
+    "007_en": "this is so flexible that it is not goot to use as a poker.",
+    "007_puj": "ci ki khah ńng m̄ hó̤ thn̄g",
+    "full_post_gloss": "this is so flexible that it is not goot to use as a poker."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48351,
+    "page": "621",
+    "tbl_key": [
+      "i to bŏi tàⁿ ūa lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe",
+      "as he si no talker, why do you entrust the negotiation to him.",
+      "621"
+    ],
+    "replacement": "as he is no talker, why do you entrust the negotiation to him.",
+    "kind": "ex",
+    "007_en": "as he si no talker, why do you entrust the negotiation to him.",
+    "007_puj": "i to bŏi tàⁿ ūe lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe",
+    "full_post_gloss": "as he si no talker, why do you entrust the negotiation to him."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48388,
+    "page": "626",
+    "tbl_key": [
+      "û",
+      "",
+      "626"
+    ],
+    "replacement": "a support or pillar; out of the perpendicular; to equivocate; to prevaricate.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "û",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48421,
+    "page": "629",
+    "tbl_key": [
+      "m̄ cai i sĭ sí a sí ûah",
+      "do not know whether he is dead of a live.",
+      "629"
+    ],
+    "replacement": "do not know whether he is dead or alive",
+    "kind": "ex",
+    "007_en": "do not know whether he is dead of a live.",
+    "007_puj": "m̄ cai i sĭ sí a sĭ ûah",
+    "full_post_gloss": "do not know whether he is dead of a live."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48431,
+    "page": "629",
+    "tbl_key": [
+      "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa",
+      "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again.",
+      "629"
+    ],
+    "replacement": "he can shift his bow to his left hand and shoot, and then shift it to his right hand and shoot again.",
+    "kind": "ex",
+    "007_en": "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again.",
+    "007_puj": "i kâi keng ûaihⁿ kùe tò̤ chíu pôiⁿ īa ŏi sīa, uâihⁿ kùe cìaⁿ chíu pôiⁿ īa ŏi sīa",
+    "full_post_gloss": "he can shift his bow to his left hand and shoot, then shift it to his right hand and shoot again."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48432,
+    "page": "629",
+    "tbl_key": [
+      "húe uak-uak jîeh",
+      "the fire is blazing how.",
+      "629"
+    ],
+    "replacement": "the fire is blazing hot.",
+    "kind": "ex",
+    "007_en": "the fire is blazing how.",
+    "007_puj": "húe uak-uak jîet",
+    "full_post_gloss": "the fire is blazing how."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48442,
+    "page": "630",
+    "tbl_key": [
+      "kok ûang",
+      "ûang ke; the kind.",
+      "630"
+    ],
+    "replacement": "the king",
+    "kind": "ex",
+    "007_en": "the kind.",
+    "007_puj": "kok ûang; ûang ke",
+    "full_post_gloss": "the kind."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48458,
+    "page": "632",
+    "tbl_key": [
+      "kheh ūe",
+      "the Hakka tongue.",
+      "632"
+    ],
+    "replacement": "foreign tongues.",
+    "kind": "ex",
+    "007_en": "the Hakka tongue.",
+    "007_puj": "hwn ūe",
+    "full_post_gloss": "the Hakka tongue."
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48490,
+    "page": "635",
+    "tbl_key": [
+      "ūi",
+      "",
+      "635"
+    ],
+    "replacement": "A place; a seat; a post; a position; the throne; the room a thing takes up; the place it ought to be in; a classifier of persons, dignifying them.",
+    "kind": "head",
+    "007_en": "",
+    "007_puj": "ūi",
+    "full_post_gloss": ""
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48497,
+    "page": "635",
+    "tbl_key": [
+      "tŏ̤ tî kâi ūi-chṳ̀?",
+      "In what place?",
+      "635"
+    ],
+    "replacement": "In what place ?",
+    "kind": "ex",
+    "007_en": "In what place?",
+    "007_puj": "tŏ̤ tî kâi ūi-chṳ̀?",
+    "full_post_gloss": "In what place?"
+  },
+  {
+    "type": "t7_gloss",
+    "row": 48498,
+    "page": "635",
+    "tbl_key": [
+      "ūi",
+      "The stomach.",
+      "635"
+    ],
+    "replacement": "settle the stomach.",
+    "kind": "head",
+    "007_en": "The stomach.",
+    "007_puj": "phêng ūi",
+    "full_post_gloss": "The stomach."
+  }
+]
