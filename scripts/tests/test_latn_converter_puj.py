@@ -286,6 +286,10 @@ class TestFieldePUJNormalizeBookText(unittest.TestCase):
         result = self.system.normalize_book_text("bó")
         self.assertEqual(result, "bóu")
 
+    def test_o_before_ng_remains_o(self):
+        result = self.system.normalize_book_text("khòng")
+        self.assertEqual(result, "khòng")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -22,7 +22,9 @@ CORRECTION_CATALOG = load_correction_catalog(
     / "scripts/wikisource/007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect.csv"
 )
 
-_HEADWORD_RE = re.compile(r"^\*?\s*\*\*(.+?)\*\*\s+(\S+)(?:\s+(\([^)]*\)))?\s*$")
+_HEADWORD_RE = re.compile(
+    r"^\*?\s*\*\*(.+?)\*\*\s+(\S+)(?:\s+(\([^)]*\)))?(?:\s+(.*?))?\s*$"
+)
 _HYPHEN_SPACE_RE = re.compile(r"(?<=\w)- (?=\w)")
 _MARKDOWN_HEAD_PUNCTUATION_RE = re.compile(
     r"^(- \*\*)(.+?)(\*\*\s+)(.*?)(\s+—\s+)(.*)$"
@@ -49,6 +51,68 @@ _BOOK_PUJ_OCR_FIXES: dict[str, dict[str, str]] = {
         "nn̄g": "n̄ng",
     },
 }
+
+_PROOFREAD_HEADWORD_FIXES: dict[str, str] = {
+    "澤": "凙",
+    "巿": "市",
+    "賖": "賒",
+    "湊": "凑",
+    "簒": "篡",
+    "鮔": "䱌",
+    "鄷": "酆",
+    "傳": "傅",
+    "囁濡": "囁嚅",
+    "肓": "育",
+    "自已": "自己",
+    "噴嚔": "噴嚏",
+    "蟆蝦": "蝦蟆",
+    "颳𬱽": "颴颳",
+    "既": "旣",
+    "減": "减",
+    "劫": "刧",
+    "灸": "炙",
+    "巹": "卺",
+    "戅": "戇",
+    "㰖": "欖",
+    "襤䄛": "襤褸",
+    "𨤸": "釐",
+    "蜾贏": "蜾蠃",
+    "膿": "朧",
+    "研": "硏",
+    "瞬": "⿰耳舜",
+    "栜": "棟",
+    "瘦": "痺",
+    "杷枇": "枇杷",
+    "琶琵": "琵琶",
+    "别": "別",
+    "嗶吱": "吱嗶",
+    "皮": "培",
+    "蛸蟰": "蟰蛸",
+    "叨絮": "絮叨",
+    "失散": "散失",
+    "蜓蜻": "蜻蜓",
+    "菓檬": "檬菓",
+    "夊": "夂",
+    "遂": "瑞",
+    "戌": "戍",
+    "值": "値",
+    "窗": "窓",
+    "脫": "蛻",
+    "猥": "猬",
+}
+
+
+def fix_proofread_headwords(text: str) -> str:
+    lines: list[str] = []
+    for line in text.splitlines(keepends=True):
+        body = line.rstrip("\r\n")
+        ending = line[len(body):]
+        match = re.match(r"^(- \*\*)(.+?)(\*\*\s+.*)$", body)
+        if match:
+            prefix, headword, suffix = match.groups()
+            body = f"{prefix}{_PROOFREAD_HEADWORD_FIXES.get(headword, headword)}{suffix}"
+        lines.append(body + ending)
+    return "".join(lines)
 
 
 def _clean(text: str) -> str:
@@ -614,8 +678,12 @@ def reformat_entries(text: str) -> str:
         hanzi = m.group(1)
         latn = m.group(2) or ""
         nums = m.group(3) or ""
-        trailing_phrase = ""
-        defn = ""
+        trailing_phrase = re.sub(
+            r"(?<=\w)\.(?=\w)", "-", (m.group(4) or "").rstrip(";").strip()
+        )
+        defn = trailing_phrase if trailing_phrase[:1].isupper() else ""
+        if defn:
+            trailing_phrase = ""
         after_head_markers: list[str] = []
         j = i + 1
         while j < n and _is_blank_or_marker(lines[j]):
@@ -864,6 +932,7 @@ def fix_puj_ocr_digits(text: str, title: str) -> str:
 def preprocess_before_corrections(text: str, title: str = "") -> str:
     text = fix_puj_ocr_digits(text, title)
     out = reformat_entries(text)
+    out = fix_proofread_headwords(out)
     out = fix_orphaned_semicolons(out)
     out = convert_section_titles(out)
     return cleanup(out)

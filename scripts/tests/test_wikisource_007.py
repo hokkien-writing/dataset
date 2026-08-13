@@ -38,6 +38,7 @@ _fix_reading_corrections = mod.fix_reading_corrections
 _postprocess = mod.postprocess
 _normalize_entry_punctuation = mod.normalize_entry_punctuation
 _fix_puj_ocr_digits = mod.fix_puj_ocr_digits
+_fix_proofread_headwords = mod.fix_proofread_headwords
 
 processor_mod = importlib.import_module(
     "scripts.processors.007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect"
@@ -56,6 +57,42 @@ class TestBookPujOcrFixes(unittest.TestCase):
 
     def test_keeps_007_csv_reading_normalized(self) -> None:
         self.assertEqual("tak-n̄ng", _normalize_007_puj("tak-nn̄g"))
+
+
+class TestProofreadHeadwordFixes(unittest.TestCase):
+    def test_applies_single_character_proofread_headword(self) -> None:
+        self.assertEqual(
+            "- **凙** cêk — Humid; enriched; redolent.\n",
+            _fix_proofread_headwords("- **澤** cêk — Humid; enriched; redolent.\n"),
+        )
+
+    def test_reverses_multi_character_proofread_headword(self) -> None:
+        self.assertEqual(
+            "- **自己** ka-kī — Self.\n",
+            _fix_proofread_headwords(
+                "- **自已** ka-kī — Self.\n"
+            ),
+        )
+
+    def test_keeps_excluded_multi_character_headword(self) -> None:
+        self.assertEqual(
+            "- **咳敇** ehⁿ-hém — To make the sound represented by the word.\n",
+            _fix_proofread_headwords(
+                "- **咳敇** ehⁿ-hém — To make the sound represented by the word.\n"
+            ),
+        )
+
+    def test_applies_restored_multi_character_headword(self) -> None:
+        self.assertEqual(
+            "- **蝦蟆** kap-pô̤ — A toad.\n",
+            _fix_proofread_headwords("- **蟆蝦** kap-pô̤ — A toad.\n"),
+        )
+
+    def test_keeps_ids_headword_order(self) -> None:
+        self.assertEqual(
+            "- **⿰耳舜** nih — To wink.\n",
+            _fix_proofread_headwords("- **瞬** nih — To wink.\n"),
+        )
 
 
 class TestSplitEmbeddedGloss(unittest.TestCase):
@@ -207,6 +244,42 @@ class TestExpandExampleConservative(unittest.TestCase):
 
 
 class TestReformatEntries(unittest.TestCase):
+    def test_keeps_english_text_after_headword_as_definition(self):
+        raw = (
+            "* **衛** ŭe (1054|144|10) To go with as a protection, or in honor of; "
+            "to guard, to defend; an outpost; a military station.\n"
+            "; kio i bói nŎ âp ŭe seⁿ îⁿ;\n"
+            ": bought two boxes of life preserving pills for him.\n"
+        )
+        self.assertEqual(
+            "- **衛** ŭe (1054|144|10) — To go with as a protection, or in honor of; "
+            "to guard, to defend; an outpost; a military station.\n"
+            "  - *kio i bói nŎ âp ŭe seⁿ îⁿ* — bought two boxes of life preserving pills for him.",
+            _reformat_entries(raw),
+        )
+
+    def test_promotes_trailing_headword_phrase_to_example(self):
+        raw = (
+            "**汪** uang (1043|85|4) uang.îang;\n"
+            ": a deep and wide expanse of water, the open sea.\n"
+        )
+        self.assertEqual(
+            "- **汪** uang (1043|85|4)\n"
+            "  - *uang-îang* — a deep and wide expanse of water, the open sea.",
+            _reformat_entries(raw),
+        )
+
+    def test_normalizes_trailing_headword_phrase_as_reading(self):
+        raw = (
+            "<!-- page:605 -->\n"
+            "**汪** uang (1043|85|4) uang.îang;\n"
+            ": a deep and wide expanse of water, the open sea.\n"
+        )
+        self.assertIn(
+            "  - *uang-îang* — a deep and wide expanse of water, the open sea.",
+            _postprocess(raw),
+        )
+
     def test_normalizes_semantic_punctuation_without_changing_markdown(self):
         raw = (
             "<!-- page:1 -->\n"

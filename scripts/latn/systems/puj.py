@@ -123,7 +123,11 @@ def _to_fielde_syllable(syllable: str) -> str:
     o_diaeresis = "o\u0324" in nucleus
     if o_diaeresis:
         nucleus = nucleus.replace("\u0324", "")
-    elif nucleus.startswith("o") and not any(c in "aeiou" for c in nucleus[1:]):
+    elif (
+        nucleus.startswith("o")
+        and not nucleus.endswith("ng")
+        and not any(c in "aeiou" for c in nucleus[1:])
+    ):
         nucleus = "ou" + nucleus[1:]
 
     if tone == 5 and nucleus and nucleus[-1] in "ptkh":

@@ -7,6 +7,7 @@ mod = importlib.import_module(
     "scripts.processors.007_A_Pronouncing_and_Defining_Dictionary_of_the_Swatow_Dialect"
 )
 _normalize_puj = mod._normalize_puj
+Processor = mod.Processor
 
 
 class TestNormalizePuj(unittest.TestCase):
@@ -115,6 +116,48 @@ class TestBook007PujToLatnNorm(unittest.TestCase):
     def test_w_to_u(self):
         self._assert("cẃn", "chun2")
         self._assert("chŵn", "chhun5")
+
+
+class TestBook007Processor(unittest.TestCase):
+    def test_first_glossed_example_inherits_headword_without_gloss(self):
+        text = (
+            "<!-- page:605 -->\n"
+            "- **汪** uang (1043|85|4)\n"
+            "  - *uang-îang* — a deep and wide expanse of water, the open sea.\n"
+            "  - *cêk mō̤ⁿ uang-uang îang-îang* — nothing but an expanse of water to be seen."
+        )
+
+        entries = Processor().extract_entries(text, "007")
+
+        self.assertEqual(entries[0].han, "汪")
+        self.assertEqual(entries[0].puj, "uang")
+        self.assertEqual(entries[0].en, "")
+        self.assertEqual(entries[1].han, "汪")
+        self.assertEqual(entries[1].puj, "uang-iâng")
+        self.assertEqual(
+            entries[1].en, "a deep and wide expanse of water, the open sea."
+        )
+        self.assertEqual(entries[2].han, "")
+
+    def test_headword_reading_or_is_kept_as_slash_separated_single_entry(self):
+        text = (
+            "<!-- page:479 -->\n"
+            "- **辦** phōiⁿ or pōiⁿ (652|160|9) — "
+            "To manage, to attend to, to prepare, to provide, to go on with, "
+            "to transact business; to act as a factor"
+        )
+
+        entries = Processor().extract_entries(text, "007")
+
+        self.assertEqual(len(entries), 1)
+        self.assertEqual(entries[0].han, "辦")
+        self.assertEqual(entries[0].puj, "phōiⁿ/pōiⁿ")
+        self.assertEqual(entries[0].puj_orig, "phōiⁿ/pōiⁿ")
+        self.assertEqual(
+            entries[0].en,
+            "To manage, to attend to, to prepare, to provide, to go on with, "
+            "to transact business; to act as a factor",
+        )
 
 
 if __name__ == "__main__":
