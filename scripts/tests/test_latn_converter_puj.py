@@ -290,6 +290,14 @@ class TestFieldePUJNormalizeBookText(unittest.TestCase):
         result = self.system.normalize_book_text("khòng")
         self.assertEqual(result, "khòng")
 
+    def test_breve_tone6_before_semicolon(self):
+        result = self.system.normalize_book_text("ā-sĭ; īa-sĭ")
+        self.assertEqual(result, "ā-sĩ; iā-sĩ")
+
+    def test_breve_tone6_before_comma(self):
+        result = self.system.normalize_book_text("ā-sĭ, īa-sĭ")
+        self.assertEqual(result, "ā-sĩ, iā-sĩ")
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -349,9 +349,12 @@ class FieldePUJSystem(PUJSystem):
         words = text.split(" ")
         result = []
         for word in words:
-            kb = _to_fielde_keyboard(word)
+            match = re.match(r"^(.*?)([^\w\u00c0-\u024f\u1e00-\u1eff\u207f\u0300-\u036f]*)$", word)
+            reading = match.group(1) if match else word
+            punctuation = match.group(2) if match else ""
+            kb = _to_fielde_keyboard(reading)
             hw = self._converter.to_handwriting(kb)
-            result.append(hw)
+            result.append(hw + punctuation)
         return " ".join(result)
 
 
