@@ -119,6 +119,19 @@ class TestBook007PujToLatnNorm(unittest.TestCase):
 
 
 class TestBook007Processor(unittest.TestCase):
+    def test_csv_puj_keeps_fielde_spelling(self):
+        text = (
+            "<!-- page:26 -->\n"
+            "- **亦** ā (1093|8|4)\n"
+            "  - *ā-sĭ; īa-sĭ* — if; should it be; in case that; supposing that.\n"
+            "  - *cò̤* — to do."
+        )
+
+        entries = Processor().extract_entries(text, "007")
+
+        self.assertEqual(entries[1].puj, "ā-sĭ; īa-sĭ")
+        self.assertEqual(entries[2].puj, "cò̤")
+
     def test_first_glossed_example_inherits_headword_without_gloss(self):
         text = (
             "<!-- page:605 -->\n"
@@ -133,7 +146,7 @@ class TestBook007Processor(unittest.TestCase):
         self.assertEqual(entries[0].puj, "uang")
         self.assertEqual(entries[0].en, "")
         self.assertEqual(entries[1].han, "汪")
-        self.assertEqual(entries[1].puj, "uang-iâng")
+        self.assertEqual(entries[1].puj, "uang-îang")
         self.assertEqual(
             entries[1].en, "a deep and wide expanse of water, the open sea."
         )

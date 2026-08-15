@@ -26,7 +26,7 @@ def _normalize_headword_reading(text: str) -> str:
 
 
 def _normalize_headword_puj(text: str) -> str:
-    return "/".join(_normalize_007_puj(reading) for reading in text.split("/"))
+    return "/".join(reading.strip() for reading in text.split("/"))
 
 
 class Processor(BookProcessor):
@@ -78,7 +78,7 @@ class Processor(BookProcessor):
 
             ex_m = EXAMPLE_RE.match(stripped)
             if ex_m:
-                phrase = self.clean(_normalize_007_puj(generate_modified(ex_m.group(1))))
+                phrase = self.clean(generate_modified(ex_m.group(1)))
                 phrase_orig = self.clean(generate_original(ex_m.group(1)))
                 gloss_raw = (ex_m.group(2) or "").strip()
                 gloss = self.clean(generate_modified(gloss_raw))
