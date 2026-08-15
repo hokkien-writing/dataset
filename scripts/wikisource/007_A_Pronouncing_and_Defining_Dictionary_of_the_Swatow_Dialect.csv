@@ -264,6 +264,8 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-reading-5b5808e361d0c04c,reading,,"châm-chin chùi; treacherous lips, cham-chin chìe",treacherous smiles.,106,1,châm-chin chìe,,true,accepted,
 007-review-e917253957c6ec47,review,,t̂o chàm,a diagram or picture indicating future events.,106,1,tô chàm,,true,accepted,
 007-review-bca09a4bf429eb65,review,,cí kò̤ châng sì lô̤h tāu-kho hó̤ a sĭ lô̤h tṳ-kut hó̤?,"Which is the best fertilizer for this field, bean-cake or bone-dust?",108,1,cí kò̤ châng sĭ lô̤h tāu-kho hó̤ a sĭ lô̤h tṳ-kut hó̤?,,true,accepted,
+007-example_split-90991fa81185f064,example_split,,"chíu cok siang châng; fraternal strifes, i cṳ̄ siang châng tâh",they themselves destroy each other by trampling each other down.,108,1,chíu cok siang châng,fraternal strifes.,true,accepted,
+007-example_split-90991fa81185f064,example_split,,"chíu cok siang châng; fraternal strifes, i cṳ̄ siang châng tâh",they themselves destroy each other by trampling each other down.,108,2,i cṳ̄ siang châng tâh,they themselves destroy each other by trampling each other down.,true,accepted,
 007-reading-d949c72b377ddda1,reading,,gû tó̤ hwn cháu,the cattle are chewing the cud.,109,1,gû tó̤ hwn cháu nâng,,true,accepted,
 007-review-81f81bc327e419d8,review,,cháu-kau,"An insect, the common mantis.",109,1,cháu-kâu,,true,accepted,
 007-review-7843c428874e641d,review,,"cháu-thâu lío cò̤ kâi mâk jī ci kâi jī sĭ tŏ̤ cháu pŏ, a sĭ tŏ̤ mâk pŏ?",This character has the one for grass above and the one for eye below: which of the two is its radical?,109,1,"cháu-thâu lío cò̤ kâi mâk jī ci kâi jī sĭ tŏ̤ cháu pŏ, a sĭ tŏ̤ mâk pŏ?",,false,rejected,
@@ -286,7 +288,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-8cd07f2f69aacd15,review,,pùaⁿ cheⁿ sek,half cooked; half ripe.,111,1,pùaⁿ cheⁿ sêk,,true,accepted,
 007-review-4367d59945069e64,review,,lṳ́ kâi cheⁿ mīn căk,you are very easily offended.,112,1,lṳ́ kâi cheⁿ mīn căi,,true,accepted,
 007-review-73dc1e7ebf4d27c5,review,,phiⁿ̄ tîeh chàu-cheⁿ căi,it smelled very rancid.,112,1,phīⁿ tîeh chàu-cheⁿ căi,,true,accepted,
-007-reading-8eae3afac8670b27,reading,,chui-chek tŏ̤-lí,inscrutable doctrines.,113,1,chui-chek tŏ̤-lí ， chek m̄ chut,,false,rejected,
+007-reading-8eae3afac8670b27,reading,,chui-chek tŏ̤-lí,inscrutable doctrines.,113,1,"chui-chek tŏ̤-lí, chek m̄ chut",,true,accepted,以音節數人工校訂為準
 007-review-71598a65070c153f,review,,cek liap chek,a grain of unhusked rice.,113,1,cêk lîap chek,,true,accepted,
 007-review-a37c0bcae0ade4bf,review,,"lô̤h hŏ chek bŏi ta, tîeh khí húe lâi pue","it rains so the paddy cannot dry, and a fire must be built for drying it.",113,1,"lô̤h hŏ chek bŏi ta, tîeh khí húe lâi pūe",,true,accepted,
 007-reading-2a0e408f093a24e6,reading,,"cía tê sĭ chèng hue kâi, chèng kaù cn̂g kâi hue bī","this tea has had flower petals mixed with it to scent it, till it tastes strongly of the flowers.",114,1,"cía tê sĭ chèng hue kâi, chèng kàu cn̂g kâi hue bī",,true,accepted,
@@ -408,7 +410,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-2a085b3d03544d72,review,,cip-chú,a mouse.,140,1,cip-chṳ́,,true,accepted,
 007-review-9a1f9578d47ee8ce,review,,kha cìm kàu seⁿ chu,his feet have been in the water so long that they have festered.,140,1,kha cìm kàu seⁿ chṳ,,true,accepted,
 007-review-68182889803cb563,review,,pàng tŏ̤ tī kâi ūi-chṳ?,Where did you place it?,140,1,pàng tŏ̤ tī kâi ūi-chṳ̀?,,true,accepted,
-007-review-d7516775daf05d61,review,,tio-chṳ́,sables.,140,1,tio-chṳ́ kíaⁿ,,false,rejected,
+007-review-d7516775daf05d61,review,,tio-chṳ́,sables.,140,1,tio-chṳ́ kíaⁿ,,true,accepted,以音節數人工校訂為準
 007-review-c18fe7fdd5b88254,review,,lṳ́ ua lâi kìⁿ kâi chṳ̂ hîong,let us see which of us is the stronger.,141,1,lṳ́ ~~ua~~(úa) lâi kìⁿ kâi chṳ̂ hîong,,true,accepted,
 007-review-2869aae0a9efd6b4,review,,pùe-ău cò̤ saⁿ ki chẁn,make three cross bar on the back.,141,1,,make three cross bars on the back.,true,accepted,
 007-review-339b5132a75bc3df,review,,cīeⁿ tǹg lâu ĕ tng,save the preceding meal for the succeeding one.,142,1,cīeⁿ tǹg lâu ĕ tǹg,,true,accepted,
@@ -1199,7 +1201,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-ee92f27af3b6e9bd,review,,kâi nâng taⁿ nŏ khún,a man carries two bales.,350,1,kâi nâng taⁿ nŏ̤ khún,,true,accepted,
 007-review-0f862c694610ed4a,review,,nâng cē khùn-khùn tŏaⁿ-tŏaⁿ to cū bŏi lí sṳ̄,when one is fagged ont be cannot attend to business.,350,1,,when one is fagged out he cannot attend to business.,true,accepted,
 007-reading-2a9fc8290e4cebe1,reading,,bô̤ nâng âiⁿ khṳ̀,no one is going.,351,1,bô̤ nâng àiⁿ khṳ̀,,true,accepted,
-007-reading-6fba950d5f913629,reading,,cṳ-nîe hùe īa kàu khûn kàu khûn khṳ̀ thóiⁿ hì,the women folk go in squads to see the play.,351,1,cṳ-nîe hùe īa kàu khûn khṳ̀ thóiⁿ hì,,true,accepted,
+007-reading-6fba950d5f913629,reading,,cṳ-nîe hùe īa kàu khûn kàu khûn khṳ̀ thóiⁿ hì,the women folk go in squads to see the play.,351,1,cṳ-nîe hùe īa kàu khûn khṳ̀ thóiⁿ hì,,false,rejected,以音節數人工校訂為準，保留原讀音
 007-reading-7b66ea2077a9358e,reading,,i íⁿ-keng khṳ̀ kú kío,he went a long time ago.,351,1,i íⁿ-keng khṳ̀ kú lío,,true,accepted,
 007-review-d57f3d4886ad5045,review,,cí câng hue khut cò̤ cêk ciah cío,bend this shrub into tho shape of a bird.,351,1,,bend this shrub into the shape of a bird.,true,accepted,
 007-review-de3ce4117cd96f4b,review,,i tùi hṳ́-kò li-li khṳ̀,he went on past there.,351,1,i tùi hṳ́-kò̤ li-li khṳ̀,,true,accepted,
@@ -1488,7 +1490,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-38086d00ac7ceec0,review,,"hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ; a drizzling, fine rain.",,411,1,hŏ mûiⁿ-kíaⁿ; hŏ mûiⁿ-mûiⁿ,"a drizzling, fine rain",true,accepted,
 007-review-4bd30f84488704b9,review,,hṳ́ kâi kìe-cò̤ sĭm mŭeh?,What is that called?,411,1,hṳ́ kâi kìe-cò̤ sĭm mûeh?,,true,accepted,
 007-review-5f45684b8924b317,review,,khîeh tîo bîh-nā lâi pak,get a rattan cable and fasten it.,412,1,khîeh tîo bîh-nā lâi pâk,,true,accepted,
-007-reading-944fc67c66138369,reading,,i m̄sĭ nâng,he is inhuman.,413,1,i m sĭ nâng,,true,accepted,
+007-reading-944fc67c66138369,reading,,i m̄sĭ nâng,he is inhuman.,413,1,i m̄ sĭ nâng,,true,accepted,以音節數人工校訂為準
 007-review-2700c99fdce87294,review,,nâng īeⁿ; nâng khẃn,,413,1,nâng īeⁿ; nâng khẃn,human kind.,true,accepted,
 007-reading-03cc987e0ad3f7ae,reading,,né-taⁿ,solitary.,414,1,né-tăⁿ,,true,accepted,
 007-reading-a029764f4f9bcfb9,reading,,"sueh kaù mêng-pêh mêng-pêh nē, khṳt i thiaⁿ","explain it very fully now, and let him hear you.",414,1,"sueh kàu mêng-pêh mêng-pêh nē, khṳt i thiaⁿ",,true,accepted,
@@ -2619,7 +2621,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-fb56fabba2ba785f,review,,tṳ̂-hui tîeh i cìaⁿ ŏi,promising that we have him it may be down.,593,1,,premising that we have him it may be down.,true,accepted,
 007-reading-964ff90d09bd70f8,reading,,"gê tṳ̄, tek tṳ̄, o tṳ̄, ngṳ̂ tṳ̄","chopsticks of ivory, of bamboo, of ebony, or of silver.",594,1,"gê tṳ̄, tek tṳ̄, o tṳ̄, ngṳ̂n tṳ̄",,true,accepted,
 007-reading-e96d882e2250a381,reading,,i kâi sim-sût puttwn,his notions are incorrect.,594,1,i kâi sim-sût put twn,,true,accepted,
-007-reading-dc12e9b03d8d6daf,reading,,isĭ twn-cìaⁿ kâi nâng,he is an upright man.,594,1,i sĭ twn-cìaⁿ kâi nâng,,true,accepted,
+007-reading-dc12e9b03d8d6daf,reading,,isĭ twn-cìaⁿ kâi nâng,he is an upright man.,594,1,ĭ sĭ twn-cìaⁿ kâi nâng,,true,accepted,以音節數人工校訂為準
 007-reading-4a7c48ee273eb156,reading,,sieⁿ ngûⁿ kâi tṳ̄,chopsticks plated with silver.,594,1,sieⁿ ngṳ̂n kâi tṳ̄,,true,accepted,
 007-review-9f7a83e4ae455fab,review,,i ŏi ía tw̆n jī,he can write the seal character.,594,1,i ŏi sía tw̆n jī,,true,accepted,
 007-reading-75273cca5c2634bd,reading,,that khah lang,the sieve is too coars.,595,1,thai khah lang,,false,rejected,
@@ -2844,7 +2846,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-7b2a6c90d06606af,review,,nâng cē ŭ nî-hùe cū thò̤ sèⁿ,as people grow older they become less irascible.,620,1,,as people grow older they become less irrascible.,false,rejected,
 007-review-0e5a60eba2b06b60,review,,sái bûe-nâng khṳ́ thò̤ chin,sent the go-between to break the betrothal.,620,1,sái bûe-nâng khṳ̀ thò̤ chin,,true,accepted,
 007-review-1db269b8e23da83b,review,,sói lío cū àiⁿ thò̤ sek,it will face when washed.,620,1,,it will fade when washed.,true,accepted,
-007-review-a4246ec71f6b198d,review,,thiⁿ ĕ kâi ûah-mûeh ŭ khí sĭ sĭ hùe seⁿ,"of living creatures under the sun some are viviparous, some are oviparous, some are produced by moisture and some by metamotphosis.",620,1,,"of living creatures under the sun some are viviparous, some are oviparous, some are produced by moisture and some by metamorphosis.",true,accepted,
+007-review-a4246ec71f6b198d,review,,thiⁿ ĕ kâi ûah-mûeh ŭ khí sĭ sĭ hùe seⁿ,"of living creatures under the sun some are viviparous, some are oviparous, some are produced by moisture and some by metamotphosis.",620,1,"thiⁿ ĕ kâi ûah-mûeh ŭ khí sĭ tho̤ seⁿ, ŭ khí sĭ n̆ng seⁿ, ŭ khí sĭ sip seⁿ, ŭ khí sĭ hùe seⁿ","of living creatures under the sun some are viviparous, some are oviparous, some are produced by moisture and some by metamorphosis.",true,accepted,合併既有釋義修正與音節數人工校訂
 007-review-368df5a02349c8f2,review,,thó̤-tàng; thò̤-tǹg,secure; everything right.,620,1,thó̤-tàng; thó̤-tǹg,,true,accepted,
 007-review-6fefcab93fba825e,review,,"àiⁿ cìu put tit, àiⁿ thò̤ put lêng",can move neither one way nor the other.,620,1,"àiⁿ cìn put tit, àiⁿ thò̤ put lêng",,true,accepted,
 007-reading-1dce0d188e8dbfb9,reading,,i to bŏi tàⁿ ūa lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe,"as he si no talker, why do you entrust the negotiation to him.",621,1,i to bŏi tàⁿ ūe lṳ́ cò̤ hó̤ tho̤h i tàⁿ ūe,,true,accepted,
@@ -3039,4 +3041,16 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-headword_review-bb0dfecc65e03259,headword_review,善,sĭen,"Good from principle; virtuous; merit from good works, such as the Buddhists teach; goodness; eminent; wise; meek.",509,1,,"Good from principle; virtuous; merit from good works, such as the Buddhists teach; goodness; eminent; wise; meek, docile; fitted for; clever, expert, handy; to take to naturally; in a high degree; to do a thing well; to expedite",true,accepted,斐姑娘詞典 2026-08-15 校對
 007-review-2559b45f1b89e4de,review,,thài kong; thài phûa; lău thài îa; thài má,"lău thài îa, thài má; are appelations of the parents of men of repute.",596,1,,are appelations of the parents of men of repute.,true,accepted,斐姑娘詞典 2026-08-15 校對
 007-review-444ef481d5456bfe,review,,ēng sô̤h thūi în thàm-thóiⁿ cúi jîeh chim,let down the lead by a rope and see Low deep the water is; sound and ascertain the depth.,597,1,,let down the lead by a rope and see how deep the water is; sound and ascertain the depth.,true,accepted,斐姑娘詞典 2026-08-15 校對
-007-review-279d61ecef442dab,review,,i cí hûe tó̤ lô̤h lêng; i tó̤ lô̤h thâi,he is losing money; he is not prospering at present.,390,1,,he is not prospering at present.,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-279d61ecef442dab,review,,i cí hûe tó̤ lô̤h lêng; i tó̤ lô̤h thâi,he is losing money; he is not prospering at present.,390,1,,he is not prospering at present.,false,rejected,以音節數人工校訂為準，保留兩組釋義
+007-review-d2117bf82531cd2a,review,,mùa-khí-cá lâi thit-thô̤ hṳ́ kui kâi kó-ciah,come to-morrow to play by those old ruins.,70,1,mùa-khí-cá lâi thit-thô̤ hṳ́ kúi kâi kó-ciah,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-4eaf18d9d0886750,review,,li phah sí m̄ khéng cio,"one party owned it on being beaten, the other party would not own it though beaten to death.",82,1,"cêk pôiⁿ li cē phah cĭu cio, cêk pôiⁿ li phah sí m̄ khéng cio",,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-3471e645226b280c,review,,tîeh i chi-chám,pity his distress.,116,1,lîen-tîeh i chi-chám,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-93f63917d04d576c,review,,ka-kī hó̤ khṳ̀,you should yourself go.,177,1,lṳ́ ka-kī hó̤ khṳ̀,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-3cdce120d2854b38,review,,"i hṳ́ cêk pang-thâu kì m̄ phû, kàu kúi câp nî ău cìaⁿ kì tit khí","that branch of the family did not increase in numbers through the adopted heir, until after several tens of years, when it flourished through the young clansmen adopted.",260,1,"i hṳ́ cêk pâng-thâu kì m̄ phû, kàu kúi câp nî ău cìaⁿ kì tit khí",,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-f20db201a159724a,review,,u ŭ kǹg kha a bô̤?,Is there a cash taken out to pay for the string on which the others are strung?,280,1,ŭ kǹg kha a bô̤?,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-b0c019af4460a2bb,review,,"khue-kháu kháu ŵn cū hûe sé kháu khue-kṳ́, khue-kṳ́ siu ŵn cū cĭeⁿ kiaⁿ hôk-cí","the examinations for the first degree having been passed through in their order, one repairs to the provincial city for examination for the second degree, and having passed that he goes to the capital to return thanks for the imperial favor.",345,1,"khue-kháu kháu ŵn cū hûe séⁿ kháu khue-kṳ́, khue-kṳ́ siu ŵn cū cĭeⁿ kiaⁿ hôk-cí",,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-8f6e3fd20cde451d,review,,"cí ciah ngio ío ū khŵn, i cĕ kìu-kìe cĕ níoⁿ-chṳ́ cū m̄ káⁿ lâi","this cat is quite influential in her sphere, if she but mews the rats dare not come about.",354,1,"cí ciah ngio ío ū khŵn, i cē kìn-kìe cē níoⁿ-chṳ́ cū m̄ káⁿ lâi",,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-78867fff610eb761,review,,sòi kâi lô̤-kía theoⁿ-theoⁿ-kìe,"the very small gong, such as is used by pedlars to announce their approach, sounds thus.",388,1,sòi kâi lô̤-kíaⁿ theoⁿ-theoⁿ-kìe,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-06ae810cd24ce2c1,review,,tâng soiⁿ lṳ́ sĭ lâi am sĭ?,You came a while ago did you not?,522,1,tâng soiⁿ lṳ́ sĭ lâi a m̄ sĭ?,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-8489c80483fd9d8e,review,,cía ĭ sôk im a sĭ sôk îang?,Does this belong to the female or to the male principle in nature?,523,1,cía sĭ sôk im a sĭ sôk îang?,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
+007-review-2da3e25b3c800ed8,review,,àiⁿ cū lâi kìⁿ cē kau-ti ce,"if you like, let us see who is tallest.",558,1,àiⁿ cū lâi kìⁿ cē kau-ti cē,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
