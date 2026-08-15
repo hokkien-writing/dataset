@@ -210,6 +210,27 @@ _BOOK_CORRECTION_PRE_KEYS: frozenset[tuple[str, str]] = frozenset(
     )
 )
 
+_PROOFREAD_EXAMPLE_DELETIONS: frozenset[tuple[str, str, str]] = frozenset(
+    {
+        (
+            "A place",
+            "a seat; a post; a position; the throne; the room a thing takes up; "
+            "the place it ought to be in; a classifier of persons, diginifying them.",
+            "635",
+        ),
+    }
+)
+
+_PROOFREAD_EXAMPLE_INSERTIONS: dict[
+    tuple[str, str, str], tuple[tuple[str, str], ...]
+] = {
+    (
+        "cu ūi, chíaⁿ cŏ̤",
+        "I beg you all to be seated.",
+        "635",
+    ): (("lîet ūi, thiaⁿ úa tàⁿ", "hear me, all of you."),),
+}
+
 
 _PAGE_MARKER_RE = re.compile(r"<!-- page:(\d+) -->")
 _HEAD_LINE_RE = re.compile(
@@ -356,6 +377,13 @@ def fix_reading_corrections(text: str) -> str:
                 _clean(generate_modified(gloss or "")),
                 page,
             )
+            if key in _PROOFREAD_EXAMPLE_DELETIONS:
+                continue
+            insertions = _PROOFREAD_EXAMPLE_INSERTIONS.get(key)
+            if insertions is not None:
+                out.append(line)
+                out.extend(f"{prefix}{rd}* — {gl}" for rd, gl in insertions)
+                continue
             review = _lookup_correction(
                 CORRECTION_CATALOG.review, key, allow_empty_nearby=True
             )

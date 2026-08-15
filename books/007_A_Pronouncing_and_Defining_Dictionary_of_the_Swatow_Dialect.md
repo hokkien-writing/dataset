@@ -9064,7 +9064,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cúi cheⁿ* — Mercury.
   - *bâk cheⁿ* — Jupiter.
   - *thó cheⁿ* — Saturn.
-  - *cheⁿ hi-hi; the stars are far ~~apart~~(apart.) thiⁿ tèng kâi cheⁿ* — the stars of heaven.
+  - *cheⁿ hi-hi* — the stars are far apart.
+  - *thiⁿ tèng kâi cheⁿ* — the stars of heaven.
   - *thien-bûn-seng múi-mêⁿ lûn-lîu thóiⁿ cheⁿ* — the royal astronomers take turns in watching the stars every night.
   - *cău-hùe ŭ kìu cheⁿ* — there was timely deliverance.
   - *hô̤-khoi tói kâi cheⁿ īa ho̤h cōi* — there are also many stars in the milky way.
@@ -13783,7 +13784,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hàuⁿ lăng-híam* — likes to rush into danger.
   - *i*
 <!-- page:165 -->
-  - *ún-ún kâi sṳ̄ to m̄ cò̤, mńg hàuⁿ lăng-híam* — he never will do what is safe, but always seeks what is hazardous.
+  - *i ún-ún kâi sṳ̄ to m̄ cò̤, mńg hàuⁿ lăng-híam* — he never will do what is safe, but always seeks what is hazardous.
   - *i cêk seⁿ bô̤ kîaⁿ híam lō, to sĭ kîaⁿ ún-tàng kâi sṳ̄* — all his life he has never gone into danger, but has done what was perfectly safe.
   - *híam cèng* — dangerous diseases.
   - *cí kâi nâng sĭm sĭ im-híam* — this person is very scheming.
@@ -15011,7 +15012,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hō̤ hí!* — Joy be with you!
   - *lâi kio i sie hō̤* — congratulate him.
   - *hō̤ sīu; hō̤ nâng seⁿ-jît* — send congratulations upon a birthday.
-  - *hō̤ nî~~~~(;)* — send New Year greetings.
+  - *hō̤ nî* — send New Year greetings.
   - *hō̤ lói* — articles sent as presents, upon some happy occasion.
   - *peh kuaⁿ chîo hō̤* — a general levee.
   - *hō̤ nâng chūa bó, hō̤ nâng seⁿ tau-kíaⁿ* — send congratulations on a wedding day, or on the birth of a son.
@@ -26827,7 +26828,8 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hwt khí* — to teeth.
   - *būe hwt khí* — has not cut his teeth yet.
   - *bé khí* — the teeth of a horse.
-  - *máng bé-khí; to make edging bé-khí pĭⁿ* — edging.
+  - *máng bé-khí* — to make edging.
+  - *bé-khí pĭⁿ* — edging.
   - *bé-khí hōiⁿ* — purslane.
   - *khí-thìaⁿ cìaⁿ cai khí-thìaⁿ nâng* — those who have toothache can sympathize with one whose tooth aches.
   - *kù khí* — the teeth of a saw.
@@ -30922,7 +30924,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hô̤-lō* — water-courses.
   - *síam lō khṳt i kùe* — draw back off the road and let them pass.
   - *i kâi seng-lí lō sêk* — he is accustomed to his business.
-  - *i kâi seng-lí lō sêk* — he has numerous accounts.
+  - *i kâi seng-lí lō sêk* — he is accustomed to his business.
   - *lō tîo cho-siap* — it is hard travelling.
   - *lō ôih* — a narrow way.
   - *lō khuah* — a wide passage.
@@ -31380,7 +31382,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lô̤h sìo* — enter in account.
   - *būe cêng kìⁿ lô̤h phŏ* — have not yet entered it in the list.
   - *kúi jît cĭeⁿ pang, kúi jît lô̤h pang* — is on duty for a few days, and then off duty for a few days.
-  - *i cí hûe tó̤ lô̤h lêng; i tó̤ lô̤h thâi* — he is losing money; he is not prospering at present.
+  - *i cí hûe tó̤ lô̤h lêng; i tó̤ lô̤h thâi* — he is not prospering at present.
   - *ŭ ciⁿ lô̤h īe-tŏ cū bōi* — will sell it if I can make anything upon it.
   - *àiⁿ cĭeⁿ pak a lô̤h lâm?* — Are you going north or south?
   - *i lô̤h a-nôⁿ lío, sin-hun khùn* — she has had a miscarriage and is very weak.
@@ -40026,7 +40028,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cúi sî* — a spoon used in wetting ink.
   - *hue-sî* — a trowel.
   - *só̤-sî* — a key.
-- **時** sî (759|72|6) — Time; a season; a period; a Chinese hour; a quarter of a year; an occasion; an opportunity; now; timely; convenient; recent; in season; to time rightly; to take a fit time for; to be; when.
+- **時** sî (759|72|6) — Time; a season; a period; a Chinese hour; a quarter of a year; an occasion; an opportunity; now; timely; convenient; recent; in season; to time rightly; to take a fit time for; to be; when, while, during; as; then; at that time; sometimes.
   - *while, during* — as; then; at that time; sometimes.
   - *cêk jît câp-jī kâi sî-sîn* — each day is divided into twelve Chinese hours.
   - *cêk kâi sî poih khek* — each Chinese hour is divided into eight periods.
@@ -40894,7 +40896,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *mih sṳ̄ m̄ káⁿ sĭen-cwn* — would not venture to act unauthorized.
   - *i chṳ́-căi tó̤ sĭen khŵn* — he now usurps authority.
   - *i cò̤-nî káⁿ sĭen-cṳ̆ thiah huang?* — How dare he take the responsibility of opening the envelope without orders?
-- **善** sĭen (752|30|9) — Good from principle; virtuous; merit from good works, such as the Buddhists teach; goodness; eminent; wise; meek.
+- **善** sĭen (752|30|9) — Good from principle; virtuous; merit from good works, such as the Buddhists teach; goodness; eminent; wise; meek, docile; fitted for; clever, expert, handy; to take to naturally; in a high degree; to do a thing well; to expedite
   - *docile* — fitted for; clever.
   - *expert, handy* — to take to naturally; in a high degree; to do a thing well; to expedite.
   - *sĭen ak kàu thâu cong ŭ pò̤* — good and evil have always in the end a meet recompense.
@@ -50689,10 +50691,10 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *chì-ūi* — a small hedgehog, said to have forked spines.
   - *chì-ūi-phûe* — the skin of the small hedgehog, used in medicine.
 - **位** ūi (1053|9|5) — A place; a seat; a post; a position; the throne; the room a thing takes up; the place it ought to be in; a classifier of persons, dignifying them.
-  - *A place* — a seat; a post; a position; the throne; the room a thing takes up; the place it ought to be in; a classifier of persons, diginifying them.
   - *cí cêk ūi sĭ ko-nîe* — this is the young lady.
   - *cu ūi* — all of you, Sirs.
   - *cu ūi, chíaⁿ cŏ̤* — I beg you all to be seated.
+  - *lîet ūi, thiaⁿ úa tàⁿ* — hear me, all of you.
   - *i kâi thiⁿ-ūi thŵn khṳt tī-tîang?* — To whom did his throne descend?
   - *nî lău thò̤ ūi khṳt i kíaⁿ* — being old he resigned his throne to his son.
   - *i sí ău thŵn ūi khṳt i a-tĭ* — on dying he left his throne to his younger brother.

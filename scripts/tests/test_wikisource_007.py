@@ -151,6 +151,60 @@ class TestExpandSingleReading(unittest.TestCase):
 
 
 class TestExpandExampleInlineEnglish(unittest.TestCase):
+    def test_inserts_missing_example_after_requested_anchor(self):
+        text = (
+            "<!-- page:635 -->\n"
+            "  - *cu ūi, chíaⁿ cŏ̤* — I beg you all to be seated.\n"
+            "  - *i kâi thiⁿ-ūi thŵn khṳt tī-tîang?* — To whom did his throne descend?"
+        )
+        self.assertEqual(
+            _fix_reading_corrections(text),
+            "<!-- page:635 -->\n"
+            "  - *cu ūi, chíaⁿ cŏ̤* — I beg you all to be seated.\n"
+            "  - *lîet ūi, thiaⁿ úa tàⁿ* — hear me, all of you.\n"
+            "  - *i kâi thiⁿ-ūi thŵn khṳt tī-tîang?* — To whom did his throne descend?",
+        )
+
+    def test_splits_corrected_gloss_before_second_reading(self):
+        text = (
+            "<!-- page:111 -->\n"
+            "  - *cheⁿ hi-hi; the stars are far ~~apart~~(apart.) thiⁿ tèng kâi cheⁿ* "
+            "— the stars of heaven."
+        )
+        self.assertEqual(
+            _postprocess(text),
+            "<!-- page:111 -->\n"
+            "  - *cheⁿ hi-hi* — the stars are far apart.\n"
+            "  - *thiⁿ tèng kâi cheⁿ* — the stars of heaven.\n",
+        )
+
+    def test_removes_definition_misparsed_as_example(self):
+        text = (
+            "<!-- page:635 -->\n"
+            "- **位** ūi (1053|9|5)\n"
+            "  - *A place* — a seat; a post; a position; the throne; the room a thing "
+            "takes up; the place it ought to be in; a classifier of persons, diginifying them."
+        )
+        self.assertEqual(
+            _fix_reading_corrections(text),
+            "<!-- page:635 -->\n"
+            "- **位** ūi (1053|9|5) — A place; a seat; a post; a position; the throne; "
+            "the room a thing takes up; the place it ought to be in; a classifier of persons, "
+            "dignifying them.",
+        )
+
+    def test_semicolon_english_then_reading(self):
+        text = (
+            "<!-- page:326 -->\n"
+            "  - *máng bé-khí; to make edging bé-khí pĭⁿ* — edging."
+        )
+        self.assertEqual(
+            _fix_reading_corrections(text),
+            "<!-- page:326 -->\n"
+            "  - *máng bé-khí* — to make edging.\n"
+            "  - *bé-khí pĭⁿ* — edging.",
+        )
+
     def test_p243(self):
         out = _expand_example(
             "cêk kâi kang jîeh cōi cîⁿ? What are the wages for a day's work?",

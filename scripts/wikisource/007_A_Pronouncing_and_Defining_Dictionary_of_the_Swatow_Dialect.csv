@@ -276,6 +276,8 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-8bce1b144d98ac1f,review,,"phû-chàu; hasty; touchy, phû-chêng chàu-khì",irrasible.,110,1,phû-chêng chàu-khì,,true,accepted,
 007-review-ac1b79782d6480f6,review,,tăi chāu-nău cêk tieⁿ,a great uproar.,110,1,tăi chāu-nău cêk tîeⁿ,,true,accepted,
 007-reading-945946960bfc9180,reading,,"bô̤ hîeⁿ àm, ŭ cheⁿ, khó̤-íⁿ hó̤ kîaⁿ lō","it is not very dark, the stars are out, and we can go by their light.",111,1,"bô̤ hìeⁿ àm, ŭ cheⁿ, khó̤-íⁿ hó̤ kîaⁿ lō",,true,accepted,
+007-example_split-2449df91e8940e76,example_split,,cheⁿ hi-hi; the stars are far apart thiⁿ tèng kâi cheⁿ,the stars of heaven.,111,1,cheⁿ hi-hi,the stars are far apart.,true,accepted,
+007-example_split-2449df91e8940e76,example_split,,cheⁿ hi-hi; the stars are far apart thiⁿ tèng kâi cheⁿ,the stars of heaven.,111,2,thiⁿ tèng kâi cheⁿ,the stars of heaven.,true,accepted,
 007-reading-3170b987253b5b51,reading,,cheⁿ hṳ̂ⁿ,uncooked fish.,111,1,cheⁿ hṳ̂,,true,accepted,
 007-reading-4c7bb12737a54c5e,reading,,"chê tîeh, ío sĭ cîeⁿ-seⁿ","have looked it over, and it remains the same.",111,1,"chê tîeh, ío sĭ cìeⁿ-seⁿ",,true,accepted,
 007-review-3142376d9c5815c7,review,,i kâi lâk tōa căi ciah hóⁿ khṳt i kâi chíu chê tŏ̤ thô-ĕ,his strength is enormous: the tiger was pinned down to the ground by his thumb and fore-finger.,111,1,i kâi lâk tōa căi: ciah hóⁿ khṳt i kâi chíu chê tŏ̤ thô-ĕ,,true,accepted,
@@ -1099,6 +1101,8 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-reading-b1160c31a484a021,reading,,khì-kŭ côi- cíaⁿ,the utensils are all in order.,326,1,khì-kŭ côi-cíaⁿ,,true,accepted,
 007-reading-26ea6a2330b7290a,reading,,"khí tōiⁿ, bǒi cù","the tooth is sound, it is not decayed at all.",326,1,"khí tōiⁿ, bŏi cù",,true,accepted,
 007-reading-f7f63175e23157a9,reading,,máng bé-khí; to make edging bé-khí pĭⁿ,edging.,326,1,máng bé-khí,,false,rejected,
+007-example_split-6f64abbfdb70ff97,example_split,,máng bé-khí; to make edging bé-khí pĭⁿ,edging.,326,1,máng bé-khí,to make edging.,true,accepted,
+007-example_split-6f64abbfdb70ff97,example_split,,máng bé-khí; to make edging bé-khí pĭⁿ,edging.,326,2,bé-khí pĭⁿ,edging.,true,accepted,
 007-review-56b16018bb832aef,review,,"i chin nâng cò̤-nî khang-khieh, khang-khieh i m̄ khi","however much his relatives train him, they cannot bring him to any good.",326,1,"i chin nâng cò̤-nî khang-khieh, khang-khieh i m̄ khí",,true,accepted,
 007-review-e636c8d1a25d57dd,review,,máng bé-khí; to make edging bé-khí pĭⁿ,edging.,326,1,máng bé-khí,to make edging,false,rejected,
 007-review-1dd1487e940a729e,review,,phah ka-lâuh i kâi khi,knocked his tooth out.,326,1,phah ka-lâuh i kâi khí,,true,accepted,
@@ -3025,3 +3029,14 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-af895a4a257da7eb,review,,ẁn-hūn,in sympathy with.,640,1,ŵn-hūn,,true,accepted,
 007-review-c161ac4a6d3a4a42,review,,bûn bú kuaⁿ-ŵn cí chṳ́ cí tăn,both civil and military officers halt here and rest.,641,1,bûn bú kuaⁿ-ŵn cí chṳ́ cí tău,,true,accepted,
 007-review-19162ce6302b0a80,review,,"àiⁿ tùi tâng-ŵn-mn̂g kò̤ jîp, a sĭ àiⁿ tùi sai-ŵn-mn̂g kò̤ jip?",Will you go in at the eastern or the western entrance?,641,1,"àiⁿ tùi tâng-ŵn-mn̂g kò̤ jîp, a sĭ àiⁿ tùi sai-ŵn-mn̂g kò̤ jîp?",,true,accepted,
+007-headword_review-f95bc12fe15c3368,headword_review,一下,cē,A contraction of cék ē; once; a little while; for a while.,56,1,,A contraction of cêk ē; once; a little while; for a while.,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-7f0b6a04bfac8c15,review,,"ún-ún kâi sṳ̄ to m̄ cò̤, mńg hàuⁿ lăng-híam","he never will do what is safe, but always seeks what is hazardous.",165,1,"i ún-ún kâi sṳ̄ to m̄ cò̤, mńg hàuⁿ lăng-híam",,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-1a465a0f3d766f11,review,,hō̤ nî~~~~(;),send New Year greetings.,178,1,hō̤ nî,,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-f3aa14536d42134d,review,,i kâi seng-lí lō sêk,he has numerous accounts.,384,1,,he is accustomed to his business.,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-4c54356da26f7358,review,,jú bó̤,a foster mother.,425,1,ni-bó̤,,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-headword_review-c57e37451714ee82,headword_review,色,sek,"Air, manner; form, color, hue; complexion; expression of the face; the deportment; to look blandly; mode, sort, kind, quality; glory, beauty; lust; a show of well dressed women; in Buddhism one of the six outward perceptions, that of form",493,1,,"Air, manner; form, color, hue; complexion; expression of the face; the deportment; to look blandly; mode, sort, kind, quality; glory, beauty; lust; a show of well dressed women; in Buddhism one of the six outward perceptions, that of form.",true,accepted,斐姑娘詞典 2026-08-15 校對
+007-headword_review-f7a65f38c4d3815a,headword_review,時,sî,Time; a season; a period; a Chinese hour; a quarter of a year; an occasion; an opportunity; now; timely; convenient; recent; in season; to time rightly; to take a fit time for; to be; when.,499,1,,"Time; a season; a period; a Chinese hour; a quarter of a year; an occasion; an opportunity; now; timely; convenient; recent; in season; to time rightly; to take a fit time for; to be; when, while, during; as; then; at that time; sometimes.",true,accepted,斐姑娘詞典 2026-08-15 校對
+007-headword_review-bb0dfecc65e03259,headword_review,善,sĭen,"Good from principle; virtuous; merit from good works, such as the Buddhists teach; goodness; eminent; wise; meek.",509,1,,"Good from principle; virtuous; merit from good works, such as the Buddhists teach; goodness; eminent; wise; meek, docile; fitted for; clever, expert, handy; to take to naturally; in a high degree; to do a thing well; to expedite",true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-2559b45f1b89e4de,review,,thài kong; thài phûa; lău thài îa; thài má,"lău thài îa, thài má; are appelations of the parents of men of repute.",596,1,,are appelations of the parents of men of repute.,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-444ef481d5456bfe,review,,ēng sô̤h thūi în thàm-thóiⁿ cúi jîeh chim,let down the lead by a rope and see Low deep the water is; sound and ascertain the depth.,597,1,,let down the lead by a rope and see how deep the water is; sound and ascertain the depth.,true,accepted,斐姑娘詞典 2026-08-15 校對
+007-review-279d61ecef442dab,review,,i cí hûe tó̤ lô̤h lêng; i tó̤ lô̤h thâi,he is losing money; he is not prospering at present.,390,1,,he is not prospering at present.,true,accepted,斐姑娘詞典 2026-08-15 校對
