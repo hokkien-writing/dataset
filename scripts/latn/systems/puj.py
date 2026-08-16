@@ -126,6 +126,7 @@ def _to_fielde_syllable(syllable: str) -> str:
     elif (
         nucleus.startswith("o")
         and not nucleus.endswith("ng")
+        and not nucleus.endswith(tuple("ptkh"))
         and not any(c in "aeiou" for c in nucleus[1:])
     ):
         nucleus = "ou" + nucleus[1:]

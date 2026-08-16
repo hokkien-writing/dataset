@@ -974,4 +974,4 @@ def postprocess(text: str, title: str = "") -> str:
     out = re.sub(r"\n{3,}", "\n\n", out)
     out = re.sub(r"(?:\n---\n){2,}", "\n---\n", out)
     out = re.sub(r"\n{3,}", "\n\n", out)
-    return out.strip() + "\n"
+    return unicodedata.normalize("NFC", out.strip()) + "\n"

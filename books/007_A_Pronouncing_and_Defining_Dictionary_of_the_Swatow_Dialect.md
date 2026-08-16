@@ -1066,7 +1066,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *koi heng ah ka-ciah, mín thàn cĭu ŭ cîah* — one with a breast like a hen's and a back like a duck's, has food without earning it.
   - *ah-n̆ng pū kú ŏi ih chùi* — a long covered duck's egg will hatch out.
   - *cúi ah ŏi cíeⁿ keⁿ* — the wild ducks station a sentinel.
-  - *ah chùi àⁿ cò̤ îⁿ, koi chùi àⁿ cò̤ píⁿ* — make it appear by argument that a duck's bill is round and a hen's bill is flat.
+  - *ah chùi àⁿ cò̤ îⁿ; koi chùi àⁿ cò̤ píⁿ* — make it appear by argument that a duck's bill is round and a hen's bill is flat.
   - *ah ku* — a stunted duck; a runt.
   - *ah-kíaⁿ thiu huang* — the duckling has the pip.
 ### ai
@@ -5236,7 +5236,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *bô̤ cong bô̤ ciah* — no clue to it.
   - *bô̤ ciah hó̤ chūe* — nothing whereby to trace it.
   - *chûn ŭ cêk īeⁿ kó ciah* — an old landmark remains.
-  - *mùa-khí-cá lâi thit-thô̤ hṳ́ kúi kâi kó-ciah* — come to-morrow to play by those old ruins.
+  - *mùa-khí-cá lâi thit-thô̤ hṳ́ kúi kâi kó-ciah* — come to-morrow to play by those old ruins.
   - *chûn kâi kū ciah* — a vestige remains.
   - *khṳt hŏ lāu-tih lío seⁿ ciah* — worn by the dropping of the rain.
   - *nâng kîaⁿ ŭ kha-ciah, cío pue ŭ lô̤h mô̤ⁿ* — a person passing by leaves tracks, a bird flying over drops a feather.
@@ -5271,7 +5271,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 <!-- page:71 -->
   - *i m̄ kàu cîah* — she has not enough to eat.
   - *chíaⁿ i cîah to̤h* — invite him to supper.
-  - *cîah phīⁿ-hun* — take snuff.
+  - *cîah phīⁿ-hun* — take snuff.
   - *cîah cheⁿ hun* — smoke green tobacco.
   - *cîah cúi-hun* — smokes strong tobacco.
   - *mih hun to̤ cîah* — smokes any sort of tobacco.
@@ -6286,7 +6286,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i m̄ khéng cio-jīn* — he is unwilling to own to it.
   - *cêk pôiⁿ li cē phah cĭu cio, cêk pôiⁿ*
 <!-- page:82 -->
-  - *cêk pôiⁿ li cē phah cĭu cio, cêk pôiⁿ li phah sí m̄ khéng cio* — one party owned it on being beaten, the other party would not own it though beaten to death.
+  - *cêk pôiⁿ li cē phah cĭu cio, cêk pôiⁿ li phah sí m̄ khéng cio* — one party owned it on being beaten, the other party would not own it though beaten to death.
   - *cio-îo cŭang-phìen* — to beguile.
   - *mín mn̄g cṳ̆ cio* — confessed it unquestioned.
   - *cio châi îa* — the god of weath.
@@ -9438,7 +9438,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **悽** chi (966|61|8) — Suffering.
   - *chi-chám* — distressing.
   - *chi-chi chám-chám* — in great distress.
-  - *lîen-tîeh i chi-chám* — pity his distress.
+  - *lîen-tîeh i chi-chám* — pity his distress.
 - **棲** chi (788|75|8) — To sojourn; to perch.
   - *bô̤ kò̤ hó̤ chi sin* — with no place of abode.
   - *cĭam-chíaⁿ chi sin* — lodge temporarily.
@@ -14897,7 +14897,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *lṳ́ cêng ìn kùe hó̤* — you have already assented to it.
   - *lṳ́ thóiⁿ tîeh hó̤ mē?* — Do you think it will be well to do so?
   - *lṳ́ cài sĭeⁿ thóiⁿ hó̤ a mó̤* — you think it over again, whether it would be well to do it or not.
-  - *lṳ́ ka-kī hó̤ khṳ̀* — you should yourself go.
+  - *lṳ́ ka-kī hó̤ khṳ̀* — you should yourself go.
   - *úa mn̄g i, i ìn tàⁿ hó̤* — I asked him and he assented.
 - **可** hó̤ (425|30|2) — Suitable; fit; may; ought; can; sign of the potential mood.
   - *hó̤ mē?* — Can it be done?
@@ -21787,7 +21787,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *sĭ kì chú kâi bó* — it is the wife that was taken in addition to one already married.
   - *cêk kì bô̤ nŏ̤ kì* — only one can occupy the second place.
   - *i kâi sòi kâi kíaⁿ kùe kì pun i a-hiaⁿ* — he passed his youngest son over to his elder brother, to be his heir.
-  - *i hṳ́ cêk pâng-thâu kì m̄ phû, kàu kúi câp nî ău cìaⁿ kì tit khí* — that branch of the family did not increase in numbers through the adopted heir, until after several tens of years, when it flourished through the young clansmen adopted.
+  - *i hṳ́ cêk pâng-thâu kì m̄ phû, kàu kúi câp nî ău cìaⁿ kì tit khí* — that branch of the family did not increase in numbers through the adopted heir, until after several tens of years, when it flourished through the young clansmen adopted.
   - *cí kâi kíaⁿ kì tit khí i a-pê kâi cì* — this son carries out his father's plans.
   - *cía kì i a-pĕ kâi sṳ̄, kì m̄ khí* — this one is not able to fill his father's place.
 - **痣** kì (61|104|7) — A mole; black or red spots on the body.
@@ -22236,7 +22236,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cêk kĭaⁿ sṳ̄* — an affair.
   - *toaⁿ kĭaⁿ hôk-sek* — one garment.
   - *úa àiⁿ cn̂g kĭaⁿ kio lṳ́ bói* — I will buy the whole lot from you.
-  - *lṳ́ àiⁿ bói kàu kĭaⁿ li cū sǹg phīⁿ cē* — if you are going to buy the whole lot I will let you have them a little cheaper.
+  - *lṳ́ àiⁿ bói kàu kĭaⁿ li cū sǹg phīⁿ cē* — if you are going to buy the whole lot I will let you have them a little cheaper.
   - *ēng chûn bô̤ pùaⁿ kĭaⁿ* — used them all up, so that there is not one left.
   - *kè cng ŭ jîeh cōi kĭaⁿ?* — How many articles are there in the wedding outfit?
   - *ùaⁿ kĭaⁿ* — a case in law.
@@ -22320,7 +22320,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *cí kheng ío ke, cí kheng ío kíam* — this basket has more, and that one has less.
   - *kíam cêk ûe cîⁿ khṳt lṳ́* — let you have it at half the price.
   - *khṳt i kíam tīo ho̤h cōi ngṳ̂n* — had a rather large sum of money taken off by him.
-  - *cìe-ⁿseⁿ ŏi khah kíam a bŏi?* — Have I retrenched too much?
+  - *cìeⁿ-seⁿ ŏi khah kíam a bŏi?* — Have I retrenched too much?
   - *mn̂g-khí cìaⁿ cîah ío kíam, cí hûe cū tó khùn* — ate less than usual this morning, and am now hungry.
   - *meⁿ kíam cho̤h* — take some off with the hand.
   - *tàⁿ kíam tōa-bó̤-mûeh ūe* — contracted his speech very much.
@@ -28743,7 +28743,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *hṳ́ kâi ío ŭ ui-khŵn chūa nâng ùi* — that one has a more authoritative manner, making people afraid of him.
   - *chîo-thêng sĭ i tó̤ lám khŵn* — he it is that holds the balance of power in the government.
   - *cêk cio khŵn tŏ̤ chíu cū jw̆n cò̤* — as soon as he has a little temporary power in his hands, he acts without regard to other people's rights.
-  - *cí ciah ngio ío ū khŵn, i cē kìn-kìe cē níoⁿ-chṳ́ cū m̄ káⁿ lâi* — this cat is quite influential in her sphere, if she but mews the rats dare not come about.
+  - *cí ciah ngio ío ū khŵn, i cē kìn-kìe cē níoⁿ-chṳ́ cū m̄ káⁿ lâi* — this cat is quite influential in her sphere, if she but mews the rats dare not come about.
   - *tăi hŭam kẁn-kut tōa kâi nâng to̤-to̤ ŭ khŵn* — most people who have high cheek bones are influential in their spheres.
   - *keng khŵn sieⁿ pìen īa-sĭ ŏi cai, cò̤ sṳ̄ cū bŏi tăⁿ* — if we understand what is regular and necessary in morals we shall not make mistakes.
 - **繚** khŵn (529|120|12) — To coil around; to wind in a closed spiral; a coil.
@@ -28893,7 +28893,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ciang-lâi* — in the future.
   - *ău-lâi* — afterward.
   - *i kâi sĭ ŭ sĭm-mih lâi-thâu?* — What brought it about?
-  - *i kâi lâi-in ~~is~~(sĭ) cò̤-nî?* — What are the causes which lead to it?
+  - *i kâi lâi-in ~~is~~(sĭ) cò̤-nî?* — What are the causes which lead to it?
   - *cía tīaⁿ-tîeh sĭ ŭ sĭm-mih tŏa lâi-thâu* — this has certainly some important cause.
   - *ngŵn-lâi sĭ cìeⁿ-seⁿ* — it was so originally.
   - *úa íⁿ-keng mn̄g chut i kâi lâi-îu* — I have already found out by inquiry what is the reason for it.
@@ -32535,7 +32535,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *mīn-nêk* — complexion.
   - *mīn-nêk ìuⁿ* — a delicate complexion.
   - *mīn-cīeⁿ seⁿ hûeⁿ-nêk* — has a rugged face.
-  - *sı̀ mīn, poih hng* — on every side.
+  - *sì mīn, poih hng* — on every side.
   - *sang mīn; nŏ̤ mīn* — both front and back.
   - *hìeⁿ pôiⁿ mīn* — the other side.
   - *cìeⁿ pôiⁿ mīn* — this side.
@@ -38004,7 +38004,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **痞** phí (681|104|7) — A stoppage or constipation.
   - *phí-khì* — constipation.
   - *phí cek* — indigestion.
-  - *cí īeⁿ îeh ŏi khṳ̀ tīo heng tang kâi phí-kò̤* — this medicine will remove the swelling arising from obstructed bowels.
+  - *cí īeⁿ îeh ŏi khṳ̀ tīo heng tang kâi phí-kò̤* — this medicine will remove the swelling arising from obstructed bowels.
 - **痂** phí (351|104|5) — A scab.
   - *kit phí* — to form a scab.
   - *phí m̄-hó̤ peh tīo, tîeh táng i ka-kī lut* — you must not pick off the scab, but must wait till it falls off of itself.
@@ -41609,7 +41609,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *i ā sĭ sit síu sîaⁿ-tî cū tîeh phōiⁿ cŭe* — if he fails to guard the city, he must be punished for it.
   - *lîu-lî sit só̤* — to wander homeless.
   - *sit thŵn* — fail of transmission.
-  - *cí īeⁿ huap í-ⁿkeng sit thŵn* — this recipe has been lost, not having been handed down.
+  - *cí īeⁿ huap íⁿ-keng sit thŵn* — this recipe has been lost, not having been handed down.
   - *cí cêk tīn ŏi sit nâng a bŏi?* — Is anyone missing from this rank?
 - **實** sît (769|40|11) — Real; solid; full; compact; true, honest, sincere; fixed, as a price; hard, as a knot; the reality; the results, effects, or fruits; facts; small and hard fruits or seeds; verily, in fact.
   - *sît-căi sĭ hó̤* — is really good.
@@ -41862,7 +41862,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *piaⁿ sng* — ice and frost.
   - *cháu-cĭeⁿ-sng* — un-yeaned lambskin.
   - *khṳt sng-cúi tàng tîeh cū sí* — if nipped by the frost it will die.
-  - *sng tàng kùe kâi sng-sûi hîeh* — mulberry leaves that have been bitten by the frost.
+  - *sng tàng kùe kâi sng-sûi hîeh* — mulberry leaves that have been bitten by the frost.
   - *săi sng* — the white powder on the surface of dried persimmons.
   - *hĕng sng* — pulverized bitter almonds used in medicine.
 - **軸** sng (96|159|5) — An axis of motion.
@@ -41910,7 +41910,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *ŏi sieⁿ-sńg tîeh a bŏi?* — Was it injured?
   - *cn̂g kâi bô̤ sieⁿ-sńg* — not injured in the least.
   - *ŏi sńg tîeh pńg-cîⁿ a bŏi?* — Did he make an inroad upon his capital?
-  - *màiⁿ hng-sńg tīo mûeh-kĭaⁿ* — do not waste things.
+  - *màiⁿ hng-sńg tīo mûeh-kĭaⁿ* — do not waste things.
 - **耍** sńg (731|126|3) — To play; to frolic; to make sport.
   - *hì-sńg* — to tease.
   - *nŏ̤ nâng tó̤ sńg* — the two are playing together.
@@ -44800,7 +44800,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 - **低** ti (877|9|5) — Low; to droop; to hang down.
   - *ti siaⁿ* — low tones.
   - *ti thâu sòi sĭeⁿ* — hang the head and ponder.
-  - *àiⁿ cū lâi kìⁿ cē kau-ti cē* — if you like, let us see who is tallest.
+  - *àiⁿ cū lâi kìⁿ cē kau-ti cē* — if you like, let us see who is tallest.
   - *kau ti* — lofty and lowly.
 - **喇叭** ti-tâ (498) — A trumpet.
   - *pûn ti-tâ* — blow a trumpet.
@@ -47672,7 +47672,7 @@ The number of the radical, the radical, its contracted form, the page on which i
 
 - **端** twn (936|117|9) — The origin; elementary principles; strait, correct, direct, grave, decent.
   - *cŏ̤ pàng kò̤ twn-huang sì-cìaⁿ* — sit upright and squarely in your chair.
-  - *ĭ sĭ twn-cìaⁿ kâi nâng* — he is an upright man.
+  - *ĭ sĭ twn-cìaⁿ kâi nâng* — he is an upright man.
   - *i bô̤ twn cò̤-nî mēⁿ lṳ́?* — Why does she berate you with no sufficient reason?
   - *i kâi sim-sût put twn* — his notions are incorrect.
   - *mùaⁿ-khí sĭ twn ngŏ coih* — to-morrow is the 5th of the 5th moon.
@@ -49558,7 +49558,7 @@ The number of the radical, the radical, its contracted form, the page on which i
   - *uaⁿ tho̤ îeh, pó̤ tho̤ hû* — medicine or charms that will prevent miscarriage.
   - *tho̤-ui* — the placenta.
   - *bō̤ tho̤* — an official cap without any button or fringe.
-  - *thiⁿ ĕ kâi ûah-mûeh ŭ khí sĭ tho̤ seⁿ, ŭ khí sĭ n̆ng seⁿ, ŭ khí sĭ sip seⁿ, ŭ khí sĭ hùe seⁿ* — of living creatures under the sun some are viviparous, some are oviparous, some are produced by moisture and some by metamorphosis.
+  - *thiⁿ ĕ kâi ûah-mûeh ŭ khí sĭ tho̤ seⁿ, ŭ khí sĭ n̆ng seⁿ, ŭ khí sĭ sip seⁿ, ŭ khí sĭ hùe seⁿ* — of living creatures under the sun some are viviparous, some are oviparous, some are produced by moisture and some by metamorphosis.
   - *nâng kio sìu sĭ tho̤ seⁿ kâi* — men and beasts are viviparous.
   - *tŏ̤ bó̤ tho̤ tèng cū cheⁿ-mêⁿ* — blind from birth.
   - *kùai tho̤* — a womb that produces monstrosities.

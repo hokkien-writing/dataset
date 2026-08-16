@@ -286,6 +286,16 @@ class TestFieldePUJNormalizeBookText(unittest.TestCase):
         result = self.system.normalize_book_text("bó")
         self.assertEqual(result, "bóu")
 
+    def test_plain_o_before_entering_ending_remains_o(self):
+        for source, expected in [
+            ("lôp", "lo̍p"),
+            ("lôt", "lo̍t"),
+            ("lôk", "lo̍k"),
+            ("lôh", "lo̍h"),
+        ]:
+            with self.subTest(source=source):
+                self.assertEqual(expected, self.system.normalize_book_text(source))
+
     def test_o_before_ng_remains_o(self):
         result = self.system.normalize_book_text("khòng")
         self.assertEqual(result, "khòng")

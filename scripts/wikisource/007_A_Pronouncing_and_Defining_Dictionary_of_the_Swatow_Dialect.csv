@@ -835,7 +835,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-bd19bb14863cf050,review,,bò̤ ke bô̤ kíam,neither more nor less.,266,1,bô̤ ke bô̤ kíam,,true,accepted,
 007-review-ad73e1b79f189667,review,,ciap kîah kha,put a new sipport under the patten.,266,1,,put a new support under the patten.,true,accepted,
 007-review-b15c801cb35ae3a8,review,,cìeⁿ-seⁿ kiam-kíam to m̄ kíam,pinching and scrimping thus does not diminish it a particle.,266,1,cìeⁿ-seⁿ kíam-kíam to m̄ kíam,,true,accepted,
-007-review-a97185f352ccaad4,review,,cìeⁿ-soⁿ ŏi khah kíam a bŏi?,Have I retrenched too much ?,266,1,cìe-ⁿseⁿ ŏi khah kíam a bŏi?,,true,accepted,
+007-review-a97185f352ccaad4,review,,cìeⁿ-soⁿ ŏi khah kíam a bŏi?,Have I retrenched too much ?,266,1,cìeⁿ-seⁿ ŏi khah kíam a bŏi?,,true,accepted,
 007-review-04a316f60e4bb686,review,,khṳt i kíam tīo ho̤h cōi ngṳ̤̂n,had a rather large sum of money taken off by him.,266,1,khṳt i kíam tīo ho̤h cōi ngṳ̂n,,true,accepted,
 007-review-2bc3a3703d88f62b,review,,kè-cíⁿ bô̤ kíam,no abatement in the price.,266,1,kè-cîⁿ bô̤ kíam,,true,accepted,
 007-review-6a7db335fce3d509,review,,kíam cêk ûe ciⁿ khṳt lṳ́,let you have it at half the price.,266,1,kíam cêk ûe cîⁿ khṳt lṳ́,,true,accepted,
@@ -1442,7 +1442,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-78beb5cc7fc03fae,review,,"cìe i kâi mĭⁿ bûn lâi thóiⁿ, phah lâi to tîeh","following out the puzzle as laid down in the written statement, tho solution is correct.",402,1,,"following out the puzzle as laid down in the written statement, the solution is correct.",true,accepted,
 007-review-499e191d43c3feff,review,,khîn mîaⁿ,peck fame.,402,1,khîu mîaⁿ,seek name.,true,accepted,
 007-review-9d82f072a07eff7a,review,,lṳ́ kìe cò sĭm-mih mîaⁿ?,What is your name?,402,1,lṳ́ kìe cò̤ sĭm-mih mîaⁿ?,,true,accepted,
-007-reading-c581a07ba75b68aa,reading,,"sì mīn, poih hng",on every side.,403,1,"sı̀ mīn, poih hng",,true,accepted,
+007-reading-c581a07ba75b68aa,reading,,"sì mīn, poih hng",on every side.,403,1,"sì mīn, poih hng",,true,accepted,
 007-review-7fcbbdf07ed794d0,review,,bô̤ chéng mīn,unwilling to oblige.,403,1,bô̤ chêng mīn,,true,accepted,
 007-review-1f5fbcfb117bcee2,review,,bô̤ lîen-mīn,of no repute.,403,1,bô̤ líen-mīn,,true,accepted,
 007-review-23352453f343c147,review,,bô̤ mīn mâk hó̤ kiⁿ nâng,ashamed to see people.,403,1,bô̤ mīn mâk hó̤ kìⁿ nâng,,true,accepted,
@@ -2079,6 +2079,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-95a04ffea939b865,review,,lṳ́ kio úa tàⁿ sît-ūe,tell me tho truth about it.,517,1,,tell me the truth about it.,true,accepted,
 007-review-ab3c07edbb7ab131,review,,"ngŵn sît, bô̤ cia sṳ̄","in fact, it is not so.",517,1,"ngŵn sît, bô̤ cía sṳ̄",,true,accepted,
 007-review-8d5f7232df3832b5,review,,sit lói,unnmannerly.,517,1,,unmannerly.,true,accepted,
+007-reading-5e0a6fd02ccf4ae1,reading,,cí īeⁿ huap í-ⁿkeng sit thŵn,"this recipe has been lost, not having been handed down.",517,1,cí īeⁿ huap íⁿ-keng sit thŵn,,true,accepted,
 007-reading-ea2fb906281733f2,reading,,i cò̤ cêk síu sĭ,he composed a poem.,518,1,i cò̤ cêk síu si,,true,accepted,
 007-reading-7a6682d4ead1f2d0,reading,,i àiⁿ nā kò̤ⁿ síu-cak,"she wishes to stay in her husband's family, and remain his widow.",518,1,i àiⁿ nā kò̤ síu-cak,,true,accepted,
 007-reading-5512dd0131ce99c7,reading,,"siu ngṳ̂n, sîu cîⁿ",collect money from debtors; take in coin.,518,1,"siu ngṳ̂n, siu cîⁿ",,true,accepted,
@@ -3042,6 +3043,7 @@ rule_id,rule_type,headword,key_reading,key_gloss,page,output_index,replacement_r
 007-review-2559b45f1b89e4de,review,,thài kong; thài phûa; lău thài îa; thài má,"lău thài îa, thài má; are appelations of the parents of men of repute.",596,1,,are appelations of the parents of men of repute.,true,accepted,斐姑娘詞典 2026-08-15 校對
 007-review-444ef481d5456bfe,review,,ēng sô̤h thūi în thàm-thóiⁿ cúi jîeh chim,let down the lead by a rope and see Low deep the water is; sound and ascertain the depth.,597,1,,let down the lead by a rope and see how deep the water is; sound and ascertain the depth.,true,accepted,斐姑娘詞典 2026-08-15 校對
 007-review-279d61ecef442dab,review,,i cí hûe tó̤ lô̤h lêng; i tó̤ lô̤h thâi,he is losing money; he is not prospering at present.,390,1,,he is not prospering at present.,false,rejected,以音節數人工校訂為準，保留兩組釋義
+007-reading-6fe3fba91418f998,reading,,"ah chùi àⁿ cò̤ îⁿ, koi chùi àⁿ cò̤ píⁿ","make it appear by argument that a duck's bill is round and a hen's bill is flat.",27,1,ah chùi àⁿ cò̤ îⁿ; koi chùi àⁿ cò̤ píⁿ,,true,accepted,同步漢字詞條的分號分隔
 007-review-d2117bf82531cd2a,review,,mùa-khí-cá lâi thit-thô̤ hṳ́ kui kâi kó-ciah,come to-morrow to play by those old ruins.,70,1,mùa-khí-cá lâi thit-thô̤ hṳ́ kúi kâi kó-ciah,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
 007-review-4eaf18d9d0886750,review,,li phah sí m̄ khéng cio,"one party owned it on being beaten, the other party would not own it though beaten to death.",82,1,"cêk pôiⁿ li cē phah cĭu cio, cêk pôiⁿ li phah sí m̄ khéng cio",,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
 007-review-3471e645226b280c,review,,tîeh i chi-chám,pity his distress.,116,1,lîen-tîeh i chi-chám,,true,accepted,斐姑娘詞典音節數校訂 2026-08-15
