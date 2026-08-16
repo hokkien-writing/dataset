@@ -2,6 +2,7 @@ import unittest
 from scripts.tests.test_converter_base import ConverterTestBase
 from scripts.latn import create_converter
 from scripts.latn.systems.puj import FieldePUJSystem
+from scripts.latn.translator import LatnTranslator
 
 
 class TestPUJConverter(ConverterTestBase):
@@ -120,9 +121,12 @@ class TestPUJConverter(ConverterTestBase):
                 ("iuhnn8", "iu̍hⁿ"),
                 ("ieh8", "ie̍h"),
                 ("iah8", "ia̍h"),
-                ("oih8", "oi̍h"),
+                ("oih8", "o̍ih"),
+                ("tsoih8", "tso̍ih"),
             ]
         )
+        self.assertEqual("oih8", self.converter.to_keyboard("oi̍h"))
+        self.assertEqual("tsoih8", self.converter.to_keyboard("tsoi̍h"))
 
     def test_nasal_standalone(self):
         self.assert_round_trip(
@@ -185,12 +189,12 @@ class TestPUJConverter(ConverterTestBase):
         )
 
     def test_a_priority(self):
-        """含 a 的複合韻 → 標於 a (a > o > u > e > i)，但 au 需區分有無聲母"""
+        """含 a 的複合韻 → 標於 a (a > o > u > e > i)"""
         self.assert_round_trip(
             [
                 ("ai2", "ái"),
-                ("au2", "aú"),  # vowel-initial: mark on u (our discovery!)
-                ("au5", "aû"),
+                ("au2", "áu"),
+                ("au5", "âu"),
                 ("ia2", "iá"),
                 ("iam2", "iám"),
                 ("iang5", "iâng"),
@@ -213,7 +217,7 @@ class TestPUJConverter(ConverterTestBase):
         )
 
     def test_dual_vowel_priority(self):
-        """無 a 雙元音 → 有聲母標前元音，au/ua/ue 無聲母時標後元音"""
+        """無 a 雙元音 → 有聲母標前元音，ua/ue 無聲母時標後元音"""
         self.assert_round_trip(
             [
                 ("iu2", "iú"),
@@ -221,7 +225,7 @@ class TestPUJConverter(ConverterTestBase):
                 ("hue2", "húe"),  # consonant-initial: mark on u
                 ("ou2", "óu"),
                 ("oi2", "ói"),
-                ("au2", "aú"),  # vowel-initial: mark on u
+                ("au2", "áu"),
                 ("ue2", "ué"),  # vowel-initial: mark on e
             ]
         )
@@ -295,6 +299,23 @@ class TestFieldePUJNormalizeBookText(unittest.TestCase):
         ]:
             with self.subTest(source=source):
                 self.assertEqual(expected, self.system.normalize_book_text(source))
+
+    def test_vowel_initial_au_marks_a(self):
+        self.assertEqual("ãu", self.system.normalize_book_text("ău"))
+
+    def test_fielde_io_expands_to_iou(self):
+        self.assertEqual("kiou", self.system.normalize_book_text("kio"))
+        self.assertEqual("hiong", self.system.normalize_book_text("hiong"))
+        translator = LatnTranslator(
+            create_converter("PUJ", system_class=self.system),
+            create_converter("LATN_NORM"),
+            self.system.create_latn_norm_mapping(),
+        )
+        self.assertEqual("kiau1", translator.translate("kiou"))
+
+    def test_fielde_wn_and_wt_expand_with_a(self):
+        self.assertEqual("huan", self.system.normalize_book_text("hwn"))
+        self.assertEqual("huat", self.system.normalize_book_text("hwt"))
 
     def test_o_before_ng_remains_o(self):
         result = self.system.normalize_book_text("khòng")

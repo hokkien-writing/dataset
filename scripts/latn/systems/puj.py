@@ -15,13 +15,13 @@ Tone Mark Rules (from Handbook of the Swatow Vernacular 語料庫分析)
 
 零聲母 舒聲 (vowel_initial_overrides)：
   ua → a:  uá, uâ, uà
-  au → u:  aú, aû, aù
+  au → a:  áu, âu, àu
   ue → e:  ué, uê, uē
   uaⁿ → a: uáⁿ, uâⁿ, uàⁿ
 
 入聲（韻尾 p/t/k/h）：
   標於韻尾前元音（從右往左掃描）
-  ua̍h, ue̍h, ia̍h, ie̍h, aih→i, oih→i, auh→u
+  ua̍h, ue̍h, ia̍h, ie̍h, aih→i, oih→o, auh→u
 """
 
 import re
@@ -39,6 +39,7 @@ _BREVE_TONE6 = {
 
 _CONSONANT_RE = re.compile(r"chh|ch|c(?![h])")
 _OA_COMBINING_RE = re.compile(r"o([\u0300-\u036f]*)a")
+_W_NT_COMBINING_RE = re.compile(r"w([\u0300-\u036f]*)(?=[nt])")
 _HYPHEN_RE = re.compile(r"(-)")
 
 _TONE_MARK_MAP = {
@@ -52,6 +53,29 @@ _TONE_MARK_MAP = {
 
 
 _TONE_MARK_CHARS = {"\u0301", "\u0300", "\u0302", "\u0303", "\u0304", "\u030d"}
+
+_PUJ_INITIALS = [
+    "tsh",
+    "chh",
+    "ts",
+    "ch",
+    "ph",
+    "th",
+    "kh",
+    "ng",
+    "p",
+    "b",
+    "m",
+    "t",
+    "n",
+    "l",
+    "k",
+    "g",
+    "h",
+    "s",
+    "j",
+    "z",
+]
 
 
 def _to_fielde_keyboard(word: str) -> str:
@@ -120,6 +144,9 @@ def _to_fielde_syllable(syllable: str) -> str:
         nucleus = nucleus.replace("\u0306", "\u0303")
         tone = 6
 
+    if nucleus == "io":
+        nucleus = "iou"
+
     o_diaeresis = "o\u0324" in nucleus
     if o_diaeresis:
         nucleus = nucleus.replace("\u0324", "")
@@ -166,28 +193,7 @@ class PUJSystem:
             name="PUJ",
             description="Tiê-chiu Pe̍h-ūe-jī romanization system",
             vowels=vowels,
-            initials=[
-                "tsh",
-                "chh",
-                "ts",
-                "ch",
-                "ph",
-                "th",
-                "kh",
-                "ng",
-                "p",
-                "b",
-                "m",
-                "t",
-                "n",
-                "l",
-                "k",
-                "g",
-                "h",
-                "s",
-                "j",
-                "z",
-            ],
+            initials=list(_PUJ_INITIALS),
             nasal_endings=["m", "n", "ng"],
             entering_endings=["p", "t", "k", "h"],
             tone_mark_priority=[
@@ -207,15 +213,19 @@ class PUJSystem:
                 "m",
             ],
             entering_tone_mark_before_ending=True,
+            complex_syllable_map={
+                f"{initial}oih8": f"{initial}o̍ih"
+                for initial in ["", *_PUJ_INITIALS]
+            },
             vowel_initial_overrides={
                 "au1": "au",
-                "au2": "aú",
-                "au3": "aù",
+                "au2": "áu",
+                "au3": "àu",
                 "au4": "au",
-                "au5": "aû",
-                "au6": "aũ",
-                "au7": "aū",
-                "au8": "au̍",
+                "au5": "âu",
+                "au6": "ãu",
+                "au7": "āu",
+                "au8": "a̍u",
                 "ua1": "ua",
                 "ua2": "uá",
                 "ua3": "uà",
@@ -247,7 +257,7 @@ class PUJSystem:
     def create_latn_norm_mapping(self) -> PhoneticMapping:
         return PhoneticMapping(
             initial_map={"ts": "ch", "tsh": "chh", "z": "j"},
-            vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+            vowel_map={"oo": "ou", "oa": "ua", "oe": "ue", "iou": "iau"},
         )
 
     def create_reverse_mapping(self) -> PhoneticMapping:
@@ -329,7 +339,8 @@ class FieldePUJSystem(PUJSystem):
         return mapping
 
     def normalize_book_text(self, text: str) -> str:
-        text = unicodedata.normalize("NFD", text).replace("w", "u")
+        text = unicodedata.normalize("NFD", text)
+        text = _W_NT_COMBINING_RE.sub(r"u\1a", text).replace("w", "u")
         text = text.replace("\u0306", "\u0303")
 
         text = _normalize_fielde_input(text)
