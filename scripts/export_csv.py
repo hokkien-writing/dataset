@@ -25,6 +25,7 @@ SOURCE_DIRS = ["books", "clippings", "lyrics"]
 PROCESSORS_DIR = PROJECT_ROOT / "scripts" / "processors"
 CSV_FIELDS = [
     "puj",
+    "puj_proofread",
     "puj_orig",
     "poj",
     "poj_orig",
@@ -166,7 +167,8 @@ def main(argv: list[str] | None = None):
                     writer.writerow(
                         [
                             entry.puj,
-                            entry.puj_orig if entry.puj_orig != entry.puj else "",
+                            entry.puj_proofread,
+                            entry.puj_orig,
                             entry.poj,
                             entry.poj_orig if entry.poj_orig != entry.poj else "",
                             entry.han,

@@ -12,6 +12,7 @@ class Entry:
     puj: str
     puj_orig: str
     source: str
+    puj_proofread: str = ""
     en: str = ""
     en_orig: str = ""
     poj: str = ""

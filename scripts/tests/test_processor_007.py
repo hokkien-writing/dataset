@@ -38,10 +38,10 @@ class TestNormalizePuj(unittest.TestCase):
 
     def test_w_to_u(self):
         cases = [
-            ("cẃn", "tsún"),
-            ("chŵn", "tshûn"),
-            ("bw̄n", "būn"),
-            ("che-kẁn", "chhe-kùn"),
+            ("cẃn", "tsuán"),
+            ("chŵn", "tshuân"),
+            ("bw̄n", "buān"),
+            ("che-kẁn", "chhe-kuàn"),
         ]
         for book, expected in cases:
             with self.subTest(book=book):
@@ -114,12 +114,12 @@ class TestBook007PujToLatnNorm(unittest.TestCase):
         self._assert("sîh", "sih8")
 
     def test_w_to_u(self):
-        self._assert("cẃn", "chun2")
-        self._assert("chŵn", "chhun5")
+        self._assert("cẃn", "chuan2")
+        self._assert("chŵn", "chhuan5")
 
 
 class TestBook007Processor(unittest.TestCase):
-    def test_csv_puj_keeps_fielde_spelling(self):
+    def test_csv_puj_has_standard_proofread_and_original_forms(self):
         text = (
             "<!-- page:26 -->\n"
             "- **亦** ā (1093|8|4)\n"
@@ -129,8 +129,12 @@ class TestBook007Processor(unittest.TestCase):
 
         entries = Processor().extract_entries(text, "007")
 
-        self.assertEqual(entries[1].puj, "ā-sĭ; īa-sĭ")
-        self.assertEqual(entries[2].puj, "cò̤")
+        self.assertEqual(entries[1].puj, "ā-sĩ; iā-sĩ")
+        self.assertEqual(entries[1].puj_proofread, "ā-sĭ; īa-sĭ")
+        self.assertEqual(entries[1].puj_orig, "ā-sĭ; īa-sĭ")
+        self.assertEqual(entries[2].puj, "tsò")
+        self.assertEqual(entries[2].puj_proofread, "cò̤")
+        self.assertEqual(entries[2].puj_orig, "cò̤")
 
     def test_first_glossed_example_inherits_headword_without_gloss(self):
         text = (
@@ -146,7 +150,7 @@ class TestBook007Processor(unittest.TestCase):
         self.assertEqual(entries[0].puj, "uang")
         self.assertEqual(entries[0].en, "")
         self.assertEqual(entries[1].han, "汪")
-        self.assertEqual(entries[1].puj, "uang-îang")
+        self.assertEqual(entries[1].puj, "uang-iâng")
         self.assertEqual(
             entries[1].en, "a deep and wide expanse of water, the open sea."
         )
@@ -165,6 +169,7 @@ class TestBook007Processor(unittest.TestCase):
         self.assertEqual(len(entries), 1)
         self.assertEqual(entries[0].han, "辦")
         self.assertEqual(entries[0].puj, "phōiⁿ/pōiⁿ")
+        self.assertEqual(entries[0].puj_proofread, "phōiⁿ/pōiⁿ")
         self.assertEqual(entries[0].puj_orig, "phōiⁿ/pōiⁿ")
         self.assertEqual(
             entries[0].en,
