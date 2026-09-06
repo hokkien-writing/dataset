@@ -17,16 +17,23 @@ class ExportCsvCliTests(unittest.TestCase):
         )
         self.assertEqual(["007_book", "008_book"], args.books)
         self.assertTrue(args.preserve_order)
+        self.assertFalse(args.sort_by_page)
 
-    def test_order_entries_sorts_by_default(self) -> None:
-        entries = [SimpleNamespace(puj="b", poj=""), SimpleNamespace(puj="a", poj="")]
+    def test_order_entries_sorts_by_page_number_when_requested(self) -> None:
+        entries = [
+            SimpleNamespace(puj="b", poj="", page_num="2"),
+            SimpleNamespace(puj="a", poj="", page_num="1"),
+        ]
         self.assertEqual(
             ["a", "b"],
             [entry.puj for entry in export_csv.order_entries(entries, False)],
         )
 
     def test_order_entries_preserves_processor_order(self) -> None:
-        entries = [SimpleNamespace(puj="b", poj=""), SimpleNamespace(puj="a", poj="")]
+        entries = [
+            SimpleNamespace(puj="b", poj="", page_num="2"),
+            SimpleNamespace(puj="a", poj="", page_num="1"),
+        ]
         result = export_csv.order_entries(entries, True)
         self.assertIs(entries, result)
         self.assertEqual(["b", "a"], [entry.puj for entry in result])

@@ -2,7 +2,7 @@
 # Generated from merged.csv - Mandarin reverse lookup
 ---
 name: teochew_puj_zh
-version: "20260705.235134"
+version: "20260906.105205"
 sort: by_weight
 ...
 
@@ -135,7 +135,7 @@ sort: by_weight
 媽媽☞阿姨 (a-âi)	mama	100
 媽媽☞阿𡟓 (a-âi)	mama	100
 燜☞熻 (hip)	men	100
-門後☞門扇後 (mn̂g-sìⁿ-aũ)	menhou	100
+門後☞門扇後 (mn̂g-sìⁿ-ãu)	menhou	100
 棉襖☞棉裘 (mîⁿ-hiûⁿ)	mianao	100
 面黃肌瘦☞黃𦅇瘦㾪 (n̂g-sng-sóu-sán)	mianhuangjishou	100
 面子☞儂情 (nâng-chhêng)	mianzi	100
@@ -159,7 +159,7 @@ sort: by_weight
 娘家☞外家 (gūa-ke)	niangjia	100
 年輕☞後生 (hãu-seⁿ)	nianqing	100
 女人☞諸娘 (tsṳ-niêⁿ)	nvren	100
-嘔吐☞嘔噦 (aú-ueh)	outu	100
+嘔吐☞嘔噦 (áu-ueh)	outu	100
 怕☞驚 (kiaⁿ)	pa	100
 怕☞畏 (ùi)	pa	100
 膀胱☞尿脬 (jiē-pha)	pangguang	100
@@ -243,7 +243,7 @@ sort: by_weight
 新娘☞新人 (sin-nâng)	xinniang	100
 心神不定☞心憧憧 (sim-tông-tông)	xinshenbuding	100
 (心胸)寬廣☞闊達 (khuah-ta̍k)	xinxiongkuanguang	100
-(心胸)狹隘☞狹細 (oi̍h-soih)	xinxiongxiaai	100
+(心胸)狹隘☞狹細 (o̍ih-soih)	xinxiongxiaai	100
 袖子☞䘼 (ńg)	xiuzi	100
 洗澡☞洗浴 (sói-e̍k)	xizao	100
 稀粥☞淖糜 (chhieh-mûeⁿ)	xizhou	100

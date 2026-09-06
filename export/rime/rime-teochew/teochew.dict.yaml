@@ -2,11 +2,12 @@
 # Generated from merged.csv - do not edit manually
 ---
 name: teochew
-version: "20260705.235134"
+version: "20260906.105205"
 sort: by_weight
 ...
 
 Palsy.	kuan3  pien1	100
+⿰耳舜	nih4	100
 ⿱艹麾	monn1	100
 〡〇〇〇万	chek8  buan7	100
 〡〇〇〇十万	chap8  buan7	100
@@ -49,6 +50,7 @@ Palsy.	kuan3  pien1	100
 〢二	ji6  chap8  ji6	100
 〣〇	sann1  chap8	100
 〣〇〇百	sann1  peh4	100
+㑉傗	kiu1  niu1	100
 㑻嗼㑻嗼	mahnn1  mohnn1 mahnn1  mohnn1	100
 㑻麼醉	mah4  moh4  chui3	100
 㔏一裂	leh8  chek8  lih8	100
@@ -191,6 +193,7 @@ Palsy.	kuan3  pien1	100
 一㸃露	chek8  tiam2  lou7	50
 一一	it4  it4	101
 一万	chek8  buan7	100
+一下	che7	100
 一下	chek8  e7	100
 一下…就	chek8  e7 … chiu6	100
 一下到	chek8  e7  kau3	100
@@ -339,6 +342,7 @@ Palsy.	kuan3  pien1	100
 一戕線	chek8  chhang5  suann3	100
 一把	chek8  pe2	100
 一把灱樹枝	chek8  pe2 ta1  chhiu7  ki1	100
+一把箸	chek8 penn2 tur7	100
 一把花	chek8  pe2  hue1	104
 一把草	chek8  pe2  chhau2	101
 一担	chek8  tann3	52
@@ -393,7 +397,7 @@ Palsy.	kuan3  pien1	100
 一枝雨傘	chek8  ki1 hou6  suann3	100
 一枝香	chek8  ki1  hienn1	100
 一柄槳	chek8  penn3  chienn2	100
-一條	chek4  tiou5	100
+一條	chek4  tiau5	100
 一條	chek8  tiau5	101
 一條一條	chek8  tiau5 chek8  tiau5	100
 一條墨	chek8  tiau5  bak8	100
@@ -403,7 +407,6 @@ Palsy.	kuan3  pien1	100
 一條杉	chek8  tiau5  sam1	100
 一條河	chek8  tiau5  ho5	100
 一條法律	chek8  tiau5 huap4  lut8	100
-一條線	chek8 tiou5 suann3	100
 一條蛇	chek8  tiau5  chua5	101
 一條褲	chek8  tiau5  khou3	100
 一條誡命	chek8  tiau5 kai3  meng6	100
@@ -501,7 +504,6 @@ Palsy.	kuan3  pien1	100
 一舖	chek8  phou3	100
 一草銀	chek8  chhau2  ngurn5	100
 一萬	chek8  buan7	100
-一萬	chek8 buan7	100
 一萬銀	chek8  buan7  ngurn5	100
 一蓮一蓮	chek8  noinn5 chek8  noinn5	100
 一蕊花	chek8 lui2 hue1	100
@@ -563,7 +565,6 @@ Palsy.	kuan3  pien1	100
 一面刀兩面使	chek8  min7  to1 nonn6  min7  sai2	101
 一面鑼	chek8  min7  lo5	100
 一頂帽	chek8  teng2  bo7	102
-一頂紗帽	chek8 teng2 se1 bo7	100
 一頂轎	chek8  teng2  kie7	101
 一頃仔	chek8  khun3  kiann2	50
 一頃囝	chek8  khun3  kiann2	100
@@ -595,14 +596,8 @@ Palsy.	kuan3  pien1	100
 七孔	chhit4  khong2	100
 七巧圖	chhit4  kha2  tou5	100
 七情	chhit4  chheng5	100
-七情	chhit4 chheng5	100
 七日	chhit4  jit8	100
-七月	chhit4 gueh8	100
-七枝斧頭	chhit4 ki1 pou2 thau5	100
-七條面巾	chhit4 tiou5 min7 kurn1	100
 七竅	chhit4  khiau3	100
-七粒辣椒	chhit4 liap8 luah8 chie1	100
-七雙箸	chhit4 sang1 tur7	100
 丈人	tienn6  nang5	102
 丈人公	tienn6  nang5  kong1	100
 丈儂	tienn6  nang5	50
@@ -642,6 +637,7 @@ Palsy.	kuan3  pien1	100
 三家村	sann1  ke1  chhng1	100
 三對手~~𤨔~~(環)	sann1 tui3 chhiu2 huan5	100
 三弦	sann1  hinn5	100
+三把米	sann1 penn2 bi2	100
 三擺	sann1  pai2	101
 三教	sann1  ka3	100
 三日之後	sann1  jit8 chur1  au6	100
@@ -655,9 +651,7 @@ Palsy.	kuan3  pien1	100
 三更想半夜反	sann1  kenn1  sienn6 puann3  menn5  huan2	100
 三更想半暝反	sann1  kenn1  sienn6 puann3  menn5  huan2	50
 三月	sann1  gueh8	100
-三月	sann1 gueh8	100
-三月稍絀	sann1   gueh8 iou2  chuah8	100
-三條浴布	sann1 tiou5 ek8 pou3	100
+三月稍絀	sann1   gueh8 iau2  chuah8	100
 三次	sann1  chhur3	101
 三水	sann1  chui2	100
 三沿	sann1  in5	100
@@ -689,7 +683,6 @@ Palsy.	kuan3  pien1	100
 三雙腳	sann1 sang1 kha1	50
 三雙跤	sann1 sang1 kha1	12
 三雙骹	sann1 sang1 kha1	100
-三頂毡帽	sann1 teng2 chinn1 bo7	100
 三項	sann1  hang6	101
 三骹圓床	sann1  kha1 inn5  chhng5	100
 三骹圓牀	sann1  kha1 inn5  chhng5	50
@@ -735,8 +728,7 @@ Palsy.	kuan3  pien1	100
 上弦	chienn6  hinn5	100
 上惡	siang6  ak4	100
 上懸	siang6  kuinn5	100
-上數	chienn6  siau3	103
-上數	chienn6  siou3	100
+上數	chienn6  siau3	104
 上斑	chhienn6  poinn1	100
 上日	siang6  jit8	100
 上旰	chienn6  kua3	100
@@ -907,6 +899,7 @@ Palsy.	kuan3  pien1	100
 不肖仔弟	put4  siau3 kiann2  ti6	50
 不肖囝弟	put4  siau3 kiann2  ti6	100
 不肖子	put4  siau3  chur2	100
+不能	boi6	100
 不能	put4  leng5	104
 不能克己	put4  leng5 khiok4  ki2	100
 不能反轉	put4  leng5 huan2  tng2	100
@@ -1053,9 +1046,7 @@ Palsy.	kuan3  pien1	100
 九品	kau2  pin2	100
 九塊猪肉	kau2 ko3 tur1 bah4	100
 九族	kau2  chok8	101
-九月	kau2 gueh8	100
 九枝鐵叉	kau2 ki1 thih4 cha1	100
-九條頭毛	kau2 tiou5 thau5 mo5	100
 九粒藥丸	kau2 liap8 ieh8 inn5	100
 九點鐘	kau2  tiam2  cheng1	100
 乞人做按	khurt4   nang5 cho3  an3	100
@@ -1074,7 +1065,6 @@ Palsy.	kuan3  pien1	100
 乞雨沃	khurt4  hou6 ak4	100
 乞霜雪凍死	khurt4 sng1  soh4 tang3  si2	100
 乞食	khurt4  chiah8	104
-乞食	khurt4 chiah8	100
 乞食樣	khurt4  chiah8  ienn7	100
 乞鳥鼠咬	khurt4 niau2  chhur2 ka6	100
 乞鳥鼠喫	khurt4 niau2  chhur2 khoi3	100
@@ -1156,21 +1146,20 @@ Palsy.	kuan3  pien1	100
 二對耳環	no6 tui3 hinn6 huan5	100
 二弦	ji7  hinn5	100
 二手	ji6  chhiu2	100
+二把蔗	no6 penn2 chia3	100
 二捆草蓆	no6 khun2 chhau2 chhieh8	100
 二斤半	nonn6  kurn1  puann3	100
 二更	ji6  kenn1	100
 二月	ji6   gueh8	100
-二月還了是凊	ji6   gueh8 huan5  liou2 si6 chhin3	100
+二月還了是凊	ji6   gueh8 huan5  liau2 si6 chhin3	100
 二本書簿	no6 png2 su1 phou6	100
 二枝凉傘	no6 ki1 liang5 suann3	100
 二百	no6 peh4	100
 二百	nonn6  peh4	100
 二等	ji7  teng2	100
 二粒米	no6 liap8 bi2	100
-二萬	no6 buan7	100
 二號	ji7  ho7	100
 二雙襪	no6 sang1 bueh8	100
-二頂緞帽	no6 teng2 tng7 bo7	100
 亍亍跳	chhok8  chhok8  thiau3	100
 互相	hu5  siang1	100
 五倍子	ngou6  pue6  chi2	100
@@ -1373,14 +1362,9 @@ Palsy.	kuan3  pien1	100
 今夜伊毋在	ke1  menn5 i1 m7  to6	100
 今宵	kim1  siau1	100
 今年	kim1  ninn5	100
-今年	kim1 ni5	100
 今年	kin1  ninn5	101
 今日	kim1  jit8	102
-今日	kim1 jit8	100
 今日夭好	kim1  jit8 iau2  ho2	100
-今日熱在	kim1 jit8 juah8 chai6	100
-今日爇在	kim1 jit8 juah8 chai6	50
-今日起頭	kim1 jit8 khi2 thau5	100
 今旦日	kiann2  jit8	103
 今旦日七月初一	kiann2  jit8 chhit4   gueh8 chhiu1  it4	100
 今旦日庵埠閙熱	kiann2  jit8 am1  pou1 lau6  jiet8	100
@@ -1429,6 +1413,7 @@ Palsy.	kuan3  pien1	100
 代人講情	thoi3  nang5 kang2  chheng5	100
 代做	thoi3  cho3	101
 代出身	thoi3  chhut4  sin1	100
+代勞	pang3  puann7	100
 代寄信	thoi3  kia3  sin3	100
 代寫	thoi3  sia2	100
 代我問候眾位兄弟	thoi3  ua2 mng7  hau7 cheng3  ui7 hiann1  ti6	100
@@ -1514,6 +1499,7 @@ Palsy.	kuan3  pien1	100
 伊來巡汝	i1 lai5  sun5 lur2	100
 伊來巡爾	i1 lai5  sun5 lur2	50
 伊來阮就愛去	i1 lai5 un2 chiu6  ainn3  khur3	100
+伊們	in1	100
 伊做s事汝	i1 cho3  sur7 iann5 lur2	100
 伊做s事爾	i1 cho3  sur7 iann5 lur2	50
 伊儂	i1   nang5	101
@@ -1531,15 +1517,15 @@ Palsy.	kuan3  pien1	100
 伊唔好去	i1 m7  haunn3 khur3	50
 伊唔應	i1 m7  in3	50
 伊唔敢	i1 m7  kann2	50
-伊在審一條刣人案	i1 to6 sim2 chek8  tiou5 thai5  nang5 uann3	100
-伊在審一條刣儂案	i1 to6 sim2 chek8  tiou5 thai5  nang5 uann3	50
+伊在審一條刣人案	i1 to6 sim2 chek8  tiau5 thai5  nang5 uann3	100
+伊在審一條刣儂案	i1 to6 sim2 chek8  tiau5 thai5  nang5 uann3	50
 伊大我	i1 tua7   ua2	102
 伊大過我	i1 tua7  kue3  ua2	100
 伊好睒鏡	i1 haunn3  iam2  kiann3	100
 伊寬寬大就漸漸變惡	i1 khuann1  khuann1  tua7 chiu6 chiam6  chiam6 pien3  ak4	100
 伊將來會做大	i1 chiang1  lai5 oi6 cho3  tua7	100
 伊就去分官府審	i1 chiu6 khur3  pun1 kuann1  hu2 sim2	100
-伊常常欲耍	i1 sienn5 sienn5 ainn3 sng2	100
+伊常常欲耍	i1 sienn5 sienn5 ai3 sng2	100
 伊心歡喜	i1 sim1 huann1 hi2	100
 伊愛	i1 ainn3	100
 伊愛䛩	i1 ainn3  a3	50
@@ -1565,15 +1551,13 @@ Palsy.	kuan3  pien1	100
 伊會走猛過我	i1 oi6  chau2 menn2  kue3 ua2	100
 伊有人情在我塊	i1 u6  nang5  chheng5 to6  ua2  ko3	100
 伊有來亞未	i1 u6  lai5 a1  bue7	100
-伊有名家在	i1 u6 miann5 ke1 chai6	100
+伊有名家在	i1 u6 mia5 ke1 chai6	100
 伊有恩惠在我塊	i1 u6  urn1  hui6 to6  ua2  ko3	100
 伊有愈㩼我	i1 u6 ju2  choi7 ua2	100
 伊有是乜意思	i1 u6 si6  mih4 i3  sur3	100
-伊有膽	i1 u6 tann2	100
 伊未來	i1 bue7 lai5	100
 伊未來汝且未去	i1  bue7  lai5 lur2 chhiann2  bue7  khur3	100
 伊未來爾且未去	i1  bue7  lai5 lur2 chhiann2  bue7  khur3	50
-伊欲食鴉片	i1 ainn3 chiah8 a1  phien3	100
 伊正來	i1 chiann3  lai5	100
 伊死了	i1 si2   lo7	100
 伊毋來	i1 m7  lai5	100
@@ -1581,14 +1565,13 @@ Palsy.	kuan3  pien1	100
 伊毋好去	i1 m7  haunn3 khur3	100
 伊毋應	i1 m7  in3	100
 伊毋敢	i1 m7  kann2	100
-伊氣在	i1 khi3 chai6	100
 伊無乜會氽	i1 bo5  mih4 oi6  siu5	50
 伊無乜會泅	i1 bo5  mih4 oi6  siu5	100
 伊無梳頭	i1 bo5 siu1  thau5	100
 伊無知足	i1 bo5 chai1 chok4	100
 伊生幾粒㿗	i1 senn1 kui2 liap8 thue5	100
 伊終久是此樣生	i1 chong1  ku2 si6 chienn3  senn1	100
-伊肉欲痛	i1 nek8 ainn3 thiann3	100
+伊肉欲痛	i1 nek8 ai3 thiann3	100
 伊袂分人騙	i1 boi6 pun1   nang5 phien3	100
 伊袂分儂騙	i1 boi6 pun1   nang5 phien3	50
 伊袂死	i1 boi6   si2	100
@@ -1604,7 +1587,7 @@ Palsy.	kuan3  pien1	100
 伊跋到跤折去	i1 puah8 kau3 kha1 chih8   khur3	12
 伊跋到骹折去	i1 puah8 kau3 kha1 chih8   khur3	100
 伊輕忽此道理	i1 khin1 hut4 chi2 to6 li2	100
-伊還了未去	i1 huan5  liou2 bue7  khur3	100
+伊還了未去	i1 huan5  liau2 bue7  khur3	100
 伊霋時就落來	i1 khia6  tiam7 chiu6 loh8   lai5	100
 伊霎時正愛來	i1 khia6  tiam7 chiann3  ainn3  lai5	100
 伊𠀾分人騙	i1 boi6 pun1   nang5 phien3	25
@@ -1698,7 +1681,7 @@ Palsy.	kuan3  pien1	100
 作堤	chho1  toi1	100
 作堤	choh4  toi1	100
 作塍	choh4  chhan5	54
-作塍	choh4 chhan5	50
+作塍	choh4 chun7	50
 作塍人	choh4  chhan5  nang5	28
 作塍儂	choh4  chhan5  nang5	12
 作塍哥	choh4  chhan5  ko1	50
@@ -1714,7 +1697,7 @@ Palsy.	kuan3  pien1	100
 作水	choh4  chui2	100
 作灰工	choh4  hue1  kang1	100
 作田	choh4  chhan5	104
-作田	choh4 chhan5	100
+作田	choh4 chun7	100
 作田人	choh4  chhan5  nang5	103
 作田儂	choh4  chhan5  nang5	50
 作田哥	choh4  chhan5  ko1	100
@@ -1856,6 +1839,7 @@ Palsy.	kuan3  pien1	100
 便壺	pien6  hu5	100
 便套語	pin7  thau3  gur2	100
 便宜	pan5  gi5	101
+便宜	pang5  i5	100
 便宜唔好再取	pan5  gi5 m7  ho2 chai3  chhu2	50
 便宜歸賤	pan5  gi5 kui1  chuann7	100
 便宜毋好再取	pan5  gi5 m7  ho2 chai3  chhu2	100
@@ -1867,6 +1851,7 @@ Palsy.	kuan3  pien1	100
 便鞋	pien6  oi5	100
 促促跳	chhok4  chhok4  thiau3	100
 俄羅斯國	ngo5  lo5  sur1 kok4	100
+俊俏	chhi2  chhiau2	100
 俏架	chhiau3  ke3	103
 俗人	sok8  jin5	100
 俗夫	sok8  hu1	100
@@ -1945,8 +1930,8 @@ Palsy.	kuan3  pien1	100
 倒床	to2  chhng5	100
 倒手	to3  chhiu2	102
 倒手畔	to3  chhiu2  poinn5	100
+倒掉	to3  tiau3	100
 倒掉	to3  tiau7	101
-倒掉	to3  tiou3	100
 倒換	tau2  uann7	100
 倒撞轉來	to3  chuang6  tng2   lai5	100
 倒桌櫃	tau2  toh4  kuinn7	100
@@ -1992,6 +1977,7 @@ Palsy.	kuan3  pien1	100
 倚靠	i2 kou6	100
 倚靠	inn2  kou6	104
 倚靠	ua2  kou6	102
+倜儻	thek4  thang2	100
 借兵	chieh4  piann1	100
 借分人	chieh4   pun1  nang5	100
 借勢	chieh4  si3	100
@@ -2008,6 +1994,7 @@ Palsy.	kuan3  pien1	100
 倡做	chhiang3  cho3	100
 値若㩼錢	tat8 jieh8  choi7  chinn5	51
 値錢	tat8  chinn5	58
+倥侗	khong1  thong1	100
 倦惰	kuan6  tuann6	100
 倫常	lun5  sienn5	100
 倫理	lun5  li2	100
@@ -2261,8 +2248,7 @@ Palsy.	kuan3  pien1	100
 偷聽	thau1  thiann1	102
 偷船	thau1 chun5	100
 偷走	thau1  chau2	105
-偷邀	thau1  kiau1	101
-偷邀	thau1  kiou1	100
+偷邀	thau1  kiau1	102
 偷鑄錢	thau1  chu3  chinn5	100
 偷𤆬	thau1  chhua7	100
 偽爲	ngui6  ui5	100
@@ -2325,6 +2311,7 @@ Palsy.	kuan3  pien1	100
 傾倒	khuang1  to2	100
 傾敗	khuang1  pai7	100
 傾絲舖	kheng1  si1  phou3	100
+僂儸	liu5  lo5	100
 僅僅	kurn2  kurn2	103
 僅見	kurn2  kien3	100
 僕人	pok8  jin5	101
@@ -2336,8 +2323,8 @@ Palsy.	kuan3  pien1	100
 僞立遺囑	ngui6  lip8 jui6  chok4	100
 僞騙	ngui6  phien3	100
 僥倖	hiau1  heng6	101
-僥心	hiou1  sim1	101
-僥情絕義	hiou1  chheng5 choh8  ngi6	100
+僥心	hiau1  sim1	101
+僥情絕義	hiau1  chheng5 choh8  ngi6	100
 僫剃頭	oh4  thi3  thau5	100
 僫比	oh4  pi2	100
 僫生	oh4  senn1	100
@@ -2389,9 +2376,11 @@ Palsy.	kuan3  pien1	100
 儉食儉穿	khiam6  chiah8 khiam6  chheng7	100
 儉食強過趁	khiam6  chiah8 kienn5  kue3  than3	100
 儉食强過趁	khiam6  chiah8 kienn5  kue3  than3	50
+儌倖	hiau1  heng6	100
 儒教	ju5  ka3	100
 償補	sienn5  pou2	100
 儫腰	hau5  ie1	100
+儱偅	lok4  khok8	100
 允納	jun2  nap8	105
 元孫	nguan5  sun1	100
 元宵夜	nguan5  siau1  menn5	100
@@ -2631,8 +2620,7 @@ Palsy.	kuan3  pien1	100
 八成眞	poih4  siann5  chin1	50
 八成真	poih4  siann5  chin1	100
 八成銀	poih4  siann5  ngurn5	100
-八月	poih4 gueh8	100
-八條手巾	poih4 tiou5 chhiu2 kurn1	100
+八粒楜椒	poih4 liap8 hu5 chie1	100
 八角形	poih4  kak4  heng5	100
 八角香	poih4  kak4  hienn1	100
 八音	poih4  im1	100
@@ -2678,7 +2666,6 @@ Palsy.	kuan3  pien1	100
 六成	lak8  siann5	100
 六斤四	lak8  kurn1  si3	100
 六書	lak8  chur1	100
-六月	lak8 gueh8	100
 六枝刀	lak8 ki1 to1	100
 六歲	lak8  hue3	100
 六粒葱頭	lak8 liap8 chhang1 thau5	100
@@ -2797,10 +2784,10 @@ Palsy.	kuan3  pien1	100
 冬天	tang1   thinn1	100
 冬天凊在	tang1   thinn1 chhin1  chai6	100
 冬天愈凊此處	tang1   thinn1 ju2  chhin3 chie2	100
-冬天磽仔人是淒慘	tang1   thinn1 khiou1  kiann2 nang5 si6 chhi1  chham2	25
-冬天磽仔儂是淒慘	tang1   thinn1 khiou1  kiann2 nang5 si6 chhi1  chham2	12
-冬天磽囝人是淒慘	tang1   thinn1 khiou1  kiann2 nang5 si6 chhi1  chham2	100
-冬天磽囝儂是淒慘	tang1   thinn1 khiou1  kiann2 nang5 si6 chhi1  chham2	50
+冬天磽仔人是淒慘	tang1   thinn1 khiau1  kiann2 nang5 si6 chhi1  chham2	25
+冬天磽仔儂是淒慘	tang1   thinn1 khiau1  kiann2 nang5 si6 chhi1  chham2	12
+冬天磽囝人是淒慘	tang1   thinn1 khiau1  kiann2 nang5 si6 chhi1  chham2	100
+冬天磽囝儂是淒慘	tang1   thinn1 khiau1  kiann2 nang5 si6 chhi1  chham2	50
 冬情	tang1  chheng5	100
 冬情唔好	tang1  chheng5 m7  ho2	50
 冬情毋好	tang1  chheng5 m7  ho2	100
@@ -2814,7 +2801,6 @@ Palsy.	kuan3  pien1	100
 冰片	piann1  phien3	100
 冰糖	piann1  thng5	101
 冰霜	piann1  sng1	101
-冰霜是寒在	piann1  sng1 si6 ngan5  chai6	100
 冰霜箱	piann1  sng1  sienn1	100
 冲礶	chhong1  kuan3	50
 冲罐	chhong1  kuan3	100
@@ -2834,6 +2820,7 @@ Palsy.	kuan3  pien1	100
 凊彩做	chhin3  chhai2  cho3	103
 凊彩歇	chhin3  chhai2  hiah4	100
 凊汗	chhin3  kuann7	100
+凌㓾	leng5  chhi5	100
 凌辱	leng5  jok8	105
 凌遲	leng5  chhi5	100
 凍死	tang3  si2	100
@@ -3023,8 +3010,7 @@ Palsy.	kuan3  pien1	100
 切熱	chhiet4  juah8	100
 切爇	chhiet4  juah8	50
 切用	chhiet4  eng7	100
-切要	chhiet4  iau3	106
-切要	chhiet4  iou3	100
+切要	chhiet4  iau3	107
 切要着有	chhiet4  iau3 tieh8  u6	100
 切音	chhiet4  im1	100
 刑具	heng5  ku6	100
@@ -3034,7 +3020,6 @@ Palsy.	kuan3  pien1	100
 划船	ko3  chun5	100
 初一	chhiu1  it4	102
 初一	chhu1 it4	101
-初七	chhu1 chhit4	100
 初三	chhiu1  sann1	100
 初下	chho1  e7	101
 初下來做	chho1  e7 lai5  cho3	100
@@ -3538,15 +3523,12 @@ Palsy.	kuan3  pien1	100
 十一	chap8  it4	102
 十一	chap8 it4	101
 十一㸃鐘	chap8  it4 tiam2  cheng1	50
-十一月	chap8 it4 gueh8	100
 十一枝玻璃燈	chap8 it4 ki1 po1 li5 teng1	100
 十一禮拜	chap8  it4 loi2  pai3	100
 十一隻雞	chap8 it4 chiah4 koi1	100
 十一隻鷄	chap8 it4 chiah4 koi1	50
 十一點鐘	chap8  it4 tiam2  cheng1	100
 十七	chap8  chhit4	101
-十七	chap8 chhit4	101
-十七隻牛	chap8 chhit4 chiah4 gu5	100
 十三	chap8  sann1	100
 十三	chap8 sann1	100
 十三枝棍	chap8 sann1 ki1 kun3	100
@@ -3591,10 +3573,8 @@ Palsy.	kuan3  pien1	100
 十惡無赦	chap8  ak4 bo5  sia3	100
 十戒	chap8  kai3	100
 十旬	chap8   sun5	100
-十月	chap8 gueh8	100
 十月初十	chap8  gueh8 chhiu1  chap8	100
 十枝錫燈	chap8 ki1 siah4 teng1	100
-十條索	chap8 tiou5 soh4	100
 十條誡	chap8  tiau5  kai3	101
 十港國	chap8  kang2  kok4	100
 十無一	chap8 bo5  chek8	100
@@ -3636,11 +3616,9 @@ Palsy.	kuan3  pien1	100
 半信半疑	puann3  sin3 puann3  gi5	100
 半吞半吐	puann3  thun1 puann3  thou3	100
 半夜	puann3  menn5	101
-半夜	puann3 me5	100
 半天	puann3  thinn1	101
 半掩閡	puann3  iam2  hoinn6	100
 半暝	puann3  menn5	51
-半暝	puann3 me5	50
 半樓	puann3  lau5	100
 半燒	la7  lun5  sie1	100
 半生半死	puann3  senn1 puann3  si2	100
@@ -3682,13 +3660,11 @@ Palsy.	kuan3  pien1	100
 卟薰	pok8  hun1	100
 占卦	chiam1  khue3	100
 印冊	in3  chheh4	100
-印冊	in3 chheh4	100
 印冊機	in3  chheh4  kui1	100
 印度國	in3  tou7  kok4	100
 印手模	in3  chhiu2  bou5	100
 印指頭模	in3 chng2  thau5  bou5	100
 印書	in3  chur1	100
-印書舘	in3 chur1 kuan2	100
 印板	in3  poinn2	102
 印板相混	in3  poinn2 sie1  hun6	100
 印板糊糊	in3  poinn2 kou5  kou5	100
@@ -3793,6 +3769,7 @@ Palsy.	kuan3  pien1	100
 原籍	nguan5  chia6	100
 原色布	nguan5  sek4  pou3	100
 原配	nguan5  phue3	100
+厠坑	tang1  si1	100
 厭恨	iam3  hurn6	100
 厭惡	iam3  u3	100
 厭棄	iam3  khi3	101
@@ -4051,10 +4028,10 @@ Palsy.	kuan3  pien1	100
 召上堂	tiau6  chienn6  tng5	100
 召兵	tiau6  piann1	100
 召喊	tiau6  ham3	100
-召專	tiau6  chuan1	100
-召專	tiou6  chuan1	100
+召專	tiau6  chuan1	101
 叮唺叫	tin1  tiang1  kie3	100
 叮唺呌	tin1  tiang1  kie3	50
+叮嚀	teng1  leng5	100
 叮嚀告誡	teng1  leng5 kau3  kai3	100
 叮嚀囑咐	teng1  leng5 chok4  hu3	101
 可以	kho2  inn2	104
@@ -4111,7 +4088,6 @@ Palsy.	kuan3  pien1	100
 各事無阻隔	kak4  sur7 bo5  cho2  keh4	100
 各事順順	kak4  sur7 sun6  sun6	100
 各人	kak4  nang5	103
-各人	kak4 nang5	100
 各件	kak4  kiann6	100
 各個	kak4  kai5	101
 各個埠頭都有市	kai5  kai5 pou1  thau5 tou1 u6 chhi6	100
@@ -4190,22 +4166,19 @@ Palsy.	kuan3  pien1	100
 吊慰	tiau3  ue3	100
 吊手	tiau3  chhiu2	100
 吊批	tiau3  phoi1	100
-吊放衫吊	tiou3  pang3 sann1  tiou3	100
-吊桶	tiau3  thang2	101
-吊桶	tiou3  thang2	100
+吊放衫吊	tiau3  pang3 sann1  tiau3	100
+吊桶	tiau3  thang2	102
 吊橋	tiau3  kie5	100
 吊燈	tiau3  teng1	102
 吊燕	tiau7  in3	100
-吊瓜	tiau3  kue1	100
-吊瓜	tiou3  kue1	100
-吊瓜	tiou3 kue1	100
+吊瓜	tiau3  kue1	101
+吊瓜	tiau3 kue1	100
 吊窩	tiau3  o1	100
 吊箕	tiau3  ki1	100
 吊籃	tiau3  nann5	100
 吊籠	tiau3  lam1	100
 吊鏡	tiau3  kiann3	100
-吊頷	tiau3  am6	100
-吊頷	tiou3  am6	101
+吊頷	tiau3  am6	102
 吊頷枷	tiau3  am6  ke5	100
 吊頷死	tiau3  am6   si2	100
 吊頷死	tiau3  am6 si2	101
@@ -4255,8 +4228,8 @@ Palsy.	kuan3  pien1	100
 同黨	tang5  tang2	100
 名士	miann5  sur6	100
 名字	miann5  ji7	100
+名家	mia5 ke1	100
 名家	miann5  ke1	104
-名家	miann5 ke1	100
 名家呾話	miann5  ke1 tann3  ue7	100
 名家打銃	miann5  ke1 phah4  chheng3	50
 名家拍銃	miann5  ke1 phah4  chheng3	100
@@ -4326,6 +4299,7 @@ Palsy.	kuan3  pien1	100
 吱咕嚧呌	ki1  ku1  lu6  kie3	50
 吱咬啦叫	ki1  ka6  la1  kie3	100
 吱咬啦呌	ki1  ka6  la1  kie3	50
+吱嗶	phek4  ki1	100
 吱嘬叫	chih4  chuh4  kie3	100
 吱嘬呌	chih4  chuh4  kie3	50
 吱嘺叫	kih4  kiauh4  kie3	100
@@ -4413,12 +4387,14 @@ Palsy.	kuan3  pien1	100
 味素好在	bi7  sou3 ho2  chai6	100
 味素芳	bi7  sou3 phang1	100
 味薄	bi7 poh8	100
+味道	ui7  tau3	100
 味重	bi7 tang6	100
 呴奶	kuh4  ninn6	100
 呴薰	kuh4  hun1	101
 呵呬	huah4  hi3	100
 呵呬	huah4 hi3	100
 呵咾	o1  lo2	109
+呵欠	huah4  hi3	100
 呵湳呵悷	o1  lam5 o1  li7	100
 呵糟	o1  cho1	100
 呵魚	o1  hur5	100
@@ -4581,6 +4557,7 @@ Palsy.	kuan3  pien1	100
 咱此塊罕得有雪	nan2   chie2 han2   tit4 u6 soh4	100
 咳咳叫	ka7  ka7  kie3	101
 咳咳呌	ka7  ka7  kie3	51
+咳敇	ehnn1  hem2	100
 咳痰	khak4  tham5	101
 咸個	ham5  kai5	101
 咸個	ham6  kai5	101
@@ -4642,6 +4619,7 @@ Palsy.	kuan3  pien1	100
 哼鼻	hnghnn1  phinn7	100
 哼鼻薰	hngh4  phinn7  hun1	101
 唅雨來	ham6  hou6  lai5	100
+唎喇	li1  la1	100
 唏哼叫	hinn1  hng1  kie3	100
 唏哼呌	hinn1  hng1  kie3	50
 唐人	tng5  nang5	100
@@ -4653,14 +4631,14 @@ Palsy.	kuan3  pien1	100
 唐人个諸娘少少捌字	tng5  nang5 kai5 chur1  nienn5 chie2  chie2 pat4  ji7	25
 唐人个諸娘少少識字	tng5  nang5 kai5 chur1  nienn5 chie2  chie2 pat4  ji7	100
 唐人个諸娘少少𧧸字	tng5  nang5 kai5 chur1  nienn5 chie2  chie2 pat4  ji7	50
-唐人此個事唔曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	50
-唐人此個事毋曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	100
+唐人此個事唔曉	tng5  nang5 chi2  kai5 su7 m7  hiau2	50
+唐人此個事毋曉	tng5  nang5 chi2  kai5 su7 m7  hiau2	100
 唐人話	tng5  nang5  ue7	100
 唐人講究雷公唔對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	50
 唐人講究雷公毋對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	100
 唐儂个戰船攏總沉去	tng5  nang5 kai5 chien3  chun5 long2  chong2 tim5   khur3	50
-唐儂此個事唔曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	12
-唐儂此個事毋曉	tng5  nang5 chi2  kai5 su7 m7  hiou2	25
+唐儂此個事唔曉	tng5  nang5 chi2  kai5 su7 m7  hiau2	12
+唐儂此個事毋曉	tng5  nang5 chi2  kai5 su7 m7  hiau2	25
 唐儂講究雷公唔對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	12
 唐儂講究雷公毋對	tng5  nang5 kang2  kiu3 lui5  kong1 m7  tui3	25
 唐山	tng5  suann1	101
@@ -4861,8 +4839,7 @@ Palsy.	kuan3  pien1	100
 唔是生然	m7  si6 senn1  jien5	50
 唔是障生	m7  si6 chienn3  senn1	50
 唔時興	m7  si5  heng1	50
-唔曉	m7  hiau2	51
-唔曉	m7  hiou2	51
+唔曉	m7  hiau2	53
 唔曉世務	m7  hiau2 si3  bu6	50
 唔曉人	m7  hiau2  nang5	50
 唔曉人事	m7  hiau2 jin5  sur7	50
@@ -5042,7 +5019,6 @@ Palsy.	kuan3  pien1	100
 唿唿绌绌	huh4  huh4 chhuah4  chhuah4	100
 啃翼	chhng2  sit8	100
 商人	siang1  jin5	100
-商人	siang1 jin5	100
 商客	siang1  kheh4	100
 商議	siang1  ngi2	100
 商量	kau3  nienn5	100
@@ -5077,6 +5053,8 @@ Palsy.	kuan3  pien1	100
 善書	sien6  chur1	101
 善行	sien6  heng6	101
 善說閣羅	sien6  sueh4 koh4  lo5	100
+喇叭	ti1  ta5	100
+喇嘛	la1  ma1	100
 喇山	la1  san1	100
 喇架	la1  ke3	104
 喇謊	la1  huang2	100
@@ -5261,6 +5239,7 @@ Palsy.	kuan3  pien1	100
 噦噦吐	ueh4  ueh4  thou3	100
 器具	khi3  ku6	105
 器物	khi3  mueh8	100
+噴嚏	ka1  thi3	100
 噴水	phun3  chui2	102
 噴着垃圾	phun3   tieh8 nah4  sap4	100
 噴金	phun3  kim1	100
@@ -5289,6 +5268,8 @@ Palsy.	kuan3  pien1	100
 嚷唭嘎	jiang2  ki5  ka1	100
 嚷鬧熱	jiang2  lau7  jiet8	100
 嚷鬧爇	jiang2  lau7  jiet8	50
+囁嚅	ih8  urh4	100
+囁嚅	kih8  kurh8	100
 囈哎	ngi1  ngai1	100
 囈洗	goi7  soi2	100
 囉嗦	lo1  so1	103
@@ -5344,10 +5325,8 @@ Palsy.	kuan3  pien1	100
 四時	si3 si5	100
 四更	si3  kenn1	100
 四書	si3  su1	100
-四月	si3 gueh8	100
 四枝竹	si3 ki1 tek4	100
 四柱	si3  thiau6	100
-四條頭布	si3 tiou5 thau5 pou3	100
 四百	si3 peh4	100
 四箍圍	si3  khou1  ui5	100
 四篐圍	si3  khou1  ui5	50
@@ -5365,7 +5344,6 @@ Palsy.	kuan3  pien1	100
 四重	si3  teng5	100
 四雙手	si3 sang1 chhiu2	100
 四面圍住	si3  min7 ui5  chu6	100
-四頂纓帽	si3 teng2 eng1 bo7	100
 四骹水桶	si3 kha1 chui2 thang2	100
 四體	si3  thi2	100
 四體	si3  thoi2	100
@@ -5426,6 +5404,7 @@ Palsy.	kuan3  pien1	100
 囥積	khng3  chek4	100
 囥臱	khng3  minn1	101
 囥起	khng3  khi2	100
+囫圇	ka1  nng5	100
 困乏	khun3  hek8	100
 困仔	khun3  kiann2	53
 困倦	khun3  kuan6	101
@@ -5552,6 +5531,7 @@ Palsy.	kuan3  pien1	100
 在山頂	to6  suann1  teng2	100
 在底	to6  toi2	100
 在底塊	to6  ti5  ko3	100
+在彼	to2	100
 在彼個舖危大	to6  hie2 kai5 phou3 kuinn5  tua7	100
 在彼前後	to6  hur2 choinn5  au6	100
 在彼塊輸贏	to6  hur2   ko7 su1  iann5	100
@@ -5709,6 +5689,7 @@ Palsy.	kuan3  pien1	100
 垃圾相	nah4  sap4  sienn3	102
 垢圿	kau2  koih4	100
 垢穢	kau6  ueh8	100
+垢穢	nah4  sap4	100
 埋伏	mainn5  hok8	101
 埋伏坫臱	mainn5  hok8 tiam3  minn1	100
 埋名密姓	mainn5  miann5 mit8  senn3	100
@@ -5875,6 +5856,7 @@ Palsy.	kuan3  pien1	100
 塞船	sat4  chun5	100
 塞飽	sat4  pa2	100
 塵世	tin5  si3	100
+塵埃	eng1  teng5	100
 塵塋	tin5  eng5	100
 境況	keng2  khuang3	100
 境界	keng2  kai3	102
@@ -6001,7 +5983,6 @@ Palsy.	kuan3  pien1	100
 夜子	menn5   chur2	101
 夜店	menn5  tiam3	100
 夜旰	menn5   kua3	103
-夜昏	me5 hng1	101
 夜昏	menn5  hng1	104
 夜昏仔	menn5  hng1  kiann2	51
 夜昏仔伊愛來我塊	menn5  hng1  kiann1 iainn3  lai5 ua2   ko3	50
@@ -6010,7 +5991,6 @@ Palsy.	kuan3  pien1	100
 夜昏早起	menn5  hng1 cha2  khi2	100
 夜昏正轉來	menn5  hng1 chiann3  tng2   lai5	100
 夜昏眠起	menn5  hng1 mng5  khi2	100
-夜時	me5 si5	100
 夜暗	menn5  am3	100
 夜暗	menn5 am3	100
 夜暗仔	menn5  am3  kiann2	50
@@ -6037,7 +6017,6 @@ Palsy.	kuan3  pien1	100
 夢見鬼	mang7  kinn3  kui2	100
 夥伴	hue2  phuann6	100
 夥記	hue2  ki3	103
-夥長	hue2 tienn2	100
 大㩼	tua7 choi7	100
 大㮣	tai6  khai3	56
 大一歲	tua7 chek8  hue3	100
@@ -6206,7 +6185,6 @@ Palsy.	kuan3  pien1	100
 大茴香	tua7  hue5  hienn1	100
 大菜	tua7  chhai3	100
 大薯	tua7  chur5	101
-大薯	tua7 chur5	100
 大藥丸	tua7  ieh8  inn5	100
 大衛做王个時候	tai6  phek4 cho3  uang5 kai5  si5  hau7	100
 大衛做王當時	tai6  phek4 cho3  uang5 tiang5  si5	100
@@ -6426,7 +6404,6 @@ Palsy.	kuan3  pien1	100
 失路	sit4  lou7	101
 失辱	sit4  jok8	103
 失錯	sit4  chho3	103
-失面	sit4 min7	100
 失音	sit4  im1	100
 失骹	sit4  kha1	101
 失魂	sit4  hun5	101
@@ -6538,6 +6515,7 @@ Palsy.	kuan3  pien1	100
 奸人妻女	kan1 nang5 chhi1  nng2	50
 奸僞	kan1  ngui6	100
 奸夫	kan1  hu1	53
+奸夫	lau6  ien6	50
 奸婦	kan1  hu6	51
 奸情	kan1  chheng5	50
 奸惡	kan1  ak4	101
@@ -6572,7 +6550,6 @@ Palsy.	kuan3  pien1	100
 好取	haunn3  chhu1	100
 好取笑	haunn3  chhu1  chhie3	100
 好古怪	haunn3  ku2  kuai3	100
-好名	hau2 miann5	100
 好名聲	ho2  miann5  siann1	103
 好名色	ho2  miann5  sek4	101
 好味	ho2  bi7	101
@@ -6599,6 +6576,7 @@ Palsy.	kuan3  pien1	100
 好嫌人毋着	haunn3  hiam5 nang5 m7  tieh8	100
 好嫖	haunn3  phiau5	101
 好屈彎	ho2  khut4  uan1	100
+好幾	ku1  a7	100
 好彩	ho2  chhai2	100
 好得人敬	ho2  tit4  nang5  keng3	100
 好得利	ho2  tit4  li6	100
@@ -6735,7 +6713,6 @@ Palsy.	kuan3  pien1	100
 如唔是	ju5  m7  si6	50
 如夢如醉	ju5  mang7 ju5  chui3	100
 如意	ju5  i3	107
-如意	ju5 i3	100
 如愿	ju5  nguan6	101
 如或	ju5  hok8	100
 如望	ju5  monn7	100
@@ -6795,6 +6772,7 @@ Palsy.	kuan3  pien1	100
 姦人妻女	kan1   nang5 chhi1  nng2	100
 姦人妻女	kan1 nang5 chhi1  nng2	100
 姦夫	kan1  hu1	103
+姦夫	lau6  ien6	100
 姦婦	kan1  hu6	101
 姦情	kan1  chheng5	100
 姦淫	kan1  im5	102
@@ -6843,12 +6821,14 @@ Palsy.	kuan3  pien1	100
 婦工	hu6  kang1	100
 媒人	bue5  nang5	101
 媒儂	bue5  nang5	50
+媳婦	sim1  pu6	100
 媽狗	ma2  kau2	100
 媽祖	mann2  chou2	100
 嫁分人	ke3   pun1  nang5	101
 嫁妝	ke3  chng1	102
 嫁姥	ke3  bou2	101
 嫉妒	chit8  kou3	101
+嫋娜	nionn2  no2	100
 嫌食	hiam5  chiah8	100
 嫖娼	phiau5  chhiang1	100
 嫡妻	tek4  chhi1	100
@@ -6874,7 +6854,6 @@ Palsy.	kuan3  pien1	100
 孔子當時	khong2  chur2 tiang5  si5	100
 孔聖	khong2  siann3	100
 孔雀	khong2  chhieh4	101
-孔雀	khong2 chiah4	100
 孔雀翎	khong2  chhieh4  leng5	101
 孔雀開屏	khong2  chhieh4 khui1  phin5	100
 字典	ji7  tien2	102
@@ -7126,7 +7105,7 @@ Palsy.	kuan3  pien1	100
 家世	ke1  si3	100
 家主	ke1  chu2	100
 家主	ke1 chu2	100
-家主娘	ke1 chu2 nienn5	100
+家主娘	ke1 chu2 nie5	100
 家主媽	ke1  chu2  ma2	100
 家事	ke1  sur7	106
 家人	ke1  jin5	102
@@ -7251,6 +7230,7 @@ Palsy.	kuan3  pien1	100
 寒衣	han5  i1	100
 寒衫	kuann5  sann1	100
 寒道	han5  tau6	100
+寒顫	chhun3  lun7	100
 察實	chhat4  sit8	100
 察究	chhat4  kiu3	101
 寡個	kua2  kai5	100
@@ -7487,8 +7467,7 @@ Palsy.	kuan3  pien1	100
 小寫	sie2  sia2	103
 小帽	sie2  bo7	101
 小引	siau2  in2	100
-小影	siau2  iann2	100
-小影	siou2  iann2	100
+小影	siau2  iann2	101
 小心	sie2  sim1	107
 小心聽	sie2  sim1  thiann1	100
 小押	siau1  ap4	100
@@ -7523,8 +7502,7 @@ Palsy.	kuan3  pien1	100
 少少看毋見人面	sie3  sie3 thoinn2  m7  kinn3 nang5  min7	25
 少少睇唔見人面	sie3  sie3 thoinn2  m7  kinn3 nang5  min7	50
 少少睇毋見人面	sie3  sie3 thoinn2  m7  kinn3 nang5  min7	100
-少年	siau3  ninn5	102
-少年	siou3  ninn5	100
+少年	siau3  ninn5	103
 少年人	siau3  ninn5  nang5	100
 少年老成	siau3  ninn5 lau2  seng5	100
 少得	chie2  tit4	100
@@ -7532,8 +7510,7 @@ Palsy.	kuan3  pien1	100
 少有	chie2  u6	104
 少歲	chie2  hue3	100
 少爺	siau3  ia5	100
-少禮	siau2  li2	102
-少禮	siou2  li2	101
+少禮	siau2  li2	104
 少禮事	siau2  li2  sur7	102
 少禮到面紅紅	siau2  li2 kau3 min7 ang5  ang5	100
 少禮草	siau2  li2  chhau2	100
@@ -7587,6 +7564,7 @@ Palsy.	kuan3  pien1	100
 尿管塞	jie7  kng2 sat4	100
 尿胞	jie7 pau1	100
 尿脬	jie7  pha1	102
+屁股	ka1  chhng1	100
 居住	kur1  chu6	104
 居喪	kur1  sng1	100
 居民	kur1  min5	100
@@ -7603,6 +7581,7 @@ Palsy.	kuan3  pien1	100
 屈頭巷	khut8  thau5  hang7	100
 屈頭樹	khut4  thau5  chhiu7	100
 屈駕	khut4  ke3	100
+屋地	to3	100
 屍首	si1  siu2	100
 屍骸	si1  hai5	101
 屎斑牙	sai2  poinn1  ge5	100
@@ -7650,9 +7629,7 @@ Palsy.	kuan3  pien1	100
 山嵐瘴氣	suann1  lam5 chiang3  khi3	100
 山嶺	suann1  niann2	101
 山巖	suann1  ngam5	100
-山巴	suann1 pa1	100
 山後	suann1  au6	100
-山有危	suann1 u6 kuinn5	100
 山東梨	suann1  tang1  lai5	101
 山水	suann1  chui2	101
 山泉	suann1  chuann5	100
@@ -7692,7 +7669,6 @@ Palsy.	kuan3  pien1	100
 山頷	suann1  am6	100
 山骹	suann1  kha1	100
 山鷄	suann1  koi1	51
-山鷄	suann1 koi1	100
 岳母	ngak8  bo2	101
 岳母	ngak8 bo2	100
 岳父	ngak8  pe6	101
@@ -7704,7 +7680,7 @@ Palsy.	kuan3  pien1	100
 峇囝	ba7  kiann2	100
 崇拜	chhong5  pai3	100
 崎壁	kia6  piah4	100
-崎嶇	khi1  khu1	105
+崎嶇	khi1  khu1	106
 崎瀉	kia6  sia3	101
 崎險	kia6  hiam2	100
 崩堤	pang1  toi1	100
@@ -7740,6 +7716,7 @@ Palsy.	kuan3  pien1	100
 工價	kang1  ke3	101
 工匠	kang1  chhienn7	100
 工夫	kang1  hu1	102
+工夫	khang1  khue3	100
 工夫濫糝	kang1  hu1 lam6  sam2	100
 工夫茶	kang1 hu1 te5	51
 工巧	kong1  kha2	100
@@ -7811,7 +7788,6 @@ Palsy.	kuan3  pien1	100
 帆布	phang5  pou3	101
 帆布	phang5 pou3	100
 希望	hi1  monn7	101
-希望	hi1 mo7	100
 帖匣	thiap4  ap8	100
 帘挲開	liam5 sa1  khui1	100
 帘𢅎浮	liam5 kiau2  phu5	100
@@ -7847,10 +7823,8 @@ Palsy.	kuan3  pien1	100
 常生	sienn5  senn1	100
 常道	sienn5  tau6	100
 帽仔	bo7  kiann2	51
-帽仔	bo7 kiann2	50
-帽吊	bo7  tiou3	100
+帽吊	bo7  tiau3	100
 帽囝	bo7  kiann2	101
-帽囝	bo7 kiann2	100
 帽架	bo7  ke3	100
 帽珠	bo7  chu1	101
 帽盒	bo7  ap8	100
@@ -7859,6 +7833,7 @@ Palsy.	kuan3  pien1	100
 幔天布	buan1  thien1  pou3	100
 幔肩	muann1  koinn1	100
 幔面	muann1  min7	100
+幢幡	thong5  huan1	100
 幫兵	pang1  piann1	101
 幫力	pang1  lat8	100
 幫助	pang1  cho6	107
@@ -7988,18 +7963,15 @@ Palsy.	kuan3  pien1	100
 序頭	su6  thau5	100
 底一人是	ti5  chek8  nang5  si6	100
 底一件是	ti5  chek8  kiann6  si6	100
-底一個	ti5  chek8  kai5	101
+底一個	ti5  chek8  kai5	100
 底个時候	ti5  kai5 si5  hau7	100
 底人大	ti5  nang5  tua7	100
-底個	ti5  kai5	104
-底塊	ti5  ko3	101
+底個	ti5  kai5	101
+底塊	ti5  ko3	100
 底子	toi2  chur2	102
-底時	ti5  si5	102
+底時	ti5  si5	101
 底畔	toi2  poinn5	100
 底當時	ti5  tiang5  si5	100
-底當時	tiang1  si5	100
-底誰	ti5  tiang5	100
-底誰个	ti5  tiang5  kai5	100
 底面	toi2  min7	102
 底𫢗	ti5  tiang5	101
 店主	tiam3  chu2	102
@@ -8008,6 +7980,7 @@ Palsy.	kuan3  pien1	100
 店號	tiam3  ho7	100
 府太爺	hu2  thai3  ia5	101
 度式	tou7  sek4	100
+度數	pang1  bo2	100
 度量	tou7  liang6	101
 度量寬大	tou7  liang6 khuan1  tua7	100
 度量寬濶	tou7  liang6 khuan1  khuah4	50
@@ -8023,6 +7996,7 @@ Palsy.	kuan3  pien1	100
 庵堂	am1  tng5	100
 庵寺	am1  ji7	100
 庵院	am1  inn7	100
+庶幾	pa1  lak4	100
 庶民	su3  min5	104
 康健	khang1  kien6	101
 康寧	khang1  leng5	100
@@ -8045,8 +8019,7 @@ Palsy.	kuan3  pien1	100
 廢墜	hui3  tui6	100
 廢壞	hui3  huai6	102
 廢害	hui3  hai7	102
-廢掉	hui3  tiau7	101
-廢掉	hui3  tiou7	100
+廢掉	hui3  tiau7	102
 廢法	hui3  huap4	100
 廢疾	hui3  chit8	101
 廣佈	kuang2  pu3	101
@@ -8090,7 +8063,6 @@ Palsy.	kuan3  pien1	100
 弓箭箱	keng1  chinn3  sienn1	100
 弓紙牌	keng1  chua2  pai5	100
 弓絃響	keng1  hinn5 hiang2	100
-弓蓬	keng1 phong5	100
 弓蕉	keng1  chie1	102
 弓蕉	keng1 chie1	50
 弓蕉	keng1 chio1	50
@@ -8196,6 +8168,7 @@ Palsy.	kuan3  pien1	100
 彈琴	thang5  khim5	100
 彈琴	tuann5  khim5	101
 彈繩	tuann7  sin5	100
+彌縫	ni2  phong5	100
 彎來彎去	uan1  lai5 uan1  khur3	100
 彎來曲去	uan1  lai5 khek4  khur3	100
 彎偳	uan1  tuan5	100
@@ -8221,8 +8194,10 @@ Palsy.	kuan3  pien1	100
 彩楣	chhai2  bai5	100
 影目	iann2  mak8	100
 影跡	iann2  chiah4	100
+彳亍	chhit8  chhok8	100
 彳彳笑	chhih4  chhih4  chhie3	100
 彷似	huang2  sur6	100
+彷彿	huang2  hut4	100
 彼些个	hur2  chuann3  kai5	100
 彼個	hia2	100
 彼個	hur2  kai5	100
@@ -8563,8 +8538,6 @@ Palsy.	kuan3  pien1	100
 心𭒡	sim1 hiam5	50
 必別叫	pit4  piak4  kie3	100
 必別呌	pit4  piak4  kie3	50
-必定汝死	pit4 tiann7 lur2 si2	100
-必定爾死	pit4 tiann7 lur2 si2	50
 必必着有	pit4  pit4 tieh8  u6	100
 必愛	pit4  ainn3	100
 必瀝	pit4  leh8	100
@@ -8640,9 +8613,7 @@ Palsy.	kuan3  pien1	100
 忽然間	hut4  jien5  kan1	100
 忽略	hut4  liak8	104
 忽略人客	hut4  liak8 nang5  kheh4	100
-怎呢	cho3  ninn5	102
-怎呢袂食	cho3  ninn5 boi6  chiah8	100
-怎呢𠀾食	cho3  ninn5 boi6  chiah8	50
+怎呢	cho3  ninn5	100
 怎敢	cho3  kann2	100
 怎敢當	cho3  kann2  tng1	100
 怏婀	iang1  o1	100
@@ -8709,7 +8680,7 @@ Palsy.	kuan3  pien1	100
 恁毋孬詏	nin2 m7  monn2 a3	100
 恃財	si6  chhai5	100
 恆心	sienn5  sim1	101
-恍惚	huang2  hut4	100
+恍惚	huang2  hut4	101
 恍惚無定	huang2  hut4 bo5  tiann7	100
 恐怕	khiong2  phann3	102
 恐畏	khiong2  ui3	103
@@ -8726,7 +8697,6 @@ Palsy.	kuan3  pien1	100
 恩德	urn1  tek4	100
 恩情	urn1  chheng5	100
 恩惠	urn1  hui6	106
-恩惠	urn1 hui6	100
 恩愛	urn1  ai3	101
 恩澤	urn1  chek8	100
 恩詔	urn1  chie3	100
@@ -8939,7 +8909,6 @@ Palsy.	kuan3  pien1	100
 感念	kam2  liam6	100
 感念在心	kam2  liam6 to6  sim1	100
 感恩	kam2  urn1	103
-感恩	kam2 urn1	100
 感恩不忘	kam2  urn1 put4  buang5	100
 感恩不淺	kam2  urn1 put4  chhien2	101
 感恩戴德	kam2  urn1 tai3  tek4	103
@@ -8995,7 +8964,6 @@ Palsy.	kuan3  pien1	100
 憂勞	iu1  lau5	100
 憂心	iu1  sim1	100
 憂悶	iu1  bun7	108
-憂悶	iu1 bun7	100
 憂愁	iu1  chhou5	103
 憂鬱	iu1  ut4	107
 憐憫	lien5  mien2	103
@@ -9030,9 +8998,10 @@ Palsy.	kuan3  pien1	100
 應該得	eng3  kai1  tit4	100
 應該𭒡	eng1  kai1  hiam5	50
 應驗	eng3  ngiam7	104
+懊惱	auh4  pauh8	100
 懊面	au3  min7	100
 懨懨蔫神蔫神	ia3  ia3 ien1  sin5 ien1  sin5	100
-懵懂	mong2  tong2	100
+懵懂	mong2  tong2	101
 懵懵	mong2  mong2	100
 懶惰	lan2  tuann6	102
 懷孕	huai5  eng6	100
@@ -9119,6 +9088,7 @@ Palsy.	kuan3  pien1	100
 我佮此間雜港行交𨵿㩼	ua2 kah4 chi2  koinn1 chap8  kang2  hang2 kau1  kuan1 choi7	50
 我來	ua2 lai5	100
 我來去醫館挈藥	ua2 lai5  khur3 ui1  kuan2 khieh8  ieh8	100
+我們	un2	100
 我先父	ua2 soinn1  hu6	100
 我出世个位處	ua2 chhut4  si3 kai5  ui7  chhur3	100
 我出身个地	ua2 chhut4  sin1 kai5  ti7	100
@@ -9132,8 +9102,8 @@ Palsy.	kuan3  pien1	100
 我唔去	ua2 m7  khur3	50
 我唔捌伊	ua2 m7  pat4 i1	3
 我唔敢當	ua2 m7  kann2  tng1	50
-我唔曉	ua2 m7  hiou2	50
-我唔曉擎箸	ua2 m7  hiou2 khia5  tur7	50
+我唔曉	ua2 m7  hiau2	50
+我唔曉擎箸	ua2 m7  hiau2 khia5  tur7	50
 我唔知	ua2 m7  chai1	51
 我唔識伊	ua2 m7  pat4 i1	12
 我唔𧧸伊	ua2 m7  pat4 i1	6
@@ -9209,7 +9179,7 @@ Palsy.	kuan3  pien1	100
 我是	ua2 si6	100
 我是乞人枉屈	ua2 si6 khoih4   nang5 uang2  khut4	100
 我是乞儂枉屈	ua2 si6 khoih4   nang5 uang2  khut4	50
-我曉	ua2 hiou2	100
+我曉	ua2 hiau2	100
 我會凊	ua2 oi6  chhin3	100
 我有	ua2 u6	100
 我有病	ua2 u6  penn7	100
@@ -9232,8 +9202,8 @@ Palsy.	kuan3  pien1	100
 我毋去	ua2 m7  khur3	100
 我毋捌伊	ua2 m7  pat4 i1	25
 我毋敢當	ua2 m7  kann2  tng1	100
-我毋曉	ua2 m7  hiou2	100
-我毋曉擎箸	ua2 m7  hiou2 khia5  tur7	100
+我毋曉	ua2 m7  hiau2	100
+我毋曉擎箸	ua2 m7  hiau2 khia5  tur7	100
 我毋知	ua2 m7  chai1	101
 我毋識伊	ua2 m7  pat4 i1	100
 我毋𧧸伊	ua2 m7  pat4 i1	50
@@ -9256,9 +9226,9 @@ Palsy.	kuan3  pien1	100
 我睇歷日就知	ua2 thoinn2 lah8  jih8 chiu6  chai1	100
 我知伊在底塊徛起	ua2 chai1 i1 to6 ti5  ko3 khia6  khi2	100
 我矺贏伊四盤棋	ua2 teh4  iann5   i1 si3  puann5  ki5	100
+我等	nang2	100
 我納意	ua2 nap8  i3	100
 我細伊一歲	ua2 soi3   i1 chek8  hue3	100
-我耳聾些須	ua2 hinn6 lang5 se1 su1	100
 我聽唔見	ua2 thiann1 m7  kinn3	50
 我聽毋見	ua2 thiann1 m7  kinn3	100
 我聽見伊哭	ua2 thiann1  kinn3 i1 khau3	100
@@ -9323,6 +9293,7 @@ Palsy.	kuan3  pien1	100
 戲囝	hi1  kiann2	100
 戲囝	hi3  kiann2	101
 戲弄	hi3  lang7	100
+戲弄	pin1  tng3	100
 戲旦	hi3  tuann3	101
 戲棚	hi3  penn5	103
 戲笑	hi3  chhie3	100
@@ -9334,6 +9305,8 @@ Palsy.	kuan3  pien1	100
 戲臺	hi3  thai5	102
 戲言	hi3  ngan5	100
 戲談	hi3  tham5	100
+戲謔	peh4  geh8	100
+戲謔	sam2  peh8	100
 戲辱	hi3  jok8	100
 戳戳跳	chhok8  chhok8  thiau3	100
 戴孔雀翎	tai3 khong2  chhieh4  leng5	100
@@ -9436,7 +9409,7 @@ Palsy.	kuan3  pien1	100
 手縫蘢	chhiu2  phang7 lang1	100
 手縫闊	chhiu2  phang7 khuann3	100
 手肘	chhiu2  thng6	102
-手肘	chhiu2 tiu2	100
+手肘	chhiu2 thng6	100
 手背	chhiu2  pue3	100
 手腕	chhiu2  uan2	101
 手膅	chhiu2  thng6	100
@@ -9533,7 +9506,6 @@ Palsy.	kuan3  pien1	100
 打格	phah4  keh4	51
 打棉	phah4  minn5	50
 打死	phah4  si2	50
-打死彼蛇	phah4  si2 hur2 chua5	50
 打死走仔	phah4  si2 chau2  kiann2	12
 打死走囝	phah4  si2 chau2  kiann2	25
 打死阿孥	phah4  si2 a1  nounn5	50
@@ -9810,8 +9782,7 @@ Palsy.	kuan3  pien1	100
 抹鼻薰	buah4  phinn7  hun1	100
 抹鼻薰	hngh4  phinn7  hun1	100
 押折骨	ah4  chih8  kut4	100
-押數	ap4  siau3	102
-押數	ap4  siou3	101
+押數	ap4  siau3	104
 押管	ah4  kuan2	101
 押解	ah4  koi3	100
 押送	ah4  sang3	100
@@ -9960,7 +9931,6 @@ Palsy.	kuan3  pien1	100
 拍格	phah4  keh4	101
 拍棉	phah4  minn5	100
 拍死	phah4  si2	100
-拍死彼蛇	phah4  si2 hur2 chua5	100
 拍死走仔	phah4  si2 chau2  kiann2	50
 拍死走囝	phah4  si2 chau2  kiann2	100
 拍死阿孥	phah4  si2 a1  nounn5	100
@@ -10117,7 +10087,6 @@ Palsy.	kuan3  pien1	100
 拗僻	au2  phiah4	100
 拗唔轉	a2  m7  tng2	50
 拗彎	a2  uan1	101
-拗彎此弓	a2  uan1 chi2 keng1	100
 拗枝花	a2  ki1  hue1	100
 拗橫	au2  huenn5	100
 拗毋轉	a2  m7  tng2	100
@@ -10142,7 +10111,7 @@ Palsy.	kuan3  pien1	100
 拚裂	piann3  lih8	100
 招二婿	chie1  ji7  sai3	100
 招勇	chie1  iong2	101
-招呼	chiou1  hu1	100
+招呼	chiau1  hu1	100
 招思病	chie1  si1  penn7	100
 招手	chie1  chhiu2	100
 招會	chie1  hue6	100
@@ -10201,6 +10170,7 @@ Palsy.	kuan3  pien1	100
 拭腳个蓑	chhit4  kha1 kai5 sui1	50
 拭跤个蓑	chhit4  kha1 kai5 sui1	12
 拭骹个蓑	chhit4  kha1 kai5 sui1	100
+拮据	kiet4  kur6	100
 拯救	cheng2  kiu3	100
 拯救	chin2  kiu3	102
 拰扇	lim6  sinn3	100
@@ -10213,8 +10183,6 @@ Palsy.	kuan3  pien1	100
 拳頭	khun5  thau5	101
 拳頭司阜	khun5  thau5 sai1  pe6	101
 拳頭師父	khun5  thau5 sur1  hu6	101
-拳頭打	khun5 thau5 phah4	50
-拳頭拍	khun5 thau5 phah4	100
 拷打	khau2  phah4	50
 拷拍	khau2  phah4	100
 拼命	pheng1  miann7	100
@@ -10258,8 +10226,8 @@ Palsy.	kuan3  pien1	100
 指點乞人看	ki2  tiam2 khurt4  nang5  thoinn2	50
 指點乞人睇	ki2  tiam2 khurt4  nang5  thoinn2	100
 指點此條路	ki2  tiam2 chi2  tiau5  lou7	100
-挈一條淸潔个浴布來	khieh8 chek8  tiou2 chheng1  khih4 kai5 ek8  pou3 lai5	50
-挈一條清潔个浴布來	khieh8 chek8  tiou2 chheng1  khih4 kai5 ek8  pou3 lai5	100
+挈一條淸潔个浴布來	khieh8 chek8  tiau2 chheng1  khih4 kai5 ek8  pou3 lai5	50
+挈一條清潔个浴布來	khieh8 chek8  tiau2 chheng1  khih4 kai5 ek8  pou3 lai5	100
 挈一玻璃杯凊水乞我	khieh8 chek8 po1  li5  pue1 chhin3  chui2 khoih4 ua2	100
 挈一腿	khieh8 chek8  thui2	100
 挈來	khieh8   lai5	103
@@ -10420,16 +10388,16 @@ Palsy.	kuan3  pien1	100
 捐題	kien1  toi5	101
 捔帖仔	kak8  thiap4  kiann2	50
 捔帖囝	kak8  thiap4  kiann2	100
+捔掉	kak8  tiau3	101
 捔掉	kak8  tiau7	105
-捔掉	kak8  tiou3	101
-捔掉	sek4  tiou3	100
+捔掉	sek4  tiau3	100
 捔石	kak8  chieh8	101
 捔落去	kak8   loh8  khur3	100
 捔落水	kak8  loh8  chui2	100
 捕風捉影	phu5  huang1 chhok4  iann2	100
 捕風捉影	pu6  huang1 chhok4  iann2	100
+捘掉	chun6  tiau3	100
 捘掉	chun6  tiau7	100
-捘掉	chun6  tiou3	100
 捘歪	chun6  chhua2	101
 捘灱	chun6  ta1	100
 捘索	chun6  soh4	100
@@ -10471,7 +10439,6 @@ Palsy.	kuan3  pien1	100
 捻耳	liam3  hinn6	100
 捻花	liam3  hue1	100
 捻襇	niap8  koinn2	100
-捻鼻	liam3 phi3	100
 捻鼻頭	liam3  phinn7  thau5	100
 捼空	ui1  khang1	100
 捼空殼	ui1  khang1  khak4	100
@@ -10550,7 +10517,7 @@ Palsy.	kuan3  pien1	100
 排骨肉	pai5  kut4  nek8	100
 排齊	pai5  choi5	100
 掗折	a2  chih8	101
-掘了挈糞箕抔掉	kut8  liou2 khieh8 pun3  ki1 put4  tiou3	100
+掘了挈糞箕抔掉	kut8  liau2 khieh8 pun3  ki1 put4  tiau3	100
 掘井	kut8  chenn2	100
 掘塍	kut8  chhan5	50
 掘塗	kut8  thou5	101
@@ -10779,7 +10746,7 @@ Palsy.	kuan3  pien1	100
 搖動	iau5  tong6	103
 搖動	ie5  tang6	100
 搖動	ie5  tong6	101
-搖掉	hinn3  tiou3	100
+搖掉	hinn3  tiau3	100
 搖搖擺擺	iau5  iau5 pai2  pai2	102
 搖擺	iau5  pai2	101
 搖曳	iau1  it8	100
@@ -10868,7 +10835,7 @@ Palsy.	kuan3  pien1	100
 摎跋	lau1  puah8	100
 摏癟	cheng1  bih4	100
 摏肭塢	cheng1  nap4  uh4	100
-摒掉	phin5  tiou3	100
+摒掉	phin5  tiau3	100
 摒擋	pin1  tng3	102
 摒評	pin2  pheng5	100
 摔桶	sut4  thang2	100
@@ -10951,8 +10918,8 @@ Palsy.	kuan3  pien1	100
 撻住	that4  chu6	100
 撻空	that4  khang1	100
 撻臱	that4  minn1	100
+撼掉	ham2  tiau3	100
 撼掉	ham2  tiau7	103
-撼掉	ham2  tiou3	100
 撽沙	kiauh4  sua1	100
 擁擠	iong3  chinn3	101
 擁籃	ong6  nann5	100
@@ -10970,8 +10937,8 @@ Palsy.	kuan3  pien1	100
 擇粟穗	toh8  chhek4  sui7	100
 擊打	khek4  phah4	50
 擊拍	khek4  phah4	100
-擋唔條	tong3  m7  tiou5	50
-擋毋條	tong3  m7  tiou5	100
+擋唔條	tong3  m7  tiau5	50
+擋毋條	tong3  m7  tiau5	100
 操兵	chhau1  piann1	102
 操兵練卒	chhau1  piann1 lien7  chut4	100
 操心掰腸	chhau1  sim1 peh4  tng5	100
@@ -11030,6 +10997,7 @@ Palsy.	kuan3  pien1	100
 擺列	pai2  liet8	101
 擺好	pai2  ho2	101
 擺床	pai2  chhng5	102
+擺弄	pa1  loi2	100
 擺彩	pai2  chhai2	101
 擺桌	pai2  toh4	100
 擺棹	pai2  toh4	50
@@ -11130,7 +11098,7 @@ Palsy.	kuan3  pien1	100
 收拾雅	siu1  sip8  ngia2	100
 收拾齊整	siu1  sip8 choi5  chiann2	100
 收摩	siu1  bua5	101
-收數	siu1  siou3	101
+收數	siu1  siau3	101
 收斂	siu1  liam2	100
 收歸各類	siu1  kui1 kak4  lui7	100
 收生婆	siu1  senn1  phua5	100
@@ -11246,8 +11214,8 @@ Palsy.	kuan3  pien1	100
 放屎	pang3 sai2	100
 放心	pang3  sim1	101
 放手	pang3  chhiu2	100
+放掉	pang3  tiau3	100
 放掉	pang3  tiau7	107
-放掉	pang3  tiou3	100
 放數	pang3  siau3	100
 放數生息	pang3  siau3 senn1  sek4	100
 放暇	pang3  he6	100
@@ -11267,7 +11235,7 @@ Palsy.	kuan3  pien1	100
 放炮爲號	pang3  phau3 ui5  ho7	100
 放爲	huang3  ui5	100
 放生債	pang3  senn1  che3	100
-放生數	pang3  senn1  siou3	100
+放生數	pang3  senn1  siau3	100
 放直	pang3  tit8	100
 放紅	pang3  ang5	102
 放縱	huang3  chong3	102
@@ -11368,6 +11336,7 @@ Palsy.	kuan3  pien1	100
 敢膽	kann2  tann2	100
 敢食敢使	kann2  chiah8 kann2  sai2	100
 散兵	suann3  piann1	100
+散失	sua1  ia5	100
 散心	suann3  sim1	100
 散掉	suann3  tiau7	100
 散氣	suann3  khi3	100
@@ -11403,20 +11372,18 @@ Palsy.	kuan3  pien1	100
 數個	su3  kai5	101
 數個月	su3  kai5  gueh8	100
 數十個	su3  chap8  kai5	100
-數完	siou3 uan5	100
+數完	siau3 uan5	100
 數日	su3  jit8	100
 數日前	su3  jit8  choinn5	100
 數樣	su3  ienn7	100
 數珠	su3  chu1	100
-數目	siau3  bak8	100
-數目	siou3  bak8	100
+數目	siau3  bak8	101
 數目字	siau3  mak8  ji7	100
 數目淸楚	siau3  bak8 chheng1  chho2	53
 數目清楚	siau3  bak8 chheng1  chho2	103
-數簿	siau3  phou6	100
-數簿	siou3  phou6	100
-數還淸	siou3 hoinn5  chheng1	50
-數還清	siou3 hoinn5  chheng1	100
+數簿	siau3  phou6	101
+數還淸	siau3 hoinn5  chheng1	50
+數還清	siau3 hoinn5  chheng1	100
 數錢翁	siau3  chinn5  ang1	100
 斃命	pi6  miann7	100
 文名	bun5  miann5	101
@@ -11452,8 +11419,10 @@ Palsy.	kuan3  pien1	100
 斑紋	poinn1  bun5	101
 斑色	poinn1  sek4	101
 斑貓	pan1  ngiau1	100
+斑鳩	ku6  ku1	100
 斑鳩	pan1  khiu1	100
 斑點	poinn1  tiam2	100
+斒斕	ge5  lang1	100
 斗柚	tau2  iu7	100
 斗盖	tau2  kai3	50
 斗蓋	tau2  kai3	100
@@ -11461,14 +11430,14 @@ Palsy.	kuan3  pien1	100
 料唔到个境遇	liau7  m7  kau3 kai5 keng2  ngo6	50
 料毋到	liau7  m7  kau3	103
 料毋到个境遇	liau7  m7  kau3 kai5 keng2  ngo6	100
-料理	liau7  li2	103
-料理	liou7  li2	100
+料理	liau7  li2	104
 料知	liau7  chai1	100
+斜對	chham6  chhuah8	100
 斜桅	sia5  ui5	100
 斜目看	sia5  mak8  thoinn2	50
 斜目睇	sia5  mak8  thoinn2	100
 斜目箭	sia5  mak8  chinn3	100
-斜目鳥	sia5  mak8  chiou2	100
+斜目鳥	sia5  mak8  chiau2	100
 斜紋	sia5  bun5	101
 斜紋布	sia5  bun5  pou3	100
 斜莪圓	sia5  go7  inn5	100
@@ -11520,7 +11489,7 @@ Palsy.	kuan3  pien1	100
 新司阜	sin1  sai1  pe6	100
 新君坐位	sin1  kun1 cho6  ui7	100
 新娘	sin1  nienn5	102
-新娘	sin1 nienn5	100
+新娘	sin1 nie5	100
 新娘爹	sin1  nienn5  tia1	100
 新娘轎	sin1  nienn5  kie7	100
 新婚	sin1  hun1	102
@@ -11649,7 +11618,6 @@ Palsy.	kuan3  pien1	100
 日期已滿	jit8  khi5 inn2  muann2	100
 日未暗	jit8 bue7  am3	100
 日本國	jit8  png2  kok4	100
-日本近唐山	jit8  pun2 kurn6 tng5  suann1	100
 日氣	jit8  khi3	100
 日淸	jit8  chheng1	50
 日清	jit8  chheng1	100
@@ -11675,7 +11643,6 @@ Palsy.	kuan3  pien1	100
 日針耀着目	jit8  cham1 chhienn7  tieh8  mak8	100
 日針針着目	jit8  cham1 cham1  tieh8  mak8	100
 日間	jit8   kan1	100
-日間	jit8 kan1	100
 日頭	jit8  thau5	100
 日頭出	jit8  thau5 chhut4	101
 日頭出也未	jit8  thau5 chhut4 a1  bue7	100
@@ -11731,7 +11698,7 @@ Palsy.	kuan3  pien1	100
 明旦起我唔在	mann3  khi2 ua2 m7  to6	50
 明旦起我毋在	mann3  khi2 ua2 m7  to6	100
 明旦起正來	mann3  khi2 chiann3  lai5	100
-明早	me5 cha2	100
+明早	menn5 cha2	100
 明早	muann3  cha2	100
 明明	meng5  meng5	102
 明暝昏我愛請人	mann3  menn5  hng1 ua2 ainn3  chhiann2  nang5	25
@@ -11798,7 +11765,6 @@ Palsy.	kuan3  pien1	100
 昨暝昏	cha1  menn5  hng1	50
 昨暝暗	cha1  menn5  am3	50
 昭彰	chiau1  chiang1	100
-是乜	si6  mih4	100
 是乜事	si6  mih4  sur7	101
 是乜事情	si6  mih4 sur7  chheng5	100
 是乜事故	si6  mih4 sur7  ku3	101
@@ -11917,7 +11883,6 @@ Palsy.	kuan3  pien1	100
 暖爐	juan2  lou5	100
 暗兆	am3  tiau6	100
 暗吞	am3  thun1	100
-暗在	am3 chai6	100
 暗子	am3  chi2	100
 暗害	am3  hai7	101
 暗寐	am3  muenn6	100
@@ -11951,7 +11916,6 @@ Palsy.	kuan3  pien1	100
 暝子	menn5   chur2	51
 暝店	menn5  tiam3	50
 暝旰	menn5   kua3	53
-暝昏	me5 hng1	51
 暝昏	menn5  hng1	54
 暝昏仔	menn5  hng1  kiann2	13
 暝昏仔伊愛來我塊	menn5  hng1  kiann1 iainn3  lai5 ua2   ko3	12
@@ -11960,7 +11924,6 @@ Palsy.	kuan3  pien1	100
 暝昏早起	menn5  hng1 cha2  khi2	50
 暝昏正轉來	menn5  hng1 chiann3  tng2   lai5	50
 暝昏眠起	menn5  hng1 mng5  khi2	50
-暝時	me5 si5	50
 暝暗	menn5  am3	50
 暝暗	menn5 am3	50
 暝暗仔	menn5  am3  kiann2	12
@@ -11988,7 +11951,6 @@ Palsy.	kuan3  pien1	100
 暴躁性	pau6  chhau3  senn3	100
 暴迫	pau6  pek4	100
 暹羅	siam7  lo5	100
-暹羅國	siam1  lo5 kok4	100
 暻照	iann1  chie3	100
 曆年	leh8  ninn5	100
 曆年簿	leh8  ninn5  phou6	100
@@ -12002,8 +11964,7 @@ Palsy.	kuan3  pien1	100
 曉得	hiau2   tit4	100
 曉得禮儀	hiau2   tit4 loi2  ngi5	100
 曉悟	hiau2  ngo6	100
-曉情理	hiau2  chheng5  li2	102
-曉情理	hiou2  chheng5  li2	100
+曉情理	hiau2  chheng5  li2	103
 曉理	hiau2  li2	105
 曉禮儀	hiau2  loi2  ngi5	100
 曉規矩	hiau2  kui1  kur2	100
@@ -12167,7 +12128,6 @@ Palsy.	kuan3  pien1	100
 月事	gueh8  sur7	100
 月仔	gueh8  kiann2	50
 月信	gueh8  sin3	100
-月出了	gueh8 chhut4 liou2	100
 月初初細	gueh8 chho1  chho1  soi3	100
 月半	gueh8  puann3	100
 月半圓	gueh8 puann3  inn5	100
@@ -12328,7 +12288,7 @@ Palsy.	kuan3  pien1	100
 有本領	u6  pun2  niann2	100
 有機智	u6  ki1  ti3	101
 有權	u6  khuan5	100
-有權勢	chhiou3	100
+有權勢	chhiau3	100
 有權勢	u6  si3  thau5	100
 有權變	u6  khuan5  pien3	103
 有次第	u6  chhur3  toinn6	100
@@ -12425,7 +12385,6 @@ Palsy.	kuan3  pien1	100
 有限定	u6  han6  tiann7	100
 有隙	u6  khiah4	100
 有靈竅	u6  leng5  khiau3	100
-有面	u6 min7	100
 有頭無尾	u6  thau5 bo5  bue2	101
 有餘	u6  ur5	101
 有餘剩	u6  ur5  sin7	100
@@ -12451,8 +12410,7 @@ Palsy.	kuan3  pien1	100
 朝三暮四	chiau1  sann1 monn6  si3	100
 朝南	chhiau5  nam5	100
 朝君	chhiau5  kun1	101
-朝廷	chhiau5  theng5	101
-朝廷	chhiou5  theng5	101
+朝廷	chhiau5  theng5	103
 朝拜	chhiau5  pai3	100
 朝服	chhiau5  hok8	101
 朝板	chhiau5  poinn2	100
@@ -12612,7 +12570,7 @@ Palsy.	kuan3  pien1	100
 板仔	poinn2  kiann2	50
 板囝	poinn2  kiann2	100
 板調	pan2  tiau7	100
-枇杷	pi5  pe5	100
+枇杷	pi5  pe5	101
 枉屈	uang2  khut4	101
 枉斷	uang2  tuan3	100
 枉費功夫	uang2  hui3 kang1  hu1	100
@@ -12653,6 +12611,7 @@ Palsy.	kuan3  pien1	100
 枵腰	hau1  ie1	100
 枵腹	hau1  pak4	100
 架頂	ke3 teng2	100
+枸杞	kau2  ki2	100
 某人	mong2  nang5	102
 柑捻	kann1  liam3	100
 柑汝別食也唔別	kann1 lur2 pat4  chiah8 a1  m7  pat4	50
@@ -12738,6 +12697,7 @@ Palsy.	kuan3  pien1	100
 柴頭	chha5  thau5	104
 柴鵝	chha5  go5	102
 柿餅	sai6  piann2	100
+栗子	kau6  lak8	100
 校埕	ka3  tiann1	100
 校正	ka3  chiann3	100
 栳㭳	lau6  hau3	100
@@ -12805,6 +12765,7 @@ Palsy.	kuan3  pien1	100
 梟離刻薄	hiau1  li5 khek4  poh8	100
 梟首示眾	hiau1  siu2 si7  cheng3	100
 梟首示衆	hiau1  siu2 si7  cheng3	50
+梧桐	ngo5  thong5	100
 梭仔	so1  kiann2	51
 梭囝	so1  kiann2	101
 梯子	thui1  chi2	101
@@ -12892,6 +12853,7 @@ Palsy.	kuan3  pien1	100
 楔腳	soih4  kha1	50
 楔跤	soih4  kha1	12
 楔骹	soih4  kha1	100
+楜椒	hu5 chie1	100
 業作	giap8  choh4	100
 業業	giap8  giap8	100
 極到極	kek8  kau3  kek8	100
@@ -12982,7 +12944,6 @@ Palsy.	kuan3  pien1	100
 樹無露水袂活	chhiu7 bo5 lou7  chui2 boi6  uah8	100
 樹無露水𠀾活	chhiu7 bo5 lou7  chui2 boi6  uah8	50
 樹皮	chhiu7  phue5	102
-樹皮	chhiu7 phue5	100
 樹耳	chhiu7  jur2	100
 樹菇	chhiu7  kou1	100
 樹葉	chhiu7  hieh8	102
@@ -12991,7 +12952,6 @@ Palsy.	kuan3  pien1	100
 樹蔭涼	chhiu7 im3  liang5	100
 樹袂發	chhiu7 boi6  huat4	100
 樹身	chhiu7  sin1	100
-樹身	chhiu7 sin1	100
 樹陰下	chhiu7  im1  e6	100
 樹陰个路	chhiu7  im1 kai5  lou7	100
 樹頭	chhiu7  thau5	100
@@ -13000,6 +12960,7 @@ Palsy.	kuan3  pien1	100
 樹𠀾發	chhiu7 boi6  huat4	50
 樽撻	chun1  that4	100
 橄欖	kan1 na2	51
+橄欖	kann1  na2	100
 橄欖	kann1  nann2	100
 橄欖	kann2  nann2	100
 橄欖橛帽	kann2  nann2  kueh8  bo7	100
@@ -13039,6 +13000,8 @@ Palsy.	kuan3  pien1	100
 檢韻	kiam2  un7	100
 檢驗	kiam2  ngiam7	100
 檢點	kiam2  tiam2	104
+檬菓	suainn7	100
+檳榔	pin1  lo5	100
 檳榔	pin1  nonn5	100
 檳榔嶼	pin1  nonn5  sur6	100
 櫃格	kuinn7  keh4	100
@@ -13046,11 +13009,10 @@ Palsy.	kuan3  pien1	100
 欄干	lang5  kang1	100
 欄干子	lang5  kang1  chi2	100
 欄杆	lan5  kan1	101
-欄杆	lan5 kan1	100
 欄杆	lang5  kan1	100
+欄杆	lang5  kang1	100
 欄杆子	lan5  kan1  chi2	100
 欄杆子	lang5  kan1  chi2	100
-欄杆枳	lan5 kan1 chi2	100
 權力	khuan5  lat8	101
 權勢	khuan5  si3	103
 權柄	khuan5  penn3	103
@@ -13216,7 +13178,7 @@ Palsy.	kuan3  pien1	100
 此個是我个	chi2  kai5 si6 ua2  kai5	100
 此個物淸潔	chi2   kai5 mueh8  chheng1  khih4	50
 此個物清潔	chi2   kai5 mueh8  chheng1  khih4	100
-此個稍大	chi2   kai5 iou2  tua7	100
+此個稍大	chi2   kai5 iau2  tua7	100
 此個賊是離經	chi2  kai5 chhat8 si6 li5  keng1	100
 此個送汝	chi2   kai5 sang3 lur2	100
 此個送爾	chi2   kai5 sang3 lur2	50
@@ -13234,24 +13196,24 @@ Palsy.	kuan3  pien1	100
 此張圓床來徙放別塊	chi2  tienn1 inn5  chhng5 lai5 sua2 pang3 pat8  ko3	100
 此張圓牀來徙放別塊	chi2  tienn1 inn5  chhng5 lai5 sua2 pang3 pat8  ko3	50
 此後	chhur2  au6	100
-此我唔曉怎呢物	chia2 ua2 m7  hiou2 cho3  ninn5 mueh8	50
-此我毋曉怎呢物	chia2 ua2 m7  hiou2 cho3  ninn5 mueh8	100
+此我唔曉怎呢物	chia2 ua2 m7  hiau2 cho3  ninn5 mueh8	50
+此我毋曉怎呢物	chia2 ua2 m7  hiau2 cho3  ninn5 mueh8	100
 此日	chhur2  jit8	100
 此時	chhur2  si5	100
-此枝柱大枝	chi2  ki1 thiou6 tua7  ki1	100
+此枝柱大枝	chi2  ki1 thiau6 tua7  ki1	100
 此樣生	chienn3  senn1	100
 此次	chhur2  chhur3	100
 此毋是	chia2 m7  si6	100
 此無用	chi2 bo5 eng7	100
 此物還我	chi2 mueh8 hainn5 ua2	100
-此留放明起	chi2 lau5 pang3 me5  khi2	100
+此留放明起	chi2 lau5 pang3 menn5  khi2	100
 此起病醫僫好	chi2  khi2 penn7 ui1 oh4  ho2	100
 此起病醫難好	chi2  khi2 penn7 ui1 oh4  ho2	50
 此近日	chi2  kurn6  jit8	100
 此近時	chi2  kurn6  si5	100
 此隻船好駛	chi2  chiah4  chun5 ho2  sai2	100
 此雞無熟	chi2 koi1 bo5 sek8	100
-此領氈挈去拂掉塗粉	chi2  niann2 chinn1 khieh8 khur3 puann6  tiou3 thou5  hun2	100
+此領氈挈去拂掉塗粉	chi2  niann2 chinn1 khieh8 khur3 puann6  tiau3 thou5  hun2	100
 此鷄無熟	chi2 koi1 bo5 sek8	50
 步兵	pou7  piann1	100
 步石	pou7  chieh8	100
@@ -13301,7 +13263,7 @@ Palsy.	kuan3  pien1	100
 死了	si2   liau2	100
 死亡	si2  buang5	100
 死人	si2  nang5	100
-死人鳥	si2 nang5 chiou2	100
+死人鳥	si2 nang5 chiau2	100
 死刑	si2  heng5	100
 死去	si2   khur3	100
 死命	si2  miann7	100
@@ -13335,7 +13297,7 @@ Palsy.	kuan3  pien1	100
 毀害	hui3  hai7	100
 毀害	huinn2  hai7	100
 毀成平地	huinn2  chiann5 penn5  ti7	100
-毀掉	hui2  tiou3	100
+毀掉	hui2  tiau3	100
 毀掉	huinn2  tiau7	102
 毀盡	huinn2  chin6	100
 毆辱	au2  jok8	100
@@ -13532,8 +13494,7 @@ Palsy.	kuan3  pien1	100
 毋是生然	m7  si6 senn1  jien5	100
 毋是障生	m7  si6 chienn3  senn1	100
 毋時興	m7  si5  heng1	100
-毋曉	m7  hiau2	101
-毋曉	m7  hiou2	101
+毋曉	m7  hiau2	103
 毋曉世務	m7  hiau2 si3  bu6	100
 毋曉人	m7  hiau2  nang5	100
 毋曉人事	m7  hiau2 jin5  sur7	100
@@ -13855,7 +13816,7 @@ Palsy.	kuan3  pien1	100
 水粉	chui2  hun2	101
 水絞瀵	chui2 ka2  pun7	100
 水缸	chui2  kng1	101
-水缸个水倒掉	chui2  kng1 kai5 chui2 to3  tiou3	100
+水缸个水倒掉	chui2  kng1 kai5 chui2 to3  tiau3	100
 水罐	chui2  kuan3	105
 水罐	chui2 kuan3	100
 水肣	chui2  hap4	100
@@ -13882,14 +13843,12 @@ Palsy.	kuan3  pien1	100
 水鞋	chui2  oi5	100
 水鳥	chui2  chiau2	101
 水鴨	chui2  ah4	100
-水鴨	chui2 ah4	100
 水鷄	chui2  koi1	51
 水鷄聲	chui2  koi1  siann1	50
 水鼓	chui2  kou2	100
 氷片	piann1  phien3	50
 氷糖	piann1  thng5	51
 氷霜	piann1  sng1	51
-氷霜是寒在	piann1  sng1 si6 ngan5  chai6	50
 氷霜箱	piann1  sng1  sienn1	50
 永世	iong2  si3	100
 永久	iong2  ku2	105
@@ -13936,6 +13895,7 @@ Palsy.	kuan3  pien1	100
 汝亦有	lur2 ia7 u6	100
 汝代我憶得	lur2 thoi3  ua2 it4  tit4	100
 汝住此若久	lur2 tiu7 chi2 jieh8  ku2	100
+汝們	nin2	100
 汝做別地去	lur2 cho3 pat4  to3  khur3	100
 汝做呢呾	lur2 cho3  ninn5  tann3	100
 汝免用來	lur2 min2  eng7 lai5	100
@@ -13944,7 +13904,7 @@ Palsy.	kuan3  pien1	100
 汝去	lur2 khur3	100
 汝去伙食房叫火頭來	lur2 khur3 hue2  sit8  pang5 kie3 hue2  thau5 lai5	100
 汝去伙食房呌火頭來	lur2 khur3 hue2  sit8  pang5 kie3 hue2  thau5 lai5	50
-汝去趭伊	lur2 khur3  jiou7 i1	100
+汝去趭伊	lur2 khur3  jiau7 i1	100
 汝叫司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	100
 汝呌司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	50
 汝唔去我就着去	lur2 m6  khur3 ua3 chiu6  tieh8  khur3	100
@@ -13954,7 +13914,6 @@ Palsy.	kuan3  pien1	100
 汝夗到日彼樣晏正走起	lur2 ut8  kau3 jit8 hienn3  uann3 chiann3  chau2  khi2	100
 汝好去	lur2 ho2  khur3	100
 汝寫个字贏我个	lur2 sia2 kai5 ji7 iann5 ua2 kai5	100
-汝寫較猛	lur2 sia2 khah4 me2	100
 汝得罪	lur2 tit4 chue6	100
 汝怎有只個物	lur2 cho3  u6 chi2  kai5  mueh8	100
 汝愛亞勿	lur2 ainn3 a1  mainn3	100
@@ -13965,15 +13924,14 @@ Palsy.	kuan3  pien1	100
 汝我兩人着有一人去	lur2  ua2 nonn6  nang5 tieh8  u6 chek8  nang5  khur3	100
 汝拜六下旰來	lur2 pai3  lak8 e6  kua3 lai5	100
 汝掠伊	lur2 liah8   i1	100
-汝敢做咩	lur2 kann2 cho3 meh4	100
 汝昨日無佮我呾	lur2 cha1  jit8 bo5 kah4 ua2 tann3	100
-汝是乜名	lur2 si6 mi1 miann5	100
+汝是乜名	lur2 si6 mi1 mia5	100
 汝曾上市未	lur2 cheng5 chienn6  chhi6   bue7	100
 汝有罪加加	lur2 u6 chue6 ke1 ke1	100
 汝有若㩼銀	lur2 u6 jieh8 choi7 ngurn5	100
 汝枝秤閃	lur2 ki1 chhin3 siam2	100
-汝欲加甚物	lur2 ainn3 ke1 sim6 mueh8	100
-汝欲甚物	lur2 ainn3 sim6 mueh8	100
+汝欲加甚物	lur2 ai3 ke1 sim6 mueh8	100
+汝欲甚物	lur2 ai3 sim6 mueh8	100
 汝此內有一撮奇巧物	lur2 chi2  lai6 u6 chek8  chhoh4 khi5  kha2  mueh8	100
 汝毋孬去	lur2 m7  monn2 khur3	100
 汝毋孬夗到日晏正走起	lur2 m7  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	100
@@ -14002,11 +13960,9 @@ Palsy.	kuan3  pien1	100
 汝行猛過伊走	lur2 kiann5 menn2  kue3 i1 chau2	100
 汝記得共伊講	lur2 ki3  tit4 kang7 i1 kong2	100
 汝請	lur2 chhiann2	100
-汝講較大聲	lur2 kong2 khah4 tua7 siann1	100
-汝走就趭會着	lur2 chau2 chiu6  jiou7 oi6  tieh8	100
+汝走就趭會着	lur2 chau2 chiu6  jiau7 oi6  tieh8	100
 汝跤痛若久	lur2 kha1 thiann3 jieh8 ku2	12
 汝輕健	lur2 khin1  kiann7	100
-汝阿父知咩	lur2 a1  pe6 chai1 meh4	100
 汝障㦙	lur2 chienn3  nga3	100
 汝食飯也未	lur2 chiah8  png7 a1  bue7	100
 汝骹痛若久	lur2 kha1 thiann3 jieh8 ku2	100
@@ -14043,7 +13999,6 @@ Palsy.	kuan3  pien1	100
 沉溺在惡	tim5  nek8 to6  ak4	100
 沉着	tim5  tieh4	100
 沉船	tim5  chun5	100
-沉船	tim5 chun5	100
 沉色	tim5  sek4	100
 沉落	tim5  loh8	100
 沉貼底	tim5  tah4  toi2	100
@@ -14124,8 +14079,10 @@ Palsy.	kuan3  pien1	100
 波湧	po1  eng2	100
 波累	po1  lui7	102
 波羅斯	po1  lo5  sur1	100
+泥垢	kau1  koih4	100
 泥塗	ninn5  thou5	101
 泥水	ninn5  chui2	100
+泥鰍	hou5  liu1	100
 注念	chu3  liam6	100
 注恭	chu3  kiong1	101
 注意	chu3  i3	100
@@ -14141,7 +14098,7 @@ Palsy.	kuan3  pien1	100
 洋貨	ienn5  hue3	101
 洋鎖	ienn5  so2	100
 洋靛	ienn5  toinn7	101
-洗了着拭灱	soi2  liou2 tieh8 chhit4  ta1	100
+洗了着拭灱	soi2  liau2 tieh8 chhit4  ta1	100
 洗手杯	soi2  chhiu2  pue1	100
 洗浴	soi2  ek8	102
 洗浴房	soi2  ek8  pang5	100
@@ -14217,9 +14174,12 @@ Palsy.	kuan3  pien1	100
 流離失所	liu5  li5 sit4  so2	101
 流鼻	lau5 phinn7	51
 流鼻空血	lau5 phinn7  khang1  hueh4	100
+浥溼	ip4  chip8	50
 浥潗	ip4  chip8	100
+浥濕	ip4  chip8	100
 浧起來	chheng3   khi2  lai5	100
 浪脬	lang6  pha1	100
+浪蕩	long6  tong6	100
 浪蕩个人	lo2  tong7   kai5  nang5	100
 浪蕩个儂	lo2  tong7   kai5  nang5	50
 浪蕩子	lang6  tang6  chur2	100
@@ -14288,9 +14248,10 @@ Palsy.	kuan3  pien1	100
 浸禮	chim3  loi2	100
 浸通	chim3  thang3	100
 浸醋	chim3  chhou3	100
+浹洽	hiap8  chiap4	100
 消唔去	siau1  m7  khur3	50
 消息	sie1  sek4	100
-消息	sie1  sit4	103
+消息	sie1  sit4	104
 消掉	siau1  tiau7	100
 消毋去	siau1  m7  khur3	100
 消毒	siau1  tak8	100
@@ -14310,6 +14271,7 @@ Palsy.	kuan3  pien1	100
 涼傘	nenn5  suann3	100
 涼椅	liang5  inn2	100
 涼篷	liang5  phang5	100
+淋漓	lim5  li5	100
 淋着	lam5   tieh8	100
 淋着	nam5   tieh8	100
 淒凉	chhi1  liang5	103
@@ -14477,7 +14439,6 @@ Palsy.	kuan3  pien1	100
 溪囝	khoi1  kiann2	100
 溪墘	khoi1  kinn5	102
 溪水淹	khoi1  chui2 im1	100
-溪邊	khoi1 pinn1	100
 溫和	un1  hua5	109
 溫暖	un1  luan2	100
 溫柔	un1  jiu5	108
@@ -14545,7 +14506,7 @@ Palsy.	kuan3  pien1	100
 漏囝	lau2  kiann2	102
 漏對耳塊過	lau7 tui3  hinn6   ko3 kue3	100
 漏屎	lau7  sai2	100
-漏掉	lang3  tiou3	100
+漏掉	lang3  tiau3	100
 漏掉	lau7  tiau7	101
 漏母	lau7  bo2	100
 漏母槽	lau7  bo2  cho5	100
@@ -14688,14 +14649,12 @@ Palsy.	kuan3  pien1	100
 火嚄嚄呌	hue2 uak4  uak4  kie3	50
 火塵	hue2  thun5	100
 火塵萦	hue2  thun5  eng5	100
-火夜	hue2 me5	100
 火夜姑	hue2  menn5  kou1	100
 火山	hue2  suann1	101
 火性	hue2  senn3	100
 火性	hue2 senn3	100
 火把	hue2  pe2	101
 火星	hue2  chhenn1	100
-火暝	hue2 me5	50
 火暝姑	hue2  menn5  kou1	50
 火柴	hue2  chha5	101
 火柴炭	hue2  chha5  thuann3	100
@@ -14794,7 +14753,7 @@ Palsy.	kuan3  pien1	100
 灱草	ta1  chhau2	100
 灶炊	chau3  chhue1	100
 灶爐	chau3  lou5	100
-灶空个火烌抔掉	chau3  khang1 kai5 hue2  hu1 put4  tiou3	100
+灶空个火烌抔掉	chau3  khang1 kai5 hue2  hu1 put4  tiau3	100
 灶空炭	chau3  khang1  thuann3	100
 灶雞	chau3  koi1	100
 灶頭	chau3  thau5	100
@@ -14856,7 +14815,7 @@ Palsy.	kuan3  pien1	100
 烏面人	ou1  min7  nang5	101
 烏面儂	ou1  min7  nang5	50
 烏魚	ou1  hur5	100
-烏鳥	ou1 chiou2	100
+烏鳥	ou1 chiau2	100
 烏鴉	ou1  a1	101
 烏鴉聲	ou1  a1  siann1	100
 烏鴉鳥	ou1  a1  chiau2	101
@@ -14978,7 +14937,7 @@ Palsy.	kuan3  pien1	100
 無可奈何	bo5  kho2 nai6  ho5	100
 無可奈何	bo5  kho2 nainn6  ho5	104
 無名帖	bo5  miann5  thiap4	100
-無名指	bo5 miann5 choinn2	100
+無名指	bo5 mia5 choinn2	100
 無向	bo5  hiang3	100
 無向㩼	bo5  hienn3  choi7	102
 無向上	bo5  hienn3  chienn6	101
@@ -15048,7 +15007,6 @@ Palsy.	kuan3  pien1	100
 無定無着	bo5  tiann7 bo5  tieh8	101
 無定着	bo5  tiann7  tieh8	105
 無家教	bo5  ke1  ka3	100
-無實好名定定	bo5 sit8 hau2 miann5 tiann7 tiann7	100
 無實心	bo5  sit8  sim1	100
 無實物好掠	bo5  sit8  mueh8 ho2  liah8	100
 無實體	bo5  sit8  thoi2	100
@@ -15511,7 +15469,7 @@ Palsy.	kuan3  pien1	100
 燈塔	teng1  thah4	100
 燈心	teng1  sim1	102
 燈心	teng1 sim1	100
-燈心了囉	teng1  sim1 liou2   lo7	100
+燈心了囉	teng1  sim1 liau2   lo7	100
 燈心草	teng1  sim1  chhau2	101
 燈拭唔淸潔	teng1 chhit4 m7  chheng1  khi1	12
 燈拭唔清潔	teng1 chhit4 m7  chheng1  khi1	25
@@ -15561,8 +15519,7 @@ Palsy.	kuan3  pien1	100
 燕窩	ien3  o1	102
 燕竇	inn3  tau3	100
 燕菜	ien3  chhai3	101
-燕鳥	inn3  chiau2	100
-燕鳥	inn3  chiou2	100
+燕鳥	inn3  chiau2	101
 燙着	thng3   tieh8	100
 營伍	iann5  ngou2	100
 營寨	iann5  che7	100
@@ -15573,10 +15530,9 @@ Palsy.	kuan3  pien1	100
 燭碟	chek4  tih8	100
 燭管	chek4  kong2	100
 燭臺	chek4  tai5	101
-燭臺	chek4 thai5	100
 爁火	nann6  hue2	100
 爁船	nann6  chun5	100
-爆掉	piang3  tiou3	101
+爆掉	piang3  tiau3	101
 爇之極	juah8 chur1 kek8	50
 爇天	juah8   thinn1	50
 爇天時	juah8  thinn1  si5	50
@@ -15661,6 +15617,7 @@ Palsy.	kuan3  pien1	100
 爾亦有	lur2 ia7 u6	50
 爾代我憶得	lur2 thoi3  ua2 it4  tit4	50
 爾住此若久	lur2 tiu7 chi2 jieh8  ku2	50
+爾們	nin2	50
 爾做別地去	lur2 cho3 pat4  to3  khur3	50
 爾做呢呾	lur2 cho3  ninn5  tann3	50
 爾免用來	lur2 min2  eng7 lai5	25
@@ -15669,7 +15626,7 @@ Palsy.	kuan3  pien1	100
 爾去	lur2 khur3	50
 爾去伙食房叫火頭來	lur2 khur3 hue2  sit8  pang5 kie3 hue2  thau5 lai5	25
 爾去伙食房呌火頭來	lur2 khur3 hue2  sit8  pang5 kie3 hue2  thau5 lai5	12
-爾去趭伊	lur2 khur3  jiou7 i1	50
+爾去趭伊	lur2 khur3  jiau7 i1	50
 爾叫司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	25
 爾呌司阜霎時來	lur2 kie3 sai1  pe6 khia6  tiam7 lai5	12
 爾唔去我就着去	lur2 m6  khur3 ua3 chiu6  tieh8  khur3	50
@@ -15679,7 +15636,6 @@ Palsy.	kuan3  pien1	100
 爾夗到日彼樣晏正走起	lur2 ut8  kau3 jit8 hienn3  uann3 chiann3  chau2  khi2	50
 爾好去	lur2 ho2  khur3	50
 爾寫个字贏我个	lur2 sia2 kai5 ji7 iann5 ua2 kai5	50
-爾寫較猛	lur2 sia2 khah4 me2	50
 爾得罪	lur2 tit4 chue6	50
 爾怎有只個物	lur2 cho3  u6 chi2  kai5  mueh8	50
 爾愛亞勿	lur2 ainn3 a1  mainn3	50
@@ -15690,15 +15646,14 @@ Palsy.	kuan3  pien1	100
 爾我兩人着有一人去	lur2  ua2 nonn6  nang5 tieh8  u6 chek8  nang5  khur3	50
 爾拜六下旰來	lur2 pai3  lak8 e6  kua3 lai5	50
 爾掠伊	lur2 liah8   i1	50
-爾敢做咩	lur2 kann2 cho3 meh4	50
 爾昨日無佮我呾	lur2 cha1  jit8 bo5 kah4 ua2 tann3	50
-爾是乜名	lur2 si6 mi1 miann5	50
+爾是乜名	lur2 si6 mi1 mia5	50
 爾曾上市未	lur2 cheng5 chienn6  chhi6   bue7	50
 爾有罪加加	lur2 u6 chue6 ke1 ke1	50
 爾有若㩼銀	lur2 u6 jieh8 choi7 ngurn5	50
 爾枝秤閃	lur2 ki1 chhin3 siam2	50
-爾欲加甚物	lur2 ainn3 ke1 sim6 mueh8	50
-爾欲甚物	lur2 ainn3 sim6 mueh8	50
+爾欲加甚物	lur2 ai3 ke1 sim6 mueh8	50
+爾欲甚物	lur2 ai3 sim6 mueh8	50
 爾此內有一撮奇巧物	lur2 chi2  lai6 u6 chek8  chhoh4 khi5  kha2  mueh8	50
 爾毋孬去	lur2 m7  monn2 khur3	25
 爾毋孬夗到日晏正走起	lur2 m7  monn2 ut8  kau3 jit8 uann3 chiann3  chau2  khi2	25
@@ -15727,10 +15682,8 @@ Palsy.	kuan3  pien1	100
 爾行猛過伊走	lur2 kiann5 menn2  kue3 i1 chau2	50
 爾記得共伊講	lur2 ki3  tit4 kang7 i1 kong2	50
 爾請	lur2 chhiann2	50
-爾講較大聲	lur2 kong2 khah4 tua7 siann1	50
-爾走就趭會着	lur2 chau2 chiu6  jiou7 oi6  tieh8	50
+爾走就趭會着	lur2 chau2 chiu6  jiau7 oi6  tieh8	50
 爾輕健	lur2 khin1  kiann7	50
-爾阿父知咩	lur2 a1  pe6 chai1 meh4	50
 爾障㦙	lur2 chienn3  nga3	50
 爾食飯也未	lur2 chiah8  png7 a1  bue7	50
 爾骹痛若久	lur2 kha1 thiann3 jieh8 ku2	6
@@ -15771,9 +15724,6 @@ Palsy.	kuan3  pien1	100
 牙頭齒	ge5  thau5  khi2	102
 牙齒咬緊	ge5  khi2 ka6  kin2	100
 牙𨵿咬緊	ge5  kuan1 ka6  kin2	50
-牛乳	gu5 ni6	100
-牛乳油	gu5 ni6 iu5	100
-牛乳餅	gu5 ni6 piann2	100
 牛仔	gu5  kiann2	52
 牛仔	gu5 kiann2	50
 牛冊百	gu5  chheh4  peh4	100
@@ -15839,8 +15789,8 @@ Palsy.	kuan3  pien1	100
 物好	mueh8  ho2	100
 物彎	mueh8  uan1	100
 物慾	mueh8  iok8	100
+物掉	mueh8  tiau3	101
 物掉	mueh8  tiau7	102
-物掉	mueh8  tiou3	101
 物料	mueh8  liau7	100
 物業	mueh8  ngiap8	103
 物淸潔	mueh8  chheng1  khih4	50
@@ -15891,6 +15841,7 @@ Palsy.	kuan3  pien1	100
 犁襊	loi5  chue7	100
 犁頭	loi5  thau5	101
 犒賞	khau3  sienn2	101
+犧牲	hi1  seng1	100
 犯人	huam6  jin5	106
 犯山	huam6  suann1	100
 犯律	huam6  lut8	101
@@ -15916,7 +15867,7 @@ Palsy.	kuan3  pien1	100
 狂風大作	khuang5  huang1 tai6  chak4	101
 狂風暴雨	khuang5  huang1 pau6  hou6	100
 狂風猛雨	khuang5  huang1 menn2  hou6	102
-狐狸	hou5  lai5	101
+狐狸	hou5  lai5	102
 狐狸	hu5 lai5	100
 狐狸指	hou5  lai5  choinn2	100
 狐狸貓	hou5  lai5  ngiau1	100
@@ -15928,8 +15879,11 @@ Palsy.	kuan3  pien1	100
 狗脫毛	kau2 thut4  monn5	100
 狗蟻	kau2  hia6	100
 狗銜風	kau2  kann5  huang1	100
+狡蚤	ka1  chau2	100
 狹塞	oih8  soih4	100
 狹細	oih8  soih4	100
+猗娜	o1  no5	100
+猙獰	chhi1  gi5	100
 猛些	menn2   che7	101
 猛在	menn2  chai6	100
 猛烈	menn2  liet8	103
@@ -15945,7 +15899,7 @@ Palsy.	kuan3  pien1	100
 猪嘴	tur1  chhui3	12
 猪囝	tur1 kiann2	100
 猪寮	tur1  liau5	50
-猪尞	tur1 liou5	50
+猪尞	tur1 liau5	50
 猪尺	tur1  chhieh4	50
 猪朥	tur1  la5	50
 猪槽	tur1  cho5	50
@@ -15991,6 +15945,7 @@ Palsy.	kuan3  pien1	100
 獨跤蜞	tok8  kha1  khi5	12
 獨隻	tok8  chiah4	100
 獨骹蜞	tok8  kha1  khi5	100
+獬豸	hai6  chai6	100
 獲勝	uak8  seng3	100
 獵人	lah8 jin5	100
 獻國賣城	hien3  kok4 boi7  siann5	100
@@ -16017,7 +15972,9 @@ Palsy.	kuan3  pien1	100
 王親國戚	uang5  chhin1 kok4  chhek4	101
 王陵	uang5  leng5	100
 玩獵	nguan2  lah8	100
-玳瑁	ta1  pue7	100
+玫瑰	bun5  kui3	100
+玲瓏	leng5  long5	100
+玳瑁	ta1  pue7	101
 玳瑁	tai7  pue7	100
 玷汚	tiam2  u1	50
 玷污	tiam2  u1	100
@@ -16049,8 +16006,6 @@ Palsy.	kuan3  pien1	100
 現出	hien3  chhut4	100
 現在	hin7  chai6	104
 現在	hing7 chai6	51
-現在汝能得救	hien7  chai6 lur2 oi6 tit4 kiu3	100
-現在爾能得救	hien7  chai6 lur2 oi6 tit4 kiu3	50
 現報	hin7  po3	100
 現年	hin7  ninn5	101
 現日	hin7  jit8	102
@@ -16085,13 +16040,14 @@ Palsy.	kuan3  pien1	100
 理淸楚	li2  chheng1  chho2	50
 理清楚	li2  chheng1  chho2	100
 琉璃	liu5  li5	100
-琥珀	hounn2  phek4	100
+琥珀	hounn2  phek4	101
 琵琶	phi5  pe5	100
-琵琶	pi5  pe5	100
+琵琶	pi5  pe5	101
 瑞氣	sui6  khi3	100
-瑣屑	so2  siak4	100
+瑣屑	so2  siak4	101
 瑣碎	so2  chhui3	100
 瑪瑙	ma2  lau2	100
+瑪瑙	mann2  lau2	100
 璧謝	piah4  sia7	100
 瓜冊	kue1  chheh4	100
 瓜刨	kue1  phau1	100
@@ -16124,8 +16080,7 @@ Palsy.	kuan3  pien1	100
 甚㩼	sim6  choi7	100
 甚至到	sim6 chi3  kau3…	100
 甜吞苦忍	tiam5  thun1 khou2  lun2	100
-甜料	tiam5  liau7	100
-甜料	tiam5  liou7	100
+甜料	tiam5  liau7	101
 甜桔	tiam5  kit4	100
 甜糕	tiam5  ko1	102
 生㩼	senn1  choi7	101
@@ -16353,8 +16308,7 @@ Palsy.	kuan3  pien1	100
 畏人	ui3  nang5	101
 畏凊	ui3  chhin3	100
 畏凊	uinn3  chhin3	101
-畏少禮	ui3  siau2  li2	103
-畏少禮	ui3  siou2  li2	100
+畏少禮	ui3  siau2  li2	104
 畏懼	ui3  ku6	100
 畏死	ui3  si2	101
 畏畏	ui3  ui3	100
@@ -16378,7 +16332,7 @@ Palsy.	kuan3  pien1	100
 畢拔掉	pit8  poih8  tiau7	102
 畢竟	pit8  keng2	101
 略略	liak8  liak8	100
-畧好	iou2  ho2	100
+畧好	iau2  ho2	100
 畨人	huan1  nang5	28
 畨儂	huan1  nang5	13
 畨國	huan1  kok4	50
@@ -16565,7 +16519,6 @@ Palsy.	kuan3  pien1	100
 痞跤	phai2  kha1	12
 痞錢	phainn2  chinn5	100
 痞骹	phai2  kha1	100
-痟人心神無定	siou2 nang5 sim1 sin5 bo5 tiann7	100
 痟狗	siau2  kau2	101
 痠痛	sng1  thiann3	100
 痠軟	sng1  nng2	100
@@ -16605,8 +16558,9 @@ Palsy.	kuan3  pien1	100
 癩哥	thai2  ko1	100
 癩哥	thai2 ko1	100
 癩哥寮	thai2  ko1  liau5	100
-癩瘑寮	thai2  ko1  liou5	100
+癩瘑寮	thai2  ko1  liau5	100
 癰珠	iong1  chu1	100
+癱瘓	kuan3  pien1	100
 癲狂	tien1  khuang5	103
 登位	teng1  ui7	102
 登基	teng1  ki1	103
@@ -16716,7 +16670,7 @@ Palsy.	kuan3  pien1	100
 白鯃魚	peh8  gou5  hur5	102
 白鳥鼠	peh8  niaunn2  chhur2	100
 白鶴	peh8  hoh8	100
-白鷺絲	peh8  liou7  si1	100
+白鷺絲	peh8  liau7  si1	100
 白鷺鷥	peh8  liau6  si1	101
 百一是雙亞是奇	peh4  it4 si6 sang1 a1  si6 khia1	100
 百五個錢	peh4  ngou6 kai5 chinn5	100
@@ -16741,6 +16695,7 @@ Palsy.	kuan3  pien1	100
 百體	peh4  thoi2	100
 皂矾	cho6  huan5	25
 皂礬	cho6  huan5	100
+皂隷	chiau2  li6	100
 皂𥐥	cho6  huan5	50
 的實	tek4  sit8	101
 的愛	tek8  ainn3	100
@@ -16750,7 +16705,6 @@ Palsy.	kuan3  pien1	100
 皇后	huang5  hou6	101
 皇帝	huang5  ti3	103
 皇帝個	huang5  ti3  kai5	100
-皇帝帽	huang5 ti3 bo7	100
 皇恩	huang5  urn1	100
 皇服	uang5  hok8	100
 皮坐	phue5 cho6	100
@@ -16772,7 +16726,7 @@ Palsy.	kuan3  pien1	100
 皺皺	niaunn3  niaunn3	100
 皺眉	niaunn3  bai5	102
 皺眉皺鼻	niaunn3  bai5 niaunn3  phinn7	100
-皺紗	jiou3  se1	100
+皺紗	jiau3  se1	100
 盖世	kai3  si3	50
 盖出	kai3   chhut4	100
 盖印	kai3  in3	50
@@ -16812,19 +16766,19 @@ Palsy.	kuan3  pien1	100
 監生	kam3  seng1	100
 監督	kam1  tok4	101
 監管	kam1  kuan2	100
-盤一樣食了着換	puann5 chek8  ienn7 chiah8  liou2 tieh8  uann7	100
+盤一樣食了着換	puann5 chek8  ienn7 chiah8  liau2 tieh8  uann7	100
 盤仔	puann5  kiann2	51
 盤問	phuan5  mng7	100
 盤囝	puann5  kiann2	101
 盤墻	puann5  chhienn5	50
 盤山過嶺	puann5  suann1 kuenn3  niann2	100
-盤數	puann5  siou3	100
+盤數	puann5  siau3	100
 盤查	phuan5  chhe5	100
 盤牆	puann5  chhienn5	100
 盤着	phuan5   tieh8	100
 盤碗	puann5  uann2	101
 盤碗櫥	puann5  uann2  tu5	100
-盤碗食了着洗	puann5  uann2 chiah8  liou2 tieh8  soi2	100
+盤碗食了着洗	puann5  uann2 chiah8  liau2 tieh8  soi2	100
 盤纏	puann5  ti5	100
 盤纏	puann5  tinn5	100
 盤腿坐	phuan5  thui2  cho6	100
@@ -16997,6 +16951,7 @@ Palsy.	kuan3  pien1	100
 相代	sie1  thoi3	101
 相代做	sie1  thoi3  cho3	100
 相伴	sie1  phuann6	100
+相似	chhin1  chhienn6	100
 相似	siang1  sur6	102
 相佮	sie1  kah4	100
 相佮	sie1  kap4	100
@@ -17472,6 +17427,7 @@ Palsy.	kuan3  pien1	100
 睺呌	kau5  kie3	50
 瞄掠	bie5  liah8	100
 瞇目露牙	minn1  mak8 lou3  ge5	100
+瞎眼	chhenn1  menn5	100
 瞎眼	hak4  ngan2	100
 瞞人目	muann5  mang5  mak8	100
 瞞人目	muann5  nang5  mak8	100
@@ -17549,7 +17505,6 @@ Palsy.	kuan3  pien1	100
 石部	chieh8  pou6	101
 石鏨	chieh8  cham6	100
 石鼠	chieh8  chhur2	101
-石鼠	chieh8 chhur2	100
 矺一盤棋	teh4 chek8  puann5  ki5	100
 矺印	teh4  in3	101
 矺在心內	teh4 to6  sim1  lai6	100
@@ -17574,6 +17529,7 @@ Palsy.	kuan3  pien1	100
 砌起來	kih4   khi2  lai5	100
 砍掉	kham2  tiau7	100
 砑線	ge7  suann3	100
+砒礵	phin1  sng1	100
 研末	ngoinn2  buah8	102
 研烣烣	ngoi2 hu1  hu1	100
 研粉	ngoinn2  hun2	100
@@ -17592,8 +17548,8 @@ Palsy.	kuan3  pien1	100
 破底沉船	phua3  toi2 tim5  chun5	100
 破廢掉	phua3  hui3  tiau7	100
 破挿挿碎	phua3 chhap4  chhap4  chhui3	50
+破掉	phua3  tiau3	100
 破掉	phua3  tiau7	100
-破掉	phua3  tiou3	100
 破插插碎	phua3 chhap4  chhap4  chhui3	100
 破敵	phua3  tek8	100
 破斷	phua3  tng6	100
@@ -17625,7 +17581,8 @@ Palsy.	kuan3  pien1	100
 砷石	sin3  chieh8	100
 硃砂	chu1  sa1	101
 硈管	khat4  kong2	100
-硫磺	liu5  ng5	102
+硨磲	chhia1  khur5	100
+硫磺	liu5  ng5	103
 硬了	nge6   liau2	100
 硬價	nge6  ke3	100
 硬否	nge6  hounn2	101
@@ -17651,8 +17608,8 @@ Palsy.	kuan3  pien1	100
 硬虎着有	nge6  hounn2 tieh8  u6	100
 硬證	nge6  cheng3	101
 硯盤	inn7  puann5	100
-硯盤	inn7 puann5	100
 硼沙	pheng5  sa1	100
+硼砂	pheng5  senn1	100
 硿住	khie7  chu6	100
 碌米	lak4  bi2	100
 碎尸	chhui3  si1	100
@@ -17676,7 +17633,6 @@ Palsy.	kuan3  pien1	100
 碼子	be2  chi2	100
 碼頭	be2  thau5	102
 碾來碾去	lin2  lai5 lin2  khur3	100
-磕頭	khap4 thau5	100
 磕頭	khap8  thau5	101
 磚窯	chng1  ie5	100
 磚窰	chng1  ie5	50
@@ -17692,7 +17648,6 @@ Palsy.	kuan3  pien1	100
 磨尖	bua5  chiam1	100
 磨白	bua5  peh8	100
 磨石	bo7  chieh8	101
-磨石	bo7 chieh8	100
 磨石	bua5  chieh8	101
 磨粉	bua5  hun2	100
 磨累	bua5  lui7	102
@@ -17701,15 +17656,16 @@ Palsy.	kuan3  pien1	100
 磨苦	bua5  khou2	101
 磨鏡	bua5  kiann3	100
 磨難	bua5  lan7	103
-磽仔人食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	25
-磽仔儂食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	12
-磽囝人食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	100
-磽囝儂食糜配鹹菜	khiou1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	50
+磽仔人食糜配鹹菜	khiau1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	25
+磽仔儂食糜配鹹菜	khiau1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	12
+磽囝人食糜配鹹菜	khiau1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	100
+磽囝儂食糜配鹹菜	khiau1  kiann2  nang5 chiah8 muenn5 phue3 kiam5  chhai3	50
 磽斜	khiau1  sia5	100
 磽窮	khiau1  keng5	101
 礬掉	huan5  tiau7	100
 礬梘	huan5  kang2	100
 礶鉛骰	kuan3  in5  tau5	50
+示衆	ho7  nia7	100
 祀老爺	sai7  lau6  ia5	100
 祈望	khi5  monn7	100
 祈求	khi5  khiu5	101
@@ -17787,8 +17743,7 @@ Palsy.	kuan3  pien1	100
 禮拜日	loi2  pai3  jit8	101
 禮拜日	loi2 pai3 jit8	100
 禮拜日我愛去禮拜	loi2  pai3  jit8 ua2 ainn3  khur3 loi2  pai3	100
-禮數	loi2  siau3	105
-禮數	loi2  siou3	100
+禮數	loi2  siau3	106
 禮數夠角	loi2  siau3 kau3  kak4	100
 禮文	loi2  bun5	102
 禮服	li2  hok8	100
@@ -17912,6 +17867,7 @@ Palsy.	kuan3  pien1	100
 稻稿	tiu6  ko2	100
 稻稿草	tiu6  ko2  chhau2	100
 稻稿頭	tiu6  ko2  thau5	100
+稼穡	ke3  sek4	100
 稽攷	ki1  khau2	50
 稽查	ki1  chhe5	101
 稽考	ki1  khau2	100
@@ -17991,6 +17947,7 @@ Palsy.	kuan3  pien1	100
 窓子	theng1  chi2	52
 窓屜	theng1  thuah4	50
 窓門	theng1  mng5	51
+窕窈	iau2  thiau2	100
 窗友	theng1  iu2	103
 窗子	theng1  chi2	102
 窗屜	theng1  thuah4	100
@@ -18013,7 +17970,7 @@ Palsy.	kuan3  pien1	100
 竅頭猛	khiau3  thau5 menn2	100
 竈炊	chau3  chhue1	50
 竈爐	chau3  lou5	50
-竈空个火烌抔掉	chau3  khang1 kai5 hue2  hu1 put4  tiou3	50
+竈空个火烌抔掉	chau3  khang1 kai5 hue2  hu1 put4  tiau3	50
 竈空炭	chau3  khang1  thuann3	50
 竈雞	chau3  koi1	25
 竈鷄	chau3  koi1	12
@@ -18089,7 +18046,6 @@ Palsy.	kuan3  pien1	100
 笑裏藏刀	chhie3  li2 chhang5  to1	100
 笑談	chhie3  tham5	100
 笑面	chhie3  min7	100
-笑面	chhie3 min7	100
 笚仔	khah4  kiann2	50
 笚囝	khah4  kiann2	100
 笚籃	khah4  nann5	100
@@ -18098,24 +18054,23 @@ Palsy.	kuan3  pien1	100
 符飾	hu5  sek4	100
 笨出來	pun6   chhut4  lai5	100
 笨走	pun6  chau2	100
+第一	toi6 it4	100
 第一	toinn6  it4	103
-第一	toinn6 it4	100
 第一件	toinn6  it4  kiann6	100
 第一好	toinn6  it4  ho2	100
 第一項	toinn6  it4  hang6	100
-第七	toinn6 chhit4	100
+第三	toi6 sann1	100
 第三	toinn6  sann1	100
-第三	toinn6 sann1	100
-第九	toinn6 kau2	100
+第九	toi6 kau2	100
 第二	toinn6  ji6	100
 第二	toinn6  ji7	101
 第二號	toinn6  ji7  ho7	100
+第八	toi6 poih4	100
 第八	toinn6  poih4	100
-第八	toinn6 poih4	100
-第六	toinn6 lak8	100
+第六	toi6 lak8	100
+第十	toi6 chap8	100
 第十	toinn6  chap8	101
-第十	toinn6 chap8	100
-第四	toinn6 si3	100
+第四	toi6 si3	100
 第尾	toinn6  bue2	100
 第幾	toinn6  kui2	100
 笮布	te3  pou3	100
@@ -18170,8 +18125,8 @@ Palsy.	kuan3  pien1	100
 箋紙	chien1  chua2	100
 箍冊	khou1  chheh4	100
 箍套	khou1  thau3	100
+箍掉	khou1  tiau3	100
 箍掉	khou1  tiau7	102
-箍掉	khou1  tiou3	100
 箍掉字	khou1  tiau7  ji7	100
 箍掉數	khou1  tiau7  siau3	100
 箍桶	khou1  thang2	100
@@ -18188,8 +18143,7 @@ Palsy.	kuan3  pien1	100
 算埋	sng3  bua5	100
 算得出	sng3  tit4  chhut4	100
 算摩	sng3  bua5	100
-算數	sng3  siau3	103
-算數	sng3  siou3	100
+算數	sng3  siau3	104
 算歇	sng3  hiah4	102
 算毋了	sng3  m7  liau2	101
 算毋別地去	sng3 m7  pat4 to3  khur3	102
@@ -18236,8 +18190,8 @@ Palsy.	kuan3  pien1	100
 篆字	tuan6 ji7	100
 篐冊	khou1  chheh4	50
 篐套	khou1  thau3	50
+篐掉	khou1  tiau3	50
 篐掉	khou1  tiau7	52
-篐掉	khou1  tiou3	50
 篐掉字	khou1  tiau7  ji7	50
 篐掉數	khou1  tiau7  siau3	50
 篐桶	khou1  thang2	50
@@ -18282,6 +18236,7 @@ Palsy.	kuan3  pien1	100
 籐牌	tin1  pai5	100
 籠喙	lang5  chhui3	100
 籠嘴	lang5  chhui3	50
+籠甑	leng5  sng5	100
 籠統	long2  thong2	100
 籬柵	li5  chah8	100
 籮喉	lo7  au5	100
@@ -18291,6 +18246,7 @@ Palsy.	kuan3  pien1	100
 米潘	bi2  phun1	100
 米篩	bi2  thai1	103
 米籮	bi2  lo5	103
+米粉	chhoi3	100
 米粞	bi2  chhoi3	100
 米粮	bi2  nienn5	53
 米粮食了	bi2  nienn5 chiah8  liau2	50
@@ -18310,12 +18266,11 @@ Palsy.	kuan3  pien1	100
 粉纖	hung2 chhiem1	50
 粉金	hun2  kim1	100
 粉飾	hun2  sek4	102
-粉鳥	hun2  chiau2	101
-粉鳥	hun2  chiou2	101
+粉鳥	hun2  chiau2	103
 粉鳥竇	hun2  chiau2  tau3	100
 粒頂	liap8  teng2	100
-粒頂就脫掉放在床頂	liap8  teng2 chiu6 thut4  tiou3 pang3 to6 chhng5  teng2	100
-粒頂就脫掉放在牀頂	liap8  teng2 chiu6 thut4  tiou3 pang3 to6 chhng5  teng2	50
+粒頂就脫掉放在床頂	liap8  teng2 chiu6 thut4  tiau3 pang3 to6 chhng5  teng2	100
+粒頂就脫掉放在牀頂	liap8  teng2 chiu6 thut4  tiau3 pang3 to6 chhng5  teng2	50
 粗人	chhou1  nang5	100
 粗俗	chhou1  sok8	103
 粗喙	chhou1  chhui3	101
@@ -18343,7 +18298,6 @@ Palsy.	kuan3  pien1	100
 粗笨	chhou1  pun6	101
 粗糙	chhou1  chho3	100
 粗糠	chhou1  khng1	103
-粗糠	chhu1 khng1	100
 粗缶	chhou1  hui5	100
 粗聲	chhou1  siann1	100
 粗聲罵	chhou1  siann1  menn7	100
@@ -18399,8 +18353,7 @@ Palsy.	kuan3  pien1	100
 糕糕	ko1  ko1	100
 糖房	thng5  pang5	100
 糖扣	thng5  kha3	100
-糖料	thng5  liau7	100
-糖料	thng5  liou7	100
+糖料	thng5  liau7	101
 糖果	thng5  kuenn2	100
 糖水	thng5  chui2	104
 糖水	thng5 chui2	100
@@ -18682,6 +18635,7 @@ Palsy.	kuan3  pien1	100
 絨線	jong5  suann3	100
 絨領	jong5  niann2	100
 絨頷領	jong5  am6  niann2	100
+絮叨	su3  tau1	100
 統管	thong2  kuan2	100
 統統	thong2  thong2	100
 絲帶	si1  tua3	101
@@ -18694,7 +18648,8 @@ Palsy.	kuan3  pien1	100
 綁腳臁	pang2  kha1  liam5	50
 綁跤臁	pang2  kha1  liam5	12
 綁骹臁	pang2  kha1  liam5	100
-綑條	kun2  tiou5	100
+綑條	kun2  tiau5	100
+經㕔	keng1 thiann1	100
 經儉	keng1  khiam6	100
 經典	kiann1  tien2	100
 經冊	keng1  chheh4	100
@@ -18775,7 +18730,6 @@ Palsy.	kuan3  pien1	100
 縈做一毬	in5 cho3  chek8  kiu5	50
 縈做一球	in5 cho3  chek8  kiu5	100
 縐紗	jiau3  se1	100
-縐紗	jiau3 se1	100
 縐縐	jiau5  jiau5	101
 縖帶	ha5  tua3	101
 縖縐紗	ha5  jiau3  se1	100
@@ -18817,6 +18771,7 @@ Palsy.	kuan3  pien1	100
 縱然	chong3  jien5	102
 縱私肉慾	chong3  sur1 nek8  iok8	100
 縱膽	chong3  tann2	100
+縹緻	piau2  chi3	100
 總久有	chong2  ku2  u6	100
 總兵	chong2  piann1	100
 總兵官	chong2  piann1  kuann1	100
@@ -18856,15 +18811,14 @@ Palsy.	kuan3  pien1	100
 繡花	siu3  hue1	102
 繡花盒	siu3  hue1  ap8	100
 繡花箱	siu3  hue1  sienn1	100
-繳尾	kiau2  bue2	106
-繳尾	kiou2  bue2	100
+繳尾	kiau2  bue2	107
 繼仔	ki3  kiann2	50
 繼囝	ki3  kiann2	100
 繼接	ki3  chiap4	100
 繼接嗣位	ki3  chiap4 sur5  ui7	100
 繼母	ki3  bo2	102
 繼父	ki3  pe6	101
-繼父	ki3 pe6	100
+繾綣	khien2  khuan2	100
 纊紗	khuang6  se1	100
 纏問	tinn5  mng7	100
 纏彎	tinn5  oinn1	100
@@ -18899,6 +18853,7 @@ Palsy.	kuan3  pien1	100
 缺嘴	khih4  chhui3	52
 缺欠	khih4  khiam3	100
 缺錢	khueh4  chinn5	100
+罌粟	eng1  sok4	100
 罌粟殼	eng1  chhek4  khak4	100
 罌粟花	eng1  chhek4  hue1	100
 罐鉛骰	kuan3  in5  tau5	100
@@ -18934,7 +18889,7 @@ Palsy.	kuan3  pien1	100
 罵到淒疑	menn7 kau3  chhi1  gi5	101
 罵到淒疑	menn7 kau3 chhi1  gi5	100
 罵天咒地	menn7  thinn1 chiu3  ti7	101
-罷了	pa6   liau2	103
+罷了	pa6   liau2	101
 罷市	pa6  chhi6	101
 罷職	pa6  cheh4	103
 羅更針	lo5  kenn1  cham1	100
@@ -18976,6 +18931,7 @@ Palsy.	kuan3  pien1	100
 羔丕磨	ko1  pi5  bo7	100
 羔丕礶	ko1  pi5  kuan3	50
 羔丕罐	ko1  pi5  kuan3	100
+羞恥	siau2  li2	100
 羞恥	siu1  chhi2	100
 羞恥	siu1  chhinn2	100
 羣眾	khun5  cheng3	25
@@ -19009,7 +18965,7 @@ Palsy.	kuan3  pien1	100
 習熟	sip8  sek8	101
 習練	sip8  lien7	100
 翕像	hoh4  sienn3	100
-翕小影	hoh4  siou2  iann2	100
+翕小影	hoh4  siau2  iann2	100
 翕小雅	hoh4  siau2  ngia2	100
 翕影	hoh4  iann2	100
 翕掉	him3  tiau7	101
@@ -19023,15 +18979,12 @@ Palsy.	kuan3  pien1	100
 翠藍	chhui3  lam5	100
 翰林	hang5  lim5	100
 翰林院	han5  lim5  inn7	100
-翹尾	khiau3  bue2	102
-翹尾	khiou3  bue2	100
+翹尾	khiau3  bue2	103
 翹曲	khiau1  khek4	100
-翹楚	khiau5  chho2	100
-翹楚	khiou5  chho2	100
+翹楚	khiau5  chho2	101
 翹腰	khiau1  ie1	100
 翹葉	khiau1  hieh8	100
-翹頭絲	khiau3  thau5  si1	100
-翹頭絲	khiou3  thau5  si1	100
+翹頭絲	khiau3  thau5  si1	101
 翻來佧去不成眠	huan1  lai5 khah4  khur3 put4  seng5  min5	100
 翻來翻去	huan1  lai5 huan1  khur3	100
 翻刻	huan1  khek4	100
@@ -19079,8 +19032,8 @@ Palsy.	kuan3  pien1	100
 老爹呾愛去看屍	lau6  tia1 tann3  ainn3  khur3 thoinn2 si1	50
 老爹呾愛去睇屍	lau6  tia1 tann3  ainn3  khur3 thoinn2 si1	100
 老爹坐堂	lau6  tia1 cho6  tng5	100
-老爹聽了就㸃頭	lau6  tia1 thiann1  liou2 chiu6 tak4  thau5	50
-老爹聽了就點頭	lau6  tia1 thiann1  liou2 chiu6 tak4  thau5	100
+老爹聽了就㸃頭	lau6  tia1 thiann1  liau2 chiu6 tak4  thau5	50
+老爹聽了就點頭	lau6  tia1 thiann1  liau2 chiu6 tak4  thau5	100
 老爺	lau6  ia5	106
 老爺宮	lau6  ia5  keng1	100
 老爺戴頂就出來坐堂	lau6  tia1 ti3  teng2 chiu6 chhut4   lai5 cho6  tng5	100
@@ -19320,14 +19273,14 @@ Palsy.	kuan3  pien1	100
 肚腸	tou2  tng5	102
 肚腹	tou2  pak4	100
 肚臍	tou2  chai5	102
-肚袂消	tou2 boi6  siou1	100
+肚袂消	tou2 boi6  siau1	100
 肚見鬼應	tou6  kiang3  kui2 in3	100
 肚量好	tou2  liang6 ho2	100
 肚量寬寬	tou2  liang6 khuan1  khuan1	100
 肚閉結	tou2 pi3  kat4	100
 肚飽	tou2 pa2	100
 肚鮭鮭	tou2 kuai1  kuai1	100
-肚𠀾消	tou2 boi6  siou1	50
+肚𠀾消	tou2 boi6  siau1	50
 肝大	kuann1 tua7	100
 肝經有病	kuann1 keng1 u6 penn7	100
 肥塍	pui5  chhan5	50
@@ -19467,7 +19420,6 @@ Palsy.	kuan3  pien1	100
 脚腸肚	kha1  tng5  tou2	25
 脚腿	kha1  thui2	27
 脚臁	kha1  liam5	26
-脚臁	kha1 liam5	25
 脚臁骨	kha1  liam5  kut4	25
 脚趾	kha1  choinn2	25
 脚趾	kha1 chi2	25
@@ -19524,6 +19476,7 @@ Palsy.	kuan3  pien1	100
 腦髓	naunn2  chhue2	101
 腫合	cheng2  hap4	100
 腫肣	cheng2  hap4	100
+腫脹	tam3  te3	100
 腫起來	cheng2   khi2  lai5	100
 腫頓	cheng2  tng3	100
 腯些叫出來	thuh4   che7  kie3 chhut4   lai5	100
@@ -19595,7 +19548,6 @@ Palsy.	kuan3  pien1	100
 腳腸肚	kha1  tng5  tou2	50
 腳腿	kha1  thui2	52
 腳臁	kha1  liam5	51
-腳臁	kha1 liam5	50
 腳臁骨	kha1  liam5  kut4	50
 腳趾	kha1  choinn2	50
 腳趾	kha1 chi2	50
@@ -19623,6 +19575,7 @@ Palsy.	kuan3  pien1	100
 腹寒	pak4  kuann5	100
 腿頭	thui2  thau5	102
 腿頭骨	thui2  thau5  kut4	100
+膀胱	phang5  khuang1	100
 膀胱	phang5  kuang1	100
 膅人	thng6   nang5	100
 膏藥	ko1  ieh8	104
@@ -19637,6 +19590,7 @@ Palsy.	kuan3  pien1	100
 膠黏	ka1  liam5	100
 膠𤿤	ka1  pua3	100
 膨肣	phong3  hap4	100
+膨脹	phang7  chiang3	100
 膽包天	tann2 pau1  thinn1	100
 膽怯	tann2 khiap4	101
 膽汁	tann2  chap4	100
@@ -19694,6 +19648,7 @@ Palsy.	kuan3  pien1	100
 自尊	chur6  chun1	103
 自屈	chur6  khut4	100
 自己	chur6  ki2	100
+自己	ka1  ki7	100
 自己保重	chur6  ki2 po2  tong6	100
 自幼年	chur6 iunn3  ninn5	100
 自心為己	chur6  sim1 ui6  ki2	100
@@ -19784,13 +19739,12 @@ Palsy.	kuan3  pien1	100
 臺員	thai5  uan5	100
 臺閣	thai5  koh4	100
 臼仔	khu6  kiann2	50
-臼仔	khu6 kiann2	50
+臼仔	khu6 kan2	50
 臼仔槌	khu6  kiann2  thui5	50
 臼囝	khu6  kiann2	100
-臼囝	khu6 kiann2	100
+臼囝	khu6 kan2	100
 臼囝槌	khu6  kiann2  thui5	100
-舀掉水	ie2  tiau7  chui2	100
-舀掉水	ie2  tiou7  chui2	100
+舀掉水	ie2  tiau7  chui2	101
 舀氈	ie2  chinn1	100
 舀水	ie2 chui2	100
 舀玻璃	ie2  po1  li5	100
@@ -19849,6 +19803,7 @@ Palsy.	kuan3  pien1	100
 舞弄	bu2  long6	102
 舞弄舞弄	bu2  lang7 bu2  long6	100
 舞牌	mong6  pai5	100
+舟舡	chiu1  kang1	100
 舢板	sam1  pan2	100
 舵公	tai6  kong1	103
 舵唔去	tua6  m7  khur3	50
@@ -19898,7 +19853,7 @@ Palsy.	kuan3  pien1	100
 船相撞着	chun5 sie1  chuang6  tieh8	100
 船砧着石	chun5 tiam1  tieh8  chieh8	100
 船破掉	chun5 phua3  tiau7	100
-船破掉	chun5 puah8  tiou3	100
+船破掉	chun5 puah8  tiau3	100
 船票	chun5  phie3	100
 船租	chun5  chou1	105
 船舵	chun5  tua6	100
@@ -19927,8 +19882,7 @@ Palsy.	kuan3  pien1	100
 艱苦事	kan1  khou2  sur7	100
 艱難	kan1  lan5	101
 色唔勻	sek4 m7  chauu5	50
-色料	sek4  liau7	101
-色料	sek4  liou7	100
+色料	sek4  liau7	102
 色毋勻	sek4 m7  chauu5	100
 色水	sek4  chui2	100
 色水深	sek4  chui2 chhim1	100
@@ -19943,12 +19897,13 @@ Palsy.	kuan3  pien1	100
 芒花掃	mang5  hue1  sau3	100
 芒花色	mang5  hue1  sek4	100
 芒黑	mang7  hek4	100
+芙蓉	phu5  iong5	100
 芥子	kai3  chi2	100
 芥子	kai3 chi2	100
 芥辣	kai3  luah8	100
 芥辣子	kai3  luah8  chi2	100
 芥辣粉	kai3  luah8  hun2	100
-芫荽	uan5  sui1	100
+芫荽	uan5  sui1	101
 芫荽籽	uan5  siu1  chi2	100
 花㸃	hue1  tiam2	50
 花㸃雜色	hue1  tiam2 chap8  sek4	50
@@ -19965,7 +19920,7 @@ Palsy.	kuan3  pien1	100
 花布	hue1  pou3	103
 花干	hue1  kan1	100
 花押	hue1  ap4	100
-花攏總皺皺	hue1 long2  chong2 jiou5  jiou5	100
+花攏總皺皺	hue1 long2  chong2 jiau5  jiau5	100
 花斑	hue1  poinn1	100
 花斑色	hue1  poinn1  sek4	100
 花旗國	hue1  ki5  kok4	101
@@ -20074,8 +20029,8 @@ Palsy.	kuan3  pien1	100
 英人	eng1 jin5	100
 英吉利話	eng1  kit4  li6 ue7	100
 英國人	eng1  kok4  nang5	100
-英國人就曉	eng1  kok4  nang5 chiu6  hiou2	100
-英國儂就曉	eng1  kok4  nang5 chiu6  hiou2	50
+英國人就曉	eng1  kok4  nang5 chiu6  hiau2	100
+英國儂就曉	eng1  kok4  nang5 chiu6  hiau2	50
 英雄	eng1  hiong5	101
 苾詖	phit8  phueh8	101
 茂密	mong6  bat8	100
@@ -20105,7 +20060,6 @@ Palsy.	kuan3  pien1	100
 茶甌	te5  au1	101
 茶盅	te5  cheng1	102
 茶盤	te5  puann5	100
-茶盤	te5 puann5	100
 茶碟	te5  tih8	101
 茶礶	te5  kuan3	51
 茶礶	te5 kuan3	50
@@ -20146,8 +20100,8 @@ Palsy.	kuan3  pien1	100
 草字	chho2  ji7	102
 草字	chho2 ji7	100
 草寇	chhau2  khou3	100
+草寮	chhau2  liau2	100
 草寮	chhau2  liau5	103
-草寮	chhau2  liou2	100
 草帽	chhau2  bo7	102
 草心	chhau2  sim1	100
 草木	chhau2  bak8	101
@@ -20162,6 +20116,7 @@ Palsy.	kuan3  pien1	100
 草略相刣	chho2  liak8 sie1  thai5	100
 草略看	chho2  liak8  thoinn2	50
 草略睇	chho2  liak8  thoinn2	100
+草畧	chhin3  chhai2	100
 草眼	chhau2  ngan2	102
 草稿	chho2  ko2	100
 草筍	chhau2  sun2	100
@@ -20201,6 +20156,8 @@ Palsy.	kuan3  pien1	100
 荷蘭薯	ho5  lan5  chur5	100
 荷蘭西个兵來未齊	ho5  lan5  se1 kai5  piann1 lai5 bue7  choi5	100
 荷蘭豆	ho5  lan5  tau7	101
+荸薺	chinn5	100
+荸薺	chinn5  chhang1	100
 莊嚴	chang1  ngiam5	101
 莊敬	chang1  keng3	100
 莞荽	uan5  sui1	100
@@ -20329,7 +20286,7 @@ Palsy.	kuan3  pien1	100
 著書發賣	tu3  chur1 huat4  boi7	100
 著書立說	tu3  chur1 lip8  sueh4	100
 著現	tu3  hin7	100
-葡萄	phu5  tho5	101
+葡萄	phu5  tho5	102
 葡萄園	phu5  tho5  hng5	100
 葡萄好作酒	phu5  tho5 ho2  cho3  chiu2	100
 葡萄干	phu5  tho5  kuann1	102
@@ -20338,13 +20295,14 @@ Palsy.	kuan3  pien1	100
 葡萄酒	phu5  tho5  chiu2	100
 葡萄靑	phu5  tho5  chhenn1	50
 葡萄青	phu5  tho5  chhenn1	100
-葫蘆	hou5  lou5	101
+葫蘆	hou5  lou5	102
 葫蘆瓠	hou5  lou5  pu5	101
 葬埋	chng3  mainn5	100
 葬山	chng3  suann1	100
 葬棺柴	chng3  kuann1  chha5	100
 葵扇	kue5  sinn3	100
 葵笠	koih8  loih8	100
+葶藶	theng5  lek8	100
 蒙充軍	mong5  chhong1  kun1	100
 蒙古	mong5  kou2	101
 蒙恩戴德	mong5  urn1 tai3  tek4	100
@@ -20353,11 +20311,13 @@ Palsy.	kuan3  pien1	100
 蒙𭀚軍	mong5  chhong1  kun1	50
 蒜頭	sng3  thau5	101
 蒜頭	sng3 thau5	100
-蒜食後口臭	sng3 chiah8  liou2 chhui3 chhau3	100
+蒜食後口臭	sng3 chiah8  liau2 chhui3 chhau3	100
 蒲團	phu5  thuan5	100
+蒺藜	chit8  li5	100
 蒼天	chhang1  thinn1	101
 蒼白	chhang1  peh8	100
 蒼穹	chhan1  khiong1	100
+蒼蠅	hou5  sin5	100
 蓆包	chhieh8  pau1	100
 蓋世	kai3  si3	100
 蓋印	kai3  in3	100
@@ -20399,6 +20359,7 @@ Palsy.	kuan3  pien1	100
 薄膜	poh8  mohnn8	100
 薄茶	poh8  te5	100
 薄荷	po5  ho3	102
+薄荷	po6  ho3	100
 薄荷	po7 ho3	50
 薄荷	poh8  ho3	101
 薄荷	poh8 ho3	50
@@ -20408,6 +20369,7 @@ Palsy.	kuan3  pien1	100
 薅草	khau1  chhau2	100
 薏米仁	inn3  bi2  jin5	101
 薏美仁	iunn3  muinn2  jin5	101
+薏苡	inn3  bi2	100
 薑母	kienn1  bo2	100
 薑母好作藥	kienn1  bo2 ho2  cho3  ieh8	100
 薑黃	kienn1  ng5	100
@@ -20490,6 +20452,7 @@ Palsy.	kuan3  pien1	100
 蘊鴨囝	un2  ah4  kiann2	100
 蘋果	phin5  kue2	100
 蘢蘢	lang1  lang1	100
+蘿蔔	lo5  phiah8	100
 虎牢	hounn2  lo5	101
 虎莓	hounn2  m7	100
 虎頭截	hounn2  thau5  choih8	100
@@ -20530,6 +20493,7 @@ Palsy.	kuan3  pien1	100
 號做	hau6   cho3	100
 號票	ho7  phiau5	100
 號筒	ho7  tang5	100
+號筒	hu1  tu5	100
 號衣	ho7  i1	100
 號表	ho7  piau2	100
 號褂	ho7  kua3	100
@@ -20565,7 +20529,7 @@ Palsy.	kuan3  pien1	100
 蚝珠	o5  chu1	51
 蚝箱	o5  sienn1	50
 蚝鏡殼	o5  kiann3  khak4	50
-蚯蚓	kau6  un2	100
+蚯蚓	kau6  un2	101
 蚯蚓	khiu1 un2	100
 蚶殼	ham1  khak4	101
 蛀掉	chu3  tiau7	101
@@ -20586,11 +20550,11 @@ Palsy.	kuan3  pien1	100
 蜂竇	phang1  tau3	101
 蜂蜜	phang1  bit8	101
 蜂蠟	phang1  lah8	100
-蜈蚣	ge5  kang1	101
+蜈蚣	ge5  kang1	102
 蜈蚣	ge5 kang1	102
 蜈蚣	gou5 kong1	51
 蜈蜞	hou5  khi5	101
-蜘蛛	ti1  tu1	101
+蜘蛛	ti1  tu1	102
 蜘蛛	ti1 tu1	100
 蜘蛛吐絲	ti1  tu1 thou3  si1	100
 蜘蛛結網	ti1  tu1 kit4  mang6	100
@@ -20607,13 +20571,18 @@ Palsy.	kuan3  pien1	100
 蜜蜂	bit8  phang1	100
 蜜餞	bit8  chim3	100
 蜻蜓	chheng1  theng5	100
+蜻蜓	sua1  me1	100
+蜾蠃	lin1  liang1	100
+蝌蚪	ti7  gu5	100
 蝎仔	hiet4  kiann2	51
 蝎囝	hiet4  kiann2	101
 蝕本	sih8  png2	102
 蝗虫	huang5  thang5	50
 蝗蟲	huang5  thang5	100
+蝙蝠	pit8  po5	100
 蝞鬼矺	bai2  kui2 teh4	100
 蝦米	he5  bi2	102
+蝦蟆	kap4  po5	100
 蝴蜞	hou5 khi5	100
 蝴蜞搭	hou5  khi5  tah4	100
 蝴蝶	hu5  tiap8	100
@@ -20621,10 +20590,14 @@ Palsy.	kuan3  pien1	100
 蝴蠅	hou5  sin5	51
 蝴蠅	hou5 sin5	50
 蝴蠅虎	hou5  sin5  hounn2	51
+蝸牛	am1  lo1	100
 螃蟹	phang5  hoi6	100
+螞蟥	hou5  khi5	100
+螟蛉	meng5  leng5	100
 螟蛉仔	meng5  leng5  kiann2	50
 螟蛉囝	meng5  leng5  kiann2	100
 螢火	iong5  hue2	100
+螳螂	chhau2  kau5	100
 螺殼	lo5  khak4	101
 螺涎	lo5  suann5	100
 螺癧	lo5  lek8	100
@@ -20634,8 +20607,10 @@ Palsy.	kuan3  pien1	100
 螺絲搭	lo5  si1  tah4	100
 螺絲轉	lo5  si1  juan2	100
 螺絲釘	lo5  si1  teng1	100
+螻蛄	tou6  kau5	100
 蟒袍	mang2  phau5	100
 蟧蜈	la5  gia5	100
+蟰蛸	siau3  chinn5	100
 蟲剝殼	thang5 pak4  khak4	100
 蟲卵	thang5  nng6	100
 蟲繭	thang5  koinn2	101
@@ -20848,8 +20823,7 @@ Palsy.	kuan3  pien1	100
 表情存記	piau2  chheng5 chhun5  ki3	100
 表揚	piau2  iang5	100
 表據	piau2  kur6	100
-表明	piau2  meng5	101
-表明	piou2  meng5	101
+表明	piau2  meng5	103
 表明意思	piau2  meng5 i3  sur3	100
 表樣	piau2  ienn7	102
 表汗	piau2  kuann7	101
@@ -20858,7 +20832,7 @@ Palsy.	kuan3  pien1	100
 表緻	piau2  chi3	100
 表記	piau2  ki3	101
 衫䘼	sann1  ng2	103
-衫吊	sann1  tiou3	100
+衫吊	sann1  tiau3	100
 衫架	sann1  ke3	100
 衫櫃	sann1  kuinn7	100
 衫櫥	sann1  tu5	100
@@ -20918,12 +20892,13 @@ Palsy.	kuan3  pien1	100
 袂賺	boi6  tann7	101
 袂通	boi6  thong1	100
 袂過分	boi6  kue3  hun7	100
-袂銷	boi6  siou1	100
+袂銷	boi6  siau1	100
 袂降	boi6  kang3	100
 袂陽	boi6  iang5	100
 袂食	boi6  chiah8	101
 袂食火	boi6  chiah8  hue2	100
 袂驚	boi6  kiann1	100
+袈裟	ke1  se1	100
 袋底搜覓	to7  toi2 siau1  chhue7	100
 袋底搜覓	to7  toi2 siau1 chhue7	100
 袋底搜覔	to7  toi2 siau1  chhue7	50
@@ -21011,6 +20986,7 @@ Palsy.	kuan3  pien1	100
 製藥个法	chi3  ieh8 kai5  huap4	100
 裾帶	ki1  tua3	100
 裾腰	ki1  ie1	100
+褡褳	tah4  lien5	100
 褥挈去曝	jok8 khieh8 khur3 phak8	100
 褪掉	thng3  tiau7	102
 褪掉衫	thng3  tiau7  sann1	102
@@ -21026,7 +21002,7 @@ Palsy.	kuan3  pien1	100
 褪赤跤	thng3  chhiah4  kha1	13
 褪赤身	thng3  chhiah4  sin1	100
 褪赤骹	thng3  chhiah4  kha1	101
-褲吊	khou3  tiou3	100
+褲吊	khou3  tiau3	100
 褲套	khou3  thau3	100
 褲帶	khou3  tua3	100
 褲橛	khou3  kueh8	104
@@ -21042,6 +21018,7 @@ Palsy.	kuan3  pien1	100
 襓襓	niaunn3  niaunn3	100
 襖套	o2  thau3	100
 襤圾	lam5  sap4	101
+襤褸	lam5  lu2	100
 襪帶	bueh8  tua3	100
 襲蔭	sip8  im3	100
 西北	sai1 pak4	100
@@ -21068,8 +21045,7 @@ Palsy.	kuan3  pien1	100
 見毋得人个話	kinn3  m7  tit4  nang5 kai5  ue7	100
 見物思人	kinn3  mueh8 sur1  nang5	100
 見皇帝	kinn3  huang5  ti3	100
-見笑	kien3  siau3	103
-見笑	kien3  siou3	100
+見笑	kien3  siau3	104
 見笑事	kien3  chhie3  sur7	100
 見識	kien3  sek4	102
 見識淺	kien3  sek4  chhien2	100
@@ -21081,8 +21057,7 @@ Palsy.	kuan3  pien1	100
 規做無	kui1  cho3  bo5	100
 規問	kui1  mng7	100
 規探	kui1  tham3	101
-規條	kui1  tiau5	102
-規條	kui1  tiou5	100
+規條	kui1  tiau5	103
 規模	kui1  monn5	100
 規正	kui1  chiann3	100
 規矩	kui1  kur2	108
@@ -21147,6 +21122,7 @@ Palsy.	kuan3  pien1	100
 親目睇見	chhin1  mak8 thoinn2  kinn3	100
 親耳聽見	chhin1  hinn6 thiann1  kinn3	100
 親身	chhin1  sin1	103
+覬覦	khai2  ju5	100
 覺察	kak4  chhat4	100
 覺悟	kak4  ngo6	101
 觀天文	kuan1  thien1  bun5	100
@@ -21186,6 +21162,7 @@ Palsy.	kuan3  pien1	100
 解說	koi2  sueh4	103
 解送	koi3  sang3	100
 解開	koi2  khui1	100
+觳觫	khok4  sok4	100
 觸人惱氣	chhok4   nang5 naunn2  khi3	100
 觸人氣	chhok4  nang5  khi3	100
 觸傷	tak4  sienn1	100
@@ -21247,8 +21224,7 @@ Palsy.	kuan3  pien1	100
 記性	ki3  senn3	100
 記才	ki3  chhai5	100
 記持	ki3  ti5	100
-記數	ki3  siau3	101
-記數	ki3  siou3	100
+記數	ki3  siau3	102
 記毛	ki3  monn5	101
 記簿	ki3  phou6	100
 記號	ki3  ho7	102
@@ -21370,6 +21346,7 @@ Palsy.	kuan3  pien1	100
 詩翁	si1  ong1	101
 詩調	si1  tiau7	100
 詩韻	si1  un7	101
+詬誶	tih8  tuh8	100
 詭計	khui2  koi3	101
 詭計	khui6  koi3	100
 詭計	ngui6  koi3	100
@@ -21549,6 +21526,8 @@ Palsy.	kuan3  pien1	100
 謀爲	mong5  ui5	101
 謀略	mong5  liak8	100
 謀篇	mong5  phien1	100
+謊唐	huang1  thang5	100
+謊唐	peh8  chiann2 peh8  chiann2; peh8  loh8	100
 謎猜	minn6  chhai1	100
 謗毀	pang6  huinn2	100
 謗誹	pang6  huinn2	100
@@ -21586,8 +21565,7 @@ Palsy.	kuan3  pien1	100
 謝愿	sia7  nguan7	100
 謝職	sia7  cheh4	100
 謠傳	iau5  thuan5	100
-謠言	iau5  ngan5	100
-謠言	iou5  ngan5	100
+謠言	iau5  ngan5	101
 謠謗	iau5  pang6	103
 謲雜	chham3  chap8	100
 謹嚴	kurn2  ngiam5	100
@@ -21613,6 +21591,7 @@ Palsy.	kuan3  pien1	100
 譏嘲	ki1  chhiau2	102
 譏笑	ki1  chhie3	103
 譏誚	ki1  chhiau2	104
+譏誚	ngien5  sien2	100
 譏諷	ki1  hong3	100
 譏議	ki1  ngi2	101
 譗𧫡	tah8  tih8	100
@@ -21677,6 +21656,7 @@ Palsy.	kuan3  pien1	100
 讓鬧爇	jiang2  lau7  jiet8	12
 讖言	chham3  ngan5	100
 讚美	chan3  muinn2	102
+讚美	o1  lo2	100
 豆乾	tau7  kuann1	101
 豆仁	tau7 jing5	51
 豆峇	tau7  ba5	100
@@ -21718,7 +21698,7 @@ Palsy.	kuan3  pien1	100
 豬喙	tur1  chhui3	100
 豬嘴	tur1  chhui3	50
 豬寮	tur1  liau5	100
-豬尞	tur1 liou5	100
+豬尞	tur1 liau5	100
 豬尺	tur1  chhieh4	100
 豬朥	tur1  la5	100
 豬槽	tur1  cho5	100
@@ -21746,18 +21726,18 @@ Palsy.	kuan3  pien1	100
 豺狼	chhai5  lang5	101
 豺狼	chhai5 lang5	100
 貓仔	ngiau1  kiann2	50
-貓仔	ngiou1 kiann2	50
+貓仔	ngiau1 kiann2	50
 貓呅笑	ba1  bun1  chhie3	100
 貓囝	ngiau1  kiann2	100
-貓囝	ngiou1 kiann2	100
+貓囝	ngiau1 kiann2	100
 貓母	ngiau1  bo2	100
 貓牯	ngiau1  kou2	100
 貓虎	niaunn6  hounn2	100
-貓頭鳥	ngiau1  thau5  chiau2	100
-貓頭鳥	ngiou1  thau5  chiou2	100
-貓頭鳥	ngiou1 thau5 chiou2	100
-貓鼠	ngiou2  chhur2	100
-貓鼠觸	ngiou2  chhur2  tak4	100
+貓頭鳥	ngiau1  thau5  chiau2	101
+貓頭鳥	ngiau1 thau5 chiau2	100
+貓鼠	ngiau2  chhur2	100
+貓鼠觸	ngiau2  chhur2  tak4	100
+貔貅	phinn7  hiunn1	100
 貞節	cheng1  chiet4	100
 負義	hu6  ngi6	100
 財主	chhai5  chu2	103
@@ -22113,11 +22093,11 @@ Palsy.	kuan3  pien1	100
 趭出	jiau7  chhut4	101
 趭去	jiau7  khur3	100
 趭唔着	jiau7  m7  tieh8	50
-趭唔着	jiou7 m7  tieh8	50
+趭唔着	jiau7 m7  tieh8	50
 趭掉	jiau7  tiau7	101
 趭散	jiau7  suann3	101
 趭毋着	jiau7  m7  tieh8	100
-趭毋着	jiou7 m7  tieh8	100
+趭毋着	jiau7 m7  tieh8	100
 趭着	jiau7   tieh8	100
 趭走	jiau7  chau2	100
 足成	chok4  siann5	101
@@ -22147,7 +22127,7 @@ Palsy.	kuan3  pien1	100
 跋水	puah8  chui2	100
 跋着	puah8   tieh8	101
 跋破船	puah8  phua3  chun5	101
-跋筊	puah8  kiou2	100
+跋筊	puah8  kiau2	100
 跋紙牌	puah8  chua2  pai5	101
 跋繳	puah8  kiau2	100
 跋肭塢	puah8  nap4  uh4	100
@@ -22229,7 +22209,6 @@ Palsy.	kuan3  pien1	100
 跤腸肚	kha1  tng5  tou2	12
 跤腿	kha1  thui2	14
 跤臁	kha1  liam5	13
-跤臁	kha1 liam5	12
 跤臁骨	kha1  liam5  kut4	12
 跤趾	kha1  choinn2	12
 跤趾	kha1 chi2	12
@@ -22294,7 +22273,7 @@ Palsy.	kuan3  pien1	100
 跳溪	thiau3  khoi1	100
 跳脫	thiau3  thut4	102
 跳舞	thiau3  bu2	101
-跳落	thiou3 loh8	100
+跳落	thiau3 loh8	100
 跳起來	thiau3   khi2  lai5	101
 跳躍	thiau3  iak4	101
 跳轉來	tie7  tng2   lai5	100
@@ -22351,8 +22330,9 @@ Palsy.	kuan3  pien1	100
 躁急	chhau3  kip4	100
 躇慢	thu5  man7	104
 躊想	thiu5  sienn6	100
-躊躇	thiu5  thu5	103
+躊躇	thiu5  thu5	104
 躊躇不能一決	thiu5  thu5 put4  leng5 chek8  kuat4	100
+躘蹱	phong5  pheng1	100
 躡脚行	nihnn8  kha1  kiann5	25
 躡腳行	nihnn8  kha1  kiann5	50
 躡跤行	nihnn8  kha1  kiann5	12
@@ -22447,7 +22427,6 @@ Palsy.	kuan3  pien1	100
 較久惡改	khah4  ku2 oh4  koi2	100
 較久惡攺	khah4  ku2 oh4  koi2	50
 較儉	khah4  khiam6	100
-較儉	khah4 khienn7	100
 較先	khah4  soinn1	101
 較出色	khah4  chhut4  sek4	100
 較加	khah4  ke1	100
@@ -22494,6 +22473,7 @@ Palsy.	kuan3  pien1	100
 輕慢	khin1  buan6	102
 輕慢神明	khin1  buan6 sin5  meng5	100
 輕易	khin1  koi7	100
+輕槌	khoinn2	100
 輕步	khin1  pou7	100
 輕浮	khin1  phu5	103
 輕省刑罰	khin1  senn2 heng5  huat8	100
@@ -22512,7 +22492,6 @@ Palsy.	kuan3  pien1	100
 輪囘	lun5  hue5	51
 輪回	lun5  hue5	101
 輪流	lun5  liu5	100
-輪着底誰	lun5  tieh8  ti5  tiang5	100
 輪着汝	lun5  tieh8  lur2	100
 輪着爾	lun5  tieh8  lur2	50
 輪轉	lun5  chuan2	100
@@ -22526,6 +22505,7 @@ Palsy.	kuan3  pien1	100
 轄赤跤	hak4  chhiah4  kha1	12
 轄赤骹	hak4  chhiah4  kha1	100
 轅門	uan5  mng5	100
+轇輵	kau1  kuah4	100
 轉世	chuan2  si3	100
 轉世	tng2  si3	100
 轉來	tng2   lai5	103
@@ -22555,7 +22535,6 @@ Palsy.	kuan3  pien1	100
 辟邪	phek4  sia5	100
 辟邪符	phek4  sia5  hu5	100
 辣椒	luah8  chie1	100
-辣椒	luah8 chie1	100
 辣着	luah8  tieh8	100
 辦事	phoinn7  sur7	103
 辦事	poinn7  sur7	100
@@ -22573,8 +22552,8 @@ Palsy.	kuan3  pien1	100
 辭世了	si5  si3   liau2	100
 辭別	si5  piet8	102
 辭官	si5  kuann1	102
+辭掉	si5  tiau3	102
 辭掉	si5  tiau7	102
-辭掉	si5  tiou3	102
 辭著	si5  tu3	100
 辭謝	si5  sia7	101
 辮三股	pinn6  sann1  kou2	100
@@ -22598,6 +22577,7 @@ Palsy.	kuan3  pien1	100
 迂彎缺曲	i1  uan1 khit4  khek4	100
 迂濶	u1  khuah4	51
 迂闊	u1  khuah4	101
+迍邅	thun5  chien1	100
 迎接	ngeng5  chih4	101
 迎燈	iann5  teng1	101
 迎神賽會	iann5  sin5 sai3  hue6	100
@@ -22716,6 +22696,7 @@ Palsy.	kuan3  pien1	100
 逐散	tok8  suann3	100
 逗㸃	tau7  tiam2	50
 逗留	tau1  lau5	103
+逗遛	thu5  thek4	100
 逗點	tau7  tiam2	100
 通世寶	thong1  si3  po2	100
 通事	thang3  sur7	100
@@ -22810,6 +22791,7 @@ Palsy.	kuan3  pien1	100
 遊手好閒	iu5  chhiu2 haunn3  oinn5	100
 遊樂	iu5  lak8	100
 遊玩	iu5  nguan2	102
+遊玩	thit4  tho5	100
 遊行	iu5  kiann5	100
 遊觀	iu5  kuan1	101
 遊賞	iu5  sienn2	100
@@ -22858,6 +22840,7 @@ Palsy.	kuan3  pien1	100
 過烏水	kue3  ou1  chui2	100
 過熟	kue3  sek8	100
 過犯	kue3  huam6	101
+過獎	po1  chie2	100
 過畨	kue3  huan1	53
 過番	kue3  huan1	103
 過紙	kue3  chua2	100
@@ -22916,6 +22899,7 @@ Palsy.	kuan3  pien1	100
 適情	sek4  chheng5	100
 適意	sek4  i5	100
 適遇	sek4  ngo6	101
+遭塌	tak4  nng7	100
 遮光	chia1  kng1	100
 遮床布	chia1 chhng5 pou3	100
 遮抹	chia1  buah4	100
@@ -22984,17 +22968,16 @@ Palsy.	kuan3  pien1	100
 邀我買	kiau1  ua2  boi2	100
 邀汝做匏去	kiau1  lur2 cho3  pu5  khur3	100
 邀爾做匏去	kiau1  lur2 cho3  pu5  khur3	50
-邀走	kiou1  chau2	100
+邀走	kiau1  chau2	100
 邀路	kiau1  lou7	102
-邀阿孥	kiou1 a1  nounn2	100
-還了	huan5  liau2	106
-還了	huan5  liou2	101
+邀阿孥	kiau1 a1  nounn2	100
+還了	huan5  liau2	108
 還了	huang5  liau2	100
 還了加	huan5  liau2  ke1	100
 還了唔是	huan5  liau2 m7  si6	50
 還了早	huan5  liau2  cha2	100
-還了有	huan5  liou2 u6	100
-還了未知	huan5  liou2 bue7  chai1	101
+還了有	huan5  liau2 u6	100
+還了未知	huan5  liau2 bue7  chai1	101
 還了毋是	huan5  liau2 m7  si6	100
 還人	hoinn5   nang5	100
 還人過	hoinn5  nang5  kue3	100
@@ -23019,6 +23002,7 @@ Palsy.	kuan3  pien1	100
 邊疆	pien1  kiang1	100
 邊程	pien1  theng5	100
 邋遢	lah4  tah4	100
+邋遢	lak4  thak4	100
 邋遢	lap4  thap4	100
 邋遢姿娘	lah4  tah4 chur1  nienn5	101
 邑味	ip4  bi7	100
@@ -23245,7 +23229,6 @@ Palsy.	kuan3  pien1	100
 金橄欖	kim1  kann1  nann2	101
 金沙	kim1  sua1	101
 金爐	kim1  lou5	100
-金瓜	kim1 kue1	100
 金瓿	kim1  pau6	100
 金箔	kim1  poh8	101
 金箱	kim1  sienn1	100
@@ -23327,6 +23310,7 @@ Palsy.	kuan3  pien1	100
 鉸衫	ka1  sann1	100
 鉸衫褲	ka1  sann1  khou3	100
 鉸訂	ka1  teng3	100
+鉸鉞	ka1  sut4	100
 銀兩	ngurn5  nienn2	101
 銀單	ngurn5  tuann1	107
 銀地懸	ngurn5  ti7 kuinn5	100
@@ -23422,6 +23406,7 @@ Palsy.	kuan3  pien1	100
 錄籍	lok8  chia6	101
 錐錐	chui1  chui1	100
 錙金	chur2  kim1	102
+錙銖	chi1  chu1	100
 錢㼦	chinn5  kong2	100
 錢仔	chinn5  kiann2	50
 錢使完	chinn5  sai2  uan5	100
@@ -23506,7 +23491,6 @@ Palsy.	kuan3  pien1	100
 鏡框	kiann3  khuang1	100
 鏡牀	kiann3  chhng5	50
 鏡臺	kiann3  thai5	101
-鏡臺	kiann3 thai5	100
 鏡臺格	kiann3  thai5  keh4	100
 鏡花水月	kiann3  hue1 chui2  gueh8	100
 鏢槍	pie1  chhienn1	100
@@ -23553,8 +23537,7 @@ Palsy.	kuan3  pien1	100
 鐵耙	thih4 pe5	100
 鐵脚褲	thih4  kha1  khou3	25
 鐵腳褲	thih4  kha1  khou3	50
-鐵貓	thih4  ngiau1	100
-鐵貓	thih4  ngiou1	100
+鐵貓	thih4  ngiau1	101
 鐵跤褲	thih4  kha1  khou3	12
 鐵釘	thih4  teng1	101
 鐵釺	thih4  chhiang5	100
@@ -23575,7 +23558,6 @@ Palsy.	kuan3  pien1	100
 鐵鷄翁一毛不拔	thih4  koi1  ang1 chek8  monn5 put4  poih8	50
 鐵鼻	thih4  phinn7	100
 鑄像	chu3  sienn3	100
-鑄印	chu3 in3	100
 鑄金	chu3  kim1	100
 鑄鉎	chu3  senn1	100
 鑄銀	chu3  ngurn5	100
@@ -23921,6 +23903,7 @@ Palsy.	kuan3  pien1	100
 阿姐	a1  che2	102
 阿姐	a1 che2	100
 阿姑	a1  kou1	102
+阿姑	ta1  ke1	100
 阿姨	a1  ai5	100
 阿姨	a1  i5	101
 阿姨	a1 i5	100
@@ -23957,6 +23940,7 @@ Palsy.	kuan3  pien1	100
 阿美利加	a1  muinn2  li6  kia1	100
 阿舅	a1  ku6	101
 阿舅	a1 ku6	100
+阿舅	ta1  kuann1	100
 阿舍	a1  sia3	101
 阿郎	a1  nng5	101
 阿郞	a1  nng5	51
@@ -23989,8 +23973,7 @@ Palsy.	kuan3  pien1	100
 除去	tur5  khur3	101
 除名	tur5  miann5	100
 除外	tur5  gua7	101
-除掉	tur5  tiau7	100
-除掉	tur5  tiou7	100
+除掉	tur5  tiau7	101
 除斷	tur5  tng6	100
 除此	tur5  chhur2	100
 除法	tur5  huap4	101
@@ -24168,6 +24151,7 @@ Palsy.	kuan3  pien1	100
 雜冊	chap8  chheh4	100
 雜務錢	chap8  bu6  chinn5	100
 雜物	chap8  mueh8	103
+雜物	lah4  buah8	100
 雜物單	chap8  mueh8  tuann1	100
 雜疾	chap8  chip8	100
 雜種仔	chap8  cheng2  kiann2	50
@@ -24382,6 +24366,7 @@ Palsy.	kuan3  pien1	100
 霸佔	pa3  chiam3	101
 霸王	pa3  uang5	101
 霸道	pa3  tau6	101
+霹靂	phek4  lek8	100
 靈前哭	leng5  choinn5 khau3	100
 靈動	leng5  tong6	100
 靈含	leng5  ham5	100
@@ -24421,7 +24406,6 @@ Palsy.	kuan3  pien1	100
 靑靑	chhenn1  chhenn1	51
 靑靛	chhenn1  toinn7	50
 靑面	chhenn1  min7	50
-靑面	chhenn1 min7	50
 靑面虎	chhenn1  min7  hounn2	51
 靑頭	chhenn1  thau5	50
 靑𥐥	chhenn1  huan5	6
@@ -24451,7 +24435,6 @@ Palsy.	kuan3  pien1	100
 青青	chhenn1  chhenn1	101
 青靛	chhenn1  toinn7	100
 青面	chhenn1  min7	100
-青面	chhenn1 min7	100
 青面虎	chhenn1  min7  hounn2	101
 青頭	chhenn1  thau5	100
 青𥐥	chhenn1  huan5	50
@@ -24468,7 +24451,6 @@ Palsy.	kuan3  pien1	100
 靠傍	khau3  png7	100
 靠藉	kou6  chia6	100
 靡所不爲	minn2  so2 put4  ui5	100
-面㾪	min7 san2	100
 面䩍䩍青	min7  liau1  liau1  chenn1	100
 面上	min7  chienn7	100
 面作色	min7 chak4  sek4	100
@@ -24499,9 +24481,7 @@ Palsy.	kuan3  pien1	100
 面皮猴襓	min7  phue5 kau5  jiau5	100
 面皮襓	min7  phue5  jiau5	100
 面盆	min7  phun5	102
-面盆	min7 phun5	100
 面盆架	min7  phun5  ke3	100
-面盆架	min7 phun5 ke3	100
 面相	min7  siang3	100
 面相	min7  sienn3	100
 面紅起來	min7 ang5   khi2  lai5	100
@@ -24556,6 +24536,7 @@ Palsy.	kuan3  pien1	100
 鞭索	pinn1  soh4	100
 韃仔	that4  kiann2	50
 韃囝	that4  kiann2	100
+韆鞦	chheng1  chhiu1	100
 韆鞦	chhien1  chhiu1	100
 韭菜	ku2  chhai3	101
 韭菜花	ku2  chhai3  hue1	100
@@ -24666,7 +24647,6 @@ Palsy.	kuan3  pien1	100
 頭擺	thau5  pai2	100
 頭桅	thau5  ui5	101
 頭殼	thau5  khak4	102
-頭殼	thau5 khak4	100
 頭殼光光	thau5  khak4 kng1  kng1	100
 頭殼國國叫	thau5  khak4 kok4  kok4  kie3	100
 頭殼國國呌	thau5  khak4 kok4  kok4  kie3	50
@@ -24679,7 +24659,6 @@ Palsy.	kuan3  pien1	100
 頭殼碗	thau5  khak4  uann2	101
 頭殼趴下	thau5  khak4 phak4  ke6	101
 頭殼髓	thau5  khak4  chhue2	102
-頭殼髓	thau5 khak4  chhue2	100
 頭毛	thau5  mo5	100
 頭毛	thau5  monn5	101
 頭毛	thau5 mo5	102
@@ -24726,7 +24705,7 @@ Palsy.	kuan3  pien1	100
 頷鍊	am6  lien7	100
 頷領	am6  niann2	103
 頷骨	am6  kut4	100
-頸長	kenn3 tng5	100
+頸長	am6 tng5	100
 題名	toi5  miann5	100
 題目	toi5  mak8	101
 題讚	toi5  chan3	100
@@ -24757,6 +24736,7 @@ Palsy.	kuan3  pien1	100
 顛倒頭種無半㸃墨水	tin1  to3  thau5 cheng3 bo5  puann3  tiam2 bak8  chui2	50
 顛倒頭種無半點墨水	tin1  to3  thau5 cheng3 bo5  puann3  tiam2 bak8  chui2	100
 類推	lui7  chhui1	100
+顢預	mann1  hu1	100
 顧己	ku3  ki2	100
 顧廉恥	ku3  liam5  chhi2	100
 顧心顧意	ku3  sim1 ku3  i3	100
@@ -24829,6 +24809,7 @@ Palsy.	kuan3  pien1	100
 風颱	huang1  thai1	105
 風颱	huang1 thai1	51
 風颱時風險	huang1  thai1 si6 hong1  hiam2	100
+颴颳	kau2  kann5	100
 飛懸	pue1  kuinn5	100
 飛星	pue1  chhenn1	101
 飛車	pue1  chhia1	100
@@ -24837,7 +24818,7 @@ Palsy.	kuan3  pien1	100
 食了	chiah8   liau2	101
 食了了	chiah8  liau2   liau2	100
 食了厭	chiah8   liau2 ia3	100
-食了挈洗手杯來	chiah8  liou2 khieh8 soi2  chhiu2  pue1 lai2	100
+食了挈洗手杯來	chiah8  liau2 khieh8 soi2  chhiu2  pue1 lai2	100
 食人	chiah8  nang5	100
 食人肉	chiah8  nang5  nek8	100
 食凉	chiah8  liang5	100
@@ -24937,6 +24918,7 @@ Palsy.	kuan3  pien1	100
 飯匙骨	png7  si5  kut4	100
 飯床	png7  chhng5	100
 飯未熟	png7 bue7  sek8	100
+飯水	am2	100
 飯疪	png7  phi2	100
 飯籬	png7  loi7	100
 飯粒	png7  liap8	100
@@ -25010,8 +24992,7 @@ Palsy.	kuan3  pien1	100
 香口膠	hiang1 khau2 ka1	51
 香味	phang1  bi7	100
 香壇	hienn1  tuann5	100
-香料	hienn1  liau7	102
-香料	hienn1  liou7	100
+香料	hienn1  liau7	103
 香柚	hiang1  iu7	100
 香柴	hienn1  chha5	101
 香案	hienn1  uann3	100
@@ -25066,7 +25047,7 @@ Palsy.	kuan3  pien1	100
 馬踏鐙	be2  tah8  teng3	100
 馬蹄鐵	be2  toi5  thih4	100
 馬車	be2  chhia1	103
-馬車	be2 chhia1	100
+馬車	be2 chiu1	100
 馬醫	be2  ui1	100
 馬銜鐵	be2  ham5  thih4	100
 馬鞍	be2  uann1	101
@@ -25091,12 +25072,12 @@ Palsy.	kuan3  pien1	100
 駛車	sai2  chhia1	101
 駛轉	sai2  tng2	100
 駛風	sai2  huang1	100
-駝鳥	thoh8 chiou2	100
 駭怕	hai5  phann3	100
 駭怕	hai6  phann3	100
 駭異	hai6  i6	103
 駭異人个耳目	hai6  i6 nang5 kai5 jur2  mak8	100
 駭異難測	hai6  i6 lan5  chhek4	100
+駱駝	loh8  thoh4	100
 駱駝	loh8  thoh8	102
 騎兵	khia5  piann1	100
 騎坐	khia5  cho6	100
@@ -25180,6 +25161,7 @@ Palsy.	kuan3  pien1	100
 驚着人	kiann1  tieh8  nang5	101
 驚破膽	kiann1  phua3  tann2	100
 驚硬	kiann1  khiu7	100
+驚蟄	keng1  tek8	100
 驚蟄	keng1 tek8	51
 驚醒	kiann1  chhenn2	100
 驚風	kiann1  huang1	100
@@ -25205,11 +25187,13 @@ Palsy.	kuan3  pien1	100
 骨鬥轉	kut4 tau3  tng2	100
 骨鬦落碪	kut4 tau3  loh8  ngam2	50
 骨鬦轉	kut4 tau3  tng2	50
+骯髒	am1  cham1	100
 骰仔	tau5  kiann2	50
 骰仔盒	tau5  kiann2  ap8	50
 骰囝	tau5  kiann2	100
 骰囝盒	tau5  kiann2  ap8	100
 骷骨	kou2  kut4	100
+骷髏	kou1  lou5	100
 骹倉	kha1  chhng1	101
 骹倉板	kha1  chhng1  poinn2	101
 骹刺着栓	kha1 chhiah4   tieh8 chhuann1	100
@@ -25260,7 +25244,6 @@ Palsy.	kuan3  pien1	100
 骹腿	kha1  thui2	102
 骹臁	kha1  liam5	101
 骹臁	kha1  niam5	100
-骹臁	kha1 liam5	100
 骹臁骨	kha1  liam5  kut4	100
 骹趾	kha1  choinn2	100
 骹趾	kha1 chi2	100
@@ -25322,6 +25305,7 @@ Palsy.	kuan3  pien1	100
 高麗菜	ko1  le5  chhai3	100
 髧眉	tam3 bai7	51
 髮妻	huat4  chhi1	100
+髼鬆	la5  pha3	100
 鬆濶	sang1  khuann3	50
 鬆粉	sang1  hun2	100
 鬆繚	sang1  liau5	100
@@ -25369,7 +25353,7 @@ Palsy.	kuan3  pien1	100
 鬧爇	lau7  jiet8	59
 鬧爇地方	lau7  jiet8 ti7  hng1	50
 鬧爇急迫	lau7  jiet8 kip4  pek4	50
-鬮數	khou1  siou3	100
+鬮數	khou1  siau3	100
 鬱卒	ut4  chut8	100
 鬱悶	ut4  bun7	101
 鬱意	ut4  i3	100
@@ -25416,7 +25400,6 @@ Palsy.	kuan3  pien1	100
 魚鱗	hur5  lang5	100
 魚鱗赘	hur5  lang5  chue3	101
 魚鴉	hur5  a1	101
-魚鴉	hur5 a1	100
 魟魚	hang1  hur5	100
 魯鈍	lu2  tun6	103
 魴龜	hang1  ku1	100
@@ -25446,10 +25429,8 @@ Palsy.	kuan3  pien1	100
 鱷魚	ngak8 hur5	100
 鳥仔	chiau2  kiann2	51
 鳥啄	chiau2 toh4	100
-鳥喙	chiau2  chhui3	101
-鳥喙	chiou2  chhui3	100
-鳥嘴	chiau2  chhui3	51
-鳥嘴	chiou2  chhui3	50
+鳥喙	chiau2  chhui3	102
+鳥嘴	chiau2  chhui3	52
 鳥囝	chiau2  kiann2	101
 鳥媒	chiau2  bue5	100
 鳥岫	chiau2  siu7	100
@@ -25468,7 +25449,6 @@ Palsy.	kuan3  pien1	100
 鳥頭	chiau2  thau5	100
 鳥骹	chiau2  kha1	100
 鳥黐	chiau2  thi1	100
-鳥鼠	niau2 chhur2	100
 鳥鼠	niaunn2  chhur2	101
 鳥鼠弓	niaunn2  chhur2  keng1	100
 鳥鼠籠	niau2  chhur2  lang5	100
@@ -25486,9 +25466,9 @@ Palsy.	kuan3  pien1	100
 鴉片癮	a1  phien3  ngien3	101
 鴉片膏	a1  phien3  ko1	100
 鴉片鬼	a1  phien3  kui2	100
-鴒鳥	leng5 chiou2	100
+鴒鳥	leng5 chiau2	100
 鴕鳥	tho5  chiau2	100
-鴨公	ah4 kang1	100
+鴛鴦	uan1  ienn1	100
 鴨攝	ah4  nih4	100
 鴨母	ah4  bo2	100
 鴨母𥺴	ah4 bo2 liem3	50
@@ -25505,7 +25485,8 @@ Palsy.	kuan3  pien1	100
 鵝絨	go5  jong5	100
 鵝雄	go5  heng5	100
 鵪鶉	an1 chhun1	100
-鵪鶉	ang1  chhun1	100
+鵪鶉	ang1  chhun1	101
+鵪鶉	lou7  thun5	100
 鵰刀	tiau1  to1	50
 鵰刻	tiau1  khek4	51
 鵰割	tiau1  kuah4	51
@@ -25586,12 +25567,16 @@ Palsy.	kuan3  pien1	100
 鷹婆	eng1  po5	100
 鷹架	in1  ke3	100
 鷹鳥	eng1  chiau2	101
+鷺鷥	liau6  si1	100
+鸂鶒	koi1  thek4	100
 鸕鶉	lou7  thun5	100
 鸕鶿	lou5  ji5	100
 鸚哥	eng1 ko1	100
 鸚歌	eng1  ko1	101
 鸚鵡	eng1  bu2	100
 鸛嘴	kuan3  sui2	100
+鸜鵒	khur5  kok4	100
+鸜鵒	khur5  kok4  ngan2	100
 鹪鹩	chiau1  liau5	100
 鹹參	kiam5  siam1	100
 鹹參寒	kiam5  siam1  kuann5	101
@@ -25610,8 +25595,7 @@ Palsy.	kuan3  pien1	100
 鹽場	iam5  tienn5	100
 鹽塲	iam5  tienn5	50
 鹽滷	iam5  lou2	100
-鹽硝	iam5  siau1	100
-鹽硝	iam5  siou1	100
+鹽硝	iam5  siau1	101
 鹽碟	iam5  tih8	101
 鹽精	iam5  cheng1	100
 鹿仔	tek8  kiann2	50
@@ -25623,6 +25607,7 @@ Palsy.	kuan3  pien1	100
 鹿脯	tek8  pou2	100
 鹿茸	tek8  jong5	102
 鹿角	tek8  kak4	101
+麒麟	khi5  lin5	100
 麝狗	sia5  kau2	100
 麝狗	sia7  kau2	100
 麝香	sia5  hienn1	100
@@ -25668,8 +25653,7 @@ Palsy.	kuan3  pien1	100
 麻袋	muann5  to7	100
 麻雀	ma5 chiah4	100
 麻雀	muann5  chiah4	100
-麻雀鳥	muann5  chiah4  chiau2	100
-麻雀鳥	muann5  chiah4  chiou2	100
+麻雀鳥	muann5  chiah4  chiau2	101
 麻風	muann5  huang1	100
 黃旗國	ng5  ki5  kok4	100
 黃昏	hann2  hun1	102
@@ -25715,7 +25699,7 @@ Palsy.	kuan3  pien1	100
 默誦	mit8  song6	100
 默默無言	mit8  mit8 bo5  ngan5	100
 黜官	thut4  kuann1	100
-黜掉	lut4  tiou7	100
+黜掉	lut4  tiau7	100
 黜職	thut4  cheh4	105
 點仔	tiam2  kiann2	55
 點卯	tiam2  bau2	100
@@ -25796,6 +25780,7 @@ Palsy.	kuan3  pien1	100
 齒蛀掉	khi2 chu3  tiau7	100
 齒軟	khi2 nng2	101
 齒齦	khi2  ngurn5	102
+齷齪	ok4  chhok4	100
 龍位	leng5  ui7	101
 龍捲水	leng5 kauh4  chui2	100
 龍眼	nek8  oinn2	100
@@ -25875,7 +25860,7 @@ Palsy.	kuan3  pien1	100
 𠀾賺	boi6  tann7	51
 𠀾通	boi6  thong1	50
 𠀾過分	boi6  kue3  hun7	50
-𠀾銷	boi6  siou1	50
+𠀾銷	boi6  siau1	50
 𠀾降	boi6  kang3	50
 𠀾陽	boi6  iang5	50
 𠀾食	boi6  chiah8	51
@@ -25893,6 +25878,7 @@ Palsy.	kuan3  pien1	100
 𠢕阿娘	gau5  a1  nienn5	50
 𡆴入被底	nng3   jip8 phue6  toi2	100
 𡆴空	nng3  khang1	100
+𡼿屼	lut8  sut8	100
 𢅎浮	kiau2  phu5	100
 𢅎浮	piau2  phu5	100
 𢅎浮塞帶	kiau2  phu5 soih4  tua7	100
@@ -25967,8 +25953,7 @@ Palsy.	kuan3  pien1	100
 𮅕埋	sng3  bua5	50
 𮅕得出	sng3  tit4  chhut4	50
 𮅕摩	sng3  bua5	50
-𮅕數	sng3  siau3	53
-𮅕數	sng3  siou3	50
+𮅕數	sng3  siau3	54
 𮅕歇	sng3  hiah4	52
 𮅕毋了	sng3  m7  liau2	26
 𮅕毋別地去	sng3 m7  pat4 to3  khur3	27

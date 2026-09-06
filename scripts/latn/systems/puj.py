@@ -24,6 +24,8 @@ Tone Mark Rules (from Handbook of the Swatow Vernacular 語料庫分析)
   ua̍h, ue̍h, ia̍h, ie̍h, aih→i, oih→o, auh→u
 """
 
+from __future__ import annotations
+
 import re
 import unicodedata
 

@@ -1,4 +1,5 @@
 import unittest
+from scripts.latn import create_translator
 from scripts.tests.test_latn_translator_base import TranslatorTestBase
 
 
@@ -58,6 +59,22 @@ class TestPOJToTL(TranslatorTestBase):
                 ("chha̍p", "tsha̍p"),
                 ("chha̍t", "tsha̍t"),
             ]
+        )
+
+    def test_checked_oan_forms_keep_stop_final(self):
+        self.assert_round_trip(
+            [
+                ("hoat", "huat"),
+                ("koat", "kuat"),
+                ("boa̍t", "bua̍t"),
+            ]
+        )
+
+    def test_checked_oan_form_latn_norm(self):
+        translator = create_translator("POJ", "LATN_NORM")
+        self.assertEqual(
+            translator.translate("an-chēng liâu-hoat"),
+            "an1-cheng7 liau5-huat4",
         )
 
     def test_sentences(self):

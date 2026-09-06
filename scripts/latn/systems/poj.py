@@ -79,6 +79,11 @@ SYSTEM_NAME = "POJ"
 def create_latn_norm_mapping() -> PhoneticMapping:
     return PhoneticMapping(
         vowel_map={"oo": "ou", "oa": "ua", "oe": "ue"},
+        ending_map={
+            "n": lambda ending, tone: "t" if tone in (4, 8) else ending,
+            "m": lambda ending, tone: "p" if tone in (4, 8) else ending,
+            "ng": lambda ending, tone: "k" if tone in (4, 8) else ending,
+        },
     )
 
 

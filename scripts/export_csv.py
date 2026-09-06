@@ -7,6 +7,8 @@ scripts/processors/{stem}.py. If found, extracts structured
 entries and writes them to CSV.
 """
 
+from __future__ import annotations
+
 import csv
 import argparse
 import importlib
@@ -14,10 +16,10 @@ import re
 import sys
 from pathlib import Path
 
-from scripts.punctuation import normalize_english_gloss, normalize_roman_reading
-
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
+
+from scripts.punctuation import normalize_english_gloss, normalize_roman_reading
 
 _ILLEGIBLE_RE = re.compile(r"\[illegible[0-9]*\]", re.IGNORECASE)
 
@@ -72,7 +74,12 @@ def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
     parser.add_argument(
         "--preserve-order",
         action="store_true",
-        help="write entries in processor order instead of sorting by reading",
+        help="write entries in processor order (default)",
+    )
+    parser.add_argument(
+        "--sort-by-page",
+        action="store_true",
+        help="sort entries by numeric page number instead of preserving processor order",
     )
     return parser.parse_args(argv)
 
@@ -87,9 +94,14 @@ def resolve_books(stems: list[str], books_dir: Path) -> list[Path]:
     return paths
 
 
+def _page_sort_key(entry) -> tuple[int, int]:
+    page_num = str(getattr(entry, "page_num", "")).strip()
+    return (0, int(page_num)) if page_num.isdigit() else (1, 0)
+
+
 def order_entries(entries: list, preserve_order: bool) -> list:
     if not preserve_order:
-        entries.sort(key=lambda entry: (entry.puj or entry.poj or "").lower())
+        entries.sort(key=_page_sort_key)
     return entries
 
 
@@ -157,7 +169,7 @@ def main(argv: list[str] | None = None):
             ]
             for entry in entries:
                 normalize_entry_punctuation(entry)
-            order_entries(entries, args.preserve_order)
+            order_entries(entries, args.preserve_order or not args.sort_by_page)
 
             csv_path = out_dir / f"{md_file.stem}.csv"
             with open(csv_path, "w", newline="", encoding="utf-8") as f:
