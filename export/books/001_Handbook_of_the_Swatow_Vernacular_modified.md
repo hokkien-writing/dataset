@@ -221,24 +221,24 @@ Errata in the Dictionary.
 
 ### Lesson II.
 
-- **此塊** Chí-kò, chié ... ... ... Here.
-- **彼塊** Hṳ́-kò, hié ... ... ... There.
+- **只塊** Chí-kò, chié ... ... ... Here.
+- **許塊** Hṳ́-kò, hié ... ... ... There.
 - **底塊** Tî-kò ... ... ... Where?
 - **底當時  底時** Tiang-sî; tî-sî ... ... ... When?
-- **此個** Chí-kâi; chiá ... ... ... This.
-- **彼個** Hṳ́-kâi; hiá ... ... ... That.
+- **只個** Chí-kâi; chiá ... ... ... This.
+- **許個** Hṳ́-kâi; hiá ... ... ... That.
 - **底一個  底個** Tî-chék-kâi; tî-kâi ... ... ... Which?
 - **底個  是乜** Tî-kâi; sĩ-mih ... ... ... What?
 <!-- page:19 -->
-- **怎呢** Tsò-nîⁿ ... ... ... Why?
+- **做呢** Tsò-nîⁿ ... ... ... Why?
 - **因爲** In-ûi ... ... ... Because, on account of.
 - **底誰** Tî-tiâng ... ... ... Who?
 - **底誰个** Tî-tiâng-kâi ... ... ... Whose?
 - **此些个** Chí-chùaⁿ-kâi ... ... ... These.
 - **彼些个** Hṳ́-chùaⁿ-kâi ... ... ... Those.
-- **怎呢  若** Tsò-nîⁿ, jiéh ... ... ... How?
-- **此樣生** Chièⁿ-seⁿ ... ... ... Like this, thus.
-- **彼樣生** Hièⁿ-seⁿ ... ... ... Like that.
+- **做呢  若** Tsò-nîⁿ, jiéh ... ... ... How?
+- **只樣生** Chièⁿ-seⁿ ... ... ... Like this, thus.
+- **許樣生** Hièⁿ-seⁿ ... ... ... Like that.
 - **了** Lióu ... ... ... Then.
 - **就** Chiũ ... ... ... Thereupon.
 - **還了** Huân-lióu ... ... ... Still.
@@ -264,49 +264,49 @@ Errata in the Dictionary.
 
 ### Lesson III. Exercises.
 
-- **我在此塊** Uá tõ chí-kò ... ... ... I am here,
-- **汝在彼塊** Lṳ́ tõ hṳ́-kò ... ... ... You are there.
+- **我在只塊** Uá tõ chí-kò ... ... ... I am here,
+- **汝在許塊** Lṳ́ tõ hṳ́-kò ... ... ... You are there.
 - **伊在底塊** I tõ tî-kò? ... ... ... Where is he?
 - **恁底當時去** Nín tiang-sî khṳ̀? ... ... ... When did you go?
-- **此個是底個** Chí-kâi sĩ tî-kâi? ... ... ... What is this?
-- **彼個我勿** Hṳ́-kâi uá màiⁿ ... ... ... I don't want that one.
+- **只個是底個** Chí-kâi sĩ tî-kâi? ... ... ... What is this?
+- **許個我勿** Hṳ́-kâi uá màiⁿ ... ... ... I don't want that one.
 - **汝愛底一個** Lṳ́ àiⁿ tî-chék-kâi? ... ... ... Which do you want?
 <!-- page:21 -->
 - **汝愛底個** Lṳ́ àiⁿ tî-kâi? ... ... ... What do you want?
-- **伊怎呢無來** I tsò-nîⁿ bô-lâi? ... ... ... Why did he not come?
-- **是因爲怎呢** Sĩ in-ûi tsò-nîⁿ? ... ... ... For what reason?
+- **伊做呢無來** I tsò-nîⁿ bô-lâi? ... ... ... Why did he not come?
+- **是因爲做呢** Sĩ in-ûi tsò-nîⁿ? ... ... ... For what reason?
 - **汝是底誰** Lṳ́ sĩ tî-tiâng? ... ... ... Who are you?
 - **此是底誰个** Chiá sĩ tî-tiâng-kâi? ... ... ... Whose is this?
 - **此些个毋是** Chí-chùaⁿ-kâi m̄-sĩ ... ... ... These are not them.
 - **彼些个是咩** Hṳ́-chùaⁿ-kâi sĩ--mē? ... ... ... Are those them?
 - **汝有若㩼** Lṳ́ ũ jiéh-tsōi? ... ... ... How much have you?
 - **汝有若㩼個** Lṳ́ ũ jiéh-tsōi kâi? ... ... ... How many have you?
-- **是此樣生** Sĩ chièⁿ-seⁿ ... ... ... It is like this.
-- **毋是彼樣生** M̄-sĩ hièⁿ-seⁿ ... ... ... Not like that.
+- **是只樣生** Sĩ chièⁿ-seⁿ ... ... ... It is like this.
+- **毋是許樣生** M̄-sĩ hièⁿ-seⁿ ... ... ... Not like that.
 
 ---
 
 
 - **伊還了未去** I huân-lióu būe-khṳ̀ ... ... ... He hasn't gone yet.
-- **此個佮彼個** Chí-kâi kah hṳ́-kâi ... ... ... This one and that one.
+- **只個佮許個** Chí-kâi kah hṳ́-kâi ... ... ... This one and that one.
 - **此毋是** Chía m̄-sĩ ... ... ... This is not it.
 - **彼就是** Hiá chiũ-sĩ ... ... ... That is it.
 - **汝亦有** Lṳ́ iā ũ ... ... ... You have got it too.
 - **從底塊到底塊** Tshông tî-kò kàu tî-kò? ... ... ... From where to where?
-- **在此塊到彼塊** Tõ chí-kò kàu hṳ́-kò ... ... ... From here to there.
+- **在只塊到許塊** Tõ chí-kò kàu hṳ́-kò ... ... ... From here to there.
 - **或者無** Pa-lak bô ... ... ... Perhaps not.
 <!-- page:22 -->
 - **汝有亞無** Lṳ́ ũ a-bô? ... ... ... Have you or have you not? did you or did you not?
 - **我無** Uá bô ... ... ... I havn't; I did not.
 - **汝有去咩** Lṳ́ ũ-khṳ̀ mē? ... ... ... Did you go?
 - **無** Bô ... ... ... No.
-- **怎呢無呢** Tsò-nîⁿ bô--nē? ... ... ... Why not?
+- **做呢無呢** Tsò-nîⁿ bô--nē? ... ... ... Why not?
 - **因爲我毋去** In-ûi uá m̄-khṳ̀ ... ... ... Because I don't want to go.
-- **此個是我个** Chí-kâi sĩ uá-kâi ... ... ... This is mine.
+- **只個是我个** Chí-kâi sĩ uá-kâi ... ... ... This is mine.
 - **毋是汝个** M̄-sĩ lṳ́-kâi ... ... ... It isn't yours.
 - **是伊个** Si i-kâi ... ... ... It is his.
-- **汝个毋是此樣生** Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ ... ... ... Yours is not like his.
-- **伊个是此樣生** I kâi sĩ chièⁿ-seⁿ ... ... ... His is like this.
+- **汝个毋是只樣生** Lṳ́-kâi m̄-sĩ chièⁿ-seⁿ ... ... ... Yours is not like his.
+- **伊个是只樣生** I kâi sĩ chièⁿ-seⁿ ... ... ... His is like this.
 
 ------
 
@@ -490,8 +490,8 @@ Errata in the Dictionary.
 <!-- page:31 -->
 - **我毋知** Uá m̄-tsai ... ... ... I don't know.
 - **我毋信汝** Uá m̄-sìn lṳ́ ... ... ... I don't believe you.
-- **汝怎呢毋信我** Lṳ́ tsò-nîⁿ m̄-sìn uá? ... ... ... Why don't you believe me?
-- **彼個挈來** Hṳ́-kâi khiéh--lâi ... ... ... Bring me that.
+- **汝做呢毋信我** Lṳ́ tsò-nîⁿ m̄-sìn uá? ... ... ... Why don't you believe me?
+- **許個挈來** Hṳ́-kâi khiéh--lâi ... ... ... Bring me that.
 - **筅** Tshóiⁿ ... ... ... Brush it.
 - **筅好挈來** Tshóiⁿ-hó khiéh--lâi ... ... ... After you have brushed it, bring it to me.
 - **此買有亞無** Chía bói-ũ a-bô? ... ... ... Is there any of this to be bought?
@@ -505,22 +505,22 @@ Errata in the Dictionary.
 
 #### section II.
 
-- **此個我勿。我愛換** Chí--kâi uá màiⁿ, uá àiⁿ-ūaⁿ ... ... ... I don't want a change.
+- **只個我勿。我愛換** Chí--kâi uá màiⁿ, uá àiⁿ-ūaⁿ ... ... ... I don't want a change.
 - **汝去趭伊** Lṳ́ khṳ̀-jiōu i ... ... ... You go and chase him.
 - **趭毋着** Jiōu m̄-tièh ... ... ... Can't overtake him.
 - **汝走就趭會着** Lṳ́ tsáu chiũ-jiōu õi-tièh ... ... ... If you run, you will overtake him.
 <!-- page:32 -->
 - **汝勿騙我** Lṳ́ màiⁿ-phièn uá ... ... ... Don't you deceive me.
 - **汝愛選底一個** Lṳ́ àiⁿ-suán tî-chék-kâi? ... ... ... Which do you wish to choose?
-- **此個物清潔** Chí--kâi muéh-chheng-khih ... ... ... Clean this.
-- **此個挈去煮** Chí--kâi khiéh-khṳ̀ tsṳ́ ... ... ... Take this and cook it.
+- **只個物清潔** Chí--kâi muéh-chheng-khih ... ... ... Clean this.
+- **只個挈去煮** Chí--kâi khiéh-khṳ̀ tsṳ́ ... ... ... Take this and cook it.
 - **汝曉算咩** Lṳ́ hióu-sǹg mē? ... ... ... Can you count?
 - **我毋曉** Uá m̄-hióu ... ... ... I can't.
 - **勿哭** Màiⁿ-khàu ... ... ... Don't cry.
 - **伊敢去咩** I káⁿ-khṳ́ mē? ... ... ... Does he dare to go?
 - **伊毋敢** I m̄-káⁿ ... ... ... He dare not.
 - **伊袂食** I bõi-chiáh ... ... ... He can't eat.
-- **怎呢袂食** Tsò-nîⁿ bõi-chiáh ... ... ... Why can't he eat?
+- **做呢袂食** Tsò-nîⁿ bõi-chiáh ... ... ... Why can't he eat?
 - **我毋知** Uá m̄-tsai ... ... ... I don't know.
 - **入來** Jíp--lâi ... ... ... Come in.
 - **出去** Tshut--khṳ̀ ... ... ... Go out.
@@ -529,7 +529,7 @@ Errata in the Dictionary.
 
 #### section III.
 
-- **彼個挈分我** Hiá khiéh-pun uá ... ... ... Get me that.
+- **許個挈分我** Hiá khiéh-pun uá ... ... ... Get me that.
 <!-- page:33 -->
 - **底個** Tî-kâi ... ... ... What is it?
 - **是此亞毋是** Sĩ chiá a m̄-sĩ? ... ... ... Is this it?
@@ -542,7 +542,7 @@ Errata in the Dictionary.
 - **伊會死咩** I õi sí mē? ... ... ... Will he die?
 - **我想伊會** Uá siẽⁿ i õi. ... ... ... I think he will.
 - **我聽見伊哭** Uá thiaⁿ-kìⁿ i khàu ... ... ... I heard him cry.
-- **此個挈去囥** Chí--kâi khiéh-khṳ̀ khǹg ... ... ... Take this and keep it.
+- **只個挈去囥** Chí--kâi khiéh-khṳ̀ khǹg ... ... ... Take this and keep it.
 - **跪落去** Kũi--lóh-khṳ̀ ... ... ... Kneel down.
 - **起來** Khí--lâi ... ... ... Get up.
 - **勿笑** Màiⁿ-chhiè ... ... ... Don't laugh.
@@ -550,11 +550,11 @@ Errata in the Dictionary.
 - **我知伊在底塊徛起** Uá tsai i tõ tî-kò khiã-khí ... ... ... I know where he lives.
 - **伊毋作。愛歇** I m̄-tsoh, àiⁿ-hiah ... ... ... He doesn't want to work, (but) wants to leave.
 - **汝去佮伊呾勿歇** Lṳ́ khṳ̀ kah i tàⁿ, màiⁿ-hiah ... ... ... You go and tell him not to leave.
-- **此個借我** Chí--kâi chieh uá ... ... ... Lend me this.
+- **只個借我** Chí--kâi chieh uá ... ... ... Lend me this.
 - **袂使** Bõi-sái ... ... ... That won't do.
 <!-- page:34 -->
 - **我家己愛用** Uá ka-kī àiⁿ-ēng ... ... ... I want to use it myself.
-- **此我毋曉怎呢物** Chiá uá m̄-hióu tsò-nîⁿ muéh ... ... ... I don't understand how to do this.
+- **此我毋曉做呢物** Chiá uá m̄-hióu tsò-nîⁿ muéh ... ... ... I don't understand how to do this.
 - **請汝佮我呾** Chhiáⁿ lṳ́ kah uá tàⁿ ... ... ... Please tell me.
 - **來去佚佗** Lâi-khṳ̀ thit-thô ... ... ... Come let us go out to amuse ourselves.
 - **咱勿對彼過** Nán màiⁿ tùi-hié kùe ... ... ... Let us not pass by that way.
@@ -563,7 +563,7 @@ Errata in the Dictionary.
 
 #### section IV.
 
-- **此個送汝** Chí--kâi sàng lṳ́ ... ... ... This is presented to you.
+- **只個送汝** Chí--kâi sàng lṳ́ ... ... ... This is presented to you.
 - **請汝收** Chhiáⁿ lṳ́ siu ... ... ... Please accept it.
 - **感謝** Kám-siā ... ... ... Thank you.
 - **放此** Pàng--chié ... ... ... Put it here.
@@ -583,7 +583,7 @@ Errata in the Dictionary.
 - **汝若是愛搬。請汝佮我呾** Lṳ́ nāⁿ-sĩ àiⁿ-puaⁿ chhíaⁿ lṳ́ kah uá tàⁿ ... ... ... If you are going to remove, please tell me.
 - **伊轉來亞未** I tńg--lâi a-būe? ... ... ... Has he come home?
 - **未** Būe ... ... ... He hasn't.
-- **此個挈去還伊** Chí--kâi khiéh-khṳ̀ hôiⁿ i ... ... ... Take this, go and return it to him.
+- **只個挈去還伊** Chí--kâi khiéh-khṳ̀ hôiⁿ i ... ... ... Take this, go and return it to him.
 - **汝有覓咩** Lṳ́ ũ tshūe mē? ... ... ... Did you search for it?
 - **有。我覓無** Ũ. Uá tshūe bô ... ... ... Yes. I searched, but I couldn't find it.
 - **徛起來** Khiã--khí-lâi ... ... ... Stand up.
@@ -592,7 +592,7 @@ Errata in the Dictionary.
 - **伊來巡汝** I lâi-sûn lṳ́ ... ... ... He comes to visit you.
 - **請等** Chhiáⁿ-tán ... ... ... Just wait please.
 - **好** Hó ... ... ... Very Well.
-- **此個勿。捔掉** Chiá màiⁿ, kák-tiòu ... ... ... This is not wanted, throw it away.
+- **只個勿。捔掉** Chiá màiⁿ, kák-tiòu ... ... ... This is not wanted, throw it away.
 - **我袂寫** Uá bõi-siá ... ... ... I can't write.
 
 ------
@@ -807,7 +807,7 @@ Errata in the Dictionary.
 
 - **日出亞未** Jít tshut a-būe? ... ... ... Has the sun risen?
 - **未** Būe ... ... ... Not yet.
-- **月無日彼樣光** Guéh bô jít hièⁿ-kng ... ... ... The moon is not so bright as the sun.
+- **月無日向光** Guéh bô jít hièⁿ-kng ... ... ... The moon is not so bright as the sun.
 - **月在浮** Guéh tõ phû ... ... ... The moon is rising.
 - **寬寬危** Khuaⁿ-khuaⁿ kûiⁿ ... ... ... It is getting higher and higher by degrees.
 - **星灼灼熠** Chheⁿ iáp-iáp-sih ... ... ... The stars are twinkling.
@@ -851,18 +851,18 @@ Errata in the Dictionary.
 
 - **冰霜是寒在** Piaⁿ-sng sĩ ngân-tsãi ... ... ... Ice is very cold?
 - **雪敢是愈寒** Soh kàⁿ-sĩ zú-ngân ... ... ... Snow is perhaps colder.
-- **咱此塊罕得有雪** Nán--chié hán--tit ũ soh ... ... ... We seldom have snow at our place here.
+- **咱只塊罕得有雪** Nán--chié hán--tit ũ soh ... ... ... We seldom have snow at our place here.
 - **日一出濛煙就散** Jít chék-ē tshut mông-in chiũ-sùaⁿ ... ... ... When the sun rises the mist disperses.
 - **樹無露水袂活** Chhiū bô lōu-tsúi bõi-uáh ... ... ... The trees will not grow without dew.
 <!-- page:48 -->
-- **酷久咱此塊毋識[訓]有落雹** Hoh-kú nán--chié m̄-pat ũ lóh-phák ... ... ... For a long time we have not had hail here.
+- **酷久咱只塊毋識[訓]有落雹** Hoh-kú nán--chié m̄-pat ũ lóh-phák ... ... ... For a long time we have not had hail here.
 - **冬天磽囝人[訓]是淒慘** Tang--thiⁿ khiou-kiáⁿ nâng sĩ chhi-tshám ... ... ... In Winter the poor are miserable.
 - **富个人[訓]哩穿燒** Pù--kâi-nâng li chhēng-sie ... ... ... But the rich are warmly clad.
 - **冬天凊在** Tang--thiⁿ chhin-tsãi ... ... ... In Winter it is very cold.
 - **夏天就熱** Hē--thiⁿ chiũ-zuáh ... ... ... But in Summer it is hot.
 - **一年有四季** Chék-nîⁿ ũ sì-khùi ... ... ... There are four seasons in a year.
-- **在祖家夏天無此塊彼樣熱** Tõ Tsóu-ke Hē--thiⁿ bô chié hièⁿ-zuáh ... ... ... In England the Summer is not so hot as here.
-- **冬天愈凊此處** Tang--thiⁿ zú-chhìn chié ... ... ... In Winter it is colder than here.
+- **在祖家夏天無只塊向熱** Tõ Tsóu-ke Hē--thiⁿ bô chié hièⁿ-zuáh ... ... ... In England the Summer is not so hot as here.
+- **冬天愈凊只塊** Tang--thiⁿ zú-chhìn chié ... ... ... In Winter it is colder than here.
 - **在祖家一年春天是上好** Tõ tsóu-ke chék-nîⁿ Tshun--thiⁿ sĩ siãng-hó ... ... ... In England Spring is the best of the year.
 - **春天到來草攏總發** Tshun--thiⁿ kàu--lâi, tsháu lóng-tsóng huat ... ... ... When Spring comes, all the grass grow.
 
@@ -890,7 +890,7 @@ Errata in the Dictionary.
 - **眠起有人[訓]來亞無** Mêng-khí ũ nâng lâi a-bô? ... ... ... Did any body come this morning?
 - **汝知亞毋知** Lṳ́ tsai a m̄-tsai? ... ... ... Do you know or not?
 - **我毋知** Uá m̄-tsai. ... ... ... I don't know.
-- **日晝我毋在此塊食** Jít-tàu uá m̄-tõ chié chiáh. ... ... ... I am not going to take dinner here at noon.
+- **日晝我毋在只塊食** Jít-tàu uá m̄-tõ chié chiáh. ... ... ... I am not going to take dinner here at noon.
 - **我日晝愛去乞人[訓]請** Uá jít-tàu àiⁿ-khṳ̀ khoih-nâng-chhiáⁿ ... ... ... I am invited out for noon.
 - **汝底當時正愛轉來** Lṳ́ tiang-sî chiàⁿ-àiⁿ tńg--lâi? ... ... ... When will you come back?
 - **夜昏正轉來** Mêⁿ-hng chiàⁿ-tńg--lâi ... ... ... I shall not be back until to-night.
@@ -904,8 +904,8 @@ Errata in the Dictionary.
 - **伊日旰作。夜旰亦作** I jít--kùa tsoh, mêⁿ--kùa iā tsoh ... ... ... He worked in the day, and he also worked in the night.
 - **伊个工是重在** I kái khang-khùe sĩ tàng-tsãi ... ... ... His work is very heavy.
 - **日未暗** Jít būe-àm ... ... ... It is not yet dark.
-- **汝夗到日彼樣晏正走起** Lṳ́ út-kàu jít hièⁿ-uàⁿ chiàⁿ-tsáu-khí ... ... ... You have slept far into the day, before you got up.
-- **下日汝毋孬夗到彼樣晏** Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ ... ... ... For the future, you must not sleep so late into the day.
+- **汝夗到日向晏正走起** Lṳ́ út-kàu jít hièⁿ-uàⁿ chiàⁿ-tsáu-khí ... ... ... You have slept far into the day, before you got up.
+- **下日汝毋孬夗到向晏** Ê-jít lṳ́ m̄-móⁿ út-kàu-hièⁿ uàⁿ ... ... ... For the future, you must not sleep so late into the day.
 - **日暗着去夗** Jít àm tiéh khṳ̀-út ... ... ... When it is late at night, you must go to bed.
 - **勿到半夜正去夗** Màiⁿ-kàu puàⁿ-méⁿ chiàⁿ-khṳ̀-út ... ... ... Don't let it be midnight before you go to bed.
 - **三更半夜勿去口** Saⁿ-keⁿ puàⁿ-mêⁿ màiⁿ-khṳ̀-kháu ... ... ... Don't go out at such a late hour at night.
@@ -950,11 +950,11 @@ Errata in the Dictionary.
 - **後日我就轉來** Aũ--jít uá chiũ tńg--lâi ... ... ... I shall be back the day after tomorrow.
 - **我次次來到覓汝毋在** Uá tsūa-tsūa lâi-kàu tshūe lṳ́ m̄-tõ ... ... ... On every occasion of my coming, I could not find you.
 - **我昨日來。昨夜亦來** Uá tsa-jít lâi, tsa-mêⁿ iā lâi ... ... ... I came yesterday, and last night as well.
-- **伊終久是此樣生** I tsong-kú sĩ chièⁿ-seⁿ ... ... ... He is always like this.
+- **伊終久是只樣生** I tsong-kú sĩ chièⁿ-seⁿ ... ... ... He is always like this.
 - **伊是惰。做事凊彩做** I sĩ tuãⁿ, tsò-sṳ̄ chhìn-tshái tsò ... ... ... He is idle, and does things carelessly.
-- **汝下日毋孬此樣生** Lṳ́ ẽ-jít m̄-móⁿ chièⁿ-seⁿ ... ... ... You must not be like this for the future.
-- **汝着此樣生物** Lṳ́ tiéh chièⁿ-seⁿ muéh ... ... ... You must do it like this.
-- **着記得日日着此樣生** Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ ... ... ... You must remember, and every day do like this.
+- **汝下日毋孬只樣生** Lṳ́ ẽ-jít m̄-móⁿ chièⁿ-seⁿ ... ... ... You must not be like this for the future.
+- **汝着只樣生物** Lṳ́ tiéh chièⁿ-seⁿ muéh ... ... ... You must do it like this.
+- **着記得日日着只樣生** Tiéh kì-tit, jít-jít tiéh chièⁿ-seⁿ ... ... ... You must remember, and every day do like this.
 <!-- page:53 -->
 - **我年年着轉去** Uá nîⁿ-nîⁿ tiéh-tńg--khṳ̀ ... ... ... I must go home every year.
 - **我明年愛轉去** Uá mêⁿ-nîⁿ àiⁿ-tńg--khṳ̀ ... ... ... I shall go home next year.
@@ -1062,8 +1062,8 @@ As:—
 <!-- page:57 -->
 1. 底當時 Tiang-sî, when, read Tiang-sî.
 2. 底塊 Tî-kò, where, „ Tī-kò.
-3. 彼塊 Hṳ́-kó, there, „ Hṳ̃-kò.
-4. 怎呢 Tsò-nîⁿ, why, „ Tsó-nîⁿ.
+3. 許塊 Hṳ́-kó, there, „ Hṳ̃-kò.
+4. 做呢 Tsò-nîⁿ, why, „ Tsó-nîⁿ.
 5. 上好 Siãng-hó, best, „ Siàng-hó.
 6. 上旰 Chiēⁿ-kùa, forenoon, „ Chiẽⁿ-kùa.
 7. 失落 Sit-lóh, to lose, „ Sít-lóh.
@@ -1133,8 +1133,8 @@ Chiàⁿ 正 (just) and 識[訓] pat (ever) can be used both to questions and an
 <!-- page:60 -->
 - **伊正來** I chiàⁿ-lâi ... ... ... He has just come.
 - **汝此陣正來** Lṳ́ chi-tsûn chìaⁿ-lâi? ... ... ... Have you just now come?
-- **汝早識[訓]來此塊咩** Lṳ́ tsá pat-lâi--chié mē? ... ... ... Have you ever been here before?
-- **我早毋識[訓]來此塊** Uá tsá m̄-pat lâi--chié ... ... ... I have never been here before.
+- **汝早識[訓]來只塊咩** Lṳ́ tsá pat-lâi--chié mē? ... ... ... Have you ever been here before?
+- **我早毋識[訓]來只塊** Uá tsá m̄-pat lâi--chié ... ... ... I have never been here before.
 
 Ũ (have) 有 in the Perfect Tense, generally followed by the interrogative sign 亞未 a-būe, is used for questions only, and 未 būe (not yet) is used for answers, viz.—
 
@@ -1169,7 +1169,7 @@ The signs of the Potential Mood are 會 õi, 袂 bõi, 會得 õi-tit, 袂得 b�
 <!-- page:62 -->
 - **汝今夜回得來亞袂** Lṳ́ ke-mêⁿ õi-tit lâi a-bõi? ... ... ... Can you come to-night or not?
 - **我毋閒。我今夜袂得去** Uá m̄-ôiⁿ, uá ke-mêⁿ bõi-tit khṳ̀ ... ... ... I am busy, I cannot go to-night.
-- **汝通旰呾汝袂得來。汝此陣怎呢會得來** Lṳ́ thâng-kùa tàⁿ-lṳ́ bõi-tit lái, lṳ́ chí-tsûn tsò-nîⁿ õi-tit lâi? ... ... ... You said just now you could not come, how is it you can come now?
+- **汝通旰呾汝袂得來。汝此陣做呢會得來** Lṳ́ thâng-kùa tàⁿ-lṳ́ bõi-tit lái, lṳ́ chí-tsûn tsò-nîⁿ õi-tit lâi? ... ... ... You said just now you could not come, how is it you can come now?
 - **我此陣閒。故此就會得來** Uá chí-tsûn ôiⁿ, kù-tshṳ́ chiũ õi-tit lâi ... ... ... I have leisure just now, and therefore I can come.
 - **汝若是無佮伊呾。伊袂得知** Lṳ́ nāⁿ-sĩ bô kah i tàⁿ, i bõi-tit tsai ... ... ... If you did not tell him, he could not know it.
 
@@ -1218,9 +1218,9 @@ The Progressive Form is formed by the use of the word 在 tõ (in the act of) an
 The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 ióu, (a little) 過 kùe, (over) 贏 iâⁿ (to be superior, to defeat,) and 輸, (to be inferior, to be defeated.)
 
 - **愈㩼愈好** Zú-tsōi zú-hó ... ... ... The more the better.
-- **此個稍大** Chí--kâi ióu-tūa ... ... ... This is a little larger.
+- **只個稍大** Chí--kâi ióu-tūa ... ... ... This is a little larger.
 - **伊有愈㩼我** I ũ zú-tsōi uá ... ... ... He has more than I.
-- **此個敬長過彼個** Chí--kâi kèng-tn̂g kùe hṳ́-kâi ... ... ... This is longer than that.
+- **只個敬長過許個** Chí--kâi kèng-tn̂g kùe hṳ́-kâi ... ... ... This is longer than that.
 - **汝个好。我个愈更好** Lṳ́--kâi hó, uá--kâi zú-kèng hó ... ... ... Yours is good, (but) mine better.
 - **伊會走猛過我** I õi-tsáu méⁿ-kùe uá ... ... ... He can run faster than I.
 - **汝行猛過伊走** Lṳ́ kiâⁿ méⁿ-kùe i tsáu ... ... ... You walk faster than he runs.
@@ -1237,7 +1237,7 @@ The words employed in the comparative degree are 愈 zú, 敬 kèng, (more) 稍 
 The words employed in the superlative degrree are 上 siãng and 上頂 siãng-téng (supreme); the latter generally refers to the qualities of goods, viz.—
 
 - **有上大个咩** Ũ siãng-tūa--kâi mē? ... ... ... Have you the largest one?
-- **此個就是上大个** Chí--kâi chiũ-sĩ siãng-tūa kâi ... ... ... This is the largest one.
+- **只個就是上大个** Chí--kâi chiũ-sĩ siãng-tūa kâi ... ... ... This is the largest one.
 - **我愛上頂好个** Uá àiⁿ siãng-téng-hó--kâi ... ... ... I want the best (quality.)
 
 ---
@@ -1272,7 +1272,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **今旦日拜幾** Kiáⁿ-jít pài-kúi? ... ... ... What day of the week is today?
 - **今旦日拜一** Kiáⁿ-jít pài-it ... ... ... Today is Monday.
 - **汝下個拜一來** Lṳ́ ẽ-kâi pài-it lâi ... ... ... You come on Monday next.
-- **我此個禮拜毋閒在** Uá chí-kâi lói-pài m̄-ôiⁿ tsãi ... ... ... I am very busy this week.
+- **我只個禮拜毋閒在** Uá chí-kâi lói-pài m̄-ôiⁿ tsãi ... ... ... I am very busy this week.
 - **我明旦起个事㩼在** Uá màⁿ-khí kâi sṳ̄ tsōi-tsāi ... ... ... I shall have a great deal of work tomorrow.
 - **先生汝明旦起早些來** Sin-seⁿ lṳ́ màⁿ-khí tsá--chē-lâi ... ... ... Teacher, you come a little earlier tomorrow.
 - **我愛讀零些。了汝好轉來** Uá àiⁿ-ták lân-ló, lióu lṳ́ hó-tńg--khṳ̀ ... ... ... I will read a little, and then you can go.
@@ -1314,7 +1314,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **我睇歷日就知** Uá thóiⁿ láh-jíh chiũ-tsai ... ... ... Let me see the calendar, and I will know it.
 - **歷日在此。十二正是禮拜** Láh-jít tõ--chié, tsáp-jĩ chiàⁿ-sĩ lói-pài ... ... ... Here's the calendar, the twelfth will be Sunday.
 - **毋是十一** M̄-sĩ tsáp-it ... ... ... It's not the eleventh.
-- **此個月大亞是小** Chí-kâi guéh tuā a-sĩ sié? ... ... ... Is this moon long or short?
+- **只個月大亞是小** Chí-kâi guéh tuā a-sĩ sié? ... ... ... Is this moon long or short?
 - **毋知** M̄-tsai ... ... ... I don't know.
 - **月大就三十。月小就廿九** Guéh tuā chiũ saⁿ-tsáp, guéh sié chiũ jíh-káu ... ... ... In a great moon there will be thirty days, and in a small moon twenty nine.
 - **今年有閏月咩** Ke-nîⁿ ũ zūn-guéh mē? ... ... ... Is there an intercalary moon this year?
@@ -1369,13 +1369,13 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **叫司阜來補** Kiè sai-pẽ lâi póu ... ... ... Call the builder to mend them.
 - **塗骹一個禮拜着洗一下** Thôu-kha chék-kâi lói-pài tiéh sói chék-ē ... ... ... The floor must be washed once a week.
 <!-- page:71 -->
-- **樓頂樓枋亦是此樣生** Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ ... ... ... The floor up-stairs the same.
+- **樓頂樓枋亦是只樣生** Lâu-téng lâu-pang iā sĩ chièⁿ-seⁿ ... ... ... The floor up-stairs the same.
 - **個個禮拜着洗清潔清潔** Kâi-kâi lói-pài tiéh sói chheng-khih chheng-khih ... ... ... Every week you must wash it clean.
 - **灰埕亦着洗** Hue-tiâⁿ iā tiéh sói ... ... ... The lime floor must be washed.
-- **此塊排眠起早熱在** Chié pâi-mêng-khí-tsá zuáh-tsãi ... ... ... Here it is very warm every morning.
+- **只塊排眠起早熱在** Chié pâi-mêng-khí-tsá zuáh-tsãi ... ... ... Here it is very warm every morning.
 - **我愛作欄杆** Uá àiⁿ-tsò lân-kan ... ... ... I want to make a railing.
 - **汝叫司阜霎時來** Lṳ́ kiè sai-pẽ khiã-tiām lâi ... ... ... You tell the carpenter to come bye-and-bye.
-- **佮伊呾我此塊愛作欄杆** Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan ... ... ... Tell him I want to make a railing here.
+- **佮伊呾我只塊愛作欄杆** Kah i tàⁿ uá chí-kò àiⁿ-tsò lân-kan ... ... ... Tell him I want to make a railing here.
 - **司阜个內在底塊汝知咩** Sai-pẽ kâi lãi tõ tî-kò lṳ́ tsai mē? ... ... ... Do you know where the carpenter's place is?
 - **知亞** Tsai--a ... ... ... Oh yes, I know.
 - **熱在。我霎時正來去** Zuáh-tsãi, uá khiã-tiām chiàⁿ-lâi-khṳ̀ ... ... ... It is very warm (now), I will go bye-and-bye.
@@ -1407,7 +1407,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **門有關亞無** Mn̂g ũ kueⁿ a-bô? ... ... ... Did you shut the door?
 - **有。關了我鎖定** Ũ, kueⁿ-lióu uá só--tiāⁿ ... ... ... Yes, after shutting I locked it.
 - **鎖匙在底塊** Só-sî tõ tî-kò? ... ... ... Where is the key?
-- **鎖匙在此塊** Só-sî tõ--chié? ... ... ... Here's the key.
+- **鎖匙在只塊** Só-sî tõ--chié? ... ... ... Here's the key.
 - **汝个房个門有鎖咩** Lṳ́ kâi pâng kâi mn̂g ũ só mē? ... ... ... Did you lock the door of your room?
 - **我个房怎用鎖** Uá kâi pâng tsò-ēng só ... ... ... Why? my room needn't be locked.
 - **廳有人[訓]客亞無** Thiaⁿ ũ nâng-kheh a-bô? ... ... ... Are there any guests in the drawing room?
@@ -1455,7 +1455,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **信關在礐石** Sìn-kuan tõ Kak-chiéh ... ... ... The post-office is at Kak-chieh.
 - **汝知炮臺在底塊** Lṳ́ tsai phàu-thâi tõ tî-kò? ... ... ... You know where the fort is?
 - **毋知。我早毋識[訓]來此汕頭** M̄ tsai, uá tsá m̄-pat lâi chí Suaⁿ-thâu ... ... ... I don't know, I have never been at Swatow before.
-- **我此個地方毋熟** Uá chí-kâi tī-hng m̄-sék ... ... ... I am not familiar with this place.
+- **我只個地方毋熟** Uá chí-kâi tī-hng m̄-sék ... ... ... I am not familiar with this place.
 - **汝貴處** Lṳ́ tî-kò húe? ... ... ... Where do you belong to?
 - **我庵埠處** Uá Am-pou húe ... ... ... I belong to Am-pou.
 - **汝嘗識[訓]去府城咩** Lṳ́ khah-pat khṳ̀ Hú-siâⁿ mē? ... ... ... Have you ever been to Ch'ao-chow-fu?
@@ -1470,7 +1470,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 <!-- page:76 -->
 - **各個埠頭都有市** Kâi-kâi pou-thâu tou ũ chhĩ ... ... ... There is a market in every town.
 - **香港有大行** Hiang-káng ũ tūa-hâng ... ... ... There are large hongs in Hong Kong.
-- **在彼個舖危大** Tõ-hié kâi phòu kûiⁿ-tūa ... ... ... The shops there are high and large.
+- **在許個舖危大** Tõ-hié kâi phòu kûiⁿ-tūa ... ... ... The shops there are high and large.
 - **有个舖三四沿危** Ũ-kâi phòu saⁿ-sì în kûiⁿ ... ... ... Some shops there are three or four stories high.
 - **汝在彼有幾間厝** Lṳ́ tõ-hié ũ kúi-koiⁿ tshù? ... ... ... How many houses have you there?
 - **我在彼有一間** Uá tõ-hié ũ chék-koiⁿ ... ... ... I have one house there.
@@ -1564,7 +1564,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 
 ---
 <!-- page:80 -->
-- **此個人[訓]壯在** Chí-kâi nàng tsàng-tsãi ... ... ... This man is very strong.
+- **只個人[訓]壯在** Chí-kâi nàng tsàng-tsãi ... ... ... This man is very strong.
 - **我个頭毛長了** Uá kâi thâu-môⁿ tn̂g--lō ... ... ... My hair is long.
 - **我愛剃頭** Uá àiⁿ thì-thâu ... ... ... I want to shave.
 - **汝个手伸出來** Lṳ́ kâi chhiú tshun--tshut-lâi ... ... ... Stretch out your hand.
@@ -1575,7 +1575,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **伊死了** I sí--lō ... ... ... He is dead.
 - **汝在批底個** Lṳ́ tõ phoi tî-kâi? ... ... ... What are you cutting?
 - **我在批我个指甲** Uá tõ phoi uá kái tsńg-kah ... ... ... I am cutting my nails.
-- **此個人[訓]肥在** Chí-kâi nâng pûi-tsãi ... ... ... This man is very fat.
+- **只個人[訓]肥在** Chí-kâi nâng pûi-tsãi ... ... ... This man is very fat.
 - **伊愛留鬚** I àiⁿ lâu-chhiu ... ... ... He wants to keep his beard.
 - **伊个頭毛挐挐** I kâi thâu-môⁿ zṳ̂-zṳ̂ ... ... ... His hair is rough.
 - **伊無梳頭** I bô siu-thâu ... ... ... He doesn't comb his hair.
@@ -1650,7 +1650,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **汝曉彈琴亞毋曉** Lṳ́ hióu tūaⁿ-khîm a m̄-hióu? ... ... ... Do you know how to play the piano?
 <!-- page:84 -->
 - **我曉** Uá hióu ... ... ... I know.
-- **此個尪囝雅在** Chí-kâi ang-kiáⁿ ngiá-tsãi ... ... ... This picture is very beautiful.
+- **只個尪囝雅在** Chí-kâi ang-kiáⁿ ngiá-tsãi ... ... ... This picture is very beautiful.
 - **燈拭毋清潔** Teng chhit m̄-chheng-khi ... ... ... The lamps are not wiped clean.
 - **佮四指呾，叫伊另外拭** Kah sì-tsóiⁿ tàⁿ, hàm i lêng-ngūa chhit ... ... ... Tell the boy to wipe the lamps again.
 - **汝此內有一撮奇巧物** Lṳ́ chí-lãi ũ chék-tshoh khî-khá-muéh ... ... ... You have a quantity of curiosities in your house.
@@ -1663,7 +1663,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **在此好放一張四方床** Tõ-chié hó-sāi chék-tieⁿ sì-pang tshn̂g ... ... ... Here can be put a square table.
 - **此張圓床來徙放別塊** Chí-tieⁿ îⁿ-tshn̂g lâi suá pàng pát-kò ... ... ... Let us remove this round table to some other place.
 - **愛徙放底塊** Àiⁿ-súa pàng tî-kò? ... ... ... Where shall we remove it to?
-- **此張冊架來徙放此塊** Chí-tieⁿ chheh-kè lài súa pàng chié; ... ... ... Let us remove the book-stand here;
+- **此張冊架來徙放只塊** Chí-tieⁿ chheh-kè lài súa pàng chié; ... ... ... Let us remove the book-stand here;
 - **圓床來放彼** Îⁿ-tshn̂g lâi-sāi pàng-hié… ... ... ... And place the round table there.
 - **汝去我寫字床挈一枝鉛筆來** Lṳ́ khṳ̀ uá siá-jī-tshn̂g khiéh chék-ki în-pit lâi ... ... ... You go to my writing desk and get me a pencil
 <!-- page:85 -->
@@ -1817,7 +1817,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 <!-- page:92 -->
 - **食了挈洗手杯來** Chiáh-lióu khiéh sói-chhiú-pue lái ... ... ... After dinner get the finger bowls.
 - **盤一樣食了着換** Pûaⁿ chék-iēⁿ chiáh-lióu tiéh-uāⁿ ... ... ... The plates must be changed after every course.
-- **刀叉亦是此樣生** To-chhe iā sĩ chièⁿ-seⁿ ... ... ... So also the knives and forks.
+- **刀叉亦是只樣生** To-chhe iā sĩ chièⁿ-seⁿ ... ... ... So also the knives and forks.
 - **挈一玻璃杯凊水乞我** Khíeh chék po-lî-pue chhìn-tsúi khoih uá ... ... ... Get me a tumbler of cold water.
 - **我愛食** Uá àiⁿ-chiáh ... ... ... I want to drink.
 - **盤碗食了着洗** Pûaⁿ-uáⁿ chiáh-lióu tiéh-sói ... ... ... After dinner you must wash the dishes.
@@ -1828,7 +1828,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **有五個定定** Ũ ngõu-kâi tiāⁿ-tiāⁿ ... ... ... There are only five.
 - **五個定定。加一個乞底誰扣破** Ngõu-kâi tiāⁿ-tiāⁿ, ke chék-kâi khoih tî-tiâng khà-tiòu? ... ... ... Only five? Who has broken the other five?
 - **我哩毋知** Uá li m̄-tsai ... ... ... I don't know.
-- **汝怎呢好毋知。物件是汝管个** Lṳ́ tsò-nîⁿ hó m̄-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi ... ... ... How is it you don't know, the things are in your charge.
+- **汝做呢好毋知。物件是汝管个** Lṳ́ tsò-nîⁿ hó m̄-tsai, muéh-kiãⁿ sĩ lṳ́ kuáⁿ-kâi ... ... ... How is it you don't know, the things are in your charge.
 - **我煩惱。我哩割汝个工錢** Uá huân-ló, uá li kuah lṳ́ kâi kang-chîⁿ ... ... ... I don't care, I will cut your wages.
 - **無。汝哩去買一個來賠我** Bô, lṳ́ li khṳ̀-bói chék-kâi lâi pûe uá ... ... ... Otherwise, you had better go and buy one to compensate me.
 <!-- page:93 -->
@@ -2118,7 +2118,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **十六粒烙半生熟** Tsáp-lák liáp luah pùaⁿ-chheⁿ sék ... ... ... Half-fry sixteen of them.
 - **賰十四粒做粿** Tshûn tsáp-sì liáp tsò-kúe ... ... ... The remaining fourteen make them into cakes.
 - **着選鮮个** Tiéh suán chhiⁿ--kâi ... ... ... You must choose fresh ones.
-- **就是此樣生** Chiũ-sĩ chièⁿ-seⁿ ... ... ... That's all.
+- **就是只樣生** Chiũ-sĩ chièⁿ-seⁿ ... ... ... That's all.
 - **飯勿烳較糜** Pn̄g màiⁿ-pû khah-mîⁿ ... ... ... Don't boil the rice to soft.
 - **咖喱勿煮過薟** Ka-lî màiⁿ-tsṳ́ khah-hiam ... ... ... Don't make the curry too hot.
 - **食飯無鹹酸食毋落** Chiáh-pn̄g bô kiâm-sng chiáh m̄-lóh ... ... ... To take rice without relish it cannot be eaten.
@@ -2423,12 +2423,12 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **燃** Hiâⁿ ... ... ... To burn; to boil as a large quantity of water.
 - **燃塗炭** Hiâⁿ-thôu-thùaⁿ ... ... ... To burn coal.
 - **燃柴** Hiâⁿ-tshâ ... ... ... To burn fire wood.
-- **藥機** Iéh-kúi ... ... ... Engine.
+- **藥鬼** Iéh-kúi ... ... ... Engine.
 - **輪** Lín ... ... ... A wheel.
 - **車** Chhia ... ... ... A propeller.
 - **紡** Pháng ... ... ... To propel.
-- **開藥機** Khui iék-kúi ... ... ... To start engine.
-- **關藥機** Kueⁿ iéh-kúi ... ... ... To stop engine.
+- **開藥鬼** Khui iék-kúi ... ... ... To start engine.
+- **關藥鬼** Kueⁿ iéh-kúi ... ... ... To stop engine.
 - **舵** Tũa ... ... ... A rudder.
 - **掠舵** Liáh-tũa ... ... ... To steer.
 <!-- page:121 -->
@@ -2448,7 +2448,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **船主** Tsûn-tsú ... ... ... Captain.
 - **大伙** Tūa-húe ... ... ... Chief mate.
 - **二伙** Jĩ-húe ... ... ... Second mate.
-- **管藥機个人[訓]** Kuán-iéh-kúi--kâi-nâng ... ... ... Engineer.
+- **管藥鬼个人[訓]** Kuán-iéh-kúi--kâi-nâng ... ... ... Engineer.
 - **燃火个人[訓]** Hiâⁿ-húe--kâi-nâng ... ... ... Stoker.
 - **掠舵** Liáh-tũa ... ... ... Steersman.
 - **舵工** Tãi-kong ... ... ... Steersman.
@@ -2828,7 +2828,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **絲線** Si-sùaⁿ ... ... ... Silk thread.
 - **銅指** Tâng-tsóiⁿ ... ... ... A thimble.
 - **鉸刀** Ka-to ... ... ... Scissors.
-- **縫衫藥機** Thīⁿ-saⁿ iéh-kúi ... ... ... A sewing machine.
+- **縫衫藥鬼** Thīⁿ-saⁿ iéh-kúi ... ... ... A sewing machine.
 - **尺** Chhieh ... ... ... A measure.
 - **布尺** Pòu-chhieh ... ... ... A tape-line, or cloth measure.
 - **縫** Thīⁿ ... ... ... To sew.
@@ -3650,12 +3650,12 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 ### Lesson XXIX. Notes—Medical.
 - **我今旦日人[訓]毋孬** Uá kiáⁿ-jít nâng m̄-móⁿ ... ... ... I am unwell today.
 - **汝能可去倒** Lṳ́ nêng-kò khṳ̀-tó ... ... ... You had better go and lie down.
-- **汝个人[訓]怎呢** Lṳ́ kâi nâng tsò-nîⁿ? ... ... ... What is the matter with you?
+- **汝个人[訓]做呢** Lṳ́ kâi nâng tsò-nîⁿ? ... ... ... What is the matter with you?
 - **人[訓]熱** Nâng zuáh ... ... ... I have got fever.
 - **愛請先生咩** Âiⁿ-chhiáⁿ sin-seⁿ mē? ... ... ... Do you wish to engage a doctor?
 - **汝个脈猛** Lṳ́ kâi méhⁿ méⁿ ... ... ... Your pulse is fast.
 - **我零些寒藥分汝食** Uá lân-ló kûaⁿ-iéh pun lṳ́ chiáh ... ... ... I will give you some quinine to take.
-- **怎呢食** Tsò-nîⁿ-chiáh? ... ... ... How am I to take it?
+- **做呢食** Tsò-nîⁿ-chiáh? ... ... ... How am I to take it?
 - **配點囝凊水** Thōu tiám-kiáⁿ chhìn-tsúi ... ... ... Take it with a little cold water.
 - **三包在此** Saⁿ-pau tõ-chié ... ... ... Here's three packets.
 - **一日食三頓** Chék-jít chiáh saⁿ-tǹg ... ... ... Take one packet three times a day.
@@ -3746,18 +3746,18 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **毋孬做賊** M̄-móⁿ tsǒ-tshát ... ... ... Don't be a thief.
 <!-- page:182 -->
 - **毋孬偷挈人[訓]个物** M̄-móⁿ thau-khiéh nâng kâi muéh ... ... ... Mustn't steal other peoples things.
-- **此個賊是離經** Chí-kâi tshát sĩ lî-keng ... ... ... This thief is dangerous.
+- **只個賊是離經** Chí-kâi tshát sĩ lî-keng ... ... ... This thief is dangerous.
 - **昨夜伊剌死人[訓]** Tsa-mêⁿ i tshǹg-sí nâng ... ... ... Last night he stabbed a man to deat.h
 - **伊乞我掠着** I khoih uá liáh--tiéh ... ... ... He was caught by me.
 - **我就掠伊去衙門塊** Uá chiũ liáh i khṳ̀ gê-mn̂g--kō ... ... ... And I took him to the yamên.
 - **交伊分差役个手** Kau i pun chhe-hiáh kái chhiú ... ... ... And handed him over to the police.
 - **着拍伊到爛爛** Tiéh-phah i kàu lok-lok ... ... ... Must beat him very severely;
 - **下日伊正毋敢** Ẽ-jít i chiàⁿ-m̄-káⁿ ... ... ... So that he may not dare to do it again.
-- **此個官府公道** Chí-kâi kuaⁿ-hú kong-tãu ... ... ... This mandarin is just.
+- **只個官府公道** Chí-kâi kuaⁿ-hú kong-tãu ... ... ... This mandarin is just.
 - **無枉屈人[訓]** Bô-uáng-khut nâng ... ... ... He does not deal with people unjustly.
 - **亦無食人[訓]个錢** Iā bô chiáh nâng kâi chîⁿ ... ... ... Nor does he take bribes.
 - **人[訓]忠直** Nâng tong-tít ... ... ... He is a straight-forward man.
-- **百姓呵咾此個官府** Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú ... ... ... The people praise this mandarin.
+- **百姓呵咾只個官府** Peh-sèⁿ o-ló chí-kâi kuaⁿ-hú ... ... ... The people praise this mandarin.
 - **伊愛高升了** I àiⁿ-kau-seng--lō ... ... ... He is going to be promoted.
 - **雖然律是嚴。還了恁着順** Sui-jiên lút sĩ ngiâm, huân-lióu nín tiéh sũn ... ... ... Though the law is strict, yet you must obey it.
 - **犯律个人[訓]着受罰** Huãm-lút--kâi-nâng tiéh siũ-huát ... ... ... Those who break the law should be punished.
@@ -3773,7 +3773,7 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **老爺審到酷久了。人[訓]熱在** Lãu-tia sím kàu hoh-kú--lō, nâng zuáh-tsãi ... ... ... The mandarin after a long trial found it rather warm.
 - **粒頂就脫掉放在床頂** Liáp-téng chiũ thut-tiòu pàng tõ tshn̂g-téng ... ... ... And he took off his hat to which the button was attached and put it on the table.
 - **秀才在跪隨時就起來** Siù-tsâi tõ-kũi sûi-sî chiû khí--lâi ... ... ... The graduate who was kneeling down at once got up.
-- **老爺問伊呾。汝怎呢起來呢** Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?" ... ... ... The mandarin asked him and said, "Why do you get up"?
+- **老爺問伊呾。汝做呢起來呢** Lãu-tia mn̄g i tàⁿ, "lṳ́ tsò-nîⁿ khí--lâi nē?" ... ... ... The mandarin asked him and said, "Why do you get up"?
 - **秀才就呾。我是跪皇帝。毋是跪汝** Siù-tsâi chiũ tàⁿ-tàⁿ, "uá sĩ kũi Huâng-tì, m̄-sĩ kũi-lṳ́" ... ... ... The graduate said, "I kneel down to the Emperor, not to you."
 - **秀才就出去** Siû-tsâi chiũ tshut--khṳ̀ ... ... ... And the graduate walked out.
 - **明旦起伊个案再審** Màⁿ-khí i kâi uàⁿ tsài-sím ... ... ... The next day his case was tried again.
@@ -3789,10 +3789,10 @@ The words employed in the superlative degrree are 上 siãng and 上頂 siãng-t
 - **荷蘭西个兵來未齊** Hô-lân-se kâi-piaⁿ lâi būe-tsôi ... ... ... The French troops have not all arrived yet.
 <!-- page:184 -->
 - **𪜶若是來齊就愛直直去京城塊** In nāⁿ-sĩ lâi-tsôi chiũ àiⁿ tít-tít khṳ̀ kiaⁿ-siâⁿ--kō; ... ... ... If they all have come out, they will go direct to the capital;
-- **在彼塊輸贏** Tõ-hṳ́--kō su-iâⁿ ... ... ... And there, it will be either won or lost.
+- **在許塊輸贏** Tõ-hṳ́--kō su-iâⁿ ... ... ... And there, it will be either won or lost.
 - **現時在臺灣塊有相刣** Hīn-sî tõ Tâi-uân--kō ũ sie-thâi ... ... ... At present there are battles going on in Formosa.
 - **雞籠乞荷蘭西拍去了** Koi-lâng khoih Hô-lân-se phah--khṳ̀-lō ... ... ... Keelung is taken by the French.
-- **在彼塊个炮臺攏總乞伊个戰船霧掉** Tõ-hié kâi phâu-thâi lông-tsóng khṳt i kâi chiên-tsûn bū tiòu ... ... ... All the forts there have been bombarded by their war vessels.
+- **在許塊个炮臺攏總乞伊个戰船霧掉** Tõ-hié kâi phâu-thâi lông-tsóng khṳt i kâi chiên-tsûn bū tiòu ... ... ... All the forts there have been bombarded by their war vessels.
 - **伊个船个銃有个大枝過炮臺个** I kâi tsûn kâi-chhèng ũ-kâi tūa-ki kùe phâu-thâi--kâi ... ... ... Some of the guns of their ships are larger than those of the forts there.
 - **伊九隻戰船就去霧福州** I káu-chiah chièn-tsûn chiũ khṳ̀ bū Hok-chiu ... ... ... They had nine vessels, and they went to bombard Foochow.
 - **唐人[訓]个戰船攏總沉去** Tn̂g-nâng kâi chièn-tsûn lóng-tsóng tîm--khṳ̀ ... ... ... The Chinese war vessels were all sunk.
